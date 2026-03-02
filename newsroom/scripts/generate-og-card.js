@@ -130,10 +130,7 @@ function generateOGCard({ headline, category = 'policy', outputPath, date }) {
   ctx.textBaseline = 'bottom';
   ctx.fillText('AskedTech', W - 48, H - 40);
 
-  // ── AI 공개 ──
-  ctx.font = '15px NotoKR';
-  ctx.fillStyle = '#94a3b8';
-  ctx.fillText('AI Generated · AI 기본법 제31조', W - 48, H - 66);
+
 
   // ── 저장 ──
   const buffer = canvas.toBuffer('image/png');
