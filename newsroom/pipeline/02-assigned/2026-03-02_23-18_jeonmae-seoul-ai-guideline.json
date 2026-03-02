@@ -1,0 +1,20 @@
+{
+  "id": "20260302231801-jeonmae",
+  "stage": "assigned",
+  "created_at": "2026-03-02T23:18:00+01:00",
+  "priority": 2,
+  "source": {
+    "title": "서울시교육청, '인간 중심 AI 교육' 가이드라인 배포",
+    "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1234682",
+    "source_name": "jeonmae.co.kr (전매)",
+    "relevance_score": 80,
+    "summary": "서울시교육청이 'AI·에듀테크 공교육 도입 및 활용 가이드라인'을 개발해 각급학교에 배부했다. 학생이 기술에 종속되는 수동적 존재가 되지 않도록 인간 중심 원칙을 강조하며, AI 활용 교육의 방향성을 제시하는 내용을 담고 있다.",
+    "tags": ["서울교육청", "AI가이드라인", "공교육", "인간중심교육", "정책"],
+    "collected_via": "brave_search"
+  },
+  "desk_instructions": "서울시교육청 AI 교육 가이드라인 배포 내용 취재. 핵심 포인트: (1) 인간 중심 원칙의 구체적 내용(수동적 기술 종속 방지 조항 등), (2) 타 시도교육청과 비교(유사 가이드라인 유무), (3) 교사·학생 현장 반응. 서울시교육청이 바당 플랫폼 공동 개발 주관 교육청임을 참고할 것 — 인프라 구축과 가이드라인 정책의 연관성 각도로 취재 가능.",
+  "audit_log": [
+    { "agent": "source-collector", "action": "collected", "timestamp": "2026-03-02T23:18:00+01:00", "note": "관련성 80점, 쿼리: AI 교육 정책 한국, 1시간 전 발행" },
+    { "agent": "editor-desk", "action": "assigned", "timestamp": "2026-03-02T23:44:00+01:00", "note": "관련성 80 — 배정 기준(75+) 충족. 서울시교육청 가이드라인 배포 시의성 높음. 취재 배정." }
+  ]
+}

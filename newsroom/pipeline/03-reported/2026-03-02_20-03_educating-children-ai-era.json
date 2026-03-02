@@ -1,0 +1,93 @@
+{
+  "id": "20260302-2003-001",
+  "stage": "reported",
+  "created_at": "2026-03-02T20:03:00+01:00",
+  "priority": 2,
+  "source": {
+    "title": "Educating children for the AI era without weakening cognition",
+    "url": "https://koreajoongangdaily.joins.com/news/2026-03-03/opinion/columns/Educating-children-for-the-AI-era-without-weakening-cognition/2534852",
+    "source_name": "Korea JoongAng Daily",
+    "relevance_score": 82,
+    "summary": "한국 정부가 초·중·고 전 학년 대상 AI 필수교육 도입을 포함한 국가 AI 행동계획을 발표했다는 내용을 다룬 오피니언 칼럼. 교육과정 및 교과서 개정도 함께 추진된다. AI 활용 강화와 인지능력 약화 방지 사이의 균형을 논의한다.",
+    "tags": ["policy", "curriculum", "K-12", "korea"],
+    "collected_via": "brave_search"
+  },
+  "desk_instructions": "한국 정부의 K-12 AI 필수교육 도입 계획을 중심으로, AI 활용 vs. 인지능력 보호 사이의 균형 논쟁을 앵글로 잡을 것. 교육부 공식 발표 내용 확인 필수. 교육 전문가(찬반) 및 학부모 관점 포함 권장. 이미 배정된 '영·미 거버넌스' 기사(20260302-1153-001)와 중복 최소화 — 한국 국내 정책 및 현장 반응에 집중.",
+  "reporting_brief": {
+    "facts": [
+      {
+        "claim": "한국 정부는 2026년 초 초·중·고 전 학년 AI 필수교육과 교육과정·교과서 개정을 포함한 국가 AI 행동계획을 공식 발표했다.",
+        "source_url": "https://koreajoongangdaily.joins.com/news/2026-03-03/opinion/columns/Educating-children-for-the-AI-era-without-weakening-cognition/2534852",
+        "quote": "Earlier this year, the government unveiled a national action plan on AI that includes mandatory AI education at all levels of elementary, middle and high school, along with revisions to curricula and textbooks."
+      },
+      {
+        "claim": "국가 AI 전략위원회는 2026년 2월 25일 서울에서 제2차 전체회의를 열고 '대한민국 인공지능 행동계획(2026~2028)'을 확정했다. 99개 실행 과제, 300개 이상 정책 권고안 포함.",
+        "source_url": "https://babl.ai/south-korea-approves-national-ai-action-plan-as-strategy-committee-finalizes-2026-2028-roadmap/",
+        "quote": "The newly adopted 'Republic of Korea Artificial Intelligence Action Plan,' which serves as the country's Basic Plan for Artificial Intelligence from 2026 to 2028, outlines a comprehensive strategy designed to embed AI across government, industry and society."
+      },
+      {
+        "claim": "교육부는 2025년 11월 10일 'AI for All Initiative'를 발표하며 전 연령대 AI 교육 확대 및 엘리트 인재 양성을 함께 추진한다고 밝혔다. AI 혁신 인재 파이프라인, AI 중점 고교·대학 확대 등 포함.",
+        "source_url": "https://www.koreaherald.com/article/10643310",
+        "quote": "Following President Lee's call to accelerate AI adoption in education, the Ministry of Education unveiled on Nov. 10 the 'AI for All Initiative,' a nationwide plan to expand AI education across all age groups while fast-tracking elite talent."
+      },
+      {
+        "claim": "한국언론진흥재단의 '2025 청소년 미디어 이용 조사'에 따르면 청소년 10명 중 7명이 대화형·생성형 AI 도구를 사용한 경험이 있다.",
+        "source_url": "https://koreajoongangdaily.joins.com/news/2026-03-03/opinion/columns/Educating-children-for-the-AI-era-without-weakening-cognition/2534852",
+        "quote": "According to the Korea Press Foundation's '2025 Youth Media Use Survey,' seven out of 10 adolescents have used conversational or generative AI tools."
+      },
+      {
+        "claim": "OECD 보고서: AI에 의존한 학생들은 단기 성적은 오를 수 있으나 장기적으로는 AI 미사용 학생들보다 성과가 낮다는 연구 결과가 여러 국가 사례 연구에서 나타났다.",
+        "source_url": "https://koreajoongangdaily.joins.com/news/2026-03-03/opinion/columns/Educating-children-for-the-AI-era-without-weakening-cognition/2534852",
+        "quote": "Case studies from several countries show that students who rely on AI may see short-term gains in grades but ultimately perform worse than peers who studied without such tools."
+      },
+      {
+        "claim": "케임브리지대학 연구: 인간 뇌는 9~32세 사이 급격하게 발달하며, 이 시기 AI에 정보처리를 위탁하면 뇌 발달이 미완성될 수 있다.",
+        "source_url": "https://koreajoongangdaily.joins.com/news/2026-03-03/opinion/columns/Educating-children-for-the-AI-era-without-weakening-cognition/2534852",
+        "quote": "If students outsource information processing to AI tools during these years, the brain may develop less fully."
+      },
+      {
+        "claim": "서울시교육청은 2030년까지 학교 시험 문제의 50%를 서술형·논술형으로 전환할 계획이라고 밝혔다.",
+        "source_url": "https://www.koreaherald.com/article/10643310",
+        "quote": "Seoul Superintendent Jung Geun-sik said Tuesday that the city plans to expand short-answer and essay-based questions, which would make up 50 percent of school exam questions by 2030."
+      }
+    ],
+    "perspectives": [
+      "찬성(AI 교육 확대): 이재명 대통령 - '세계 3대 AI 강국' 목표 달성을 위해 AI 교육 전면 실시 필요. 서울시교육청 이상수 교육정책국장 - '모든 학생이 AI 개발자가 될 필요는 없다. 다양한 교과목에서 AI를 도구로 활용하는 법을 가르치는 것이 목표'.",
+      "반대/우려(인지능력 약화): 권정민 교수(서울교대 AI·인문융합) - '교육부 정책은 매우 근시안적이다. 장기적 비전이 없다. AI는 그저 도구일 뿐이며, 도구 학습이 교육의 목적이 될 수는 없다. 현재 학생들은 AI로 글을 쓴 뒤 자신이 쓴 내용조차 기억하지 못한다.' 이한섭 전교조 정책실장 - '학생들이 기술을 비판적·주도적으로 활용할 수 있는 AI 교육이 시급하다. 현재 정책은 지나치게 인력 양성에 치우쳐 있다.'",
+      "학술계(균형론): 강혜련 이화여대 명예교수(칼럼 저자) - OECD 권고 인용, 주요 교과목의 핵심 지식과 기술은 AI 도움 없이 먼저 습득해야 한다. 계산기 사용 전 기본 산수를 배우는 것처럼. Google DeepMind CEO 데미스 하사비스도 유사한 입장.",
+      "현장 교사: 교육청·에듀테크 기업이 개발한 AI 평가도구를 테스트한 교사 15명 설문(경향신문)에서 개인화 피드백은 장점으로 꼽혔으나, 일부는 수작업보다 더 많은 노력이 든다고 응답. 윤리·데이터보호·책임 등에 우려."
+    ],
+    "suggested_angle": "정부의 K-12 AI 필수교육 드라이브 vs. '인지능력 약화' 경고 — 속도 내는 정책과 뒤처지는 교육 목적론. 교육부의 'AI for All Initiative'가 엘리트 AI 인재 양성과 전체 학생 리터러시라는 두 마리 토끼를 잡을 수 있는가? 전문가들은 근본적인 교육과정 개혁 없이 AI 도구를 먼저 도입하는 것이 오히려 학생들의 사고력을 퇴화시킬 수 있다고 경고한다.",
+    "sources_used": [
+      "https://koreajoongangdaily.joins.com/news/2026-03-03/opinion/columns/Educating-children-for-the-AI-era-without-weakening-cognition/2534852",
+      "https://babl.ai/south-korea-approves-national-ai-action-plan-as-strategy-committee-finalizes-2026-2028-roadmap/",
+      "https://www.koreaherald.com/article/10643310"
+    ],
+    "gaps": [
+      "교육부 공식 'AI 국가 행동계획' 발표 원문(한국어) 직접 확인 필요 — moe.go.kr에서 구체적 고시 내용 확인 요망",
+      "학부모 단체(예: 전국학부모단체연합) 공식 입장 미확보",
+      "AI 디지털교과서 실제 현장 적용 결과(2025년 시범 도입 성과) 데이터 부재",
+      "한국 청소년 인지능력 변화 관련 국내 독자적 연구 데이터 미확인 (Jared Horvath 보고서는 미국 대상)"
+    ]
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector",
+      "action": "collected",
+      "timestamp": "2026-03-02T20:03:00+01:00",
+      "note": "관련성 82점 — 초중고 AI 필수교육 국가계획 언급, 4시간 전 발행"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-02T20:37:00+01:00",
+      "note": "관련성 점수 82 (≥75) — 취재 배정. K-12 AI 의무교육 국내 앵글 집중."
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-02T21:17:00+01:00",
+      "note": "원본 칼럼 전문 수집. Korea Herald, BABL AI 추가 소스 3개 확보. 찬반 전문가 포함 취재 브리프 완성."
+    }
+  ]
+}
