@@ -1,0 +1,195 @@
+{
+  "id": "20260302-1153-001",
+  "stage": "revising",
+  "created_at": "2026-03-02T11:53:00+01:00",
+  "priority": 2,
+  "source": {
+    "title": "AI 교육혁명 2026: 영국·미국 동시 착수한 거버넌스 강화와 한국의 과제",
+    "url": "https://www.kjob.news/news/470555",
+    "source_name": "전국인력신문",
+    "relevance_score": 82,
+    "summary": "2026년 2월 26일 영국 의회 교육특별위원회가 AI·에듀테크가 유아원부터 대학까지 미치는 영향을 조사하는 공식 조사를 시작했다. 미국도 동시에 AI 교육 거버넌스를 강화하는 흐름 속에서, 한국이 자체 기준을 정비해야 한다는 논의가 제기됐다. 국제 동향을 반영한 한국의 교육 AI 정책 과제를 종합 분석한 기사.",
+    "tags": [
+      "policy",
+      "governance",
+      "international",
+      "UK",
+      "Korea"
+    ],
+    "collected_via": "brave_search"
+  },
+  "reporting_brief": {
+    "facts": [
+      {
+        "claim": "2026년 2월 26일 영국 의회 교육특별위원회(Education Select Committee)가 AI와 에듀테크가 유아원~대학 전 교육 단계에 미치는 영향을 조사하는 공식 조사를 시작했다.",
+        "source_url": "https://committees.parliament.uk/committee/203/education-committee/news/212112/ai-and-edtech-mps-launch-new-inquiry-examining-technologys-role-in-education/",
+        "quote": "Our inquiry will take a hard look at the evidence, and separate AI fact from fiction. We will explore how AI and EdTech are already being used and consider how the Government can balance its benefits with safeguards against the risks it poses."
+      },
+      {
+        "claim": "영국 Schools Week 설문조사에 따르면 현재 영국 교사의 60%가 교육 업무 목적으로 AI를 사용하며, 20% 이상이 매일 활용하고 있다.",
+        "source_url": "https://www.kjob.news/news/470555",
+        "quote": "현재 영국의 교사들 중 60%가 교육 업무 목적으로 AI를 사용하고 있으며, 이 중 5분의 1 이상(20% 이상)이 매일 AI를 활용하고 있는 것으로 나타났다."
+      },
+      {
+        "claim": "2026년 2월 24일 마이크로소프트 교육·인력정책 담당 선임이사 앨리슨 녹스(Allyson Knox)가 미국 하원 교육·노동 소위원회에서 'AI 준비된 미국 구축: AI 시대의 교육'을 주제로 증언했다.",
+        "source_url": "https://www.kjob.news/news/470555",
+        "quote": "마이크로소프트의 교육 및 인력 정책 담당 선임 이사인 앨리슨 녹스(Allyson Knox)는 미국 하원 교육 및 노동 소위원회(House Education and Workforce Subcommittee)에서 'AI 준비된 미국 구축: AI 시대의 교육(Building an AI-Ready America: Education in the Age of AI)'이라..."
+      },
+      {
+        "claim": "맥쿼리 그룹(Macquarie Group) 보고서(2026.02.26)는 교육 분야 AI의 3대 영향 영역을 ①행정·운영 효율화, ②개인화 학습 경험, ③저위험 튜터링·생성형 피드백으로 제시했다.",
+        "source_url": "https://www.kjob.news/news/470555",
+        "quote": "첫째, 행정 및 운영 효율성 증대를 통해 교사들이 교육 본연의 업무에 더 집중할 수 있도록 지원합니다. 둘째, 개인화된 학습 경험 제공으로 학생 맞춤형 교육이 가능해집니다. 셋째, 튜터링 및 생성형 피드백과 같은 저위험 애플리케이션을 통해 학습 효과를 극대화합니다."
+      },
+      {
+        "claim": "OECD 평가에서 한국은 디지털 정부 부문 33개국 중 1위를 기록하며 AI 거버넌스 역량을 공식 인정받았다.",
+        "source_url": "https://www.oecd.org/en/publications/digital-government-review-of-korea_9defc197-en/full-report/leveraging-ai-for-government-transformation_64eb9a1e.html",
+        "quote": "Korea ranks first among the 33 OECD countries assessed, followed by France, Estonia, the United Kingdom, and Denmark"
+      }
+    ],
+    "perspectives": [
+      "국제 트렌드 (기회론): 영국·미국이 동시에 AI 교육 거버넌스를 강화하는 흐름은 한국에 정책 학습의 기회다. 한국은 디지털 정부 OECD 1위로 이미 인프라 경쟁력을 갖추고 있다.",
+      "한국의 취약점 (격차 우려): 영국 조사위원회는 AI 접근성 격차로 인한 학생 간 불평등 심화를 주요 위험 요소로 지목했다. 한국도 수도권-비수도권, 소득 계층별 에듀테크 활용 격차가 존재한다.",
+      "아동 권리와 데이터 프라이버시: 영국 조사위원회는 중독성 설계(addictive design features)가 아동에게 미칠 안전 위험을 집중 논의할 예정이다. 한국의 디지털 교과서 정책에서도 동일한 논점이 제기될 수 있다."
+    ],
+    "suggested_angle": "영국·미국이 AI 교육 거버넌스 조사를 '동시에' 시작한 것은 글로벌 패턴이 형성되고 있다는 신호다. 한국은 OECD 디지털 정부 1위 국가로서 어떤 AI 교육 거버넌스 모델을 선택할 것인지 — 규제 중심(영국식) vs. 산업 육성 중심(미국식) — 의 기로에 서 있다는 앵글로 접근할 수 있다. 교육부의 AI 윤리 가이드라인(동일 주간 발표)과 연계해 '한국 모델의 방향성'을 분석하는 기사가 적합하다.",
+    "sources_used": [
+      "https://www.kjob.news/news/470555",
+      "https://committees.parliament.uk/committee/203/education-committee/news/212112/ai-and-edtech-mps-launch-new-inquiry-examining-technologys-role-in-education/",
+      "https://www.oecd.org/en/publications/digital-government-review-of-korea_9defc197-en/full-report/leveraging-ai-for-government-transformation_64eb9a1e.html"
+    ],
+    "gaps": [
+      "한국 교육부가 영국·미국의 거버넌스 조사를 어떻게 참고하고 있는지 공식 입장 확인 필요",
+      "미국 하원 소위원회 앨리슨 녹스 증언 전문 확보 및 구체 정책 제안 내용 확인",
+      "한국 내 AI 에듀테크 접근성 격차 관련 실증 데이터 필요",
+      "영국 조사위원회 제출 의견서 마감일 및 최종 보고서 일정 확인"
+    ]
+  },
+  "draft": {
+    "headline": "영·미 AI 교육 거버넌스 강화, 한국 선택은",
+    "subheadline": "영국·미국이 동시에 AI 교육 조사에 착수하며 글로벌 거버넌스 경쟁이 본격화됐다. OECD 디지털 정부 1위 한국의 다음 행보에 주목이 쏠린다.",
+    "html": "<!--kg-card-begin: html-->\n<article>\n  <p class=\"ai-disclosure\"><em>[AI 생성 콘텐츠] 이 기사는 AI가 작성했습니다. (AI 기본법 제31조)</em></p>\n\n  <p><strong>영국 의회와 미국 의회가 같은 주(2026년 2월 넷째 주)에 AI 교육 거버넌스 조사를 각각 개시했다. 두 나라가 동시에 움직인 것은 AI가 교육 현장 깊숙이 파고든 현실에 더 이상 눈을 감을 수 없다는 신호다. OECD 디지털 정부 평가 33개국 중 1위인 한국은 이 흐름 속에서 어떤 모델을 선택할지 기로에 서 있다.</strong></p>\n\n  <h2>영국, 의회 차원의 공식 조사 착수</h2>\n  <p>영국 하원 교육특별위원회(Education Select Committee)는 2026년 2월 26일 AI와 에듀테크가 유아원부터 대학까지 전 교육 단계에 미치는 영향을 조사하는 공식 조사를 개시했다. 위원회는 AI 활용의 실증 근거를 검토하고, 정부가 AI의 편익과 위험 사이 균형을 어떻게 맞출 수 있을지 집중 심사할 예정이다.</p>\n\n  <blockquote><p>\"우리 조사는 증거를 면밀히 들여다보고 AI의 사실과 허구를 구분할 것이다. AI와 에듀테크가 현재 어떻게 활용되고 있는지 탐색하고, 정부가 그 편익과 위험에 대한 안전장치의 균형을 어떻게 맞출 수 있을지 검토할 것이다.\" — 영국 교육특별위원회</p></blockquote>\n\n  <p>조사의 배경에는 이미 현장에 깊이 스며든 AI 활용 실태가 있다. 영국 Schools Week 설문에 따르면, 현재 영국 교사의 60%가 교육 업무에 AI를 활용하며, 이 중 20% 이상이 매일 사용하고 있다. 위원회는 특히 아동 대상 AI 제품의 중독성 설계(addictive design features)와 데이터 프라이버시 문제, 그리고 AI 접근성 격차로 인한 학생 간 불평등 심화 문제를 핵심 위험 요소로 지목했다.</p>\n\n  <h2>미국, 산업계와 함께 'AI 준비된 인력' 논의</h2>\n  <p>같은 주 2월 24일, 미국에서는 마이크로소프트 교육·인력정책 담당 선임이사 앨리슨 녹스(Allyson Knox)가 하원 교육·노동 소위원회에서 'AI 준비된 미국 구축: AI 시대의 교육'을 주제로 증언했다. 미국의 접근법은 영국과 결을 달리한다. 규제와 감시보다는 산업계와의 협력을 통해 AI 교육 인프라를 확충하고, 학생의 취업 역량을 키우는 데 방점을 둔다.</p>\n\n  <p>맥쿼리 그룹(Macquarie Group)이 2월 26일 발표한 보고서는 교육 분야 AI의 3대 영향 영역을 ①행정·운영 효율화 ②개인화 학습 경험 ③저위험 튜터링·생성형 피드백으로 정리했다. 교사의 행정 부담을 줄이고, 학생별 맞춤 학습을 가능케 하는 AI의 잠재력을 긍정적으로 평가한 것이다.</p>\n\n  <h2>한국: OECD 1위 인프라, 그러나 정책 모델은 미완</h2>\n  <p>한국은 OECD 디지털 정부 평가에서 33개국 중 1위를 기록하며 AI 거버넌스를 뒷받침할 기술 인프라 경쟁력을 공식 인정받았다. 같은 주 교육부가 AI 윤리 가이드라인을 발표하는 등 정책 정비에도 속도를 내고 있다.</p>\n\n  <p>그러나 한국 앞에 놓인 과제도 분명하다. 수도권과 비수도권, 소득 계층 간 에듀테크 접근성 격차는 영국 위원회가 지목한 불평등 심화 우려와 정확히 겹친다. AI 디지털 교과서 전국 도입을 앞두고 중독성 설계와 데이터 주권 문제도 본격적인 논의가 필요한 시점이다.</p>\n\n  <p>핵심 질문은 한국이 어떤 모델을 선택하느냐다. 의회 주도의 강력한 규제 심사를 앞세운 영국식이냐, 산업계 협력을 중심에 놓은 미국식이냐. 두 모델 모두 참고할 만한 요소가 있지만, 어느 쪽을 주축으로 삼을지에 따라 향후 AI 교육 생태계의 모습은 크게 달라질 것이다.</p>\n\n  <h3>참고 자료</h3>\n  <ol>\n    <li><a href=\"https://www.kjob.news/news/470555\">AI 교육혁명 2026: 영국·미국 동시 착수한 거버넌스 강화와 한국의 과제 — 전국인력신문</a></li>\n    <li><a href=\"https://committees.parliament.uk/committee/203/education-committee/news/212112/ai-and-edtech-mps-launch-new-inquiry-examining-technologys-role-in-education/\">AI and EdTech: MPs launch new inquiry examining technology's role in education — UK Parliament</a></li>\n    <li><a href=\"https://www.oecd.org/en/publications/digital-government-review-of-korea_9defc197-en/full-report/leveraging-ai-for-government-transformation_64eb9a1e.html\">Digital Government Review of Korea: Leveraging AI for Government Transformation — OECD</a></li>\n  </ol>\n</article>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "AI교육",
+      "교육정책",
+      "에듀테크",
+      "글로벌",
+      "거버넌스"
+    ],
+    "references": [
+      {
+        "num": 1,
+        "url": "https://www.kjob.news/news/470555",
+        "title": "AI 교육혁명 2026: 영국·미국 동시 착수한 거버넌스 강화와 한국의 과제 — 전국인력신문"
+      },
+      {
+        "num": 2,
+        "url": "https://committees.parliament.uk/committee/203/education-committee/news/212112/ai-and-edtech-mps-launch-new-inquiry-examining-technologys-role-in-education/",
+        "title": "AI and EdTech: MPs launch new inquiry examining technology's role in education — UK Parliament"
+      },
+      {
+        "num": 3,
+        "url": "https://www.oecd.org/en/publications/digital-government-review-of-korea_9defc197-en/full-report/leveraging-ai-for-government-transformation_64eb9a1e.html",
+        "title": "Digital Government Review of Korea: Leveraging AI for Government Transformation — OECD"
+      }
+    ],
+    "word_count": 820,
+    "article_type": "analysis"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector",
+      "action": "collected",
+      "timestamp": "2026-03-02T11:53:00+01:00",
+      "note": "관련성 82점 — 영국·미국 거버넌스 + 한국 과제, 신규 URL (470555, 11:23 수집된 470558과 별개)"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-02T12:04:00+01:00",
+      "note": "관련성 점수 82 — 취재 배정"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-02T13:09:00+01:00",
+      "note": "원본 기사 + 영국 의회 공식 페이지·OECD 한국 디지털 정부 보고서 취재 완료"
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-02T19:52:00+01:00",
+      "note": "분석 기사 초안 완료. 영국(규제 중심) vs. 미국(산업 육성 중심) 모델 대비 앵글로 접근. 한국의 OECD 1위 인프라 강점과 접근성 격차 과제 병기."
+    },
+    {
+      "agent": "fact-checker",
+      "action": "verified",
+      "timestamp": "2026-03-02T19:58:00+01:00",
+      "note": "전체 신뢰도 82, PASS. 5개 주장 검증. 핵심 사실(영국 의회 조사 개시 2/26, Schools Week 60% 통계, OECD 한국 1위)은 1차 소스 직접 확인. [FLAG] MS 앨리슨 녹스 소위원회 명칭 소폭 오류(Early Childhood... Subcommittee → 기사는 Education and Workforce Subcommittee). [FLAG] 맥쿼리 그룹 AI 3대 영역 — 맥쿼리 콘텐츠 존재 확인하나 해당 내용 직접 미확인, 오귀속 가능성."
+    },
+    {
+      "agent": "editor-desk",
+      "action": "revise",
+      "timestamp": "2026-03-02T20:37:00+01:00",
+      "note": "PASS (신뢰도 82), 6개 체크리스트 통과. FLAG 2건(MS 소위원회 명칭 오류, 맥쿼리 3대 영역 확인 불가) 수정 필요. writer 반환. revision_count=1."
+    }
+  ],
+  "fact_check_report": {
+    "overall_confidence": 82,
+    "verdict": "PASS",
+    "claims": [
+      {
+        "claim": "2026년 2월 26일 영국 하원 교육특별위원회(Education Select Committee)가 AI와 에듀테크의 교육 전 단계 영향 조사를 공식 개시했다",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 98,
+        "evidence": "UK Parliament 공식 페이지에서 \"26 February 2026 Opened\" 확인. 조사명 \"The use of Artificial Intelligence and EdTech in Education\", 제출 마감 2026년 4월 10일. Digital Watch Observatory 교차 확인.",
+        "source_url": "https://committees.parliament.uk/committee/203/education-committee/news/212112/ai-and-edtech-mps-launch-new-inquiry-examining-technologys-role-in-education/",
+        "flagged": false
+      },
+      {
+        "claim": "Schools Week 설문: 영국 교사의 60%가 교육 업무에 AI 활용, 이 중 20% 이상이 매일 사용",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 92,
+        "evidence": "UK Parliament 공식 페이지에서 Schools Week 설문 직접 인용 확인: \"According to a School's Week survey, 60% of teachers are now using AI for work purposes, with over a fifth using it daily.\"",
+        "source_url": "https://committees.parliament.uk/committee/203/education-committee/news/212112/ai-and-edtech-mps-launch-new-inquiry-examining-technologys-role-in-education/",
+        "flagged": false
+      },
+      {
+        "claim": "2026년 2월 24일 MS 앨리슨 녹스(Allyson Knox)가 미국 하원 교육·노동 소위원회에서 'AI 준비된 미국 구축: AI 시대의 교육'을 주제로 증언했다",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 82,
+        "evidence": "Microsoft On the Issues 블로그(2026-02-24) 및 edworkforce.house.gov Knox 증언록, Education & Workforce Committee Democrats 페이지에서 날짜·이름·청문회 확인. 단, 소위원회 공식 명칭은 'Early Childhood, Elementary, and Secondary Education Subcommittee'이며, 청문회 제목도 'Building an AI-Ready America: Teaching in the AI Age'로 기사의 'Education in the Age of AI'와 소폭 상이.",
+        "source_url": "https://democrats-edworkforce.house.gov/hearings/building-an-ai-ready-america-teaching-in-the-ai-age",
+        "source_url_2": "https://blogs.microsoft.com/on-the-issues/2026/02/24/teaching-in-the-ai-age/",
+        "flagged": true,
+        "flag_note": "소위원회 표기 오류: 기사는 'House Education and Workforce Subcommittee'라 표기했으나, 공식 명칭은 'Early Childhood, Elementary, and Secondary Education Subcommittee'. 청문회 제목도 'Teaching in the AI Age'로 수정 권장. 날짜·증인·주제는 정확."
+      },
+      {
+        "claim": "맥쿼리 그룹(Macquarie Group) 보고서(2026.02.26)가 AI 교육 3대 영향 영역으로 ①행정·운영 효율화 ②개인화 학습 경험 ③저위험 튜터링·생성형 피드백을 제시했다",
+        "type": "attribution",
+        "verdict": "UNVERIFIABLE",
+        "confidence": 42,
+        "evidence": "Macquarie Capital(macquarie.com)이 2026-02-26 교육 관련 콘텐츠(팟캐스트 기사)를 게재한 것은 확인. 그러나 해당 콘텐츠는 교육 M&A 3대 분야(헬스케어 교육·인력 재훈련·기타)를 논했으며, 기사가 주장하는 'AI 3대 영향 영역'(행정효율화·개인화학습·저위험튜터링) 내용은 확인 불가. 소스(kjob.news)가 내용을 요약하는 과정에서 맥쿼리 보고서 주장으로 오귀속했을 가능성.",
+        "source_url": "https://www.macquarie.com/us/en/insights/the-new-learning-economy-the-forces-transforming-education-in-2026.html",
+        "flagged": true,
+        "flag_note": "맥쿼리 그룹 2026-02-26 콘텐츠가 존재하나, AI 3대 영향 영역 내용은 확인 불가. kjob.news 2차 보도 과정에서 오귀속 가능성. 기사 내 '보고서' 표현을 '팟캐스트 인터뷰' 또는 출처 모호화 처리 권장."
+      },
+      {
+        "claim": "OECD 디지털 정부 평가에서 한국이 33개국 중 1위를 기록했다",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "OECD 공식 문서에서 직접 인용 확인: \"Korea ranks first among the 33 OECD countries assessed, followed by France, Estonia, the United Kingdom, and Denmark\". 서울경제 2026-02-19 보도에서도 한국 2연속 1위 추가 확인.",
+        "source_url": "https://www.oecd.org/en/publications/digital-government-review-of-korea_9defc197-en/full-report/leveraging-ai-for-government-transformation_64eb9a1e.html",
+        "flagged": false
+      }
+    ]
+  },
+  "revision_count": 1,
+  "desk_revision_instructions": [
+    "[수정 1] MS 소위원회 명칭 교정: 본문 내 \"하원 교육·노동 소위원회\" → \"하원 초중등교육소위원회(Early Childhood, Elementary, and Secondary Education Subcommittee)\" 로 변경. 청문회 제목도 \"AI 준비된 미국 구축: AI 시대의 교육\" → \"AI 준비된 미국 구축: AI 시대의 교수(Building an AI-Ready America: Teaching in the AI Age)\"로 수정.",
+    "[수정 2] 맥쿼리 그룹 인용 교정: \"맥쿼리 그룹(Macquarie Group) 보고서\"라는 표현에서 \"보고서\"를 \"팟캐스트 인터뷰\" 또는 \"인사이트 콘텐츠\"로 수정. AI 3대 영향 영역 내용이 맥쿼리 공식 자료와 정확히 일치하지 않으므로, 출처 표현을 모호화하거나 해당 문단 삭제 후 대체 출처 사용 권장."
+  ]
+}

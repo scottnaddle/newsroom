@@ -27,20 +27,70 @@
 - ❌ "충격! AI가 교육을 바꾼다"
 - ✅ "교육부, 2025년 AI 교과서 전국 도입 확정"
 
-**HTML 구조:**
+**HTML 구조 — 경향신문 스타일 (반드시 이 형식 사용):**
+
+카테고리별 accent 색상:
+- policy(교육정책, 법, 교육부, 의회, 가이드라인): `#4338ca`
+- research(연구, 학술, 논문): `#059669`
+- industry(구글, 기업, 에듀테크, 스타트업): `#d97706`
+- opinion(오피니언, 칼럼): `#7c3aed`
+- data(데이터, 통계): `#0284c7`
+
 ```html
 <!--kg-card-begin: html-->
-<article>
-  <p class="ai-disclosure"><em>[AI 생성 콘텐츠] 이 기사는 AI가 작성했습니다. (AI 기본법 제31조)</em></p>
-  <p><strong>리드 문단 — 핵심 내용 (누가, 무엇을, 왜 중요한지)</strong></p>
-  <h2>소제목</h2>
-  <p>본문...</p>
-  <blockquote><p>"인용문" — 출처</p></blockquote>
-  <h3>참고 자료</h3>
-  <ol><li><a href="https://...">소스 제목</a></li></ol>
-</article>
+<div style="font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;">
+
+  <!-- AI 공개 배지 -->
+  <div style="margin-bottom:32px;">
+    <span style="display:inline-flex;align-items:center;gap:6px;background:#eef2ff;border:1px solid #c7d2fe;padding:5px 12px;border-radius:20px;font-size:13px;color:{accent};font-weight:500;">
+      🤖 AI 생성 콘텐츠 · AI 기본법 제31조
+    </span>
+  </div>
+
+  <!-- 리드 문단 (파란 박스) -->
+  <div style="border-left:4px solid {accent};padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;">
+    <p style="margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;">핵심 리드 문단 (누가·무엇을·왜 중요한지, 2~3문장)</p>
+  </div>
+
+  <!-- 핵심 수치 카드 3개 (기사 내 주요 숫자 추출) -->
+  <div style="display:flex;gap:14px;margin-bottom:52px;flex-wrap:wrap;">
+    <div style="flex:1;min-width:120px;background:{accent};color:#fff;padding:22px 16px;border-radius:10px;text-align:center;">
+      <div style="font-size:2.2rem;font-weight:800;line-height:1.1;">{수치1}</div>
+      <div style="font-size:14px;margin-top:6px;opacity:0.85;">{레이블1}</div>
+    </div>
+    <div style="flex:1;min-width:120px;background:#7c3aed;color:#fff;padding:22px 16px;border-radius:10px;text-align:center;">
+      <div style="font-size:2.2rem;font-weight:800;line-height:1.1;">{수치2}</div>
+      <div style="font-size:14px;margin-top:6px;opacity:0.85;">{레이블2}</div>
+    </div>
+    <div style="flex:1;min-width:120px;background:#1e1b4b;color:#fff;padding:22px 16px;border-radius:10px;text-align:center;">
+      <div style="font-size:2.2rem;font-weight:800;line-height:1.1;">{수치3}</div>
+      <div style="font-size:14px;margin-top:6px;opacity:0.85;">{레이블3}</div>
+    </div>
+  </div>
+
+  <!-- 섹션 1 -->
+  <h2 style="font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;">소제목</h2>
+  <p style="margin:0 0 36px;">본문...</p>
+
+  <!-- 인용 블록 -->
+  <blockquote style="border-left:4px solid {accent};padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;">
+    <p style="margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;">"인용문"</p>
+    <p style="margin:0;font-size:14px;color:#64748b;">— 발언자, 소속</p>
+  </blockquote>
+
+  <!-- 섹션 2, 3... 반복 -->
+  <h2 style="font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;">소제목</h2>
+  <p style="margin:0 0 36px;">본문...</p>
+
+</div>
 <!--kg-card-end: html-->
 ```
+
+**핵심 규칙:**
+- `{accent}` → 카테고리에 맞는 색상 코드로 교체
+- 수치 카드: 기사 내 핵심 숫자 3개 (없으면 2개도 OK)
+- 리드 박스: 반드시 포함
+- `<article>` 태그 사용 금지, `<div>` 래퍼만 사용
 
 ### 3. 결과 파일 저장
 `04-drafted/`에 저장:

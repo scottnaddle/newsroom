@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-02T13:00:00+01:00",
+  "updated_at": "2026-03-02T18:04:00+01:00",
   "items": [
     {
       "id": "20260302125303",
@@ -14,6 +14,34 @@
       "title": "성동구, 청년 대상 '한반도 미래전략 아카데미' 운영… AI·경제·진로 중심 실전 교육",
       "relevance_score": 55,
       "note": "관련성 55 — 지역 청년 AI 교육. AI 교육 접근성 특집 시 활용 가능."
+    },
+    {
+      "id": "20260302135501",
+      "file": "2026-03-02_13-55_korea-tech-univ-ai-semiconductor.json",
+      "title": "\"Employment Upon Admission\"... Korea University of Technology and Education's Chungnam-Style Semiconductor Contract Department",
+      "relevance_score": 60,
+      "note": "관련성 60 — 충남형 반도체 계약학과 AI 교육 연계 사례. 산학협력 특집 시 활용 가능."
+    },
+    {
+      "id": "src-20260302-1456-003",
+      "file": "2026-03-02_14-56_pplez-ai-education-social-good.json",
+      "title": "Peoples Aims to Deliver AI Education for Social Good",
+      "relevance_score": 60,
+      "note": "관련성 60 — 포용적 AI 교육 기업 사례(PPLEZ). AI 리터러시·사회적 가치 특집 시 활용 가능."
+    },
+    {
+      "id": "src-20260302-1456-004",
+      "file": "2026-03-02_14-56_ai-edu-meme-korea.json",
+      "title": "Fake University Meme Mocking AI Education Sweeps Korean Social Media",
+      "relevance_score": 52,
+      "note": "관련성 52 — AI 교육 의무화 정책에 대한 밈·풍자 반응. 사회문화 앵글 특집 시 활용 가능."
+    },
+    {
+      "id": "20260302-1800-dazabi-bootcamp41",
+      "file": "2026-03-02_18-00_dazabi-moe-ai-bootcamp-41.json",
+      "title": "교육부, AI·미래차·로봇 부트캠프 41개교 신규 선정",
+      "relevance_score": 52,
+      "note": "관련성 52 — 동일 교육부 발표 이차 보도 (다자비). 41개교 종합 기사 작성 시 보완 자료로 활용 가능."
     }
   ]
 }
