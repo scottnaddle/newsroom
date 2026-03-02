@@ -1,0 +1,5 @@
+{
+  "apiUrl": "https://askedtech.ghost.io",
+  "adminApiKey": "YOUR_ADMIN_API_KEY_HERE",
+  "_note": "Ghost Admin > Settings > Integrations에서 발급. 형식: {id}:{secret}"
+}

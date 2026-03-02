@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "에이전트 간 메시지 스키마",
+  "description": "sessions_send로 전달되는 에이전트 간 통신 형식",
+  "type": "object",
+  "required": ["from", "type", "item_id", "timestamp"],
+  "properties": {
+    "from": { "type": "string", "enum": ["source-collector","reporter","writer","fact-checker","editor-desk","copy-editor","publisher"] },
+    "to": { "type": "string" },
+    "type": {
+      "type": "string",
+      "enum": [
+        "story_candidate",
+        "story_assignment",
+        "reporting_brief",
+        "draft_ready",
+        "fact_check_result",
+        "desk_decision",
+        "copy_edit_ready",
+        "publish_result",
+        "escalation",
+        "error"
+      ]
+    },
+    "item_id": { "type": "string", "description": "UUID — 이 스토리의 고유 ID" },
+    "timestamp": { "type": "string", "format": "date-time" },
+    "priority": { "type": "integer", "minimum": 1, "maximum": 5 },
+    "payload": { "type": "object", "description": "메시지 타입별 데이터" },
+    "instructions": { "type": "string", "description": "다음 에이전트에 대한 지시 (REVISE/REWRITE 시)" },
+    "revision_count": { "type": "integer", "default": 0 }
+  }
+}

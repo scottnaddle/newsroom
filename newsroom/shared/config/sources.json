@@ -1,0 +1,35 @@
+{
+  "brave_search": {
+    "enabled": true,
+    "queries_ko": [
+      "AI 교육 정책 한국 2025",
+      "인공지능 교육부 최신",
+      "에듀테크 AI 도입 학교",
+      "AI 교과서 한국",
+      "교육 인공지능 규제"
+    ],
+    "queries_en": [
+      "AI education policy Korea 2025",
+      "artificial intelligence classroom K-12",
+      "edtech AI tools schools",
+      "Korea AI education regulation"
+    ],
+    "freshness": "pw",
+    "results_per_query": 5
+  },
+  "rss_feeds": [
+    { "name": "연합뉴스 사회", "url": "https://www.yna.co.kr/rss/society.xml", "type": "news", "priority": 1 },
+    { "name": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/", "type": "research", "priority": 2 },
+    { "name": "EdSurge", "url": "https://www.edsurge.com/news.rss", "type": "industry", "priority": 3 }
+  ],
+  "direct_sources": [
+    { "name": "교육부 보도자료", "url": "https://www.moe.go.kr/boardCnts/list.do?boardID=294&m=0503&s=moe", "type": "policy", "priority": 1 },
+    { "name": "과기정통부 보도자료", "url": "https://www.msit.go.kr/bbs/list.do?sCode=user&mId=113&mPid=112", "type": "policy", "priority": 1 }
+  ],
+  "relevance_thresholds": {
+    "flag_immediate": 75,
+    "include_queue": 50,
+    "exclude_below": 49
+  },
+  "dedup_window_hours": 72
+}
