@@ -22,7 +22,47 @@
 ### 2. Ghost 설정 로드
 `shared/config/ghost.json` 읽기
 
-### 3. JWT 토큰 생성
+### 3. OG 카드 이미지 자동 생성 & 업로드
+
+기사 제목으로 고유한 대표이미지를 생성합니다 (스톡사진 중복 방지).
+
+```javascript
+// sharp 경로: /tmp/sharp-test/node_modules/sharp
+const sharp = require('/tmp/sharp-test/node_modules/sharp');
+
+// 카테고리 판단 (tags 기반)
+const categoryMap = {'policy':'교육 정책','research':'연구·학술','industry':'산업·기업','opinion':'오피니언','data':'데이터'};
+const category = categoryMap[tags[0]] || 'AI 교육';
+
+// SVG OG 카드 생성 (1200x630)
+const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
+  <defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" style="stop-color:#f0f4ff"/><stop offset="100%" style="stop-color:#e8eeff"/>
+  </linearGradient></defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="8" height="630" fill="#4338ca"/>
+  <rect x="60" y="60" width="160" height="40" rx="20" fill="#4338ca"/>
+  <text x="140" y="86" font-size="16" font-weight="600" fill="white" text-anchor="middle">${category}</text>
+  <text x="60" y="220" font-size="38" font-weight="700" fill="#1a1a2e">${headline.substring(0,20)}</text>
+  <text x="60" y="278" font-size="38" font-weight="700" fill="#1a1a2e">${headline.substring(20,40)}</text>
+  <text x="60" y="336" font-size="38" font-weight="700" fill="#1a1a2e">${headline.substring(40)}</text>
+  <circle cx="950" cy="315" r="180" fill="#4338ca" opacity="0.08"/>
+  <circle cx="950" cy="315" r="120" fill="#4338ca" opacity="0.08"/>
+  <text x="950" y="340" font-size="100" text-anchor="middle" opacity="0.25">🤖</text>
+  <text x="1140" y="600" font-size="22" font-weight="700" fill="#4338ca" text-anchor="end">AskedTech</text>
+</svg>`;
+
+// SVG → PNG 변환
+await sharp(Buffer.from(svg)).png().toFile('/tmp/og-card.png');
+```
+
+생성된 PNG를 Ghost Images API로 업로드:
+```bash
+# multipart/form-data POST to /ghost/api/admin/images/upload/
+# 반환된 URL을 feature_image로 사용
+```
+
+### 4. JWT 토큰 생성
 Admin API Key 형식: `{id}:{secret}`
 ```javascript
 const [id, secret] = apiKey.split(':');

@@ -1,0 +1,90 @@
+{
+  "id": "20260302-1123-herald-ai-regulation-80pct",
+  "stage": "reported",
+  "created_at": "2026-03-02T11:23:00+01:00",
+  "priority": 1,
+  "source": {
+    "title": "대학가, AI 규정 제도화 속도…10곳 중 8곳 도입·검토",
+    "url": "https://biz.heraldcorp.com/article/10683063",
+    "source_name": "헤럴드경제",
+    "relevance_score": 80,
+    "summary": "국내 대학 80%가 AI 가이드라인을 도입하거나 검토 중인 것으로 나타났다. 총장들은 '평가 기준 명확화'와 '과정 중심 평가 확대'가 가장 시급하다고 밝혔다.",
+    "tags": ["higher-education", "AI-regulation", "university", "Korea"],
+    "collected_via": "brave_search"
+  },
+  "reporting_brief": {
+    "facts": [
+      {
+        "claim": "한국대학교육협의회(대교협) '2026년 4년제 대학 총장 설문'(전국 192개교 대상, 140개교 참여, 2026년 1월 7일~2월 6일 실시) 결과 발표.",
+        "source_url": "https://biz.heraldcorp.com/article/10683063",
+        "quote": null
+      },
+      {
+        "claim": "생성형 AI 활용 가이드라인을 이미 적용한 대학 40.0%(56개교), 제정 검토 중 40.0%(56개교) → 전체 80%가 제도화 착수 또는 준비 중. 규정이 없다고 응답한 대학은 20%(28개교).",
+        "source_url": "https://biz.heraldcorp.com/article/10683063",
+        "quote": "생성형 AI 활용 가이드라인을 적용한 설문참여 대학 전체의 40.0%(56개교)"
+      },
+      {
+        "claim": "2024년 6월 조사 당시 AI 정책 채택·적용 대학은 30개교였으나 2년 사이 26개교 증가해 제도화 논의가 빠르게 확산 중.",
+        "source_url": "https://biz.heraldcorp.com/article/10683063",
+        "quote": null
+      },
+      {
+        "claim": "총장들이 학생 평가 신뢰도를 높이기 위한 최우선 과제로 '평가 기준 명확화'와 '과정 중심 평가 확대'를 꼽았다.",
+        "source_url": "https://biz.heraldcorp.com/article/10683063",
+        "quote": null
+      },
+      {
+        "claim": "AI 규정을 도입한 대학들은 정보보호·연구윤리·데이터 관리·저작권·지식재산 지침, AI 사용 고지 기준, 표절·부정행위 지침을 주요 내용으로 명시하고 있다. 일부 대학은 위반 시 조치와 전담 조직(거버넌스) 설치도 병행.",
+        "source_url": "https://biz.heraldcorp.com/article/10683063",
+        "quote": null
+      },
+      {
+        "claim": "총장들이 현재 가장 관심을 두는 분야는 '재정 지원 사업'(72.9%)이었으며, 외국인 유학생 유치(63.6%), 신입생 모집(48.6%), 교육과정·학사 개편(47.1%) 순이었다.",
+        "source_url": "https://biz.heraldcorp.com/article/10683063",
+        "quote": null
+      },
+      {
+        "claim": "대교협 양오봉 회장: '대학 현장의 관심이 양적 확장을 넘어 질적 내실화 및 경쟁력 제고 중심으로 이동하고 있다'.",
+        "source_url": "https://www.dhnews.co.kr/news/view/1065597114560929",
+        "quote": "대학 현장의 관심이 양적 확장을 넘어 질적 내실화 및 경쟁력 제고 중심으로 이동하고 있는 가운데 디지털·글로벌 도약에 매진하고 있다"
+      }
+    ],
+    "perspectives": [
+      "긍정적 신호: 80% 제도화 추진은 단순 부정행위 대응을 넘어 AI 시대 학사 운영 재설계의 의지를 보여준다. 교육계 내부에서 자발적 규범 수립 움직임이 가속화되고 있다.",
+      "구조적 한계: 40%는 아직 '검토 중'에 불과하며, 대학별 규정 수준 편차가 크다. 거버넌스 전담 조직을 갖춘 대학은 소수에 그친다.",
+      "평가 패러다임 전환 요구: '과정 중심 평가'로의 전환은 교원 추가 부담과 새로운 평가 도구 개발을 요구한다. 실질적 전환 없는 선언적 규정이 될 위험이 있다."
+    ],
+    "suggested_angle": "숫자의 함정: '80% 도입·검토'가 실제 의미하는 것 — 절반이 여전히 '검토 중'에 그치는 현실과 대학별 규정 편차를 분석하는 심층 앵글. 동일 시기 발표된 교육부 AI 윤리 가이드라인 시안과 연계해 '위로부터의 규제'와 '아래로부터의 자율 규범' 사이의 긴장을 짚는 구조 추천.",
+    "sources_used": [
+      "https://biz.heraldcorp.com/article/10683063",
+      "https://www.etoday.co.kr/news/view/2559705",
+      "https://www.dhnews.co.kr/news/view/1065597114560929"
+    ],
+    "gaps": [
+      "대학별 실제 규정 내용 및 적용 수준의 편차 데이터 미확보 (상위 15개 대학 규정 직접 비교 취재 필요)",
+      "설문 참여 140개교 중 규정 미도입 28개교의 이유 및 특성 분석 필요",
+      "대교협 공식 설문 보고서 원문 접근 필요"
+    ]
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector",
+      "action": "collected",
+      "timestamp": "2026-03-02T11:23:00+01:00",
+      "note": "관련성 80점 - 대학가 AI 규정 제도화 현황"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-02T12:04:00+01:00",
+      "note": "관련성 점수 80 — 취재 배정"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-02T12:40:00+01:00",
+      "note": "헤럴드경제 + 이투데이 + 대한교육신문 3개 소스 교차검증 완료. 대교협 설문 원문은 미확보. 취재 브리프 완료."
+    }
+  ]
+}
