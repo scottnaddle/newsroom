@@ -45,13 +45,17 @@
 ### 기사 HTML 디자인 규칙 (스캇 확정, 2026-03-02)
 **경향신문 스타일 — 반드시 유지**
 
-1. **래퍼**: `font-family:'Noto Sans KR'`, `max-width:680px`, `font-size:17px`, `line-height:1.9`
-2. **AI 공개 배지**: 상단에 `🤖 AI 생성 콘텐츠 · AI 기본법 제31조` 배지
-3. **리드 박스**: `border-left:4px solid {accent}`, `background:#f8f9ff`, 첫 단락 강조
-4. **섹션 헤더**: `font-size:19px`, `font-weight:700`, `border-bottom:1px solid #e2e8f0`
-5. **인용 블록**: `border-left:4px solid {accent}`, `background:#f8f9ff`
-6. **단락 여백**: `margin:0 0 36px`
+1. **래퍼**: `font-family:'Noto Sans KR'`, `max-width:680px`, `font-size:17px`, `line-height:1.9`, `color:#1a1a2e`
+2. **AI 공개 배지 (상단 pill): 사용 금지** ← 스캇 요청 (2026-03-03)
+3. **리드 박스**: `border-left:4px solid {accent}`, `padding:18px 22px`, `background:#f8f9ff`, `border-radius:0 8px 8px 0`, `margin-bottom:48px`
+4. **섹션 헤더 h2**: `font-size:19px`, `font-weight:700`, `border-bottom:1px solid #e2e8f0`, `padding-bottom:10px`, `margin:44px 0 20px`
+5. **인용 블록**: `border-left:4px solid {accent}`, `background:#f8f9ff`, `font-style:italic`, `color:#374151`
+6. **단락 여백**: `margin:0 0 32px`
 7. **수치 카드: 사용 금지** ← 오류/중복 문제로 스캇이 제거 요청 (2026-03-03)
+8. **AI 각주 (하단)**: 기사 맨 하단에 작은 회색 텍스트로 법적 고지
+   ```html
+   <p style="margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>
+   ```
 
 **카테고리별 accent 색상:**
 - policy: `#4338ca` / research: `#059669` / industry: `#d97706`
