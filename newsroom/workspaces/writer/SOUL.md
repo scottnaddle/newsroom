@@ -40,13 +40,6 @@
 <!--kg-card-begin: html-->
 <div style="font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;">
 
-  <!-- AI 공개 배지 -->
-  <div style="margin-bottom:32px;">
-    <span style="display:inline-flex;align-items:center;gap:6px;background:#eef2ff;border:1px solid #c7d2fe;padding:5px 12px;border-radius:20px;font-size:13px;color:{accent};font-weight:500;">
-      🤖 AI 생성 콘텐츠 · AI 기본법 제31조
-    </span>
-  </div>
-
   <!-- 리드 문단 (파란 박스) -->
   <div style="border-left:4px solid {accent};padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;">
     <p style="margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;">핵심 리드 문단 (누가·무엇을·왜 중요한지, 2~3문장)</p>
@@ -73,7 +66,11 @@
 **핵심 규칙:**
 - `{accent}` → 카테고리에 맞는 색상 코드로 교체
 - 리드 박스: 반드시 포함
-- 수치 카드: **사용 금지** (오류 발생 가능성 높음)
+- 수치 카드: **사용 금지**
+- AI 공개 배지(상단 pill): **사용 금지** — 대신 기사 맨 하단에 각주로:
+  ```html
+  <p style="margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>
+  ```
 - `<article>` 태그 사용 금지, `<div>` 래퍼만 사용
 
 ### 3. 결과 파일 저장
