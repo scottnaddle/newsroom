@@ -1,0 +1,18 @@
+{
+  "id": "20260302-1123-aitimes-ai-action-plan",
+  "stage": "sourced",
+  "created_at": "2026-03-02T11:23:00+01:00",
+  "priority": 1,
+  "source": {
+    "title": "국가인공지능전략위, AI 3강 도약의 구체적 청사진, '대한민국 인공지능행동계획' 확정",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=38806",
+    "source_name": "AI타임스",
+    "relevance_score": 85,
+    "summary": "국가인공지능전략위원회가 '대한민국 인공지능행동계획'을 확정했다. AI 3강 도약을 목표로 구체적인 청사진을 제시했으며, 교육 분야에서 재직자 AI·디지털 집중과정 지원 확대 등 인공지능 교육 원하는 성인 누구나 배울 수 있는 정책이 포함됐다.",
+    "tags": ["policy", "national-strategy", "AI-action-plan", "Korea"],
+    "collected_via": "brave_search"
+  },
+  "audit_log": [
+    { "agent": "source-collector", "action": "collected", "timestamp": "2026-03-02T11:23:00+01:00", "note": "관련성 85점 - 국가 AI 행동계획 확정, 교육 포함" }
+  ]
+}

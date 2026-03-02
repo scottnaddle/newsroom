@@ -1,0 +1,18 @@
+{
+  "id": "20260302-1123-herald-ai-regulation-80pct",
+  "stage": "sourced",
+  "created_at": "2026-03-02T11:23:00+01:00",
+  "priority": 1,
+  "source": {
+    "title": "대학가, AI 규정 제도화 속도…10곳 중 8곳 도입·검토",
+    "url": "https://biz.heraldcorp.com/article/10683063",
+    "source_name": "헤럴드경제",
+    "relevance_score": 80,
+    "summary": "국내 대학 80%가 AI 가이드라인을 도입하거나 검토 중인 것으로 나타났다. 총장들은 생성형 AI 환경에서 학생 평가 신뢰도를 위해 '평가 기준 명확화'와 '과정 중심 평가 확대'가 가장 시급하다고 밝혔다. 단순 규제를 넘어 학사 운영 전반의 재설계가 필요하다는 인식이 확산되고 있다.",
+    "tags": ["higher-education", "AI-regulation", "university", "Korea"],
+    "collected_via": "brave_search"
+  },
+  "audit_log": [
+    { "agent": "source-collector", "action": "collected", "timestamp": "2026-03-02T11:23:00+01:00", "note": "관련성 80점 - 대학가 AI 규정 제도화 현황" }
+  ]
+}

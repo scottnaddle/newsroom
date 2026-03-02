@@ -1,0 +1,18 @@
+{
+  "id": "20260302-1123-edweek-teachers-guardrails",
+  "stage": "sourced",
+  "created_at": "2026-03-02T11:23:00+01:00",
+  "priority": 2,
+  "source": {
+    "title": "Teachers Want 'Guardrails and Guidance' on AI Use, Experts Tell Congress",
+    "url": "https://www.edweek.org/technology/teachers-wants-guardrails-and-guidance-on-ai-use-experts-tell-congress/2026/02",
+    "source_name": "Education Week",
+    "relevance_score": 75,
+    "summary": "미국 의회 전문가들이 교사들이 AI 사용에 대한 '가이드레일과 지침'을 원한다고 증언했다. 연방 차원의 AI 교실 규정이 없는 상황에서 교사들은 주, 전문단체, 기술기업, SNS 등 다양한 출처의 조언에 의존하고 있다. 국제적으로도 유사한 논의가 진행 중이다.",
+    "tags": ["policy", "K-12", "AI-guidance", "USA", "Congress"],
+    "collected_via": "brave_search"
+  },
+  "audit_log": [
+    { "agent": "source-collector", "action": "collected", "timestamp": "2026-03-02T11:23:00+01:00", "note": "관련성 75점 - 미국 의회 AI 교육 가이드라인 논의" }
+  ]
+}

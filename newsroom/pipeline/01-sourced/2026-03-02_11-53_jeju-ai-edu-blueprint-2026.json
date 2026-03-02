@@ -1,0 +1,18 @@
+{
+  "id": "20260302-1153-002",
+  "stage": "sourced",
+  "created_at": "2026-03-02T11:53:00+01:00",
+  "priority": 2,
+  "source": {
+    "title": "\"학생 중심·AI 교육 강화\"…김광수 교육감, 2026 제주교육 청사진 제시",
+    "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=317151",
+    "source_name": "제주도민일보",
+    "relevance_score": 78,
+    "summary": "제주특별자치도교육청이 2026년 핵심 과제로 AI 기반 교수·학습 역량 강화와 디지털 윤리 교육을 선정했다. 'AI 맞춤형 교수학습 플랫폼 바당'을 신학기부터 본격 운영하며 11개 에듀테크 앱을 탑재해 교사·학생이 단일 계정으로 활용할 수 있게 한다. 지역 교육청 단위의 AI 교육 인프라 구축 사례로 주목된다.",
+    "tags": ["policy", "edtech", "local-government", "Jeju", "platform"],
+    "collected_via": "brave_search"
+  },
+  "audit_log": [
+    { "agent": "source-collector", "action": "collected", "timestamp": "2026-03-02T11:53:00+01:00", "note": "관련성 78점 — 제주도교육청 2026 AI 교육 로드맵, 신규 URL" }
+  ]
+}

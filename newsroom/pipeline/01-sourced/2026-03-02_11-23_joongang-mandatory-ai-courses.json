@@ -1,0 +1,18 @@
+{
+  "id": "20260302-1123-joongang-mandatory-ai",
+  "stage": "sourced",
+  "created_at": "2026-03-02T11:23:00+01:00",
+  "priority": 1,
+  "source": {
+    "title": "Education Ministry to roll out mandatory AI courses at universities",
+    "url": "https://koreajoongangdaily.joins.com/news/2026-02-23/national/socialAffairs/Education-Ministry-to-roll-out-mandatory-AI-courses-at-universities/2529503",
+    "source_name": "Korea JoongAng Daily",
+    "relevance_score": 90,
+    "summary": "한국 교육부가 60억 원을 투자해 20개 대학에 AI 필수 교과목을 도입하기로 했다. 전공 무관 모든 대학생이 AI 기초 역량을 갖추도록 하는 전국 최초 정책이다. 2026년 사업 첫해에 선정 대학당 3억 원을 지원한다.",
+    "tags": ["policy", "higher-education", "mandatory-AI", "Korea", "교육부"],
+    "collected_via": "brave_search"
+  },
+  "audit_log": [
+    { "agent": "source-collector", "action": "collected", "timestamp": "2026-03-02T11:23:00+01:00", "note": "관련성 90점 - 교육부 대학 AI 필수과목 전국 도입 정책" }
+  ]
+}

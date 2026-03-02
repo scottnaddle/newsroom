@@ -1,0 +1,18 @@
+{
+  "id": "20260302-1123-mt-seoul-ai-guideline",
+  "stage": "sourced",
+  "created_at": "2026-03-02T11:23:00+01:00",
+  "priority": 2,
+  "source": {
+    "title": "서울 학생 'AI 종속' 막는다…'인간 중심' 공교육 활용 가이드라인 배포",
+    "url": "https://www.mt.co.kr/policy/2026/02/26/2026022611035067755",
+    "source_name": "머니투데이",
+    "relevance_score": 70,
+    "summary": "서울시교육청이 학생이 AI에 종속되지 않도록 'AI·에듀테크 공교육 도입 및 활용 가이드라인'을 개발해 학교에 배포했다. 인간 중심 교육 원칙을 강조하며 학생이 배움의 주체로 성장할 수 있도록 설계됐다. 머니투데이의 정책 심층 보도.",
+    "tags": ["policy", "Seoul", "AI-guideline", "K-12", "Korea"],
+    "collected_via": "brave_search"
+  },
+  "audit_log": [
+    { "agent": "source-collector", "action": "collected", "timestamp": "2026-03-02T11:23:00+01:00", "note": "관련성 70점 - 머니투데이 서울교육청 AI 가이드라인 심층 보도" }
+  ]
+}

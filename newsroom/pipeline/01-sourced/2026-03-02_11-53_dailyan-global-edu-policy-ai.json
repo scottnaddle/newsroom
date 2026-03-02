@@ -1,0 +1,18 @@
+{
+  "id": "20260302-1153-003",
+  "stage": "sourced",
+  "created_at": "2026-03-02T11:53:00+01:00",
+  "priority": 3,
+  "source": {
+    "title": "글로벌 교육 정책, 미래형 인재 양성 위한 새로운 패러다임 전환 모색",
+    "url": "https://www.dailyan.com/news/article.html?no=765638",
+    "source_name": "데일리연합",
+    "relevance_score": 60,
+    "summary": "2026년 3월 기준 전 세계 교육 정책이 AI·디지털 전환에 발맞춰 미래 인재 양성이라는 과제에 직면했다는 내용. 인공지능 가속화 시대에 교육 패러다임 전환 필요성을 강조한 기사로 오늘(3월 2일) 게재된 최신 기사다.",
+    "tags": ["global", "policy", "future-education", "AI-transformation"],
+    "collected_via": "brave_search"
+  },
+  "audit_log": [
+    { "agent": "source-collector", "action": "collected", "timestamp": "2026-03-02T11:53:00+01:00", "note": "관련성 60점 — 오늘(3/2) 게재된 최신 기사, AI·교육 패러다임 전환 주제" }
+  ]
+}

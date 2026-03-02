@@ -1,0 +1,18 @@
+{
+  "id": "20260302-1153-001",
+  "stage": "sourced",
+  "created_at": "2026-03-02T11:53:00+01:00",
+  "priority": 2,
+  "source": {
+    "title": "AI 교육혁명 2026: 영국·미국 동시 착수한 거버넌스 강화와 한국의 과제",
+    "url": "https://www.kjob.news/news/470555",
+    "source_name": "전국인력신문",
+    "relevance_score": 82,
+    "summary": "2026년 2월 26일 영국 의회 교육특별위원회가 AI·에듀테크가 유아원부터 대학까지 미치는 영향을 조사하는 공식 조사를 시작했다. 미국도 동시에 AI 교육 거버넌스를 강화하는 흐름 속에서, 한국이 자체 기준을 정비해야 한다는 논의가 제기됐다. 국제 동향을 반영한 한국의 교육 AI 정책 과제를 종합 분석한 기사.",
+    "tags": ["policy", "governance", "international", "UK", "Korea"],
+    "collected_via": "brave_search"
+  },
+  "audit_log": [
+    { "agent": "source-collector", "action": "collected", "timestamp": "2026-03-02T11:53:00+01:00", "note": "관련성 82점 — 영국·미국 거버넌스 + 한국 과제, 신규 URL (470555, 11:23 수집된 470558과 별개)" }
+  ]
+}
