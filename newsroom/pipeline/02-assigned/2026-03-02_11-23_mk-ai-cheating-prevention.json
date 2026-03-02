@@ -1,6 +1,6 @@
 {
   "id": "20260302-1123-mk-ai-cheating-prevention",
-  "stage": "sourced",
+  "stage": "assigned",
   "created_at": "2026-03-02T11:23:00+01:00",
   "priority": 1,
   "source": {
@@ -9,10 +9,27 @@
     "source_name": "매일경제(영문)",
     "relevance_score": 80,
     "summary": "한국 대학들이 AI를 활용한 부정행위를 막기 위해 식별력과 종합적 사고를 요구하는 서술형 문제 설계를 권고받고 있다. 중간·기말 고사 시 오프라인 시험 권장 방침도 포함됐으며, 교육부 AI 윤리 가이드라인의 실질적 적용 방안을 다루고 있다.",
-    "tags": ["higher-education", "AI-cheating", "assessment", "Korea"],
+    "tags": [
+      "higher-education",
+      "AI-cheating",
+      "assessment",
+      "Korea"
+    ],
     "collected_via": "brave_search"
   },
   "audit_log": [
-    { "agent": "source-collector", "action": "collected", "timestamp": "2026-03-02T11:23:00+01:00", "note": "관련성 80점 - AI 부정행위 방지 대학 시험 대책" }
-  ]
+    {
+      "agent": "source-collector",
+      "action": "collected",
+      "timestamp": "2026-03-02T11:23:00+01:00",
+      "note": "관련성 80점 - AI 부정행위 방지 대학 시험 대책"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-02T12:04:00+01:00",
+      "note": "관련성 점수 80 — 취재 배정"
+    }
+  ],
+  "desk_instructions": null
 }

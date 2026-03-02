@@ -16,19 +16,13 @@
 `memory/recent-items.json` 읽기 (없으면 빈 배열로 시작)
 최근 72시간 내 수집된 URL 목록 추출
 
-### 3. Brave 웹 검색
-`web_search`로 아래 쿼리 각각 실행 (freshness: "pw"):
-**한국어:**
-- "AI 교육 정책 한국 2025"
-- "인공지능 교육부 최신"
-- "에듀테크 AI 도입 학교"
+### 3. Brave 웹 검색 (최대 3개 쿼리만 — 속도 우선)
+`web_search`로 아래 쿼리 **3개만** 실행 (freshness: "pw"):
+- "AI 교육 정책 한국" (한국어, 최우선)
+- "인공지능 교육부" (한국어)
+- "AI education Korea school" (영어)
 
-**영어:**
-- "AI education policy Korea 2025"
-- "artificial intelligence classroom K-12"
-
-### 4. RSS/공식 소스 확인 (시간 여유 있을 때)
-`web_fetch`로 교육부 보도자료 페이지 확인
+RSS 페치 및 공식 소스 직접 확인은 **생략** (속도 최적화)
 
 ### 5. 관련성 점수화 (0-100)
 우선순위: 한국 교육 정책 > 국제 AI 정책 > 학술 논문 > 산업 뉴스

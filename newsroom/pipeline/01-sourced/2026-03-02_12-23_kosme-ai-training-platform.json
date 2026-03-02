@@ -1,0 +1,18 @@
+{
+  "id": "20260302-1223-kosme-ai-training-platform",
+  "stage": "sourced",
+  "created_at": "2026-03-02T12:23:00+01:00",
+  "priority": 3,
+  "source": {
+    "title": "\"AI로 교육 추천\"…중진공 '중소벤처기업-숲' 전면 개편",
+    "url": "https://www.m-i.kr/news/articleView.html?idxno=1341649",
+    "source_name": "매일일보",
+    "relevance_score": 55,
+    "summary": "중소벤처기업진흥공단이 AI 기반 연수서비스 고도화를 핵심으로 교육 플랫폼 '중소벤처기업-숲'을 전면 개편했다. AI가 학습자 맞춤형 교육을 추천하고 글로벌 학습 서비스도 구축한다. 공공기관의 AI 교육 인프라 확장 사례다.",
+    "tags": ["AI교육", "중진공", "공공기관", "맞춤형학습", "연수플랫폼"],
+    "collected_via": "brave_search"
+  },
+  "audit_log": [
+    { "agent": "source-collector", "action": "collected", "timestamp": "2026-03-02T12:23:00+01:00", "note": "관련성 55점 - 중진공 AI 교육 플랫폼 개편" }
+  ]
+}

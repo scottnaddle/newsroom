@@ -1,6 +1,6 @@
 {
   "id": "20260302-1123-hani-ai-ethics",
-  "stage": "sourced",
+  "stage": "assigned",
   "created_at": "2026-03-02T11:23:00+01:00",
   "priority": 1,
   "source": {
@@ -9,10 +9,27 @@
     "source_name": "한겨레",
     "relevance_score": 90,
     "summary": "정부가 대학 인공지능 활용 윤리 지침(가이드라인) 시안을 발표했다. 대학 과제 제출 시 AI 활용 내역 공개를 의무화하는 내용이 포함됐으며, 대학가에서 AI를 활용한 부정행위 논란이 확산되는 가운데 나온 조치다. 이는 한국 교육 정책의 직접적인 변화를 의미한다.",
-    "tags": ["policy", "higher-education", "AI-ethics", "Korea"],
+    "tags": [
+      "policy",
+      "higher-education",
+      "AI-ethics",
+      "Korea"
+    ],
     "collected_via": "brave_search"
   },
   "audit_log": [
-    { "agent": "source-collector", "action": "collected", "timestamp": "2026-03-02T11:23:00+01:00", "note": "관련성 90점 - 한국 교육부 AI 윤리 가이드라인 시안 발표" }
-  ]
+    {
+      "agent": "source-collector",
+      "action": "collected",
+      "timestamp": "2026-03-02T11:23:00+01:00",
+      "note": "관련성 90점 - 한국 교육부 AI 윤리 가이드라인 시안 발표"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-02T12:04:00+01:00",
+      "note": "관련성 점수 90 — 취재 배정"
+    }
+  ],
+  "desk_instructions": null
 }
