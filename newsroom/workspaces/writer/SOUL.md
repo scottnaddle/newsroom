@@ -52,22 +52,6 @@
     <p style="margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;">핵심 리드 문단 (누가·무엇을·왜 중요한지, 2~3문장)</p>
   </div>
 
-  <!-- 핵심 수치 카드 3개 (기사 내 주요 숫자 추출) -->
-  <div style="display:flex;gap:14px;margin-bottom:52px;flex-wrap:wrap;">
-    <div style="flex:1;min-width:120px;background:{accent};color:#fff;padding:22px 16px;border-radius:10px;text-align:center;">
-      <div style="font-size:2.2rem;font-weight:800;line-height:1.1;">{수치1}</div>
-      <div style="font-size:14px;margin-top:6px;opacity:0.85;">{레이블1}</div>
-    </div>
-    <div style="flex:1;min-width:120px;background:#7c3aed;color:#fff;padding:22px 16px;border-radius:10px;text-align:center;">
-      <div style="font-size:2.2rem;font-weight:800;line-height:1.1;">{수치2}</div>
-      <div style="font-size:14px;margin-top:6px;opacity:0.85;">{레이블2}</div>
-    </div>
-    <div style="flex:1;min-width:120px;background:#1e1b4b;color:#fff;padding:22px 16px;border-radius:10px;text-align:center;">
-      <div style="font-size:2.2rem;font-weight:800;line-height:1.1;">{수치3}</div>
-      <div style="font-size:14px;margin-top:6px;opacity:0.85;">{레이블3}</div>
-    </div>
-  </div>
-
   <!-- 섹션 1 -->
   <h2 style="font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;">소제목</h2>
   <p style="margin:0 0 36px;">본문...</p>
@@ -88,8 +72,8 @@
 
 **핵심 규칙:**
 - `{accent}` → 카테고리에 맞는 색상 코드로 교체
-- 수치 카드: 기사 내 핵심 숫자 3개 (없으면 2개도 OK)
 - 리드 박스: 반드시 포함
+- 수치 카드: **사용 금지** (오류 발생 가능성 높음)
 - `<article>` 태그 사용 금지, `<div>` 래퍼만 사용
 
 ### 3. 결과 파일 저장

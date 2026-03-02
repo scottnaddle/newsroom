@@ -1,6 +1,6 @@
 {
   "id": "src-20260302-1456-002",
-  "stage": "drafted",
+  "stage": "fact-checked",
   "created_at": "2026-03-02T14:56:00+01:00",
   "priority": 2,
   "source": {
@@ -56,38 +56,83 @@
     "article_type": "news"
   },
   "fact_check_report": {
-    "overall_confidence": 68,
-    "verdict": "FLAG",
+    "overall_confidence": 96,
+    "verdict": "PASS",
     "claims": [
       {
-        "claim": "서울대학교, KAIST, 연세대학교, 고려대학교가 'Asia AI Research Consortium'을 결성했다",
-        "type": "attribution",
-        "verdict": "PARTIALLY_SUPPORTED",
-        "confidence": 65,
-        "evidence": "Creative Learning Guild는 이들 대학을 언급하나, 국내 공식 컨소시엄(국가AI연구거점, NAIRL)은 KAIST·고려대·연세대·POSTECH으로 구성. 서울대는 Global AI Frontier Lab 워크숍에 참여했지만 공식 NAIRL 구성에는 미포함. 'Asia AI Research Consortium'이라는 명칭의 국내 공식 발표 자료 미확인",
-        "source_url": "https://creativelearningguild.co.uk/education/south-korean-universities-form-asia-ai-research-consortium/",
-        "source_url_2": "https://www.aitimes.kr/news/articleView.html?idxno=31976",
-        "flagged": true
-      },
-      {
-        "claim": "과학기술정보통신부가 정부 파트너로 지원하며, NYU가 주요 국제 파트너다",
+        "claim": "NAIRL 공식 구성 기관은 KAIST·고려대·연세대·POSTECH (서울대 미포함)",
         "type": "attribution",
         "verdict": "SUPPORTED",
+        "confidence": 97,
+        "evidence": "nairl.kr 공식 홈페이지에서 'KAIST, Yonsei, Korea University, and POSTECH' 명기. ZDNet Korea(2024.08.18) 'KAIST·연세대·고려대·POSTECH 컨소시엄 선정'. AITimes.kr 동일 확인.",
+        "source_url": "https://nairl.kr/",
+        "source_url_2": "https://zdnet.co.kr/view/?no=20240818092539",
+        "flagged": false
+      },
+      {
+        "claim": "과기정통부·IITP가 2024년 8월 선정, 같은 해 10월 정식 출범",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 97,
+        "evidence": "KAIST 뉴스: '2024년 10월 설립'. ZDNet Korea 2024.08.18 기사: 수행기관 선정 확인. 일치.",
+        "source_url": "https://news.kaist.ac.kr/news/html/news/?mode=V&mng_no=53590",
+        "source_url_2": "https://zdnet.co.kr/view/?no=20240818092539",
+        "flagged": false
+      },
+      {
+        "claim": "NYU-KAIST 글로벌 AI 프론티어 랩 워크숍: 2025년 10월 28~29일, 서울, 약 140명",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 98,
+        "evidence": "NYU 공식 Events 페이지: 'On October 28 to 29, 2025, the Global AI Frontier Lab held its inaugural workshop in Seoul. Nearly 140 PI's, postdocs, and student researchers...' 완벽 일치.",
+        "source_url": "https://www.nyu.edu/research/research-centers-and-institutes/global-ai-frontier-lab/events.html",
+        "flagged": false
+      },
+      {
+        "claim": "AX대학원 150억 원, 10곳 신설, 2026년 2월 19일 과기정통부 공식 발표",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 99,
+        "evidence": "korea.kr(정책브리핑): '정부가 올해 150억 원 규모의 인공지능혁신대학원을 10개 신설'. 로봇신문, 동아사이언스, 아주경제 등 복수 언론 동일 수치 확인.",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148959696&call_from=rsslink",
+        "source_url_2": "https://www.irobotnews.com/news/articleView.html?idxno=44998",
+        "flagged": false
+      },
+      {
+        "claim": "2030년까지 22개 AX대학원으로 확대",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 97,
+        "evidence": "korea.kr: '2030년까지 모두 22개로 확대할 방침'. unipress 등 복수 확인.",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148959696&call_from=rsslink",
+        "flagged": false
+      },
+      {
+        "claim": "국가인공지능전략위원회 2025년 9월 공식 출범, 'AI 3대 강국 2030' 선언",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 97,
+        "evidence": "IT Review: '2025년 9월 8일, 서울스퀘어에서 대통령 직속 국가AI전략위원회가 공식 출범'. aikorea.go.kr 공식 사이트에서 'AI 3대 강국 도약' 목표 명기.",
+        "source_url": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=130",
+        "source_url_2": "https://itreview.kr/국가ai전략위-출범-ai-액션플랜과-3대-강국-도약-선언/",
+        "flagged": false
+      },
+      {
+        "claim": "2026년 2월 거버넌스 서밋 개최, 60여 명 참가",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 98,
+        "evidence": "NYU 공식: 'On February 6-7, 2026, the NYU-KAIST Summit on Building Governance Infrastructure for Frontier AI brought together over 60 thought leaders and policy makers'. 수치 및 시기 완벽 일치.",
+        "source_url": "https://www.nyu.edu/research/nyu-kaist.html",
+        "flagged": false
+      },
+      {
+        "claim": "AX대학원 공모 3월 25일까지 접수",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
         "confidence": 95,
-        "flagged": false
-      },
-      {
-        "claim": "2030년 AI G3 국가 목표",
-        "type": "statistical",
-        "verdict": "CONFIRMED",
-        "confidence": 90,
-        "flagged": false
-      },
-      {
-        "claim": "AX 프로그램 10개 설립 지원",
-        "type": "statistical",
-        "verdict": "CONFIRMED",
-        "confidence": 90,
+        "evidence": "korea.kr: '내달 25일까지 공고'(2026.02.19 발표 기준 → 3월 25일). 아주경제 '접수는 다음 달 25일까지' 동일 확인.",
+        "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148959696&call_from=rsslink",
         "flagged": false
       }
     ]
@@ -155,6 +200,12 @@
       "action": "drafted",
       "timestamp": "2026-03-03T00:00:00+01:00",
       "note": "재취재 브리프 기반 수정 기사 작성 완료. 에디터 수정 지시 전면 반영: 서울대→POSTECH 정정, 공식명(NAIRL) 사용, AX대학원 150억/22개 공식 수치 업데이트, AI 3대 강국 2030 공식 출처 명기. Ghost 경향신문 HTML 형식, research 카테고리 accent #059669 적용."
+    },
+    {
+      "agent": "fact-checker",
+      "action": "verified",
+      "timestamp": "2026-03-03T00:18:00+01:00",
+      "note": "3차 팩트체크. 전체 신뢰도 96, PASS. 8개 핵심 주장 전원 1차 소스(nairl.kr, NYU.edu, korea.kr, aikorea.go.kr) 확인. 이전 FLAG 원인(서울대 오류, 수치 미검증) 완전 해소. 출판 승인."
     }
   ],
   "revision_count": 2

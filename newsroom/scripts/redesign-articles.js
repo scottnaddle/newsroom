@@ -129,12 +129,7 @@ function applyDesign({ html, title, tags, accent }) {
     }
   }
 
-  // 3. 핵심 수치 추출
-  const fullText = cleanInner(body);
-  const rawStats = extractStats(fullText);
-  const stats = labelStats(rawStats, fullText);
-
-  // 4. h2 스타일링
+  // 3. h2 스타일링
   body = body.replace(/<h2[^>]*>([\s\S]*?)<\/h2>/gi, (_, inner) =>
     `<h2 style="font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;">${inner}</h2>`
   );
@@ -147,19 +142,7 @@ function applyDesign({ html, title, tags, accent }) {
     `<blockquote style="border-left:4px solid ${color};padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;">${inner}</blockquote>`
   );
 
-  // 7. 수치 카드 HTML
-  const cardColors = [color, adjustColor(color, -30), '#1e1b4b'];
-  let statsHtml = '';
-  if (stats.length > 0) {
-    const cards = stats.map((s, i) => `
-      <div style="flex:1;min-width:120px;background:${cardColors[i]||cardColors[0]};color:#fff;padding:22px 16px;border-radius:10px;text-align:center;">
-        <div style="font-size:2.2rem;font-weight:800;line-height:1.1;">${s.val}</div>
-        ${s.label ? `<div style="font-size:14px;margin-top:6px;opacity:0.85;">${s.label}</div>` : ''}
-      </div>`).join('');
-    statsHtml = `<div style="display:flex;gap:14px;margin-bottom:52px;flex-wrap:wrap;">${cards}</div>`;
-  }
-
-  // 8. 최종 HTML 조립
+  // 7. 최종 HTML 조립
   return `<!--kg-card-begin: html-->
 <div style="font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;">
 
@@ -175,7 +158,6 @@ function applyDesign({ html, title, tags, accent }) {
     <p style="margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;">${leadHtml}</p>
   </div>
 
-  ${statsHtml}
   ${body}
 
 </div>

@@ -1,0 +1,18 @@
+{
+  "id": "20260303-0021-koreatimenews-1076751",
+  "stage": "sourced",
+  "created_at": "2026-03-03T00:21:00+01:00",
+  "priority": 2,
+  "source": {
+    "title": "교육부, 2026년 대학 인공지능(AI) 기본교육과정 개발 지원사업 선정 공고",
+    "url": "https://www.koreatimenews.com/news/article.html?no=1076751",
+    "source_name": "코리아타임뉴스",
+    "relevance_score": 65,
+    "summary": "교육부가 한국대학교육협의회와 공동으로 추진하는 2026년 대학 인공지능 기본교육과정 개발 지원사업 공고를 코리아타임뉴스가 보도했다. 대학별 AI 기초 교육과정 개발 및 운영을 지원하는 사업이다. 기존 수집된 동일 스토리의 추가 언론 보도이다.",
+    "tags": ["policy", "university", "AI-curriculum", "education-ministry"],
+    "collected_via": "brave_search"
+  },
+  "audit_log": [
+    { "agent": "source-collector", "action": "collected", "timestamp": "2026-03-03T00:21:00+01:00", "note": "관련성 65점 — 교육부 AI 교육과정 지원사업 관련 추가 보도" }
+  ]
+}
