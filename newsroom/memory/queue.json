@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-03T01:49:00+01:00",
+  "updated_at": "2026-03-03T02:53:00+01:00",
   "items": [
     {
       "id": "20260302125303",
@@ -77,6 +77,20 @@
       "title": "호서대, 교육부 첨단산업 인재양성 부트캠프 선정···AI 거점대학 신호탄",
       "relevance_score": 52,
       "note": "관련성 52 — 기존 보도된 호서대 부트캠프 선정 기사의 중복 소스(NGO뉴스). 큐에 이미 있는 호서대 항목(62점)과 동일 사건. 종합 기사 작성 시 보완 자료로만 활용."
+    },
+    {
+      "id": "20260303-0230-001",
+      "file": "2026-03-03_02-30_whats-happening-ai-in-schools.json",
+      "title": "What's Happening in AI in Schools Right Now?",
+      "relevance_score": 52,
+      "note": "관련성 52 — 미국 AI 교육 동향 참고자료(Alludo Learning Blog). 글로벌 비교 특집 시 활용 가능."
+    },
+    {
+      "id": "20260303-0230-002",
+      "file": "2026-03-03_02-30_is-ai-good-or-bad-for-schools.json",
+      "title": "Is AI Good or Bad for Schools?",
+      "relevance_score": 57,
+      "note": "관련성 57 — 에드위크 AI 교육 찬반 특집. 국제 비교 앵글 또는 찬반 심층 기사 시 활용 가능."
     }
   ]
 }

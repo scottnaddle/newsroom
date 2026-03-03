@@ -57,8 +57,12 @@
 → **REVISE**: `04-drafted/`로 반환 + revision_count +1 (2회 초과 시 rejected/로 이동)
 → **KILL**: `rejected/`로 이동 + 사유 기록
 
-**FLAG (신뢰도 70-79):**
+**FLAG (신뢰도 75-79):**
 플래그된 주장 직접 검토 후 APPROVE/REVISE/KILL 결정
+
+**FLAG (신뢰도 75 미만) — 자동 드랍:**
+검토 없이 즉시 `rejected/`로 이동. 사유: `"FLAG verdict, confidence < 75 — auto-rejected"`
+스캇 개입 없이 처리.
 
 **FAIL (신뢰도 70 미만):**
 `02-assigned/`로 반환 + 재취재 지시 추가

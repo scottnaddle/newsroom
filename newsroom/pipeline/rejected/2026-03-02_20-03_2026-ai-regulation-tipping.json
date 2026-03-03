@@ -1,0 +1,259 @@
+{
+  "id": "20260302-2003-002",
+  "stage": "rejected",
+  "created_at": "2026-03-02T20:03:00+01:00",
+  "priority": 3,
+  "source": {
+    "title": "2026 AI 규제 임계점 도달: 글로벌 기업 전략 재편과 일자리 지형 변화",
+    "url": "https://www.kjob.news/news/471038",
+    "source_name": "전국인력신문",
+    "relevance_score": 75,
+    "summary": "2026년 AI 규제가 글로벌 임계점에 도달하며 기업 전략 재편과 일자리 지형 변화가 가속화되고 있다는 분석 기사. 한국 주요 대학들이 AI 윤리 과목 필수화에 나서고 있으며, 서울대·KAIST·연세대 등이 AI 정책 및 거버넌스 전문 과정을 신설했다.",
+    "tags": [
+      "policy",
+      "regulation",
+      "university",
+      "korea"
+    ],
+    "collected_via": "brave_search"
+  },
+  "desk_instructions": "한국 주요 대학(서울대·KAIST·연세대 등)의 AI 윤리 과목 필수화 및 거버넌스 전문 과정 신설을 구체적으로 팩트 확인할 것. 글로벌 AI 규제 임계점 도달 주장의 근거 확인 필요. 기업 일자리 지형 변화는 한국 사례 중심으로 구체화. 관련성 75점 — 보도 가치 있으나 취재 심도가 관건.",
+  "reporting_brief": {
+    "facts": [
+      {
+        "claim": "한국 AI 기본법(「인공지능 발전과 신뢰 기반 조성 등에 관한 기본법」)은 2024년 12월 26일 국회 본회의에서 재석 264명 중 260명 찬성으로 통과, 2026년 1월 22일부터 본격 시행됐다. EU에 이어 세계 두 번째로 포괄적 AI 규제 체계를 갖춘 국가가 됐다.",
+        "source_url": "https://peekaboolabs.ai/blog/ai-basic-law-guide",
+        "quote": "2024년 12월 26일, 국회 본회의는 재석 264명 중 찬성 260명으로 「인공지능 발전과 신뢰 기반 조성 등에 관한 기본법」을 통과시켰어요. 이 법은 2026년 1월 22일부터 본격 시행되며, 우리나라가 유럽연합(EU)에 이어 세계에서 두 번째로 포괄적인 AI 규제 체계를 갖추게 되는 역사적 순간이었죠."
+      },
+      {
+        "claim": "AI 기본법 시행 직후 정부는 '필요 최소 규제' 원칙 아래 산업 진흥에 방점을 뒀으며, 통신·플랫폼 기업 등 민간도 AI 거버넌스·안전 체계 정비에 속도를 내고 있다.",
+        "source_url": "https://www.electimes.com/news/articleView.html?idxno=364499",
+        "quote": "2026년 1월 22일 인공지능(AI) 기본법이 시행된 가운데 적용 기준에 산업계가 촉각을 곤두세우고 있다. 정부는 '필요 최소 규제' 원칙 아래 산업 진흥에 방점을 찍었고 통신·플랫폼 기업 등 민간도 AI 거버넌스와 안전 체계 정비에 속도를 내고 있다."
+      },
+      {
+        "claim": "AI 전문가 이안 칸(Ian Khan)은 2026년 2월 분석에서 'AI 규제 임계점'에 도달했다고 진단. 핵심 테마는 ① 위험 기반 분류 ② 의무적 영향 평가 ③ 투명성 의무 세 가지다.",
+        "source_url": "https://www.kjob.news/news/471038",
+        "quote": "우리는 AI 규제의 임계점에 도달했다. 이는 기존의 자율 규제 방식에서 법적 강제력을 갖춘 규제 체계로의 전환을 의미한다."
+      },
+      {
+        "claim": "AI 규제 준수 관련 시장이 2026년까지 약 470억 달러 규모로 성장할 전망 (Career Ahead Magazine, 2026년 2월).",
+        "source_url": "https://www.kjob.news/news/471038",
+        "quote": "Career Ahead Magazine의 2026년 2월 보고서는 AI 규제 준수 관련 시장이 2026년까지 약 470억 달러 규모로 성장할 것으로 예상합니다."
+      },
+      {
+        "claim": "국내 AI 스타트업의 62%가 '규제 준수 비용이 운영 예산의 15% 이상을 차지한다'고 응답 (한국인터넷기업협회, 2026년 1월 설문).",
+        "source_url": "https://www.kjob.news/news/471038",
+        "quote": "국내 AI 스타트업의 62%가 '규제 준수 비용이 운영 예산의 15% 이상을 차지한다'고 응답했습니다."
+      },
+      {
+        "claim": "한국정보통신기술협회(TTA)는 2025년부터 'AI 신뢰성 인증제도'를 시범 운영 중이며, 2026년부터 본격 인증을 시작할 예정이다.",
+        "source_url": "https://www.kjob.news/news/471038",
+        "quote": "한국정보통신기술협회(TTA)가 2025년부터 'AI 신뢰성 인증제도'를 시범 운영하고 있으며, 2026년부터는 본격적인 인증을 시작할 예정입니다."
+      },
+      {
+        "claim": "KAIST는 AI 단과대학 설립 및 'AI미래학과' 개설 — AI의 사회적 영향, 데이터·알고리즘 윤리, 정책·제도, 경제·거버넌스 등 교육. (2025년 12월 발표)",
+        "source_url": "https://www.aipedia.co.kr/news/450661",
+        "quote": "AI미래학과: AI의 사회적 영향, 데이터 및 알고리즘 윤리, 정책과 제도, 경제 및 거버넌스 등 미래 전략 분야의 교육을 제공하여 AI 시대의 정책 결정과 방향성을 제시할 미래 전략가를..."
+      }
+    ],
+    "perspectives": [
+      "찬성(규제 필요·기회론): 서울대 AI정책센터 김영진 교수 - 'AI 규제 강화는 필연적이며, 적절한 규제는 국내 AI 산업의 신뢰성을 높여 글로벌 경쟁력을 강화하는 계기가 될 수 있다.' 이안 칸 - '규제는 혁신의 적이 아니라 지속 가능한 혁신의 조건, 신뢰받지 못하는 AI는 결국 시장에서 퇴출될 것.'",
+      "반대·우려(혁신 저해론): 실리콘밸리 일부 기업가들 - '과도한 규제가 미국의 AI 경쟁력을 약화시킬 수 있다.' 국내 중소기업·스타트업 - 규제 준수 비용 부담 호소(62%가 운영예산 15% 이상 소요 응답).",
+      "균형론: MIT 미디어랩 조이 이토 전 소장 - '규제 없는 혁신은 사회적 수용성을 잃고 결국 지속 불가능해진다.' 2026년 2월 다보스 WEF - 국경을 넘는 AI 시스템의 특성상 국제적 규제 조화가 필수라는 데 각국 정부·기업·시민사회 의견 모음."
+    ],
+    "suggested_angle": "한국 AI 기본법 시행(2026.1.22) 이후 현장 — '최소 규제' 원칙과 스타트업 비용 부담 사이의 간극. 포춘 500 기업의 30%가 이미 'Chief AI Ethics Officer'를 신설한 글로벌 흐름과 달리, 국내 중소·스타트업은 준수 비용에 허덕이고 있다. 대학의 AI 거버넌스 학과 신설이 이 간극을 메울 인력을 공급할 수 있는가?",
+    "sources_used": [
+      "https://www.kjob.news/news/471038",
+      "https://peekaboolabs.ai/blog/ai-basic-law-guide",
+      "https://www.electimes.com/news/articleView.html?idxno=364499",
+      "https://www.aipedia.co.kr/news/450661"
+    ],
+    "gaps": [
+      "서울대·연세대 AI 윤리 과목 필수화 여부 — 원본 기사는 언급했으나 각 대학 공식 커리큘럼 확인 필요 (KAIST만 독립 학과 신설 확인됨)",
+      "OECD 'AI and the Future of Skills' 2025년 보고서 원문 직접 확인 필요",
+      "한국고용정보원의 'AI 관련 전문 인력 수요 급증' 보고서 원문 미확인",
+      "네이버·카카오·LG AI연구원 AI 윤리위원회 구체적 구성 및 활동 내역 미확인",
+      "'AI 규제 준수 전문가', 'AI 윤리 감사관' 등 새 직종의 국내 실제 채용 현황 데이터 부재"
+    ]
+  },
+  "draft": {
+    "headline": "AI 기본법 40일, 스타트업 62% '비용 부담'",
+    "subheadline": "세계 두 번째 포괄적 AI 규제국이 된 한국, '최소 규제' 원칙과 현장 괴리 여전",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <!-- 리드 문단 -->\n  <div style=\"border-left:4px solid #4338ca;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">한국 AI 기본법이 시행 6주를 넘긴 가운데, 국내 AI 스타트업 10곳 중 6곳 이상이 규제 준수 비용으로 운영 예산의 15% 이상을 소진하고 있는 것으로 나타났습니다. 정부가 '필요 최소 규제' 원칙을 내세웠지만 현장에서 체감하는 무게는 다릅니다. EU에 이어 세계 두 번째 포괄적 AI 규제 체계를 갖춘 한국이 이 간극을 어떻게 좁힐지가 2026년 AI 산업의 핵심 과제로 부상하고 있습니다.</p>\n  </div>\n\n  <!-- 섹션 1: 법 시행과 정부 입장 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">\"세계 두 번째\" 타이틀, 그 이면의 현실</h2>\n  <p style=\"margin:0 0 36px;\">2024년 12월 26일, 국회 본회의는 재석 264명 중 260명 찬성이라는 압도적 지지로 「인공지능 발전과 신뢰 기반 조성 등에 관한 기본법」을 통과시켰습니다. 이 법은 2026년 1월 22일부터 본격 시행에 들어가며 한국을 EU에 이어 세계에서 두 번째로 포괄적 AI 규제 체계를 갖춘 국가로 만들었습니다. 정부는 '필요 최소 규제' 원칙을 천명하고 산업 진흥에 방점을 찍었으며, 통신·플랫폼 대기업들도 AI 거버넌스 체계 정비에 속도를 내고 있습니다. 그러나 중소기업과 스타트업이 체감하는 온도는 현저히 다릅니다.</p>\n\n  <!-- 인용 블록 -->\n  <blockquote style=\"border-left:4px solid #4338ca;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">\"AI 규제 강화는 필연적입니다. 적절한 규제는 국내 AI 산업의 신뢰성을 높여 글로벌 경쟁력을 강화하는 계기가 될 수 있습니다.\"</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— 김영진 교수, 서울대 AI정책센터</p>\n  </blockquote>\n\n  <!-- 섹션 2: 현장의 비용 부담 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">스타트업 62%, \"운영 예산 15% 이상이 규제 비용\"</h2>\n  <p style=\"margin:0 0 36px;\">한국인터넷기업협회가 2026년 1월 실시한 설문에 따르면, 국내 AI 스타트업의 62%가 규제 준수 비용이 운영 예산의 15% 이상을 차지한다고 답했습니다. 글로벌 시장에서 AI 규제 준수 관련 시장 규모가 2026년 약 470억 달러(약 63조 원)에 이를 것으로 전망되는 상황에서, 대기업은 이를 새 비즈니스 기회로 삼는 반면 스타트업은 생존 비용으로 짊어지는 구조가 고착화되고 있습니다. AI 전문가 이안 칸(Ian Khan)은 지난 2월 발표한 분석에서 전 세계가 'AI 규제 임계점'에 도달했다고 진단하며, 핵심 이슈로 위험 기반 분류, 의무적 영향 평가, 투명성 의무 세 가지를 꼽았습니다.</p>\n\n  <blockquote style=\"border-left:4px solid #4338ca;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">\"규제는 혁신의 적이 아니라 지속 가능한 혁신의 조건입니다. 신뢰받지 못하는 AI는 결국 시장에서 퇴출될 것입니다.\"</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— 이안 칸(Ian Khan), AI 전문가 (2026년 2월)</p>\n  </blockquote>\n\n  <!-- 섹션 3: 인증 제도와 인력 공급 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">인증 제도 본격화·대학은 인재 양성 나서</h2>\n  <p style=\"margin:0 0 36px;\">한국정보통신기술협회(TTA)는 2025년부터 'AI 신뢰성 인증제도'를 시범 운영해 왔으며, 2026년부터 본격 인증에 돌입합니다. 이 제도는 AI 시스템이 법적 요건을 충족하는지 검증하는 역할을 하지만, 인증 취득에 필요한 준비 비용이 스타트업에게는 또 다른 부담으로 작용할 수 있다는 지적도 나옵니다. 대학가에서는 관련 인력 수요에 대응하는 움직임이 가시화되고 있습니다. KAIST는 2025년 12월 AI 단과대학 설립과 함께 'AI미래학과'를 개설, AI의 사회적 영향·데이터 윤리·정책·거버넌스 전문가 양성에 나섰습니다. 다만 서울대·연세대 등 타 주요 대학의 AI 윤리 필수 과목 도입 여부는 아직 공식 확인이 필요한 상황입니다.</p>\n\n  <!-- 섹션 4: 전망 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">간극을 메울 방법은 있는가</h2>\n  <p style=\"margin:0 0 36px;\">글로벌 포춘 500 기업의 약 30%는 이미 'Chief AI Ethics Officer(최고 AI 윤리 책임자)' 직책을 신설한 것으로 알려져 있습니다. 국내 대기업도 이 흐름을 따르고 있지만, 정작 기술 혁신의 최전선에 있는 스타트업 생태계가 규제 비용으로 활력을 잃을 수 있다는 우려가 커지고 있습니다. WEF(세계경제포럼)는 2026년 2월 다보스에서 \"국경을 초월하는 AI 시스템의 특성상 국제적 규제 조화가 필수\"라는 데 각국 정부·기업·시민사회가 공감했다고 밝혔습니다. 국내에서는 AI 기본법 시행령·가이드라인 세부 내용이 확정되는 올 상반기가 스타트업 생존과 혁신 생태계 유지의 분수령이 될 전망입니다.</p>\n\n  <!-- 참고 자료 -->\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.kjob.news/news/471038\" style=\"color:#4338ca;text-decoration:none;\">2026 AI 규제 임계점 도달: 글로벌 기업 전략 재편과 일자리 지형 변화 — 전국인력신문</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://peekaboolabs.ai/blog/ai-basic-law-guide\" style=\"color:#4338ca;text-decoration:none;\">한국 AI 기본법 완벽 가이드 — PeekaboLabs</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.electimes.com/news/articleView.html?idxno=364499\" style=\"color:#4338ca;text-decoration:none;\">AI 기본법 시행, 산업계 촉각 — 전기신문</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.aipedia.co.kr/news/450661\" style=\"color:#4338ca;text-decoration:none;\">KAIST AI 단과대학 및 AI미래학과 신설 — AI페디아</a></li>\n    </ol>\n  </div>\n\n  <!-- AI 공개 각주 -->\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "AI교육",
+      "교육정책",
+      "AI규제",
+      "AI기본법",
+      "에듀테크"
+    ],
+    "references": [
+      {
+        "num": 1,
+        "url": "https://www.kjob.news/news/471038",
+        "title": "2026 AI 규제 임계점 도달: 글로벌 기업 전략 재편과 일자리 지형 변화 — 전국인력신문"
+      },
+      {
+        "num": 2,
+        "url": "https://peekaboolabs.ai/blog/ai-basic-law-guide",
+        "title": "한국 AI 기본법 완벽 가이드 — PeekaboLabs"
+      },
+      {
+        "num": 3,
+        "url": "https://www.electimes.com/news/articleView.html?idxno=364499",
+        "title": "AI 기본법 시행, 산업계 촉각 — 전기신문"
+      },
+      {
+        "num": 4,
+        "url": "https://www.aipedia.co.kr/news/450661",
+        "title": "KAIST AI 단과대학 및 AI미래학과 신설 — AI페디아"
+      }
+    ],
+    "word_count": 920,
+    "article_type": "news"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector",
+      "action": "collected",
+      "timestamp": "2026-03-02T20:03:00+01:00",
+      "note": "관련성 75점 — 한국 대학 AI 윤리 필수과목 도입 언급, 12시간 전 발행"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-02T20:37:00+01:00",
+      "note": "관련성 점수 75 (경계값) — 배정. 취재 심도에 따라 보도 가치 결정될 것. 대학 커리큘럼 구체 사실 확인 필수."
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-02T21:17:00+01:00",
+      "note": "원본 기사 전문 수집. AI 기본법 시행 관련 electimes, peekaboolabs, KAIST AI 단과대 개설(aipedia) 소스 추가 확보. 서울대·연세대 AI 윤리 필수화는 원본 기사 외 독자 확인 미완 — gaps에 기재."
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-03T03:09:00+01:00",
+      "note": "역피라미드 구조 합니다체 기사 작성 완료. 헤드라인 28자. 4개 섹션, 인용 2개, 소스 4개 포함. 서울대·연세대 AI 윤리 필수화는 미확인 gaps 반영해 '공식 확인 필요'로 처리. 카테고리: policy(#4338ca)."
+    },
+    {
+      "agent": "fact-checker",
+      "action": "verified",
+      "timestamp": "2026-03-03T03:30:00+01:00",
+      "note": "전체 신뢰도 70, FLAG. 핵심 법률 사실(AI 기본법 통과·시행, KAIST 단과대 신설) 검증 완료. 통계 3건(470억 달러·62% 설문·포춘 500 30%) 1차 소스 미확인 — kjob.news 단독 인용. 이안 칸 발언 원본 미확인. 수정 권고: 미검증 통계 수치 삭제 또는 출처 표기 강화 필요."
+    },
+    {
+      "agent": "editor-desk",
+      "action": "revise",
+      "timestamp": "2026-03-03T03:58:00+01:00",
+      "note": "FLAG (신뢰도 70) 검토 — 플래그된 주장 4건 직접 검토 결과 REVISE 결정. 미검증 통계 3건(①470억 달러 시장 전망 신뢰도 40·kjob.news 단독 ②스타트업 62% 비용 부담 신뢰도 45·kjob.news 단독 ③포춘 500 30% CAEO 신설 신뢰도 40·출처 불명)이 기사의 핵심 논거로 활용됐으나 1차 소스 미확인. 수정 지시: 미검증 통계 3건 삭제 또는 \"~에 따르면(미확인)\" 조건부 표현 처리 필수. 이안 칸 발언은 내용이 일반 담론과 일치하므로 유지 가능하나 원본 링크 보강 권고. AI 기본법 시행·규제 전환 흐름 등 핵심 팩트는 견고하므로 골격 유지. revision_count=1"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "auto-rejected",
+      "reason": "FLAG verdict, confidence 70 < 75 threshold",
+      "timestamp": "2026-03-03T03:06:57.438207"
+    }
+  ],
+  "fact_check_report": {
+    "overall_confidence": 70,
+    "verdict": "FLAG",
+    "claims": [
+      {
+        "claim": "AI 기본법 2024년 12월 26일 국회 본회의 재석 264명 중 260명 찬성 통과",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "복수 1차 소스(화우법률, 이글루코퍼레이션, 피카부랩스 등) 확인. 출석 264명 중 찬성 260명, 반대 1명, 기권 3명",
+        "source_url": "https://www.igloo.co.kr/security-information/",
+        "flagged": false
+      },
+      {
+        "claim": "AI 기본법 2026년 1월 22일부터 본격 시행",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "전기신문, 클로브 블로그 등 복수 소스 확인",
+        "source_url": "https://www.electimes.com/news/articleView.html?idxno=364499",
+        "flagged": false
+      },
+      {
+        "claim": "EU에 이어 세계 두 번째 포괄적 AI 규제 체계",
+        "type": "definitional",
+        "verdict": "SUPPORTED",
+        "confidence": 80,
+        "evidence": "다수 언론·전문 블로그에서 동일 표현 사용. 공식 국제기구 확인은 없으나 학계·언론 통용",
+        "source_url": "https://edu.imaginationgroup.co.kr/korea-ai-basic-law-guide-2026/",
+        "flagged": false
+      },
+      {
+        "claim": "정부 필요 최소 규제 원칙 아래 산업 진흥 방점",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 85,
+        "evidence": "전기신문 2026.01.22 보도에서 확인",
+        "source_url": "https://www.electimes.com/news/articleView.html?idxno=364499",
+        "flagged": false
+      },
+      {
+        "claim": "AI 규제 준수 시장 2026년 약 470억 달러 전망 (Career Ahead Magazine)",
+        "type": "statistical",
+        "verdict": "UNVERIFIABLE",
+        "confidence": 40,
+        "evidence": "Career Ahead Magazine 원본 보고서 독립 확인 불가. kjob.news 외 동일 수치 미출현. Gartner는 2030년 AI 거버넌스 플랫폼 시장 10억 달러 규모로 훨씬 낮은 추산 (시장 정의 및 규모 불일치)",
+        "source_url": "https://www.kjob.news/news/471038",
+        "flagged": true
+      },
+      {
+        "claim": "국내 AI 스타트업의 62%가 규제 준수 비용이 운영 예산의 15% 이상 (한국인터넷기업협회 2026.1 설문)",
+        "type": "statistical",
+        "verdict": "UNVERIFIABLE",
+        "confidence": 45,
+        "evidence": "한국인터넷기업협회 원본 설문 보고서 독립 확인 불가. kjob.news 단독 인용이며 2차 보도 미출현",
+        "source_url": "https://www.kjob.news/news/471038",
+        "flagged": true
+      },
+      {
+        "claim": "TTA AI 신뢰성 인증제도 2025년 시범 운영, 2026년 본격 인증",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 75,
+        "evidence": "aitrustops.or.kr 및 tta.or.kr에서 AI 신뢰성 인증(CAT) 활동 확인. 2025 시범→2026 본격 구체 타임라인 독립 확인은 제한적",
+        "source_url": "https://www.tta.or.kr/tta",
+        "flagged": false
+      },
+      {
+        "claim": "KAIST AI 단과대학 설립 및 AI미래학과 개설 (2025년 12월 발표)",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "한국경제, 중앙일보, 한국일보 등 복수 언론 2025.12.11 보도 일치. 이사회 의결 — AI컴퓨팅, AI시스템, AX, AI미래학과 4개 학과 신설 확인",
+        "source_url": "https://www.hankyung.com/article/2025121187021",
+        "flagged": false
+      },
+      {
+        "claim": "포춘 500 기업의 약 30%가 Chief AI Ethics Officer 직책 신설",
+        "type": "statistical",
+        "verdict": "UNVERIFIABLE",
+        "confidence": 40,
+        "evidence": "30% 수치 지지하는 독립적 1차 소스 미확인. Chief AI Officer 확산은 일반적으로 언급되나, Chief AI Ethics Officer 30% 수치 출처 불명",
+        "source_url": "https://www.kjob.news/news/471038",
+        "flagged": true
+      },
+      {
+        "claim": "이안 칸(Ian Khan) 2026년 2월 분석 — AI 규제 임계점, 위험기반 분류·의무적 영향평가·투명성 의무 3대 테마",
+        "type": "attribution",
+        "verdict": "UNVERIFIABLE",
+        "confidence": 55,
+        "evidence": "이안 칸 원본 분석 독립 확인 불가. kjob.news 인용 외 2차 소스 미확인. 내용 자체는 일반적 AI 규제 담론과 일치",
+        "source_url": "https://www.kjob.news/news/471038",
+        "flagged": true
+      }
+    ]
+  },
+  "revision_count": 1,
+  "desk_revision_notes": [
+    "[REVISE 2차 수정 지시] ①470억 달러 시장 전망 — Career Ahead Magazine 원본 미확인, Gartner 수치와 현격히 불일치. 삭제 또는 \"일부 전망에 따르면\" 처리. ②스타트업 62% 비용 부담 — 기사 핵심 통계이나 kjob.news 단독. 한국인터넷기업협회 원본 보고서 직접 확인 후 게재 또는 삭제. ③포춘 500 30% CAEO 신설 — 출처 불명 통계. 삭제 필수. ④이안 칸 발언 — 내용 유지 가능, 원본 기고문 URL 추가 시도 권고."
+  ]
+}
