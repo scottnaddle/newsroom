@@ -49,61 +49,54 @@ generateOGCard({
 ```
 Noto Sans CJK 폰트 사용 → 한국어 완벽 렌더링, 100% 고유 이미지
 
-### 3-B. 경향신문 스타일 HTML 디자인 적용 (필수)
+### 3-B. HTML 발행 전 필수 정제 (⚠️ 중요)
 
-**copy_edit.final_html을 Ghost에 그대로 올리지 말고 반드시 아래 디자인 래퍼를 적용할 것.**
+copy_edit.final_html을 Ghost에 올리기 전 반드시 아래 항목 제거:
 
-카테고리별 accent 색상:
-- policy: `#4338ca` / research: `#059669` / industry: `#d97706` / opinion: `#7c3aed` / data: `#0284c7`
+1. **AI 공개 배지 (상단 pill) — 절대 금지**
+   - `<div style="margin-bottom:32px;"><span ...>🤖 AI 생성 콘텐츠...` 형태 모두 제거
+   - AI 기본법 고지는 기사 **하단 각주**로만:
+     ```html
+     <p style="margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>
+     ```
 
-```javascript
-const { applyDesign } = require('/root/.openclaw/workspace/newsroom/scripts/redesign-articles.js');
-// 또는 아래 패턴을 직접 사용:
+2. **수치 카드/배너 (display:flex) — 절대 금지**
+   - `<div style="display:flex;gap:14px...` 형태 모두 제거
 
-const accent = '#4338ca'; // 카테고리에 따라 변경
+3. **올바른 HTML 구조 (이 구조만 사용)**
+```html
+<!--kg-card-begin: html-->
+<div style="font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;">
 
-const designedHtml = `<!--kg-card-begin: html-->
-<div style="font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;">
-
-  <!-- AI 공개 배지 -->
-  <div style="margin-bottom:32px;">
-    <span style="display:inline-flex;align-items:center;gap:6px;background:#eef2ff;border:1px solid #c7d2fe;padding:5px 12px;border-radius:20px;font-size:13px;color:${accent};font-weight:500;">
-      🤖 AI 생성 콘텐츠 · AI 기본법 제31조
-    </span>
+  <!-- 리드 박스 (필수) -->
+  <div style="border-left:4px solid {accent};padding:18px 22px;background:#f8f9ff;border-radius:0 8px 8px 0;margin-bottom:48px;">
+    <p style="margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;">{리드 문단}</p>
   </div>
 
-  <!-- 리드 문단 (첫 단락, 굵게) -->
-  <div style="border-left:4px solid ${accent};padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;">
-    <p style="margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;">{리드 문단 텍스트}</p>
-  </div>
+  <!-- 본문 섹션들 -->
+  <h2 style="font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;">{제목}</h2>
+  <p style="margin:0 0 32px;">{본문}</p>
 
-  <!-- 핵심 수치 카드 3개 (기사에서 숫자 추출) -->
-  <div style="display:flex;gap:14px;margin-bottom:52px;flex-wrap:wrap;">
-    <div style="flex:1;min-width:120px;background:${accent};color:#fff;padding:22px 16px;border-radius:10px;text-align:center;">
-      <div style="font-size:2.2rem;font-weight:800;line-height:1.1;">{수치}</div>
-      <div style="font-size:14px;margin-top:6px;opacity:0.85;">{레이블}</div>
-    </div>
-    ...
-  </div>
-
-  <!-- 섹션 헤더 -->
-  <h2 style="font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;">{섹션 제목}</h2>
-  <p style="margin:0 0 36px;">{본문}</p>
-
-  <!-- 인용 블록 -->
-  <blockquote style="border-left:4px solid ${accent};padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;">
-    <p style="margin:0;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;">{인용문}</p>
+  <!-- 인용 (선택) -->
+  <blockquote style="border-left:4px solid {accent};padding:16px 22px;margin:0 0 40px;background:#f8f9ff;border-radius:0 6px 6px 0;font-style:italic;color:#374151;">
+    <p style="margin:0 0 8px;">{인용문}</p>
+    <p style="margin:0;font-size:14px;color:#64748b;">— 출처</p>
   </blockquote>
 
-</div>
-<!--kg-card-end: html-->`;
-```
+  <!-- 참고 자료 (필수) -->
+  <div style="margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;">
+    <p style="margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;">참고 자료</p>
+    <ol style="font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;">
+      <li style="margin-bottom:6px;"><a href="{URL}" style="color:#4338ca;text-decoration:none;">{제목}</a></li>
+    </ol>
+  </div>
 
-**또는 스크립트 직접 호출 (권장):**
-```bash
-node /root/.openclaw/workspace/newsroom/scripts/redesign-articles.js
+  <!-- AI 각주 (필수, 맨 하단) -->
+  <p style="margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>
+
+</div>
+<!--kg-card-end: html-->
 ```
-이 스크립트는 08-published 파이프라인의 모든 기사를 자동 재처리함.
 
 ### 4. JWT 토큰 생성
 Admin API Key 형식: `{id}:{secret}`
@@ -144,7 +137,7 @@ Content-Type: application/json
     "meta_title": "copy_edit.meta_suggestion.meta_title",
     "meta_description": "copy_edit.meta_suggestion.meta_description",
     "custom_excerpt": "draft.subheadline",
-    "codeinjection_foot": "<p><em>[AI 생성 콘텐츠] 이 기사는 AI가 작성했습니다. (AI 기본법 제31조)</em></p>"
+    "codeinjection_foot": ""
   }]
 }
 ```

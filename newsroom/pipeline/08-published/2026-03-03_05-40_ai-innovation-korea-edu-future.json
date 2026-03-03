@@ -1,0 +1,34 @@
+{
+  "id": "20260303054000-001",
+  "stage": "published",
+  "created_at": "2026-03-03T05:40:00+01:00",
+  "priority": 2,
+  "source": {
+    "title": "AI 혁신, 한국 교육의 미래를 여는 열쇠",
+    "url": "https://www.kjob.news/news/471057",
+    "source_name": "kjob.news"
+  },
+  "draft": {
+    "headline": "교육부 AI 인재 양성 재출발, 디지털교과서 실패 교훈 담겼나",
+    "subheadline": "2025년 1조 원 투입 AI 교과서 사업 좌초 후 새 청사진 발표... '속도'보다 '내실' 전환 여부 주목",
+    "ghost_tags": ["AI교육", "교육정책", "디지털교과서", "한국교육"]
+  },
+  "publish_result": {
+    "ghost_post_id": "69a69933e9865e00011c1e5b",
+    "ghost_draft_url": "https://askedtech.ghost.io/ghost/#/editor/post/69a69933e9865e00011c1e5b",
+    "status": "draft",
+    "published_at": "2026-03-03T09:17:00+01:00",
+    "feature_image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://askedtech.ghost.io/content/images/2026/03/og-card-8.png"
+  },
+  "audit_log": [
+    {"agent": "source-collector", "action": "collected", "timestamp": "2026-03-03T05:40:00+01:00", "note": "관련성 78점"},
+    {"agent": "editor-desk", "action": "assigned", "timestamp": "2026-03-03T06:02:00+01:00"},
+    {"agent": "reporter", "action": "reported", "timestamp": "2026-03-03T06:45:00+01:00"},
+    {"agent": "writer", "action": "drafted", "timestamp": "2026-03-03T07:12:00+01:00"},
+    {"agent": "fact-checker", "action": "verified", "timestamp": "2026-03-03T08:06:00+01:00", "note": "신뢰도 85, PASS"},
+    {"agent": "editor-desk", "action": "approved", "timestamp": "2026-03-03T09:06:00+01:00"},
+    {"agent": "copy-editor", "action": "copy-edited", "timestamp": "2026-03-03T09:11:00+01:00"},
+    {"agent": "publisher", "action": "published-draft", "timestamp": "2026-03-03T09:17:00+01:00", "note": "Ghost draft URL: https://askedtech.ghost.io/ghost/#/editor/post/69a69933e9865e00011c1e5b"}
+  ]
+}
