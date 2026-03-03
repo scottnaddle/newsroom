@@ -1,6 +1,6 @@
 {
   "id": "20260303054000-001",
-  "stage": "drafted",
+  "stage": "fact-checked",
   "created_at": "2026-03-03T05:40:00+01:00",
   "priority": 2,
   "source": {
@@ -83,10 +83,101 @@
     "word_count": 1380,
     "article_type": "analysis"
   },
+  "fact_check_report": {
+    "overall_confidence": 85,
+    "verdict": "PASS",
+    "checked_at": "2026-03-03T08:06:00+01:00",
+    "claims": [
+      {
+        "claim": "최교진 교육부 장관이 '모두를 위한 AI 인재 양성 방안'을 발표했다",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 98,
+        "evidence": "korea.kr 공식 정책브리핑 원문에서 최교진 장관 발표 직접 확인. 중앙일보, 조선비즈 등 주요 언론도 2025년 11월 10일 발표 사실 보도",
+        "source_url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156727284",
+        "flagged": false
+      },
+      {
+        "claim": "2028년까지 17개 시도교육청에 AI 교육지원센터 설치",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 92,
+        "evidence": "Korea.kr 공식 브리핑 및 산업종합저널 보도에서 '2028년까지 17개 전체 시도교육청' 표현 확인",
+        "source_url": "https://industryjournal.co.kr/news/243910",
+        "flagged": false
+      },
+      {
+        "claim": "5대 핵심 분야 / 전 생애 주기 AI 교육 강화",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 98,
+        "evidence": "교육부 공식 브리핑에서 '다섯 가지 핵심 분야'와 '전 생애주기' 표현 직접 확인",
+        "source_url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156727284",
+        "flagged": false
+      },
+      {
+        "claim": "AI 디지털교과서 76종, 초3·4, 중1, 고1 대상 영어·수학·정보 교과에 도입",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 98,
+        "evidence": "교육부 공식 보도자료 및 전자신문, 경향신문, korea.kr 등 다수 소스에서 '76종 검정 합격' '초등학교 3·4학년, 중학교 1학년, 고등학교 1학년의 수학, 영어, 정보 교과' 확인",
+        "source_url": "https://www.etnews.com/20241129000002",
+        "flagged": false
+      },
+      {
+        "claim": "한 학기 만에 공식 교과서 지위 박탈, '보조자료'로 격하",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 78,
+        "evidence": "한 학기 만에 교과서 지위 박탈 사실은 다수 언론에서 확인됨 (뉴스UNN 2025.8.4, 조선에듀, 경향신문). 단, 정확한 공식 용어는 '보조자료'가 아닌 '교육자료'임 — 경향신문·뉴스UNN 모두 '교육자료로 격하'로 표기. 기사 본문 수정 필요.",
+        "source_url": "https://news.unn.net/news/articleView.html?idxno=582114",
+        "flagged": true,
+        "flag_note": "⚠️ 용어 오류: '보조자료' → '교육자료'로 수정 필요. 공식 법안 및 교육부 발표 모두 '교육자료' 사용"
+      },
+      {
+        "claim": "약 8억 5천만 달러(약 1.2조 원) AI 디지털교과서 프로그램 예산",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 92,
+        "evidence": "Rest of World 2025.12.18 기사에서 'The government spent more than 1.2 trillion won ($850 million) on the AI textbook program' 확인. India Today, WebProNews 등도 $850M 수치 인용",
+        "source_url": "https://restofworld.org/2025/south-korea-ai-textbook/",
+        "flagged": false
+      },
+      {
+        "claim": "2025년 3월 기준 전국 6,339개 초등학교 중 30% 미만 활용",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "Korea Herald 2025.3.19 보도: '6,339개 초등학교 중 3학년 영어 1,843개교(29.1%), 수학 1,813개교(28.6%) 채택' — 교육부 데이터. Freiheit.org, Straits Times 등 복수 소스 확인",
+        "source_url": "https://www.koreaherald.com/article/10445407",
+        "flagged": false
+      },
+      {
+        "claim": "국회가 관련 예산·계획에 제동",
+        "type": "causal",
+        "verdict": "SUPPORTED",
+        "confidence": 82,
+        "evidence": "Freiheit.org: 'plans sparked a major controversy and were stalled by the parliament'. 경향신문 법안 통과 보도(교육자료 격하 법안) 등으로 국회 개입 확인",
+        "source_url": "https://www.freiheit.org/north-and-south-korea/south-korea-slows-down-ai-education",
+        "flagged": false
+      },
+      {
+        "claim": "스탠퍼드 대학교 AI 맞춤 학습 학생 참여도 40% 증가",
+        "type": "statistical",
+        "verdict": "UNVERIFIABLE",
+        "confidence": 20,
+        "evidence": "독립 검증 자료 없음. 원문(kjob.news) 단독 주장. 스탠퍼드 공식 채널 및 다른 학술·보도 소스에서 해당 수치 확인 불가. 본문에서 미사용된 점은 올바른 판단이며, 본문 반영 차단 확인됨.",
+        "source_url": "https://www.kjob.news/news/471057",
+        "flagged": true,
+        "flag_note": "⚠️ 검증 불가 수치 — 본문에 미포함된 상태 유지 필요. 추가 취재 또는 삭제 권고"
+      }
+    ]
+  },
   "audit_log": [
     { "agent": "source-collector", "action": "collected", "timestamp": "2026-03-03T05:40:00+01:00", "note": "관련성 78점 - 한국 AI 교육 정책 방향 분석" },
     { "agent": "editor-desk", "action": "assigned", "timestamp": "2026-03-03T06:02:00+01:00", "note": "relevance_score 78 ≥ 75 — 취재 배정" },
     { "agent": "reporter", "action": "reported", "timestamp": "2026-03-03T06:45:00+01:00", "note": "원문 + 교육부 공식 자료 + Rest of World/Freiheit 반론 소스 포함. 핵심 앵글: AI 교육 이상과 현실의 격차. 소스 6개 확보." },
-    { "agent": "writer", "action": "drafted", "timestamp": "2026-03-03T07:12:00+01:00", "note": "심층 분석 기사 작성 완료. 앵글: AI 교육 이상과 현실의 격차. 2025년 디지털교과서 실패를 중심으로 새 정책 비판적 점검. 미검증 수치(스탠퍼드 40%)는 본문 미사용, gaps 메모 유지." }
+    { "agent": "writer", "action": "drafted", "timestamp": "2026-03-03T07:12:00+01:00", "note": "심층 분석 기사 작성 완료. 앵글: AI 교육 이상과 현실의 격차. 2025년 디지털교과서 실패를 중심으로 새 정책 비판적 점검. 미검증 수치(스탠퍼드 40%)는 본문 미사용, gaps 메모 유지." },
+    { "agent": "fact-checker", "action": "verified", "timestamp": "2026-03-03T08:06:00+01:00", "note": "전체 신뢰도 85, PASS. 주요 사실 8개 중 7개 SUPPORTED. 1개 UNVERIFIABLE(스탠퍼드 40% — 본문 미포함 확인). 플래그 2개: (1) '보조자료' → '교육자료' 용어 수정 필요, (2) 스탠퍼드 수치 본문 차단 유지. 핵심 수치(76종, 6339교, 30% 미만, 1.2조원/$850M) 모두 1차 소스 확인 완료." }
   ]
 }

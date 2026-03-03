@@ -1,0 +1,20 @@
+{
+  "stage": "sourced",
+  "source": {
+    "title": "중국 쓰촨성 직업대학 AI 교육 실태: 교사 9%만 정식 훈련 받아",
+    "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1796803/full",
+    "source_name": "Frontiers in Education",
+    "language": "en",
+    "relevance_score": 80,
+    "summary": "중국 쓰촨성 고등직업학교 AI 활용 실태 연구: 교사·행정직원 9%만 AI 정식 연수 경험. 학생도 10% 미만. 정책·제도 부재가 주요 장벽.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-03T07:19:38.533184"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-manual",
+      "action": "sourced",
+      "timestamp": "2026-03-03T07:19:38.533187"
+    }
+  ]
+}

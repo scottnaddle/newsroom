@@ -1,0 +1,20 @@
+{
+  "stage": "sourced",
+  "source": {
+    "title": "인도, 2026~27년부터 3학년부터 AI·컴퓨팅 사고 필수 교육 도입",
+    "url": "https://educationforallinindia.com/artificial-intelligence-in-indian-school-education-use-misuse-and-preventive-measures/",
+    "source_name": "Education for All in India",
+    "language": "en",
+    "relevance_score": 83,
+    "summary": "인도 PIB 발표: 2026~27년부터 3학년 이상 전 학생에게 AI 및 컴퓨팅 사고 교육 의무화. IIT 마드라스 교수 주도 전문위원회가 커리큘럼 개발 중.",
+    "published_date": "2026-02-27",
+    "collected_at": "2026-03-03T07:19:38.532851"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-manual",
+      "action": "sourced",
+      "timestamp": "2026-03-03T07:19:38.532854"
+    }
+  ]
+}

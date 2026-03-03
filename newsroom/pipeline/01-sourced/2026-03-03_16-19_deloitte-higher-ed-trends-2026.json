@@ -1,0 +1,20 @@
+{
+  "stage": "sourced",
+  "source": {
+    "title": "딜로이트 \"2026 고등교육 핵심 트렌드: AI·등록 감소·연방 예산 삭감\"",
+    "url": "https://www.deloitte.com/us/en/insights/industry/articles-on-higher-education/2026-higher-education-trends.html",
+    "source_name": "Deloitte Insights",
+    "language": "en",
+    "relevance_score": 78,
+    "summary": "딜로이트, 2026 미국 고등교육 4대 위기 진단: AI 급부상, 학생 등록률 하락, 연방 재정 삭감, 규제 변화. 대학들의 구조적 재편 시나리오 분석.",
+    "published_date": "2026-02-27",
+    "collected_at": "2026-03-03T07:19:38.533107"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-manual",
+      "action": "sourced",
+      "timestamp": "2026-03-03T07:19:38.533110"
+    }
+  ]
+}

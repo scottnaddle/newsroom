@@ -1,0 +1,20 @@
+{
+  "stage": "sourced",
+  "source": {
+    "title": "중국 학부모들, 숙제 부담을 AI에 외주… NYT 심층 보도",
+    "url": "https://www.nytimes.com/2026/03/02/world/asia/china-education-ai.html",
+    "source_name": "New York Times",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "중국 학부모들이 자녀 경쟁력 제고와 숙제 부담 해소를 위해 AI 챗봇 활용 급증. 교육 공정성 논란과 학습 효과에 대한 우려 동반.",
+    "published_date": "2026-03-02",
+    "collected_at": "2026-03-03T07:19:38.532761"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-manual",
+      "action": "sourced",
+      "timestamp": "2026-03-03T07:19:38.532764"
+    }
+  ]
+}

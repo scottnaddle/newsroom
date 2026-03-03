@@ -1,0 +1,20 @@
+{
+  "stage": "sourced",
+  "source": {
+    "title": "싱가포르, AI 학습 활용이 학생 인지 발달에 미치는 영향 연구 착수",
+    "url": "https://en.vietnamplus.vn/singapore-studies-ais-impact-on-student-learning-post338325.vnp",
+    "source_name": "VietnamPlus/MOE Singapore",
+    "language": "en",
+    "relevance_score": 82,
+    "summary": "싱가포르 교육부(MOE), AI 과의존이 학생의 기초 기억력·고차 사고력 발달에 미치는 영향 연구. AI가 학습을 강화하되 인지 약화를 막는 방향 가이드라인 개발.",
+    "published_date": "2026-02-26",
+    "collected_at": "2026-03-03T07:19:38.532592"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-manual",
+      "action": "sourced",
+      "timestamp": "2026-03-03T07:19:38.532597"
+    }
+  ]
+}

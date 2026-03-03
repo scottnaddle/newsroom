@@ -2,20 +2,34 @@
   "brave_search": {
     "enabled": true,
     "queries_ko": [
-      "AI 교육 정책 한국 2025",
-      "인공지능 교육부 최신",
-      "에듀테크 AI 도입 학교",
-      "AI 교과서 한국",
-      "교육 인공지능 규제"
+      "AI 교육 정책 한국",
+      "인공지능 교육부 2026",
+      "에듀테크 AI 학교 도입",
+      "AI 디지털교과서 현장",
+      "교육 인공지능 윤리 규제",
+      "대학 AI 필수과목",
+      "AI 교원 연수 교사"
     ],
     "queries_en": [
-      "AI education policy Korea 2025",
-      "artificial intelligence classroom K-12",
-      "edtech AI tools schools",
-      "Korea AI education regulation"
+      "AI education policy K-12 2026",
+      "artificial intelligence classroom tools teachers",
+      "AI literacy students school",
+      "edtech AI regulation policy",
+      "generative AI higher education university",
+      "AI tutoring personalized learning",
+      "ChatGPT schools ban policy",
+      "AI education UNESCO OECD 2026",
+      "US AI education executive order school",
+      "EU AI Act education implications",
+      "AI teacher training professional development",
+      "machine learning curriculum high school",
+      "India China AI education national policy",
+      "Singapore UK AI education strategy",
+      "AI education ethics children safety"
     ],
     "freshness": "pw",
-    "results_per_query": 5
+    "results_per_query": 5,
+    "max_queries_per_run": 6
   },
   "rss_feeds": [
     { "name": "연합뉴스 사회", "url": "https://www.yna.co.kr/rss/society.xml", "type": "news", "priority": 1 },
@@ -31,5 +45,5 @@
     "include_queue": 50,
     "exclude_below": 49
   },
-  "dedup_window_hours": 72
+  "dedup_window_hours": 48
 }

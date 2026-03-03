@@ -1,0 +1,20 @@
+{
+  "stage": "sourced",
+  "source": {
+    "title": "미국 학교들, AI에 대규모 베팅… 뉴욕시만 '유보'",
+    "url": "https://dnyuz.com/2026/03/02/u-s-schools-are-betting-big-on-a-i-will-new-york-city-be-next/",
+    "source_name": "DNYUZ (NYT)",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "미국 주요 도시 학교들이 생성형 AI를 K-12 및 고등교육에 대규모 도입하고 있지만, 미국 최대 학군인 뉴욕시만 유일하게 보류 입장을 유지 중.",
+    "published_date": "2026-03-02",
+    "collected_at": "2026-03-03T07:19:38.531149"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-manual",
+      "action": "sourced",
+      "timestamp": "2026-03-03T07:19:38.531194"
+    }
+  ]
+}

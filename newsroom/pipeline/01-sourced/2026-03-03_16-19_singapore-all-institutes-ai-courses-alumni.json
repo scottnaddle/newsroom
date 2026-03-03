@@ -1,0 +1,20 @@
+{
+  "stage": "sourced",
+  "source": {
+    "title": "싱가포르, 2026년 하반기 전 고등교육기관 AI 과목 동문 할인 수강 제공",
+    "url": "https://www.businesstimes.com.sg/singapore/economy-policy/budget-2026-new-sme-ai-skills-launchpad-help-businesses-elevate-ai-awareness-adopt-solutions",
+    "source_name": "The Business Times",
+    "language": "en",
+    "relevance_score": 80,
+    "summary": "싱가포르 예산 2026: 2026년 하반기부터 전 고등교육기관이 졸업생에게 AI 관련 과목 1년간 대폭 할인 제공. SME AI 스킬즈 런치패드도 신설.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-03T07:19:38.532684"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-manual",
+      "action": "sourced",
+      "timestamp": "2026-03-03T07:19:38.532688"
+    }
+  ]
+}
