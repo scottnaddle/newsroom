@@ -67,10 +67,21 @@
 - `{accent}` → 카테고리에 맞는 색상 코드로 교체
 - 리드 박스: 반드시 포함
 - 수치 카드: **사용 금지**
-- AI 공개 배지(상단 pill): **사용 금지** — 대신 기사 맨 하단에 각주로:
+- AI 공개 배지(상단 pill): **절대 사용 금지** — 대신 기사 맨 하단에 각주로만:
   ```html
-  <p style="margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>
+  <p style="margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>
   ```
+- **출처/참고자료 섹션: 반드시 포함** — 기사 본문 하단, AI 각주 바로 위에:
+  ```html
+  <div style="margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;">
+    <p style="margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;">참고 자료</p>
+    <ol style="font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;">
+      <li style="margin-bottom:6px;"><a href="{URL}" style="color:#4338ca;text-decoration:none;">{출처 제목}</a></li>
+      ...
+    </ol>
+  </div>
+  ```
+  출처는 reporting_brief의 sources 또는 draft의 references 필드에서 가져올 것.
 - `<article>` 태그 사용 금지, `<div>` 래퍼만 사용
 
 ### 3. 결과 파일 저장

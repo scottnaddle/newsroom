@@ -1,0 +1,18 @@
+{
+  "id": "20260303-0230-001",
+  "stage": "sourced",
+  "created_at": "2026-03-03T02:30:00+01:00",
+  "priority": 3,
+  "source": {
+    "title": "What's Happening in AI in Schools Right Now?",
+    "url": "https://blog.alludolearning.com/whats-happening-ai-in-schools-right-now",
+    "source_name": "Alludo Learning Blog",
+    "relevance_score": 52,
+    "summary": "미국 학교에서 진행 중인 AI 교육 동향을 정리한 글. AI Ready Educator 과정, 캘리포니아 AI 준비도 인증(Seal of AI Readiness), Khan Academy AI 튜터링 파트너십 등 실제 파일럿 프로그램 사례를 소개한다. 한국 직접 관련은 없으나 글로벌 AI 교육 생태계 비교 참고자료로 활용 가능하다.",
+    "tags": ["edtech", "AI-literacy", "US-schools"],
+    "collected_via": "brave_search"
+  },
+  "audit_log": [
+    { "agent": "source-collector", "action": "collected", "timestamp": "2026-03-03T02:30:00+01:00", "note": "관련성 52점 — 글로벌 AI 교육 동향 참고자료" }
+  ]
+}
