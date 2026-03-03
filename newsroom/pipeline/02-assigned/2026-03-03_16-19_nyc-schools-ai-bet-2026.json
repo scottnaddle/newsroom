@@ -1,5 +1,5 @@
 {
-  "stage": "sourced",
+  "stage": "assigned",
   "source": {
     "title": "미국 학교들, AI에 대규모 베팅… 뉴욕시만 '유보'",
     "url": "https://dnyuz.com/2026/03/02/u-s-schools-are-betting-big-on-a-i-will-new-york-city-be-next/",
@@ -15,6 +15,13 @@
       "agent": "source-collector-manual",
       "action": "sourced",
       "timestamp": "2026-03-03T07:19:38.531194"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-03T09:05:00+01:00",
+      "note": "relevance_score 85 ≥ 75 — 취재 배정"
     }
-  ]
+  ],
+  "desk_instructions": "DNYUZ(NYT) 기사 기반 번역·분석. 미국 학교들의 AI 대규모 도입 현황 — 뉴욕시만 유보한 이유(사유, 담당자 발언). 다른 대도시 교육구 도입 사례 대비. 뉴욕시 유보 결정이 한국 신중론에 주는 시사점 각주 가능."
 }

@@ -1,5 +1,5 @@
 {
-  "stage": "sourced",
+  "stage": "assigned",
   "source": {
     "title": "딜로이트 \"2026 고등교육 핵심 트렌드: AI·등록 감소·연방 예산 삭감\"",
     "url": "https://www.deloitte.com/us/en/insights/industry/articles-on-higher-education/2026-higher-education-trends.html",
@@ -15,6 +15,13 @@
       "agent": "source-collector-manual",
       "action": "sourced",
       "timestamp": "2026-03-03T07:19:38.533110"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-03T09:05:00+01:00",
+      "note": "relevance_score 78 ≥ 75 — 취재 배정"
     }
-  ]
+  ],
+  "desk_instructions": "딜로이트 '2026 고등교육 핵심 트렌드' 리포트 요약. AI·등록 감소·연방 예산 삭감 세 축 중 AI 관련 부분 심층 정리. 한국 고등교육에 대한 시사점 도출. 리포트 원문 URL 및 발표 시점 확인."
 }

@@ -1,0 +1,20 @@
+{
+  "stage": "sourced",
+  "source": {
+    "title": "미국 버지니아주, AI 교육 활용 가이드라인 법안 발의",
+    "url": "https://virginiamercury.com/2026/03/02/va-lawmakers-propose-artificial-intelligence-guardrails-for-instructional-use-in-education/",
+    "source_name": "Virginia Mercury",
+    "language": "en",
+    "relevance_score": 86,
+    "summary": "버지니아주 의회, 교육 현장 AI 활용에 대한 가드레일 법안 발의. 알파 스쿨의 AI 전면 교체 방식 등 극단 사례에 대한 제도적 대응.",
+    "published_date": "2026-03-02",
+    "collected_at": "2026-03-03T17:17:56.253085"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-manual",
+      "action": "sourced",
+      "timestamp": "2026-03-03T17:17:56.253093"
+    }
+  ]
+}

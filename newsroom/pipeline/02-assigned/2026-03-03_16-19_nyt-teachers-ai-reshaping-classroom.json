@@ -1,5 +1,5 @@
 {
-  "stage": "sourced",
+  "stage": "assigned",
   "source": {
     "title": "\"AI가 교실을 바꾸고 있다\" — 미국 고교 교사들의 현장 목소리 (NYT)",
     "url": "https://www.nytimes.com/2026/02/26/learning/teachers-on-how-ai-is-reshaping-the-classroom.html",
@@ -15,6 +15,13 @@
       "agent": "source-collector-manual",
       "action": "sourced",
       "timestamp": "2026-03-03T07:19:38.533033"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-03T09:05:00+01:00",
+      "note": "relevance_score 82 ≥ 75 — 취재 배정"
     }
-  ]
+  ],
+  "desk_instructions": "NYT 현장 르포 기반. 미국 고교 교사들이 AI를 실제로 어떻게 활용하고 있는지 — 구체 사례(과목, 활용 방식), 효과와 우려 공존하는 목소리 정리. 한국 교사 대상 시사점 도출 가능. 교사 연수와 자율 활용 사이 균형 논의 앵글."
 }

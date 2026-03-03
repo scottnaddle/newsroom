@@ -1,0 +1,20 @@
+{
+  "stage": "sourced",
+  "source": {
+    "title": "\"AI 리터러시가 새 운전면허\" — 뉴어크 고교의 AI 수업 실험 (NYT)",
+    "url": "https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html",
+    "source_name": "New York Times",
+    "language": "en",
+    "relevance_score": 84,
+    "summary": "미국 뉴저지 뉴어크 노스스타 아카데미, 고교생 대상 AI 리터러시 정규 과목 개설. 'AI에 끌려다니지 않고 주도하는 법'을 가르치는 실험적 커리큘럼.",
+    "published_date": "2026-02-23",
+    "collected_at": "2026-03-03T17:17:56.253423"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-manual",
+      "action": "sourced",
+      "timestamp": "2026-03-03T17:17:56.253437"
+    }
+  ]
+}

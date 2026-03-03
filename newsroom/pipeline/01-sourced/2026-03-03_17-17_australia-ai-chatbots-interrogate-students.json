@@ -1,0 +1,20 @@
+{
+  "stage": "sourced",
+  "source": {
+    "title": "호주 학교서 AI 챗봇이 학생 면접 — 교사들은 우려",
+    "url": "https://www.theguardian.com/australia-news/2026/feb/23/ai-chatbots-schools-education-australian-students-paper",
+    "source_name": "The Guardian",
+    "language": "en",
+    "relevance_score": 83,
+    "summary": "호주 일부 학교에서 AI 챗봇이 학생 제출 과제를 직접 심문하는 방식 도입. 장애 학생용 Meta AI 안경 활용 사례도. 교사들은 AI 혁명에 우려와 기대 공존.",
+    "published_date": "2026-02-23",
+    "collected_at": "2026-03-03T17:17:56.252902"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-manual",
+      "action": "sourced",
+      "timestamp": "2026-03-03T17:17:56.252912"
+    }
+  ]
+}

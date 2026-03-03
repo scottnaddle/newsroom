@@ -1,5 +1,5 @@
 {
-  "stage": "sourced",
+  "stage": "assigned",
   "source": {
     "title": "미 하원 청문회 \"AI 교사 연수 필수\" 초당파 합의",
     "url": "https://www.k12dive.com/news/house-hearing-stresses-that-ai-teacher-training-is-a-must/813417/",
@@ -15,6 +15,13 @@
       "agent": "source-collector-manual",
       "action": "sourced",
       "timestamp": "2026-03-03T07:19:38.532950"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-03T09:05:00+01:00",
+      "note": "relevance_score 87 ≥ 75 — 취재 배정"
     }
-  ]
+  ],
+  "desk_instructions": "K-12 Dive 기사 기반. 미 하원 청문회 내용 — 초당파 합의 배경, 증인 발언 핵심 요약, 제안된 프레임워크 내용 정리. '기회·위험 탐색 지원'의 구체 방안 확인. 한국 교사 AI 연수 의무화 논의와 비교 앵글."
 }

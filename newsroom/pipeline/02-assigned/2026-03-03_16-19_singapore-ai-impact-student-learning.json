@@ -1,5 +1,5 @@
 {
-  "stage": "sourced",
+  "stage": "assigned",
   "source": {
     "title": "싱가포르, AI 학습 활용이 학생 인지 발달에 미치는 영향 연구 착수",
     "url": "https://en.vietnamplus.vn/singapore-studies-ais-impact-on-student-learning-post338325.vnp",
@@ -15,6 +15,13 @@
       "agent": "source-collector-manual",
       "action": "sourced",
       "timestamp": "2026-03-03T07:19:38.532597"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-03T09:05:00+01:00",
+      "note": "relevance_score 82 ≥ 75 — 취재 배정"
     }
-  ]
+  ],
+  "desk_instructions": "싱가포르 연구 개시 배경 및 주관 기관 확인. AI 학습 활용이 인지 발달(기억·추론·창의성)에 미치는 영향 — 연구 설계, 대상, 기간 정리. 한국 AI 교육 효과 검증 미비 이슈와 연계 가능. 결과 발표 예정 시점 확인."
 }
