@@ -1,5 +1,5 @@
 {
-  "stage": "copy-edited",
+  "stage": "published",
   "source": {
     "title": "버지니아주 의회, 공립학교 AI 활용 '안전·윤리·공정' 가이드라인 법안 통과",
     "url": "https://www.whro.org/education-news/2026-03-02/virginia-lawmakers-propose-guardrails-for-artificial-intelligence-use-in-education",
@@ -139,6 +139,12 @@
       "action": "copy-edited",
       "timestamp": "2026-03-04T13:39:00+01:00",
       "note": "팩트체커 플래그(법안 구조 단순화) 반영하여 '법안의 구조' 단락 수정: Pekarsky 법안(2단계 가이드라인)과 Rasoul HB1186(챗봇 금지 의무화)을 명확히 구분. 맞춤법·문법 이상 없음. AI 배지 없음, 참고 자료 있음, 수치 카드 없음, AI 고지 하단 정상."
+    },
+    {
+      "agent": "publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T12:49:00.183Z",
+      "note": "Ghost 게시 완료. URL: https://insight.ubion.global/virginia-ai-education-safe-ethical-equitable-bill/ | Editor: https://ubion.ghost.io/ghost/#/editor/post/69a82a2ce2eb440001d55764"
     }
   ],
   "fact_check_report": {
@@ -200,5 +206,12 @@
         "flagged": false
       }
     ]
+  },
+  "publish_result": {
+    "ghost_post_id": "69a82a2ce2eb440001d55764",
+    "ghost_post_url": "https://insight.ubion.global/virginia-ai-education-safe-ethical-equitable-bill/",
+    "ghost_editor_url": "https://ubion.ghost.io/ghost/#/editor/post/69a82a2ce2eb440001d55764",
+    "status": "published",
+    "published_at": "2026-03-04T12:49:00.182Z"
   }
 }
