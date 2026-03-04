@@ -167,7 +167,7 @@ ${topicList}
 Design a single-panel satirical cartoon. Respond in this exact JSON format:
 {
   "selectedTopic": "which headline you chose",
-  "imagePrompt": "detailed English prompt for image generation (NO Korean text in image, leave speech bubbles blank)",
+  "imagePrompt": "detailed English prompt for image generation. CRITICAL: absolutely NO speech bubbles, NO dialogue balloons, NO thought bubbles of any kind",
   "captionKorean": "bottom caption in Korean (max 30 chars)",
   "speechBubbleKorean": "main character speech bubble in Korean (max 20 chars)",
   "altText": "Korean description of the cartoon for accessibility"
@@ -193,7 +193,7 @@ Design a single-panel satirical cartoon. Respond in this exact JSON format:
   
   // 2단계: 이미지 생성 (텍스트 없이)
   console.log('이미지 생성 중...');
-  const imgResp = await generateImage(plan.imagePrompt + '\n\nIMPORTANT: Do NOT include any text, Korean characters, or speech bubbles with text in the image. Leave all speech bubble areas as empty white spaces.');
+  const imgResp = await generateImage(plan.imagePrompt + '\n\nCRITICAL: Absolutely NO speech bubbles, NO dialogue balloons, NO thought bubbles, NO empty ovals or circles near characters. NO text of any kind inside the image. Pure visual storytelling only.');
   
   const imgPart = imgResp?.candidates?.[0]?.content?.parts?.find(p => p.inlineData?.mimeType?.startsWith('image/'));
   if (!imgPart) {
@@ -223,14 +223,9 @@ Design a single-panel satirical cartoon. Respond in this exact JSON format:
   
   // 5단계: Ghost 포스트 발행
   const postTitle = `만평: ${plan.captionKorean}`;
-  const postHtml = `<div style="font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;text-align:center;">
-  <p style="margin:0 0 16px;">
-    <span style="display:inline-block;background:#1a1a2e;color:#fff;font-size:12px;font-weight:700;padding:4px 10px;border-radius:4px;">✏️ 오늘의 만평</span>
-  </p>
-  <p style="margin:16px 0 8px;font-size:18px;font-weight:700;color:#1a1a2e;">${plan.captionKorean}</p>
-  <p style="margin:0 0 24px;font-size:15px;color:#64748b;">오늘의 AI 교육 뉴스를 풍자한 만평입니다.</p>
-  <p style="margin:0 0 0;font-size:13px;color:#94a3b8;border-top:1px solid #f1f5f9;padding-top:12px;">관련 기사: ${plan.selectedTopic}</p>
-  <p style="margin:16px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;">본 만평은 AI가 생성했습니다 (AI 기본법 제31조)</p>
+  const postHtml = `<div style="font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;">
+  <p style="margin:0 0 12px;font-size:14px;color:#94a3b8;">관련 기사: ${plan.selectedTopic}</p>
+  <p style="margin:0;padding-top:12px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;">본 만평은 AI가 생성했습니다 (AI 기본법 제31조)</p>
 </div>`;
 
   const lexical = JSON.stringify({
