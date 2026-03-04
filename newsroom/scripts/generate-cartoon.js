@@ -109,20 +109,29 @@ function yesterday() {
 function addTextOverlay(inputPath, outputPath, caption, speechBubble) {
   const font = fs.existsSync(NOTO_FONT) ? NOTO_FONT : 'NanumGothic';
   
-  // 캡션 하단 추가
-  const captionCmd = [
-    'convert', inputPath,
+  // 1) 하단 흰색 캡션 바 추가 + 말풍선 텍스트 오버레이
+  const cmd = [
+    'convert', `"${inputPath}"`,
+    // 하단 50px 흰색 바 추가
     '-gravity', 'South',
-    '-font', font,
-    '-pointsize', '28',
+    '-background', 'white',
+    '-splice', '0x50',
+    // 하단 캡션 텍스트
+    '-font', `"${font}"`,
+    '-pointsize', '24',
     '-fill', 'black',
-    '-undercolor', 'white',
-    '-annotate', '+0+20', `"${caption}"`,
-    outputPath
+    '-gravity', 'South',
+    '-annotate', '+0+12', `"${caption}"`,
+    // 말풍선 텍스트 (왼쪽 상단 말풍선 영역)
+    '-gravity', 'NorthWest',
+    '-pointsize', '20',
+    '-fill', 'black',
+    '-annotate', '+120+145', `"${speechBubble}"`,
+    `"${outputPath}"`
   ].join(' ');
   
   try {
-    execSync(captionCmd, { stdio: 'pipe' });
+    execSync(cmd, { stdio: 'pipe' });
     console.log('텍스트 오버레이 완료:', outputPath);
     return true;
   } catch(e) {
@@ -225,7 +234,6 @@ Design a single-panel satirical cartoon. Respond in this exact JSON format:
   <p style="margin:0 0 16px;">
     <span style="display:inline-block;background:#1a1a2e;color:#fff;font-size:12px;font-weight:700;padding:4px 10px;border-radius:4px;">✏️ 오늘의 만평</span>
   </p>
-  <img src="${imageUrl}" alt="${plan.altText}" style="max-width:100%;border:1px solid #e2e8f0;border-radius:8px;" />
   <p style="margin:16px 0 8px;font-size:18px;font-weight:700;color:#1a1a2e;">${plan.captionKorean}</p>
   <p style="margin:0 0 24px;font-size:15px;color:#64748b;">오늘의 AI 교육 뉴스를 풍자한 만평입니다.</p>
   <p style="margin:0 0 0;font-size:13px;color:#94a3b8;border-top:1px solid #f1f5f9;padding-top:12px;">관련 기사: ${plan.selectedTopic}</p>
