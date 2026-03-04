@@ -33,12 +33,24 @@
   },
   "rss_feeds": [
     { "name": "연합뉴스 사회", "url": "https://www.yna.co.kr/rss/society.xml", "type": "news", "priority": 1 },
+    { "name": "교육신문", "url": "https://www.edunews.kr/rss.xml", "type": "news", "priority": 1 },
+    { "name": "한국대학신문", "url": "https://www.unn.net/rss", "type": "news", "priority": 1 },
     { "name": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/", "type": "research", "priority": 2 },
-    { "name": "EdSurge", "url": "https://www.edsurge.com/news.rss", "type": "industry", "priority": 3 }
+    { "name": "EdSurge", "url": "https://www.edsurge.com/news.rss", "type": "industry", "priority": 2 },
+    { "name": "EdNext", "url": "https://www.ednext.org/feed/", "type": "policy", "priority": 2 },
+    { "name": "Campus Technology", "url": "https://campustechnology.com/feed", "type": "industry", "priority": 2 },
+    { "name": "VentureBeat AI", "url": "https://venturebeat.com/feed/", "type": "tech", "priority": 3 },
+    { "name": "Brookings Institution", "url": "https://www.brookings.edu/feed/", "type": "research", "priority": 3 }
   ],
   "direct_sources": [
     { "name": "교육부 보도자료", "url": "https://www.moe.go.kr/boardCnts/list.do?boardID=294&m=0503&s=moe", "type": "policy", "priority": 1 },
-    { "name": "과기정통부 보도자료", "url": "https://www.msit.go.kr/bbs/list.do?sCode=user&mId=113&mPid=112", "type": "policy", "priority": 1 }
+    { "name": "과기정통부 보도자료", "url": "https://www.msit.go.kr/bbs/list.do?sCode=user&mId=113&mPid=112", "type": "policy", "priority": 1 },
+    { "name": "서울시교육청 뉴스", "url": "https://www.sen.go.kr/web/services/bbs/bbsList.action?bbsId=1004089", "type": "policy", "priority": 2 },
+    { "name": "한국교육학술정보원", "url": "https://www.keris.or.kr/", "type": "research", "priority": 2 },
+    { "name": "국가평생교육진흥원", "url": "https://www.lifelong.or.kr/", "type": "policy", "priority": 2 },
+    { "name": "UNESCO Learning", "url": "https://en.unesco.org/news", "type": "research", "priority": 3 },
+    { "name": "OECD Education", "url": "https://www.oecd.org/education/", "type": "research", "priority": 3 },
+    { "name": "Brookings EdPolicy", "url": "https://www.brookings.edu/articles/?topic=7", "type": "research", "priority": 3 }
   ],
   "relevance_thresholds": {
     "flag_immediate": 75,
