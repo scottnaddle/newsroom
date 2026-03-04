@@ -238,7 +238,7 @@ Design a single-panel satirical cartoon. Respond in this exact JSON format:
       title: postTitle,
       lexical,
       status: 'published',
-      featured: false,
+      featured: true,
       feature_image: imageUrl,
       feature_image_alt: plan.altText,
       slug: `cartoon-${today}`,
