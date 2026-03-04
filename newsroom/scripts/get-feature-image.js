@@ -1,7 +1,7 @@
 /**
- * Unsplash 피처 이미지 — 카테고리별 검증된 사진 풀 (v2)
+ * Unsplash 피처 이미지 — 카테고리별 검증된 사진 풀 (v3)
  * 모든 ID는 HTTP 200 확인 완료 (2026-03-04)
- * 풀 크기: 카테고리당 8~15개, 전체 45개
+ * 풀 크기: 64개 (기존 45 + 신규 19개)
  */
 
 const PHOTO_POOLS = {
@@ -32,6 +32,11 @@ const PHOTO_POOLS = {
     '1519452575417-564c1401ecc0', // academic study
     '1543286386-713bdd548da4',    // data charts
     '1542744173-05336fcc7ad4',    // analytics graph
+    '1454165804606-c3d57bc86b40', // scientific data
+    '1590650153855-d9e808231d41', // research paper
+    '1568992687947-868a62a9f521', // lab analysis
+    '1484417894907-623942c8ee29', // computer research
+    '1547592180-85f173990554',    // analysis charts
   ],
 
   // 에듀테크, 기업, 산업
@@ -46,6 +51,11 @@ const PHOTO_POOLS = {
     '1516321318423-f06f85e504b3', // tech office
     '1535378917042-10a22c95931a', // digital workspace
     '1460925895917-afdab827c52f', // business data
+    '1456513080510-7bf3a84b82f8', // business growth
+    '1522202176988-66273c2fd55f', // collaboration
+    '1538688525198-9b88f6f53126', // startup team
+    '1474631245212-32dc3c8310c6', // tech startup
+    '1507525428034-b723cf961d3e', // innovation
   ],
 
   // 교육, 학교, 학생, 교실
@@ -63,6 +73,12 @@ const PHOTO_POOLS = {
     '1456406644174-8ddd4cd52a06', // campus students
     '1488521787991-ed7bbaae773c', // teacher class
     '1580894894513-541e068a3e2b', // online learning
+    '1440404653325-ab127d49abc1', // school yard
+    '1516321497487-e288fb19713f', // lecture hall
+    '1472099645785-5658abf4ff4e', // student portrait
+    '1580489944761-15a19d654956', // e-learning
+    '1509316785289-025f5b846b35', // study group
+    '1523240795612-9a054b0db644', // school books
   ],
 
   // 오피니언, 칼럼, 의견
@@ -73,6 +89,9 @@ const PHOTO_POOLS = {
     '1532187863486-abf9dbad1b69', // analysis
     '1519452575417-564c1401ecc0', // writing/study
     '1628595351029-c2bf17511435', // notes/writing
+    '1491895200222-0fc4a4c35e18', // editorial
+    '1521737852567-6949f3f9f2b5', // thinking
+    '1519389950473-47ba0277781c', // person reading
   ],
 
   // 데이터, 통계, 분석

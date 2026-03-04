@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Nvidia Preparing New Chip to Outclass Broadcom and Google",
+    "url": "https://247wallst.com/investing/2026/03/03/jim-cramer-says-nvidia-is-preparing-a-new-chip-to-outclass-broadcom-and-google/",
+    "source_name": "247 Wall St.",
+    "language": "en",
+    "relevance_score": 72,
+    "summary": "Reports indicate Nvidia is preparing to announce a new AI semiconductor chip designed to compete with custom chips from Broadcom and Google. Several longtime Nvidia customers have been evaluating alternatives, prompting Nvidia to accelerate its next-generation chip roadmap.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T06:51:00+01:00"
+  },
+  "digest": {
+    "headline": "엔비디아, 추론 전용 신형 AI 칩 준비… Broadcom·Google 커스텀 칩에 정면 도전",
+    "lead": "엔비디아가 추론(inference) 시장을 겨냥한 신형 AI 반도체 개발을 준비 중인 것으로 알려졌다. 짐 크레이머(Jim Cramer)는 방송에서 \"경쟁사를 압도할 새 칩 발표가 임박했다\"고 전했다. Broadcom·Google 등의 커스텀 칩에 기존 고객사 일부가 눈을 돌리자 엔비디아가 차세대 로드맵을 앞당기고 있는 것으로 분석된다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">⚡ AI Digest</span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">엔비디아가 추론(inference) 시장을 겨냥한 신형 AI 반도체 개발을 준비 중인 것으로 알려졌다. 짐 크레이머(Jim Cramer)는 방송에서 \"경쟁사를 압도할 새 칩 발표가 임박했다\"고 전했다. Broadcom·Google 등의 커스텀 칩에 기존 고객사 일부가 눈을 돌리자 엔비디아가 차세대 로드맵을 앞당기고 있는 것으로 분석된다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">AI 반도체 시장은 '학습(training)'과 '추론(inference)'으로 나뉜다. 추론은 학습된 모델이 실제 쿼리에 응답하는 과정으로, AI 서비스 확산에 따라 수요가 폭발적으로 증가하고 있다. 추론은 처리량보다 효율이 중요해 Broadcom의 맞춤형 ASIC, Google TPU 등 전용 칩이 강세를 보여왔다. 엔비디아는 최근 스타트업 Groq의 IP와 인력을 인수, 컴파일러 기반 사전 연산 계획 아키텍처 기술을 확보했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">엔비디아가 추론 전용 칩을 출시하면 학습~추론 전 단계를 아우르는 AI 반도체 생태계 장악력이 더욱 강화된다. 커스텀 칩 경쟁 심화로 추론 비용이 빠르게 하락할 것으로 전망되며, 이는 AI 서비스 전반의 접근성을 높일 수 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">추론 비용 하락은 AI 기반 교육 서비스의 실시간 응답 품질 개선과 운영 비용 절감을 동시에 가능하게 한다. 개인화 학습 경로 생성, AI 챗봇 튜터, 자동 에세이 피드백 등 추론 집약적 에듀테크 서비스의 확장성이 높아지고, 중소 에듀테크 기업도 고품질 AI 기능을 합리적인 비용으로 제공할 수 있는 환경이 열릴 전망이다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://247wallst.com/investing/2026/03/03/jim-cramer-says-nvidia-is-preparing-a-new-chip-to-outclass-broadcom-and-google/\" style=\"color:#FF6B35;text-decoration:none;\">247 Wall St.</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "엔비디아, 추론 전용 신형 AI 칩 준비… Broadcom·Google 커스텀 칩에 도전장",
+    "meta_description": "엔비디아가 Broadcom·Google 커스텀 칩에 맞서 추론 전용 신형 AI 반도체를 개발 중인 것으로 알려졌다. Groq 인수로 확보한 아키텍처 기술이 핵심.",
+    "word_count": 510
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T06:51:00+01:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T07:33:00+01:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T06:38:26.969Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a7d362659ea80001153f07",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a7d362659ea80001153f07",
+    "public_url": "https://ubion.ghost.io/enbidia-curon-jeonyong-sinhyeong-ai-cib-junbi-broadcom-google-keoseuteom-cibe-jeongmyeon-dojeon/",
+    "status": "published",
+    "published_at": "2026-03-04T06:38:26.969Z"
+  }
+}

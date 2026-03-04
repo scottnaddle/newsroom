@@ -1,0 +1,96 @@
+{
+  "source": {
+    "url": "https://blogs.microsoft.com/on-the-issues/2026/02/24/teaching-in-the-ai-age/",
+    "title": "Microsoft, 학교용 AI 리터러시 프레임워크 발표 — 커리큘럼·정책 통합 가이드",
+    "source_name": "Microsoft On the Issues",
+    "lang": "en",
+    "relevance_score": 85,
+    "collected_at": "2026-03-04T05:41:20Z",
+    "tags": [
+      "AI리터러시",
+      "마이크로소프트",
+      "교육정책"
+    ]
+  },
+  "stage": "reported",
+  "desk_instructions": "마이크로소프트 AI 리터러시 프레임워크 발표 내용 취재. 핵심 각도: 프레임워크의 구체적 내용(커리큘럼·정책 통합 방식), 학교 현장 적용 방안, 구글·메타 등 타 빅테크 유사 이니셔티브와의 비교. 이해충돌(MS 상업적 이해관계) 명확히 표기 필요.",
+  "reporting_brief": {
+    "facts": [
+      {
+        "claim": "2026년 2월 24일 마이크로소프트 교육·노동력정책 시니어 디렉터 Allyson Knox가 미 하원 교육노동위원회 초중등교육소위원회에서 증언 — 'AI와 교사에 대한 영향' 주제",
+        "source_url": "https://blogs.microsoft.com/on-the-issues/2026/02/24/teaching-in-the-ai-age/",
+        "quote": "On Tuesday, February 23rd, Microsoft Senior Director of Education and Workforce Policy Allyson Knox testified before the House Education & Workforce Subcommittee on Early Childhood, Elementary, and Secondary Education."
+      },
+      {
+        "claim": "MS 2025년 AI 교육 연구: 미국 K-12 교사 80%가 최소 1~2회 AI를 업무에 사용, 5명 중 1명은 매일 사용. 58%는 향후 1년 내 학교 AI 사용 증가 예상",
+        "source_url": "https://blogs.microsoft.com/on-the-issues/2026/02/24/teaching-in-the-ai-age/",
+        "quote": "80% of U.S. K-12 teachers have used AI in their roles or for school-related purposes at least once or twice and one-fifth report daily use of AI."
+      },
+      {
+        "claim": "교사 3명 중 1명은 AI를 효과적·책임감 있게 사용하는 데 자신감 부족. 부정행위, 데이터 프라이버시, 학생 안전 우려",
+        "source_url": "https://blogs.microsoft.com/on-the-issues/2026/02/24/teaching-in-the-ai-age/",
+        "quote": "roughly one in three teachers lack confidence in using AI effectively and responsibly."
+      },
+      {
+        "claim": "2026년 1월 15일 'Microsoft Elevate for Educators' 프로그램 공식 출시 — Bett UK 2026에 앞서 발표. ISTE+ASCD와 공동 개발한 무료 AI 리터러시 크레덴셜(자격증), 전 세계 13개 이상 언어 제공",
+        "source_url": "https://news.microsoft.com/source/2026/01/15/microsoft-expands-its-commitment-to-education-with-elevate-for-educators-program-and-new-ai-powered-tools/",
+        "quote": "A new, free Microsoft Elevate Educator Credential, developed in partnership with ISTE + ASCD, and aligned to the AI Literacy Framework, helps educators gain confidence and expertise in integrating AI into their teaching and learning."
+      },
+      {
+        "claim": "2026년 5월 공식 출시 예정인 MS Elevate 크레덴셜은 유럽위원회·OECD의 AI 리터러시 프레임워크 및 Code.org의 지원을 받아 설계",
+        "source_url": "https://aka.ms/MicrosoftElevateForEducators",
+        "quote": "Launching in May 2026, the new Microsoft Elevate for Educators Credential - developed in partnership with ISTE+ASCD and aligned to the AI Literacy Framework from the European Commission, OECD, and with support from Code.org."
+      },
+      {
+        "claim": "MS는 OpenAI·Anthropic과 함께 미국교사연맹(AFT)·뉴욕교원연합(UFT)을 파트너로 '전국 AI 교육 아카데미(National Academy for AI Instruction)' 지원 — 교사 설계 중심, 안전·사람 우선 AI 교육 허브",
+        "source_url": "https://blogs.microsoft.com/on-the-issues/2026/02/24/teaching-in-the-ai-age/",
+        "quote": "Along with OpenAI and Anthropic, we are supporting the National Academy for AI Instruction, through a partnership with the American Federation of Teachers and the United Federation of Teachers."
+      },
+      {
+        "claim": "구글도 같은 시기(2026년 2월 말) 미국 교사 600만 명 전체에게 Gemini AI 무료 교육 제공 발표 — ISTE+ASCD와 협력, 7400만 학생 혜택 기대. NYT: '구글·마이크로소프트·OpenAI 등 빅테크가 AI 리터러시 교육을 교과목으로 만들자고 학교에 촉구'",
+        "source_url": "https://blog.google/products-and-platforms/products/education/teacher-ai-literacy-training/",
+        "quote": "More than 74 million students stand to benefit if their teachers develop consistent AI literacy through the initiative."
+      }
+    ],
+    "perspectives": [
+      "찬성(빅테크 이니셔티브 지지): MS 측 — '책임 있는 AI 도구를 교사·학생 손에 쥐여주고, 효과적·안전하게 사용할 기술과 자신감도 함께 제공'. OpenAI Chris Lehane — 'AI는 4번째 R(Reading·wRiting·aRithmetic에 이은 기본 소양)'. 교원노조 AFT — 교사 주도 설계 원칙 강조하며 협력",
+      "반대/이해충돌 우려: NYT 보도 앵글 — '빅테크가 AI를 필수 교과목으로 밀어붙이는 것은 자사 AI 제품의 학교 시장 확대를 위한 상업적 전략'. MS·구글·OpenAI 모두 자사 플랫폼·도구와 연계된 교사 교육 프로그램 제공 — 이해충돌 명확. 일부 교육학자들: 빅테크가 교육과정 설계에 직접 개입하는 것에 대한 거버넌스 우려",
+      "한국 시사점: ISTE+ASCD 프레임워크가 유럽위원회·OECD 기준과 연계 — 국제적 AI 리터러시 표준화 흐름. 한국 교원 AI 역량 강화 정책 수립 시 참고 가능하나, 한국판 독자 프레임워크 필요 논의도 병행 검토 권고"
+    ],
+    "suggested_angle": "빅테크의 'AI 리터러시 교육' 드라이브는 진정한 공익인가, 교육 시장 선점 전략인가 — MS·구글·OpenAI가 같은 주(週)에 경쟁적으로 교사 교육 이니셔티브를 발표한 타이밍과 각사의 상업적 이해관계를 병렬 분석. 동시에 교사 3명 중 1명이 AI 사용에 자신감 없다는 현장 데이터를 축으로, '이 프로그램들이 실제로 교사에게 필요한 것을 제공하는가'를 중심 질문으로 삼는 균형 잡힌 보도 권고.",
+    "sources_used": [
+      "https://blogs.microsoft.com/on-the-issues/2026/02/24/teaching-in-the-ai-age/",
+      "https://news.microsoft.com/source/2026/01/15/microsoft-expands-its-commitment-to-education-with-elevate-for-educators-program-and-new-ai-powered-tools/",
+      "https://aka.ms/MicrosoftElevateForEducators",
+      "https://blog.google/products-and-platforms/products/education/teacher-ai-literacy-training/",
+      "https://winbuzzer.com/2026/02/24/google-free-gemini-ai-training-6-million-us-educators-xcxwbn/",
+      "https://www.nytimes.com/2026/02/23/business/ai-literacy-faq.html",
+      "https://openai.com/index/edu-for-countries/"
+    ],
+    "gaps": [
+      "MS Elevate 크레덴셜이 실제로 교사 급여 인상·승진에 반영되는지 여부 — 공식 확인 미완료",
+      "전국 AI 교육 아카데미 현재 등록 교사 수, 실제 프로그램 진행 현황 미확인",
+      "구글·MS 프로그램 비교: 콘텐츠 중복도, ISTE+ASCD 파트너십 공유 여부 — 두 회사 모두 ISTE+ASCD와 협력하는 구조의 이해관계 심층 취재 필요",
+      "메타(Meta) 교육 이니셔티브 현황 — 데스크 지시에 '메타 비교' 포함됐으나 관련 2026년 최신 프로그램 정보 미확보",
+      "한국 교원 AI 리터러시 교육 현황(교육부·KERIS 공식 프로그램) 비교 자료 필요"
+    ]
+  },
+  "audit_log": [
+    {
+      "stage": "sourced",
+      "timestamp": "2026-03-04T05:41:20Z",
+      "agent": "heartbeat"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-04T06:49:00+01:00",
+      "note": "relevance_score 85 ≥ 75 — 취재 배정"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-04T07:31:00+01:00"
+    }
+  ]
+}

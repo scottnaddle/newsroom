@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Nvidia to invest $4 billion into photonics companies Coherent and Lumentum",
+    "url": "https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html",
+    "source_name": "CNBC",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Nvidia announced a $4 billion investment into silicon photonics companies Coherent and Lumentum to develop next-generation AI infrastructure. The deal includes a multi-billion dollar purchase commitment and future capacity rights, signaling Nvidia's push beyond traditional GPU architecture for AI compute.",
+    "published_date": "2026-03-02",
+    "collected_at": "2026-03-04T06:51:00+01:00"
+  },
+  "digest": {
+    "headline": "엔비디아, 포토닉스 기업 2곳에 5조 원 투자… 차세대 AI 인프라 공급망 수직 통합",
+    "lead": "엔비디아가 실리콘 포토닉스 전문 기업 Coherent와 Lumentum에 각각 20억 달러씩, 총 40억 달러(약 5조 8,000억 원)를 투자한다고 발표했다. 단순 지분 매입을 넘어 수십억 달러 규모의 구매 약정 및 미래 생산 용량 선점 계약이 포함된다. 젠슨 황 CEO는 \"기가와트급 AI 팩토리 구축을 위한 차세대 실리콘 포토닉스 개발\"을 투자 목표로 밝혔다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">⚡ AI Digest</span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">엔비디아가 실리콘 포토닉스 전문 기업 Coherent와 Lumentum에 각각 20억 달러씩, 총 40억 달러(약 5조 8,000억 원)를 투자한다고 발표했다. 단순 지분 매입을 넘어 수십억 달러 규모의 구매 약정 및 미래 생산 용량 선점 계약이 포함된다. 젠슨 황 CEO는 \"기가와트급 AI 팩토리 구축을 위한 차세대 실리콘 포토닉스 개발\"을 투자 목표로 밝혔다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">포토닉스(광자공학)는 빛(광자)을 활용해 데이터를 초고속으로 전송하는 기술이다. AI 연산 클러스터가 대규모화되면서 GPU 간·서버 간 데이터 전송 속도와 전력 효율이 핵심 병목으로 부상했다. Lumentum은 AI·클라우드 네트워크용 광학 기술을, Coherent는 고성능 광학 응용 시스템을 개발하는 미국 기업이다. 발표 당일 두 회사 주가는 각각 12%, 15% 급등했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 투자는 엔비디아가 GPU 설계에만 머물지 않고 AI 컴퓨팅 인프라 전체 공급망을 수직 통합하려는 전략적 행보다. 구매 약정과 용량 선점 계약은 향후 수년간 안정적인 포토닉스 부품 공급을 보장하며, 데이터센터 전력·냉각 효율 문제 해결에도 기여할 전망이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">포토닉스 기술 발전으로 AI 클라우드 인프라의 속도·비용 효율이 개선되면, 에듀테크 스타트업이 활용하는 AI 추론(inference) 처리 단가도 낮아진다. 이는 실시간 AI 튜터링·자동 채점·개인화 학습 서비스의 경제성을 높여 중소 에듀테크 기업의 진입 장벽을 낮추는 효과로 이어질 수 있다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html\" style=\"color:#FF6B35;text-decoration:none;\">CNBC</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "엔비디아, 포토닉스 기업에 5조 원 투자… 차세대 AI 인프라 공급망 구축",
+    "meta_description": "엔비디아가 Coherent·Lumentum에 총 40억 달러를 투자하며 실리콘 포토닉스 기반 차세대 AI 인프라 구축에 나섰다. 구매 약정과 용량 선점 계약 포함.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T06:51:00+01:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T07:33:00+01:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T06:38:26.689Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a7d362659ea80001153eff",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a7d362659ea80001153eff",
+    "public_url": "https://ubion.ghost.io/enbidia-potonigseu-gieob-2gose-5jo-weon-tuja-casedae-ai-inpeura-gonggeubmang-sujig-tonghab/",
+    "status": "published",
+    "published_at": "2026-03-04T06:38:26.689Z"
+  }
+}

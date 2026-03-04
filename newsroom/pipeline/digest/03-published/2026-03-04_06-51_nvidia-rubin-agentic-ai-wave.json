@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Nvidia's 'Rubin' Revelation: CES 2026 Guidance Boost Silences AI Bubble Skeptics",
+    "url": "http://markets.chroniclejournal.com/chroniclejournal/article/marketminute-2026-3-3-nvidias-rubin-revelation-ces-2026-guidance-boost-silences-ai-bubble-skeptics",
+    "source_name": "Chronicle Journal Markets",
+    "language": "en",
+    "relevance_score": 71,
+    "summary": "Analysis of Nvidia's Rubin architecture reveal suggests the AI cycle is entering a second, more complex 'agentic' wave rather than a single monolithic event. The new architecture is positioned to drive continued AI infrastructure investment through 2026 and beyond, countering bubble concerns.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T06:51:00+01:00"
+  },
+  "digest": {
+    "headline": "엔비디아 '루빈' 아키텍처 공개… '에이전틱 AI' 전환점 도래 선언",
+    "lead": "엔비디아가 CES 2026에서 차세대 '루빈(Rubin)' 아키텍처를 발표하며 AI 사이클이 단순 챗봇을 넘어 '에이전틱(agentic) AI' 단계로 진입했다고 선언했다. 루빈은 3,360억 개 트랜지스터와 HBM4 메모리를 탑재한 블랙웰의 후속 플랫폼으로, 복잡한 다단계 자율 추론이 가능한 AI 인프라를 겨냥한다. FY4Q 매출 681억 달러(컨센서스 상회)와 다음 분기 780억 달러 가이던스로 'AI 버블론'을 일축했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">⚡ AI Digest</span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">엔비디아가 CES 2026에서 차세대 '루빈(Rubin)' 아키텍처를 발표하며 AI 사이클이 단순 챗봇을 넘어 '에이전틱(agentic) AI' 단계로 진입했다고 선언했다. 루빈은 3,360억 개 트랜지스터와 HBM4 메모리를 탑재한 블랙웰의 후속 플랫폼으로, 복잡한 다단계 자율 추론이 가능한 AI 인프라를 겨냥한다. FY4Q 매출 681억 달러(컨센서스 상회)와 다음 분기 780억 달러 가이던스로 'AI 버블론'을 일축했다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">2025년 하반기 일각에서 AI 인프라 투자 과열 우려가 제기됐지만, 엔비디아는 실적과 가이던스로 시장 기대를 연거푸 상회했다. 반도체 ETF(SMH)는 2026년 들어 약 18% 상승하며 시장 전반과 디커플링을 보이고 있다. 젠슨 황은 CES 키노트에서 2026년 말까지 AI 칩 예약 주문 5,000억 달러 달성을 '보수적 하한선'으로 제시했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">'에이전틱 AI 변곡점'은 AI 활용이 단일 질의응답에서 복잡한 다단계 자율 추론·행동으로 진화함을 의미한다. 이 전환은 AI 인프라 투자 사이클이 단기 이벤트가 아닌 다년간 지속될 구조적 흐름임을 시사하며, 루빈 기반 생태계가 그 핵심 동력이 될 것으로 전망된다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">에이전틱 AI는 학생 개인의 학습 상태를 지속 추적·분석하고 자율적으로 학습 계획을 조정하는 'AI 학습 코치' 구현의 핵심 기술이다. 루빈 아키텍처 기반의 고성능 칩이 보급될수록 에듀테크 플랫폼에서의 에이전틱 AI 도입 비용이 낮아지고, 맞춤형 교육 솔루션의 정교함이 한 단계 도약할 수 있다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"http://markets.chroniclejournal.com/chroniclejournal/article/marketminute-2026-3-3-nvidias-rubin-revelation-ces-2026-guidance-boost-silences-ai-bubble-skeptics\" style=\"color:#FF6B35;text-decoration:none;\">Chronicle Journal Markets</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "research"
+    ],
+    "meta_title": "엔비디아 루빈 아키텍처 공개 — 에이전틱 AI 시대 도래 선언",
+    "meta_description": "엔비디아가 3,360억 트랜지스터 루빈 아키텍처를 공개하며 에이전틱 AI 전환점을 선언했다. FY4Q 681억 달러 매출로 AI 버블론을 일축했다.",
+    "word_count": 530
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T06:51:00+01:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T07:33:00+01:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T06:38:27.247Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a7d363659ea80001153f0f",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a7d363659ea80001153f0f",
+    "public_url": "https://ubion.ghost.io/enbidia-rubin-akitegceo-gonggae-eijeontig-ai-jeonhwanjeom-dorae-seoneon/",
+    "status": "published",
+    "published_at": "2026-03-04T06:38:27.247Z"
+  }
+}
