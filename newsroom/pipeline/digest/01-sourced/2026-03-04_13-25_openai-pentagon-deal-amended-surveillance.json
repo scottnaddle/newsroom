@@ -1,0 +1,21 @@
+{
+  "stage": "sourced",
+  "pipeline": "digest",
+  "source": {
+    "title": "OpenAI, 국방부 AI 계약 수정 — 대량 감시 방지 조항 추가",
+    "url": "https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html",
+    "source_name": "New York Times",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "비판 여론 속 OpenAI, 미 국방부와의 AI 계약 수정. 기밀 시스템에 AI 기술 제공하되 미국 시민 대량 감시에 사용되지 않도록 추가 보호 조항 삽입.",
+    "published_date": "2026-03-02",
+    "collected_at": "2026-03-04T13:25:46.101737"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-heartbeat",
+      "action": "sourced",
+      "timestamp": "2026-03-04T13:25:46.101749"
+    }
+  ]
+}

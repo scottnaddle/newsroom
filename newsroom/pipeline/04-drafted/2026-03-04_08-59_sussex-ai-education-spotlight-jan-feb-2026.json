@@ -1,5 +1,5 @@
 {
-  "stage": "drafted",
+  "stage": "revision-required",
   "source": {
     "title": "영국 서섹스대, 1~2월 AI 교육 동향 정리 — 3월 교수법 커뮤니티 행사도",
     "url": "https://blogs.sussex.ac.uk/tel/2026/03/01/spotlight-on-ai-in-education-january-and-february-2026/",
@@ -71,17 +71,113 @@
   "draft": {
     "headline": "유럽 대학, AI 교육 제도화 본격화…EU법 8월 발효",
     "subheadline": "서섹스대 '교수법 커뮤니티' 모델과 Einstein AI 과제 대리 툴 차단 사례로 본 고등교육의 AI 대응 양상",
-    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <!-- 리드 문단 -->\n  <div style=\"border-left:4px solid #4338ca;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">영국 대학생의 AI 활용률이 1년 새 66%에서 92%로 급등한 가운데, 유럽 대학들이 AI 교육의 제도화에 속도를 내고 있습니다. 영국 서섹스대는 교수법 공동체 모델로 대응하고, 유럽연합은 2026년 8월부터 AI 리터러시 의무 조항을 발효할 예정입니다. 동시에 과제 대리 완성을 표방한 AI 툴이 실제 등장해 교육기관을 자극하는 사례도 발생했습니다.</p>\n  </div>\n\n  <!-- 섹션 1 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">AI 교육 활용 '사실상 보편화'…대학의 선택은</h2>\n  <p style=\"margin:0 0 36px;\">영국 고등교육정책연구소(HEPI) 데이터에 따르면, 영국 대학생의 교육 목적 생성형 AI 활용률은 2024년 66%에서 2025년 92%로 급상승했습니다. 사실상 대부분의 학생이 AI를 학업에 활용하는 상황이 된 것입니다. 이런 흐름에서 대학은 두 가지 선택지에 직면합니다. AI를 교육과정 안으로 공식 편입시키거나, 경계 없이 확산되도록 방치하거나입니다. 영국 서섹스대는 전자를 선택해 체계적 대응 모델을 구축하고 있습니다.</p>\n\n  <!-- 섹션 2 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">서섹스대, '교수법 커뮤니티'로 AI 교육 내재화</h2>\n  <p style=\"margin:0 0 24px;\">서섹스대 교육기술팀(TEL)은 2025~2026년 AI 교수법 커뮤니티(Teaching with AI Community of Practice)를 운영 중입니다. 3월 16일 열리는 다섯 번째 모임의 주제는 '비판적 AI 리터러시'로, 대학이 공식 채택한 AI 원칙 2호에 기반합니다.</p>\n  <p style=\"margin:0 0 24px;\">도서관 교수학습팀도 UNESCO의 인간 중심 원칙에 입각해 세 가지 AI 리터러시 프로그램을 제공하고 있습니다. '생성형 AI 입문', 'AI 활용 문헌 검색', 'AI 활용 문헌 매핑'이 그것입니다.</p>\n\n  <blockquote style=\"border-left:4px solid #4338ca;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">&ldquo;AI는 인간의 비판적 사고를 지원해야 하지, 대체해서는 안 됩니다.&rdquo;</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— 서섹스대 도서관 교수학습팀</p>\n  </blockquote>\n\n  <!-- 섹션 3 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">과제 대리 완성 AI 'Einstein', 수일 만에 강제 폐쇄</h2>\n  <p style=\"margin:0 0 36px;\">제도화 노력과는 반대 방향의 움직임도 있었습니다. 2026년 2월, 학생들의 과제를 대신 완성해주겠다는 AI 툴 'Einstein'이 출시됐다가 불과 며칠 만에 운영을 중단했습니다. 아인슈타인 초상권을 관리하는 CMG Worldwide와 학습관리시스템(LMS) Canvas의 운영사 Instructure가 각각 법적·계약적 중단을 통보한 결과입니다. 전문가들은 이 사례를 두고 "AI가 고등교육의 근간인 학습 자체를 우회하려는 시도"라는 경고 신호로 해석하고 있습니다.</p>\n\n  <!-- 섹션 4 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">OECD·EU, AI 교육 기준 제시 본격화</h2>\n  <p style=\"margin:0 0 24px;\">국제기구도 AI 교육 기준 정립에 나서고 있습니다. OECD는 '디지털 교육 전망 2026' 보고서에서 생성형 AI가 교실을 넘어 교육 시스템 전반을 재편하고 있다는 증거 기반 분석을 발표했습니다. 단순한 교실 도구 도입을 넘어 교육 거버넌스 차원의 대응이 필요하다는 메시지입니다.</p>\n  <p style=\"margin:0 0 24px;\">유럽연합은 한 발 더 나아가 AI 리터러시 프레임워크 초안을 발표하고 이해관계자 협의를 진행 중입니다. EU AI법에 따른 AI 리터러시 의무 조항은 2026년 8월부터 공식 발효될 예정입니다. 이 조항은 청소년이 AI 시스템과 자신감 있고 비판적으로 상호작용하는 데 필요한 지식, 역량, 태도를 규정합니다.</p>\n\n  <blockquote style=\"border-left:4px solid #4338ca;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">&ldquo;아무리 AI가 강력해져도, AI는 학습 과정의 일부에 불과합니다.&rdquo;</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— Tom Chatfield, 기술철학자 / 백서 'AI and The Future of Pedagogy'(2025)</p>\n  </blockquote>\n\n  <!-- 섹션 5 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">한국 교육계 시사점: 제도화의 골든타임</h2>\n  <p style=\"margin:0 0 36px;\">유럽 대학들이 커뮤니티 오브 프랙티스(CoP), AI 원칙 공식화, 도서관 기반 리터러시 프로그램을 통해 체계적 대응 모델을 빠르게 정착시키는 반면, 한국 대학들은 대부분 학교별 자율 대응 단계에 머물러 있습니다. 특히 EU AI법의 리터러시 의무 조항이 2026년 8월 발효되면 유럽 표준이 국제 교육 커리큘럼 설계에 직접 영향을 미칠 수 있습니다. 국내 대학이 AI 교수법 표준화와 공식 거버넌스 수립에 속도를 내야 한다는 신호입니다.</p>\n\n  <!-- 출처/참고자료 -->\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://blogs.sussex.ac.uk/tel/2026/03/01/spotlight-on-ai-in-education-january-and-february-2026/\" style=\"color:#4338ca;text-decoration:none;\">University of Sussex TEL Blog — Spotlight on AI in Education: January and February 2026</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://digital-skills-jobs.europa.eu/en/latest/news/oecd-digital-education-outlook-2026-how-generative-ai-can-support-learning-when-used\" style=\"color:#4338ca;text-decoration:none;\">OECD Digital Education Outlook 2026 (EU Digital Skills & Jobs Platform)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://education.ec.europa.eu/event/empowering-learners-for-the-age-of-ai-launch-of-the-draft-ai-literacy-framework-and-stakeholder-consultations\" style=\"color:#4338ca;text-decoration:none;\">EU AI 리터러시 프레임워크 초안 발표 행사 (유럽위원회)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.thesify.ai/blog/2025-student-ai-survey-insights-ai-tools-for-students-in-higher-education\" style=\"color:#4338ca;text-decoration:none;\">2025 Student AI Survey Insights — Thesify</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.sagepub.com/explore-our-content/white-papers/2025/11/03/ai-and-the-future-of-pedagogy\" style=\"color:#4338ca;text-decoration:none;\">AI and The Future of Pedagogy — Tom Chatfield (SAGE, 2025)</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
-    "ghost_tags": ["AI교육", "교육정책", "고등교육", "EU", "AI리터러시"],
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <!-- 리드 문단 -->\n  <div style=\"border-left:4px solid #4338ca;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">영국 대학생의 AI 활용률이 1년 새 66%에서 92%로 급등한 가운데, 유럽 대학들이 AI 교육의 제도화에 속도를 내고 있습니다. 영국 서섹스대는 교수법 공동체 모델로 대응하고, 유럽연합은 2026년 8월부터 AI 리터러시 의무 조항을 발효할 예정입니다. 동시에 과제 대리 완성을 표방한 AI 툴이 실제 등장해 교육기관을 자극하는 사례도 발생했습니다.</p>\n  </div>\n\n  <!-- 섹션 1 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">AI 교육 활용 '사실상 보편화'…대학의 선택은</h2>\n  <p style=\"margin:0 0 36px;\">영국 고등교육정책연구소(HEPI) 데이터에 따르면, 영국 대학생의 교육 목적 생성형 AI 활용률은 2024년 66%에서 2025년 92%로 급상승했습니다. 사실상 대부분의 학생이 AI를 학업에 활용하는 상황이 된 것입니다. 이런 흐름에서 대학은 두 가지 선택지에 직면합니다. AI를 교육과정 안으로 공식 편입시키거나, 경계 없이 확산되도록 방치하거나입니다. 영국 서섹스대는 전자를 선택해 체계적 대응 모델을 구축하고 있습니다.</p>\n\n  <!-- 섹션 2 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">서섹스대, '교수법 커뮤니티'로 AI 교육 내재화</h2>\n  <p style=\"margin:0 0 24px;\">서섹스대 교육기술팀(TEL)은 2025~2026년 AI 교수법 커뮤니티(Teaching with AI Community of Practice)를 운영 중입니다. 3월 16일 열리는 다섯 번째 모임의 주제는 '비판적 AI 리터러시'로, 대학이 공식 채택한 AI 원칙 2호에 기반합니다.</p>\n  <p style=\"margin:0 0 24px;\">도서관 교수학습팀도 UNESCO의 인간 중심 원칙에 입각해 세 가지 AI 리터러시 프로그램을 제공하고 있습니다. '생성형 AI 입문', 'AI 활용 문헌 검색', 'AI 활용 문헌 매핑'이 그것입니다.</p>\n\n  <blockquote style=\"border-left:4px solid #4338ca;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">&ldquo;AI는 인간의 비판적 사고를 지원해야 하지, 대체해서는 안 됩니다.&rdquo;</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— 서섹스대 도서관 교수학습팀</p>\n  </blockquote>\n\n  <!-- 섹션 3 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">과제 대리 완성 AI 'Einstein', 수일 만에 강제 폐쇄</h2>\n  <p style=\"margin:0 0 36px;\">제도화 노력과는 반대 방향의 움직임도 있었습니다. 2026년 2월, 학생들의 과제를 대신 완성해주겠다는 AI 툴 'Einstein'이 출시됐다가 불과 며칠 만에 운영을 중단했습니다. 아인슈타인 초상권을 관리하는 CMG Worldwide와 학습관리시스템(LMS) Canvas의 운영사 Instructure가 각각 법적·계약적 중단을 통보한 결과입니다. 전문가들은 이 사례를 두고 \"AI가 고등교육의 근간인 학습 자체를 우회하려는 시도\"라는 경고 신호로 해석하고 있습니다.</p>\n\n  <!-- 섹션 4 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">OECD·EU, AI 교육 기준 제시 본격화</h2>\n  <p style=\"margin:0 0 24px;\">국제기구도 AI 교육 기준 정립에 나서고 있습니다. OECD는 '디지털 교육 전망 2026' 보고서에서 생성형 AI가 교실을 넘어 교육 시스템 전반을 재편하고 있다는 증거 기반 분석을 발표했습니다. 단순한 교실 도구 도입을 넘어 교육 거버넌스 차원의 대응이 필요하다는 메시지입니다.</p>\n  <p style=\"margin:0 0 24px;\">유럽연합은 한 발 더 나아가 AI 리터러시 프레임워크 초안을 발표하고 이해관계자 협의를 진행 중입니다. EU AI법에 따른 AI 리터러시 의무 조항은 2026년 8월부터 공식 발효될 예정입니다. 이 조항은 청소년이 AI 시스템과 자신감 있고 비판적으로 상호작용하는 데 필요한 지식, 역량, 태도를 규정합니다.</p>\n\n  <blockquote style=\"border-left:4px solid #4338ca;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">&ldquo;아무리 AI가 강력해져도, AI는 학습 과정의 일부에 불과합니다.&rdquo;</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— Tom Chatfield, 기술철학자 / 백서 'AI and The Future of Pedagogy'(2025)</p>\n  </blockquote>\n\n  <!-- 섹션 5 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">한국 교육계 시사점: 제도화의 골든타임</h2>\n  <p style=\"margin:0 0 36px;\">유럽 대학들이 커뮤니티 오브 프랙티스(CoP), AI 원칙 공식화, 도서관 기반 리터러시 프로그램을 통해 체계적 대응 모델을 빠르게 정착시키는 반면, 한국 대학들은 대부분 학교별 자율 대응 단계에 머물러 있습니다. 특히 EU AI법의 리터러시 의무 조항이 2026년 8월 발효되면 유럽 표준이 국제 교육 커리큘럼 설계에 직접 영향을 미칠 수 있습니다. 국내 대학이 AI 교수법 표준화와 공식 거버넌스 수립에 속도를 내야 한다는 신호입니다.</p>\n\n  <!-- 출처/참고자료 -->\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://blogs.sussex.ac.uk/tel/2026/03/01/spotlight-on-ai-in-education-january-and-february-2026/\" style=\"color:#4338ca;text-decoration:none;\">University of Sussex TEL Blog — Spotlight on AI in Education: January and February 2026</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://digital-skills-jobs.europa.eu/en/latest/news/oecd-digital-education-outlook-2026-how-generative-ai-can-support-learning-when-used\" style=\"color:#4338ca;text-decoration:none;\">OECD Digital Education Outlook 2026 (EU Digital Skills & Jobs Platform)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://education.ec.europa.eu/event/empowering-learners-for-the-age-of-ai-launch-of-the-draft-ai-literacy-framework-and-stakeholder-consultations\" style=\"color:#4338ca;text-decoration:none;\">EU AI 리터러시 프레임워크 초안 발표 행사 (유럽위원회)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.thesify.ai/blog/2025-student-ai-survey-insights-ai-tools-for-students-in-higher-education\" style=\"color:#4338ca;text-decoration:none;\">2025 Student AI Survey Insights — Thesify</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.sagepub.com/explore-our-content/white-papers/2025/11/03/ai-and-the-future-of-pedagogy\" style=\"color:#4338ca;text-decoration:none;\">AI and The Future of Pedagogy — Tom Chatfield (SAGE, 2025)</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "AI교육",
+      "교육정책",
+      "고등교육",
+      "EU",
+      "AI리터러시"
+    ],
     "references": [
-      { "num": 1, "url": "https://blogs.sussex.ac.uk/tel/2026/03/01/spotlight-on-ai-in-education-january-and-february-2026/", "title": "University of Sussex TEL Blog — Spotlight on AI in Education: January and February 2026" },
-      { "num": 2, "url": "https://digital-skills-jobs.europa.eu/en/latest/news/oecd-digital-education-outlook-2026-how-generative-ai-can-support-learning-when-used", "title": "OECD Digital Education Outlook 2026 (EU Digital Skills & Jobs Platform)" },
-      { "num": 3, "url": "https://education.ec.europa.eu/event/empowering-learners-for-the-age-of-ai-launch-of-the-draft-ai-literacy-framework-and-stakeholder-consultations", "title": "EU AI 리터러시 프레임워크 초안 발표 행사 (유럽위원회)" },
-      { "num": 4, "url": "https://www.thesify.ai/blog/2025-student-ai-survey-insights-ai-tools-for-students-in-higher-education", "title": "2025 Student AI Survey Insights — Thesify" },
-      { "num": 5, "url": "https://www.sagepub.com/explore-our-content/white-papers/2025/11/03/ai-and-the-future-of-pedagogy", "title": "AI and The Future of Pedagogy — Tom Chatfield (SAGE, 2025)" }
+      {
+        "num": 1,
+        "url": "https://blogs.sussex.ac.uk/tel/2026/03/01/spotlight-on-ai-in-education-january-and-february-2026/",
+        "title": "University of Sussex TEL Blog — Spotlight on AI in Education: January and February 2026"
+      },
+      {
+        "num": 2,
+        "url": "https://digital-skills-jobs.europa.eu/en/latest/news/oecd-digital-education-outlook-2026-how-generative-ai-can-support-learning-when-used",
+        "title": "OECD Digital Education Outlook 2026 (EU Digital Skills & Jobs Platform)"
+      },
+      {
+        "num": 3,
+        "url": "https://education.ec.europa.eu/event/empowering-learners-for-the-age-of-ai-launch-of-the-draft-ai-literacy-framework-and-stakeholder-consultations",
+        "title": "EU AI 리터러시 프레임워크 초안 발표 행사 (유럽위원회)"
+      },
+      {
+        "num": 4,
+        "url": "https://www.thesify.ai/blog/2025-student-ai-survey-insights-ai-tools-for-students-in-higher-education",
+        "title": "2025 Student AI Survey Insights — Thesify"
+      },
+      {
+        "num": 5,
+        "url": "https://www.sagepub.com/explore-our-content/white-papers/2025/11/03/ai-and-the-future-of-pedagogy",
+        "title": "AI and The Future of Pedagogy — Tom Chatfield (SAGE, 2025)"
+      }
     ],
     "word_count": 820,
     "article_type": "news"
+  },
+  "fact_check_report": {
+    "overall_confidence": 78,
+    "verdict": "FLAG",
+    "claims": [
+      {
+        "claim": "영국 HEPI 데이터 기준, 대학생의 AI 교육 활용률이 1년 만에 66%에서 92%로 급등",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "HEPI + Kortext 2025 학생 생성형 AI 설문조사 공식 발표. HEPI 사이트, PDF 원문 직접 확인.",
+        "source_url": "https://www.hepi.ac.uk/reports/student-generative-ai-survey-2025/",
+        "flagged": false
+      },
+      {
+        "claim": "2026년 2월 Einstein AI 출시, 수일 만에 폐쇄. CMG Worldwide + Instructure로부터 중단 통보",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 90,
+        "evidence": "Times Higher Education: Paliwal 본인이 CMG Worldwide C&D 수령 확인. Inside Higher Ed: Instructure(Canvas) C&D 수령 확인. 복수 신뢰 미디어 보도 일치.",
+        "source_url": "https://www.timeshighereducation.com/news/strange-case-einstein-ai-spotlights-chatbot-concerns",
+        "flagged": false
+      },
+      {
+        "claim": "OECD 디지털 교육 전망 2026 보고서: 생성형 AI가 교실을 넘어 교육 시스템 전반을 재편하고 있다는 증거 기반 분석 발표",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "OECD 공식 사이트에서 2026년 1월 출판 확인. 보고서 제목 및 내용 설명 일치.",
+        "source_url": "https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html",
+        "flagged": false
+      },
+      {
+        "claim": "2026년 8월부터 EU AI법의 AI 리터러시 의무 조항이 적용 예정",
+        "type": "temporal",
+        "verdict": "REFUTED",
+        "confidence": 30,
+        "evidence": "EU 집행위원회 공식 확인: AI 리터러시 의무(Article 4)는 이미 2025년 2월 2일부터 발효됨. 2026년 8월(정확히는 3 August 2026)은 감독·집행 규정(supervision and enforcement rules) 적용 시점임. 기사 본문의 '2026년 8월부터 발효 예정'은 오해를 유발하는 부정확한 표현.",
+        "source_url": "https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers",
+        "flagged": true,
+        "correction_note": "수정 필요: 'EU AI법 AI 리터러시 의무 조항은 이미 2025년 2월 2일(Article 4 발효일)부터 적용되고 있음. 2026년 8월(3일)은 해당 의무의 감독·집행 규정이 발효되는 시점. 기사 내 \"2026년 8월부터 공식 발효\"는 사실과 다름 — 이미 의무는 존재함.'"
+      },
+      {
+        "claim": "Tom Chatfield 기술철학자 백서 'AI and The Future of Pedagogy'(2025년 말 발표, SAGE)",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "SAGE 공식 사이트 및 보도자료(2025년 11월)에서 Dr. Tom Chatfield 백서 확인. '기술철학자(tech philosopher and educator)' 직함 일치.",
+        "source_url": "https://www.sagepub.com/explore-our-content/press-office/press-releases/2025/11/05/ai-and-the-future-of-pedagogy--new-white-paper-charts-a-human-centered-path-for-higher-education",
+        "flagged": false
+      },
+      {
+        "claim": "서섹스대 도서관 교수학습팀 3개 AI 리터러시 세션 + UNESCO 인간 중심 접근법",
+        "type": "factual",
+        "verdict": "SUPPORTED",
+        "confidence": 80,
+        "evidence": "1차 소스(서섹스대 TEL 블로그) 기반 주장. 블로그 자체가 신뢰할 수 있는 기관 공식 채널.",
+        "source_url": "https://blogs.sussex.ac.uk/tel/2026/03/01/spotlight-on-ai-in-education-january-and-february-2026/",
+        "flagged": false
+      },
+      {
+        "claim": "3월 16일 5회 Teaching with AI Community of Practice 모임, 주제: 비판적 AI 리터러시(AI 원칙 2)",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 80,
+        "evidence": "1차 소스(서섹스대 TEL 블로그, 2026-03-01) 직접 명시.",
+        "source_url": "https://blogs.sussex.ac.uk/tel/2026/03/01/spotlight-on-ai-in-education-january-and-february-2026/",
+        "flagged": false
+      }
+    ]
   },
   "audit_log": [
     {
@@ -104,7 +200,29 @@
       "agent": "writer",
       "action": "drafted",
       "timestamp": "2026-03-04T03:24:00+01:00"
+    },
+    {
+      "agent": "fact-checker",
+      "action": "verified",
+      "timestamp": "2026-03-04T04:13:00+01:00",
+      "note": "전체 신뢰도 78, FLAG. 7개 주장 검증. 6 SUPPORTED, 1 REFUTED. 핵심 플래그: EU AI법 리터러시 의무 발효 시점 오류 — Article 4는 2025-02-02 이미 발효, 2026-08은 감독·집행 규정 시점. 수정 요망."
+    },
+    {
+      "agent": "editor-desk",
+      "action": "revise",
+      "timestamp": "2026-03-04T04:37:00+01:00",
+      "note": "FLAG(신뢰도 78) — REFUTED 주장 직접 검토. EU AI법 리터러시 의무 발효 시점 오류 확인(헤드라인+본문). REVISE 결정. revision_count=1."
     }
   ],
-  "desk_instructions": ""
+  "revision_count": 1,
+  "desk_revision": {
+    "decision": "REVISE",
+    "reason": "FLAG 판정(신뢰도 78), 핵심 주장 REFUTED: EU AI법 리터러시 의무 발효 시점 오류. 헤드라인 및 본문 수정 필요.",
+    "required_corrections": [
+      "헤드라인 수정: \"EU법 8월 발효\" → 정확한 표현으로 교체. 예: \"EU AI법 집행 8월 본격화\" 또는 \"EU AI법 리터러시 집행 8월 발효\"",
+      "본문 섹션4 수정: \"AI 리터러시 의무 조항은 2026년 8월부터 공식 발효될 예정\" → \"Article 4 AI 리터러시 의무는 이미 2025년 2월 2일 발효됐으며, 2026년 8월 3일부터는 이에 대한 감독·집행 규정이 본격 적용될 예정\"",
+      "서브헤드라인 및 기타 관련 표현 전수 검토 후 통일"
+    ],
+    "corrections_source": "https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers"
+  }
 }

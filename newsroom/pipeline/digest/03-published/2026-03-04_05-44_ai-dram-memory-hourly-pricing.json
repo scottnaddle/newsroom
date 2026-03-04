@@ -1,0 +1,35 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "AI memory crunch forces DRAM market into 'hourly pricing' model, small firms fighting for survival",
+    "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-now-shifting-hourly-as-smaller-firms-fight-over-scraps",
+    "source_name": "Tom's Hardware",
+    "language": "en",
+    "relevance_score": 75,
+    "summary": "Surging AI infrastructure demand has created a severe DRAM shortage, pushing memory pricing into a near-real-time 'hourly' model as smaller companies struggle to compete with hyperscalers hoarding supply. Samsung and SK Hynix are shortening memory contracts as pricing power shifts back to suppliers, with IDC warning the PC market could shrink up to 9% in 2026 due to RAM price spikes.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T05:44:00+01:00"
+  },
+  "digest": {
+    "headline": "AI 인프라 수요 폭발, DRAM 시장 '시간 단위 가격제'로 전환",
+    "lead": "AI 데이터센터 투자 급증으로 DRAM 공급 부족이 심화되면서 메모리 가격이 실시간에 가깝게 변동하는 '시간 단위 가격제'로 전환되고 있다. 삼성전자·SK하이닉스가 계약 기간을 단축하며 가격 결정권을 회복하는 가운데, 중소기업들은 하이퍼스케일러와의 메모리 확보 경쟁에서 생존 위기에 몰리고 있다.",
+    "ghost_tags": ["ai-digest", "ai", "technology"],
+    "meta_title": "AI 수요 폭발로 DRAM 시장 '시간 단위 가격제' 전환",
+    "meta_description": "AI 데이터센터 투자 급증으로 DRAM 공급 부족이 심화되며 메모리 가격이 시간 단위로 변동하는 이례적 상황이 벌어지고 있다. IDC는 PC 시장이 2026년 최대 9% 축소될 수 있다고 경고했다.",
+    "word_count": 430
+  },
+  "publish_result": {
+    "ghost_post_id": "69a7bc13659ea80001153ea7",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a7bc13659ea80001153ea7",
+    "public_url": "https://ubion.ghost.io/ai-inpeura-suyo-pogbal-dram-sijang-sigan-danwi-gagyeogjero-jeonhwan/",
+    "status": "published",
+    "feature_image": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=1200&h=630&fit=crop&q=85&auto=format",
+    "published_at": "2026-03-04T05:57:00+01:00"
+  },
+  "audit_log": [
+    {"agent": "digest-collector", "action": "sourced", "timestamp": "2026-03-04T05:44:00+01:00"},
+    {"agent": "digest-writer", "action": "drafted", "timestamp": "2026-03-04T05:54:00+01:00"},
+    {"agent": "digest-publisher", "action": "published", "timestamp": "2026-03-04T05:57:00+01:00"}
+  ]
+}

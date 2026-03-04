@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "글로벌 AI 인프라 시장, 2030년 4,188억 달러 전망 — 연평균 21.5% 성장",
+    "url": "https://www.globenewswire.com/news-release/2026/03/03/3248314/28124/en/AI-Infrastructure-Market-Research-Report-2026-Opportunities-in-Advancements-in-Specialized-Hardware-Like-GPUs-TPUs-and-ASICs-for-Enhanced-Deep-Learning-Performance.html",
+    "source_name": "GlobeNewswire",
+    "language": "en",
+    "relevance_score": 80,
+    "summary": "글로벌 AI 인프라 시장 2025년 1,583억 달러 → 2030년 4,188억 달러 전망. GPU/TPU/ASIC 특수 하드웨어 수요가 성장 핵심 동력.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T11:59:29.271121"
+  },
+  "digest": {
+    "headline": "글로벌 AI 인프라 시장, 2030년 4,188억 달러 규모 전망",
+    "lead": "GPU·TPU·ASIC 등 특수 하드웨어 수요 급증에 힘입어 글로벌 AI 인프라 시장이 2025년 1,583억 달러에서 2030년 4,188억 달러 규모로 확대될 전망이다. 연평균 성장률(CAGR) 21.5%로 주요 기술 시장 중 가장 빠른 성장세를 기록하고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">GPU·TPU·ASIC 등 특수 하드웨어 수요 급증에 힘입어 글로벌 AI 인프라 시장이 2025년 1,583억 달러에서 2030년 4,188억 달러 규모로 확대될 전망이다. 연평균 성장률(CAGR) 21.5%로 주요 기술 시장 중 가장 빠른 성장세를 기록하고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">대형 언어 모델(LLM) 등 복잡한 AI 알고리즘의 연산 수요가 폭발적으로 증가하면서, 범용 프로세서에서 GPU·ASIC·FPGA 등 특수 하드웨어로의 전환이 가속화되고 있다. 구글의 TPU를 비롯한 하이퍼스케일러의 커스텀 칩은 저정밀 연산과 온칩 메모리 최적화를 통해 처리 속도와 에너지 효율을 획기적으로 높이고 있으며, AI 데이터센터의 전력 소비 요구에도 대응하고 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">AI 인프라의 고도화는 생성형 AI 애플리케이션 확산과 엣지 AI 배포를 함께 가속화할 전망이다. 5G와 연계된 저전력 AI 가속기가 공장 자동화·자율주행·IoT 현장까지 침투하면서 AI 인프라 시장은 단순 데이터센터를 넘어 전 산업으로 확장되고 있다. Research and Markets는 컴포넌트·네트워크·스토리지·지원 인프라 등 전 부문에서 고른 성장이 이어질 것으로 분석했다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.globenewswire.com/news-release/2026/03/03/3248314/28124/en/AI-Infrastructure-Market-Research-Report-2026-Opportunities-in-Advancements-in-Specialized-Hardware-Like-GPUs-TPUs-and-ASICs-for-Enhanced-Deep-Learning-Performance.html\" style=\"color:#FF6B35;text-decoration:none;\">GlobeNewswire</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "research"
+    ],
+    "meta_title": "글로벌 AI 인프라 시장 2030년 4,188억 달러 전망 — 연평균 21.5% 성장",
+    "meta_description": "GPU·TPU·ASIC 등 특수 하드웨어 수요 급증으로 글로벌 AI 인프라 시장이 2025년 1,583억 달러에서 2030년 4,188억 달러로 성장할 전망이다. 연평균 성장률 21.5%.",
+    "word_count": 420
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector-heartbeat",
+      "action": "sourced",
+      "timestamp": "2026-03-04T11:59:29.271125"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T03:21:00.000Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T03:25:04.122Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a7a60f659ea80001153bf3",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a7a60f659ea80001153bf3",
+    "public_url": "https://ubion.ghost.io/geulrobeol-ai-inpeura-sijang-2030nyeon-4-188eog-dalreo-gyumo-jeonmang/",
+    "status": "published",
+    "published_at": "2026-03-04T03:25:03.000Z"
+  }
+}

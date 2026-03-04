@@ -1,0 +1,17 @@
+{
+  "stage": "sourced",
+  "pipeline": "digest",
+  "source": {
+    "title": "Nvidia, AMD slump as US government considers capping AI chip sales at 75,000 per Chinese buyer",
+    "url": "https://sherwood.news/markets/nvidia-amd-slump-as-us-government-said-to-consider-capping-ai-chip-sales-at/",
+    "source_name": "Sherwood News",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "The US government is reportedly weighing a cap of 75,000 AI chips per Chinese buyer, according to Bloomberg sources. The proposal sent Nvidia and AMD shares lower as investors assessed the potential impact on GPU exports to China. The move is part of ongoing US efforts to restrict China's access to advanced AI hardware on national security grounds.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T05:44:00+01:00"
+  },
+  "audit_log": [
+    {"agent": "digest-collector", "action": "sourced", "timestamp": "2026-03-04T05:44:00+01:00"}
+  ]
+}

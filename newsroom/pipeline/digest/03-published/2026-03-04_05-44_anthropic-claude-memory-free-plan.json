@@ -1,0 +1,35 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Anthropic upgrades Claude's memory to attract AI switchers",
+    "url": "https://www.acerbolivio.com/2026/03/03/anthropic-upgrades-claudes-memory-to-attract-ai-switchers/",
+    "source_name": "Livio Acerbo (via The Verge)",
+    "language": "en",
+    "relevance_score": 80,
+    "summary": "Anthropic is expanding Claude's memory feature to free-plan users, making it easier to switch from rival chatbots. The update also introduces a dedicated import tool that lets users migrate chat history and preferences from other AI platforms like ChatGPT, positioning Claude as a more accessible alternative amid growing competition.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T05:44:00+01:00"
+  },
+  "digest": {
+    "headline": "Anthropic, 클로드 메모리 무료 개방…ChatGPT 사용자 유입 정면 겨냥",
+    "lead": "Anthropic이 클로드(Claude)의 메모리 기능을 무료 플랜 사용자에게까지 확대 개방했다. ChatGPT 등 타 AI 플랫폼에서 대화 이력과 설정을 손쉽게 가져올 수 있는 전용 이전 도구도 함께 출시해, AI 챗봇 시장의 사용자 유치 경쟁이 새 국면에 접어들었다.",
+    "ghost_tags": ["ai-digest", "ai", "openai", "technology"],
+    "meta_title": "Anthropic, 클로드 메모리 무료 개방…ChatGPT 전환 도구 출시",
+    "meta_description": "Anthropic이 Claude 메모리 기능을 무료 사용자에게 확대하고 ChatGPT에서 대화 이력을 가져오는 이전 도구를 출시했다. AI 챗봇 시장의 사용자 유치 경쟁이 새 국면을 맞이하고 있다.",
+    "word_count": 415
+  },
+  "publish_result": {
+    "ghost_post_id": "69a7bc14659ea80001153eaf",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a7bc14659ea80001153eaf",
+    "public_url": "https://ubion.ghost.io/anthropic-keulrodeu-memori-muryo-gaebang-chatgpt-sayongja-yuib-jeongmyeon-gyeonyang/",
+    "status": "published",
+    "feature_image": "https://images.unsplash.com/photo-1607705703571-c5a8695f18f6?w=1200&h=630&fit=crop&q=85&auto=format",
+    "published_at": "2026-03-04T05:57:00+01:00"
+  },
+  "audit_log": [
+    {"agent": "digest-collector", "action": "sourced", "timestamp": "2026-03-04T05:44:00+01:00"},
+    {"agent": "digest-writer", "action": "drafted", "timestamp": "2026-03-04T05:54:00+01:00"},
+    {"agent": "digest-publisher", "action": "published", "timestamp": "2026-03-04T05:57:00+01:00"}
+  ]
+}

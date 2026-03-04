@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Google employees call for military limits on AI amid Iran strikes, Anthropic fallout",
+    "url": "https://www.cnbc.com/2026/03/03/anthropic-fallout-iran-war-tech-military-ai.html",
+    "source_name": "CNBC",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Employees at Alphabet and OpenAI are pushing for stricter limits on the military's use of AI, as tensions rise following the blacklisting of Anthropic's models from U.S. government agencies. The internal pushback comes amid broader geopolitical concerns tied to AI's role in military operations related to Iran. The movement signals growing employee-led AI ethics and safety pressure within Big Tech.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T04:44:00+01:00"
+  },
+  "digest": {
+    "headline": "구글·OpenAI 직원 900명, '군사 AI 한계선' 공개 연서",
+    "lead": "미국의 이란 공습 직후, 구글과 OpenAI 임직원 약 900명이 '우리는 분열되지 않는다(We Will Not Be Divided)'는 공개서한에 서명하며 군사 AI 활용에 명확한 경계를 요구했다. 국방부가 Anthropic을 블랙리스트에 올리자 나머지 빅테크 직원들이 자신들도 같은 압박을 받을 수 있다는 위기감에 연대에 나선 것이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국의 이란 공습 직후, 구글과 OpenAI 임직원 약 900명이 '우리는 분열되지 않는다'는 공개서한에 서명하며 군사 AI 활용에 명확한 경계를 요구했다. 국방부가 Anthropic을 블랙리스트에 올리자 나머지 빅테크 직원들이 자신들도 같은 압박을 받을 수 있다는 위기감에 연대에 나선 것이다. 금요일 수백 명이던 서명자 수는 월요일까지 900명에 근접했으며 OpenAI 100명, 구글 약 800명이 포함됐다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">트럼프 행정부는 Anthropic이 대량 감시와 완전 자율 무기에 자사 기술 사용을 거부하자 해당 기업을 '공급망 위험'으로 지정하고 국방부 내 사용을 차단했다. 이란 공습이 시작된 지 수 시간 만에 내려진 결정이었다. 구글은 현재 펜타곤과 Gemini를 기밀 시스템에 도입하는 협상을 진행 중인 것으로 알려지면서 사내 긴장감이 고조됐다. 'No Tech For Apartheid' 등 시민단체들도 아마존·구글·마이크로소프트에 국방부 요구 거부를 촉구하고 나섰다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 움직임은 빅테크 내부에서 AI 윤리·안전 중심의 집단적 저항이 본격화하고 있음을 보여준다. 정부가 군사 AI 계약 경쟁을 통해 기업 간 분열을 유도하는 전략을 쓰고 있다는 인식이 퍼지면서, 오히려 기업 간 '연대'로 맞서는 흐름이 나타나고 있다. AI 안전 원칙과 정부 계약 사이의 갈등은 업계 전반의 중장기 과제로 부상할 전망이다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.cnbc.com/2026/03/03/anthropic-fallout-iran-war-tech-military-ai.html\" style=\"color:#FF6B35;text-decoration:none;\">CNBC</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "openai",
+      "google"
+    ],
+    "meta_title": "구글·OpenAI 직원 900명, 군사 AI 한계선 요구 공개 연서",
+    "meta_description": "이란 공습 직후 구글·OpenAI 임직원 900명이 군사 AI 활용 제한을 촉구하는 공개서한에 서명. Anthropic 블랙리스트 지정에 빅테크 내부 집단 저항 확산.",
+    "word_count": 480
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T04:44:00+01:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T04:51:00+01:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T03:54:49.493Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a7ad09659ea80001153dd0",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a7ad09659ea80001153dd0",
+    "public_url": "https://ubion.ghost.io/gugeul-openai-jigweon-900myeong-gunsa-ai-hangyeseon-gonggae-yeonseo/",
+    "status": "published",
+    "published_at": "2026-03-04T03:54:49.000Z"
+  }
+}

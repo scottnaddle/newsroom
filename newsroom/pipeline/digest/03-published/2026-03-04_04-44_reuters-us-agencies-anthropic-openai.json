@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "State Department switches to OpenAI as US agencies start phasing out Anthropic",
+    "url": "https://www.reuters.com/business/us-treasury-ending-all-use-anthropic-products-says-bessent-2026-03-02/",
+    "source_name": "Reuters",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Three U.S. cabinet agencies moved to cease use of Anthropic's AI products, including Claude, joining the military in directing staff to use models from rivals such as OpenAI and Google. Treasury Secretary Scott Bessent announced the termination of all Anthropic products, with HHS directing employees to ChatGPT and Gemini instead. The State Department also announced a switch to OpenAI.",
+    "published_date": "2026-03-02",
+    "collected_at": "2026-03-04T04:44:00+01:00"
+  },
+  "digest": {
+    "headline": "미 재무부·국무부, Anthropic 전면 퇴출… OpenAI·Google로 교체",
+    "lead": "미국 연방 정부 3개 기관이 Anthropic의 AI 제품 사용을 잇따라 중단하고 OpenAI와 Google로 전환하고 있다. 재무장관 스콧 베센트는 Anthropic 제품 전면 중단을 선언했고, 국무부도 OpenAI로의 전환을 발표했다. 보건부(HHS)는 직원들에게 ChatGPT와 Gemini 사용을 지시하며 조달 판도 변화가 빠르게 진행되고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 연방 정부 3개 기관이 Anthropic의 AI 제품 사용을 잇따라 중단하고 OpenAI와 Google로 전환하고 있다. 재무장관 스콧 베센트는 Anthropic 제품 전면 중단을 선언했고, 국무부도 OpenAI로의 전환을 발표했다. 보건부(HHS)는 직원들에게 ChatGPT와 Gemini 사용을 지시하며 연방 AI 조달 시장의 판도 변화가 급속도로 진행되고 있다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">이번 조치는 트럼프 행정부가 Anthropic을 '공급망 위험' 기업으로 지정하고 국방부 내 Claude 사용을 차단한 것에서 비롯됐다. Anthropic은 대량 감시나 완전 자율 무기에 자사 기술을 활용하는 것을 거부해왔으며, 이것이 정부와의 갈등 원인이 됐다. 재무부·국무부·HHS 세 기관이 연달아 Anthropic과의 계약을 종료하면서 연방 전반으로 퇴출이 확산되는 모양새다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">OpenAI와 Google은 이번 Anthropic 퇴출로 최대 수혜를 입게 됐다. 수백만 달러 규모의 연방 AI 조달 시장에서 두 기업의 점유율이 빠르게 확대될 전망이다. 동시에, 정부 계약을 위해 AI 안전 원칙을 어느 수준까지 타협할 것인지에 대한 업계 전반의 논쟁이 더욱 격화될 것으로 보인다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.reuters.com/business/us-treasury-ending-all-use-anthropic-products-says-bessent-2026-03-02/\" style=\"color:#FF6B35;text-decoration:none;\">Reuters</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "technology"
+    ],
+    "meta_title": "미 재무부·국무부, Anthropic 퇴출… OpenAI·Google로 교체",
+    "meta_description": "미국 3개 연방 기관이 Anthropic AI 제품 사용을 전면 중단하고 OpenAI·Google로 전환. 트럼프 행정부의 Anthropic 공급망 위험 지정 이후 연방 AI 조달 시장 지각변동.",
+    "word_count": 430
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T04:44:00+01:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T04:51:00+01:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T03:54:49.671Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a7ad09659ea80001153ddd",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a7ad09659ea80001153ddd",
+    "public_url": "https://ubion.ghost.io/mi-jaemubu-gugmubu-anthropic-jeonmyeon-toecul-openai-googlero-gyoce/",
+    "status": "published",
+    "published_at": "2026-03-04T03:54:49.000Z"
+  }
+}

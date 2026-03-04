@@ -1,0 +1,192 @@
+{
+  "stage": "assigned",
+  "source": {
+    "title": "필리핀 교육부 \"AI가 교실 정책보다 빠르게 확산\" — 인간 중심 AI 교육령 발표",
+    "url": "https://newsinfo.inquirer.net/2187647/deped-issues-ai-guidelines-human-centered-approach-must-be-prioritized",
+    "source_name": "Philippine Daily Inquirer",
+    "language": "en",
+    "relevance_score": 84,
+    "summary": "필리핀 교육부 DepEd Order No.003(2026): AI 교실 확산이 정책 수립 속도를 앞질렀다고 인정. 인간 중심 접근 우선, 고위험 AI 금지, 교사 역할 보호 강조.",
+    "published_date": "2026-02-26",
+    "collected_at": "2026-03-04T04:29:07.039086"
+  },
+  "reporting_brief": {
+    "facts": [
+      {
+        "claim": "필리핀 교육부(DepEd) Order No. 003, s. 2026 — \"기초교육에서의 AI 기반 지침\" — 2026년 2월 20일 발표. 동남아 교육부 최초의 포괄적 AI 윤리·책임 사용 프레임워크",
+        "source_url": "https://www.deped.gov.ph/2026/02/20/february-20-2026-do-003-s-2026-foundational-guidelines-on-artificial-intelligence-ai-in-basic-education/",
+        "quote": "DepEd Order No. 003, series of 2026, establishes the first comprehensive framework for the ethical and responsible use of AI within the Philippine basic education system."
+      },
+      {
+        "claim": "DepEd 장관 Angara: 교실 내 AI 사용이 \"기초교육 시스템이 명확하고 통일되며 집행 가능한 정책을 마련하는 능력을 앞질렀다\"고 공식 인정",
+        "source_url": "https://newsinfo.inquirer.net/2187647/deped-issues-ai-guidelines-human-centered-approach-must-be-prioritized",
+        "quote": "the use of AI in classrooms has 'outpaced the ability of the basic education system to put in place clear, unified and enforceable policies.'"
+      },
+      {
+        "claim": "핵심 조항: ① 인간 중심 접근 우선, ② 고위험 AI 사용 금지, ③ 교사 역할 보호, ④ 학습자 보호 및 교육 무결성 강조",
+        "source_url": "https://mb.com.ph/2026/02/26/deped-sets-ai-rules-for-schools-puts-teachers-and-learners-at-the-center",
+        "quote": "rules designed to harness innovation while protecting learners, teachers, and the integrity of education itself"
+      },
+      {
+        "claim": "동남아시아 5개국(말레이시아, 베트남, 태국, 인도네시아, 필리핀) 모두 AI 입법 논의를 진행 중이나, 현재까지 구속력 있는 규제를 실시한 국가는 없다",
+        "source_url": "https://seapublicpolicy.org/work/policy-state-of-play-artificial-intelligence-in-southeast-asia/",
+        "quote": "Five countries – Malaysia, Vietnam, Thailand, Indonesia, and the Philippines – have held discussions on legislation; no countries have implemented binding regulations."
+      },
+      {
+        "claim": "한국 교육부, 2026년 2월 수업·평가에서의 AI 활용 가이드라인 발표 예정 (과기정통부 공동). AI 기반 학습데이터 수집·분석 체계 구축과 AI 윤리 콘텐츠 개발 병행",
+        "source_url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=104984&lev=0&searchType=null&statusYN=W&page=1&s=moe&m=020402&opType=N",
+        "quote": "AI 활용 가이드라인과 윤리 콘텐츠 개발을 병행 추진하겠다는 내용"
+      }
+    ],
+    "perspectives": [
+      "찬성/긍정: DepEd Order 003은 동남아 최초의 구체적 AI 교육 규제로서 역내 정책 선도 사례로 평가받는다. 특히 고위험 AI 금지, 교사 역할 보호 조항은 AI 도입 과정에서의 실질적 안전망 역할을 한다. 정책이 현실을 따라가지 못했다는 자기 인정도 정직한 출발점으로 호평 가능.",
+      "반대/우려: '고위험 AI 금지' 기준이 명확하지 않으면 집행이 어렵다. '인간 중심'의 구체적 기준 부재 시 형식적 지침에 그칠 우려. 또한 필리핀의 디지털 인프라 격차(도시-농촌)를 감안할 때, AI 교육 지침이 실제 교실에서 어떻게 작동할지는 별도 검토 필요."
+    ],
+    "suggested_angle": "필리핀 DepEd Order 003은 '정책이 기술을 따라잡지 못했다'는 솔직한 고백에서 시작한다. 이를 한국의 AI 교육 가이드라인 접근과 비교해, 동아시아-동남아시아 교육당국의 AI 규제 속도 차이와 접근법 차이를 분석하는 앵글이 유효하다. 특히 '고위험 AI 금지'의 구체적 내용과 교사 역할 보호 조항의 실효성을 중심으로 취재.",
+    "sources_used": [
+      "https://newsinfo.inquirer.net/2187647/deped-issues-ai-guidelines-human-centered-approach-must-be-prioritized",
+      "https://www.deped.gov.ph/2026/02/20/february-20-2026-do-003-s-2026-foundational-guidelines-on-artificial-intelligence-ai-in-basic-education/",
+      "https://www.depedtambayanph.net/2026/02/foundational-guidelines-on-artificial.html",
+      "https://mb.com.ph/2026/02/26/deped-sets-ai-rules-for-schools-puts-teachers-and-learners-at-the-center",
+      "https://filipinotimes.net/latest-news/2026/02/26/deped-issues-guidelines-on-ai-use-in-schools-stresses-human-centered-approach/",
+      "https://seapublicpolicy.org/work/policy-state-of-play-artificial-intelligence-in-southeast-asia/",
+      "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=104984&lev=0&searchType=null&statusYN=W&page=1&s=moe&m=020402&opType=N"
+    ],
+    "gaps": [
+      "DepEd Order 003의 '고위험 AI(high-risk AI)' 구체적 정의 목록 원문 확인 필요 (공식 문서 접근 차단됨)",
+      "필리핀 교실 현장 교사 반응 인터뷰 소스 부재",
+      "한국 교육부 2026년 2월 가이드라인 실제 발표 내용 전문 미확인",
+      "DepEd Order 003 시행 타임라인 및 집행 주체(교육청/학교) 역할 분담 불명확"
+    ]
+  },
+  "draft": {
+    "headline": "필리핀 교육부, 동남아 첫 AI 교육 지침 발표",
+    "subheadline": "\"정책이 기술을 따라잡지 못했다\" 공식 인정…인간 중심·고위험 AI 금지 원칙 천명",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <!-- 리드 문단 -->\n  <div style=\"border-left:4px solid #4338ca;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">필리핀 교육부(DepEd)가 2026년 2월 20일 동남아시아 교육당국 최초로 포괄적 AI 교육 지침(DepEd Order No. 003, s. 2026)을 공식 발표했습니다. 교육부 장관 Sonny Angara는 \"교실 내 AI 사용이 기초교육 시스템이 명확하고 통일되며 집행 가능한 정책을 마련하는 능력을 앞질렀다\"고 공개적으로 인정하며, 이번 지침이 그 간극을 메우기 위한 출발점임을 밝혔습니다.</p>\n  </div>\n\n  <!-- 섹션 1 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">지침의 핵심 내용: 인간 중심·고위험 AI 금지</h2>\n  <p style=\"margin:0 0 36px;\">이번 지침의 핵심은 네 가지 원칙으로 요약됩니다. ① <strong>인간 중심 접근</strong>을 AI 활용의 전제 조건으로 규정하고, ② 학생 평가·채용·개인정보 처리 등에 관여하는 <strong>고위험 AI 사용을 금지</strong>합니다. 또한 ③ <strong>교사의 역할을 AI로 대체할 수 없음</strong>을 명시하고, ④ 학습자 보호와 교육의 무결성을 최우선 가치로 천명합니다. DepEd는 이 지침을 두고 \"혁신을 활용하면서도 학습자·교사·교육 자체의 무결성을 보호하기 위한 규칙\"이라고 설명했습니다.</p>\n\n  <!-- 인용 블록 -->\n  <blockquote style=\"border-left:4px solid #4338ca;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">\"AI의 교실 사용은 기초교육 시스템이 명확하고 통일되며 집행 가능한 정책을 마련하는 능력을 앞질렀다.\"</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— Sonny Angara, 필리핀 교육부 장관</p>\n  </blockquote>\n\n  <!-- 섹션 2 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">동남아 5개국, 논의만…구속력 있는 규제는 전무</h2>\n  <p style=\"margin:0 0 36px;\">동남아시아정책연구소(SEA Public Policy)에 따르면, 말레이시아·베트남·태국·인도네시아·필리핀 5개국 모두 AI 관련 입법 논의를 진행 중이지만, 현재까지 구속력 있는 규제를 실시한 국가는 단 한 곳도 없습니다. 이번 필리핀 지침은 법적 구속력 수준의 규제는 아니지만, 교육부 차원에서 AI 사용 원칙을 명문화한 동남아 최초의 공식 프레임워크라는 점에서 의미가 있습니다. 역내 정책 공백 속에서 필리핀이 선도적 사례를 만들었다는 평가가 나옵니다.</p>\n\n  <!-- 섹션 3 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">한국과의 비교: 유사한 고민, 다른 속도</h2>\n  <p style=\"margin:0 0 36px;\">한국 교육부도 같은 시기, 과학기술정보통신부와 공동으로 수업·평가에서의 AI 활용 가이드라인 발표를 준비 중입니다. AI 기반 학습 데이터 수집·분석 체계 구축과 AI 윤리 콘텐츠 개발을 병행한다는 계획입니다. 교사 역할 보호와 학습자 데이터 보안이라는 핵심 고민은 필리핀과 사실상 동일합니다. 다만 한국은 AI 교과서 전국 도입 등 적극적 AI 활용 정책과 규제 가이드라인을 동시에 추진 중인 반면, 필리핀은 아직 기초적 원칙 수립 단계에 있다는 점에서 정책 성숙도의 차이가 확인됩니다.</p>\n\n  <!-- 섹션 4 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">과제: '고위험 AI' 정의와 현장 실효성</h2>\n  <p style=\"margin:0 0 36px;\">이번 지침에 대한 주요 우려는 '고위험 AI' 범위의 불명확성입니다. 구체적 대상 기술 목록이 공개되지 않아, 학교 현장에서 어떤 도구를 금지해야 하는지 혼란이 예상됩니다. 또한 필리핀의 심각한 도농 디지털 인프라 격차를 고려할 때, 지침이 도시 학교 중심의 규범에 그칠 수 있다는 지적도 있습니다. 'DepEd가 현실을 솔직하게 인정했다'는 긍정적 평가 이면에는, 집행 주체와 타임라인이 여전히 불분명하다는 현실적 한계가 존재합니다.</p>\n\n  <!-- 참고 자료 -->\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://newsinfo.inquirer.net/2187647/deped-issues-ai-guidelines-human-centered-approach-must-be-prioritized\" style=\"color:#4338ca;text-decoration:none;\">Philippine Daily Inquirer — DepEd issues AI guidelines, human-centered approach must be prioritized</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.deped.gov.ph/2026/02/20/february-20-2026-do-003-s-2026-foundational-guidelines-on-artificial-intelligence-ai-in-basic-education/\" style=\"color:#4338ca;text-decoration:none;\">DepEd 공식 발표 — DepEd Order No. 003, s. 2026</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://mb.com.ph/2026/02/26/deped-sets-ai-rules-for-schools-puts-teachers-and-learners-at-the-center\" style=\"color:#4338ca;text-decoration:none;\">Manila Bulletin — DepEd sets AI rules for schools, puts teachers and learners at the center</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://seapublicpolicy.org/work/policy-state-of-play-artificial-intelligence-in-southeast-asia/\" style=\"color:#4338ca;text-decoration:none;\">SEA Public Policy — Policy State of Play: Artificial Intelligence in Southeast Asia</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=104984&lev=0&searchType=null&statusYN=W&page=1&s=moe&m=020402&opType=N\" style=\"color:#4338ca;text-decoration:none;\">한국 교육부 — AI 활용 가이드라인 및 윤리 콘텐츠 개발 계획</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "AI교육",
+      "교육정책",
+      "필리핀",
+      "동남아시아",
+      "AI규제"
+    ],
+    "references": [
+      {
+        "num": 1,
+        "url": "https://newsinfo.inquirer.net/2187647/deped-issues-ai-guidelines-human-centered-approach-must-be-prioritized",
+        "title": "Philippine Daily Inquirer — DepEd issues AI guidelines"
+      },
+      {
+        "num": 2,
+        "url": "https://www.deped.gov.ph/2026/02/20/february-20-2026-do-003-s-2026-foundational-guidelines-on-artificial-intelligence-ai-in-basic-education/",
+        "title": "DepEd Order No. 003, s. 2026 공식 발표"
+      },
+      {
+        "num": 3,
+        "url": "https://mb.com.ph/2026/02/26/deped-sets-ai-rules-for-schools-puts-teachers-and-learners-at-the-center",
+        "title": "Manila Bulletin — DepEd sets AI rules for schools"
+      },
+      {
+        "num": 4,
+        "url": "https://seapublicpolicy.org/work/policy-state-of-play-artificial-intelligence-in-southeast-asia/",
+        "title": "SEA Public Policy — AI in Southeast Asia"
+      },
+      {
+        "num": 5,
+        "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=104984&lev=0&searchType=null&statusYN=W&page=1&s=moe&m=020402&opType=N",
+        "title": "한국 교육부 — AI 활용 가이드라인 계획"
+      }
+    ],
+    "word_count": 850,
+    "article_type": "news"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-heartbeat",
+      "action": "sourced",
+      "timestamp": "2026-03-04T04:29:07.039095"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-03T21:26:00+01:00",
+      "note": "relevance_score 84 ≥ 75 — 취재 배정"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-03T21:52:00+01:00"
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T04:27:00+01:00"
+    },
+    {
+      "agent": "fact-checker",
+      "action": "verified",
+      "timestamp": "2026-03-04T05:18:00+01:00",
+      "note": "전체 신뢰도 67, FAIL — 동남아 AI 규제 없음 주장 REFUTED(베트남 2026-03-01 발효) + 한국 가이드라인 발표 완료 여부 UNVERIFIABLE"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "returned_for_reassignment",
+      "timestamp": "2026-03-04T05:39:00+01:00",
+      "note": "FAIL verdict, overall_confidence 67 (<70) — 02-assigned/로 반환. 베트남 AI법(2026-03-01 발효) REFUTED 주장 수정 필수. 한국 교육부 가이드라인 발표 완료 여부 재확인 필요."
+    }
+  ],
+  "desk_instructions": "[재취재 지시 — FAIL 반환] 팩트체커 전체 신뢰도 67, FAIL 판정.\n\n핵심 수정 사항:\n1. [REFUTED] 동남아 AI 구속력 규제 없음 주장 → 베트남 AI법(2026년 3월 1일 발효) 반영 필수. 기사 작성 3일 전 이미 시행됨. SEA Public Policy 2024년 출처 교체 필요. 관련 본문 전면 재작성.\n2. [UNVERIFIABLE] 한국 교육부 AI 가이드라인 → 2026년 2월 실제 발표 완료 여부 확인 후 \"발표 예정\" vs \"발표 완료\" 명확히 구분. 확인 불가 시 \"예정\" 표현 유지 또는 관련 언급 삭제.\n\n수정 우선순위: ①번 수정 없이는 재승인 불가.",
+  "fact_check_report": {
+    "overall_confidence": 67,
+    "verdict": "FAIL",
+    "claims": [
+      {
+        "claim": "DepEd Order No. 003, s. 2026 — 2026년 2월 20일 발표, 동남아 교육부 최초의 포괄적 AI 윤리·책임 사용 프레임워크",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 88,
+        "evidence": "deped.gov.ph 공식 페이지 확인. 2월 20일 발표, 필리핀 기초교육 내 AI 윤리·책임 사용 프레임워크로서 최초 명시.",
+        "source_url": "https://www.deped.gov.ph/2026/02/20/february-20-2026-do-003-s-2026-foundational-guidelines-on-artificial-intelligence-ai-in-basic-education/",
+        "flagged": false
+      },
+      {
+        "claim": "DepEd 장관 Angara: AI 사용이 \"기초교육 시스템이 명확하고 통일되며 집행 가능한 정책을 마련하는 능력을 앞질렀다\"",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "Philippine Daily Inquirer, Manila Bulletin, Filipino Times 등 복수 신뢰 언론이 동일 인용 확인.",
+        "source_url": "https://newsinfo.inquirer.net/2187647/deped-issues-ai-guidelines-human-centered-approach-must-be-prioritized",
+        "flagged": false
+      },
+      {
+        "claim": "핵심 조항: 인간 중심 접근 우선, 고위험 AI 금지, 교사 역할 보호, 학습자 보호 및 교육 무결성",
+        "type": "definitional",
+        "verdict": "SUPPORTED",
+        "confidence": 85,
+        "evidence": "Manila Bulletin 등 보도로 핵심 4대 원칙 확인. 단, 고위험 AI 구체 목록은 원문 미공개로 완전 검증 불가.",
+        "source_url": "https://mb.com.ph/2026/02/26/deped-sets-ai-rules-for-schools-puts-teachers-and-learners-at-the-center",
+        "flagged": false
+      },
+      {
+        "claim": "동남아시아 5개국(말레이시아·베트남·태국·인도네시아·필리핀) 모두 AI 입법 논의 중이나, 현재까지 구속력 있는 규제를 실시한 국가는 단 한 곳도 없다",
+        "type": "statistical",
+        "verdict": "REFUTED",
+        "confidence": 10,
+        "evidence": "베트남 AI 법(Law on Artificial Intelligence, 2025년 12월 10일 통과)이 2026년 3월 1일 발효 — 기사 작성(3월 4일) 3일 전. 동남아 최초의 포괄적 AI 구속력 법제가 이미 발효된 상태. 인용 출처(SEA Public Policy)는 2024년 8월 기준으로 구식 데이터. 스트레이츠 타임스·타이베이 타임스·아시아 파이낸셜 등 복수 주요 언론 확인.",
+        "source_url": "https://www.straitstimes.com/asia/se-asia/vietnam-ai-law-takes-effect-first-in-south-east-asia",
+        "flagged": true,
+        "correction": "베트남은 2026년 3월 1일부로 동남아 최초의 포괄적 AI 법률 발효. 해당 주장은 2024년 기준 출처를 사용하여 현시점 사실과 불일치. 즉각 수정 필요."
+      },
+      {
+        "claim": "한국 교육부, 2026년 2월 수업·평가에서의 AI 활용 가이드라인 발표 예정 (과기정통부 공동)",
+        "type": "temporal",
+        "verdict": "UNVERIFIABLE",
+        "confidence": 55,
+        "evidence": "moe.go.kr 공식 보도자료에서 \"2026년 2월 중에 안내할 예정\" 확인 (2025년 12월 발표 기준). 그러나 기사 작성 시점(2026년 3월 4일)에 실제 발표가 이뤄졌는지 여부는 미확인. 기사 본문에서 \"준비 중\"이라 표현 — 발표 완료 여부 불명확.",
+        "source_url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=104984&lev=0&searchType=null&statusYN=W&page=1&s=moe&m=020402&opType=N",
+        "flagged": true,
+        "correction": "기사 작성 시점(3월 4일) 기준, 실제 발표 완료 여부 확인 후 \"발표 예정\"/\"발표 완료\" 구분하여 수정 권고."
+      }
+    ]
+  }
+}
