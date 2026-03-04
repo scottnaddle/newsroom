@@ -1,0 +1,86 @@
+{
+  "stage": "reported",
+  "source": {
+    "title": "영국 학교 백서, AI 안전·교육학 태스크포스 출범 — Google DeepMind·OpenAI 참여",
+    "url": "https://www.fenews.co.uk/skills/deep-dive-what-the-schools-white-paper-and-send-reforms-really-mean-for-fe/",
+    "source_name": "FE News",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "영국 교육부 학교 백서: AI 안전·교육학 태스크포스 신설, £2,300만 에듀테크 증거 프로그램, 2027년까지 AI 튜터링 도구 무상 제공. Google DeepMind·OpenAI 파트너로 참여.",
+    "published_date": "2026-02-27",
+    "collected_at": "2026-03-03T22:12:15.347026"
+  },
+  "desk_instructions": "영국 정부의 AI 교육 정책 구조화 취재. 태스크포스 구성·권한·일정, £2,300만 예산 집행 계획, 2027년 무상 AI 튜터링 도구 제공 로드맵 확인. 한국 교육부 AI 정책과 비교 앵글 추가. Big Tech(DeepMind·OpenAI) 공교육 진입에 대한 비판적 시각도 포함.",
+  "reporting_brief": {
+    "facts": [
+      {
+        "claim": "영국 학교 백서 'Every Child Achieving and Thriving'는 AI 안전·교육학 태스크포스 신설을 포함. 교사와 AI 전문가를 함께 구성하며, 2027년까지 학교에 무상으로 AI 튜터링 도구 제공 예정",
+        "source_url": "https://www.fenews.co.uk/exclusive/the-schools-white-paper-just-showed-us-where-ai-policy-is-heading-fe-needs-to-pay-attention/",
+        "quote": "The white paper commits £23 million Taskforce bringing together teachers and AI experts, and promises teacher co-created AI tutoring tools available to schools by 2027"
+      },
+      {
+        "claim": "영국 정부 AI 기회 실행 계획(2026.01.29): 2026년 3월까지 AI 도구 공동 개발 및 학교 내 시험 운영을 위한 입찰 및 파트너십 착수. 목표는 학습 성취도 향상 및 교육 불평등 격차 해소",
+        "source_url": "https://www.gov.uk/government/publications/ai-opportunities-action-plan-one-year-on/ai-opportunities-action-plan-one-year-on",
+        "quote": "By March 2026, we will launch tenders and partnership work for co-creation and in-school trials of AI to develop AI-powered tools to support learning and reduce teacher workload."
+      },
+      {
+        "claim": "AI 튜터링 도구가 2027년까지 45만 명의 교육 취약 계층 학생들에게 제공될 예정. 2026년 여름부터 교사 주도로 업계와 AI 튜터링 도구 공동 개발 시작",
+        "source_url": "https://www.openaccessgovernment.org/ai-tutoring-tools-could-help-450000-disadvantaged-pupils-in-uk-schools-by-2027/204258/",
+        "quote": "From summer 2026, teachers will lead the co-creation of AI tutoring tools with the industry. The tools will then be available to schools by the end of 2027."
+      },
+      {
+        "claim": "Google DeepMind는 영국 정부와의 파트너십 강화를 공표. AI 기반 수학 튜터링 스타트업 Eedi와 협업한 RCT(무작위 대조 시험)에서 짧은 AI 튜터링 세션이 학생 학습에 효과적임을 보여주는 예비 결과 발표",
+        "source_url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
+        "quote": "Students who received short AI tutoring sessions (under supervision by teachers) were [showing improved outcomes in exploratory RCT]"
+      },
+      {
+        "claim": "학교 백서는 SEND(특수교육지원) 분야에 £70억 추가 투자 포함. £16억 '포용적 주류 기금'은 학교와 대학 모두 적용되나 FE(계속교육) 기관 배분 방식 미결",
+        "source_url": "https://www.fenews.co.uk/skills/deep-dive-what-the-schools-white-paper-and-send-reforms-really-mean-for-fe/",
+        "quote": "£7 billion more is being spent on SEND compared to 2025-26. Key investments include £1.6 billion for an Inclusive Mainstream Fund"
+      },
+      {
+        "claim": "한국: AI 디지털교과서 2025년 도입 후 속도 조절 논의. 2026년 이후 교과목 확대는 전문가 검토 후 결정 방침",
+        "source_url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156663262",
+        "quote": "AI 디지털교과서를 2025년은 계획된 일정대로 도입하되, 2026년 이후 적용 교과에 대해서는 조정을 제안"
+      }
+    ],
+    "perspectives": [
+      "찬성(영국 정부·DeepMind·OpenAI): 교사 주도 공동 개발 방식은 기존 에듀테크 도입의 실패(교사 배제, 검증 없는 상용 도구 채택)를 교훈 삼아 '증거 기반' 접근 강조. Eedi RCT 결과는 교사 감독 하 단기 AI 튜터링의 학습 효과 입증 가능성 제시",
+      "비판(공교육 민영화 우려): Big Tech 기업(DeepMind·OpenAI)이 공교육 정책 설계에 참여하는 구조는 데이터 수집·알고리즘 편향·기업 의존성 문제를 내포. 계속교육(FE) 기관에 대한 정책 설계 공백은 16세 이후 취약 계층의 사각지대를 만들 수 있다는 지적",
+      "한국과의 비교: 영국은 '태스크포스 → 공동 개발 → 현장 시험'의 단계적 접근을 택했으나, 한국은 교과서 도입을 먼저 결정하고 현장 검증을 나중에 수행하는 역순 구조. 영국 모델이 더 신중하다는 평가 가능"
+    ],
+    "suggested_angle": "영국은 'Big Tech + 교사 + 정부' 3자 공동 설계라는 새로운 AI 교육 거버넌스 모델을 실험하고 있다 — 구글·OpenAI의 공교육 진입을 허용하되 교사 주도성을 제도적으로 보장하는 이 접근이 한국의 하향식 AI 교과서 도입보다 현장 신뢰를 얻을 수 있는지, £2,300만짜리 실험의 결과가 전 세계 교육 정책의 나침반이 될 것이다.",
+    "sources_used": [
+      "https://www.fenews.co.uk/skills/deep-dive-what-the-schools-white-paper-and-send-reforms-really-mean-for-fe/",
+      "https://www.fenews.co.uk/exclusive/the-schools-white-paper-just-showed-us-where-ai-policy-is-heading-fe-needs-to-pay-attention/",
+      "https://www.gov.uk/government/publications/ai-opportunities-action-plan-one-year-on/ai-opportunities-action-plan-one-year-on",
+      "https://www.openaccessgovernment.org/ai-tutoring-tools-could-help-450000-disadvantaged-pupils-in-uk-schools-by-2027/204258/",
+      "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
+      "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156663262"
+    ],
+    "gaps": [
+      "AI 안전·교육학 태스크포스 구체적 구성원 명단 및 의사결정 권한 범위 미확인",
+      "OpenAI의 영국 공교육 참여 방식 구체적 역할 확인 필요 (FE News 원문에서 언급 없음, 별도 발표 확인 필요)",
+      "£2,300만 에듀테크 증거 프로그램의 평가 기준과 결과 공개 일정 미확인",
+      "한국 교육부와 영국 교육부의 AI 교육 예산 규모 비교 데이터 필요"
+    ]
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-heartbeat",
+      "action": "sourced",
+      "timestamp": "2026-03-03T22:12:15.347032"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-03T14:13:00+01:00",
+      "note": "relevance_score 85 ≥ 75 — 취재 배정. 영국 정책 + Big Tech 공교육 진입 이슈, 한국 비교 앵글 권장."
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-03T15:13:00+01:00"
+    }
+  ]
+}

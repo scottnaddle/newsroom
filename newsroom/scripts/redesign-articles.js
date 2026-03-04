@@ -249,7 +249,7 @@ function generateOGCard({ headline, category, outputPath }) {
 // ── Ghost API 호출 ──
 function ghostGet(path) {
   return new Promise(r => https.get({
-    hostname:'askedtech.ghost.io', path,
+    hostname:'ubion.ghost.io', path,
     headers:{'Authorization':'Ghost '+makeToken(),'Accept-Version':'v5.0'}
   }, res => { let d=''; res.on('data',c=>d+=c); res.on('end',()=>r(JSON.parse(d))); }));
 }
@@ -258,7 +258,7 @@ function ghostPut(postId, body) {
   return new Promise((res,rej) => {
     const data = JSON.stringify(body);
     const req = https.request({
-      hostname:'askedtech.ghost.io',
+      hostname:'ubion.ghost.io',
       path:`/ghost/api/admin/posts/${postId}/?source=html`,
       method:'PUT',
       headers:{'Authorization':'Ghost '+makeToken(),'Content-Type':'application/json',
@@ -277,7 +277,7 @@ function uploadImage(filePath, filename) {
       buf, Buffer.from(`\r\n--${b}--\r\n`)
     ]);
     const req = https.request({
-      hostname:'askedtech.ghost.io', path:'/ghost/api/admin/images/upload/', method:'POST',
+      hostname:'ubion.ghost.io', path:'/ghost/api/admin/images/upload/', method:'POST',
       headers:{'Authorization':'Ghost '+makeToken(),'Accept-Version':'v5.0',
         'Content-Type':`multipart/form-data; boundary=${b}`,'Content-Length':body.length}
     }, r => { let d=''; r.on('data',c=>d+=c); r.on('end',()=>res(JSON.parse(d).images?.[0]?.url)); });

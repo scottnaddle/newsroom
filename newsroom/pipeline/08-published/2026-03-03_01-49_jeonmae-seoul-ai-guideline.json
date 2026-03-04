@@ -272,7 +272,7 @@
       "agent": "publisher",
       "action": "published-draft",
       "timestamp": "2026-03-03T01:02:37.073Z",
-      "note": "Ghost draft URL: https://askedtech.ghost.io/ghost/#/editor/post/69a63320e9865e00011c1e3a | Feature image: Unsplash tech | OG card: Ghost CDN"
+      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69a63320e9865e00011c1e3a | Feature image: Unsplash tech | OG card: Ghost CDN"
     }
   ],
   "copy_edit": {
@@ -313,10 +313,10 @@
   },
   "publish_result": {
     "ghost_post_id": "69a63320e9865e00011c1e3a",
-    "ghost_draft_url": "https://askedtech.ghost.io/ghost/#/editor/post/69a63320e9865e00011c1e3a",
+    "ghost_draft_url": "https://ubion.ghost.io/ghost/#/editor/post/69a63320e9865e00011c1e3a",
     "status": "draft",
     "published_at": "2026-03-03T01:02:37.073Z",
     "feature_image": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=1200&h=630&fit=crop&q=85&auto=format",
-    "og_image": "https://askedtech.ghost.io/content/images/2026/03/og-card-jeonmae.png"
+    "og_image": "https://ubion.ghost.io/content/images/2026/03/og-card-jeonmae.png"
   }
 }

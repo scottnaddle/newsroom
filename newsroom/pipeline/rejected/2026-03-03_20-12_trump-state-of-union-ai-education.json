@@ -1,0 +1,257 @@
+{
+  "stage": "rejected",
+  "source": {
+    "title": "트럼프 국정연설서 AI 언급했지만 교육 정책은 공백",
+    "url": "https://www.edweek.org/policy-politics/trump-talks-up-ai-in-state-of-the-union-but-not-much-else-about-education/2026/02",
+    "source_name": "Education Week",
+    "language": "en",
+    "relevance_score": 83,
+    "summary": "트럼프 대통령이 국정연설에서 AI를 강조했으나 교육 분야 구체 정책은 거의 언급 없어. 학교 안전·커뮤니티 교육 보조금은 보건부 이관 예정.",
+    "published_date": "2026-02-25",
+    "collected_at": "2026-03-03T20:12:07.329978"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-heartbeat",
+      "action": "sourced",
+      "timestamp": "2026-03-03T20:12:07.329991"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-03T12:10:00+01:00",
+      "note": "relevance_score 83 >= 75 — 취재 배정"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-03T14:09:00+01:00"
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-03T15:28:00+01:00"
+    },
+    {
+      "agent": "fact-checker",
+      "action": "verified",
+      "timestamp": "2026-03-03T15:53:00+01:00",
+      "note": "전체 신뢰도 79, 판정 FLAG. 핵심 8개 주장 SUPPORTED. 단, 연설 날짜 오류 발견: 기사 '지난달 25일' → 실제 2026년 2월 24일(Wikipedia, PBS, PolitiFact 다수 소스 확인). 수정 후 재제출 필요."
+    },
+    {
+      "agent": "editor-desk",
+      "action": "revise-requested",
+      "timestamp": "2026-03-03T17:18:00+01:00",
+      "note": "날짜 오류 수정 지시: '지난달 25일' → '지난달 24일'"
+    },
+    {
+      "agent": "writer",
+      "action": "revised",
+      "timestamp": "2026-03-03T18:00:00+01:00",
+      "note": "revision_count: 1 — 재제출"
+    },
+    {
+      "agent": "fact-checker",
+      "action": "verified",
+      "timestamp": "2026-03-03T19:10:00+01:00",
+      "note": "2차 팩트체크. 신뢰도 79 유지, 판정 FLAG 유지. 날짜 오류 여전히 미수정 — 기사 리드 HTML에 '지난달 25일(현지시간)' 그대로. 재수정 필수."
+    },
+    {
+      "agent": "editor-desk",
+      "action": "rejected",
+      "timestamp": "2026-03-03T19:24:00+01:00",
+      "note": "최대 수정 횟수 초과 — revision_count 2→3. 날짜 오류(지난달 25일→24일) 데스크 1차 수정 지시 및 2차 팩트체크 경고에도 HTML 리드에 미수정 상태 지속. FLAG 신뢰도 79, 수정 가능한 오류이나 반복 미이행으로 드랍."
+    }
+  ],
+  "desk_instructions": "트럼프 국정연설 AI 강조 vs 교육 정책 공백 — 미 교육 AI 정책 방향성 취재. 연설 구체 발언 내용, 학교 안전/보조금 보건부 이관 의미, 교육계 반응 포함. AskedTech 독자 관련성(글로벌 AI 교육 정책 맥락) 고려.",
+  "reporting_brief": {
+    "facts": [
+      {
+        "claim": "트럼프 대통령의 2026년 국정연설은 108분(역대 최장)이었으나 AI 언급은 단 두 차례에 그쳤다.",
+        "source_url": "https://www.axios.com/2026/02/26/trump-state-of-the-union-ai",
+        "quote": "President Trump on Tuesday gave the longest State of the Union address ever, clocking in at 108 minutes. But he gave short shrift to artificial intelligence, mentioning it just twice."
+      },
+      {
+        "claim": "트럼프는 멜라니아 여사가 주도한 'Presidential AI Challenge'(K-12 AI 경진대회)를 언급하며 '미국의 다음 세대를 미래에 대비시키고 있다'고 말했다.",
+        "source_url": "https://www.edweek.org/policy-politics/trump-talks-up-ai-in-state-of-the-union-but-not-much-else-about-education/2026/02",
+        "quote": "Students and educators in every state have joined the First Lady's efforts in the presidential AI challenge keeping America's Next Generation positioned to succeed and strongly succeed in the future."
+      },
+      {
+        "claim": "트럼프 행정부는 교육부 인력을 거의 절반 감축했고, Title I(저소득층 지원)·직업기술교육(CTE) 프로그램을 노동부로 이관하기로 했다.",
+        "source_url": "https://www.edweek.org/policy-politics/trump-talks-up-ai-in-state-of-the-union-but-not-much-else-about-education/2026/02",
+        "quote": "Trump's decision to cut the department's staff nearly in half and move administration of key K-12 programs—including Title I grants for disadvantaged students and career-and-technical education programs—to the U.S. Department of Labor."
+      },
+      {
+        "claim": "AI 경진대회 추진과 동시에, 행정부는 K-12·대학의 STEM 교육 지원을 목적으로 하는 연방 보조금 400개 이상을 지난 봄 폐지했다.",
+        "source_url": "https://www.edweek.org/policy-politics/trump-talks-up-ai-in-state-of-the-union-but-not-much-else-about-education/2026/02",
+        "quote": "the administration terminated more than 400 federal grants last spring that were aimed at advancing STEM education in K-12 schools and universities."
+      },
+      {
+        "claim": "교육부 교육기술국(Office of Educational Technology)도 폐지됐다. 이 부서는 학교·교육구가 신기술을 도입하는 것을 지원하는 역할이었다.",
+        "source_url": "https://www.edweek.org/policy-politics/trump-talks-up-ai-in-state-of-the-union-but-not-much-else-about-education/2026/02",
+        "quote": "It also eliminated the Education Department's office of educational technology, which was tasked with aiding states and districts with implementing emerging technologies in schools."
+      },
+      {
+        "claim": "트럼프 행정부는 학교 안전 보조금·외국 대학 자금 감독 권한을 다른 부처로 이관 확대하고 있다. (Politico, 2026-02-23)",
+        "source_url": "https://www.politico.com/news/2026/02/23/trump-administration-to-shift-more-programs-out-of-education-department-00793309",
+        "quote": "The Trump administration is expanding its efforts to dismantle the Education Department by moving its oversight of school safety grants and foreign funding for universities to other agencies."
+      },
+      {
+        "claim": "AI 경진대회 국가 결선 진출자들은 2026년 6월 백악관 3일 쇼케이스에 초청된다.",
+        "source_url": "https://www.edweek.org/policy-politics/trump-talks-up-ai-in-state-of-the-union-but-not-much-else-about-education/2026/02",
+        "quote": "National finalists will be invited to the White House for a three-day showcase in June 2026."
+      }
+    ],
+    "perspectives": [
+      "행정부 공식 입장(백악관): 멜라니아 여사의 AI Challenge와 'Fostering the Future Together' 이니셔티브를 통해 교육·기술 분야에서 의미있는 성과를 냈다고 강조. 다음 세대의 AI 역량 강화가 목표.",
+      "비판(교육계·전문가): AI 경진대회는 소규모 이니셔티브인 반면, 400개 이상 STEM 보조금 폐지·교육기술국 해산·교육부 해체 등 구조적 정책은 AI 교육 기반 자체를 약화시킨다는 모순 지적.",
+      "중립적 분석(Brookings): 의회의 저항으로 Title I·IDEA 등 주요 프로그램을 완전 폐지하기는 어렵지만, 행정부의 점진적 해체 시도가 지속되는 상황."
+    ],
+    "suggested_angle": "'AI 경진대회 홍보 vs. STEM 보조금 400개 폐지' — 트럼프 행정부의 AI 교육 정책은 수사(rhetoric)와 실제 정책(action)이 정반대 방향으로 움직이는 구조적 모순이 핵심이다. 교육기술국 해산과 교육부 해체 행진 속에서 AI 경진대회 하나로 'AI 교육 챔피언'을 자처하는 정치적 퍼포먼스의 실체를 파헤치는 앵글 추천. 중간선거(2026) 맥락에서 교육 이슈가 왜 연설에서 빠졌는지도 중요한 서브 앵글.",
+    "sources_used": [
+      "https://www.edweek.org/policy-politics/trump-talks-up-ai-in-state-of-the-union-but-not-much-else-about-education/2026/02",
+      "https://www.axios.com/2026/02/26/trump-state-of-the-union-ai",
+      "https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trumps-state-of-the-union-guests-reflect-her-impact-on-education-tech-and-the-foster-community/",
+      "https://www.politico.com/news/2026/02/23/trump-administration-to-shift-more-programs-out-of-education-department-00793309",
+      "https://www.brookings.edu/articles/brown-center-scholars-reflect-on-education-after-1-year-of-the-trump-administration/"
+    ],
+    "gaps": [
+      "연설 전문(transcript) 확인 — AI 두 번 언급의 정확한 문맥·순서 파악 필요",
+      "교육계(NEA, AFT 등 교원 노조) 공식 반응 미확인",
+      "400개 STEM 보조금 중 AI 교육 관련 비중 및 구체 항목 파악 필요",
+      "학교 안전 보조금의 HHS 이관 후 실제 집행 방식 변화 여부 미확인"
+    ]
+  },
+  "draft": {
+    "headline": "트럼프, AI 경진대회 홍보하며 STEM 보조금 400개 삭감",
+    "subheadline": "역대 최장 국정연설에서 AI는 두 번 언급에 그쳤고, 교육기술국은 이미 폐지됐다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <!-- 리드 문단 -->\n  <div style=\"border-left:4px solid #4338ca;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">트럼프 대통령이 지난달 25일(현지시간) 108분짜리 역대 최장 국정연설에서 인공지능(AI)을 단 두 차례 언급하며 'AI 교육 챔피언'을 자처했습니다. 그러나 같은 행정부가 학교 현장의 AI·STEM 교육을 지원하던 연방 보조금 400개 이상을 폐지하고 교육기술국마저 해산한 것으로 확인되어, 수사와 실제 정책 사이의 모순이 교육계에서 거센 비판을 받고 있습니다.</p>\n  </div>\n\n  <!-- 섹션 1 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">멜라니아의 AI 경진대회, 연설 속 하이라이트로</h2>\n  <p style=\"margin:0 0 36px;\">트럼프 대통령은 이번 국정연설에서 멜라니아 여사가 이끄는 'Presidential AI Challenge'(대통령 AI 경진대회)를 직접 소개했습니다. \"모든 주의 학생과 교사들이 영부인의 AI 경진대회에 참여하며 미국의 다음 세대를 미래에 대비시키고 있다\"는 발언이 나왔고, 국가 결선 진출자들은 2026년 6월 백악관 3일 쇼케이스에 초청될 예정입니다. 백악관은 이 행사를 'Fostering the Future Together' 이니셔티브의 핵심 성과로 홍보하고 있습니다.</p>\n\n  <blockquote style=\"border-left:4px solid #4338ca;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">\"Students and educators in every state have joined the First Lady's efforts in the presidential AI challenge keeping America's Next Generation positioned to succeed.\"</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— 도널드 트럼프 대통령, 2026년 국정연설</p>\n  </blockquote>\n\n  <!-- 섹션 2 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">보조금 400개 폐지·교육기술국 해산…구조적 기반은 해체 중</h2>\n  <p style=\"margin:0 0 36px;\">그러나 연설의 화려한 레토릭과 달리, 실제 정책 기록은 정반대 방향을 가리킵니다. 트럼프 행정부는 지난해 봄 K-12 학교와 대학의 STEM 교육을 지원하던 연방 보조금 400개 이상을 일괄 폐지했습니다. 이와 함께 교육부의 교육기술국(Office of Educational Technology)도 폐지됐습니다. 이 부서는 학교와 교육구가 AI를 포함한 신기술을 수업에 도입할 때 기술 지원과 정책 가이드를 제공하던 핵심 기관이었습니다.</p>\n\n  <p style=\"margin:0 0 36px;\">행정부는 여기서 멈추지 않았습니다. 교육부 인력을 거의 절반으로 감축했고, 저소득층 학생을 위한 Title I 보조금과 직업기술교육(CTE) 프로그램을 노동부로 이관하는 작업도 진행 중입니다. 폴리티코 보도에 따르면 학교 안전 보조금 및 외국 대학 자금 감독 권한도 다른 부처로 이전되고 있어, 교육부의 실질적 기능이 점진적으로 해체되는 양상입니다.</p>\n\n  <!-- 섹션 3 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">교육계 \"경진대회는 홍보, 기반은 무너지는 중\"</h2>\n  <p style=\"margin:0 0 36px;\">교육계 전문가들은 이 구조적 모순을 강하게 비판합니다. AI 경진대회는 소수 우수 학생이 참여하는 이벤트성 행사인 반면, 폐지된 400개 이상의 STEM 보조금은 전국 수천 개 학교에서 저소득층을 포함한 광범위한 학생들의 AI·과학 교육을 지탱하던 구조적 토대였다는 지적입니다. 교육기술국 해산으로 학교 현장에 AI 도입을 실질적으로 지원하는 연방 차원의 기술 자문 창구도 사라진 상태입니다.</p>\n\n  <p style=\"margin:0 0 36px;\">브루킹스 연구소는 의회의 저항으로 Title I·IDEA 등 주요 프로그램을 완전히 폐지하기는 어려울 것으로 전망하면서도, 행정부의 점진적 부처 해체 시도가 교육 현장에 미치는 불확실성은 이미 현실화되고 있다고 분석했습니다.</p>\n\n  <!-- 섹션 4 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">중간선거 앞둔 교육 공백…글로벌 AI 교육 경쟁에 시사점</h2>\n  <p style=\"margin:0 0 36px;\">108분의 국정연설에서 AI 언급이 두 차례, 교육 관련 구체 정책이 거의 없었다는 사실은 2026년 중간선거를 앞둔 정치 계산과도 무관하지 않습니다. 교육 예산 삭감은 학부모 유권자의 민감한 사안이기 때문에 직접 언급을 피하되, 멜라니아 여사의 AI 경진대회처럼 비용이 적고 홍보 효과가 큰 이벤트로 'AI 교육 투자' 이미지를 유지하려는 전략으로 읽힙니다.</p>\n\n  <p style=\"margin:0 0 36px;\">인도가 초등 3학년 교육과정에 AI를 편입하기로 확정하고, 싱가포르가 전 국민 AI 교육을 추진하는 가운데, 세계 최대 AI 강국 미국이 연방 차원의 교육기술 지원 체계를 스스로 해체하는 아이러니는 글로벌 AI 교육 경쟁에서 중요한 변수로 부상하고 있습니다.</p>\n\n  <!-- 참고 자료 -->\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.edweek.org/policy-politics/trump-talks-up-ai-in-state-of-the-union-but-not-much-else-about-education/2026/02\" style=\"color:#4338ca;text-decoration:none;\">Education Week — Trump Talks Up AI in State of the Union, But Not Much Else About Education (2026.02)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.axios.com/2026/02/26/trump-state-of-the-union-ai\" style=\"color:#4338ca;text-decoration:none;\">Axios — Trump's State of the Union: AI mentioned just twice (2026.02.26)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trumps-state-of-the-union-guests-reflect-her-impact-on-education-tech-and-the-foster-community/\" style=\"color:#4338ca;text-decoration:none;\">백악관 공식 브리핑 — First Lady Melania Trump's State of the Union Guests (2026.02)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.politico.com/news/2026/02/23/trump-administration-to-shift-more-programs-out-of-education-department-00793309\" style=\"color:#4338ca;text-decoration:none;\">Politico — Trump administration to shift more programs out of Education Department (2026.02.23)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.brookings.edu/articles/brown-center-scholars-reflect-on-education-after-1-year-of-the-trump-administration/\" style=\"color:#4338ca;text-decoration:none;\">Brookings Institution — Brown Center scholars reflect on education after 1 year of the Trump administration</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "AI교육",
+      "교육정책",
+      "트럼프",
+      "미국교육",
+      "STEM"
+    ],
+    "references": [
+      {
+        "num": 1,
+        "url": "https://www.edweek.org/policy-politics/trump-talks-up-ai-in-state-of-the-union-but-not-much-else-about-education/2026/02",
+        "title": "Education Week — Trump Talks Up AI in State of the Union"
+      },
+      {
+        "num": 2,
+        "url": "https://www.axios.com/2026/02/26/trump-state-of-the-union-ai",
+        "title": "Axios — Trump's State of the Union: AI mentioned just twice"
+      },
+      {
+        "num": 3,
+        "url": "https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trumps-state-of-the-union-guests-reflect-her-impact-on-education-tech-and-the-foster-community/",
+        "title": "백악관 공식 브리핑 — First Lady Melania Trump's State of the Union Guests"
+      },
+      {
+        "num": 4,
+        "url": "https://www.politico.com/news/2026/02/23/trump-administration-to-shift-more-programs-out-of-education-department-00793309",
+        "title": "Politico — Trump administration to shift more programs out of Education Department"
+      },
+      {
+        "num": 5,
+        "url": "https://www.brookings.edu/articles/brown-center-scholars-reflect-on-education-after-1-year-of-the-trump-administration/",
+        "title": "Brookings Institution — Brown Center scholars reflect on education after 1 year of the Trump administration"
+      }
+    ],
+    "word_count": 1420,
+    "article_type": "news"
+  },
+  "revision_count": 3,
+  "fact_check_report": {
+    "overall_confidence": 79,
+    "verdict": "FLAG",
+    "claims": [
+      {
+        "id": 1,
+        "claim": "국정연설은 108분(역대 최장)이었다",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 92,
+        "evidence": "Wikipedia: '1 hour, 47 minutes, and 40 seconds' = 107분 40초 ≈ 108분. 역대 최장 국정연설 사실 다수 소스(Wikipedia, Guardian, BBC) 확인.",
+        "source_url": "https://en.wikipedia.org/wiki/2026_State_of_the_Union_Address",
+        "flagged": false
+      },
+      {
+        "id": 2,
+        "claim": "AI는 두 차례만 언급됐다",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "EdWeek: 'mentioning it just twice' / Axios: 'mentioning it just twice' 두 독립 소스 동일 확인.",
+        "source_url": "https://www.axios.com/2026/02/26/trump-state-of-the-union-ai",
+        "flagged": false
+      },
+      {
+        "id": 3,
+        "claim": "연설 날짜 '지난달 25일(현지시간)' — 기사 리드 HTML",
+        "type": "temporal",
+        "verdict": "REFUTED",
+        "confidence": 15,
+        "evidence": "Wikipedia, PBS NewsHour(AP), PolitiFact 모두 연설 날짜를 2026년 2월 24일(화)로 확인. '지난달 25일'은 하루 오류. 백악관 공식 비디오 페이지도 February 24 확인. ※ 2차 팩트체크에서도 기사 리드 HTML의 '지난달 25일' 미수정 상태 재확인.",
+        "source_url": "https://en.wikipedia.org/wiki/2026_State_of_the_Union_Address",
+        "flagged": true,
+        "flag_reason": "날짜 오류 지속 미수정 — 기사 리드의 '지난달 25일(현지시간)'은 틀림. 실제 연설일 2026년 2월 24일(화). 1차 팩트체크 및 데스크 수정 지시에도 미반영. '지난달 24일'로 즉시 수정 필수. (2차 지적)"
+      },
+      {
+        "id": 4,
+        "claim": "멜라니아 여사의 Presidential AI Challenge (K-12 AI 경진대회) 언급",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 96,
+        "evidence": "EdWeek, TechPolicy.Press, White House 공식 브리핑 모두 확인. 트럼프 직접 발언 인용도 EdWeek에서 원문 확인 가능.",
+        "source_url": "https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trumps-state-of-the-union-guests-reflect-her-impact-on-education-tech-and-the-foster-community/",
+        "flagged": false
+      },
+      {
+        "id": 5,
+        "claim": "STEM 보조금 400개 이상 폐지 (작년 봄)",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "EdWeek 2025년 5월 기사 'National Science Foundation Cancels More Than 400 STEM Grants' 및 EdWeek State of Union 기사에서 'terminated more than 400 federal grants last spring' 동일 수치 확인.",
+        "source_url": "https://www.edweek.org/teaching-learning/national-science-foundation-cancels-more-than-400-stem-grants/2025/05",
+        "flagged": false
+      },
+      {
+        "id": 6,
+        "claim": "교육기술국(Office of Educational Technology) 폐지",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 93,
+        "evidence": "EdWeek 2025년 3월 'The Ed. Dept. Axed Its Office of Ed Tech' 기사에서 직접 확인. K-12 Dive도 동일 사실 보도.",
+        "source_url": "https://www.edweek.org/policy-politics/the-ed-dept-axed-its-office-of-ed-tech-what-that-means-for-schools/2025/03",
+        "flagged": false
+      },
+      {
+        "id": 7,
+        "claim": "학교 안전 보조금·외국대학 자금 감독 타 부처 이관 (Politico 2026-02-23)",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "Politico 기사 직접 확인: 'moving its oversight of school safety grants and foreign funding for universities to other agencies'",
+        "source_url": "https://www.politico.com/news/2026/02/23/trump-administration-to-shift-more-programs-out-of-education-department-00793309",
+        "flagged": false
+      },
+      {
+        "id": 8,
+        "claim": "인도가 초등 3학년 교육과정에 AI를 편입하기로 확정",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 75,
+        "evidence": "인도 PIB(공보처) 공식 발표 및 다수 매체(India Today, TechWire Asia) 확인. 실제 시행은 2026-27 학년도부터. 기사에서 '편입하기로 확정'으로 표현 수정됨(1차 지적 반영).",
+        "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2184211",
+        "flagged": false
+      }
+    ],
+    "flags_summary": [
+      "❌ [CORRECTION REQUIRED — 2차 지적] 날짜 오류 지속 미수정: 기사 리드 HTML의 '지난달 25일(현지시간)' → 실제 2026년 2월 24일(화). 데스크 수정 지시(1차)에도 반영 안 됨. 작가에게 재수정 지시 필요."
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "stage": "assigned",
+  "source": {
+    "title": "대학생·교수 각자 AI 규칙 만드는 현실 — \"합의 없다\" (NPR)",
+    "url": "https://www.npr.org/2026/03/03/nx-s1-5716176/ai-college-students-professors",
+    "source_name": "NPR",
+    "language": "en",
+    "relevance_score": 84,
+    "summary": "NPR 보도: 대학 내 AI 사용 기준을 교수와 학생이 각자 따로 정하는 현실. 학교 차원 공식 정책 부재 속 '유익한 사용'과 '해로운 사용'의 경계를 교육과정에 통합해야 한다는 목소리.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T08:59:07.253137"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-heartbeat",
+      "action": "sourced",
+      "timestamp": "2026-03-04T08:59:07.253147"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-04T01:32:00+01:00",
+      "note": "relevance_score 84 ≥ 75 — 취재 배정"
+    }
+  ],
+  "desk_instructions": ""
+}

@@ -1,0 +1,98 @@
+{
+  "stage": "reported",
+  "source": {
+    "title": "\"실리콘밸리의 거짓말이 미국 학교를 망쳤다\" — 에듀테크 확산 후 읽기·수학 점수 급락",
+    "url": "https://fortune.com/2026/03/01/american-schools-broken-silicon-valley-edtech-gen-z-test-scores/",
+    "source_name": "Fortune",
+    "language": "en",
+    "relevance_score": 86,
+    "summary": "포춘 심층 보도: 에듀테크·AI 도입 열풍 속 미국 Z세대 읽기·수학 점수 급락. 커리큘럼과 교육법 혼동이 원인. AI 리터러시 교육의 방향 재점검 촉구.",
+    "published_date": "2026-03-01",
+    "collected_at": "2026-03-03T22:12:15.346764"
+  },
+  "desk_instructions": "에듀테크·AI 도입과 학습 성취도 하락의 인과관계 취재. 미국 사례가 한국 에듀테크 시장에 주는 시사점 앵글 필수. 반론(에듀테크 옹호 측) 포함. AskedTech 독자 맥락에서 '한국 학교도 같은 실수를 반복할 것인가?' 질문 중심 구성 권장.",
+  "reporting_brief": {
+    "facts": [
+      {
+        "claim": "신경과학자 Jared Cooney Horvath: 유타주 4·8학년 읽기·수학 NAEP 점수가 2014년 컴퓨터 기반 주 평가(SAGE) 도입 시점과 정확히 맞물려 하락 전환됨",
+        "source_url": "https://fortune.com/2026/03/01/american-schools-broken-silicon-valley-edtech-gen-z-test-scores/",
+        "quote": "Before 2014, computers were in schools, they were just peripheral. After 2014, every school had to have digital infrastructure in order to take the state assessment."
+      },
+      {
+        "claim": "Horvath는 2025년 저서 'The Digital Delusion'에서 Z세대가 현대 역사상 처음으로 부모 세대보다 인지능력 표준점수가 낮은 세대라고 주장. 미국 상원 상무과학교통위원회에 증언",
+        "source_url": "https://fortune.com/2026/03/01/american-schools-broken-silicon-valley-edtech-gen-z-test-scores/",
+        "quote": "This is not a debate about rejecting technology. It is a question of aligning educational tools with how human learning actually works."
+      },
+      {
+        "claim": "PISA 2022 데이터: 15세 학생들의 스크린 사용 시간과 낮은 시험 점수 간 상관관계 확인. 미국은 2024년까지 학교 스크린 도입에 300억 달러 이상 지출",
+        "source_url": "https://fortune.com/2026/03/01/american-schools-broken-silicon-valley-edtech-gen-z-test-scores/",
+        "quote": "more time in front of screens was associated with worse scores"
+      },
+      {
+        "claim": "구글 크롬북이 2017년 미국 학교 디지털 기기의 절반 이상 차지. Horvath는 구글이 제품 원가 회수를 위해 학교에 저가 기기를 공급했다고 주장",
+        "source_url": "https://fortune.com/2026/03/01/american-schools-broken-silicon-valley-edtech-gen-z-test-scores/",
+        "quote": "Horvath claimed Google sold these laptops to schools to help it recoup costs on the product."
+      },
+      {
+        "claim": "교육 신경과학자들은 에듀테크의 '전이 문제(transfer problem)' 지적 — 학생들이 기기 조작은 숙달하지만, 학습 내용을 실제 인지로 전이하지 못함. B.F. 스키너의 1950년대 '교육 기계' 실험에서도 유사한 실패 반복",
+        "source_url": "https://fortune.com/2026/03/01/american-schools-broken-silicon-valley-edtech-gen-z-test-scores/",
+        "quote": "Students learned how to master the machine, but..."
+      },
+      {
+        "claim": "교육 기술이 학교에 미치는 부정적 영향에 관한 neuroscientist 경고 (EducationHQ 보도, 2026.01.28): 에듀테크 확대가 지속될 경우 아이들의 인지 발달이 더 악화될 위험",
+        "source_url": "https://educationhq.com/news/tech-proliferation-in-schools-is-harming-students-learning-neuroscientist-warns-204990/",
+        "quote": "we risk further eroding children's cognitive development if the expansion of edtech into classrooms continues as it is currently"
+      },
+      {
+        "claim": "한국: AI 디지털 교과서 2025년 첫 도입, 2026년 이후 교과목 조정 논의 중. 시도교육감협의회는 속도 조절 요구",
+        "source_url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156663262",
+        "quote": "AI 디지털교과서를 2025년은 계획된 일정대로 도입하되, 2026년 이후 적용 교과에 대해서는 조정을 제안"
+      },
+      {
+        "claim": "한국 교육부 2026년 업무계획: AI를 '교과서 단일 정책'에서 분야별 분산 추진으로 전환 — 실질적 속도 조절 신호로 해석 가능",
+        "source_url": "https://focusnjn.com/article/1065591818096765",
+        "quote": "교육부가 AI를 더 이상 '교과서 정책' 하나로 밀어붙이기보다, 분야별로 분산해 추진하겠다는 신호로 읽힌다"
+      }
+    ],
+    "perspectives": [
+      "비판(Horvath 측): 에듀테크 업계는 '교육이 망가졌다'는 허위 내러티브로 학교 시장에 진입, 실리콘밸리의 상업적 이해관계가 교육 현장을 잠식했으며 그 결과 Z세대가 역사상 첫 성취도 역전 세대가 됐다. PISA·NAEP 데이터 모두 디지털 확장과 점수 하락의 상관관계를 지지",
+      "반론(에듀테크 옹호 측): OECD·EEA 등은 '교육 목적 설계 학습앱'과 '단순 스크린 노출'을 구분해야 한다고 주장. 교육 불평등 해소, 개인 맞춤 학습, 교사 업무 부담 경감 효과는 별도 검토 필요. 삼일PwC 보고서는 초개인화 학습의 긍정적 가능성 제시",
+      "한국 맥락: AI 디지털교과서 도입 첫해인 2025년 이미 속도 조절론이 나오고 있어 미국 전철을 밟을 가능성 우려. 반면 교육 격차 해소 도구로서의 기대도 여전히 존재"
+    ],
+    "suggested_angle": "한국은 지금 미국이 20년간 쌓아온 에듀테크 실패의 데자뷔 앞에 서 있다 — AI 디지털교과서 속도 조절론이 터져 나오는 지금이 방향 전환의 마지막 기회일 수 있다. '기기가 아니라 교육학'이라는 Horvath의 핵심 명제를 한국 정책 결정자들이 진지하게 검토해야 한다.",
+    "sources_used": [
+      "https://fortune.com/2026/03/01/american-schools-broken-silicon-valley-edtech-gen-z-test-scores/",
+      "https://educationhq.com/news/tech-proliferation-in-schools-is-harming-students-learning-neuroscientist-warns-204990/",
+      "https://www.oecd.org/en/publications/pisa-2022-results-volume-i_53f23881-en.html",
+      "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156663262",
+      "https://focusnjn.com/article/1065591818096765",
+      "https://www.munhwa.com/article/11461060",
+      "https://happyedu.moe.go.kr/happy/bbs/selectHappyArticleImg.do?bbsId=BBSMSTR_000000000191&nttId=9954",
+      "https://www.donga.com/news/Opinion/article/all/20231120/122272407/1"
+    ],
+    "gaps": [
+      "Horvath의 인과관계 주장에 대한 교육학계 반박 논문 추가 확인 필요 (상관관계 ≠ 인과관계)",
+      "한국 AI 디지털교과서 1년 차(2025) 실제 학습 성취도 데이터 — 아직 공개 전",
+      "구글·삼성 등 에듀테크 기업의 한국 공립학교 기기 공급 계약 규모 확인 필요",
+      "2015년 OECD '컴퓨터가 성적을 개선하지 않는다' 보고서 이후 10년간 무엇이 바뀌었는지 추적 필요"
+    ]
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-heartbeat",
+      "action": "sourced",
+      "timestamp": "2026-03-03T22:12:15.346774"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-03T14:13:00+01:00",
+      "note": "relevance_score 86 ≥ 75 — 취재 배정. Fortune 심층 보도, 에듀테크 역효과 앵글로 한국 맥락 연결 권장."
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-03T15:13:00+01:00"
+    }
+  ]
+}

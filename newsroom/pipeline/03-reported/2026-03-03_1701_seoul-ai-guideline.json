@@ -1,0 +1,79 @@
+{
+  "id": "1740968460001",
+  "stage": "reported",
+  "created_at": "2026-03-03T17:01:00Z",
+  "priority": 1,
+  "source": {
+    "title": "서울시교육청, '인간 중심 AI 교육' 가이드라인 배포",
+    "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1234682",
+    "source_name": "전매경제",
+    "relevance_score": 90,
+    "summary": "서울시교육청이 AI·에듀테크 공교육 도입 및 활용 가이드라인을 개발해 배부했습니다. 생성형 AI 중점 안전 가이드를 포함하며, 할루시네이션, 과의존, 개인정보 유출 등 7대 위험 요소 대응 방안을 제시합니다. 초·중·고 발달 단계별 명확한 도입 원칙을 제공합니다.",
+    "tags": ["policy", "guideline", "ai-education", "korea"],
+    "collected_via": "brave_search"
+  },
+  "desk_instructions": "서울시교육청 AI 가이드라인의 구체 내용·7대 위험 요소 상세 분석. 국제 기준(UNESCO, OECD)과의 비교. 학교 현장 적용 사례·예상 영향 및 교사 의견 수집. 국내 타 교육청과의 차이점.",
+  "reporting_brief": {
+    "facts": [
+      {
+        "claim": "서울시교육청은 'AI·에듀테크 공교육 도입 및 활용 가이드라인'을 개발해 각급 학교에 배부했다. 핵심 취지는 '인간 중심 AI 교육' 구현이다.",
+        "source_url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1234682",
+        "quote": "서울시교육청이 인공지능 시대 공교육의 방향성을 제시하는 'AI·에듀테크 공교육 도입 및 활용 가이드라인'을 개발해 각급학교에 배부한다."
+      },
+      {
+        "claim": "가이드라인은 인간의 존엄성·성장·안전을 최우선 가치로 삼고 △주도성 △합목적성 △포용성 △안전성 △투명성 등 5대 원칙을 적용한다.",
+        "source_url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1234682",
+        "quote": "주도성·합목적성·포용성·안전성·투명성 등 5대 원칙을 교육 현장에 구체적으로 적용할 수 있도록 설계됐다."
+      },
+      {
+        "claim": "생성형 AI에 대해 별도 '중점 안전 가이드'를 마련해 △할루시네이션 △과의존 △개인정보 유출 등 7대 위험 요소 대응 전략을 명시했다.",
+        "source_url": "https://www.kedupress.com/news/article.html?no=394952",
+        "quote": "기존 에듀테크와 구별되는 '생성형 AI 중점 안전 가이드'를 마련하여, 범용·교육용 AI의 구분, 7대 위험 요소(할루시네이션, 과의존, 개인정보 유출 등) 대응 방안, 초·중·고 발달 단계별 명확한 도입 원칙을 제시했다."
+      },
+      {
+        "claim": "도입편에서는 학교·학년·교사 개인 등 3단위별 사전 점검 기준과 단계적 절차를 제시해 무분별한 기술 도입을 차단한다.",
+        "source_url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1234682",
+        "quote": "도입편에서는 학교·학년 및 교과·교사 개인 등 3단위별 사전 점검 기준과 단계적 절차를 제시해 무분별한 기술 수용을 차단한다."
+      },
+      {
+        "claim": "활용 과정 전체에 '활용 전 준비–활용 중 검증–활용 후 성찰' 3단계 절차를 적용한다.",
+        "source_url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1234682",
+        "quote": "모든 활용 과정에 '활용 전 준비–활용 중 검증–활용 후 성찰'의 절차를 적용해 학습자의 주도성과 책임성을 강화하도록 했다."
+      },
+      {
+        "claim": "senGPT와 연계한 전용 챗봇을 통해 현장 질의에 실시간 대응하고, 매월 현장 모니터링 후 정기·수시 보완할 방침이다.",
+        "source_url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1234682",
+        "quote": "senGPT와 연계한 전용 챗봇을 통해 현장의 질의에 실시간으로 대응할 계획이다...매월 현장 모니터링을 실시해 기술 발전과 교육 환경 변화에 맞춰 가이드라인을 정기·수시로 보완해 나갈 방침이다."
+      },
+      {
+        "claim": "OECD는 2024년 기준 한국을 포함해 5개 국가가 학교에서 생성형 AI 활용을 명시적으로 권장하는 국가 지침을 갖추고 있다고 밝혔다.",
+        "source_url": "https://www.oecd.org/en/publications/oecd-digital-education-outlook-2023_c74f03de-en/full-report/emerging-governance-of-generative-ai-in-education_3cbd6269.html",
+        "quote": "As of 2024, five central/national guidance explicitly encourage students to use generative AI as part of their schooling activities: Austria, Czechia, France, Korea, and the Flemish Community of Belgium."
+      }
+    ],
+    "perspectives": [
+      "찬성(가이드라인 환영): 정근식 교육감 발언처럼, 학생이 AI를 능동적으로 활용해 창의성·비판적 사고를 확장하도록 체계적 지원이 필요하다는 긍정적 시각. OECD도 한국을 생성형 AI 학교 활용 권장 국가로 분류.",
+      "비판(구체성 부족): 7대 위험 요소가 명시됐으나 각 위험에 대한 실질적 교사 대응 역량이 준비됐는지 의문. senGPT 연계 챗봇이 교육 현장 다양성을 충분히 반영할 수 있는지 불명확.",
+      "타 교육청 비교: 교육부의 국가 지침과 서울시교육청의 자체 가이드라인 간 중복·충돌 여부 점검 필요. 타 교육청(경기·부산 등)의 유사 정책 현황과의 비교가 필요."
+    ],
+    "suggested_angle": "서울 선도, 전국 확산 가능성 앵글: 서울시교육청의 구체적이고 실행 가능한 가이드라인이 타 교육청·국가 표준으로 이어질 수 있는가. '무분별한 기술 도입 차단'과 '적극적 AI 교육' 사이의 균형을 어떻게 구현하는지 초점. UNESCO·OECD 기준과의 정렬 여부 심층 분석이 글로벌 독자에게 설득력 있음.",
+    "sources_used": [
+      "https://www.jeonmae.co.kr/news/articleView.html?idxno=1234682",
+      "https://www.kedupress.com/news/article.html?no=394952",
+      "https://www.smartbizn.com/news/articleView.html?idxno=137070",
+      "https://www.oecd.org/en/publications/oecd-digital-education-outlook-2023_c74f03de-en/full-report/emerging-governance-of-generative-ai-in-education_3cbd6269.html"
+    ],
+    "gaps": [
+      "7대 위험 요소 전체 목록 미확인 (할루시네이션·과의존·개인정보 유출 외 4가지 미명시)",
+      "교사 반응·현장 목소리 부재: 교원단체 또는 개별 교사 인터뷰 필요",
+      "타 교육청(경기·부산·인천 등) 유사 가이드라인 현황 비교 필요",
+      "UNESCO AI 교육 권고(2021, 2023)와의 구체적 비교 필요",
+      "senGPT 플랫폼 구체 사양·보안 기준 미확인"
+    ]
+  },
+  "audit_log": [
+    { "agent": "source-collector", "action": "collected", "timestamp": "2026-03-03T17:01:00Z", "note": "한국 교육청의 최신 AI 정책 가이드라인 배포 - 긴급성 높음" },
+    { "agent": "editor-desk", "action": "assigned", "timestamp": "2026-03-03T17:18:00Z", "note": "relevance_score 90 >= 75 — 취재 배정 (최우선순위)" },
+    { "agent": "reporter", "action": "reported", "timestamp": "2026-03-03T17:47:00Z", "note": "원본 기사 + 대한민국교육신문·스마트비즈·OECD Digital Education Outlook 소스 수집 완료" }
+  ]
+}

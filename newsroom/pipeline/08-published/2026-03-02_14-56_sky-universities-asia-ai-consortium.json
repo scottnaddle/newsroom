@@ -257,7 +257,7 @@
       "agent": "publisher",
       "action": "published-draft",
       "timestamp": "2026-03-03T00:00:29.672Z",
-      "note": "Ghost draft URL: https://askedtech.ghost.io/ghost/#/editor/post/69a62492e9865e00011c1e1b | feature_image: Unsplash | og_image: custom OG card"
+      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69a62492e9865e00011c1e1b | feature_image: Unsplash | og_image: custom OG card"
     }
   ],
   "revision_count": 2,
@@ -273,10 +273,10 @@
   },
   "publish_result": {
     "ghost_post_id": "69a62492e9865e00011c1e1b",
-    "ghost_draft_url": "https://askedtech.ghost.io/ghost/#/editor/post/69a62492e9865e00011c1e1b",
+    "ghost_draft_url": "https://ubion.ghost.io/ghost/#/editor/post/69a62492e9865e00011c1e1b",
     "status": "draft",
     "published_at": "2026-03-03T00:00:29.672Z",
     "feature_image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop&q=85&auto=format",
-    "og_image": "https://askedtech.ghost.io/content/images/2026/03/og-card-7.png"
+    "og_image": "https://ubion.ghost.io/content/images/2026/03/og-card-7.png"
   }
 }

@@ -1,0 +1,86 @@
+{
+  "stage": "reported",
+  "source": {
+    "title": "동남아시아 AI 거버넌스 정책 형성 요인 분석 — 인도네시아 대통령령 임박",
+    "url": "https://www.eurasiareview.com/03032026-what-is-shaping-artificial-intelligence-governance-policies-in-southeast-asia-analysis-2/",
+    "source_name": "Eurasia Review",
+    "language": "en",
+    "relevance_score": 80,
+    "summary": "동남아 AI 거버넌스 비교 분석: 인도네시아 AI 프레임워크 2026년 초 대통령령 예정. 태국은 공공 협의 진행 중. 국가별 규제 속도와 접근법 차이 상세 분석.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T04:29:07.038884"
+  },
+  "reporting_brief": {
+    "facts": [
+      {
+        "claim": "인도네시아: AI 프레임워크가 2026년 초 대통령령(Presidential Regulation)으로 서명될 예정. AI 윤리, 안전, 책임 기반으로 향후 부문별 규제의 토대가 될 것",
+        "source_url": "https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2025-13-what-is-shaping-artificial-intelligence-governance-policies-in-southeast-asia-by-kristina-fong/",
+        "quote": "the AI framework is expected to be signed off as Presidential regulations in early 2026"
+      },
+      {
+        "claim": "인도네시아 AI 대통령령: 헬스케어, 공공 거버넌스, 교육, 식량 안보, 모빌리티 등 우선 분야에 인간 중심 AI 도입 강화 조항 포함",
+        "source_url": "https://www.hsfkramer.com/insights/reports/ai-tracker/indonesia",
+        "quote": "reinforcing responsible and human-centric AI adoption in priority sectors such as healthcare, public governance, education, food security, and mobility"
+      },
+      {
+        "claim": "인도네시아, 2025-2026 학년도부터 초·중등학교에 AI 및 코딩을 선택 과목으로 도입. 교육부령 현재 작성 중",
+        "source_url": "https://govinsider.asia/intl-en/article/how-indonesia-is-tackling-the-challenges-of-ai-learning-in-the-classroom",
+        "quote": "From the next academic year 2025-2026, Indonesian primary and secondary schools would start rolling out AI and coding as elective subjects for students."
+      },
+      {
+        "claim": "태국: 국가 AI 전략 및 행동계획(2022-2027) 추진 중. 2027년까지 태국을 동남아 AI 허브로 포지셔닝 목표. 2025년 공공 협의 진행",
+        "source_url": "https://www.nbr.org/publication/charting-aseans-path-to-ai-governance-uneven-yet-gaining-ground/",
+        "quote": "Its National AI Strategy and Action Plan (2022–27) is ambitious, with the goal of positioning Thailand as a regional AI hub focusing on infrastructure, workforce development, and legal readiness by 2027."
+      },
+      {
+        "claim": "동남아 5개국(말레이시아, 베트남, 태국, 인도네시아, 필리핀) 모두 입법 논의를 진행 중이나, 현재까지 구속력 있는 AI 규제를 시행한 국가는 없다",
+        "source_url": "https://seapublicpolicy.org/work/policy-state-of-play-artificial-intelligence-in-southeast-asia/",
+        "quote": "Five countries – Malaysia, Vietnam, Thailand, Indonesia, and the Philippines – have held discussions on legislation; no countries have implemented binding regulations."
+      },
+      {
+        "claim": "인도네시아는 AI 로드맵을 2026년 초로 연기했으며, 경제 잠재력에 빠르게 대응하면서도 윤리 우선 접근 방침을 강조하고 있다",
+        "source_url": "https://completeaitraining.com/news/indonesia-pushes-back-ai-roadmap-to-early-2026-ethics-first/",
+        "quote": "Indonesia has delayed its first AI rules to early 2026. Agencies should pause deployments, tighten PDP/ITE compliance, and prep governance now."
+      }
+    ],
+    "perspectives": [
+      "찬성/긍정: 동남아 국가들이 경쟁적으로 AI 거버넌스 프레임워크를 구축하는 것은 무분별한 AI 확산 대비 제도적 안전장치 마련으로 긍정적. 인도네시아의 '윤리 우선' 접근과 필리핀의 '인간 중심' 원칙은 서구 규제 모델과 궤를 같이하며 국제 신뢰도 확보에 유리하다.",
+      "반대/우려: 동남아 국가들의 규제 속도 차이가 역내 AI 거버넌스 공백을 만들어 규제 차익거래(regulatory arbitrage) 가능성을 높인다. 구속력 없는 가이드라인은 실효성이 낮으며, 인도네시아 대통령령도 부문별 규제가 미완성인 상태에서의 '원칙 선언'에 그칠 수 있다는 비판이 존재한다."
+    ],
+    "suggested_angle": "동남아 AI 거버넌스의 핵심은 '속도의 불균형'이다 — 인도네시아는 대통령령으로, 필리핀은 교육부령으로 각자 다른 속도·경로로 AI 규제 체계를 구축 중이며, 태국은 아직 협의 단계다. 교육 섹터에 초점을 맞춰 인도네시아(AI 선택과목 도입)·필리핀(DepEd Order 003)·태국(전략 수립 중) 3개국 비교 분석이 AskedTech 독자에게 가장 가치 있는 앵글이다.",
+    "sources_used": [
+      "https://www.eurasiareview.com/03032026-what-is-shaping-artificial-intelligence-governance-policies-in-southeast-asia-analysis-2/",
+      "https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2025-13-what-is-shaping-artificial-intelligence-governance-policies-in-southeast-asia-by-kristina-fong/",
+      "https://www.hsfkramer.com/insights/reports/ai-tracker/indonesia",
+      "https://seapublicpolicy.org/work/policy-state-of-play-artificial-intelligence-in-southeast-asia/",
+      "https://govinsider.asia/intl-en/article/how-indonesia-is-tackling-the-challenges-of-ai-learning-in-the-classroom",
+      "https://completeaitraining.com/news/indonesia-pushes-back-ai-roadmap-to-early-2026-ethics-first/",
+      "https://www.nbr.org/publication/charting-aseans-path-to-ai-governance-uneven-yet-gaining-ground/"
+    ],
+    "gaps": [
+      "인도네시아 대통령령 실제 서명 시점 및 최종 내용 미확인 (현재 '초 예정' 수준)",
+      "ISEAS 분석(Kristina Fong)의 원문 전체 접근 불가 — 국가별 규제 요인 세부 분석 검증 필요",
+      "베트남, 말레이시아의 AI 거버넌스 교육 섹터 영향 데이터 부족",
+      "한국의 동남아 AI 교육 정책에 대한 공식 입장 또는 협력 사례 확인 필요"
+    ]
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-heartbeat",
+      "action": "sourced",
+      "timestamp": "2026-03-04T04:29:07.038896"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-03T21:26:00+01:00",
+      "note": "relevance_score 80 ≥ 75 — 취재 배정"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-03T21:52:00+01:00"
+    }
+  ],
+  "desk_instructions": "동남아 AI 거버넌스 비교 분석 — 인도네시아 대통령령 예정, 태국 공공 협의 등. 지역별 규제 속도 차이와 교육 섹터 영향 중심으로 취재. Eurasia Review 분석 보고서 기반 확인 취재 필요."
+}

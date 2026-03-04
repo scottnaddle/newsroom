@@ -1,0 +1,92 @@
+{
+  "stage": "reported",
+  "source": {
+    "title": "미국 워싱턴주, AI 학생 감시·징계 금지 법안 의회 통과 추진",
+    "url": "https://www.opb.org/article/2026/03/02/washington-lawmakers-gaurdrails-on-ai-detection-chatbots/",
+    "source_name": "OPB",
+    "language": "en",
+    "relevance_score": 83,
+    "summary": "워싱턴주 의회 SB 5956: AI 기반 학생 감시·징계 학교 현장 금지 법안 추진 중. AI 표절 감지 챗봇 활용에도 가드레일 부과 논의.",
+    "published_date": "2026-03-02",
+    "collected_at": "2026-03-03T22:12:15.347132"
+  },
+  "desk_instructions": "SB 5956 법안 주요 조항 상세 취재 — 어떤 AI 감시 행위가 금지되는지, 표절 감지 도구에 어떤 가드레일이 적용되는지 명확히. 학교·학생·AI 기업 각 입장 균형 취재. 한국 내 AI 표절 감지 도구 사용 현황과 연결해 국내 시사점 앵글 추가.",
+  "reporting_brief": {
+    "facts": [
+      {
+        "claim": "워싱턴주 SB 5956 (발의자: 타코마 출신 T'wina Nobles 민주당 상원의원): 공립학교에서 자동화 의사결정 시스템, 안면인식, 생체인식 데이터를 징계 결정의 유일한 근거로 사용하는 것을 금지. 예측적 위험 점수 부여 및 생체 감시도 금지",
+        "source_url": "https://www.theurbanist.org/2026/01/27/washington-legislature-grapples-with-slew-of-bills-regulating-ai/",
+        "quote": "Senate Bill 5956, sponsored by Senator T'wina Nobles, sets statewide rules for student privacy protections, regulating the use of AI in school discipline and surveillance."
+      },
+      {
+        "claim": "SB 5956은 2025-2026 정규 회기에 제출되어 상원 조기 학습·K-12교육 위원회 공청회 일정이 잡혔으며(2026.01.14), 현재 의회 통과 추진 중",
+        "source_url": "https://legiscan.com/WA/bill/SB5956/2025",
+        "quote": "Addressing artificial intelligence, student discipline, and surveillance in public schools. [Scheduled for public hearing in the Senate Committee on Early Learning & K-12 Education at 10:30 AM]"
+      },
+      {
+        "claim": "같은 맥락의 법안 SB 5984 / HB 2225 (발의자: Lisa Wellman 상원의원): AI 챗봇이 매 시간 'AI임을 고지'하도록 의무화. 자살 충동 감지·예방 프로토콜, 미성년자 대상 노출 콘텐츠·연애 관계 모사 금지. 워싱턴주 소비자 보호법 기반 사소(私訴) 가능",
+        "source_url": "https://www.opb.org/article/2026/03/02/washington-lawmakers-gaurdrails-on-ai-detection-chatbots/",
+        "quote": "The legislation would also require developers to implement suicidal ideation detection and prevention protocol; regularly report data; and take 'reasonable measures' to prevent the chatbot from showing explicit content to minors or mimicking a romantic relationship with them."
+      },
+      {
+        "claim": "HB 1170 (AI 생성 콘텐츠 감지): AI가 생성·수정한 이미지·음성·영상에 워터마크 등 고지 수단 삽입 의무화. Rep. Clyde Shavers 발의. 캘리포니아 법을 모델로 함",
+        "source_url": "https://www.opb.org/article/2026/03/02/washington-lawmakers-gaurdrails-on-ai-detection-chatbots/",
+        "quote": "It tells AI systems: 'If you generated it, or if you altered it, the public deserves clear notice.'"
+      },
+      {
+        "claim": "빅테크 업계 반발: CCIA(구글·메타·아마존 등 포함 무역협회)는 과잉 규제가 AI 도구 접근성을 제한하고 주별로 엇갈리는 법안이 기업 컴플라이언스를 불가능하게 한다고 주장",
+        "source_url": "https://www.opb.org/article/2026/03/02/washington-lawmakers-gaurdrails-on-ai-detection-chatbots/",
+        "quote": "Being able to come into compliance with a bill in one state that puts you out of compliance with a bill in another is just an impossible place to be."
+      },
+      {
+        "claim": "한국: AI 수행평가 부정행위 대응을 위해 교육부가 2025년 12월 수행평가 관리 원칙·기준 확정. AI 생성물 출처 미표기 또는 내용 설명 불가시 채점 제외",
+        "source_url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=104984&lev=0&searchType=null&statusYN=W&page=1&s=moe&m=020402&opType=N",
+        "quote": "AI 생성물을 출처 표기없이 그대로 제출하거나, 결과물의 내용을 묻는 교사의 질의에 적절한 답변을 하지 못하는 경우 해당 내용은 채점에서 제외"
+      },
+      {
+        "claim": "한국 대학가: 카피킬러 캠퍼스의 'GPT킬러' AI 생성 감지 기능 사용량이 2024년 10월 대비 2025년 10월 약 3.6배 증가 (17만→64만 건). 학생 자가검증 문화 확산",
+        "source_url": "https://www.gttkorea.com/news/articleView.html?idxno=22638",
+        "quote": "학생들이 자가검증을 위해 사용하는 카피킬러 캠퍼스에서 GPT킬러 기능으로 검사한 문서량은 17만 7000여 건에서 64만 7000여 건으로 전년 대비 약 3.6배 증가"
+      }
+    ],
+    "perspectives": [
+      "찬성(학생 인권·프라이버시 옹호): AI 기반 징계는 알고리즘 편향으로 특정 집단(소수자·저소득층)에 불균형 적용될 위험이 있으며, AI 표절 감지 도구의 오탐률(false positive)이 학생에게 억울한 징계를 초래할 수 있다는 점에서 가드레일 입법이 정당함. 챗봇 관련 청소년 자살 사례 증가도 규제 근거",
+      "반대(빅테크·일부 교육계): 과잉 규제는 AI 기반 교육 혁신을 저해하고, 오히려 AI 리터러시 교육 기회를 박탈할 수 있음. 주별 법안 파편화는 전국적 컴플라이언스 체계 구축을 어렵게 함. 연방 단위 AI 규제 부재 속에서 주 단독 입법은 실효성 한계",
+      "한국 맥락: 한국은 학교 현장의 AI 감시·표절 감지에 대한 체계적 법률이 없음. 교육부 지침 수준의 대응에 그치며, AI 표절 감지 도구의 오탐 피해 구제 제도도 미비. 워싱턴주 법안이 한국 교육 당국에 주는 제도적 시사점 크다"
+    ],
+    "suggested_angle": "AI 표절 감지 도구 사용량이 1년 새 3.6배 급증한 한국 — 교육부 지침만으로 학생 권리를 보호할 수 있는가? 워싱턴주는 '알고리즘이 학생의 운명을 결정해서는 안 된다'는 원칙을 법으로 못 박고 있지만, 한국은 아직 법적 공백 상태다.",
+    "sources_used": [
+      "https://www.opb.org/article/2026/03/02/washington-lawmakers-gaurdrails-on-ai-detection-chatbots/",
+      "https://www.theurbanist.org/2026/01/27/washington-legislature-grapples-with-slew-of-bills-regulating-ai/",
+      "https://legiscan.com/WA/bill/SB5956/2025",
+      "https://fastdemocracy.com/bill-search/wa/2025-2026/bills/WAB00024185/",
+      "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=104984&lev=0&searchType=null&statusYN=W&page=1&s=moe&m=020402&opType=N",
+      "https://www.gttkorea.com/news/articleView.html?idxno=22638",
+      "https://www.mt.co.kr/policy/2025/12/23/2025122309383946483"
+    ],
+    "gaps": [
+      "SB 5956 최종 통과 여부 및 주지사 서명 일정 추적 필요",
+      "AI 표절 감지 도구의 오탐률(false positive) 실제 데이터 — Turnitin·CopyKiller 각사 자체 보고만 있음, 제3자 독립 검증 없음",
+      "한국 초·중·고 학교 현장에서 AI 감지 도구 활용 실태 공식 조사 자료 부재",
+      "미국 27개 주의 AI 챗봇 규제 법안 내용 비교표 추가 가능 시 기사 가치 상승"
+    ]
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-heartbeat",
+      "action": "sourced",
+      "timestamp": "2026-03-03T22:12:15.347136"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-03T14:13:00+01:00",
+      "note": "relevance_score 83 ≥ 75 — 취재 배정. AI 학생 감시 금지 법안, 한국 AI 표절 감지 도구 현황과 연계 앵글 권장."
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-03T15:13:00+01:00"
+    }
+  ]
+}

@@ -89,5 +89,5 @@ newsroom/
 ```
 
 ## Ghost CMS
-- Admin API: https://askedtech.ghost.io/ghost/api/admin/
+- Admin API: https://ubion.ghost.io/ghost/api/admin/
 - 설정: shared/config/ghost.json (필요 시 스캇에게 문의)

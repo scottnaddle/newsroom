@@ -264,16 +264,16 @@
       "agent": "publisher",
       "action": "published-draft",
       "timestamp": "2026-03-02T12:45:26.371Z",
-      "note": "Ghost draft URL: https://askedtech.ghost.io/ghost/#/editor/post/69a58627e9865e00011c1d3c"
+      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69a58627e9865e00011c1d3c"
     }
   ],
   "revision_count": 1,
   "publish_result": {
     "ghost_post_id": "69a58627e9865e00011c1d3c",
-    "ghost_draft_url": "https://askedtech.ghost.io/ghost/#/editor/post/69a58627e9865e00011c1d3c",
+    "ghost_draft_url": "https://ubion.ghost.io/ghost/#/editor/post/69a58627e9865e00011c1d3c",
     "status": "draft",
     "published_at": "2026-03-02T12:45:26.371Z",
     "feature_image": "https://images.unsplash.com/photo-KieCLNzKoBo?w=1200&h=630&fit=crop&q=85",
-    "og_image": "https://askedtech.ghost.io/content/images/2026/03/og-card-1.png"
+    "og_image": "https://ubion.ghost.io/content/images/2026/03/og-card-1.png"
   }
 }

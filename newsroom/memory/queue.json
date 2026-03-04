@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-03T02:53:00+01:00",
+  "updated_at": "2026-03-03T16:18:00+01:00",
   "items": [
     {
       "id": "20260302125303",
@@ -91,6 +91,13 @@
       "title": "Is AI Good or Bad for Schools?",
       "relevance_score": 57,
       "note": "관련성 57 — 에드위크 AI 교육 찬반 특집. 국제 비교 앵글 또는 찬반 심층 기사 시 활용 가능."
+    },
+    {
+      "id": "20260303-1559-gyeongbuk-defense",
+      "file": "2026-03-03_15-59_gyeongbuk-ai-defense-talent.json",
+      "title": "경북도, 방산 인공지능 전문인력 양성 박차",
+      "relevance_score": 65,
+      "note": "관련성 65 — 국립금오공대 방산 AI 인재양성 부트캠프 선정 (교육부). 기존 부트캠프 선정 시리즈 보완 자료. 방산 AI 특집 또는 지역별 AI 인재양성 종합 기사 시 활용 가능."
     }
   ]
 }

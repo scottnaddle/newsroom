@@ -137,12 +137,12 @@
       "agent": "publisher",
       "action": "published",
       "timestamp": "2026-03-02T23:17:28.688Z",
-      "note": "https://askedtech.ghost.io/seoulsigyoyugceong-saengseonghyeong-ai-jeonyong-gonggyoyug-gaideurain-baebu/"
+      "note": "https://ubion.ghost.io/seoulsigyoyugceong-saengseonghyeong-ai-jeonyong-gonggyoyug-gaideurain-baebu/"
     }
   ],
   "publish_result": {
     "ghost_post_id": "69a61a88e9865e00011c1dbf",
-    "ghost_draft_url": "https://askedtech.ghost.io/ghost/#/editor/post/69a61a88e9865e00011c1dbf",
+    "ghost_draft_url": "https://ubion.ghost.io/ghost/#/editor/post/69a61a88e9865e00011c1dbf",
     "status": "published",
     "published_at": "2026-03-02T23:17:28.000Z"
   }

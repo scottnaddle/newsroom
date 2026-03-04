@@ -1,0 +1,263 @@
+{
+  "stage": "published",
+  "source": {
+    "title": "미국 학교들, AI에 대규모 베팅… 뉴욕시만 '유보'",
+    "url": "https://dnyuz.com/2026/03/02/u-s-schools-are-betting-big-on-a-i-will-new-york-city-be-next/",
+    "source_name": "DNYUZ (NYT)",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "미국 주요 도시 학교들이 생성형 AI를 K-12 및 고등교육에 대규모 도입하고 있지만, 미국 최대 학군인 뉴욕시만 유일하게 보류 입장을 유지 중.",
+    "published_date": "2026-03-02",
+    "collected_at": "2026-03-03T07:19:38.531149"
+  },
+  "reporting_brief": {
+    "facts": [
+      {
+        "claim": "미국 플로리다 브로워드 카운티(6번째로 큰 학군)는 마이크로소프트 Copilot을 전 학구에 도입한다고 발표했으며, 이를 'Copilot 기준 세계 최대 교육 AI 도입'이라고 홍보했다.",
+        "source_url": "https://dnyuz.com/2026/03/02/u-s-schools-are-betting-big-on-a-i-will-new-york-city-be-next/",
+        "quote": "Florida's Broward County announced that it wanted 'to bring the power of artificial intelligence to every corner of the district.' The district's superintendent said that Microsoft's Copilot would be deployed, trumpeting the move as the world's biggest adoption of the A.I. chatbot in an educational setting."
+      },
+      {
+        "claim": "마이애미는 고교생 10만 명 이상에게 Google Gemini를 보급했다. 메릴랜드 프린스조지스 카운티는 Colin Kaepernick과 협력해 AI 기반 스토리텔링·창작 도구 'Lumi'를 도입 중이다.",
+        "source_url": "https://dnyuz.com/2026/03/02/u-s-schools-are-betting-big-on-a-i-will-new-york-city-be-next/",
+        "quote": "Miami rolled out Google Gemini for more than 100,000 high schoolers. Prince George's County, in the Washington suburbs, is working with Colin Kaepernick to bring his A.I.-powered graphic design tool to Maryland classrooms."
+      },
+      {
+        "claim": "뉴욕시는 학생 100만 명 이상이 재학 중인 미국 최대 학군이지만, 챗GPT 출시 초기 일시 금지 이후 현재까지 대규모 AI 파트너십을 맺지 않고 있다.",
+        "source_url": "https://dnyuz.com/2026/03/02/u-s-schools-are-betting-big-on-a-i-will-new-york-city-be-next/",
+        "quote": "Since the early days when ChatGPT became a household name — and when New York briefly banned the chatbot on school laptops and Wi-Fi networks — school leaders in the city have mainly made promises, saying they would say more soon, rather than embarking on major partnerships."
+      },
+      {
+        "claim": "마만다니 뉴욕시장과 신임 교육감 카마르 사무엘스가 AI 도입 여부를 결정해야 하는 상황이다.",
+        "source_url": "https://dnyuz.com/2026/03/02/u-s-schools-are-betting-big-on-a-i-will-new-york-city-be-next/",
+        "quote": "Mamdani and the city's new schools chief, Kamar Samuels, are deciding whether artificial intelligence apps, chatbots and companions belong in schools."
+      },
+      {
+        "claim": "맨해튼 CB12 커뮤니티 보드를 포함한 복수의 뉴욕시 커뮤니티 교육위원회(CEC4, CEC20, CEC24 등)가 AI 학교 도입 모라토리엄 결의안을 통과시켰다.",
+        "source_url": "https://classsizematters.org/resolution-for-an-ai-moratorium-for-nyc-schools/",
+        "quote": "A version of resolution has been passed by CB 12 in Manhattan. Similar resolutions have been approved by CEC4 in Manhattan, CEC 20 in Brooklyn, and CEC 24 in Queens, with more to come."
+      }
+    ],
+    "perspectives": [
+      "찬성(도입론): AI 도입을 앞당기지 않으면 미국 내에서도 학습 격차가 벌어질 수 있다. 기업과 대학들은 뉴욕시의 결정이 전국 K-12 AI 정책에 파급 효과를 낼 것이라고 주목한다.",
+      "반대(신중론/모라토리엄): 학부모와 지역사회 교육위원회들은 학생 개인정보 보호, 알고리즘 편향, AI 의존에 따른 비판적 사고 약화를 우려. 도입 전 엄격한 가이드라인 마련을 요구하고 있다.",
+      "전문가 의견: Alex Molnar(콜로라도대 국가교육정책센터) — 막대한 자금력을 가진 벤더들이 교육 현장을 압박하는 구조를 경계해야 한다고 지적."
+    ],
+    "suggested_angle": "미국 최대 학군 뉴욕시의 AI 도입 결정이 전국 K-12 AI 교육의 향방을 가를 분기점이라는 '탐색적 정책 앵글'. 브로워드·마이애미 등 '속도' 진영 대 뉴욕 지역사회의 '신중론' 간 대립 구도를 통해 글로벌 교육 AI 거버넌스 논쟁을 조명. 한국 AI 교육 신중론에 대한 시사점 연계 가능.",
+    "sources_used": [
+      "https://dnyuz.com/2026/03/02/u-s-schools-are-betting-big-on-a-i-will-new-york-city-be-next/",
+      "https://classsizematters.org/resolution-for-an-ai-moratorium-for-nyc-schools/",
+      "https://www.nytimes.com/2026/03/02/nyregion/nyc-ai-schools-mamdani.html"
+    ],
+    "gaps": [
+      "마만다니 시장과 사무엘스 교육감의 구체적 입장 발언 확인 필요 (NYT 원문 접근 제한으로 인용 미확보)",
+      "뉴욕시가 과거 챗GPT 금지 조치를 해제한 정확한 시점과 그 이후 정책 변화 타임라인 확인 필요",
+      "뉴욕시 유보 결정에 영향을 미친 구체적인 학생 개인정보 보호 우려 사례 추가 취재 필요"
+    ]
+  },
+  "draft": {
+    "headline": "미국 K-12 AI 도입 경쟁…뉴욕시만 홀로 '신중'",
+    "subheadline": "브로워드·마이애미 등 주요 학군이 빅테크와 손잡고 AI 도입을 가속화하는 가운데, 100만 학생의 뉴욕시는 지역사회 모라토리엄 결의와 함께 분기점에 섰다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <!-- 리드 문단 -->\n  <div style=\"border-left:4px solid #4338ca;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 주요 학군들이 마이크로소프트·구글 등 빅테크와 손잡고 교실에 AI를 대거 도입하고 있다. 그러나 100만 명이 넘는 학생을 보유한 미국 최대 학군 뉴욕시는 지역사회의 강한 반발과 함께 유일하게 신중 입장을 고수하며 분기점에 서 있다.</p>\n  </div>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">전국 학군, AI 도입 경쟁 가속화</h2>\n  <p style=\"margin:0 0 36px;\">플로리다주 브로워드 카운티 교육구(미국 6위 규모)는 최근 마이크로소프트 Copilot을 전 학구에 도입한다고 발표했다. 해당 교육구 교육감은 이를 두고 \"마이크로소프트 Copilot의 교육 현장 도입 사례 중 세계 최대 규모\"라고 공언했다. 마이애미-데이드 카운티도 이미 10만 명 이상의 고교생에게 구글 Gemini를 배포했으며, 메릴랜드주 프린스조지스 카운티는 전직 NFL 선수 콜린 캐퍼닉과 협력해 AI 기반 스토리텔링·창작 도구 'Lumi'를 교실에 도입 중이다. 이처럼 미국 전역의 학군들이 경쟁적으로 AI 기업과 파트너십을 체결하며 '교육 AI 전쟁'에 뛰어들고 있다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">뉴욕시, 약속만 반복하며 유보</h2>\n  <p style=\"margin:0 0 36px;\">반면 뉴욕시는 챗GPT가 처음 주목받던 시절 학교 기기와 와이파이에서 챗봇을 일시 금지한 이후, 지금까지 어떤 대규모 AI 파트너십도 맺지 않고 있다. 시 교육 당국은 그간 \"곧 더 말할 것\"이라는 약속만 반복했다. 현재 조나 마만다니 신임 뉴욕시장과 카마르 사무엘스 신임 교육감이 AI 앱·챗봇이 학교에 적합한지 여부를 결정해야 하는 상황에 놓였다.</p>\n\n  <blockquote style=\"border-left:4px solid #4338ca;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">\"막대한 자금력을 가진 벤더들이 교육 현장을 압박하는 구조를 경계해야 한다.\"</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— Alex Molnar, 콜로라도대 국가교육정책센터</p>\n  </blockquote>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">지역사회, 모라토리엄 결의로 맞서</h2>\n  <p style=\"margin:0 0 36px;\">뉴욕시 내 다수의 지역사회 교육위원회(CEC)가 학교 AI 도입 유예(모라토리엄)를 촉구하는 결의안을 잇달아 통과시키고 있다. 맨해튼 CB12 커뮤니티 보드를 비롯해 맨해튼 CEC4, 브루클린 CEC20, 퀸스 CEC24 등이 이미 결의안을 채택했다. 학부모·시민단체들은 학생 개인정보 침해, 알고리즘 편향, AI 과의존에 따른 비판적 사고력 약화를 주요 우려 사항으로 꼽고 있다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">뉴욕시 결정이 전국 K-12 정책 가를 분기점</h2>\n  <p style=\"margin:0 0 36px;\">교육계 안팎에서는 뉴욕시의 최종 결정이 미국 전역의 K-12(유치원~고등학교 과정) AI 교육 정책에 중대한 선례를 남길 것으로 보고 있다. '도입 속도' 진영은 AI 도입 지연이 학생들 간 새로운 학습 격차를 낳을 것이라 경고하는 반면, '신중론' 진영은 충분한 안전장치와 가이드라인 마련 없이 학교를 테스트베드로 삼아서는 안 된다고 맞서고 있다. 이 논쟁은 AI 교과서 도입 속도를 두고 찬반이 엇갈리는 한국 교육 현장에도 적지 않은 시사점을 던진다.</p>\n\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://dnyuz.com/2026/03/02/u-s-schools-are-betting-big-on-a-i-will-new-york-city-be-next/\" style=\"color:#4338ca;text-decoration:none;\">U.S. Schools Are Betting Big on A.I. Will New York City Be Next? — DNYUZ (NYT)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://classsizematters.org/resolution-for-an-ai-moratorium-for-nyc-schools/\" style=\"color:#4338ca;text-decoration:none;\">Resolution for an AI Moratorium for NYC Schools — Class Size Matters</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.nytimes.com/2026/03/02/nyregion/nyc-ai-schools-mamdani.html\" style=\"color:#4338ca;text-decoration:none;\">NYC AI Schools Mamdani — The New York Times</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "AI교육",
+      "교육정책",
+      "미국교육",
+      "K-12"
+    ],
+    "references": [
+      {
+        "num": 1,
+        "url": "https://dnyuz.com/2026/03/02/u-s-schools-are-betting-big-on-a-i-will-new-york-city-be-next/",
+        "title": "U.S. Schools Are Betting Big on A.I. Will New York City Be Next? — DNYUZ (NYT)"
+      },
+      {
+        "num": 2,
+        "url": "https://classsizematters.org/resolution-for-an-ai-moratorium-for-nyc-schools/",
+        "title": "Resolution for an AI Moratorium for NYC Schools — Class Size Matters"
+      },
+      {
+        "num": 3,
+        "url": "https://www.nytimes.com/2026/03/02/nyregion/nyc-ai-schools-mamdani.html",
+        "title": "NYC AI Schools Mamdani — The New York Times"
+      }
+    ],
+    "word_count": 830,
+    "article_type": "news"
+  },
+  "fact_check_report": {
+    "overall_confidence": 88,
+    "verdict": "PASS",
+    "claims": [
+      {
+        "claim": "브로워드 카운티는 미국 6번째로 큰 학군이다",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "Wikipedia, browardschools.com 공식 사이트 모두 '미국 6위 규모(sixth largest public school system in the nation)' 확인",
+        "source_url": "https://en.wikipedia.org/wiki/Broward_County_Public_Schools",
+        "flagged": false
+      },
+      {
+        "claim": "브로워드 카운티가 Microsoft Copilot을 전 학구에 도입하고 'Copilot 기준 세계 최대 교육 AI 도입'이라 홍보했다",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 92,
+        "evidence": "WLRN(2025.07.09), browardschools.com 공식 보도자료(2025.06.02) 모두 'largest K-12 adoption of Microsoft Copilot in the world' 확인. 원문은 'AI 챗봇 전반 최대'가 아닌 'Copilot 기준 최대'임 — 본문에 반영 완료.",
+        "source_url": "https://www.browardschools.com/p/~board/district-news-news-room-135038/post/bcps-collaborates-with-microsoft-on-historic-districtwide-launch-of-artificial-intelligence-342636-63656",
+        "flagged": false
+      },
+      {
+        "claim": "마이애미는 고교생 10만 명 이상에게 Google Gemini를 배포했다",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "Google 공식 블로그(blog.google, 2025.08.13) '마이애미-데이드 카운티 100,000명 고교생 및 교사에게 Gemini for Education 도입' 확인. 일부 소스는 105,000명으로 보도.",
+        "source_url": "https://blog.google/outreach-initiatives/education/miami-dade-county-public-schools-uses-gemini-for-education-for-100000-high-school-students-and-teachers/",
+        "flagged": false
+      },
+      {
+        "claim": "프린스조지스 카운티는 콜린 캐퍼닉과 협력해 AI 기반 스토리텔링·창작 도구 'Lumi'를 도입 중이다",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 72,
+        "evidence": "협력 사실 확인(thedailyrecord.com, foxbaltimore.com, marylandmatters.org 등 복수 보도). 해당 AI 도구는 'Lumi'라는 AI 스토리텔링·내러티브 제작 도구로, '그래픽 디자인 도구' 표현에서 수정 완료.",
+        "source_url": "https://thedailyrecord.com/2025/12/29/colin-kaepernick-ai-lumi-story-prince-georges-schools/",
+        "flagged": false
+      },
+      {
+        "claim": "뉴욕시는 학생 100만 명 이상이 재학 중인 미국 최대 학군이다",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 98,
+        "evidence": "Wikipedia, NYU Steinhardt, NYC Council 공식 데이터 모두 '약 1.1백만 학생, 미국 최대 학군' 확인",
+        "source_url": "https://en.wikipedia.org/wiki/New_York_City_Department_of_Education",
+        "flagged": false
+      },
+      {
+        "claim": "조나 마만다니가 뉴욕 신임 시장, 카마르 사무엘스가 신임 교육감이다",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "CBS NY, Chalkbeat, Gothamist 등 복수 미디어 확인. 마만다니는 2026.01.01 취임 뉴욕시장, 사무엘스는 'schools chancellor' 직함으로 동일 날짜 취임. '교육감'은 chancellor의 통용 번역으로 적절.",
+        "source_url": "https://www.cbsnews.com/newyork/news/zohran-mamdani-nyc-schools-chancellor-announcement/",
+        "flagged": false
+      },
+      {
+        "claim": "Alex Molnar는 콜로라도대 국가교육정책센터 소속이다",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 96,
+        "evidence": "NEPC 공식 사이트(nepc.colorado.edu), CU Boulder 교수 프로필 모두 'Research Professor at University of Colorado Boulder / Director of NEPC' 확인",
+        "source_url": "https://nepc.colorado.edu/author/molnar-alex",
+        "flagged": false
+      },
+      {
+        "claim": "맨해튼 CB12, CEC4, 브루클린 CEC20, 퀸스 CEC24 등이 AI 모라토리엄 결의안을 통과시켰다",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 90,
+        "evidence": "classsizematters.org 및 classsizematters.org/resolution-calling-for-a-moratorium 페이지에서 CB12, CEC4, CEC20, CEC24 결의안 채택 확인",
+        "source_url": "https://classsizematters.org/resolution-for-an-ai-moratorium-for-nyc-schools/",
+        "flagged": false
+      }
+    ]
+  },
+  "copy_edit": {
+    "final_html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <!-- 리드 문단 -->\n  <div style=\"border-left:4px solid #4338ca;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 주요 학군들이 마이크로소프트·구글 등 빅테크와 손잡고 교실에 AI를 대거 도입하고 있다. 그러나 100만 명이 넘는 학생을 보유한 미국 최대 학군 뉴욕시는 지역사회의 강한 반발과 함께 유일하게 신중 입장을 고수하며 분기점에 서 있다.</p>\n  </div>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">전국 학군, AI 도입 경쟁 가속화</h2>\n  <p style=\"margin:0 0 36px;\">플로리다주 브로워드 카운티 교육구(미국 6위 규모)는 최근 마이크로소프트 Copilot을 전 학구에 도입한다고 발표했다. 해당 교육구 교육감은 이를 두고 \"마이크로소프트 Copilot의 교육 현장 도입 사례 중 세계 최대 규모\"라고 공언했다. 마이애미-데이드 카운티도 이미 10만 명 이상의 고교생에게 구글 Gemini를 배포했으며, 메릴랜드주 프린스조지스 카운티는 전직 NFL 선수 콜린 캐퍼닉과 협력해 AI 기반 스토리텔링·창작 도구 'Lumi'를 교실에 도입 중이다. 이처럼 미국 전역의 학군들이 경쟁적으로 AI 기업과 파트너십을 체결하며 '교육 AI 전쟁'에 뛰어들고 있다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">뉴욕시, 약속만 반복하며 유보</h2>\n  <p style=\"margin:0 0 36px;\">반면 뉴욕시는 챗GPT가 처음 주목받던 시절 학교 기기와 와이파이에서 챗봇을 일시 금지한 이후, 지금까지 어떤 대규모 AI 파트너십도 맺지 않고 있다. 시 교육 당국은 그간 \"곧 더 말할 것\"이라는 약속만 반복했다. 현재 조나 마만다니 신임 뉴욕시장과 카마르 사무엘스 신임 교육감이 AI 앱·챗봇이 학교에 적합한지 여부를 결정해야 하는 상황에 놓였다.</p>\n\n  <blockquote style=\"border-left:4px solid #4338ca;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">\"막대한 자금력을 가진 벤더들이 교육 현장을 압박하는 구조를 경계해야 한다.\"</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— Alex Molnar, 콜로라도대 국가교육정책센터</p>\n  </blockquote>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">지역사회, 모라토리엄 결의로 맞서</h2>\n  <p style=\"margin:0 0 36px;\">뉴욕시 내 다수의 지역사회 교육위원회(CEC)가 학교 AI 도입 유예(모라토리엄)를 촉구하는 결의안을 잇달아 통과시키고 있다. 맨해튼 CB12 커뮤니티 보드를 비롯해 맨해튼 CEC4, 브루클린 CEC20, 퀸스 CEC24 등이 이미 결의안을 채택했다. 학부모·시민단체들은 학생 개인정보 침해, 알고리즘 편향, AI 과의존에 따른 비판적 사고력 약화를 주요 우려 사항으로 꼽고 있다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">뉴욕시 결정이 전국 K-12 정책 가를 분기점</h2>\n  <p style=\"margin:0 0 36px;\">교육계 안팎에서는 뉴욕시의 최종 결정이 미국 전역의 K-12(유치원~고등학교 과정) AI 교육 정책에 중대한 선례를 남길 것으로 보고 있다. '도입 속도' 진영은 AI 도입 지연이 학생들 간 새로운 학습 격차를 낳을 것이라 경고하는 반면, '신중론' 진영은 충분한 안전장치와 가이드라인 마련 없이 학교를 테스트베드로 삼아서는 안 된다고 맞서고 있다. 이 논쟁은 AI 교과서 도입 속도를 두고 찬반이 엇갈리는 한국 교육 현장에도 적지 않은 시사점을 던진다.</p>\n\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://dnyuz.com/2026/03/02/u-s-schools-are-betting-big-on-a-i-will-new-york-city-be-next/\" style=\"color:#4338ca;text-decoration:none;\">U.S. Schools Are Betting Big on A.I. Will New York City Be Next? — DNYUZ (NYT)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://classsizematters.org/resolution-for-an-ai-moratorium-for-nyc-schools/\" style=\"color:#4338ca;text-decoration:none;\">Resolution for an AI Moratorium for NYC Schools — Class Size Matters</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.nytimes.com/2026/03/02/nyregion/nyc-ai-schools-mamdani.html\" style=\"color:#4338ca;text-decoration:none;\">NYC AI Schools Mamdani — The New York Times</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "changes": [
+      {
+        "original": "\"교육 현장에서 세계 최대 규모의 AI 챗봇 도입\"이라고 공언했다",
+        "corrected": "\"마이크로소프트 Copilot의 교육 현장 도입 사례 중 세계 최대 규모\"라고 공언했다",
+        "reason": "팩트 정확성 — 원문은 'AI 챗봇 전반 최대'가 아니라 'Copilot 기준 최대'임. 팩트체커 플래그 반영."
+      },
+      {
+        "original": "AI 기반 그래픽 디자인 도구를 교실에 도입 중이다",
+        "corrected": "AI 기반 스토리텔링·창작 도구 'Lumi'를 교실에 도입 중이다",
+        "reason": "팩트 정확성 — 해당 도구는 'Lumi'이며 스토리텔링·서사 창작 AI임. '그래픽 디자인 도구'는 오해의 소지가 있음. 팩트체커 플래그 반영."
+      },
+      {
+        "original": "미국 전역의 K-12 AI 교육 정책에",
+        "corrected": "미국 전역의 K-12(유치원~고등학교 과정) AI 교육 정책에",
+        "reason": "가독성 — 전문 용어 첫 본문 등장 시 괄호 설명 추가 (SOUL.md 가이드라인)"
+      }
+    ],
+    "readability_score": 76,
+    "links_checked": true,
+    "links_status": {
+      "https://dnyuz.com/2026/03/02/u-s-schools-are-betting-big-on-a-i-will-new-york-city-be-next/": "200 OK",
+      "https://classsizematters.org/resolution-for-an-ai-moratorium-for-nyc-schools/": "200 OK",
+      "https://www.nytimes.com/2026/03/02/nyregion/nyc-ai-schools-mamdani.html": "403 페이월 (예상된 접근 제한 — 참고 자료로 유지)"
+    },
+    "ai_badge_check": "상단 pill 없음 ✅ | 하단 AI 고지 정상 ✅",
+    "references_check": "참고 자료 섹션 존재 ✅",
+    "flex_card_check": "수치 카드(display:flex) 없음 ✅",
+    "meta_suggestion": {
+      "meta_title": "미국 학교 AI 도입 경쟁, 뉴욕시만 신중론…K-12 교육의 분기점",
+      "meta_description": "브로워드·마이애미 등 미국 주요 학군이 마이크로소프트·구글과 손잡고 AI를 확산시키는 가운데, 100만 학생의 뉴욕시가 지역사회 모라토리엄 결의 속 AI 도입을 결정해야 하는 기로에 섰다."
+    }
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-manual",
+      "action": "sourced",
+      "timestamp": "2026-03-03T07:19:38.531194"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-03T09:05:00+01:00",
+      "note": "relevance_score 85 ≥ 75 — 취재 배정"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-03T10:55:00+01:00"
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-03T22:15:23+01:00"
+    },
+    {
+      "agent": "fact-checker",
+      "action": "verified",
+      "timestamp": "2026-03-03T22:49:00+01:00",
+      "note": "전체 신뢰도 88, PASS. 플래그 1건: 캐퍼닉 AI 도구 설명 보완 권장 (Lumi = 스토리텔링 도구, 그래픽 디자인 도구 표현 부정확)"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "approved",
+      "timestamp": "2026-03-03T23:31:00+01:00",
+      "note": "PASS 88 — 6개 체크리스트 통과. 06-desk-approved 이동."
+    },
+    {
+      "agent": "copy-editor",
+      "action": "copy-edited",
+      "timestamp": "2026-03-03T23:32:00+01:00",
+      "note": "교열 완료. 수정 3건: 브로워드 인용구 정확성 보완(Copilot 기준 명시), 캐퍼닉 AI 도구명 Lumi 반영, K-12 괄호 설명 추가. 링크 2/3 정상 확인(NYT 페이월 예외). AI 배지·참고자료·flex 카드 정상."
+    },
+    {
+      "agent": "publisher",
+      "action": "published-draft",
+      "timestamp": "2026-03-03T23:24:19.286Z",
+      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69a76d960ac2ff00013a3eae"
+    }
+  ],
+  "desk_instructions": "DNYUZ(NYT) 기사 기반 번역·분석. 미국 학교들의 AI 대규모 도입 현황 — 뉴욕시만 유보한 이유(사유, 담당자 발언). 다른 대도시 교육구 도입 사례 대비. 뉴욕시 유보 결정이 한국 신중론에 주는 시사점 각주 가능.",
+  "desk_decision": {
+    "verdict": "APPROVE",
+    "timestamp": "2026-03-03T23:31:00+01:00",
+    "reviewer": "editor-desk",
+    "reason": "PASS 88 — 6개 체크리스트 통과. 헤드라인 29자(30자 이하), AI 공개 태그 확인, 뉴스가치·정확성·균형·법적·스타일 모두 적합."
+  },
+  "publish_result": {
+    "ghost_post_id": "69a76d960ac2ff00013a3eae",
+    "ghost_draft_url": "https://ubion.ghost.io/ghost/#/editor/post/69a76d960ac2ff00013a3eae",
+    "ghost_preview_url": "https://ubion.ghost.io/p/12706e18-dd7a-4e95-96da-6d5ac50d7eb6/",
+    "status": "draft",
+    "feature_image": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://ubion.ghost.io/content/images/2026/03/og-card-12.png",
+    "published_at": "2026-03-03T23:24:19.286Z"
+  }
+}

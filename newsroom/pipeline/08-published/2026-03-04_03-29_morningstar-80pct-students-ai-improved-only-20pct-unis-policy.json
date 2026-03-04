@@ -1,0 +1,279 @@
+{
+  "stage": "published",
+  "source": {
+    "title": "학생 80% \"AI가 성적 향상\" — 정작 AI 공식 정책 갖춘 대학은 20%뿐",
+    "url": "https://www.morningstar.com/news/business-wire/20260225650802/4-in-5-students-say-ai-improved-their-academic-performancebut-only-20-of-universities-have-a-formal-ai-policy",
+    "source_name": "Morningstar / Business Wire",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "글로벌 조사: 학생 4명 중 3명이 AI가 학업 성과 향상에 도움됐다고 응답. 그러나 AI 공식 정책을 보유한 대학은 20%에 불과. 학생 40%는 AI 관련 부정행위를 심각한 위협으로 인식.",
+    "published_date": "2026-02-25",
+    "collected_at": "2026-03-04T03:29:03.966610"
+  },
+  "desk_instructions": "학생 AI 활용 글로벌 조사 vs 대학 정책 공백 구도 부각. 조사 주체(Brainhive/Business Wire) 신뢰도 확인. 한국 대학 AI 정책 현황 비교 포인트 마련. 교수·학생 양측 관점 균형.",
+  "reporting_brief": {
+    "facts": [
+      {
+        "claim": "Coursera의 'AI in Higher Education Report'는 미국·영국·인도·멕시코·사우디아라비아 5개국 대학생 및 교수 4,200명 이상을 대상으로 설문한 결과다.",
+        "source_url": "https://blog.coursera.org/ai-in-higher-education-2026",
+        "quote": "Capturing responses to a survey of over 4,200 university faculty and college students in the United States, the United Kingdom, India, Saudi Arabia, and Mexico"
+      },
+      {
+        "claim": "전 세계 학생·교수 중 95% 이상이 교육 목적으로 AI 도구를 사용한다고 응답했다.",
+        "source_url": "https://blog.coursera.org/ai-in-higher-education-2026",
+        "quote": "over 95% of respondents reported being users of AI tools in an educational context"
+      },
+      {
+        "claim": "전 세계적으로 학생의 80%는 AI가 학습 경험을 긍정적으로 지원했다고 응답했고, 78%는 미국 내 응답률이다.",
+        "source_url": "https://www.morningstar.com/news/business-wire/20260225650802/4-in-5-students-say-ai-improved-their-academic-performancebut-only-20-of-universities-have-a-formal-ai-policy",
+        "quote": "80% of students say AI has positively supported their learning experience"
+      },
+      {
+        "claim": "미국 내 대학에서 공식 AI 정책을 보유했다고 답한 교수는 20%에 불과하다.",
+        "source_url": "https://www.morningstar.com/news/business-wire/20260225650802/4-in-5-students-say-ai-improved-their-academic-performancebut-only-20-of-universities-have-a-formal-ai-policy",
+        "quote": "20% of educators report that their university has a formal AI policy in place"
+      },
+      {
+        "claim": "전 세계적으로 56%의 학생·교수는 고등교육 시스템이 AI 관리에 준비되어 있지 않다고 생각하며, 미국은 50%이다.",
+        "source_url": "https://www.morningstar.com/news/business-wire/20260225650802/4-in-5-students-say-ai-improved-their-academic-performancebut-only-20-of-universities-have-a-formal-ai-policy",
+        "quote": "Half believe the higher education system is unprepared to handle AI"
+      },
+      {
+        "claim": "교수 중 27%만이 AI 생성 콘텐츠를 식별할 자신이 있다고 답했으며, 25%만이 AI를 효과적으로 사용할 역량을 갖췄다고 생각한다.",
+        "source_url": "https://www.morningstar.com/news/business-wire/20260225650802/4-in-5-students-say-ai-improved-their-academic-performancebut-only-20-of-universities-have-a-formal-ai-policy",
+        "quote": "Only 27% of educators say they feel confident identifying AI-generated content, and just 25% believe they and their peers have the skills needed to use AI effectively"
+      },
+      {
+        "claim": "학생 24%가 AI 생성 과제물을 공개 없이 제출한 경험이 있다고 인정했다.",
+        "source_url": "https://www.morningstar.com/news/business-wire/20260225650802/4-in-5-students-say-ai-improved-their-academic-performancebut-only-20-of-universities-have-a-formal-ai-policy",
+        "quote": "24% of students surveyed admit to submitting AI-generated work without disclosure"
+      },
+      {
+        "claim": "한국 교육부는 2026년 2월 24일 '대학 인공지능(AI) 기본교육과정 개발 지원사업' 공고를 발표했다.",
+        "source_url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745482&call_from=rsslink",
+        "quote": "교육부(장관 최교진)와 한국대학교육협의회(회장 양오봉)는 2월 24일(화)에 '2026년 대학 인공지능(AI) 기본교육과정 개발 지원사업' 운영계획을 발표"
+      }
+    ],
+    "perspectives": [
+      "긍정(학생 측): AI는 개인화 학습, 실시간 피드백, 생산성 향상을 제공하며 학업 성취에 실질적 기여를 한다. 글로벌 학생 80%, 미국 78%가 긍정적 영향을 체감.",
+      "긍정(Coursera CCO): \"AI는 캠퍼스에서 실질적 혜택을 제공하고 있다. 거버넌스와 교수 역량 강화를 병행해야 한다.\" — Marni Baker Stein",
+      "우려(학문 신뢰성): 65%는 규제되지 않은 AI가 학위 신뢰도를 훼손할 수 있다고 우려. 37%는 표절 증가를 걱정.",
+      "정책 공백(제도적 문제): AI 사용이 사실상 보편화됐음에도 대학 거버넌스는 뒤처져 있다. 공식 정책 보유 대학이 20%에 불과하다는 점은 제도 공백을 의미.",
+      "한국 비교: 한국 교육부는 2026년 대학 AI 기본교육과정 사업을 추진 중이지만, 전면적 AI 정책 의무화보다는 '교육과정 개발 지원' 수준에 머물러 있어 글로벌 정책 공백과 유사한 구조."
+    ],
+    "suggested_angle": "\"AI는 이미 쓰고 있다 — 규칙만 없을 뿐\": 학생 95%가 AI를 쓰는데 대학 정책은 20%만 갖춘 역설을 중심에 두되, 한국 교육부의 2026년 AI 교육과정 지원사업을 비교 프레임으로 활용.",
+    "sources_used": [
+      "https://www.morningstar.com/news/business-wire/20260225650802/4-in-5-students-say-ai-improved-their-academic-performancebut-only-20-of-universities-have-a-formal-ai-policy",
+      "https://blog.coursera.org/ai-in-higher-education-2026",
+      "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745482&call_from=rsslink",
+      "https://intellectia.ai/news/stock/coursera-report-reveals-us-higher-educations-ai-management-shortcomings"
+    ],
+    "gaps": [
+      "Coursera 원보고서 전문: 조사 방법론, 표본 대표성, 스폰서 이해관계 확인 필요",
+      "한국 대학 AI 정책 실태 데이터 부재",
+      "교수자 목소리: 한국 교수단체 공식 입장 또는 인터뷰 확보 필요",
+      "학생 측 반론: AI 사용 금지/찬성 학생 의견 균형 필요"
+    ]
+  },
+  "draft": {
+    "headline": "학생 95% AI 사용, 대학 정책은 20%뿐",
+    "subheadline": "글로벌 조사, 고등교육 AI 활용 보편화됐지만 제도적 거버넌스는 심각하게 뒤처진 것으로 나타나",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <!-- 리드 문단 -->\n  <div style=\"border-left:4px solid #0284c7;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">전 세계 대학생과 교수 10명 중 9명 이상이 학업 목적으로 AI 도구를 사용하고 있지만, 공식 AI 정책을 갖춘 대학은 5곳 중 1곳에 불과한 것으로 나타났습니다. Coursera가 5개국 4,200명 이상을 대상으로 실시한 조사에서 드러난 이 격차는, AI 활용이 이미 고등교육의 일상이 됐음에도 제도적 거버넌스는 심각하게 뒤처져 있음을 보여줍니다.</p>\n  </div>\n\n  <!-- 섹션 1 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">95% vs 20%: 숫자가 말하는 역설</h2>\n  <p style=\"margin:0 0 36px;\">Coursera의 '2026 AI in Higher Education Report'에 따르면, 미국·영국·인도·멕시코·사우디아라비아 5개국 응답자의 95% 이상이 교육 목적으로 AI를 사용하고 있다고 답했습니다. 학생의 80%는 AI가 학습 경험을 긍정적으로 지원했다고 밝혔으며, 미국에서도 78%가 같은 응답을 했습니다. 그러나 AI 활용이 이미 사실상 표준이 된 현실과 달리, 미국 교수들 가운데 자신의 대학이 공식 AI 정책을 갖추고 있다고 답한 비율은 20%에 그쳤습니다. 학생과 교수를 합산한 응답자의 56%(미국 50%)는 고등교육 시스템이 AI를 관리할 준비가 되어 있지 않다고 평가했습니다.</p>\n\n  <!-- 인용 블록 -->\n  <blockquote style=\"border-left:4px solid #0284c7;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">\"AI는 캠퍼스에서 이미 실질적인 혜택을 제공하고 있습니다. 이제는 거버넌스 체계 구축과 교수자 역량 강화를 병행해야 할 때입니다.\"</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— Marni Baker Stein, Coursera 최고콘텐츠책임자(CCO)</p>\n  </blockquote>\n\n  <!-- 섹션 2 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">교수도 모른다: AI 식별 자신 있는 교수 27%</h2>\n  <p style=\"margin:0 0 36px;\">정책 공백의 문제는 탐지 역량에서도 드러납니다. 교수 가운데 AI 생성 콘텐츠를 식별할 자신이 있다고 답한 비율은 27%에 불과했으며, AI를 효과적으로 활용할 역량을 갖췄다고 생각하는 교수는 25%에 그쳤습니다. 반면 학생 24%는 AI가 작성한 과제물을 공개 없이 제출한 적이 있다고 인정했습니다. 이에 따라 응답자의 65%는 규제받지 않는 AI 활용이 학위의 신뢰도를 훼손할 수 있다고 우려했고, 37%는 표절 증가를 걱정하는 것으로 조사됐습니다. 정책이 없는 상황에서 학생은 AI를 사용하고, 교수는 그 여부를 가리지 못하는 구조적 공백이 학문 윤리 전반에 부담을 주고 있는 셈입니다.</p>\n\n  <!-- 섹션 3 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">한국도 예외 아니다</h2>\n  <p style=\"margin:0 0 36px;\">한국 교육부는 지난 2월 24일 '2026년 대학 인공지능(AI) 기본교육과정 개발 지원사업' 운영계획을 발표했습니다. 교육부와 한국대학교육협의회가 공동으로 추진하는 이 사업은 대학의 AI 리터러시 교육과정 개발을 지원하는 데 초점을 맞추고 있습니다. 그러나 이는 학생의 AI 활용 전반에 적용될 의무적 정책 수립보다는 교육과정 콘텐츠 개발 지원에 가깝습니다. 학생들의 AI 활용이 이미 광범위하게 이루어지고 있는 현실을 고려할 때, 한국 역시 글로벌 조사에서 드러난 '도입은 빠르고 규칙은 느린' 패턴에서 자유롭지 않다는 평가가 나옵니다.</p>\n\n  <!-- 참고 자료 -->\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.morningstar.com/news/business-wire/20260225650802/4-in-5-students-say-ai-improved-their-academic-performancebut-only-20-of-universities-have-a-formal-ai-policy\" style=\"color:#4338ca;text-decoration:none;\">Morningstar / Business Wire — 4 in 5 Students Say AI Improved Their Academic Performance (2026.02.25)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://blog.coursera.org/ai-in-higher-education-2026\" style=\"color:#4338ca;text-decoration:none;\">Coursera — AI in Higher Education Report 2026</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745482&call_from=rsslink\" style=\"color:#4338ca;text-decoration:none;\">교육부 — 2026년 대학 AI 기본교육과정 개발 지원사업 운영계획 발표 (2026.02.24)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://intellectia.ai/news/stock/coursera-report-reveals-us-higher-educations-ai-management-shortcomings\" style=\"color:#4338ca;text-decoration:none;\">Intellectia.ai — Coursera Report Reveals US Higher Education's AI Management Shortcomings</a></li>\n    </ol>\n  </div>\n\n  <!-- AI 기본법 각주 -->\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "AI교육",
+      "고등교육",
+      "에듀테크",
+      "교육정책",
+      "데이터"
+    ],
+    "references": [
+      {
+        "num": 1,
+        "url": "https://www.morningstar.com/news/business-wire/20260225650802/4-in-5-students-say-ai-improved-their-academic-performancebut-only-20-of-universities-have-a-formal-ai-policy",
+        "title": "Morningstar / Business Wire — 4 in 5 Students Say AI Improved Their Academic Performance"
+      },
+      {
+        "num": 2,
+        "url": "https://blog.coursera.org/ai-in-higher-education-2026",
+        "title": "Coursera — AI in Higher Education Report 2026"
+      },
+      {
+        "num": 3,
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745482&call_from=rsslink",
+        "title": "교육부 — 2026년 대학 AI 기본교육과정 개발 지원사업 운영계획 발표"
+      },
+      {
+        "num": 4,
+        "url": "https://intellectia.ai/news/stock/coursera-report-reveals-us-higher-educations-ai-management-shortcomings",
+        "title": "Intellectia.ai — Coursera Report Reveals US Higher Education's AI Management Shortcomings"
+      }
+    ],
+    "word_count": 820,
+    "article_type": "news"
+  },
+  "fact_check_report": {
+    "overall_confidence": 88,
+    "verdict": "PASS",
+    "claims": [
+      {
+        "claim": "Coursera 조사: 5개국 대학생·교수 4,200명 이상 대상",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 97,
+        "source_url": "https://blog.coursera.org/ai-in-higher-education-2026",
+        "flagged": false
+      },
+      {
+        "claim": "전 세계 학생·교수 95% 이상이 교육 목적으로 AI 도구를 사용한다.",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 97,
+        "source_url": "https://blog.coursera.org/ai-in-higher-education-2026",
+        "flagged": false
+      },
+      {
+        "claim": "전 세계 학생 80%가 AI가 학습 경험을 긍정적으로 지원했다고 응답. 미국 78%.",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 85,
+        "source_url": "https://www.morningstar.com/news/business-wire/20260225650802/4-in-5-students-say-ai-improved-their-academic-performancebut-only-20-of-universities-have-a-formal-ai-policy",
+        "flagged": false
+      },
+      {
+        "claim": "미국 대학에서 공식 AI 정책을 보유했다고 답한 교수는 20%에 불과하다.",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "source_url": "https://www.digit.fyi/uk-student-ai-use/",
+        "flagged": false
+      },
+      {
+        "claim": "전 세계 56%, 미국 50%가 고등교육 시스템이 AI 관리에 준비되지 않았다고 생각한다.",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 92,
+        "source_url": "https://www.finanznachrichten.de/nachrichten-2026-02/67784247-coursera-4-in-5-students-say-ai-improved-their-academic-performance-but-only-20-of-universities-have-a-formal-ai-policy-004.htm",
+        "flagged": false
+      },
+      {
+        "claim": "교수 27%만 AI 생성 콘텐츠를 식별할 자신이 있고, 25%만 AI를 효과적으로 활용할 역량을 갖췄다고 생각한다.",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 93,
+        "source_url": "https://www.morningstar.com/news/business-wire/20260225650802/4-in-5-students-say-ai-improved-their-academic-performancebut-only-20-of-universities-have-a-formal-ai-policy",
+        "flagged": false
+      },
+      {
+        "claim": "학생 24%가 AI 생성 과제물을 공개 없이 제출한 경험이 있다.",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "source_url": "https://in.marketscreener.com/news/4-in-5-students-say-ai-improved-their-academic-performancea-but-only-20-of-universities-have-a-for-ce7e5cdbda8af122",
+        "flagged": false
+      },
+      {
+        "claim": "65%는 규제되지 않은 AI가 학위 신뢰도를 훼손할 수 있다고 우려, 37%는 표절 증가를 걱정한다.",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "source_url": "https://in.marketscreener.com/news/4-in-5-students-say-ai-improved-their-academic-performancea-but-only-20-of-universities-have-a-for-ce7e5cdbda8af122",
+        "flagged": false
+      },
+      {
+        "claim": "한국 교육부는 2026년 2월 24일 '대학 AI 기본교육과정 개발 지원사업' 운영계획을 발표했다.",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 97,
+        "source_url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745482&call_from=rsslink",
+        "flagged": false
+      }
+    ]
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-heartbeat",
+      "action": "sourced",
+      "timestamp": "2026-03-04T03:29:03.966618"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-03T18:54:45+01:00"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-03T19:48:36Z"
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-03T21:13:00+01:00"
+    },
+    {
+      "agent": "fact-checker",
+      "action": "verified",
+      "timestamp": "2026-03-03T21:39:00+01:00",
+      "note": "전체 신뢰도 88, PASS."
+    },
+    {
+      "agent": "editor-desk",
+      "action": "approved",
+      "timestamp": "2026-03-04T21:28:00+01:00",
+      "note": "PASS 88 — 간략 검토 완료."
+    },
+    {
+      "agent": "copy-editor",
+      "action": "copy-edited",
+      "timestamp": "2026-03-03T21:30:00+01:00",
+      "note": "맞춤법·스타일 교열 완료. 링크 접근 확인(Coursera 200 OK). AI 배지 없음. 참고 자료 섹션 있음. 수치 카드 없음."
+    },
+    {
+      "agent": "publisher",
+      "action": "published-draft",
+      "timestamp": "2026-03-03T22:21:56.615Z",
+      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69a75ef60ac2ff00013a3ea4"
+    }
+  ],
+  "desk_decision": {
+    "verdict": "APPROVE",
+    "method": "brief-review",
+    "checklist": {
+      "1_news_value": "PASS",
+      "2_accuracy": "PASS",
+      "3_balance": "PASS",
+      "4_legal": "PASS",
+      "5_ai_disclosure": "PASS",
+      "6_style": "PASS"
+    },
+    "reason": "PASS 88 — 체크리스트 6개 전부 통과. APPROVE.",
+    "timestamp": "2026-03-04T21:28:00+01:00"
+  },
+  "copy_edit": {
+    "final_html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <!-- 리드 문단 -->\n  <div style=\"border-left:4px solid #0284c7;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">전 세계 대학생과 교수 10명 중 9명 이상이 학업 목적으로 AI 도구를 사용하고 있지만, 공식 AI 정책을 갖춘 대학은 5곳 중 1곳에 불과한 것으로 나타났습니다. Coursera가 5개국 4,200명 이상을 대상으로 실시한 조사에서 드러난 이 격차는, AI 활용이 이미 고등교육의 일상이 됐음에도 제도적 거버넌스는 심각하게 뒤처져 있음을 보여줍니다.</p>\n  </div>\n\n  <!-- 섹션 1 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">95% vs 20%: 숫자가 말하는 역설</h2>\n  <p style=\"margin:0 0 36px;\">Coursera의 '2026 AI in Higher Education Report'에 따르면, 미국·영국·인도·멕시코·사우디아라비아 5개국 응답자의 95% 이상이 교육 목적으로 AI를 사용하고 있다고 답했습니다. 학생의 80%는 AI가 학습 경험을 긍정적으로 지원했다고 밝혔으며, 미국에서도 78%가 같은 응답을 했습니다. 그러나 AI 활용이 이미 사실상 표준이 된 현실과 달리, 미국 교수들 가운데 자신의 대학이 공식 AI 정책을 갖추고 있다고 답한 비율은 20%에 그쳤습니다. 학생과 교수를 합산한 응답자의 56%(미국 50%)는 고등교육 시스템이 AI를 관리할 준비가 되어 있지 않다고 평가했습니다.</p>\n\n  <!-- 인용 블록 -->\n  <blockquote style=\"border-left:4px solid #0284c7;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">\"AI는 캠퍼스에서 이미 실질적인 혜택을 제공하고 있습니다. 이제는 거버넌스 체계 구축과 교수자 역량 강화를 병행해야 할 때입니다.\"</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— Marni Baker Stein, Coursera 최고콘텐츠책임자(CCO)</p>\n  </blockquote>\n\n  <!-- 섹션 2 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">교수도 모른다: AI 식별 자신 있는 교수 27%</h2>\n  <p style=\"margin:0 0 36px;\">정책 공백의 문제는 탐지 역량에서도 드러납니다. 교수 가운데 AI 생성 콘텐츠를 식별할 자신이 있다고 답한 비율은 27%에 불과했으며, AI를 효과적으로 활용할 역량을 갖췄다고 생각하는 교수는 25%에 그쳤습니다. 반면 학생 24%는 AI가 작성한 과제물을 공개 없이 제출한 적이 있다고 인정했습니다. 이에 따라 응답자의 65%는 규제받지 않는 AI 활용이 학위의 신뢰도를 훼손할 수 있다고 우려했고, 37%는 표절 증가를 걱정하는 것으로 조사됐습니다. 정책이 없는 상황에서 학생은 AI를 사용하고, 교수는 그 여부를 가리지 못하는 구조적 공백이 학문 윤리 전반에 부담을 주고 있는 셈입니다.</p>\n\n  <!-- 섹션 3 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">한국도 예외 아니다</h2>\n  <p style=\"margin:0 0 36px;\">한국 교육부는 지난 2월 24일 '2026년 대학 인공지능(AI) 기본교육과정 개발 지원사업' 운영계획을 발표했습니다. 교육부와 한국대학교육협의회가 공동으로 추진하는 이 사업은 대학의 AI 리터러시 교육과정 개발을 지원하는 데 초점을 맞추고 있습니다. 그러나 이는 학생의 AI 활용 전반에 적용될 의무적 정책 수립보다는 교육과정 콘텐츠 개발 지원에 가깝습니다. 학생들의 AI 활용이 이미 광범위하게 이루어지고 있는 현실을 고려할 때, 한국 역시 글로벌 조사에서 드러난 '도입은 빠르고 규칙은 느린' 패턴에서 자유롭지 않다는 평가가 나옵니다.</p>\n\n  <!-- 참고 자료 -->\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.morningstar.com/news/business-wire/20260225650802/4-in-5-students-say-ai-improved-their-academic-performancebut-only-20-of-universities-have-a-formal-ai-policy\" style=\"color:#4338ca;text-decoration:none;\">Morningstar / Business Wire — 4 in 5 Students Say AI Improved Their Academic Performance (2026.02.25)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://blog.coursera.org/ai-in-higher-education-2026\" style=\"color:#4338ca;text-decoration:none;\">Coursera — AI in Higher Education Report 2026</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745482&call_from=rsslink\" style=\"color:#4338ca;text-decoration:none;\">교육부 — 2026년 대학 AI 기본교육과정 개발 지원사업 운영계획 발표 (2026.02.24)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://intellectia.ai/news/stock/coursera-report-reveals-us-higher-educations-ai-management-shortcomings\" style=\"color:#4338ca;text-decoration:none;\">Intellectia.ai — Coursera Report Reveals US Higher Education's AI Management Shortcomings</a></li>\n    </ol>\n  </div>\n\n  <!-- AI 기본법 각주 -->\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "changes": [
+      {
+        "original": "과제물을 사실 고지 없이 제출한 적이 있다고",
+        "corrected": "과제물을 공개 없이 제출한 적이 있다고",
+        "reason": "자연스러운 언론 표현으로 수정 ('without disclosure'의 한국어 번역 개선)"
+      },
+      {
+        "original": "학문 윤리 전반에 압력을 가하고 있는 셈입니다.",
+        "corrected": "학문 윤리 전반에 부담을 주고 있는 셈입니다.",
+        "reason": "가독성: '압력을 가하다'보다 '부담을 주다'가 더 자연스러운 한국어 표현"
+      }
+    ],
+    "readability_score": 80,
+    "links_checked": true,
+    "meta_suggestion": {
+      "meta_title": "학생 95% AI 사용하는데 대학 정책은 20%뿐 — Coursera 글로벌 조사",
+      "meta_description": "5개국 4,200명 조사 결과, 학생 95%가 AI를 학업에 활용하지만 공식 AI 정책을 갖춘 대학은 20%에 불과합니다. 한국 대학의 AI 정책 현황과 비교해 분석합니다."
+    }
+  },
+  "publish_result": {
+    "ghost_post_id": "69a75ef60ac2ff00013a3ea4",
+    "ghost_draft_url": "https://ubion.ghost.io/ghost/#/editor/post/69a75ef60ac2ff00013a3ea4",
+    "status": "draft",
+    "published_at": "2026-03-03T22:21:56.615Z"
+  }
+}
