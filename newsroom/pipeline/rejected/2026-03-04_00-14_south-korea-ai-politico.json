@@ -1,6 +1,6 @@
 {
   "id": "20260304001400-politico-sk-ai",
-  "stage": "fact-checked",
+  "stage": "rejected",
   "created_at": "2026-03-04T00:14:00+01:00",
   "priority": 2,
   "source": {
@@ -99,6 +99,12 @@
       "action": "verified",
       "timestamp": "2026-03-04T07:44:00+01:00",
       "note": "전체 신뢰도 74, FLAG. 핵심 플래그 3개: ① 퓨리서치 '이스라엘·한국 단 두 곳' 표현 과도 단순화 가능성(스웨덴 누락), ② 이재명 '세계 3대 AI 강국' 발언의 100일 기자회견 귀속 불확실, ③ Economics Observatory GDP $36,000 임계값 원문 미확인."
+    },
+    {
+      "agent": "editor-desk",
+      "action": "auto-rejected",
+      "timestamp": "2026-03-04T07:57:00+01:00",
+      "note": "FLAG verdict, confidence 74 < 75 — auto-rejected"
     }
   ],
   "fact_check_report": {

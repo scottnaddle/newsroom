@@ -1,0 +1,30 @@
+{
+  "stage": "drafted",
+  "source": {
+    "title": "호주 학교서 AI 챗봇이 학생 면접 — 교사들은 우려",
+    "url": "https://www.theguardian.com/australia-news/2026/feb/23/ai-chatbots-schools-education-australian-students-paper",
+    "source_name": "The Guardian",
+    "language": "en",
+    "relevance_score": 83,
+    "published_date": "2026-02-23",
+    "collected_at": "2026-03-03T17:17:56.252902"
+  },
+  "draft": {
+    "headline": "호주 학교, AI가 학생 과제 심문…표절 탐지 새 패러다임",
+    "subheadline": "제출 후 AI 챗봇이 내용 이해 확인…장애학생 AI 안경 활용도, 국가 파일럿 없으면 교육 격차 경고",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <div style=\"border-left:4px solid #059669;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">호주 일부 학교에서 학생이 과제를 제출하면 AI 챗봇이 직접 심문하는 새로운 평가 방식이 도입됐습니다. ChatGPT 출시 3년을 맞아 발표된 독립학교협회(ISA) 보고서는 AI 교육 격차를 막으려면 연방 정부의 국가 파일럿 프로그램이 필요하다고 경고했습니다.</p>\n  </div>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">과제 제출하면 AI가 묻는다…'Thinking Mode'</h2>\n  <p style=\"margin:0 0 36px;\">호주 애들레이드 힐스 소재 Hills Christian Community School이 도입한 'Thinking Mode'는 학생이 과제를 제출한 뒤 AI 챗봇이 내용 이해도를 묻는 양방향 대화를 진행하는 방식입니다. 단순히 결과물을 평가하는 것이 아니라, 학생이 정말 이해했는지를 실시간으로 확인합니다. 이 학교의 디지털 혁신 리더 Colleen O'Rourke는 \"AI는 교사와 학생의 협력자\"라는 철학을 바탕으로 도입했다고 설명합니다.</p>\n\n  <blockquote style=\"border-left:4px solid #059669;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">\"AI 도구는 훌륭한 수업을 증폭하는 데 사용됩니다. 인간적 요소를 잃으면 안 됩니다. AI는 교사와 학생 삼각 구도에서 협력자입니다.\"</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— Colleen O'Rourke, Hills Christian Community School 디지털 혁신 리더</p>\n  </blockquote>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">장애학생엔 Meta AI 안경…교실 소음 없이 수업 접근</h2>\n  <p style=\"margin:0 0 36px;\">같은 학교에서는 언어 장애 등을 가진 학생들이 내장 스피커가 달린 Meta AI 안경을 통해 수업 상황을 음성으로 설명받는 방식으로 수업을 듣습니다. 교실 분위기를 방해하지 않으면서도 장애학생의 수업 접근성을 높이는 사례로, AI가 교육 형평성에 기여하는 구체적 형태입니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">ISA 경고 \"국가 파일럿 없으면 2단계 교육 시스템\"</h2>\n  <p style=\"margin:0 0 36px;\">독립학교 호주(ISA)는 ChatGPT 출시 3년을 맞아 학교 AI 통합 현황 분석 보고서를 발표하며 연방 정부 개입을 촉구했습니다. AI 도입 능력이 학교마다 달라 자원이 풍부한 학교와 그렇지 않은 학교 사이에 '두 가지 속도의 시스템(two-speed system)'이 생길 수 있다는 경고입니다. 이 문제는 한국도 무관하지 않습니다. AI 교육 격차 해소를 위해 정부 주도의 균등한 접근 설계가 필요하다는 점에서 시사점이 있습니다.</p>\n\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.theguardian.com/australia-news/2026/feb/23/ai-chatbots-schools-education-australian-students-paper\" style=\"color:#4338ca;text-decoration:none;\">AI chatbots interrogate Australian students about their work — The Guardian</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://districtadministration.com/in-some-schools-chatbots-interrogate-students-about-their-work-but-the-ai-revolution-has-teachers-worried/\" style=\"color:#4338ca;text-decoration:none;\">In some schools, chatbots interrogate students — District Administration</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": ["AI교육", "평가혁신", "호주", "교육형평성", "장애학생"],
+    "references": [
+      { "num": 1, "url": "https://www.theguardian.com/australia-news/2026/feb/23/ai-chatbots-schools-education-australian-students-paper", "title": "AI chatbots interrogate Australian students about their work — The Guardian" },
+      { "num": 2, "url": "https://districtadministration.com/in-some-schools-chatbots-interrogate-students-about-their-work-but-the-ai-revolution-has-teachers-worried/", "title": "In some schools, chatbots interrogate students — District Administration" }
+    ],
+    "word_count": 780,
+    "article_type": "news"
+  },
+  "audit_log": [
+    { "agent": "source-collector-manual", "action": "sourced", "timestamp": "2026-03-03T17:17:56.252912" },
+    { "agent": "editor-desk", "action": "assigned", "timestamp": "2026-03-03T10:08:58+01:00", "note": "relevance_score 83 ≥ 75 — 자동 취재 배정" },
+    { "agent": "reporter", "action": "reported", "timestamp": "2026-03-03T13:03:00+01:00" },
+    { "agent": "writer", "action": "drafted", "timestamp": "2026-03-04T09:08:00+01:00" }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "stage": "fact-checked",
+  "stage": "published",
   "source": {
     "title": "미국 워싱턴주, AI 학생 감시·징계 금지 법안 의회 통과 추진",
     "url": "https://www.opb.org/article/2026/03/02/washington-lawmakers-gaurdrails-on-ai-detection-chatbots/",
@@ -83,6 +83,18 @@
       "action": "verified",
       "timestamp": "2026-03-04T07:44:00+01:00",
       "note": "전체 신뢰도 90, PASS. 7개 주장 모두 복수 신뢰 소스로 확인됨."
+    },
+    {
+      "agent": "editor-desk",
+      "action": "fast-track-approved",
+      "timestamp": "2026-03-04T07:57:00+01:00",
+      "note": "PASS verdict, confidence 90 ≥ 90 — 패스트트랙: copy-editor 생략, 즉시 07-copy-edited로 이동"
+    },
+    {
+      "agent": "publisher",
+      "action": "published-draft",
+      "timestamp": "2026-03-04T08:12:20.529Z",
+      "note": "Ghost post URL: https://ubion.ghost.io/ghost/#/editor/post/69a7e9642eb9520001fe7b61"
     }
   ],
   "fact_check_report": {
@@ -153,5 +165,11 @@
         "flagged": false
       }
     ]
+  },
+  "publish_result": {
+    "ghost_post_id": "69a7e9642eb9520001fe7b61",
+    "ghost_draft_url": "https://ubion.ghost.io/ghost/#/editor/post/69a7e9642eb9520001fe7b61",
+    "status": "published",
+    "published_at": "2026-03-04T08:12:20.529Z"
   }
 }

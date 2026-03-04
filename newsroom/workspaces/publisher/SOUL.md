@@ -163,7 +163,8 @@ Content-Type: application/json
 - `"featured"`: 고등교육 관련 기사면 `true`, 아니면 `false`
   - 판단 기준: 제목/태그에 대학·대학원·고등교육·university·college·higher education 등 포함 여부
 - `"tags"`: **반드시 `{"id": "69a7a9ed659ea80001153c13"}` (ai-edu 태그) 를 첫 번째로 포함**하고, 그 뒤에 copy_edit.ghost_tags의 문자열 태그들을 추가
-  - 예: `[{"id": "69a7a9ed659ea80001153c13"}, "AI교육", "교육정책", "에듀테크"]`
+  - 예: `[{"id": "69a7a9ed659ea80001153c13"}, "교육정책", "에듀테크"]`
+  - ⚠️ `"AI교육"` (공백 없음) 태그 사용 금지 — 반드시 ID로 지정하거나 `"AI 교육"` (공백 있음) 사용
   - ai-edu 태그 없이 발행하면 `/tag/ai-edu/` 메뉴에 노출되지 않음 — 절대 누락 금지
 - `"slug"`: 파이프라인 파일명에서 날짜 prefix(`YYYY-MM-DD_HH-MM_`) 제거한 나머지 영문 부분 사용
   - 예: `2026-03-04_10-58_edweek-1000-districts-ai-readiness-risk.json` → slug: `edweek-1000-districts-ai-readiness-risk`

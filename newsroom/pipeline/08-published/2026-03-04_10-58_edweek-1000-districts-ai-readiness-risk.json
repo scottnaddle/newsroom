@@ -1,5 +1,5 @@
 {
-  "stage": "copy-edited",
+  "stage": "published",
   "source": {
     "title": "미국 1,000개 학군 AI 실태 조사 — 준비도·위험 격차 첫 공개",
     "url": "https://www.edweek.org/events/webinar/ai-in-schools-what-1-000-districts-reveal-about-readiness-and-risk",
@@ -195,7 +195,22 @@
       "action": "fast-track-to-copy-edited",
       "timestamp": "2026-03-04T06:49:00+01:00",
       "note": "PASS 판정 신뢰도 91 (≥90) — 패스트트랙 적용. 헤드라인 확인: '미 1천개 학군 AI 조사: 사용 급증, 교육 공백' (20자, 30자↓ ✓). copy-editor 단계 건너뜀, 07-copy-edited/ 직행."
+    },
+    {
+      "agent": "publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T07:54:00+01:00",
+      "note": "Ghost published URL: https://ubion.ghost.io/edweek-1000-districts-ai-readiness-risk/"
     }
   ],
-  "desk_instructions": "미국 1,000개 학군 AI 실태 조사 보도. 핵심 각도: 준비도·위험 격차 — '금지 vs 허용' 이분법을 넘어 책임 있는 활용 방향. 가능하다면 한국 학교 AI 도입 현황과 비교 시각 포함."
+  "desk_instructions": "미국 1,000개 학군 AI 실태 조사 보도. 핵심 각도: 준비도·위험 격차 — '금지 vs 허용' 이분법을 넘어 책임 있는 활용 방향. 가능하다면 한국 학교 AI 도입 현황과 비교 시각 포함.",
+  "publish_result": {
+    "ghost_post_id": "69a7d7b1659ea80001153f7e",
+    "ghost_post_url": "https://ubion.ghost.io/edweek-1000-districts-ai-readiness-risk/",
+    "ghost_editor_url": "https://ubion.ghost.io/ghost/#/editor/post/69a7d7b1659ea80001153f7e",
+    "status": "published",
+    "published_at": "2026-03-04T06:56:49.000Z",
+    "feature_image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://ubion.ghost.io/content/images/2026/03/og-card-13.png"
+  }
 }

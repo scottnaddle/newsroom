@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Apple introduces MacBook Pro with all-new M5 Pro and M5 Max, delivering breakthrough pro performance and next-level on-device AI",
+    "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
+    "source_name": "Apple Newsroom",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Apple announced the new 14- and 16-inch MacBook Pro featuring the M5 Pro and M5 Max chips, delivering up to 4x AI performance over the previous generation and up to 8x over M1 models thanks to a Neural Accelerator in each GPU core. The chips also deliver up to 6.9x faster LLM prompt processing compared to M1 Pro models, enabling on-device AI workflows for developers and researchers. The new MacBook Pro is available for pre-order March 4 with general availability on March 11.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T06:59:00Z"
+  },
+  "digest": {
+    "headline": "애플 M5 Pro·Max 맥북 프로 출시… 온디바이스 AI 성능 전 세대比 4배",
+    "lead": "애플이 M5 Pro와 M5 Max 칩을 탑재한 14·16인치 맥북 프로를 발표했다. 새 칩은 전 세대 대비 AI 연산 성능이 최대 4배, M1 대비 최대 8배 향상됐으며 LLM 프롬프트 처리 속도도 M1 Pro보다 6.9배 빠르다. 3월 4일 사전 예약을 시작해 3월 11일 공식 출시된다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">애플이 M5 Pro와 M5 Max 칩을 탑재한 14·16인치 맥북 프로를 발표했다. 새 칩은 GPU 코어마다 신경 가속기(Neural Accelerator)를 내장해 전 세대 대비 AI 연산 성능이 최대 4배, M1 모델 대비 최대 8배 향상됐다. LLM 프롬프트 처리 속도도 M1 Pro보다 6.9배 빨라져 클라우드 없이 로컬 AI 워크플로를 구현할 수 있게 됐다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">애플 M5 Pro·Max 칩의 핵심 혁신은 각 GPU 코어에 별도 신경 가속기를 내장한 설계다. 이를 통해 대규모 언어 모델(LLM)을 클라우드가 아닌 기기 자체에서 고속 처리할 수 있게 됐다. 개발자와 연구자를 위한 '온디바이스 AI 워크플로'가 명실상부한 현실이 되며, 맥북 프로는 3월 4일부터 사전 예약, 3월 11일 정식 출시된다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">온디바이스 AI 처리 능력의 대폭 향상은 개인 정보 보호와 오프라인 AI 활용 가능성이라는 두 가지 측면에서 업계 패러다임을 바꿀 수 있다. 클라우드 의존도를 낮추면서도 강력한 AI 성능을 제공함으로써, 민감 데이터를 외부로 내보내지 않고 처리할 수 있는 환경이 마련된다. 경쟁사 역시 온디바이스 AI 성능 경쟁에 본격 돌입할 것으로 예상된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">M5 Pro·Max의 강력한 온디바이스 AI 성능은 교육 현장에서 인터넷 없이도 LLM 기반 맞춤형 학습 피드백을 구현할 수 있는 가능성을 열어준다. 특히 학생 데이터를 클라우드로 전송하지 않고 기기 내에서 처리할 수 있어, 개인정보 보호법을 준수하면서 AI 튜터링을 도입하려는 교육 기관에 매력적인 선택지가 될 수 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/\" style=\"color:#FF6B35;text-decoration:none;\">Apple Newsroom</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "애플 맥북 프로 M5 출시… 온디바이스 LLM 성능 6.9배 향상",
+    "meta_description": "애플 M5 Pro·Max 맥북 프로가 전 세대 대비 AI 성능을 최대 4배 끌어올렸다. 클라우드 없이 LLM을 로컬 처리하는 온디바이스 AI 시대가 열린다.",
+    "word_count": 490
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T06:59:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T08:36:00+01:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T07:39:28.316Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a7e1b02eb9520001fe7b26",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a7e1b02eb9520001fe7b26",
+    "public_url": "https://insight.ubion.global/aepeul-m5-pro-max-maegbug-peuro-culsi-ondibaiseu-ai-seongneung-jeon-sedaebi-4bae/",
+    "status": "published",
+    "published_at": "2026-03-04T07:39:28.000Z",
+    "feature_image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&h=630&fit=crop&q=85&auto=format"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "'The world is looking to you for clarity', UN chief tells AI experts",
+    "url": "https://news.un.org/en/story/2026/03/1167074",
+    "source_name": "UN News",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "UN Secretary-General António Guterres addressed the inaugural meeting of a new Independent International Scientific Panel on AI, urging 40 international experts to help close the 'AI knowledge gap.' The panel will provide independent scientific assessments of AI's impact on economies and societies, free from government or corporate influence. Guterres warned that with geopolitical tensions rising, the need for shared global understanding of safe and responsible AI 'could not be greater.'",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T06:59:00Z"
+  },
+  "digest": {
+    "headline": "UN, AI 독립 국제 과학 패널 출범… “AI 지식 격차 해소 시급”",
+    "lead": "유엔이 AI의 사회·경제적 영향을 독립적으로 평가하는 '국제 AI 과학 패널'을 공식 출범했다. 안토니우 구테흐스 유엔 사무총장은 40명의 전문가에게 정부·기업의 영향에서 자유로운 객관적 평가를 요청했다. 지정학적 긴장이 고조되는 상황에서 안전하고 책임 있는 AI에 대한 국제 공동 이해가 그 어느 때보다 절실하다고 강조했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">유엔이 AI의 사회·경제적 영향을 독립적으로 평가하는 '국제 AI 과학 패널'을 공식 출범했다. 안토니우 구테흐스 유엔 사무총장은 40명의 전문가에게 정부·기업의 영향에서 자유로운 객관적 평가를 요청하며, “세계가 여러분에게 명확한 답을 기대하고 있다”고 밝혔다. 지정학적 긴장이 고조되는 가운데 안전하고 책임 있는 AI에 대한 국제 공동 이해가 그 어느 때보다 중요하다고 강조했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">유엔 사무총장 구테흐스는 신설된 독립 국제 AI 과학 패널의 첫 회의에서 기조연설을 통해 'AI 지식 격차' 해소를 최우선 과제로 제시했다. 이 패널은 각국 정부나 기업의 압력 없이 AI가 경제·사회에 미치는 영향을 독립적으로 분석하는 임무를 맡는다. IPCC(기후 변화 패널)와 유사한 방식으로 운영될 예정이며, 40명의 국제 전문가로 구성됐다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 패널의 출범은 AI 거버넌스의 국제화 움직임이 본격화됐음을 의미한다. 미국·중국 등 강대국 간 AI 패권 경쟁이 심화되는 가운데, 유엔 주도의 독립적 과학 평가 체계는 중립적 기준점 역할을 할 것으로 기대된다. 각국 정부와 기업들은 향후 이 패널의 평가 결과를 AI 정책 및 규제 수립의 근거로 활용할 가능성이 높다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">유엔 AI 과학 패널이 향후 발표할 독립 평가 보고서는 교육용 AI 서비스의 안전성·신뢰성 기준을 마련하는 국제 근거로 활용될 수 있다. 에듀테크 기업과 교육 기관은 이 패널의 권고를 선제적으로 참고해 AI 교육 도구 도입 기준을 글로벌 표준에 맞춰 정비할 필요가 있으며, 국제 규범 변화에 민첩하게 대응하는 것이 경쟁력이 될 것이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://news.un.org/en/story/2026/03/1167074\" style=\"color:#FF6B35;text-decoration:none;\">UN News</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "research"
+    ],
+    "meta_title": "유엔 독립 AI 과학 패널 출범… 국제 AI 지식 격차 해소 나선다",
+    "meta_description": "유엔이 정부·기업에서 독립된 국제 AI 과학 패널을 출범했다. 40명의 전문가가 AI의 사회·경제적 영향을 객관적으로 평가한다.",
+    "word_count": 510
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T06:59:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T08:36:00+01:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T07:40:15.833Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a7e1df2eb9520001fe7b2e",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a7e1df2eb9520001fe7b2e",
+    "public_url": "https://insight.ubion.global/un-ai-dogrib-gugje-gwahag-paeneol-culbeom-ai-jisig-gyeogca-haeso-sigeub/",
+    "status": "published",
+    "published_at": "2026-03-04T07:40:15.000Z",
+    "feature_image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop&q=85&auto=format"
+  }
+}

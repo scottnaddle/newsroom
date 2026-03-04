@@ -1,5 +1,5 @@
 {
-  "stage": "fact-checked",
+  "stage": "published",
   "source": {
     "title": "필리핀 교육부 \"AI가 교실 정책보다 빠르게 확산\" — 인간 중심 AI 교육령 발표",
     "url": "https://newsinfo.inquirer.net/2187647/deped-issues-ai-guidelines-human-centered-approach-must-be-prioritized",
@@ -106,6 +106,18 @@
       "action": "verified",
       "timestamp": "2026-03-04T07:44:00+01:00",
       "note": "전체 신뢰도 94, PASS. 필리핀·베트남 관련 핵심 사실 모두 1차 공식 소스로 확인. 한국 가이드라인 발표 여부는 기사 자체에서도 미확인으로 명시."
+    },
+    {
+      "agent": "editor-desk",
+      "action": "fast-track-approved",
+      "timestamp": "2026-03-04T07:57:00+01:00",
+      "note": "PASS verdict, confidence 94 ≥ 90 — 패스트트랙: copy-editor 생략, 즉시 07-copy-edited로 이동"
+    },
+    {
+      "agent": "publisher",
+      "action": "published-draft",
+      "timestamp": "2026-03-04T08:12:21.549Z",
+      "note": "Ghost post URL: https://ubion.ghost.io/ghost/#/editor/post/69a7e9652eb9520001fe7b7e"
     }
   ],
   "fact_check_report": {
@@ -158,5 +170,11 @@
         "flagged": false
       }
     ]
+  },
+  "publish_result": {
+    "ghost_post_id": "69a7e9652eb9520001fe7b7e",
+    "ghost_draft_url": "https://ubion.ghost.io/ghost/#/editor/post/69a7e9652eb9520001fe7b7e",
+    "status": "published",
+    "published_at": "2026-03-04T08:12:21.549Z"
   }
 }

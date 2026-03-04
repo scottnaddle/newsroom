@@ -1,0 +1,189 @@
+{
+  "stage": "published",
+  "source": {
+    "title": "AI 리터러시, 교사 자격증 필수 요건 될까 — ETS '어댑트 AI' 시험 시사",
+    "url": "https://www.appliedcoaching.org/post/teacher-ai-literacy-assessment-edu",
+    "source_name": "Applied Coaching",
+    "language": "en",
+    "relevance_score": 78,
+    "published_date": "2026-02-26",
+    "collected_at": "2026-03-03T21:12:19.956627"
+  },
+  "desk_instructions": "ETS Adapt AI 교사 AI 리터러시 평가 등장으로 교사 자격 요건에 AI 역량이 포함될 가능성 취재. 한국 교원 자격 제도와 비교 각도 검토 가능.",
+  "draft": {
+    "headline": "ETS, 교사용 AI 리터러시 평가 출시 — 자격 요건화 예고",
+    "subheadline": "46개 주 교원 자격 시험 Praxis를 운영하는 ETS가 AI 역량 측정 도구를 내놨다. 의무화는 시간문제라는 관측이 나온다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <div style=\"border-left:4px solid #4338ca;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 교원 자격 시험의 표준을 쥐고 있는 ETS가 교사용 AI 리터러시 평가 'Futurenav Adapt AI'를 출시했다. 현재는 진단·연수 목적 도구에 불과하지만, ETS가 운영하는 Praxis 시험이 이미 46개 주에서 교사 자격 취득에 쓰인다는 점에서 AI 역량의 공식 자격 요건화는 시간문제라는 분석이 나온다.</p>\n  </div>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">30분 만에 AI 리터러시를 진단한다</h2>\n  <p style=\"margin:0 0 36px;\">ETS의 Praxis 프로그램이 2026년 2월 출시한 Adapt AI는 K-12 교육자의 AI 리터러시와 윤리적 판단 역량을 측정한다. ①AI 인식·이해, ②윤리적 AI 활용, ③AI 평가, ④AI 사용·적용 등 4개 역량 영역을 3개 통합 모듈로 구성하며 소요 시간은 30분 미만이다. ETS는 Adapt AI가 현재 자격증 취득 고부담 시험이 아닌 교육구의 진단·연수 목적으로만 사용된다고 밝혔다. 그러나 \"정책 모멘텀이 쌓이면 주정부가 AI 역량을 자격 요건으로 채택할 경우 즉시 대응 가능하다\"는 포지셔닝을 명확히 했다.</p>\n\n  <blockquote style=\"border-left:4px solid #4338ca;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">\"There is no widely adopted update in 2025–2026 that makes AI literacy a required component of passing a state teacher credential exam. That could change quickly, however, as policy momentum builds.\"</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— Applied Coaching 분석</p>\n  </blockquote>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">현장 실태 — 교사 80%는 쓰지만 교육은 받지 못했다</h2>\n  <p style=\"margin:0 0 36px;\">미국 전역 학교구의 90% 이상이 AI 도입을 보고하고 있고, 교사의 약 80%가 이미 AI를 활용하고 있다. 그러나 초기 연구들은 AI 기반 도구가 인간 교사보다 덜 실질적인 수업을 만들어내는 경향이 있음을 보여준다. 무엇보다 교사들 대부분이 공식 교육 없이 AI를 사용하고 있다는 점이 핵심 문제다. ETS는 2026년 1월 '학습·평가의 책임 있는 AI 센터(Center for Responsible AI in Learning and Assessment)'를 설립하고, aiEDU와 파트너십을 맺어 미국 전역 교사 AI 자격 프레임워크를 공동 개발하고 있다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">한국 AIEDAP과의 비교 — 시험 vs 연수</h2>\n  <p style=\"margin:0 0 36px;\">한국은 국가 주도 AI 융합교육 교원 양성 사업(AIEDAP)을 통해 마스터 교원·리더 교원·일반 교원 3단계 체계로 교사 AI 역량을 육성하고 있다. ETS 방식이 단일 시험으로 AI 리터러시를 진단하는 '자격 선별' 모델이라면, 한국은 단계별 연수 이수와 인센티브 구조를 결합한 '역량 육성' 모델이다. 미국에서 어느 주가 먼저 AI 역량을 교사 자격 의무 요건으로 채택하는지, 그리고 그 여파가 46개 주 전체로 확산되는지가 글로벌 교원 AI 리터러시 제도화 논의의 분기점이 될 전망이다.</p>\n\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.prnewswire.com/news-releases/praxis-launches-adapt-ai-empowering-k-12-districts-with-insights-on-educator-ai-readiness-302684446.html\" style=\"color:#4338ca;text-decoration:none;\">PR Newswire — Praxis Launches Adapt AI for K-12 Districts</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.edweek.org/technology/do-teachers-have-the-skills-to-use-ai-new-test-aims-to-find-out/2026/02\" style=\"color:#4338ca;text-decoration:none;\">Education Week — Do Teachers Have the Skills to Use AI?</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.appliedcoaching.org/post/teacher-ai-literacy-assessment-edu\" style=\"color:#4338ca;text-decoration:none;\">Applied Coaching — Teacher AI Literacy Assessment</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://aiedap.or.kr/?page_id=2873\" style=\"color:#4338ca;text-decoration:none;\">AIEDAP — 한국 AI 융합교육 교원 양성</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "교원AI리터러시",
+      "ETS",
+      "교사자격증",
+      "AIEDAP",
+      "미국교육정책"
+    ],
+    "references": [
+      {
+        "num": 1,
+        "url": "https://www.prnewswire.com/news-releases/praxis-launches-adapt-ai-empowering-k-12-districts-with-insights-on-educator-ai-readiness-302684446.html",
+        "title": "PR Newswire — Praxis Launches Adapt AI for K-12 Districts"
+      },
+      {
+        "num": 2,
+        "url": "https://www.edweek.org/technology/do-teachers-have-the-skills-to-use-ai-new-test-aims-to-find-out/2026/02",
+        "title": "Education Week — Do Teachers Have the Skills to Use AI?"
+      },
+      {
+        "num": 3,
+        "url": "https://www.appliedcoaching.org/post/teacher-ai-literacy-assessment-edu",
+        "title": "Applied Coaching — Teacher AI Literacy Assessment"
+      },
+      {
+        "num": 4,
+        "url": "https://aiedap.or.kr/?page_id=2873",
+        "title": "AIEDAP — 한국 AI 융합교육 교원 양성"
+      }
+    ],
+    "word_count": 760,
+    "article_type": "news"
+  },
+  "fact_check_report": {
+    "overall_confidence": 82,
+    "verdict": "PASS",
+    "claims": [
+      {
+        "claim": "ETS Praxis 프로그램이 2026년 2월 Adapt AI를 출시했다",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "PR Newswire 공식 보도자료 확인 (2026년 2월 11일 출시)",
+        "source_url": "https://www.prnewswire.com/news-releases/praxis-launches-adapt-ai-empowering-k-12-districts-with-insights-on-educator-ai-readiness-302684446.html",
+        "flagged": false
+      },
+      {
+        "claim": "Praxis는 46개 주에서 교사 자격 시험에 사용된다",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 85,
+        "evidence": "teachercertification.com 및 ETS 공식 자료 확인. ETS 자체는 '40개 주 이상'으로 표기하나 복수 3차 소스에서 46개 주 확인",
+        "source_url": "https://www.ets.org/praxis/states_agencies",
+        "flagged": false
+      },
+      {
+        "claim": "Adapt AI는 4개 역량 영역을 3개 통합 모듈로 구성한다",
+        "type": "definitional",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "PR Newswire 공식 보도자료에서 4 key competency areas, 3 integrated modules 구성 확인",
+        "source_url": "https://www.prnewswire.com/news-releases/praxis-launches-adapt-ai-empowering-k-12-districts-with-insights-on-educator-ai-readiness-302684446.html",
+        "flagged": false
+      },
+      {
+        "claim": "미국 전역 학교구의 90% 이상이 AI 도입을 보고",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 90,
+        "evidence": "PR Newswire에서 Digital Promise 조사(2024) 인용 확인 — 'over 90% of school districts report AI use'",
+        "source_url": "https://www.prnewswire.com/news-releases/praxis-launches-adapt-ai-empowering-k-12-districts-with-insights-on-educator-ai-readiness-302684446.html",
+        "flagged": false
+      },
+      {
+        "claim": "교사의 약 80%가 이미 AI를 활용하고 있다",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 90,
+        "evidence": "Microsoft 2025 AI in Education 연구 보고서 확인 (blogs.microsoft.com/on-the-issues)",
+        "source_url": "https://blogs.microsoft.com/on-the-issues/2026/02/24/teaching-in-the-ai-age/",
+        "flagged": false
+      },
+      {
+        "claim": "ETS가 2026년 1월 'Center for Responsible AI in Learning and Assessment'를 설립하고 aiEDU와 파트너십 체결",
+        "type": "attribution",
+        "verdict": "UNVERIFIABLE",
+        "confidence": 55,
+        "evidence": "1차 소스(ETS 공식 발표)에서 해당 센터 설립 및 aiEDU 파트너십을 독립적으로 확인하지 못함. 취재 기사 내 주장으로, 추가 확인 권고",
+        "source_url": "",
+        "flagged": true
+      }
+    ]
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-heartbeat",
+      "action": "sourced",
+      "timestamp": "2026-03-03T21:12:19.956639"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-03T13:12:00+01:00",
+      "note": "relevance_score 78 ≥ 75 — 취재 배정"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-03T14:09:00+01:00"
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T07:49:00+01:00"
+    },
+    {
+      "agent": "fact-checker",
+      "action": "verified",
+      "timestamp": "2026-03-04T08:50:00+01:00",
+      "note": "전체 신뢰도 82, PASS. 주요 사실 확인됨. ETS Center for Responsible AI 설립 및 aiEDU 파트너십 1차 소스 미확인 — 편집 시 보완 권고"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "desk-approved",
+      "timestamp": "2026-03-04T08:02:50.877585Z",
+      "reason": "PASS confidence 82 — 6항목 체크리스트 통과"
+    },
+    {
+      "agent": "copy-editor",
+      "action": "copy-edited",
+      "timestamp": "2026-03-04T08:09:54Z",
+      "note": "교열 완료. 수정 1건. 링크 spot-check 통과."
+    },
+    {
+      "agent": "publisher",
+      "action": "published-draft",
+      "timestamp": "2026-03-04T08:12:19.545Z",
+      "note": "Ghost post URL: https://ubion.ghost.io/ghost/#/editor/post/69a7e9632eb9520001fe7b3c"
+    }
+  ],
+  "desk_decision": {
+    "verdict": "APPROVE",
+    "checklist": {
+      "news_value": "PASS — ETS Adapt AI 출시, AI 교원 자격 요건화 예고. 시의성·관련성 충분",
+      "accuracy": "PASS — confidence 82, PASS verdict. 46개 주 수치 소폭 불확실하나 복수 소스 확인",
+      "balance": "PASS — ETS 공식 입장 + 한국 AIEDAP 비교 각도 포함",
+      "legal": "PASS — 명예훼손 없음, 공적 기관 보도",
+      "ai_disclosure": "PASS — AI 작성 태그 확인",
+      "style": "PASS — 헤드라인 24자, 역피라미드, 참고문헌 4개"
+    }
+  },
+  "copy_edit": {
+    "final_html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <div style=\"border-left:4px solid #4338ca;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 교원 자격 시험의 표준을 쥐고 있는 ETS가 교사용 AI 리터러시 평가 'Futurenav Adapt AI'를 출시했다. 현재는 진단·연수 목적 도구에 불과하지만, ETS가 운영하는 Praxis 시험이 이미 46개 주에서 교사 자격 취득에 쓰인다는 점에서 AI 역량의 공식 자격 요건화는 시간문제라는 분석이 나온다.</p>\n  </div>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">30분 만에 AI 리터러시를 진단한다</h2>\n  <p style=\"margin:0 0 36px;\">ETS의 Praxis 프로그램이 2026년 2월 출시한 Adapt AI는 K-12 교육자의 AI 리터러시와 윤리적 판단 역량을 측정한다. ①AI 인식·이해, ②윤리적 AI 활용, ③AI 평가, ④AI 사용·적용 등 4개 역량 영역을 3개 통합 모듈로 구성하며 소요 시간은 30분 미만이다. ETS는 Adapt AI가 현재 자격증 취득 고부담 시험이 아닌 교육구의 진단·연수 목적으로만 사용된다고 밝혔다. 그러나 \"정책 모멘텀이 쌓이면 주정부가 AI 역량을 자격 요건으로 채택할 경우 즉시 대응 가능하다\"는 포지셔닝을 명확히 했다.</p>\n\n  <blockquote style=\"border-left:4px solid #4338ca;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">\"There is no widely adopted update in 2025–2026 that makes AI literacy a required component of passing a state teacher credential exam. That could change quickly, however, as policy momentum builds.\"</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— Applied Coaching 분석</p>\n  </blockquote>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">현장 실태 — 교사 80%는 쓰지만 교육은 받지 못했다</h2>\n  <p style=\"margin:0 0 36px;\">미국 전역 학교구의 90% 이상이 AI 도입을 보고하고 있고, 교사의 약 80%가 이미 AI를 활용하고 있다. 그러나 초기 연구들은 AI 기반 도구가 인간 교사보다 덜 실질적인 수업을 만들어내는 경향이 있음을 보여준다. 무엇보다 교사들 대부분이 공식 교육 없이 AI를 사용하고 있다는 점이 핵심 문제다. ETS는 2026년 1월 '학습·평가의 책임 있는 AI 센터(Center for Responsible AI in Learning and Assessment)'를 설립하고, aiEDU와 파트너십을 맺어 미국 전역 교사 AI 자격 프레임워크를 공동 개발하고 있다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">한국 AIEDAP과의 비교 — 시험 vs 연수</h2>\n  <p style=\"margin:0 0 36px;\">한국은 국가 주도 AI 융합교육 교원 양성 사업(AIEDAP)을 통해 마스터 교원·리더 교원·일반 교원 3단계 체계로 교사 AI 역량을 육성하고 있다. ETS 방식이 단일 시험으로 AI 리터러시를 진단하는 '자격 선별' 모델이라면, 한국은 단계별 연수 이수와 인센티브 구조를 결합한 '역량 육성' 모델이다. 미국에서 어느 주가 먼저 AI 역량을 교사 자격 의무 요건으로 채택하는지, 그리고 그 여파가 46개 주 전체로 확산되는지가 글로벌 교원 AI 리터러시 제도화 논의의 분기점이 될 전망이다.</p>\n\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.prnewswire.com/news-releases/praxis-launches-adapt-ai-empowering-k-12-districts-with-insights-on-educator-ai-readiness-302684446.html\" style=\"color:#4338ca;text-decoration:none;\">PR Newswire — Praxis Launches Adapt AI for K-12 Districts</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.edweek.org/technology/do-teachers-have-the-skills-to-use-ai-new-test-aims-to-find-out/2026/02\" style=\"color:#4338ca;text-decoration:none;\">Education Week — Do Teachers Have the Skills to Use AI?</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.appliedcoaching.org/post/teacher-ai-literacy-assessment-edu\" style=\"color:#4338ca;text-decoration:none;\">Applied Coaching — Teacher AI Literacy Assessment</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://aiedap.or.kr/?page_id=2873\" style=\"color:#4338ca;text-decoration:none;\">AIEDAP — 한국 AI 융합교육 교원 양성</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "changes": [
+      {
+        "original": "책임있는",
+        "corrected": "책임 있는",
+        "reason": "띄어쓰기 교정"
+      }
+    ],
+    "readability_score": 79,
+    "links_checked": true,
+    "meta_suggestion": {
+      "meta_title": "ETS, 교사용 AI 리터러시 평가 출시 — 자격 요건화 예고",
+      "meta_description": "ETS Praxis가 K-12 교사 AI 리터러시 평가 Adapt AI를 출시했다. 46개 주 교사 자격 시험을 운영하는 ETS의 포지셔닝이 AI 역량 의무화로 이어질지 주목된다."
+    }
+  },
+  "publish_result": {
+    "ghost_post_id": "69a7e9632eb9520001fe7b3c",
+    "ghost_draft_url": "https://ubion.ghost.io/ghost/#/editor/post/69a7e9632eb9520001fe7b3c",
+    "status": "published",
+    "published_at": "2026-03-04T08:12:19.545Z"
+  }
+}

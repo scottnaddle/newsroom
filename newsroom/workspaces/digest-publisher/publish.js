@@ -1,61 +1,85 @@
-const crypto = require('crypto');
-const https = require('https');
+#!/usr/bin/env node
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
+const https = require('https');
+
+const { getFeatureImageUrl } = require('/root/.openclaw/workspace/newsroom/scripts/get-feature-image.js');
 
 const DRAFTED_DIR = '/root/.openclaw/workspace/newsroom/pipeline/digest/02-drafted';
 const PUBLISHED_DIR = '/root/.openclaw/workspace/newsroom/pipeline/digest/03-published';
-const API_KEY = '69a41252e9865e00011c166a:e74e50ce3e6c097ad370d5370633ccbc2a3e3c0627d7ce1fc12a81b4e6b01625';
-const TAG_ID = '69a78cc8659ea80001153beb';
-const { getFeatureImageUrl } = require('/root/.openclaw/workspace/newsroom/scripts/get-feature-image.js');
 const USED_IMAGES_FILE = '/root/.openclaw/workspace/newsroom/shared/config/used-images.json';
+const GHOST_URL = 'https://ubion.ghost.io';
+const API_KEY = '69a41252e9865e00011c166a:e74e50ce3e6c097ad370d5370633ccbc2a3e3c0627d7ce1fc12a81b4e6b01625';
+const TAG_ID_AI_DIGEST = '69a78cc8659ea80001153beb';
 
-const [kid, secret] = API_KEY.split(':');
-
-function makeToken() {
-  const h = Buffer.from(JSON.stringify({alg:'HS256',typ:'JWT',kid})).toString('base64url');
-  const now = Math.floor(Date.now()/1000);
-  const p = Buffer.from(JSON.stringify({iat:now,exp:now+300,aud:'/admin/'})).toString('base64url');
-  const sig = crypto.createHmac('sha256',Buffer.from(secret,'hex')).update(h+'.'+p).digest('base64url');
-  return h+'.'+p+'.'+sig;
+// JWT 생성
+function makeJWT() {
+  const [kid, secret] = API_KEY.split(':');
+  const h = Buffer.from(JSON.stringify({ alg: 'HS256', typ: 'JWT', kid })).toString('base64url');
+  const now = Math.floor(Date.now() / 1000);
+  const p = Buffer.from(JSON.stringify({ iat: now, exp: now + 300, aud: '/admin/' })).toString('base64url');
+  const sig = crypto.createHmac('sha256', Buffer.from(secret, 'hex')).update(h + '.' + p).digest('base64url');
+  return `${h}.${p}.${sig}`;
 }
 
-function postToGhost(postData) {
+// Ghost API POST
+function ghostPost(payload, retries = 3) {
   return new Promise((resolve, reject) => {
-    const token = makeToken();
-    const body = JSON.stringify({ posts: [postData] });
+    const token = makeJWT();
+    const body = JSON.stringify(payload);
+    const url = new URL(`${GHOST_URL}/ghost/api/admin/posts/?source=html`);
+
     const options = {
-      hostname: 'ubion.ghost.io',
-      path: '/ghost/api/admin/posts/?source=html',
+      hostname: url.hostname,
+      path: url.pathname + url.search,
       method: 'POST',
       headers: {
+        'Authorization': `Ghost ${token}`,
         'Content-Type': 'application/json',
-        'Authorization': 'Ghost ' + token,
-        'Content-Length': Buffer.byteLength(body)
-      }
+        'Content-Length': Buffer.byteLength(body),
+      },
     };
+
     const req = https.request(options, (res) => {
       let data = '';
-      res.on('data', d => data += d);
+      res.on('data', chunk => data += chunk);
       res.on('end', () => {
-        try { resolve({ status: res.statusCode, body: JSON.parse(data) }); }
-        catch(e) { resolve({ status: res.statusCode, body: data }); }
+        if (res.statusCode >= 200 && res.statusCode < 300) {
+          resolve(JSON.parse(data));
+        } else {
+          reject(new Error(`HTTP ${res.statusCode}: ${data}`));
+        }
       });
     });
+
     req.on('error', reject);
     req.write(body);
     req.end();
   });
 }
 
-async function publishWithRetry(postData, maxRetries = 3) {
-  for (let i = 0; i < maxRetries; i++) {
-    const res = await postToGhost(postData);
-    if (res.status === 201) return res;
-    console.error(`Attempt ${i+1} failed (${res.status}), retrying...`);
-    if (i < maxRetries - 1) await new Promise(r => setTimeout(r, 5000));
+async function publishWithRetry(payload, retries = 3) {
+  for (let i = 0; i < retries; i++) {
+    try {
+      return await ghostPost(payload);
+    } catch (err) {
+      if (i < retries - 1) {
+        console.error(`  재시도 ${i + 1}/${retries - 1}... (${err.message})`);
+        await new Promise(r => setTimeout(r, 5000));
+      } else {
+        throw err;
+      }
+    }
   }
-  return null;
+}
+
+// 태그 이름 → {name} 객체 (ai-digest는 ID로)
+function buildTags(ghostTags) {
+  return ghostTags.map(tag => {
+    if (tag === 'ai-digest') return { id: TAG_ID_AI_DIGEST };
+    return { name: tag };
+  });
 }
 
 async function main() {
@@ -63,81 +87,97 @@ async function main() {
 
   const files = fs.readdirSync(DRAFTED_DIR).filter(f => f.endsWith('.json'));
   if (files.length === 0) {
-    console.log('NO_FILES');
-    return;
+    console.log('02-drafted/ 파일 없음. 종료.');
+    process.exit(0);
   }
 
-  const published = [];
-  const failed = [];
+  const results = [];
 
   for (const filename of files) {
-    const filePath = path.join(DRAFTED_DIR, filename);
-    const articleData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-    const d = articleData.digest;
+    const filepath = path.join(DRAFTED_DIR, filename);
+    const article = JSON.parse(fs.readFileSync(filepath, 'utf8'));
+    const { headline, html, ghost_tags, meta_title, meta_description } = article.digest;
 
+    console.log(`\n📰 발행 중: ${headline}`);
+
+    // 피처 이미지 선택
     const featureImage = getFeatureImageUrl({
-      headline: d.headline,
-      tags: d.ghost_tags,
-      recentIdsFile: USED_IMAGES_FILE
+      headline,
+      tags: ghost_tags,
+      recentIdsFile: USED_IMAGES_FILE,
     });
+    console.log(`  🖼  Feature: ${featureImage}`);
 
-    const tags = [{ id: TAG_ID }];
-    for (const t of d.ghost_tags) {
-      if (t !== 'ai-digest') tags.push({ name: t });
-    }
-
-    const postData = {
-      title: d.headline,
-      html: d.html,
-      status: 'published',
-      featured: false,
-      tags,
-      meta_title: d.meta_title,
-      meta_description: d.meta_description,
-      feature_image: featureImage,
-      codeinjection_foot: ''
+    // Ghost 페이로드
+    const payload = {
+      posts: [{
+        title: headline,
+        html,
+        status: 'published',
+        featured: false,
+        tags: buildTags(ghost_tags),
+        meta_title,
+        meta_description,
+        feature_image: featureImage,
+        codeinjection_foot: '',
+      }],
     };
 
-    console.error(`Publishing: ${d.headline}`);
-    const res = await publishWithRetry(postData);
-
-    if (res && res.status === 201) {
-      const post = res.body.posts[0];
-      const now = new Date().toISOString();
-
-      articleData.stage = 'published';
-      articleData.publish_result = {
-        ghost_post_id: post.id,
-        ghost_url: `https://ubion.ghost.io/ghost/#/editor/post/${post.id}`,
-        public_url: post.url,
-        status: 'published',
-        published_at: now
-      };
-      articleData.audit_log = [
-        ...(articleData.audit_log || []),
-        { agent: 'digest-publisher', action: 'published', timestamp: now }
-      ];
-
-      const outPath = path.join(PUBLISHED_DIR, filename);
-      fs.writeFileSync(outPath, JSON.stringify(articleData, null, 2));
-      fs.unlinkSync(filePath);
-
-      published.push({ title: d.headline, url: post.url });
-      console.log(`OK: ${d.headline} => ${post.url}`);
-    } else {
-      console.error(`FAILED: ${filename}`);
-      failed.push(filename);
+    let result;
+    try {
+      result = await publishWithRetry(payload);
+    } catch (err) {
+      console.error(`  ❌ 발행 실패: ${err.message}`);
+      // rejected/ 이동
+      const rejDir = '/root/.openclaw/workspace/newsroom/pipeline/digest/rejected';
+      fs.mkdirSync(rejDir, { recursive: true });
+      article.stage = 'rejected';
+      article.error = err.message;
+      article.audit_log.push({ agent: 'digest-publisher', action: 'rejected', timestamp: new Date().toISOString() });
+      fs.writeFileSync(path.join(rejDir, filename), JSON.stringify(article, null, 2));
+      fs.unlinkSync(filepath);
+      continue;
     }
+
+    const post = result.posts[0];
+    const publishedAt = post.published_at || new Date().toISOString();
+    const publicUrl = post.url || `${GHOST_URL}/${post.slug}/`;
+    const editorUrl = `${GHOST_URL}/ghost/#/editor/post/${post.id}`;
+
+    console.log(`  ✅ 발행 완료: ${publicUrl}`);
+
+    // 결과 파일 저장
+    const published = {
+      ...article,
+      stage: 'published',
+      publish_result: {
+        ghost_post_id: post.id,
+        ghost_url: editorUrl,
+        public_url: publicUrl,
+        status: 'published',
+        published_at: publishedAt,
+        feature_image: featureImage,
+      },
+      audit_log: [
+        ...article.audit_log,
+        { agent: 'digest-publisher', action: 'published', timestamp: new Date().toISOString() },
+      ],
+    };
+
+    fs.writeFileSync(path.join(PUBLISHED_DIR, filename), JSON.stringify(published, null, 2));
+    fs.unlinkSync(filepath);
+
+    results.push({ headline, publicUrl });
   }
 
-  console.log('\n=== RESULT ===');
-  for (const p of published) {
-    console.log(`✅ ${p.title}`);
-    console.log(`   ${p.url}`);
-  }
-  if (failed.length > 0) {
-    console.log(`\n❌ Failed: ${failed.join(', ')}`);
+  console.log('\n\n===== 발행 완료 =====');
+  for (const r of results) {
+    console.log(`• ${r.headline}`);
+    console.log(`  ${r.publicUrl}`);
   }
 }
 
-main().catch(e => { console.error(e); process.exit(1); });
+main().catch(err => {
+  console.error('Fatal:', err);
+  process.exit(1);
+});
