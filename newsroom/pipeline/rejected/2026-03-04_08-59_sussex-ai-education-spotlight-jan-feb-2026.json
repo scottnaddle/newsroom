@@ -1,5 +1,5 @@
 {
-  "stage": "revision-required",
+  "stage": "rejected",
   "source": {
     "title": "영국 서섹스대, 1~2월 AI 교육 동향 정리 — 3월 교수법 커뮤니티 행사도",
     "url": "https://blogs.sussex.ac.uk/tel/2026/03/01/spotlight-on-ai-in-education-january-and-february-2026/",
@@ -141,14 +141,14 @@
         "flagged": false
       },
       {
-        "claim": "2026년 8월부터 EU AI법의 AI 리터러시 의무 조항이 적용 예정",
+        "claim": "2026년 8월부터 EU AI법의 AI 리터러시 의무 조항이 적용 예정 (헤드라인·본문 공통)",
         "type": "temporal",
         "verdict": "REFUTED",
         "confidence": 30,
-        "evidence": "EU 집행위원회 공식 확인: AI 리터러시 의무(Article 4)는 이미 2025년 2월 2일부터 발효됨. 2026년 8월(정확히는 3 August 2026)은 감독·집행 규정(supervision and enforcement rules) 적용 시점임. 기사 본문의 '2026년 8월부터 발효 예정'은 오해를 유발하는 부정확한 표현.",
+        "evidence": "EU 집행위원회 공식 FAQ 재확인(2026-03-04): 'Article 4 of the AI Act entered into application on 2 February 2025, therefore the obligation to take measures to ensure AI literacy of their staff already applies. The supervision and enforcement rules apply from 3 August 2026 onwards.' — 즉 의무 자체는 2025-02-02 이미 발효. 2026-08-03은 감독·집행 규정 적용 시점임. 기사 헤드라인 '…EU법 8월 발효'와 본문 '2026년 8월부터 공식 발효될 예정'은 사실 오류.",
         "source_url": "https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers",
         "flagged": true,
-        "correction_note": "수정 필요: 'EU AI법 AI 리터러시 의무 조항은 이미 2025년 2월 2일(Article 4 발효일)부터 적용되고 있음. 2026년 8월(3일)은 해당 의무의 감독·집행 규정이 발효되는 시점. 기사 내 \"2026년 8월부터 공식 발효\"는 사실과 다름 — 이미 의무는 존재함.'"
+        "correction_note": "⚠️ 2차 검토에서도 동일 오류 잔존. 수정 미적용 확인. 헤드라인 → '…EU AI법 집행 8월 본격화' 등으로 교체 필요. 본문 → 'EU AI법 Article 4(AI 리터러시 의무)는 이미 2025년 2월 2일 발효됐으며, 2026년 8월 3일부터는 해당 의무에 대한 감독·집행 규정이 본격 적용됩니다'로 수정 필요."
       },
       {
         "claim": "Tom Chatfield 기술철학자 백서 'AI and The Future of Pedagogy'(2025년 말 발표, SAGE)",
@@ -212,6 +212,18 @@
       "action": "revise",
       "timestamp": "2026-03-04T04:37:00+01:00",
       "note": "FLAG(신뢰도 78) — REFUTED 주장 직접 검토. EU AI법 리터러시 의무 발효 시점 오류 확인(헤드라인+본문). REVISE 결정. revision_count=1."
+    },
+    {
+      "agent": "fact-checker",
+      "action": "re-verified",
+      "timestamp": "2026-03-04T06:38:00+01:00",
+      "note": "⚠️ 2차 팩트체크(revision_count=1). 전체 신뢰도 78, FLAG 유지. REVISE 결정 이후 수정 미적용 확인 — EU AI법 발효 시점 오류(헤드라인+본문 섹션4) 그대로 잔존. 에디터 데스크 에스컬레이션 필요."
+    },
+    {
+      "agent": "editor-desk",
+      "action": "kill",
+      "timestamp": "2026-03-04T06:49:00+01:00",
+      "note": "FLAG(신뢰도 78), revision_count=1. 핵심 팩트 오류(EU AI법 리터러시 의무 발효 시점 — Article 4는 2025-02-02 이미 발효, 2026-08은 감독·집행 규정 시점)가 1차 REVISE 후 2차 팩트체크에서도 수정 미적용으로 확인. 헤드라인 및 본문 섹션4 오류 잔존. 2회 연속 미수정 — 신뢰할 수 없는 초안으로 판단, KILL 처리. 사유: '팩트체크 지적 사항 2회 연속 미수정, 핵심 사실 오류(EU AI Act Article 4 발효 시점 오류)'"
     }
   ],
   "revision_count": 1,
@@ -224,5 +236,6 @@
       "서브헤드라인 및 기타 관련 표현 전수 검토 후 통일"
     ],
     "corrections_source": "https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers"
-  }
+  },
+  "kill_reason": "팩트체크 지적 사항 2회 연속 미수정 — EU AI법 리터러시 의무 발효 시점 오류(헤드라인+본문) 반복 잔존"
 }

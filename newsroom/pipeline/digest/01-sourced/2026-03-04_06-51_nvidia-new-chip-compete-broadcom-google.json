@@ -1,0 +1,17 @@
+{
+  "stage": "sourced",
+  "pipeline": "digest",
+  "source": {
+    "title": "Nvidia Preparing New Chip to Outclass Broadcom and Google",
+    "url": "https://247wallst.com/investing/2026/03/03/jim-cramer-says-nvidia-is-preparing-a-new-chip-to-outclass-broadcom-and-google/",
+    "source_name": "247 Wall St.",
+    "language": "en",
+    "relevance_score": 72,
+    "summary": "Reports indicate Nvidia is preparing to announce a new AI semiconductor chip designed to compete with custom chips from Broadcom and Google. Several longtime Nvidia customers have been evaluating alternatives, prompting Nvidia to accelerate its next-generation chip roadmap.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T06:51:00+01:00"
+  },
+  "audit_log": [
+    {"agent": "digest-collector", "action": "sourced", "timestamp": "2026-03-04T06:51:00+01:00"}
+  ]
+}

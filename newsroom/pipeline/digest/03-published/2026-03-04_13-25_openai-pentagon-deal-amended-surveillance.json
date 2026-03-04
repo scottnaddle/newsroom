@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "OpenAI, 국방부 AI 계약 수정 — 대량 감시 방지 조항 추가",
+    "url": "https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html",
+    "source_name": "New York Times",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "비판 여론 속 OpenAI, 미 국방부와의 AI 계약 수정. 기밀 시스템에 AI 기술 제공하되 미국 시민 대량 감시에 사용되지 않도록 추가 보호 조항 삽입.",
+    "published_date": "2026-03-02",
+    "collected_at": "2026-03-04T13:25:46.101737"
+  },
+  "digest": {
+    "headline": "OpenAI, 국방부 AI 계약에 '대량 감시 금지' 조항 추가",
+    "lead": "OpenAI가 미 국방부와 체결한 AI 서비스 계약을 수정, 미국 시민에 대한 대량 감시 용도로 기술을 사용하지 못하도록 하는 보호 조항을 삽입했다. 비판 여론이 이번 계약 수정의 배경이 됐다. AI 기술의 국방 분야 확산과 윤리적 경계 설정 사이의 긴장이 표면화된 사례다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">OpenAI가 미 국방부와 체결한 AI 서비스 계약을 수정, 미국 시민에 대한 대량 감시 용도로 기술을 사용하지 못하도록 하는 보호 조항을 삽입했다. 비판 여론이 이번 계약 수정의 배경이 됐다. AI 기술의 국방 분야 확산과 윤리적 경계 설정 사이의 긴장이 표면화된 사례다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">OpenAI는 그동안 군사·무기 개발 목적의 기술 사용을 금지하는 이용 약관을 유지해왔다. 그러나 미 국방부와의 계약 체결 사실이 알려지면서 내부 직원과 외부 연구자들로부터 비판이 제기됐다. OpenAI는 기밀 시스템에 AI 기술을 공급하는 것은 약관 위반이 아니라고 주장하면서도, 감시 남용 우려를 불식시키기 위해 계약 조건을 보완했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 조항 추가는 AI 기업이 정부 계약 시 자사 기술의 사용 범위를 명시적으로 제한하는 선례로 주목된다. 그러나 '대량 감시'의 기준이 모호하다는 지적도 있어 구체적인 이행 메커니즘이 요구된다. 군-AI 기업 간 협력이 확대될수록 윤리 가이드라인의 구속력을 높이려는 압력도 커질 것으로 예상된다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html\" style=\"color:#FF6B35;text-decoration:none;\">New York Times</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "openai",
+      "regulation"
+    ],
+    "meta_title": "OpenAI, 국방부 AI 계약에 '대량 감시 금지' 조항 추가",
+    "meta_description": "OpenAI가 미 국방부와의 AI 계약을 수정해 대량 감시 방지 조항을 삽입했다. 군사 AI 활용의 윤리적 경계를 명문화한 첫 사례로 주목된다.",
+    "word_count": 415
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-heartbeat",
+      "action": "sourced",
+      "timestamp": "2026-03-04T13:25:46.101749"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T06:29:00+01:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T05:33:48.917Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a7c43c659ea80001153ecd",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a7c43c659ea80001153ecd",
+    "public_url": "https://ubion.ghost.io/openai-gugbangbu-ai-gyeyage-daeryang-gamsi-geumji-johang-cuga/",
+    "status": "published",
+    "published_at": "2026-03-04T05:33:48.000Z"
+  }
+}

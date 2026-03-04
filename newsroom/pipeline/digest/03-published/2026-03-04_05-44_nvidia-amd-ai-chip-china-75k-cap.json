@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Nvidia, AMD slump as US government considers capping AI chip sales at 75,000 per Chinese buyer",
+    "url": "https://sherwood.news/markets/nvidia-amd-slump-as-us-government-said-to-consider-capping-ai-chip-sales-at/",
+    "source_name": "Sherwood News",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "The US government is reportedly weighing a cap of 75,000 AI chips per Chinese buyer, according to Bloomberg sources. The proposal sent Nvidia and AMD shares lower as investors assessed the potential impact on GPU exports to China. The move is part of ongoing US efforts to restrict China's access to advanced AI hardware on national security grounds.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T05:44:00+01:00"
+  },
+  "digest": {
+    "headline": "미 정부, 중국 AI 칩 판매 7만 5천 개 상한 검토… 엔비디아·AMD 주가 급락",
+    "lead": "미국 정부가 중국 구매자 1곳당 AI 칩 판매를 7만 5천 개로 제한하는 방안을 검토 중인 것으로 알려졌다. 블룸버그 보도 직후 엔비디아와 AMD 주가는 동반 하락했다. 국가 안보를 이유로 한 첨단 AI 반도체 수출 규제가 한층 강화될 전망이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 정부가 중국 구매자 1곳당 AI 칩 판매를 7만 5천 개로 제한하는 방안을 검토 중인 것으로 알려졌다. 블룸버그 보도 직후 엔비디아와 AMD 주가는 동반 하락했다. 국가 안보를 이유로 한 첨단 AI 반도체 수출 규제가 한층 강화될 전망이다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">미국은 수년간 첨단 AI 반도체의 중국 수출을 단계적으로 제한해왔다. 엔비디아의 고성능 GPU는 이미 수출 규제 대상에 올라있으며, 중국 기업들은 이를 우회하는 방법을 모색해왔다. 이번 '구매자당 상한제'는 기존 칩 등급별 금수 조치에서 한발 더 나아가 물량 자체를 통제하는 새로운 접근법이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">7만 5천 개 상한이 현실화될 경우 중국 AI 산업의 대규모 인프라 구축에 직접적인 타격이 예상된다. 엔비디아는 중국 매출 비중이 높은 만큼 재무적 충격이 불가피하다. 규제의 실효성과 시행 시기를 둘러싼 불확실성이 당분간 반도체 섹터 투자 심리를 짓누를 것으로 보인다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://sherwood.news/markets/nvidia-amd-slump-as-us-government-said-to-consider-capping-ai-chip-sales-at/\" style=\"color:#FF6B35;text-decoration:none;\">Sherwood News</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "regulation"
+    ],
+    "meta_title": "미 정부, 중국 AI 칩 7만5천 개 상한 검토… 엔비디아·AMD 주가 급락",
+    "meta_description": "미국 정부가 중국 구매자 1곳당 AI 칩 판매를 7만 5천 개로 제한하는 방안을 검토 중이다. 블룸버그 보도 직후 엔비디아와 AMD 주가가 동반 하락하며 시장이 충격을 받았다.",
+    "word_count": 430
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T05:44:00+01:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T06:29:00+01:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T05:33:48.707Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a7c43c659ea80001153ec4",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a7c43c659ea80001153ec4",
+    "public_url": "https://ubion.ghost.io/mi-jeongbu-junggug-ai-cib-panmae-7man-5ceon-gae-sanghan-geomto-enbidia-amd-juga-geubrag/",
+    "status": "published",
+    "published_at": "2026-03-04T05:33:48.000Z"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "20260304001400-politico-sk-ai",
+  "stage": "drafted",
+  "created_at": "2026-03-04T00:14:00+01:00",
+  "priority": 2,
+  "source": {
+    "title": "The Country That's Madly in Love With AI",
+    "url": "https://www.politico.com/news/magazine/2026/02/21/south-korea-ai-popular-why-00789618",
+    "source_name": "Politico",
+    "relevance_score": 77,
+    "summary": "Politico 매거진이 한국의 AI에 대한 압도적인 긍정적 여론을 심층 분석했다.",
+    "tags": ["Korea", "AI정책", "교육문화", "국제시각"],
+    "collected_via": "brave_search"
+  },
+  "desk_instructions": "Politico 매거진 원문 앵글(한국의 역사적 기술 의존 배경 → AI 수용 동력)을 충실히 반영하되, 한국 독자 시각에서 '글로벌이 보는 우리'라는 메타 관점을 살릴 것.",
+  "draft": {
+    "headline": "세계가 주목하는 한국의 AI 열풍, 그 이면",
+    "subheadline": "Politico 분석: 자원 부족 국가의 기술 의존 역사가 AI 낙관론 동력…학계는 '훈련소가 된 학교' 우려",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <div style=\"border-left:4px solid #4338ca;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 정치 전문 매체 Politico가 전 세계 고소득국 중 유일하게 AI에 열광하는 나라로 한국을 지목했습니다. 퓨리서치센터의 25개국 조사에서 AI를 '우려보다 흥분'으로 바라보는 나라는 이스라엘과 한국 단 두 곳뿐이었습니다. 세계가 '한국 현상'을 주목하는 지금, 1조 4천억 원 규모의 AI 교육 투자 이면에 '인간다운 교육'을 잃어가고 있다는 학계의 경고도 커지고 있습니다.</p>\n  </div>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">자원 없는 나라의 생존 본능, AI로 이어지다</h2>\n  <p style=\"margin:0 0 36px;\">Politico는 한국의 AI 낙관론을 단순한 기술 트렌드가 아니라 역사적 생존 전략의 연장선으로 분석했습니다. \"한국이 AI에 열광하는 가장 단순한 이유는 자원이 부족한 나라로서 기술을 주된 경제 성장 동력으로 삼아온 역사에 있다. 이 현실은 교육 시스템 깊숙이 새겨져 있으며, 상당한 자부심의 원천이 됐다\"고 설명했습니다. 이는 한국의 AI 수용이 단순한 유행이 아니라 구조적이고 문화적인 토대 위에 놓여 있음을 시사합니다.</p>\n\n  <blockquote style=\"border-left:4px solid #4338ca;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">\"우리는 AI 교육을 전면 시행해야 한다. 우리 국민이 AI를 적응하고 활용할 역량을 키워야 한다.\"</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— 이재명 대통령, 취임 100일 기자회견 (2025년 9월)</p>\n  </blockquote>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">1조 4천억 투자·AI 교과서 전국 도입…세계 최초 행보</h2>\n  <p style=\"margin:0 0 36px;\">이재명 대통령은 취임 100일 기자회견에서 \"한국을 세계 3대 AI 강국으로 만들겠다\"고 선언했습니다. 교육부는 2025년 11월 'AI 인재 양성 국가 청사진'에 1조 4천억 원(약 9억 6천만 달러)을 투자하겠다고 밝혔습니다. 같은 해 11월 발표된 '모두를 위한 AI' 이니셔티브는 AI 특화 고교를 14개에서 27개로 확대하고, 학·석·박 통합과정을 기존 8년 이상에서 5.5년으로 단축하는 내용을 담고 있습니다. 2025년 3월에는 초등 3·4학년, 중1, 고1 대상으로 AI 디지털교과서를 전국 도입해 세계 최초의 AI 교과서 국가가 됐습니다. 세계은행은 이를 두고 \"디지털 기반 교육으로의 중대한 전환\"이라고 평가했습니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">고소득국 이례 현상…그러나 인재는 부족</h2>\n  <p style=\"margin:0 0 36px;\">Economics Observatory의 2026년 1월 분석에 따르면, GDP 3만 6천 달러 미만 국가들이 AI 혜택 기대치가 높은 경향이 있는데, 한국은 고소득국임에도 예외적으로 AI에 낙관적인 특이점을 보입니다. 그러나 이면에는 구조적 과제가 존재합니다. 한국은 2024년 글로벌 AI 지수에서 83개국 중 종합 6위를 기록했지만, AI 인재 부문은 13위에 그쳐 인력 부족이 고질적 과제로 남아 있습니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">\"AI 훈련소가 된 학교\"…학계의 경고</h2>\n  <p style=\"margin:0 0 36px;\">화려한 정책 수치 뒤에는 비판적 목소리도 있습니다. 서울교육대학교 권정민 교수는 \"교육부 정책이 매우 근시안적\"이라고 지적합니다. AI 인력 양성에 집중하다 보니 교육이 지향해야 할 인간상, 장기적 비전이 빠져 있다는 것입니다. 학교가 사람을 키우는 공간이 아니라 '노동자 생산' 시설로 전락하고 있다는 우려입니다. 세계가 부러워하는 한국의 AI 교육 실험이 정작 우리 아이들에게 무엇을 남기고 있는지, 그 질문은 아직 답을 찾지 못했습니다.</p>\n\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.politico.com/news/magazine/2026/02/21/south-korea-ai-popular-why-00789618\" style=\"color:#4338ca;text-decoration:none;\">Politico — The Country That's Madly in Love With AI</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.pewresearch.org/global/2025/10/15/how-people-around-the-world-view-ai/\" style=\"color:#4338ca;text-decoration:none;\">Pew Research Center — How People Around the World View AI (2025)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.economicsobservatory.com/who-trusts-ai\" style=\"color:#4338ca;text-decoration:none;\">Economics Observatory — Who Trusts AI?</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.koreaherald.com/article/10643310\" style=\"color:#4338ca;text-decoration:none;\">Korea Herald — 교육부 'AI for All' 이니셔티브 발표</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.koreaherald.com/article/10612847\" style=\"color:#4338ca;text-decoration:none;\">Korea Herald — AI 인재 양성 국가 청사진 1조 4천억 투자</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://blogs.worldbank.org/en/education/teachers-are-leading-an-ai-revolution-in-korean-classrooms\" style=\"color:#4338ca;text-decoration:none;\">World Bank — Teachers Are Leading an AI Revolution in Korean Classrooms</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.korea.kr/news/policyNewsView.do?newsId=148959079&call_from=rsslink\" style=\"color:#4338ca;text-decoration:none;\">korea.kr — 전문대학 AI 교육 거점 육성 계획</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": ["AI교육", "교육정책", "한국AI", "국제시각", "AI인재"],
+    "references": [
+      { "num": 1, "url": "https://www.politico.com/news/magazine/2026/02/21/south-korea-ai-popular-why-00789618", "title": "Politico — The Country That's Madly in Love With AI" },
+      { "num": 2, "url": "https://www.pewresearch.org/global/2025/10/15/how-people-around-the-world-view-ai/", "title": "Pew Research Center — How People Around the World View AI (2025)" },
+      { "num": 3, "url": "https://www.economicsobservatory.com/who-trusts-ai", "title": "Economics Observatory — Who Trusts AI?" },
+      { "num": 4, "url": "https://www.koreaherald.com/article/10643310", "title": "Korea Herald — AI for All 이니셔티브" },
+      { "num": 5, "url": "https://www.koreaherald.com/article/10612847", "title": "Korea Herald — AI 인재 양성 1조 4천억" },
+      { "num": 6, "url": "https://blogs.worldbank.org/en/education/teachers-are-leading-an-ai-revolution-in-korean-classrooms", "title": "World Bank — AI Revolution in Korean Classrooms" },
+      { "num": 7, "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148959079&call_from=rsslink", "title": "korea.kr — 전문대학 AI 교육 거점 육성" }
+    ],
+    "word_count": 820,
+    "article_type": "news"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector",
+      "action": "collected",
+      "timestamp": "2026-03-04T00:14:00+01:00",
+      "note": "관련성 77점"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-04T00:32:00+01:00",
+      "note": "relevance_score 77 ≥ 75 — 취재 배정"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-04T01:05:00+01:00",
+      "note": "소스 8개 수집 완료."
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T06:42:00+01:00",
+      "note": "Politico 앵글 반영. 국내 데이터(1.4조 원, AI 교과서, Pew 리서치)와 학계 반론 균형 구성."
+    }
+  ]
+}
