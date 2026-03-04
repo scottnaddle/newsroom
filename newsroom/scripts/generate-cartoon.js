@@ -109,24 +109,17 @@ function yesterday() {
 function addTextOverlay(inputPath, outputPath, caption, speechBubble) {
   const font = fs.existsSync(NOTO_FONT) ? NOTO_FONT : 'NanumGothic';
   
-  // 1) 하단 흰색 캡션 바 추가 + 말풍선 텍스트 오버레이
+  // 하단 흰색 캡션 바 추가 (말풍선 텍스트는 생략 — 그림 자체로 충분히 전달됨)
   const cmd = [
     'convert', `"${inputPath}"`,
-    // 하단 50px 흰색 바 추가
     '-gravity', 'South',
     '-background', 'white',
     '-splice', '0x50',
-    // 하단 캡션 텍스트
     '-font', `"${font}"`,
     '-pointsize', '24',
     '-fill', 'black',
     '-gravity', 'South',
     '-annotate', '+0+12', `"${caption}"`,
-    // 말풍선 텍스트 (왼쪽 상단 말풍선 영역)
-    '-gravity', 'NorthWest',
-    '-pointsize', '20',
-    '-fill', 'black',
-    '-annotate', '+120+145', `"${speechBubble}"`,
     `"${outputPath}"`
   ].join(' ');
   
