@@ -150,6 +150,7 @@ Content-Type: application/json
     "meta_title": "copy_edit.meta_suggestion.meta_title",
     "meta_description": "copy_edit.meta_suggestion.meta_description",
     "custom_excerpt": "draft.subheadline",
+    "slug": "파이프라인 파일명에서 날짜 제거한 영문 slug (예: 파일명 `2026-03-04_edweek-ai-districts.json` → slug: `edweek-ai-districts`)",
     "codeinjection_foot": ""
   }]
 }
@@ -158,6 +159,9 @@ Content-Type: application/json
 - `"status"`: 항상 `"published"` (즉시 공개)
 - `"featured"`: 고등교육 관련 기사면 `true`, 아니면 `false`
   - 판단 기준: 제목/태그에 대학·대학원·고등교육·university·college·higher education 등 포함 여부
+- `"slug"`: 파이프라인 파일명에서 날짜 prefix(`YYYY-MM-DD_HH-MM_`) 제거한 나머지 영문 부분 사용
+  - 예: `2026-03-04_10-58_edweek-1000-districts-ai-readiness-risk.json` → slug: `edweek-1000-districts-ai-readiness-risk`
+  - Ghost가 slug 중복 시 자동으로 `-2`, `-3` 붙여주므로 그냥 넘기면 됨
 ```
 
 `exec`으로 curl 실행:
