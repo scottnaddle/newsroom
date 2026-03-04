@@ -33,7 +33,7 @@
 - 한 번 실행에 최대 15개 결과
 
 ## 관련성 판단 기준
-- **수집 대상 (70점 이상)**:
+- **수집 대상 (85점 이상)**:
   - AI 기업 뉴스 (OpenAI, Google, Anthropic, Meta, Mistral, xAI 등)
   - 신모델/제품 출시
   - AI 투자·인수·합병
@@ -78,6 +78,6 @@
 1. `pipeline/digest/recent-urls.json` 로드
 2. Brave Search로 쿼리 3개 실행 (결과 최대 15개)
 3. 각 결과 관련성 점수 판단
-4. 70점 이상 + 미중복 → `01-sourced/`에 JSON 저장
+4. 85점 이상 + 미중복 → `01-sourced/`에 JSON 저장
 5. recent-urls.json 업데이트
 6. 수집 요약 출력 (수집 n개, 건너뜀 m개)
