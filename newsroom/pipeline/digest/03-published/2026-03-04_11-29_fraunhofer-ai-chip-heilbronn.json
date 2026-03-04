@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "AI Chip Design From Heilbronn",
+    "url": "https://www.fraunhofer.de/en/press/research-news/2026/march-2026/ai-chip-design-from-heilbronn.html",
+    "source_name": "Fraunhofer",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Fraunhofer IAF researchers in Heilbronn are developing high-performance semiconductor chips for modern AI systems, positioning the initiative as a key contribution to improving Europe's technological sovereignty in the AI sector. The project combines AI chip R&D with innovative approaches to reduce Europe's dependence on non-European chip suppliers. This underscores the growing geopolitical dimension of the global AI chip race.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T10:29:00Z"
+  },
+  "digest": {
+    "headline": "독일 프라운호퍼, 하일브론에 'Chip AI' 센터 설립…유럽 AI 반도체 주권 강화 선언",
+    "lead": "독일 프라운호퍼 연구협회가 하일브론에 'Chip AI' 연구·혁신 센터를 2026년부터 설립하고, 유럽의 AI 반도체 기술 자립을 위한 독자 칩 설계 역량 강화에 나선다. 프라운호퍼 IAF·IIS 두 연구소가 디터 슈바르츠 재단의 지원을 받아 향후 9년간 AI 하드웨어 R&D에 집중한다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">독일 프라운호퍼 연구협회가 하일브론에 'Chip AI' 연구·혁신 센터를 2026년부터 설립하고, 유럽의 AI 반도체 기술 자립을 위한 독자 칩 설계 역량 강화에 나선다. 프라운호퍼 IAF·IIS 두 연구소가 디터 슈바르츠 재단의 지원을 받아 향후 9년간 AI 하드웨어 R&D에 집중한다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">글로벌 AI 붐으로 고성능 AI 칩 수요가 급증하는 가운데, 유럽은 미국·아시아 반도체 공급사에 대한 의존도를 낮추기 위한 움직임을 가속하고 있다. 하일브론은 IPAI(Innovation Park Artificial Intelligence)를 비롯한 국제적 AI 전문가가 집결한 거점으로, Chip AI 센터 입지로 최적이라는 평가다. 프라운호퍼의 칩렛 연구는 이미 세계 최고 수준으로 알려져 있어, 이번 센터 출범이 유럽 AI 칩 설계 생태계에 상당한 시너지를 낼 것으로 기대된다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 이니셔티브는 비유럽 공급사 의존도 축소를 목표로 한 EU 반도체법(Chips Act)의 방향과 맥을 같이한다. 고성능 AI 하드웨어를 자국에서 설계·공급할 수 있는 기반이 마련될 경우, 유럽 전역 AI 산업의 공급망 리스크가 크게 줄어들고 기술 주권도 강화된다. 9년이라는 장기 투자 계획은 유럽이 단기 성과보다 지속 가능한 기술 자립에 무게를 두고 있음을 보여준다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">유럽 AI 반도체 R&D 역량이 강화될수록, 스마트 클래스룸·AI 학습 단말기·교육용 로봇 등을 개발하는 유럽·한국 에듀테크 기업이 활용 가능한 고성능·저전력 칩 옵션도 다양해진다. 특히 학습자 데이터 처리를 데이터센터가 아닌 기기 내에서 수행하는 온디바이스 AI 접근법이 확산될수록, GDPR 등 엄격한 개인정보 규제가 적용되는 교육 환경에서 유럽산 AI 칩의 전략적 가치는 더욱 높아질 전망이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.fraunhofer.de/en/press/research-news/2026/march-2026/ai-chip-design-from-heilbronn.html\" style=\"color:#FF6B35;text-decoration:none;\">Fraunhofer</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "regulation"
+    ],
+    "meta_title": "프라운호퍼, 하일브론 'Chip AI' 센터 설립…유럽 AI 반도체 자립 프로젝트 가동",
+    "meta_description": "독일 프라운호퍼가 하일브론에 Chip AI 연구·혁신 센터를 설립한다. IAF·IIS 두 연구소가 9년간 AI 칩 설계 R&D에 집중, 유럽의 반도체 기술 주권 강화를 목표로 한다.",
+    "word_count": 510
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T10:29:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T10:42:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T10:46:44.851Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a80d942eb9520001fe7cdc",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a80d942eb9520001fe7cdc",
+    "public_url": "https://insight.ubion.global/dogil-peuraunhopeo-hailbeurone-chip-ai-senteo-seolrib-yureob-ai-bandoce-jugweon-ganghwa-seoneon/",
+    "status": "published",
+    "published_at": "2026-03-04T10:46:44.000Z"
+  }
+}

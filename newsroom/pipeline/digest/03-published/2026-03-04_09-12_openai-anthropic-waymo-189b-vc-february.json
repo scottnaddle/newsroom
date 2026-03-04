@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Just three companies dominated the $189B in VC investments last month",
+    "url": "https://techcrunch.com/2026/03/03/openai-anthropic-waymo-dominated-189-billion-vc-investments-february-crunchbase-report/",
+    "source_name": "TechCrunch",
+    "language": "en",
+    "relevance_score": 92,
+    "summary": "OpenAI, Anthropic, and Waymo dominated global VC activity in February 2026, accounting for the lion's share of a record $189 billion in venture capital investments. AI startups overall captured $171 billion — roughly 90% of all capital raised — in what Crunchbase called a stunning, record-breaking month for AI investment.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T08:12:00Z"
+  },
+  "digest": {
+    "headline": "2월 글로벌 VC 역대 최대 1,890억 달러…AI 스타트업이 90% 독식",
+    "lead": "2026년 2월 글로벌 벤처캐피털 투자액이 역대 최대치인 1,890억 달러를 기록했다. 이 중 AI 스타트업이 1,710억 달러(90%)를 흡수했으며, OpenAI(1,100억 달러)·Anthropic(300억 달러)·Waymo(160억 달러) 단 세 곳이 전체의 83%를 차지했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">2026년 2월 글로벌 벤처캐피털 투자액이 역대 최대 1,890억 달러를 기록했다. AI 스타트업이 전체의 90%인 1,710억 달러를 흡수했으며, OpenAI(1,100억 달러)·Anthropic(300억 달러)·Waymo(160억 달러) 세 곳만으로 83%를 차지했다. 1월 전체 글로벌 VC 투자 대비 3배를 넘는 폭발적 수치다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Crunchbase의 2026년 2월 벤처 투자 보고서에 따르면, 이 달의 VC 투자 총액은 2025년 연간 투자 합계(4,250억 달러)의 3분의 1에 해당한다. OpenAI는 사상 최대 규모인 1,100억 달러를 조달하며 기업 가치 7,300억 달러를 인정받았고, Anthropic은 380억 달러 밸류에이션으로 300억 달러 시리즈 G를 완료했다. 자율주행 기업 Waymo도 1,260억 달러 밸류에이션으로 160억 달러를 추가 확보했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">AI 자본 집중이 극도로 심화되고 있다. 상위 3개사가 한 달 만에 글로벌 VC 자금의 4분의 3을 가져가는 현상은 AI 산업 내 '승자독식' 구도를 고착화하고, 중소 AI 스타트업이 자금을 유치할 수 있는 여지를 좁힌다. 동시에 이 자금이 대규모 인프라·연구에 투입되면서 AI 기술의 발전 속도는 더욱 가속화될 전망이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">OpenAI·Anthropic의 대규모 자금 조달은 이들이 제공하는 API 가격 인하 압력으로 이어질 수 있어, 에듀테크 스타트업의 AI 인프라 접근 비용이 낮아질 가능성이 있다. 반면 자본력이 부족한 중소 에듀테크 기업은 거대 AI 플랫폼에 대한 의존도가 더욱 높아지므로, 플랫폼 락인(lock-in) 위험에 대한 선제 대응 전략이 필요하다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://techcrunch.com/2026/03/03/openai-anthropic-waymo-dominated-189-billion-vc-investments-february-crunchbase-report/\" style=\"color:#FF6B35;text-decoration:none;\">TechCrunch</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "2월 글로벌 VC 역대 최대 1,890억 달러…AI 스타트업이 90% 독식",
+    "meta_description": "2026년 2월 글로벌 VC 투자 1,890억 달러 중 AI가 90% 차지. OpenAI·Anthropic·Waymo 3사가 83% 독점. 에듀테크 기업엔 API 비용 하락 기회이자 플랫폼 의존 위험 심화.",
+    "word_count": 510
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T08:12:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T09:38:00+01:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T08:42:32.450Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a7f06e2eb9520001fe7bf6",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a7f06e2eb9520001fe7bf6",
+    "public_url": "https://insight.ubion.global/2weol-geulrobeol-vc-yeogdae-coedae-1-890eog-dalreo-ai-seutateueobi-90-dogsig/",
+    "status": "published",
+    "published_at": "2026-03-04T08:42:22.000Z"
+  }
+}

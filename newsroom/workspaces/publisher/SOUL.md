@@ -142,7 +142,7 @@ Content-Type: application/json
 ```json
 {
   "posts": [{
-    "title": "copy_edit에서 가져온 헤드라인",
+    "title": "copy_edit.final_headline이 있으면 사용, 없으면 draft.headline 사용 (fallback 필수)",
     "html": "copy_edit.final_html",
     "status": "published",
     "featured": false,

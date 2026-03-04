@@ -1,0 +1,138 @@
+{
+  "stage": "rejected",
+  "source": {
+    "title": "마이크로소프트 \"AI 시대 교육 3대 원칙: 리터러시·가이드라인·접근성\"",
+    "url": "https://blogs.microsoft.com/on-the-issues/2026/02/24/teaching-in-the-ai-age/",
+    "source_name": "Microsoft On the Issues",
+    "language": "en",
+    "relevance_score": 82,
+    "published_date": "2026-02-24",
+    "collected_at": "2026-03-03T17:37:21.709199"
+  },
+  "draft": {
+    "headline": "마이크로소프트, 미 의회서 AI 교육 3원칙 제시",
+    "subheadline": "빅테크가 교육 정책 어젠다를 주도하는 미국식 거버넌스의 명암",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <div style=\"border-left:4px solid #d97706;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">마이크로소프트가 2026년 2월 23일 미국 하원 청문회에 직접 출석해 AI 교육 3대 원칙을 제시했습니다. 빅테크가 의회 증언대에서 공교육 정책 방향을 제언하는 이 장면은, AI 교육 거버넌스의 주도권을 두고 정부와 민간 기업이 경쟁하는 미국의 현실을 드러냅니다.</p>\n  </div>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">3대 원칙: 리터러시·가이드라인·접근성</h2>\n  <p style=\"margin:0 0 36px;\">마이크로소프트 교육정책 수석이사 Allyson Knox는 '미국의 AI 준비: AI 시대의 교육' 청문회에서 세 가지 입법 방향을 촉구했습니다. 첫째, 교사 전문성 개발 지원 및 공공-민간 파트너십 촉진. 둘째, AI 리터러시를 교육과정에 통합. 셋째, AI 활용에 대한 학생 프라이버시·보안 책임 가이드라인 마련입니다. 소위원회 위원장 Kevin Kiley(공화·CA)는 AI가 수업 계획 수립, 학생 성취도 분석, 맞춤형 교육과정 설계에 기여해 교사의 번아웃을 줄일 수 있다고 강조했습니다.</p>\n\n  <blockquote style=\"border-left:4px solid #d97706;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">\"교사들이 수업 계획 작성부터 학생 성취도 분석까지 다양한 기능을 더 쉽게 수행할 수 있게 되면서, 스트레스에 시달리는 교사들이 본연의 역할에 집중할 수 있게 됩니다.\"</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— Kevin Kiley, 미 하원 교육·노동력 소위원회 위원장</p>\n  </blockquote>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">AI 효과 20%, 그러나 이해충돌 논란</h2>\n  <p style=\"margin:0 0 36px;\">청문회에서는 텍사스주 휴스턴의 한 1학년 교사가 AI를 활용한 뒤 학생 시험 점수가 20% 향상됐다는 사례도 제시됐습니다. 그러나 마이크로소프트는 Copilot을 학교에 적극 배포 중인 직접적 이해관계자이기도 합니다. 교육 정책 제언과 자사 제품 시장 확대를 동시에 추구한다는 비판이 나오는 이유입니다. 플로리다 브로워드 카운티와의 Copilot 학교 배포 계약이 청문회 직후 이루어진 것도 이 의혹을 뒷받침합니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">민간 주도 vs 정부 주도</h2>\n  <p style=\"margin:0 0 36px;\">빅테크가 의회 증언을 통해 교육 정책 방향을 제시하는 미국 방식은, 정부가 AI 디지털 교과서 도입을 직접 설계하는 한국이나 싱가포르의 접근법과 대조됩니다. AI 교육 거버넌스의 주도권이 누구에게 있느냐는 질문은 이제 각국의 교육 정책 설계에서 핵심 변수로 떠오르고 있습니다.</p>\n\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://blogs.microsoft.com/on-the-issues/2026/02/24/teaching-in-the-ai-age/\" style=\"color:#4338ca;text-decoration:none;\">Microsoft On the Issues — AI 시대의 교육 (2026.02.24)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://edworkforce.house.gov/news/documentsingle.aspx?DocumentID=413127\" style=\"color:#4338ca;text-decoration:none;\">미 하원 교육·노동력 위원회 — 청문회 보도자료</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.congress.gov/event/119th-congress/house-event/118980\" style=\"color:#4338ca;text-decoration:none;\">congress.gov — Building an AI-Ready America 청문회 기록</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "마이크로소프트",
+      "AI교육",
+      "미국교육",
+      "에듀테크"
+    ],
+    "references": [
+      {
+        "num": 1,
+        "url": "https://blogs.microsoft.com/on-the-issues/2026/02/24/teaching-in-the-ai-age/",
+        "title": "Microsoft On the Issues — AI 시대의 교육"
+      },
+      {
+        "num": 2,
+        "url": "https://edworkforce.house.gov/news/documentsingle.aspx?DocumentID=413127",
+        "title": "미 하원 교육·노동력 위원회 — 청문회 보도자료"
+      },
+      {
+        "num": 3,
+        "url": "https://www.congress.gov/event/119th-congress/house-event/118980",
+        "title": "congress.gov — Building an AI-Ready America 청문회 기록"
+      }
+    ],
+    "word_count": 790,
+    "article_type": "news"
+  },
+  "fact_check_report": {
+    "overall_confidence": 72,
+    "verdict": "FLAG",
+    "claims": [
+      {
+        "claim": "Allyson Knox(MS 교육정책 디렉터)가 하원 소위원회 청문회에서 증언",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 98,
+        "evidence": "MS 공식 블로그(2026.02.24), 하원 공식 사이트, democrats-edworkforce.house.gov 모두 Knox의 증언 확인. 직함은 'Director of Education Policy and Programs'",
+        "source_url": "https://edworkforce.house.gov/uploadedfiles/knox_testimony_final.pdf",
+        "flagged": false
+      },
+      {
+        "claim": "청문회 날짜 '2026년 2월 23일'",
+        "type": "temporal",
+        "verdict": "REFUTED",
+        "confidence": 5,
+        "evidence": "⚠️ 명백한 사실 오류. 복수 공식 소스에서 청문회 개최일은 2026년 2월 24일(화)로 확인. democrats-edworkforce.house.gov: 'Date: Tuesday, February 24, 2026'. MS 블로그 게시일도 2026.02.24. 기사 리드의 '2월 23일'은 즉시 '2월 24일'로 수정 필요.",
+        "source_url": "https://democrats-edworkforce.house.gov/hearings/building-an-ai-ready-america-teaching-in-the-ai-age",
+        "flagged": true
+      },
+      {
+        "claim": "Kevin Kiley(공화·CA)가 소위원회 위원장",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "MS 블로그: 'Chairman Kiley' 명시. democrats-edworkforce.house.gov에서도 위원장으로 확인.",
+        "source_url": "https://democrats-edworkforce.house.gov/hearings/building-an-ai-ready-america-teaching-in-the-ai-age",
+        "flagged": false
+      },
+      {
+        "claim": "Knox의 3대 원칙: 교사 전문성 개발·AI 리터러시 교육과정 통합·학생 프라이버시 가이드라인",
+        "type": "definitional",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "MS 공식 블로그 및 하원 제출 증언록(knox_testimony_final.pdf)에서 3대 원칙 구성 확인",
+        "source_url": "https://blogs.microsoft.com/on-the-issues/2026/02/24/teaching-in-the-ai-age/",
+        "flagged": false
+      },
+      {
+        "claim": "텍사스주 휴스턴 1학년 교사, AI 활용 후 학생 시험 점수 20% 향상",
+        "type": "statistical",
+        "verdict": "UNVERIFIABLE",
+        "confidence": 50,
+        "evidence": "⚠️ 청문회 보도 자료(하원 공식) 및 복수 언론에서 이 사례에 대한 독립 확인 불가. '20% 향상' 수치의 측정 기준·기간·비교군 불명. 청문회 증언에서 단일 교사 사례로 제시된 일화적 데이터일 가능성 높음. 수치를 그대로 인용할 경우 출처 및 맥락 명시 권고.",
+        "source_url": "https://edworkforce.house.gov/news/documentsingle.aspx?DocumentID=413127",
+        "flagged": true
+      },
+      {
+        "claim": "마이크로소프트가 Copilot을 학교에 적극 배포 중인 이해관계자",
+        "type": "causal",
+        "verdict": "SUPPORTED",
+        "confidence": 90,
+        "evidence": "복수 언론에서 MS의 Copilot 교육 시장 진출 확인. 브로워드 카운티 등 학교 구의 Copilot 계약 관련 별도 기사 존재.",
+        "source_url": "https://blogs.microsoft.com/on-the-issues/2026/02/24/teaching-in-the-ai-age/",
+        "flagged": false
+      }
+    ]
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-heartbeat",
+      "action": "sourced",
+      "timestamp": "2026-03-03T17:37:21.709208"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-03T10:08:58+01:00",
+      "note": "relevance_score 82 ≥ 75 — 자동 취재 배정"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-03T13:03:00+01:00"
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T10:11:00+01:00"
+    },
+    {
+      "agent": "fact-checker",
+      "action": "flagged",
+      "timestamp": "2026-03-04T11:09:00+01:00",
+      "note": "전체 신뢰도 72, FLAG. ⚠️ 2개 주장 플래그: (1) 청문회 날짜 '2월 23일' → 실제 2월 24일로 REFUTED, 즉시 수정 필수. (2) 휴스턴 교사 20% 시험 향상 — 독립 확인 불가, 출처 및 측정 맥락 명시 필요. 나머지 핵심 사실(Knox 증언, 3원칙, Kiley 위원장)은 모두 SUPPORTED."
+    },
+    {
+      "agent": "editor-desk",
+      "action": "rejected",
+      "timestamp": "2026-03-04T11:19:00+01:00",
+      "note": "FLAG verdict, confidence 72 < 75 — auto-rejected. 청문회 날짜 REFUTED (confidence 5) 포함. 규칙상 FLAG < 75 자동 드랍."
+    }
+  ],
+  "revision_count": 0
+}

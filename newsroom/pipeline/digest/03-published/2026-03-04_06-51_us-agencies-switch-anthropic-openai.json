@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "US agencies switch from Anthropic to OpenAI for AI services",
+    "url": "https://journalrecord.com/2026/03/03/us-agencies-switch-anthropic-openai-ai/",
+    "source_name": "Journal Record",
+    "language": "en",
+    "relevance_score": 80,
+    "summary": "US cabinet agencies including State, Treasury, and HHS are phasing out Anthropic AI products in favor of OpenAI and Google platforms following presidential orders. Treasury Secretary Scott Bessent announced termination of all Anthropic product use, including Claude, directing staff to ChatGPT and Gemini instead.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T06:51:00+01:00"
+  },
+  "digest": {
+    "headline": "미국 연방 기관, Anthropic 전면 중단…OpenAI·Google로 교체",
+    "lead": "미국 국무부·재무부·보건복지부 등 주요 연방 기관이 Anthropic AI 제품 사용을 중단하고 OpenAI와 Google 플랫폼으로 전환하기 시작했다. 트럼프 행정부의 대통령령에 따른 조치로, 재무장관 스콧 베센트는 Claude를 포함한 모든 Anthropic 제품의 즉각 사용 중단을 직원들에게 지시하고 ChatGPT·Gemini 사용을 권고했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 국무부·재무부·보건복지부 등 주요 연방 기관이 Anthropic AI 제품 사용을 전면 중단하고 OpenAI·Google 플랫폼으로 교체하기 시작했다. 트럼프 행정부의 대통령령에 따른 조치로, 재무장관 스콧 베센트는 Claude를 포함한 모든 Anthropic 제품의 즉각 중단과 함께 ChatGPT·Gemini로의 전환을 직원들에게 공식 지시했다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">미국 정부의 AI 조달 정책이 행정부 교체 이후 급격히 재편되고 있다. 트럼프 행정부가 AI 관련 대통령령을 발동하면서 연방 기관들은 기존에 도입했던 Anthropic의 Claude 기반 서비스 계약을 잇따라 종료하고 있다. 국무부·재무부·보건복지부가 선제적으로 전환을 발표했으며, 다른 연방 기관들도 뒤를 따를 것으로 관측된다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 사태는 정부 AI 조달이 기술력이나 보안 기준만이 아니라 정치적 판단에 따라 좌우될 수 있음을 보여주는 선례로 남게 됐다. Anthropic에는 수억 달러 규모의 연방 계약 손실이라는 직격탄이 예상되며, OpenAI와 Google은 정부 시장 선점 기회를 확보했다. AI 기업들은 정치 리스크를 사업 변수로 적극 관리해야 하는 시대에 접어들고 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">연방 재정 지원을 받는 공립학교·대학교는 AI 도구 선택이 정부 방침에 따라 제한될 수 있으며, 특정 플랫폼 의존도가 높은 에듀테크 서비스는 정책 변화에 즉각 노출된다. UBION처럼 다수 AI 모델을 유연하게 교체할 수 있는 멀티-모델 구조를 갖춘 플랫폼이 공공교육 시장에서 경쟁 우위를 가질 수 있다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://journalrecord.com/2026/03/03/us-agencies-switch-anthropic-openai-ai/\" style=\"color:#FF6B35;text-decoration:none;\">Journal Record</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "technology"
+    ],
+    "meta_title": "미국 연방 기관, Anthropic 전면 중단…OpenAI·Google로 교체",
+    "meta_description": "트럼프 행정부 대통령령에 따라 국무부·재무부·HHS 등 미국 주요 연방 기관이 Claude 사용을 중단하고 ChatGPT·Gemini로 전환. AI 조달의 정치화가 에듀테크 공공 시장에도 영향을 미칠 전망.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T06:51:00+01:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T09:38:00+01:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T08:42:32.450Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a7f06d2eb9520001fe7be4",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a7f06d2eb9520001fe7be4",
+    "public_url": "https://insight.ubion.global/migug-yeonbang-gigwan-anthropic-jeonmyeon-jungdan-openai-googlero-gyoce/",
+    "status": "published",
+    "published_at": "2026-03-04T08:42:21.000Z"
+  }
+}

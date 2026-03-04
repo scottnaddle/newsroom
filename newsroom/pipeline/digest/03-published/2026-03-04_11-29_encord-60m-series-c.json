@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Encord Announces $60M Series C to Expand AI-Native Data Infrastructure for Real-World Applications",
+    "url": "https://theaiinsider.tech/2026/03/03/encord-announces-60m-series-c-to-expand-ai-native-data-infrastructure-for-real-world-applications/",
+    "source_name": "The AI Insider",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "AI data infrastructure startup Encord has secured $60 million in Series C funding led by Wellington Management, bringing total capital raised to $110 million. The round will fund expansion of Encord's AI-native data infrastructure platform aimed at real-world enterprise applications. This marks a significant investment milestone in the AI tooling and data infrastructure sector.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T10:29:00Z"
+  },
+  "digest": {
+    "headline": "Encord, 시리즈 C 6,000만 달러 유치…AI 네이티브 데이터 인프라 플랫폼 확장 가속",
+    "lead": "AI 데이터 인프라 스타트업 Encord가 Wellington Management 주도로 6,000만 달러(약 810억 원) 규모의 시리즈 C 투자를 유치했다. 누적 투자금은 총 1억 1,000만 달러에 달하며, 플랫폼 내 관리 데이터 규모는 지난 1년 새 1페타바이트에서 5페타바이트 이상으로 다섯 배 급성장했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">AI 데이터 인프라 스타트업 Encord가 Wellington Management 주도로 6,000만 달러(약 810억 원) 규모의 시리즈 C 투자를 유치했다. 누적 투자금은 총 1억 1,000만 달러에 달하며, 플랫폼 내 관리 데이터 규모는 지난 1년 새 1페타바이트에서 5페타바이트 이상으로 다섯 배 급성장했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Encord는 비디오·이미지·센서 데이터 등 복잡한 멀티모달 데이터셋 관리에 특화된 AI 네이티브 플랫폼을 운영한다. 자율주행·로봇·드론·합성 미디어 등 피지컬 AI 개발 기업들이 주요 고객이며, 데이터 준비부터 큐레이션·모델 평가·정렬(alignment)까지 프로덕션 AI의 전 주기를 지원한다. 이번 투자에는 기존 투자자 Y Combinator, CRV, N47, Crane Venture Partners와 신규 투자자 Bright Pixel, Isomer Capital이 참여했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">AI 모델 성능 경쟁이 데이터 품질 경쟁으로 무게중심을 옮기면서, AI 데이터 인프라 시장이 독자적인 핵심 투자 영역으로 부상하고 있다. 피지컬 AI 개발 고객의 매출이 1년 만에 10배 증가한 Encord의 성장세는, 실제 환경에서 작동하는 AI 시스템 구축을 위한 고품질 데이터 관리 수요가 폭발적으로 늘고 있음을 방증한다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">교육 AI 솔루션 개발사도 학습자 영상·평가 데이터·행동 기록 등 다양한 멀티모달 데이터를 고품질로 관리·정제해야 하는 과제에 직면해 있다. Encord 같은 AI 네이티브 데이터 플랫폼의 성장은 에듀테크 기업이 더 빠르고 효율적으로 자체 AI 모델을 구축할 수 있는 외부 도구 생태계가 확장되고 있음을 의미한다. 특히 AI 튜터, 자동 채점, 학습 분석 등 데이터 집약적 에듀테크 서비스를 개발하는 팀에게 직접적인 인프라 선택지가 늘어났다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://theaiinsider.tech/2026/03/03/encord-announces-60m-series-c-to-expand-ai-native-data-infrastructure-for-real-world-applications/\" style=\"color:#FF6B35;text-decoration:none;\">The AI Insider</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "research"
+    ],
+    "meta_title": "Encord 시리즈 C 6,000만 달러 유치…AI 데이터 인프라 플랫폼 5배 성장",
+    "meta_description": "AI 데이터 인프라 스타트업 Encord가 Wellington Management 주도로 6,000만 달러 시리즈 C를 유치했다. 누적 투자금 1억 1,000만 달러, 관리 데이터 1년 새 5배 성장.",
+    "word_count": 490
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T10:29:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T10:42:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T10:46:44.662Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a80d942eb9520001fe7cd3",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a80d942eb9520001fe7cd3",
+    "public_url": "https://insight.ubion.global/encord-sirijeu-c-6-000man-dalreo-yuci-ai-neitibeu-deiteo-inpeura-peulraespom-hwagjang-gasog/",
+    "status": "published",
+    "published_at": "2026-03-04T10:46:44.000Z"
+  }
+}

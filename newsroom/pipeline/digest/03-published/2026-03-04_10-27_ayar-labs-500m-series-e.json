@@ -1,0 +1,35 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Top Startup and Tech Funding News – March 3, 2026: Ayar Labs Raises $500M Series E Led by NVIDIA and AMD",
+    "url": "https://techstartups.com/2026/03/03/top-startup-and-tech-funding-news-march-3-2025/",
+    "source_name": "Tech Startups",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Ayar Labs, a photonic interconnect chip startup for AI data centers, raised a $500M Series E round co-led by NVIDIA and AMD, with participation from Neuberger Berman, MediaTek, and Qatar Investment Authority. The company develops optical I/O chips designed to dramatically reduce power consumption and latency in AI accelerator clusters. This marks one of the largest AI chip infrastructure investments of early 2026.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T09:27:00Z"
+  },
+  "digest": {
+    "headline": "NVIDIA·AMD, 광자 인터커넥트 스타트업 Ayar Labs에 5억 달러 투자",
+    "lead": "AI 데이터센터의 전력 소비와 지연 속도 문제를 광학 기술로 해결하는 스타트업 Ayar Labs가 NVIDIA와 AMD 공동 주도로 5억 달러(약 7,200억 원) 규모의 Series E 투자를 유치했다. 카타르투자청(QIA), 미디어텍, Neuberger Berman도 참여한 이번 라운드는 2026년 초 AI 칩 인프라 분야 최대 투자 중 하나로 기록됐다.",
+    "ghost_tags": ["ai-digest", "ai", "technology"],
+    "meta_title": "NVIDIA·AMD, 광자 인터커넥트 스타트업 Ayar Labs에 5억 달러 투자",
+    "meta_description": "Ayar Labs가 NVIDIA와 AMD 공동 주도로 5억 달러 Series E 투자 유치. 광자 인터커넥트 기술로 AI 데이터센터 전력 효율 혁신 기대.",
+    "word_count": 510
+  },
+  "publish_result": {
+    "ghost_post_id": "69a7fee62eb9520001fe7cb9",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a7fee62eb9520001fe7cb9",
+    "public_url": "https://insight.ubion.global/nvidia-amd-gwangja-inteokeonegteu-seutateueob-ayar-labse-5eog-dalreo-tuja/",
+    "status": "published",
+    "published_at": "2026-03-04T09:43:50.000Z",
+    "feature_image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "audit_log": [
+    {"agent": "digest-collector", "action": "sourced", "timestamp": "2026-03-04T09:27:00Z"},
+    {"agent": "digest-writer", "action": "drafted", "timestamp": "2026-03-04T10:41:00Z"},
+    {"agent": "digest-publisher", "action": "published", "timestamp": "2026-03-04T09:43:50Z"}
+  ]
+}

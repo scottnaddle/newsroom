@@ -1,0 +1,188 @@
+{
+  "stage": "assigned",
+  "source": {
+    "title": "필리핀 교육부, AI 활용 가이드라인 발표 — 안면인식 도구 전면 금지",
+    "url": "https://www.gmanetwork.com/news/scitech/technology/978018/deped-issues-ai-guidelines-for-basic-education-bans-facial-recognition-tools/story/",
+    "source_name": "GMA News Online",
+    "language": "en",
+    "relevance_score": 86,
+    "summary": "필리핀 교육부(DepEd), 2026년 초중등 교육 AI 가이드라인 발표. AI 보조 교수·학습·평가는 허용, 안면인식 등 고위험·비윤리적 활용은 전면 금지.",
+    "published_date": "2026-02-27",
+    "collected_at": "2026-03-03T17:37:21.709432"
+  },
+  "desk_instructions": "필리핀 AI 가이드라인 보도. 안면인식 전면 금지 → 아시아 AI 교육정책 비교 맥락. 한국·싱가포르·호주와 비교 유용",
+  "reporting_brief": {
+    "facts": [
+      {
+        "claim": "필리핀 교육부, 2026년 2월 20일 'DepEd Order No. 003, s. 2026' 발령 — 아시아 최초 수준의 초중등 AI 포괄 지침.",
+        "source_url": "https://www.deped.gov.ph/2026/02/20/february-20-2026-do-003-s-2026-foundational-guidelines-on-artificial-intelligence-ai-in-basic-education/"
+      },
+      {
+        "claim": "전면 금지 대상: 생체인식·안면인식 시스템, 민감한 특성 기반 분류 AI, 사회 점수 시스템, 미성년자 행동 조작 AI.",
+        "source_url": "https://www.gmanetwork.com/news/scitech/technology/978018/deped-issues-ai-guidelines-for-basic-education-bans-facial-recognition-tools/story/"
+      },
+      {
+        "claim": "K-3 학생: AI와의 직접 상호작용 제한, 교사 감독 및 학부모 고지 필수.",
+        "source_url": "https://www.gmanetwork.com/news/scitech/technology/978018/deped-issues-ai-guidelines-for-basic-education-bans-facial-recognition-tools/story/"
+      },
+      {
+        "claim": "AI 도구 배포 전 개인정보영향평가(PIA) 의무화, DepEd AI 레지스트리 등록 필수.",
+        "source_url": "https://www.gmanetwork.com/news/scitech/technology/978018/deped-issues-ai-guidelines-for-basic-education-bans-facial-recognition-tools/story/"
+      },
+      {
+        "claim": "교육장관 Angara: 교실 내 AI 사용이 명확하고 집행 가능한 정책을 마련하는 교육 시스템의 역량을 초과했다.",
+        "source_url": "https://newsinfo.inquirer.net/2187647/deped-issues-ai-guidelines-human-centered-approach-must-be-prioritized"
+      }
+    ],
+    "perspectives": [
+      "찬성(규제 지지): EU AI법과 유사한 위험 기반 접근으로 평가 — 안면인식 전면 금지로 학생 인권 보호 강화.",
+      "우려/비판: AI 레지스트리·PIA 의무화의 집행력 여부 미지수. AI 활용 기회 과도 제한 우려.",
+      "비교(아시아): 한국은 AIDT 허용 정책이지만 안면인식 관련 교육현장 규제 부재. 필리핀이 아시아에서 가장 상세한 금지 목록 제시."
+    ],
+    "suggested_angle": "아시아 최초로 초중등 AI 포괄 가이드라인을 법령화한 필리핀 — 안면인식 전면 금지를 중심으로 아시아 교육 AI 정책 스펙트럼 비교."
+  },
+  "draft": {
+    "headline": "필리핀 교육부, AI 가이드라인서 안면인식 전면 금지",
+    "subheadline": "아시아 최초 초중등 AI 포괄 지침 — EU식 위험 기반 접근 채택",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <div style=\"border-left:4px solid #4338ca;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">필리핀 교육부(DepEd)가 2026년 2월 20일 초중등 교육 현장의 AI 활용 전반을 규율하는 포괄 가이드라인을 발령했습니다. 아시아에서 가장 상세한 수준으로 평가받는 이 지침은 안면인식 시스템 등 고위험 AI를 전면 금지하며, EU AI법과 유사한 위험 기반 접근법을 채택했습니다.</p>\n  </div>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">허용과 금지의 명확한 선긋기</h2>\n  <p style=\"margin:0 0 36px;\">'DepEd Order No. 003, s. 2026'은 AI를 활용한 수업계획 수립, 퀴즈 생성, 콘텐츠 개발, 학습 피드백, 데이터 분석 보조는 허용합니다. 단, AI는 인간 판단을 대체할 수 없으며 성적 부여나 진급 결정 등 주요 사안은 반드시 교사·관리자가 최종 결정해야 합니다. 반면 생체인식·안면인식 시스템, 민감한 개인 특성을 기반으로 학생을 분류하는 AI, 사회 점수 시스템, 미성년자의 행동을 조작하거나 취약성을 이용하는 AI는 '수용 불가 위험'으로 분류해 전면 금지했습니다.</p>\n\n  <blockquote style=\"border-left:4px solid #4338ca;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">\"교실 내 AI 사용이 명확하고 통일되고 집행 가능한 정책을 마련하는 기본 교육 시스템의 역량을 초과했다.\"</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— Sonny Angara, 필리핀 교육장관</p>\n  </blockquote>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">어린 학생 보호와 절차적 의무</h2>\n  <p style=\"margin:0 0 36px;\">유치원부터 3학년(K-3) 학생은 AI와의 직접 상호작용을 제한하며, 모든 활동에 교사 감독과 학부모 고지가 의무화됩니다. 아울러 모든 AI 도구는 배포 전 개인정보영향평가(PIA)를 받아야 하며, DepEd AI 레지스트리에 도구명·제조사·목적·위험 등급·준법 현황을 등록해야 합니다. 절차적 안전장치를 제도화한 것입니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">아시아 AI 교육정책 스펙트럼</h2>\n  <p style=\"margin:0 0 36px;\">아시아 각국의 접근법은 다양합니다. 한국은 AI 디지털 교과서(AIDT)를 통해 AI를 적극 도구로 활용하되, 교육현장 안면인식 관련 별도 규제는 아직 부재합니다. 싱가포르는 평생교육 차원에서 AI 접근성 확대에 집중하고 있으며, 호주는 학생 자기 성찰에 AI를 활용하는 방식을 시도 중입니다. 필리핀은 아시아에서 가장 명확한 금지 목록과 절차적 의무를 제시하며 EU AI법에 가장 근접한 모델로 평가받습니다.</p>\n\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.gmanetwork.com/news/scitech/technology/978018/deped-issues-ai-guidelines-for-basic-education-bans-facial-recognition-tools/story/\" style=\"color:#4338ca;text-decoration:none;\">GMA News — 필리핀 DepEd AI 가이드라인 발표 (2026.02.27)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.deped.gov.ph/2026/02/20/february-20-2026-do-003-s-2026-foundational-guidelines-on-artificial-intelligence-ai-in-basic-education/\" style=\"color:#4338ca;text-decoration:none;\">DepEd 공식 — DO No. 003, s. 2026 원문</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://newsinfo.inquirer.net/2187647/deped-issues-ai-guidelines-human-centered-approach-must-be-prioritized\" style=\"color:#4338ca;text-decoration:none;\">Inquirer — 인간 중심 접근 우선 강조 (2026.02.27)</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "AI교육정책",
+      "필리핀교육",
+      "안면인식",
+      "아시아교육"
+    ],
+    "references": [
+      {
+        "num": 1,
+        "url": "https://www.gmanetwork.com/news/scitech/technology/978018/deped-issues-ai-guidelines-for-basic-education-bans-facial-recognition-tools/story/",
+        "title": "GMA News — 필리핀 DepEd AI 가이드라인 발표"
+      },
+      {
+        "num": 2,
+        "url": "https://www.deped.gov.ph/2026/02/20/february-20-2026-do-003-s-2026-foundational-guidelines-on-artificial-intelligence-ai-in-basic-education/",
+        "title": "DepEd 공식 — DO No. 003, s. 2026"
+      },
+      {
+        "num": 3,
+        "url": "https://newsinfo.inquirer.net/2187647/deped-issues-ai-guidelines-human-centered-approach-must-be-prioritized",
+        "title": "Inquirer — 인간 중심 접근 우선 강조"
+      }
+    ],
+    "word_count": 810,
+    "article_type": "news"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-heartbeat",
+      "action": "sourced",
+      "timestamp": "2026-03-03T17:37:21.709440"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-03T10:08:58+01:00",
+      "note": "relevance_score 86 ≥ 75 — 자동 취재 배정"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-03T11:57:00+01:00"
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T10:11:00+01:00"
+    },
+    {
+      "agent": "fact-checker",
+      "action": "flagged",
+      "timestamp": "2026-03-04T12:19:00+01:00",
+      "note": "전체 신뢰도 76, FLAG. ⚠️ 핵심 플래그: 소제목 \"아시아 최초 수준\" — Manila Bulletin 등 원문은 \"필리핀 최초\"로만 표현, 아시아 최초 검증 불가(confidence 45). 나머지 주장(DO003 발령, 금지 목록, K-3 제한, PIA/레지스트리, EU AI법 비교)은 모두 SUPPORTED. 소제목 \"아시아 최초\" → \"필리핀 최초\" 또는 \"아시아에서 가장 상세한 수준 중 하나\"로 수정 시 PASS 가능."
+    },
+    {
+      "agent": "editor-desk",
+      "action": "revision-requested",
+      "timestamp": "2026-03-04T12:23:00+01:00",
+      "note": "FLAG 76, 1차 수정 요청. revision_count=1. 소제목 '아시아 최초 초중등 AI 포괄 지침' → '필리핀 최초' 또는 '아시아에서 가장 상세한 수준 중 하나'로 완화 필요. 리드 '아시아에서 가장 상세한 수준'은 허용. 나머지 주장 모두 SUPPORTED — 소제목만 수정하면 PASS 가능."
+    }
+  ],
+  "fact_check_report": {
+    "overall_confidence": 76,
+    "verdict": "FLAG",
+    "claims": [
+      {
+        "claim": "DepEd Order No. 003, s. 2026 — 2026년 2월 20일 발령",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "DepEd 공식 사이트(deped.gov.ph)에서 DO 003, s. 2026 원문 게시 확인. GMA News, Inquirer, Manila Bulletin 등 복수 필리핀 주요 언론 동일 날짜 보도.",
+        "source_url": "https://www.deped.gov.ph/2026/02/20/february-20-2026-do-003-s-2026-foundational-guidelines-on-artificial-intelligence-ai-in-basic-education/",
+        "flagged": false
+      },
+      {
+        "claim": "아시아 최초 수준의 초중등 AI 포괄 지침 — 소제목 및 리드 표현",
+        "type": "definitional",
+        "verdict": "UNVERIFIABLE",
+        "confidence": 45,
+        "evidence": "⚠️ Manila Bulletin(2026.01.09)은 \"필리핀 최초 국가 프레임워크\"로만 표현. 아시아 전체 최초 여부는 확인 불가. 싱가포르, 일본, 중국 등 다른 아시아 국가의 유사 교육 AI 정책 존재 가능성 배제 불가. 소제목 \"아시아 최초\"는 \"필리핀 최초\" 또는 \"아시아에서 가장 상세한 수준 중 하나\"로 완화 필요.",
+        "source_url": "https://mb.com.ph/2026/01/09/ph-to-harness-ai-for-development-as-deped-launches-agapai-says-pbbm",
+        "flagged": true
+      },
+      {
+        "claim": "생체인식·안면인식 시스템 전면 금지",
+        "type": "definitional",
+        "verdict": "SUPPORTED",
+        "confidence": 80,
+        "evidence": "GMA News, Manila Bulletin, PNA 등에서 금지 확인. 단, PNA는 \"untargeted facial recognition scraping\"으로 표현해 완전한 블랭킷 금지보다 다소 구체적. 기사의 \"전면 금지\" 표현은 약간 과포괄적일 수 있으나 핵심은 정확.",
+        "source_url": "https://www.pna.gov.ph/articles/1269776",
+        "flagged": false
+      },
+      {
+        "claim": "사회 점수 시스템 및 미성년자 행동 조작 AI 금지",
+        "type": "definitional",
+        "verdict": "SUPPORTED",
+        "confidence": 93,
+        "evidence": "GMA News, Manila Bulletin, PNA 모두 \"social scoring\" 및 \"manipulative chatbot targeting of minors\" 금지 확인.",
+        "source_url": "https://www.gmanetwork.com/news/scitech/technology/978018/deped-issues-ai-guidelines-for-basic-education-bans-facial-recognition-tools/story/",
+        "flagged": false
+      },
+      {
+        "claim": "K-3 학생 AI 직접 상호작용 제한, 교사 감독 및 학부모 고지 의무",
+        "type": "definitional",
+        "verdict": "SUPPORTED",
+        "confidence": 90,
+        "evidence": "GMA News 원문에서 확인: K-3 학생 AI 직접 상호작용 제한, 교사 감독 및 학부모 동의 필요.",
+        "source_url": "https://www.gmanetwork.com/news/scitech/technology/978018/deped-issues-ai-guidelines-for-basic-education-bans-facial-recognition-tools/story/",
+        "flagged": false
+      },
+      {
+        "claim": "AI 도구 배포 전 개인정보영향평가(PIA) 의무화, DepEd AI 레지스트리 등록 필수",
+        "type": "definitional",
+        "verdict": "SUPPORTED",
+        "confidence": 90,
+        "evidence": "GMA News에서 PIA 의무화 및 AI 레지스트리(도구명·제조사·목적·위험 등급·준법 현황) 등록 요건 확인.",
+        "source_url": "https://www.gmanetwork.com/news/scitech/technology/978018/deped-issues-ai-guidelines-for-basic-education-bans-facial-recognition-tools/story/",
+        "flagged": false
+      },
+      {
+        "claim": "Sonny Angara 교육장관 발언: \"교실 내 AI 사용이... 기본 교육 시스템의 역량을 초과했다\"",
+        "type": "attribution",
+        "verdict": "UNVERIFIABLE",
+        "confidence": 60,
+        "evidence": "Inquirer(newsinfo.inquirer.net)에서 Angara 발언 보도 확인되나 정확한 인용 문구는 1차 검색으로 직접 대조 불가. 기사 내용의 취지(AI 사용이 현 교육 시스템 역량 초과)는 복수 보도에서 일관되게 전달됨.",
+        "source_url": "https://newsinfo.inquirer.net/2187647/deped-issues-ai-guidelines-human-centered-approach-must-be-prioritized",
+        "flagged": false
+      },
+      {
+        "claim": "EU AI법과 유사한 위험 기반 접근법 채택",
+        "type": "definitional",
+        "verdict": "SUPPORTED",
+        "confidence": 85,
+        "evidence": "GMA News: \"DepEd adopted a risk-based approach\" 명시. EU AI Act의 위험 기반 분류 방식과 구조적 유사성은 복수 분석 기사에서 지적.",
+        "source_url": "https://www.gmanetwork.com/news/scitech/technology/978018/deped-issues-ai-guidelines-for-basic-education-bans-facial-recognition-tools/story/",
+        "flagged": false
+      }
+    ]
+  },
+  "revision_count": 1
+}

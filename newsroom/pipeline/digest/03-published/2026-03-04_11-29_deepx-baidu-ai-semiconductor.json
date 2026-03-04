@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "DEEPX demonstrates AI semiconductor to President Lee Jae-myung in Singapore, showcasing ultra-low-heat, low-power chip",
+    "url": "https://www.mk.co.kr/en/business/11977306",
+    "source_name": "MK (매일경제)",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "Korean AI chip startup DEEPX demonstrated its ultra-low-heat, low-power AI semiconductor to President Lee Jae-myung during a Singapore visit. DEEPX has formed a partnership with Baidu to supply chips for robots, drones, and factory automation equipment, and signed a contract to supply 40,000 AI semiconductors as its first mass-production project. The deal highlights growing Korean competitiveness in the edge AI chip market and expanding China-Korea tech collaboration.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T10:29:00Z"
+  },
+  "digest": {
+    "headline": "DEEPX, 싱가포르서 이재명 대통령에 '버터도 안 녹는' AI 반도체 시연…바이두에 4만 개 납품",
+    "lead": "국내 엣지 AI 반도체 스타트업 DEEPX가 이재명 대통령의 싱가포르 방문 현장에서 초저전력 AI 칩 기술을 시연해 주목받았다. 바이두와의 파트너십을 통해 로봇·드론·공장 자동화 장비용 반도체 4만 개 납품 계약을 체결하고, 현대자동차 로봇용 'Edge Brain' 칩 양산도 눈앞에 뒀다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">국내 엣지 AI 반도체 스타트업 DEEPX가 이재명 대통령의 싱가포르 방문 현장에서 초저전력 AI 칩 기술을 시연해 주목받았다. 바이두와의 파트너십을 통해 로봇·드론·공장 자동화 장비용 반도체 4만 개 납품 계약을 체결하고, 현대자동차 로봇용 'Edge Brain' 칩 양산도 눈앞에 뒀다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">DEEPX는 한국-싱가포르 AI 커넥트 서밋에서 'Butter Benchmark Demo'를 통해 DX-M1 칩의 저발열 성능을 직관적으로 선보였다. AI 연산 중 반도체 위에 버터를 올려두는 실험에서 DEEPX 칩 위의 버터만 녹지 않아 큰 화제를 모았다. 이 칩은 GPU급 연산 성능을 유지하면서도 소비전력을 대폭 낮춘 것이 특징으로, 현대자동차와 공동 개발 중인 로봇용 Edge Brain 칩에도 탑재될 예정이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 시연은 한국 엣지 AI 반도체 기술력을 대통령 외교 무대에서 증명한 상징적 사건으로 평가된다. 바이두 4만 개 납품은 DEEPX의 첫 대규모 양산 프로젝트로, 한·중 AI 기술 협력의 새 장을 열었다는 의미를 갖는다. 글로벌 엣지 AI 칩 시장에서 국내 스타트업의 경쟁력이 빠르게 높아지고 있다는 신호로도 읽힌다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">초저전력 온디바이스 AI 칩은 데이터센터 연결 없이도 실시간 AI 추론이 가능해, 스마트 교실 내 AI 카메라·학습 로봇·에듀테크 단말기의 도입 비용과 인프라 의존성을 크게 낮출 수 있다. 클라우드를 거치지 않고 학내 기기에서 직접 AI를 구동할 수 있어, 학생 개인정보 보호 측면에서도 유리하다. 에듀테크 스타트업에게는 저비용·저전력 온디바이스 AI 탑재라는 새로운 제품 전략 옵션이 열리고 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.mk.co.kr/en/business/11977306\" style=\"color:#FF6B35;text-decoration:none;\">MK (매일경제)</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "DEEPX, 이재명 대통령에 초저전력 AI 반도체 시연…바이두 4만 개 납품 계약",
+    "meta_description": "국내 엣지 AI 반도체 스타트업 DEEPX가 싱가포르에서 이재명 대통령에게 초저전력 DX-M1 칩을 시연했다. 바이두에 4만 개 납품 계약 체결, 현대자동차 로봇용 Edge Brain 양산도 앞뒀다.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T10:29:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T10:42:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T10:46:44.424Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a80d942eb9520001fe7ccb",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a80d942eb9520001fe7ccb",
+    "public_url": "https://insight.ubion.global/deepx-singgaporeuseo-ijaemyeong-daetongryeonge-beoteodo-an-nogneun-ai-bandoce-siyeon-baidue-4man-gae-nabpum/",
+    "status": "published",
+    "published_at": "2026-03-04T10:46:44.000Z"
+  }
+}

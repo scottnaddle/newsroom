@@ -1,0 +1,105 @@
+{
+  "stage": "drafted",
+  "source": {
+    "title": "미국 브로워드 카운티, 세계 최대 규모 학교 AI 도입 — 마이크로소프트 코파일럿 전체 배포",
+    "url": "https://www.nytimes.com/2026/03/02/nyregion/nyc-ai-schools-mamdani.html",
+    "source_name": "New York Times",
+    "language": "en",
+    "relevance_score": 86,
+    "summary": "미국 플로리다 브로워드 카운티(미 6위 규모 학군), 마이크로소프트 코파일럿을 전 학구에 배포. '세계 최대 교육 현장 AI 도입'으로 선언. 뉴욕시는 여전히 보류.",
+    "published_date": "2026-03-02",
+    "collected_at": "2026-03-03T19:12:03.738378"
+  },
+  "desk_instructions": "미국 6위 학군(플로리다 브로워드 카운티)의 MS Copilot 전 학구 배포 — 글로벌 교육 AI 도입 현황 맥락으로 취재. 뉴욕시 보류 현황과 대비.\n\n[REVISE R1] FLAG 78: 두 가지 미검증 비교 수치 수정 필요. (1) '마이애미 Google Gemini 고등학생 10만 명+' — 1차 소스 미확인, '수만 명' 또는 '복수의 고등학교' 등 헤징 필요. (2) 'Prince George's County 콜린 캐퍼닉 협업 AI 그래픽 디자인 툴' — 1차 소스 미확인, 제거하거나 출처 명기 필수. 핵심 BCPS-MS Copilot 스토리는 SUPPORTED. 비교 문맥만 수정 후 재제출.",
+  "reporting_brief": {
+    "facts": [
+      {
+        "claim": "플로리다 브로워드 카운티 교육구(BCPS), MS 365 Copilot 전 학구 배포 — 세계 최대 K-12 MS Copilot 도입 사례 공식 선언.",
+        "source_url": "https://www.browardschools.com/p/~board/district-news-news-room-135038/post/bcps-collaborates-with-microsoft-on-historic-districtwide-launch-of-artificial-intelligence-342636-63656"
+      },
+      {
+        "claim": "마이애미 Google Gemini 고등학생 10만 명 배포, Prince George's County는 Kaepernick AI 그래픽 디자인 툴 도입.",
+        "source_url": "https://dnyuz.com/2026/03/02/u-s-schools-are-betting-big-on-a-i-will-new-york-city-be-next/"
+      },
+      {
+        "claim": "미국 최대 학군 뉴욕시(학생 100만 명+)는 ChatGPT 초기 금지 이후 대규모 AI 파트너십 미체결 상태.",
+        "source_url": "https://dnyuz.com/2026/03/02/u-s-schools-are-betting-big-on-a-i-will-new-york-city-be-next/"
+      },
+      {
+        "claim": "이사회 의장 Debra Hixon: '21세기 공공-민간 협력의 혁신 모델'.",
+        "source_url": "https://www.browardschools.com/p/~board/district-news-news-room-135038/post/bcps-collaborates-with-microsoft-on-historic-districtwide-launch-of-artificial-intelligence-342636-63656"
+      }
+    ],
+    "perspectives": [
+      "찬성: AI 도구를 모든 학생에게 민주적으로 제공. 빠른 실행으로 AI 격차 해소 선도.",
+      "우려: 미성년 학생 데이터 MS 수집 우려. 형평성 — 디지털 기기·인터넷 부족 가정 학생 소외 지속.",
+      "비교: 한국·싱가포르(정부 주도) vs 미국(학구별 민간 파트너십 경쟁)."
+    ]
+  },
+  "draft": {
+    "headline": "미 6위 학군, MS 코파일럿 전 학구 배포…세계 최대",
+    "subheadline": "뉴욕시는 여전히 보류 — 미국 내 AI 도입 속도 양극화",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <div style=\"border-left:4px solid #d97706;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 6위 규모 학군인 플로리다 브로워드 카운티 교육구(BCPS)가 마이크로소프트 365 Copilot을 전 학구에 배포하며 '세계 최대 K-12 AI 도입' 사례로 공식 선언했습니다. 반면 미국 최대 학군 뉴욕시는 ChatGPT 금지 이후 아직 대규모 AI 파트너십을 맺지 않은 채 신중한 입장을 유지하고 있어, 미국 내 AI 교육 도입 속도의 양극화가 뚜렷해지고 있습니다.</p>\n  </div>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">21세기 공공-민간 협력 모델 선언</h2>\n  <p style=\"margin:0 0 36px;\">BCPS 이사회 의장 Debra Hixon은 이번 도입을 '21세기 공공-민간 협력의 혁신 모델'로 평가했습니다. 교육장은 MS Copilot의 전 학구 배포를 통해 'AI의 힘을 학구 모든 곳으로' 가져가겠다는 비전을 공언했습니다. 플로리다 마이애미도 이미 구글 Gemini를 10만 명 이상의 고등학생에게 배포했고, 메릴랜드 Prince George's 카운티는 콜린 캐퍼닉과 협업한 AI 기반 그래픽 디자인 툴을 교실에 도입하는 등 미국 각 학구의 AI 도입 경쟁이 본격화되고 있습니다.</p>\n\n  <blockquote style=\"border-left:4px solid #d97706;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">\"이것은 21세기 공공-민간 협력의 혁신적인 모델입니다.\"</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— Debra Hixon, 브로워드 카운티 교육 이사회 의장</p>\n  </blockquote>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">뉴욕시의 신중한 보류</h2>\n  <p style=\"margin:0 0 36px;\">학생 100만 명이 넘는 미국 최대 학군 뉴욕시는 2023년 ChatGPT를 학교 네트워크에서 금지한 이후 줄곧 대규모 AI 파트너십을 맺지 않고 있습니다. Mamdani 신임 시장 행정부가 어떤 결정을 내릴지 교육계의 관심이 집중되고 있습니다. 빠르게 움직이는 다른 학군과 달리 신중론을 유지하는 뉴욕시는, 학생 프라이버시 보호와 AI 효과 검증을 우선시한다는 입장입니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">학구별 민간 파트너십 vs 국가 주도</h2>\n  <p style=\"margin:0 0 36px;\">미국의 AI 교육 도입 방식은 각 학구가 민간 기업과 개별 파트너십을 맺는 분산형 구조입니다. 한국이 교육부 주도로 AI 디지털 교과서를 전국에 일괄 도입하거나, 싱가포르가 정부 주도로 교사 연수를 우선 추진하는 것과 대조됩니다. 학구별 격차와 프라이버시 우려는 이 분산형 모델의 그림자이며, 교육 전문가 Alex Molnar는 \"잘 자금화된 기업들이 온갖 약속을 내세우며 플랫폼을 밀어붙이고 있다\"고 비판합니다.</p>\n\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.nytimes.com/2026/03/02/nyregion/nyc-ai-schools-mamdani.html\" style=\"color:#4338ca;text-decoration:none;\">New York Times — 미국 학교들의 AI 도박, 뉴욕시가 다음 차례? (2026.03.02)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://dnyuz.com/2026/03/02/u-s-schools-are-betting-big-on-a-i-will-new-york-city-be-next/\" style=\"color:#4338ca;text-decoration:none;\">DNYUZ — 미국 학교들의 AI 도입 경쟁 분석</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.browardschools.com/p/~board/district-news-news-room-135038/post/bcps-collaborates-with-microsoft-on-historic-districtwide-launch-of-artificial-intelligence-342636-63656\" style=\"color:#4338ca;text-decoration:none;\">BCPS 공식 — MS 코파일럿 전 학구 배포 발표</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "마이크로소프트",
+      "에듀테크",
+      "미국교육",
+      "AI교육"
+    ],
+    "references": [
+      {
+        "num": 1,
+        "url": "https://www.nytimes.com/2026/03/02/nyregion/nyc-ai-schools-mamdani.html",
+        "title": "New York Times — 미국 학교들의 AI 도박"
+      },
+      {
+        "num": 2,
+        "url": "https://dnyuz.com/2026/03/02/u-s-schools-are-betting-big-on-a-i-will-new-york-city-be-next/",
+        "title": "DNYUZ — 미국 학교들의 AI 도입 경쟁"
+      },
+      {
+        "num": 3,
+        "url": "https://www.browardschools.com/p/~board/district-news-news-room-135038/post/bcps-collaborates-with-microsoft-on-historic-districtwide-launch-of-artificial-intelligence-342636-63656",
+        "title": "BCPS 공식 — MS 코파일럿 전 학구 배포 발표"
+      }
+    ],
+    "word_count": 800,
+    "article_type": "news"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-heartbeat",
+      "action": "sourced",
+      "timestamp": "2026-03-03T19:12:03.738390"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-03T12:10:00+01:00",
+      "note": "relevance_score 86 >= 75 — 취재 배정"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-03T13:03:00+01:00"
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T10:11:00+01:00"
+    },
+    {
+      "agent": "fact-checker",
+      "action": "flagged",
+      "timestamp": "2026-03-04T13:27:00+01:00",
+      "note": "전체 신뢰도 78, FLAG. ⚠️ 마이애미 Gemini 10만 명 수치·캐퍼닉 프로그램 1차 소스 미확인. 핵심 주장(BCPS Copilot 최대, Hixon 발언, NYC 보류) 모두 SUPPORTED. 미확인 통계 2건 수정 또는 출처 추가 권장."
+    },
+    {
+      "agent": "editor-desk",
+      "action": "revise-requested",
+      "timestamp": "2026-03-04T12:38:45Z",
+      "reason": "FLAG 78 (75-79): 마이애미 10만명+ / 캐퍼닉 협업 비교 클레임 미검증. 헤징 또는 제거 후 재취재 지시. revision_count=1"
+    }
+  ],
+  "revision_count": 1
+}

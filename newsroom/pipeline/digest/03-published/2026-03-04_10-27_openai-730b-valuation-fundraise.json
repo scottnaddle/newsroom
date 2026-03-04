@@ -1,0 +1,35 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "OpenAI Raises Mega-Round at $730 Billion Valuation Led by Amazon, Nvidia, and SoftBank",
+    "url": "https://techstartups.com/2026/03/02/top-startup-and-tech-funding-news-march-2-2025/",
+    "source_name": "Tech Startups",
+    "language": "en",
+    "relevance_score": 92,
+    "summary": "OpenAI has closed one of the largest private tech fundraising rounds in history at a reported $730 billion valuation, with Amazon, Nvidia, and SoftBank as lead investors. The capital is earmarked to scale AI services globally and accelerate infrastructure buildout. This positions OpenAI significantly ahead of competitors in the AI enterprise services market.",
+    "published_date": "2026-03-02",
+    "collected_at": "2026-03-04T09:27:00Z"
+  },
+  "digest": {
+    "headline": "OpenAI, 7,300억 달러 기업가치로 1,100억 달러 역대급 투자 유치",
+    "lead": "OpenAI가 Amazon, NVIDIA, SoftBank를 주요 투자자로 맞아 7,300억 달러(약 1,060조 원) 기업가치를 인정받으며 1,100억 달러(약 160조 원) 규모의 민간 투자 라운드를 마감했다. 역사상 최대 규모의 민간 기술 투자 중 하나로, 이번 자금은 글로벌 AI 서비스 확대와 인프라 구축 가속화에 투입될 예정이다.",
+    "ghost_tags": ["ai-digest", "ai", "technology", "openai"],
+    "meta_title": "OpenAI, 7,300억 달러 기업가치로 1,100억 달러 역대급 투자 유치",
+    "meta_description": "Amazon·NVIDIA·SoftBank 주도로 OpenAI가 7,300억 달러 밸류에이션 확정. 역대 최대 민간 기술 투자 라운드 중 하나로 AI 인프라 확장에 자금 투입 예정.",
+    "word_count": 540
+  },
+  "publish_result": {
+    "ghost_post_id": "69a7ff0d2eb9520001fe7cc1",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a7ff0d2eb9520001fe7cc1",
+    "public_url": "https://insight.ubion.global/openai-7-300eog-dalreo-gieobgaciro-1-100eog-dalreo-yeogdaegeub-tuja-yuci/",
+    "status": "published",
+    "published_at": "2026-03-04T09:44:45.000Z",
+    "feature_image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "audit_log": [
+    {"agent": "digest-collector", "action": "sourced", "timestamp": "2026-03-04T09:27:00Z"},
+    {"agent": "digest-writer", "action": "drafted", "timestamp": "2026-03-04T10:41:00Z"},
+    {"agent": "digest-publisher", "action": "published", "timestamp": "2026-03-04T09:44:45Z"}
+  ]
+}
