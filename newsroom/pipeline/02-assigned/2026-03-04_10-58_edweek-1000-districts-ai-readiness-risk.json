@@ -1,0 +1,27 @@
+{
+  "stage": "assigned",
+  "source": {
+    "title": "미국 1,000개 학군 AI 실태 조사 — 준비도·위험 격차 첫 공개",
+    "url": "https://www.edweek.org/events/webinar/ai-in-schools-what-1-000-districts-reveal-about-readiness-and-risk",
+    "source_name": "Education Week",
+    "language": "en",
+    "relevance_score": 83,
+    "summary": "미국 1,000개 이상 학군 AI 사용 데이터 분석: 학생들의 실시간 AI 활용 실태, 준비도·위험 격차 공개. '금지 vs 허용' 이분법 넘어 책임 있는 활용 방향 논의.",
+    "published_date": "2026-03-04",
+    "collected_at": "2026-03-04T10:58:57.604054"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector-heartbeat",
+      "action": "sourced",
+      "timestamp": "2026-03-04T10:58:57.604065"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-04T11:37:37.761521+09:00",
+      "note": "relevance_score 83 ≥ 75 — 취재 배정"
+    }
+  ],
+  "desk_instructions": "미국 1,000개 학군 AI 실태 조사 보도. 핵심 각도: 준비도·위험 격차 — '금지 vs 허용' 이분법을 넘어 책임 있는 활용 방향. 가능하다면 한국 학교 AI 도입 현황과 비교 시각 포함. Education Week 웨비나 원본 URL 확인 및 실제 데이터 수치 인용 확보 필요."
+}
