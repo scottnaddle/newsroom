@@ -60,7 +60,7 @@
 </div>
 
 <script>
-const API='http://212.47.67.143:3847/api/status';
+const API='https://insight.ubion.global/content/newsroom/status.json';
 function esc(s){return String(s||'').replace(/</g,'&lt;');}
 function ago(t){if(!t)return'';const d=Math.floor((Date.now()-new Date(t))/60000);if(d<1)return'방금';if(d<60)return d+'분 전';if(d<1440)return Math.floor(d/60)+'시간 전';return Math.floor(d/1440)+'일 전';}
 
