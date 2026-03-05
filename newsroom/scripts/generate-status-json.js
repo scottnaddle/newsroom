@@ -103,8 +103,61 @@ function getStatus() {
   const totalPublished = countFiles('08-published');
   const totalDigest = countFiles('digest/03-published');
   
+  // 경고 생성
+  const alerts = [];
+  
+  // 1. 병목 단계 (5개 이상)
+  STAGES.forEach(stage => {
+    if (stage.dir !== '08-published') {
+      const count = countFiles(stage.dir);
+      if (count >= 5) {
+        alerts.push({
+          level: count >= 10 ? 'critical' : 'warning',
+          icon: '⚠️',
+          message: `${stage.name}(${stage.agent}): ${count}개 쌓임`,
+          stage: stage.dir,
+          count
+        });
+      }
+    }
+  });
+  
+  // 2. 발행 정체 (24시간 이상 발행 없음)
+  const lastPublished = getRecentFiles('08-published', 1);
+  if (lastPublished.length > 0) {
+    const lastTime = new Date(lastPublished[0].published_at);
+    const now = new Date();
+    const hoursDiff = (now - lastTime) / (1000 * 60 * 60);
+    
+    if (hoursDiff > 4) {
+      alerts.push({
+        level: hoursDiff > 12 ? 'critical' : 'warning',
+        icon: '🔴',
+        message: `${Math.floor(hoursDiff)}시간 동안 발행된 기사 없음`,
+        stage: '08-published',
+        hoursDiff: Math.floor(hoursDiff)
+      });
+    }
+  }
+  
+  // 3. 아주 높은 거부율
+  const totalAttempts = totalPublished + rejectedCount;
+  if (totalAttempts > 0) {
+    const rejectRate = (rejectedCount / totalAttempts) * 100;
+    if (rejectRate > 40) {
+      alerts.push({
+        level: 'warning',
+        icon: '🚫',
+        message: `거부율 높음: ${Math.round(rejectRate)}% (${rejectedCount}/${totalAttempts})`,
+        stage: 'rejected',
+        rate: Math.round(rejectRate)
+      });
+    }
+  }
+  
   return {
     timestamp: new Date().toISOString(),
+    alerts,
     pipeline,
     digest,
     rejected: { education: rejectedCount, digest: digestRejectedCount },
