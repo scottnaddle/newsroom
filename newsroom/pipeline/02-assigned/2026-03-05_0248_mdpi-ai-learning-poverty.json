@@ -1,0 +1,14 @@
+{
+  "id": "20260305-0248-mdpi-ai-learning-poverty",
+  "collected_at": "2026-03-05T02:48:00+01:00",
+  "priority": 2,
+  "source": {
+    "title": "Leveraging AI to Mitigate Learning Poverty in the Digital Era: The Impacts of Integrated AI Educational Tools on Students' Literacy Skills",
+    "url": "https://www.mdpi.com/2673-2688/7/3/84",
+    "source_name": "MDPI (Peer-reviewed journal)",
+    "relevance_score": 81,
+    "summary": "Research on AI-powered educational tools (NoRedInk, Rewordify, LanguageTool) and their impact on student literacy development. Curriculum integration strategies and adaptive learning support.",
+    "tags": ["AI literacy", "student learning", "educational research", "adaptive tools"],
+    "collected_via": "heartbeat_search"
+  }
+}
