@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "VCI Global's V Gallant Launches Malaysia's First NVIDIA-Powered AI GPU Computing Center; Debuts Intelli-X Enterprise LLM Platform",
+    "url": "https://macaubusiness.com/vci-globals-v-gallant-launches-malaysias-first-nvidia-powered-ai-gpu-computing-center-debuts-intelli-x-enterprise-llm-platform/",
+    "source_name": "Macau Business",
+    "language": "en",
+    "relevance_score": 72,
+    "summary": "VCI Global subsidiary V Gallant has launched Malaysia's first NVIDIA-powered AI GPU computing center, alongside the unveiling of Intelli-X, a standardized Enterprise LLM platform engineered for secure generative AI deployment and workflow automation across regulated industries, government agencies, and SMEs. The move signals expanding AI infrastructure investment in Southeast Asia.",
+    "published_date": "2026-03-04",
+    "collected_at": "2026-03-04T15:00:00Z"
+  },
+  "digest": {
+    "headline": "말레이시아, 동남아 최초 엔비디아 AI GPU 컴퓨팅 센터 가동… 기업용 LLM 플랫폼도 출시",
+    "lead": "VCI 글로벌의 자회사 V 갤런트가 2026년 3월 3일 말레이시아 최초의 엔비디아 기반 AI GPU 컴퓨팅 센터를 정식 가동했다. 동시에 기업용 LLM 플랫폼 'Intelli-X'를 출시, 정부·기업·중소기업을 대상으로 안전한 생성형 AI 배포와 워크플로우 자동화 서비스를 시작했다. 말레이시아는 2030년까지 AI 인프라 투자 400억 달러 이상을 목표로 동남아 AI 허브로 부상하고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">VCI 글로벌의 자회사 V 갤런트가 2026년 3월 3일 말레이시아 최초의 엔비디아 기반 AI GPU 컴퓨팅 센터를 정식 가동했다. 동시에 기업용 LLM 플랫폼 'Intelli-X'를 출시, 정부·기업·중소기업을 대상으로 안전한 생성형 AI 배포와 워크플로우 자동화 서비스를 시작했다. 말레이시아는 2030년까지 AI 인프라 투자 400억 달러 이상을 목표로 동남아 AI 허브로 부상하고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">동남아시아 AI 인프라 수요가 급증하는 가운데, 말레이시아는 정부 인센티브와 외국 빅테크 투자를 바탕으로 지역 AI 거점으로 주목받고 있다. V 갤런트의 GPU 컴퓨팅 센터는 방화벽 내에서 독자적으로 AI 모델을 훈련·배포할 수 있는 환경을 제공해, 데이터를 해외 클라우드에 올려야 하는 데이터 주권 문제를 해소한다. Intelli-X는 구독 기반 SaaS 모델로 중소기업도 기업급 LLM을 비교적 낮은 비용으로 도입할 수 있게 설계됐다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">동남아 각국의 자국 AI 인프라 구축 경쟁은 미국·중국 빅클라우드 의존도를 낮추려는 전략적 흐름의 일환이다. 말레이시아 AI 분야가 2030년까지 국내총생산에 1,150억 달러를 기여할 것이라는 정부 전망은 이 투자 경쟁에 강력한 동인을 제공한다. 지역 AI 인프라 확충은 글로벌 AI 컴퓨팅 권력의 탈집중화를 가속할 전망이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">동남아 AI 인프라 확충은 해당 지역 에듀테크 스타트업이 로컬 클라우드 기반으로 AI 학습 플랫폼을 구축할 수 있는 여건을 개선한다. 특히 데이터 현지화 규제가 강한 시장에서 교육 데이터를 자국 내에서 처리할 수 있는 에듀테크 솔루션 수요가 높아질 것이며, Intelli-X 같은 구독형 LLM 플랫폼은 교육 스타트업의 AI 도입 진입장벽을 낮추는 역할을 할 수 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://macaubusiness.com/vci-globals-v-gallant-launches-malaysias-first-nvidia-powered-ai-gpu-computing-center-debuts-intelli-x-enterprise-llm-platform/\" style=\"color:#FF6B35;text-decoration:none;\">Macau Business</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "말레이시아, 동남아 최초 엔비디아 AI GPU 센터 가동",
+    "meta_description": "VCI 글로벌 자회사 V 갤런트가 말레이시아 최초 엔비디아 AI GPU 컴퓨팅 센터를 가동하고 기업용 LLM 플랫폼 Intelli-X를 출시했다. 동남아 AI 인프라 확충이 에듀테크 환경에 미치는 영향을 분석한다.",
+    "word_count": 510
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T15:00:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T16:02:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T15:09:12.115Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a84b17e2eb440001d557db",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a84b17e2eb440001d557db",
+    "public_url": "https://ubion.ghost.io/malreisia-dongnama-coeco-enbidia-ai-gpu-keompyuting-senteo-gadong-gieobyong-llm-peulraespomdo-culsi/",
+    "status": "published",
+    "published_at": "2026-03-04T15:09:11.000Z"
+  }
+}

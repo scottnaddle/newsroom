@@ -1,0 +1,35 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "February AI Venture Capital Surges Led by OpenAI, Anthropic, Waymo",
+    "url": "https://mezha.net/eng/bukvy/february-ai-venture-capital-surges-led-by-openai-anthropic-waymo/",
+    "source_name": "Mezha.net",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "February 2026 saw a massive surge in AI venture capital, with OpenAI, Anthropic, and Waymo leading the charge. Nearly 20 US AI startups raised mega funding rounds of $100 million or more in early 2026, signaling a year of explosive investment and growth in the AI sector.",
+    "published_date": "2026-03-04",
+    "collected_at": "2026-03-04T16:02:00Z"
+  },
+  "digest": {
+    "headline": "2월 글로벌 AI 벤처 투자 1,890억 달러 돌파 — OpenAI·Anthropic·Waymo가 83% 독식",
+    "lead": "2026년 2월 전 세계 벤처캐피털 투자 규모가 역대 최고인 1,890억 달러를 기록했으며, 이 중 AI 스타트업이 1,710억 달러(약 90%)를 흡수했다. OpenAI(1,100억 달러), Anthropic(300억 달러), Waymo(160억 달러) 세 기업만으로 2월 전체 VC 투자의 83%를 차지했으며, 투자 규모는 1월 대비 3배 이상 급증했다.",
+    "ghost_tags": ["ai-digest", "ai", "technology", "openai", "research"],
+    "meta_title": "2월 글로벌 AI VC 1,890억 달러 — OpenAI·Anthropic·Waymo 83% 독점",
+    "meta_description": "2026년 2월 전 세계 AI 벤처 투자가 역대 최고 1,890억 달러를 기록. OpenAI 1,100억 달러, Anthropic 300억 달러, Waymo 160억 달러로 세 기업이 83% 독식. 에듀테크 API 비용 리스크 주목.",
+    "word_count": 520
+  },
+  "publish_result": {
+    "ghost_post_id": "69a85977e2eb440001d557e3",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a85977e2eb440001d557e3",
+    "public_url": "https://insight.ubion.global/2weol-geulrobeol-ai-benceo-tuja-1-890eog-dalreo-dolpa-openai-anthropic-waymoga-83-dogsig/",
+    "status": "published",
+    "published_at": "2026-03-04T16:10:31.000Z",
+    "feature_image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "audit_log": [
+    {"agent": "digest-collector", "action": "sourced", "timestamp": "2026-03-04T16:02:00Z"},
+    {"agent": "digest-writer", "action": "drafted", "timestamp": "2026-03-04T16:04:00Z"},
+    {"agent": "digest-publisher", "action": "published", "timestamp": "2026-03-04T16:10:31.000Z"}
+  ]
+}

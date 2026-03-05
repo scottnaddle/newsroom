@@ -1,0 +1,14 @@
+{
+  "id": "20260305-0215-nyc-schools-ai-adoption",
+  "collected_at": "2026-03-05T02:15:00+01:00",
+  "priority": 2,
+  "source": {
+    "title": "U.S. Schools Are Betting Big on A.I. Will New York City Be Next?",
+    "url": "https://www.nytimes.com/2026/03/02/nyregion/nyc-ai-schools-mamdani.html",
+    "source_name": "The New York Times",
+    "relevance_score": 85,
+    "summary": "Sixth-largest U.S. school system (Broward County, Florida) deployed Microsoft Copilot in educational setting. NY considering similar adoption. Deep dive on school district AI implementation strategies and outcomes.",
+    "tags": ["AI in schools", "K-12 education", "educational technology", "Copilot adoption"],
+    "collected_via": "heartbeat_search"
+  }
+}

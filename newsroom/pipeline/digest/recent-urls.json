@@ -1,5 +1,85 @@
 [
   {
+    "url": "https://apnews.com/article/anthropic-pentagon-openai-claude-chatgpt-military-ai-b2bbcf5fda3f27353eae1e0eb7ab07b6",
+    "collected_at": "2026-03-05T01:34:00Z"
+  },
+  {
+    "url": "https://www.vox.com/politics/481229/anthropic-pentagon-openai-amodei-ai",
+    "collected_at": "2026-03-05T01:34:00Z"
+  },
+  {
+    "url": "https://www.mwcbarcelona.com/articles/gsma-and-zindi-launch-landmark-african-ai-safety-challenge-to-shape-global-standards-for-trustworthy-ai",
+    "collected_at": "2026-03-05T01:34:00Z"
+  },
+  {
+    "url": "https://www.prnewswire.com/news-releases/digital-sovereignty-push-exposes-gaps-in-government-control-of-cloud-and-ai-infrastructure-says-info-tech-research-group-302704340.html",
+    "collected_at": "2026-03-05T00:27:00Z"
+  },
+  {
+    "url": "https://rollcall.com/2026/03/03/what-to-watch-from-trumps-national-ai-standard/",
+    "collected_at": "2026-03-05T00:27:00Z"
+  },
+  {
+    "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+    "collected_at": "2026-03-05T00:27:00Z"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/03/03/anthropic-fallout-iran-war-tech-military-ai.html",
+    "collected_at": "2026-03-04T21:22:00Z"
+  },
+  {
+    "url": "https://www.theguardian.com/media/2026/mar/04/news-corp-meta-ai-deal-us50m",
+    "collected_at": "2026-03-04T21:22:00Z"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c3rz1nd0egro",
+    "collected_at": "2026-03-04T21:22:00Z"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html",
+    "collected_at": "2026-03-04T21:22:00Z"
+  },
+  {
+    "url": "https://fortune.com/2026/03/03/the-pentagons-fight-with-anthropic-was-the-first-real-test-for-how-we-will-control-powerful-ai-the-bad-news-we-all-failed/",
+    "collected_at": "2026-03-04T18:11:00Z"
+  },
+  {
+    "url": "https://blog.mean.ceo/venture-capital-trends-march-2026/",
+    "collected_at": "2026-03-04T18:11:00Z"
+  },
+  {
+    "url": "https://www.analyticsinsight.net/artificial-intelligence/master-large-language-models-in-2026-10-must-vist-github-repositories",
+    "collected_at": "2026-03-04T17:04:00Z"
+  },
+  {
+    "url": "https://blog.mean.ceo/startup-funding-trends-march-2026/",
+    "collected_at": "2026-03-04T17:04:00Z"
+  },
+  {
+    "url": "https://mezha.net/eng/bukvy/february-ai-venture-capital-surges-led-by-openai-anthropic-waymo/",
+    "collected_at": "2026-03-04T16:02:00Z"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/03/04/world/asia/china-ai-enthusiasm.html",
+    "collected_at": "2026-03-04T15:00:00Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
+    "collected_at": "2026-03-04T15:00:00Z"
+  },
+  {
+    "url": "https://macaubusiness.com/vci-globals-v-gallant-launches-malaysias-first-nvidia-powered-ai-gpu-computing-center-debuts-intelli-x-enterprise-llm-platform/",
+    "collected_at": "2026-03-04T15:00:00Z"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Mar/3/gemini-31-flash-lite/",
+    "collected_at": "2026-03-04T12:51:00Z"
+  },
+  {
+    "url": "https://techstartups.com/2026/03/03/jetstream-raises-34m-seed-to-bring-real-time-governance-and-visibility-to-enterprise-ai/",
+    "collected_at": "2026-03-04T12:51:00Z"
+  },
+  {
     "url": "https://nationaltoday.com/us/ny/new-york/news/2026/03/02/google-ai-workers-demand-limits-on-military-use-after-anthropic-dispute/",
     "collected_at": "2026-03-04T12:49:00Z"
   },
@@ -84,11 +164,12 @@
     "collected_at": "2026-03-04T04:44:00+01:00"
   },
   {
-    "url": "https://www.cnbc.com/2026/03/03/anthropic-fallout-iran-war-tech-military-ai.html",
+    "url": "https://news.samsung.com/global/mwc-2026-galaxy-ai-expands-across-the-ecosystem-at-samsungs-booth",
     "collected_at": "2026-03-04T04:44:00+01:00"
   },
   {
-    "url": "https://news.samsung.com/global/mwc-2026-galaxy-ai-expands-across-the-ecosystem-at-samsungs-booth",
-    "collected_at": "2026-03-04T04:44:00+01:00"
+    "url": "https://www.reuters.com/technology/openai/",
+    "collected_at": "2026-03-05T02:38:00Z",
+    "note": "NATO contract consideration"
   }
 ]

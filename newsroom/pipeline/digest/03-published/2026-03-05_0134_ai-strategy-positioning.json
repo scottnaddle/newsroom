@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Anthropic vs. OpenAI vs. the Pentagon: the AI safety fight shaping our future",
+    "url": "https://www.vox.com/politics/481229/anthropic-pentagon-openai-amodei-ai",
+    "source_name": "Vox",
+    "language": "en",
+    "relevance_score": 86,
+    "summary": "Anthropic and OpenAI represent opposing philosophies on AI development: Anthropic emphasizes caution and safety safeguards for superintelligent machines, while OpenAI, Meta, and Google lean toward accelerationism. This ideological clash is reshaping US government AI policy.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-05T01:34:00Z"
+  },
+  "digest": {
+    "headline": "AI 규제 vs 가속주의, 실리콘밸리 진영 갈등 심화",
+    "lead": "안전을 우선하는 Anthropic과 빠른 발전을 추구하는 OpenAI·Google의 기본 철학이 대립하고 있다. 최근 Anthropic이 찬성 규제 후보 지원 슈퍼팩을 설립하며, 이 갈등이 정부 AI 정책 방향을 좌우하는 핵심 이슈로 떠올랐다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">⚡ AI Digest</span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">안전을 우선하는 Anthropic과 빠른 발전을 추구하는 OpenAI·Google의 기본 철학이 대립하고 있다. 최근 Anthropic이 찬성 규제 후보 지원 슈퍼팩을 설립하며, 이 갈등이 정부 AI 정책 방향을 좌우하는 핵심 이슈로 떠올랐다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">AI 업계의 리더들은 '초지능 기계'의 위험성에 대해 서로 다른 입장을 취하고 있다. Anthropic의 다리오 아모데이 CEO는 신중한 규제와 안전 장치가 필수라 주장하는 반면, OpenAI·Meta·Google 같은 기업들은 가속주의 철학으로 빠른 개발을 옹호한다. 이 갈등이 정부 정책 수립에까지 영향을 미치고 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 분열은 단순한 기업 간 경쟁이 아니라 AI의 미래상에 대한 근본적 이견이다. Anthropic의 슈퍼팩 설립은 규제 우호적 정치인 지원으로 이어지며, OpenAI 지원 세력과의 정치적 대결이 심화되고 있다. AI 규제의 방향성이 어느 진영에 기울 것인지가 향후 산업 생태계를 결정할 것으로 보인다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">이 철학 차이는 교육용 AI 모델의 신뢰성과 윤리 기준에 직결된다. 규제 우호적 정책이 정착될 경우 에듀테크 스타트업들이 준수해야 할 안전·투명성 기준이 높아질 것으로 예상되며, 이는 교육 현장에서 사용할 AI 모델의 품질과 안전성을 보장하는 데 긍정적인 영향을 미칠 수 있다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.vox.com/politics/481229/anthropic-pentagon-openai-amodei-ai\" style=\"color:#FF6B35;text-decoration:none;\">Vox</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation"
+    ],
+    "meta_title": "AI 규제 vs 가속주의, 실리콘밸리 진영 갈등 심화",
+    "meta_description": "Anthropic의 안전 우선 철학과 OpenAI의 가속주의가 대립하며 정부 AI 정책 방향을 좌우하는 중",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-05T01:34:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T01:36:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T00:38:26.361Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a8d082e2eb440001d55863",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a8d082e2eb440001d55863",
+    "public_url": "https://ubion.ghost.io/ai-gyuje-vs-gasogjuyi-silrikonbaelri-jinyeong-galdeung-simhwa/",
+    "status": "published",
+    "published_at": "2026-03-05T00:38:26.361Z",
+    "feature_image": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=1200&h=630&fit=crop&q=85&auto=format"
+  }
+}

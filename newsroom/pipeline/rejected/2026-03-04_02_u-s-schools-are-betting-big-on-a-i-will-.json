@@ -1,0 +1,170 @@
+{
+  "source_url": "https://www.nytimes.com/2026/03/02/nyregion/nyc-ai-schools-mamdani.html",
+  "source_title": "The New York Times",
+  "headline": "U.S. Schools Are Betting Big on A.I. Will New York City Be Next?",
+  "published_at": "2026-03-01T23:17:23.370Z",
+  "relevance_score": 80,
+  "collected_at": "2026-03-04T23:17:23.370Z",
+  "status": "sourced",
+  "stage": "fact-checked",
+  "desk_instructions": "",
+  "audit_log": [
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-05T00:10:55.947987+00:00",
+      "note": "relevance_score 80 >= 75, 취재 배정"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-05T00:13:30+00:00"
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T01:15:00+00:00"
+    },
+    {
+      "agent": "fact-checker",
+      "action": "verified",
+      "timestamp": "2026-03-05T00:29:50+00:00",
+      "note": "전체 신뢰도 75, FLAG — 세부 사항 재확인 필요"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "killed",
+      "timestamp": "2026-03-05T01:13:23.558Z",
+      "note": "KILL — 신뢰도 75이하의 FLAG 항목 3개 (NYC DOE 가이드라인, Kiddom 계약, Bill A9190 상태). NYT 원문 페이월 접근 불가로 1차 출처 검증 불가능. 재취재 필요 시 신원 명확한 공식 출처 필요"
+    }
+  ],
+  "reporting_brief": {
+    "facts": [
+      {
+        "claim": "Zohran Mamdani 뉴욕시장 행정부가 미국 최대 학군의 AI 교육 도입 여부를 결정할 위치에 있다",
+        "source_url": "https://www.nytimes.com/2026/03/02/nyregion/nyc-ai-schools-mamdani.html",
+        "quote": "Mayor Zohran Mamdani's administration will decide whether this influential school district will embrace — or eschew — artificial intelligence in education."
+      },
+      {
+        "claim": "NYC DOE 최고학술책임자 Miatheresa Pate: 이달 중 AI 가이드라인 발표 예정",
+        "source_url": "https://gothamist.com/news/new-ai-rules-for-nyc-schools-coming-this-month-as-tech-upends-classrooms",
+        "quote": "the city will release 'guardrails for what we do next' with AI"
+      },
+      {
+        "claim": "뉴욕시 학교 교육정책 패널(PEP)이 AI 관련 우려로 여러 기술 계약 부결",
+        "source_url": "https://gothamist.com/news/new-ai-rules-for-nyc-schools-coming-this-month-as-tech-upends-classrooms",
+        "quote": "Kiddom contract narrowly approved after AI non-inclusion promise"
+      },
+      {
+        "claim": "학부모 그룹이 NYC 공립학교 AI 2년 모라토리엄 청원 진행 중",
+        "source_url": "https://gothamist.com/news/new-ai-rules-for-nyc-schools-coming-this-month-as-tech-upends-classrooms",
+        "quote": "Our Working Group has been stymied, sidelined and stonewalled"
+      },
+      {
+        "claim": "뉴욕주 의회 법안 A9190: 고등학교 이전 학교의 AI 사용 대부분 금지",
+        "source_url": "https://www.nysenate.gov/legislation/bills/2025/A9190",
+        "quote": "Prohibits the use of most artificial intelligence in classrooms prior to high school"
+      }
+    ],
+    "gaps": [
+      "NYT 원문이 페이월로 접근 불가",
+      "Mamdani 시장 본인의 공식 입장 미확인",
+      "NYC DOE의 새 AI 가이드라인 실제 발표 여부 및 내용 확인 필요",
+      "Bill A9190 현재 진행 상태 및 통과 가능성 미확인"
+    ]
+  },
+  "fact_check_report": {
+    "overall_confidence": 75,
+    "verdict": "FLAG",
+    "fact_check_date": "2026-03-05T00:29:50+00:00",
+    "claims": [
+      {
+        "claim": "Zohran Mamdani는 뉴욕시장이며 NYC 교육정책 영향력 있음",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 93,
+        "evidence": "NYT 기사(3/2) 및 Chalkbeat, EdWeek 보도 확인 — Mamdani 시장의 AI 교육 정책 결정 권한 확인",
+        "source_url": "https://www.nytimes.com/2026/03/02/nyregion/nyc-ai-schools-mamdani.html",
+        "flagged": false
+      },
+      {
+        "claim": "NYC DOE가 이달 중 AI 가이드라인 발표 계획",
+        "type": "temporal",
+        "verdict": "UNVERIFIABLE",
+        "confidence": 65,
+        "evidence": "Gothamist 기사 인용 — Pate의 발표 예정 언급 있으나, 실제 발표 여부는 3월 현재 미확인",
+        "source_url": "https://gothamist.com/news/new-ai-rules-for-nyc-schools-coming-this-month-as-tech-upends-classrooms",
+        "flagged": true
+      },
+      {
+        "claim": "Kiddom 계약 PEP 승인 (AI 비포함 약속 후)",
+        "type": "attribution",
+        "verdict": "UNVERIFIABLE",
+        "confidence": 70,
+        "evidence": "Gothamist 보도 존재하나, 원본 PEP 회의록 미확인 — 정확한 승인 투표 수치 미확인",
+        "source_url": "https://gothamist.com/news/new-ai-rules-for-nyc-schools-coming-this-month-as-tech-upends-classrooms",
+        "flagged": true
+      },
+      {
+        "claim": "학부모 단체 Leonie Haimson의 비판 및 모라토리엄 청원",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 80,
+        "evidence": "Gothamist 기사 인용: 'Our Working Group has been stymied, sidelined and stonewalled'",
+        "source_url": "https://gothamist.com/news/new-ai-rules-for-nyc-schools-coming-this-month-as-tech-upends-classrooms",
+        "flagged": false
+      },
+      {
+        "claim": "뉴욕주 법안 A9190: 고등학교 이전 AI 금지",
+        "type": "definitional",
+        "verdict": "SUPPORTED",
+        "confidence": 85,
+        "evidence": "뉴욕주 의회 공식 법안 페이지 확인 — 'Prohibits the use of most artificial intelligence in classrooms prior to high school'",
+        "source_url": "https://www.nysenate.gov/legislation/bills/2025/A9190",
+        "flagged": false
+      }
+    ],
+    "conflicts": [
+      {
+        "type": "timing",
+        "issue": "NYC DOE AI 가이드라인 발표 현황",
+        "detail": "기사는 '이달 중 발표 예정'이라 하나, 현재 3월 현황에서 실제 발표 여부 불명"
+      }
+    ],
+    "concerns": [
+      {
+        "level": "HIGH",
+        "issue": "NYT 원문 페이월",
+        "detail": "주요 소스인 NYT 기사 원문 접근 불가 — Gothamist 보도로 보충했으나 1차 원본 검증 불가"
+      },
+      {
+        "level": "MEDIUM",
+        "issue": "Kiddom 계약 세부사항 미확인",
+        "detail": "PEP 공식 회의록 미확인 — 언론 보도 기반이므로 사실 확인 권고"
+      },
+      {
+        "level": "MEDIUM",
+        "issue": "Bill A9190 현재 상태",
+        "detail": "법안 발의 상태 확인했으나, 현재 진행 단계(위원회 검토 중/표결 예정 등) 미확인"
+      },
+      {
+        "level": "LOW",
+        "issue": "Mamdani의 개인 입장 부재",
+        "detail": "시장의 본인 입장이나 성명 없이 '행정부가 결정할 것'이라는 3인칭 표현만 사용"
+      }
+    ]
+  },
+  "draft": {
+    "headline": "뉴욕시, 미국 최대 학군의 AI 도입 결정권 손에 쥐다",
+    "subheadline": "정책 수립 전 기술 도입 우려, 시민 반발 동시 진행",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <div style=\"border-left:4px solid #4338ca;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 최대 공립학군인 뉴욕시가 교육 AI 도입의 분수령에 서 있다. Zohran Mamdani 시장의 결정이 전국적 선례가 될 수 있다는 점에서 주목할 만하다.</p>\n  </div>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">시장의 책상 위에 올려진 결정</h2>\n  <p style=\"margin:0 0 36px;\">뉴욕 시장의 책상 위에는 미국 140만 명 학생의 미래가 달려 있습니다. 뉴욕시 교육청(NYC DOE) 최고학술책임자 Miatheresa Pate는 \"AI 가이드라인을 이달 중 발표하겠다\"는 입장을 밝혔습니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">정책 없는 기술 도입의 현실</h2>\n  <p style=\"margin:0 0 36px;\">뉴욕시 교육정책 패널(PEP)의 최근 결정은 현재의 혼란을 여실히 드러냅니다. 위원들은 AI 관련 우려로 여러 기술 계약을 부결시켰습니다. Kiddom이라는 회사의 교육 소프트웨어 계약은 회사와 교육청이 \"AI를 포함하지 않는다\"는 약속을 한 후에야 간신히 승인됐습니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">학부모 저항과 투명성 논란</h2>\n  <p style=\"margin:0 0 36px;\">뉴욕시 학부모 단체들은 이미 움직이고 있습니다. 비영리단체 \"Class Size Matters\"의 대표 Leonie Haimson은 \"DOE 데이터 프라이버시 워킹그룹이 무력화, 배제, 방해당했다\"고 비판합니다. 정책 결정 과정에서 시민의 목소리가 제대로 반영되고 있지 않다는 뜻입니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">뉴욕주 입법과의 충돌 가능성</h2>\n  <p style=\"margin:0 0 36px;\">상황을 더욱 복잡하게 하는 것이 뉴욕주 의회의 움직임입니다. 주 의회에서 발의된 법안 A9190은 고등학교 이전 학교에서의 AI 사용을 대부분 금지하려고 합니다.</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "AI교육",
+      "교육정책",
+      "미국",
+      "뉴욕시"
+    ],
+    "word_count": 915,
+    "article_type": "news"
+  }
+}

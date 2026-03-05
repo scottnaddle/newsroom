@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "What to watch from Trump's national AI standard",
+    "url": "https://rollcall.com/2026/03/03/what-to-watch-from-trumps-national-ai-standard/",
+    "source_name": "Roll Call",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "President Donald Trump's executive order on artificial intelligence promises a proposal to Congress for a national AI law, intended to unify U.S. policy and address industry fears about conflicting state regulations. This development could significantly shape the regulatory landscape for AI companies.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-05T00:27:00Z"
+  },
+  "digest": {
+    "headline": "트럼프 행정부, 연방 차원 AI 규제 안 곧 발표 예정",
+    "lead": "트럼프 행정부가 지난 12월 발표한 행정명령에 따라 미 의회에 제출할 연방급 AI 법안의 구체적 내용을 이달 중으로 공개할 것으로 예상된다. 각 주(State)의 상이한 AI 규제로 인한 산업 혼란을 해결하려는 움직임으로, 기준 중심의 규제와 엄격한 제한 사이의 균형을 맞추는 것이 관건이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 연방정부가 AI 규제에 대한 통일된 기준을 수립하기 위해 본격적으로 움직이고 있다. 지난 2년간 캘리포니아, 뉴욕 등 주(State) 단위의 상충하는 AI 규제로 인해 기업들이 겪어온 혼란을 해소하고, 혁신을 촉진하는 균형잡힌 규제 안이 이번 달 공개될 예정이다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">지난 12월 트럼프 대통령은 AI 관련 행정명령을 발표하면서 미 의회에 '통일된 연방 정책 기본 틀(uniform federal policy framework)'을 제안하겠다고 공약했다. 이는 캘리포니아의 'SB 53(프론티어 AI 투명성법)', 뉴욕의 'RAISE Act' 등 주 단위 규제가 난립하면서 AI 개발 기업들이 주(State)마다 다른 요구사항을 충족해야 하는 부담을 덜어주기 위한 것. 행정부는 또한 '불합리한' AI 규제를 갖춘 주를 상대로 법무부가 소송을 제기하도록 지시했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">예상되는 법안의 핵심은 ▲AI 개발자의 안전성 테스트 의무화 ▲투명성 및 리스크 보고 메커니즘 도입 ▲아이들의 온라인 안전 보호 ▲AI 정의의 명확화 등이다. 다만 공화당의 박한 의석(razor-thin margin)과 2026년 선거 연도라는 정치 상황을 감안하면, 광범위한 틀의 입법화는 쉽지 않을 것으로 보인다. 업계는 연방 기준 수립으로 인한 '혁신 촉진'과 보호주의 규제 사이의 균형을 주시하고 있다.</p>\n\n  <!-- 에듀테크 시사점 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">미국 기반 에듀테크 기업들에게 중대한 의사결정 기준이 될 것으로 예상된다. 특히 아이들의 온라인 안전 보호가 연방 기준의 핵심 중 하나로 논의되고 있다는 점이 주목할 만하다. KOSA(Kids' Online Safety Act)와 아이 맞춤형 AI 챗봇 규제 등 아동 보호 조항이 최종 법안에 포함될 가능성이 크므로, 아이들을 대상으로 하는 AI 학습 플랫폼을 개발하는 기업들은 연방 기준 안을 전격적으로 검토하고 준비해야 한다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://rollcall.com/2026/03/03/what-to-watch-from-trumps-national-ai-standard/\" style=\"color:#FF6B35;text-decoration:none;\">Roll Call</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "regulation",
+      "technology"
+    ],
+    "meta_title": "미 연방정부 AI 규제 안 공개 임박, 에듀테크 기업들 주시",
+    "meta_description": "아동 안전 보호 조항이 핵심. 아이 대상 에듀테크 개발사 필독",
+    "word_count": 560
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-05T00:27:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T00:29:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T23:31:22.587Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a8c0cae2eb440001d55840",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a8c0cae2eb440001d55840",
+    "public_url": "https://ubion.ghost.io/teureompeu-haengjeongbu-yeonbang-caweon-ai-gyuje-an-god-balpyo-yejeong/",
+    "status": "published",
+    "published_at": "2026-03-04T23:31:22.000Z"
+  }
+}

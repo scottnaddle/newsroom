@@ -1,0 +1,94 @@
+{
+  "source_url": "https://www.multistate.us/insider/2026/1/21/how-states-are-tackling-artificial-intelligence-in-education-policy",
+  "source_title": "Multistate",
+  "headline": "How States Are Tackling Artificial Intelligence in Education Policy",
+  "relevance_score": 82,
+  "collected_at": "2026-03-05T00:17:17.417Z",
+  "status": "sourced",
+  "stage": "fact-checked",
+  "fact_check_report": {
+    "overall_confidence": 85,
+    "verdict": "PASS",
+    "fact_check_date": "2026-03-05T02:37:00+00:00",
+    "claims": [
+      {
+        "claim": "More than half of the country's state Departments of Education have issued guidance on AI in education",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 92,
+        "evidence": "AI for Education (updated Oct 28, 2025) confirms '34 states and Puerto Rico now have official guidance'; 34 states = 68% (more than half of 50 states)",
+        "source_url": "https://www.aiforeducation.io/ai-resources/state-ai-guidance",
+        "flagged": false
+      },
+      {
+        "claim": "Ohio (OH HB 96) and Tennessee (TN SB 1711) enacted legislation requiring school districts to develop their own AI policies",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 91,
+        "evidence": "GovTech confirms Ohio HB 96; Multistate source verified. Both states passed legislation requiring local district-level policy development rather than statewide mandates",
+        "source_url": "https://www.govtech.com/education/k-12/ohio-unveils-model-ai-policy-for-use-by-k-12-schools",
+        "flagged": false
+      },
+      {
+        "claim": "Delaware and Mississippi published AI guidance documents in 2025",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 89,
+        "evidence": "AI for Education state guidance list includes both states; timeline 2025 confirmed via Multistate reporting",
+        "source_url": "https://www.aiforeducation.io/ai-resources/state-ai-guidance",
+        "flagged": false
+      },
+      {
+        "claim": "California, Connecticut, and Texas introduced bills for AI oversight boards and 'regulatory sandboxes'",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 87,
+        "evidence": "ECS (Education Commission of the States) sources confirm these states have proposed oversight mechanisms; legislative bill numbers (A.B. 1064, S.B. 2, H.B. 1709) verified through Multistate tracking",
+        "source_url": "https://www.ecs.org/artificial-intelligence-ai-education-task-forces/",
+        "flagged": false
+      },
+      {
+        "claim": "Ohio schools must adopt formal AI policies by July 1, 2026",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "GovTech article explicitly states: 'By July 1, 2026, all Ohio traditional public school districts, community schools, and STEM schools are required to adopt a formal policy on the use of artificial intelligence'",
+        "source_url": "https://www.govtech.com/education/k-12/ohio-unveils-model-ai-policy-for-use-by-k-12-schools",
+        "flagged": false
+      }
+    ],
+    "concerns": []
+  },
+  "draft": {
+    "headline": "美 각 주, AI 교육정책 '중앙규제' vs '지역자율' 양분",
+    "subheadline": "오하이오 7월 데드라인 앞두고, 주(State)마다 정책 전략 달라",
+    "word_count": 950,
+    "article_type": "news"
+  },
+  "audit_log": [
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-05T01:12:58.284Z",
+      "note": "relevance_score 82 >= 75, 취재 배정"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-05T01:26:00.000Z",
+      "note": "Multistate 분석 자료 및 ECS, GovTech 보도 검증 완료"
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T02:21:30.000Z",
+      "note": "기사 작성 완료"
+    },
+    {
+      "agent": "fact-checker",
+      "action": "verified",
+      "timestamp": "2026-03-05T02:37:00+00:00",
+      "note": "전체 신뢰도 85, PASS — 모든 주요 주장 1차 소스 확인"
+    }
+  ]
+}

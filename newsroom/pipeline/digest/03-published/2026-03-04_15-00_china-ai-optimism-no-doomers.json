@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Where Are China's A.I. Doomers?",
+    "url": "https://www.nytimes.com/2026/03/04/world/asia/china-ai-enthusiasm.html",
+    "source_name": "The New York Times",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "Chinese policymakers and the public express high levels of optimism about AI, contrasting sharply with Western anxieties over job displacement and existential risk. The article explores why AI safety concerns and doomsday framings have found little traction in China compared to the US and Europe, highlighting differing cultural, political, and economic perspectives on the technology.",
+    "published_date": "2026-03-04",
+    "collected_at": "2026-03-04T15:00:00Z"
+  },
+  "digest": {
+    "headline": "중국엔 AI 비관론이 없다… 미·중 AI 인식 격차 확대",
+    "lead": "뉴욕타임스가 중국의 AI 낙관론 현상을 분석했다. 미국과 유럽에서 일자리 위협·존재 위기 등 AI 비관론이 확산되는 가운데, 중국 정책결정자와 일반 시민 모두 AI에 높은 기대를 표명하고 있다. 이는 단순한 정서 차이를 넘어 AI 개발 속도와 규제 방향에서 미·중 간 근본적인 시각 차이를 드러낸다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">뉴욕타임스가 중국의 AI 낙관론 현상을 분석했다. 미국과 유럽에서 일자리 위협·존재 위기 등 AI 비관론이 확산되는 가운데, 중국 정책결정자와 일반 시민 모두 AI에 높은 기대를 표명하고 있다. 이는 단순한 정서 차이를 넘어 AI 개발 속도와 규제 방향에서 미·중 간 근본적인 시각 차이를 드러낸다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">서구의 AI 우려는 고용 대체, 딥페이크, 초지능 위험 등 부정적 시나리오에 집중되어 있다. 반면 중국에서는 AI를 경제 성장과 국가 경쟁력 강화의 핵심 도구로 바라보는 시각이 정치·문화적으로 지배적이다. 중국 정부는 AI를 국가 전략 산업으로 지정하고 대규모 투자를 지속하며, DeepSeek 등 자국 모델의 글로벌 경쟁력 증명이 이 낙관론을 더욱 강화하고 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">AI 낙관론과 비관론의 지역적 분화는 글로벌 AI 거버넌스 합의를 어렵게 만드는 핵심 변수다. 미국이 안전 규제를 강화할수록 중국이 더 빠르게 치고 나갈 수 있다는 역설이 AI 패권 경쟁을 심화시킨다. 이 인식 격차는 단순한 문화적 차이가 아닌, AI 개발 속도와 국제 표준 설정 과정에서 구조적 갈등 요인이 될 전망이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">중국의 AI 교육 투자 속도는 글로벌 에듀테크 경쟁에서 중요한 변수다. 한국 에듀테크 기업은 AI 교육 윤리·안전성을 차별화 포인트로 삼는 동시에, DeepSeek 등 중국발 저비용 AI 모델이 교육 플랫폼에 빠르게 침투하는 흐름을 주시해야 한다. AI를 두려움이 아닌 도구로 인식하는 학습자 세대를 위한 교육 설계도 새로운 과제로 부상하고 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.nytimes.com/2026/03/04/world/asia/china-ai-enthusiasm.html\" style=\"color:#FF6B35;text-decoration:none;\">The New York Times</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "technology"
+    ],
+    "meta_title": "중국엔 AI 비관론이 없다… 미·중 AI 인식 격차 확대",
+    "meta_description": "중국 정책결정자와 시민들이 AI에 높은 낙관론을 보이는 반면 미국·유럽은 위협론이 우세하다. 이 인식 격차는 글로벌 AI 거버넌스 합의와 에듀테크 경쟁 구도에 중요한 변수가 된다.",
+    "word_count": 490
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T15:00:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T16:02:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T15:09:11.871Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a84b17e2eb440001d557d2",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a84b17e2eb440001d557d2",
+    "public_url": "https://ubion.ghost.io/junggugen-ai-bigwanroni-eobsda-mi-jung-ai-insig-gyeogca-hwagdae/",
+    "status": "published",
+    "published_at": "2026-03-04T15:09:11.000Z"
+  }
+}

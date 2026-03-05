@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Master Large Language Models in 2026: 10 Must-Visit GitHub Repositories",
+    "url": "https://www.analyticsinsight.net/artificial-intelligence/master-large-language-models-in-2026-10-must-vist-github-repositories",
+    "source_name": "Analytics Insight",
+    "language": "en",
+    "relevance_score": 73,
+    "summary": "A roundup of the top GitHub repositories for working with large language models in 2026. Notably, llama.cpp released new updates in early March 2026 focused on speed improvements and broader hardware support, enabling LLM inference on CPUs without expensive GPUs. The article highlights key open-source tools shaping the LLM landscape.",
+    "published_date": "2026-03-04",
+    "collected_at": "2026-03-04T17:04:00Z"
+  },
+  "digest": {
+    "headline": "GPU 없이 LLM 구동 시대 열렸다... 2026년 필수 오픈소스 저장소 10선",
+    "lead": "2026년 3월, llama.cpp의 새 업데이트가 공개되며 고성능 LLM을 GPU 없이 일반 CPU에서도 실행할 수 있는 환경이 한층 성숙해졌다. Hugging Face, Meta, Mistral AI 등이 주도하는 오픈소스 생태계는 AI 개발 장벽을 빠르게 허물고 있으며, 스타트업부터 개인 개발자까지 클라우드 의존 없이 LLM을 활용하는 시대가 본격화되고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">2026년 3월, llama.cpp의 새 업데이트가 공개되며 고성능 LLM을 GPU 없이 일반 CPU에서도 실행할 수 있는 환경이 한층 성숙해졌다. Hugging Face, Meta, Mistral AI 등이 주도하는 오픈소스 생태계는 AI 개발 장벽을 빠르게 허물고 있으며, 스타트업부터 개인 개발자까지 클라우드 의존 없이 LLM을 활용하는 시대가 본격화되고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">ggml-org의 <strong>llama.cpp</strong>는 2026년 3월 초 속도 개선과 광범위한 하드웨어 지원을 담은 신규 릴리즈를 발표했다. 이 프로젝트는 고가의 GPU 없이도 강력한 LLM을 일반 노트북·데스크탑에서 구동 가능하게 해 AI 민주화의 핵심 축으로 자리 잡았다. Meta의 <strong>llama-cookbook</strong>은 파인튜닝·추론·RAG 구현 가이드를 제공하고, Hugging Face의 <strong>transformers</strong>는 최신 Qwen3.5 등 수백 개 모델을 통합 지원하며 사실상 AI 개발의 표준 허브로 기능하고 있다. Nomic AI의 <strong>gpt4all</strong>은 Windows·Mac·Linux 데스크탑 앱으로 프라이버시를 중시하는 사용자층을 공략 중이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">로컬 추론 기술의 발전은 AI 활용 비용 구조를 근본적으로 바꾸고 있다. 클라우드 API 요금 없이 온프레미스 또는 엣지 환경에서 LLM을 운용할 수 있게 되면서, 예산이 제한된 스타트업과 연구자들의 AI 접근성이 크게 높아졌다. Mistral AI처럼 7B~22B 규모의 경량 고성능 모델이 주목받는 것도 같은 맥락이다. 오픈소스 커뮤니티는 법률·의료·코딩·교육 등 도메인 특화 모델을 빠른 속도로 양산하고 있어, LLM 생태계의 다양화는 더욱 가속될 전망이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">llama.cpp·gpt4all 같은 로컬 LLM 도구의 성숙은 에듀테크 스타트업에 실질적인 비용 절감 기회를 제공한다. 학교 서버나 교사 노트북에서도 AI 튜터·자동 채점·맞춤형 피드백 기능을 클라우드 없이 구현할 수 있어, 인터넷 환경이 열악한 지역 교육 현장에도 AI 도입 가능성이 열린다. alpaca.cpp·oobabooga 등 커뮤니티 파인튜닝 도구를 활용하면 교육 도메인에 특화된 모델을 낮은 비용으로 직접 구축할 수도 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.analyticsinsight.net/artificial-intelligence/master-large-language-models-in-2026-10-must-vist-github-repositories\" style=\"color:#FF6B35;text-decoration:none;\">Analytics Insight</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "research"
+    ],
+    "meta_title": "GPU 없이 LLM 구동 시대... 2026년 필수 오픈소스 저장소 10선",
+    "meta_description": "llama.cpp 3월 업데이트로 CPU 기반 LLM 구동 환경 성숙. Hugging Face·Meta·Mistral AI가 이끄는 오픈소스 생태계와 에듀테크 시사점 정리.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T17:04:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T17:07:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T17:11:43.821Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a867cfe2eb440001d557ed",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a867cfe2eb440001d557ed",
+    "public_url": "https://insight.ubion.global/gpu-eobsi-llm-gudong-sidae-yeolryeossda-2026nyeon-pilsu-opeunsoseu-jeojangso-10seon/",
+    "status": "published",
+    "published_at": "2026-03-04T17:11:43.000Z"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Anthropic's moral stand against Pentagon raises questions about AI's readiness for military use",
+    "url": "https://apnews.com/article/anthropic-pentagon-openai-claude-chatgpt-military-ai-b2bbcf5fda3f27353eae1e0eb7ab07b6",
+    "source_name": "AP News",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Anthropic's refusal to remove safeguards for military AI has sparked a major policy shift. Claude became the most popular iPhone app following the Pentagon's decision to replace it with OpenAI's ChatGPT in classified environments, highlighting the strategic divide between AI companies on military applications.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-05T01:34:00Z"
+  },
+  "digest": {
+    "headline": "클로드, 군사용 안전장치 유지 선택... 윤리 vs 가속화 딜레마",
+    "lead": "Anthropic이 국방부의 군사용 AI 안전장치 제거 요구를 거부했다. 이를 받아들인 OpenAI와의 명확한 갈등 속에서, 클로드는 오히려 아이폰 앱 다운로드 1위를 기록했다. AI 기업의 윤리적 선택이 소비자 신뢰로 이어지는 반전이 일어나고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">⚡ AI Digest</span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">Anthropic이 국방부의 군사용 AI 안전장치 제거 요구를 거부했다. 이를 받아들인 OpenAI와의 명확한 갈등 속에서, 클로드는 오히려 아이폰 앱 다운로드 1위를 기록했다. AI 기업의 윤리적 선택이 소비자 신뢰로 이어지는 반전이 일어나고 있다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">트럼프 행정부는 Anthropic이 자율 무기와 대량감시에 사용되지 않도록 하는 안전장치를 유지하기를 거부하자, 클로드를 공급망 위험 물질로 지정했다. 다리오 아모데이 CEO는 이 결정에 항소할 계획을 밝혔으며, 이는 AI 기업의 윤리적 선택과 정부 정책 간의 충돌을 상징한다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">클로드의 앱 순위 1위는 소비자들이 기업의 윤리적 입장을 지지하고 있음을 보여준다. 군사용 AI 활용의 한계를 인정하는 Anthropic의 입장이 시장에서 신뢰도 있게 평가받고 있으며, 이는 AI 기업들의 기술 개발과 윤리 간의 균형이 얼마나 중요한지를 입증하고 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 기업의 윤리적 책임 선택은 교육용 AI 제품의 신뢰성 구축에 직결된다. 학생과 교사들이 사용할 AI 도구의 안전성과 윤리성에 대한 확신이 높아질수록, 에듀테크 도입 확대와 학습 효과 개선으로 이어질 것으로 예상된다. 교육 현장의 신뢰 기반 구축이 AI 도입의 성공 조건임을 시사한다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://apnews.com/article/anthropic-pentagon-openai-claude-chatgpt-military-ai-b2bbcf5fda3f27353eae1e0eb7ab07b6\" style=\"color:#FF6B35;text-decoration:none;\">AP News</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "anthropic"
+    ],
+    "meta_title": "클로드, 군사용 안전장치 유지... 윤리적 AI 기업의 선택",
+    "meta_description": "Anthropic의 윤리적 선택이 소비자 신뢰 확보로 이어지며 AI 기업 간 철학적 갈등 심화",
+    "word_count": 620
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-05T01:34:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T01:36:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T00:38:26.552Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a8d082e2eb440001d5586b",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a8d082e2eb440001d5586b",
+    "public_url": "https://ubion.ghost.io/keulrodeu-gunsayong-anjeonjangci-yuji-seontaeg-yunri-vs-gasoghwa-dilrema/",
+    "status": "published",
+    "published_at": "2026-03-05T00:38:26.552Z",
+    "feature_image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop&q=85&auto=format"
+  }
+}

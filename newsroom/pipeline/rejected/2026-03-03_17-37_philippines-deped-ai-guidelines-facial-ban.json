@@ -1,5 +1,5 @@
 {
-  "stage": "assigned",
+  "stage": "rejected",
   "source": {
     "title": "필리핀 교육부, AI 활용 가이드라인 발표 — 안면인식 도구 전면 금지",
     "url": "https://www.gmanetwork.com/news/scitech/technology/978018/deped-issues-ai-guidelines-for-basic-education-bans-facial-recognition-tools/story/",
@@ -71,6 +71,84 @@
     "word_count": 810,
     "article_type": "news"
   },
+  "fact_check_report": {
+    "overall_confidence": 76,
+    "verdict": "FLAG",
+    "claims": [
+      {
+        "claim": "DepEd Order No. 003, s. 2026 — 2026년 2월 20일 발령",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "DepEd 공식 사이트(deped.gov.ph)에서 DO 003, s. 2026 원문 게시 확인. GMA News, Inquirer, Manila Bulletin 등 복수 필리핀 주요 언론 동일 날짜 보도.",
+        "source_url": "https://www.deped.gov.ph/2026/02/20/february-20-2026-do-003-s-2026-foundational-guidelines-on-artificial-intelligence-ai-in-basic-education/",
+        "flagged": false
+      },
+      {
+        "claim": "소제목 '아시아 최초 초중등 AI 포괄 지침' 표현",
+        "type": "definitional",
+        "verdict": "UNVERIFIABLE",
+        "confidence": 45,
+        "evidence": "⚠️ [3차 검토 동일 결론] 편집장 2회 수정 지시(2026-03-04T12:23, 14:43) 미반영. 소제목 '아시아 최초' 여전히 미수정. 원문(Manila Bulletin 등)은 '필리핀 최초'로만 표현. 아시아 전체 최초 여부 확인 불가. 본문 내 '아시아에서 가장 상세한 수준'(검증가능) 표현과 달리 소제목은 '아시아 최초'로 과장 표현 유지 중.",
+        "source_url": "https://mb.com.ph/2026/01/09/ph-to-harness-ai-for-development-as-deped-launches-agapai-says-pbbm",
+        "flagged": true
+      },
+      {
+        "claim": "생체인식·안면인식 시스템 전면 금지",
+        "type": "definitional",
+        "verdict": "SUPPORTED",
+        "confidence": 80,
+        "evidence": "GMA News, Manila Bulletin, PNA 등에서 금지 확인. '전면 금지' 표현은 약간 과포괄적이나 핵심은 정확.",
+        "source_url": "https://www.pna.gov.ph/articles/1269776",
+        "flagged": false
+      },
+      {
+        "claim": "사회 점수 시스템 및 미성년자 행동 조작 AI 금지",
+        "type": "definitional",
+        "verdict": "SUPPORTED",
+        "confidence": 93,
+        "evidence": "GMA News, Manila Bulletin, PNA 모두 'social scoring' 및 'manipulative chatbot targeting of minors' 금지 확인.",
+        "source_url": "https://www.gmanetwork.com/news/scitech/technology/978018/deped-issues-ai-guidelines-for-basic-education-bans-facial-recognition-tools/story/",
+        "flagged": false
+      },
+      {
+        "claim": "K-3 학생 AI 직접 상호작용 제한, 교사 감독 및 학부모 고지 의무",
+        "type": "definitional",
+        "verdict": "SUPPORTED",
+        "confidence": 90,
+        "evidence": "GMA News 원문에서 확인: K-3 학생 AI 직접 상호작용 제한, 교사 감독 및 학부모 동의 필요.",
+        "source_url": "https://www.gmanetwork.com/news/scitech/technology/978018/deped-issues-ai-guidelines-for-basic-education-bans-facial-recognition-tools/story/",
+        "flagged": false
+      },
+      {
+        "claim": "AI 도구 배포 전 개인정보영향평가(PIA) 의무화, DepEd AI 레지스트리 등록 필수",
+        "type": "definitional",
+        "verdict": "SUPPORTED",
+        "confidence": 90,
+        "evidence": "GMA News에서 PIA 의무화 및 AI 레지스트리(도구명·제조사·목적·위험 등급·준법 현황) 등록 요건 확인.",
+        "source_url": "https://www.gmanetwork.com/news/scitech/technology/978018/deped-issues-ai-guidelines-for-basic-education-bans-facial-recognition-tools/story/",
+        "flagged": false
+      },
+      {
+        "claim": "Sonny Angara 교육장관 발언",
+        "type": "attribution",
+        "verdict": "UNVERIFIABLE",
+        "confidence": 60,
+        "evidence": "Inquirer에서 Angara 발언 보도 확인되나 정확한 인용 문구는 직접 대조 불가. 발언 취지는 복수 보도에서 일관되게 전달됨.",
+        "source_url": "https://newsinfo.inquirer.net/2187647/deped-issues-ai-guidelines-human-centered-approach-must-be-prioritized",
+        "flagged": false
+      },
+      {
+        "claim": "EU AI법과 유사한 위험 기반 접근법 채택",
+        "type": "definitional",
+        "verdict": "SUPPORTED",
+        "confidence": 85,
+        "evidence": "GMA News: 'DepEd adopted a risk-based approach' 명시. EU AI Act의 위험 기반 분류 방식과 구조적 유사성 확인.",
+        "source_url": "https://www.gmanetwork.com/news/scitech/technology/978018/deped-issues-ai-guidelines-for-basic-education-bans-facial-recognition-tools/story/",
+        "flagged": false
+      }
+    ]
+  },
   "audit_log": [
     {
       "agent": "source-collector-heartbeat",
@@ -97,92 +175,38 @@
       "agent": "fact-checker",
       "action": "flagged",
       "timestamp": "2026-03-04T12:19:00+01:00",
-      "note": "전체 신뢰도 76, FLAG. ⚠️ 핵심 플래그: 소제목 \"아시아 최초 수준\" — Manila Bulletin 등 원문은 \"필리핀 최초\"로만 표현, 아시아 최초 검증 불가(confidence 45). 나머지 주장(DO003 발령, 금지 목록, K-3 제한, PIA/레지스트리, EU AI법 비교)은 모두 SUPPORTED. 소제목 \"아시아 최초\" → \"필리핀 최초\" 또는 \"아시아에서 가장 상세한 수준 중 하나\"로 수정 시 PASS 가능."
+      "note": "전체 신뢰도 76, FLAG. ⚠️ 핵심 플래그: 소제목 '아시아 최초 수준' — Manila Bulletin 등 원문은 '필리핀 최초'로만 표현, 아시아 최초 검증 불가(confidence 45). 나머지 주장 모두 SUPPORTED."
     },
     {
       "agent": "editor-desk",
       "action": "revision-requested",
       "timestamp": "2026-03-04T12:23:00+01:00",
-      "note": "FLAG 76, 1차 수정 요청. revision_count=1. 소제목 '아시아 최초 초중등 AI 포괄 지침' → '필리핀 최초' 또는 '아시아에서 가장 상세한 수준 중 하나'로 완화 필요. 리드 '아시아에서 가장 상세한 수준'은 허용. 나머지 주장 모두 SUPPORTED — 소제목만 수정하면 PASS 가능."
+      "note": "FLAG 76, 1차 수정 요청. revision_count=1. 소제목 '아시아 최초 초중등 AI 포괄 지침' → '필리핀 최초' 또는 '아시아에서 가장 상세한 수준 중 하나'로 완화 필요."
+    },
+    {
+      "agent": "fact-checker",
+      "action": "flagged",
+      "timestamp": "2026-03-04T14:35:00+01:00",
+      "note": "2차 검토: 전체 신뢰도 76, FLAG 유지. 소제목 '아시아 최초' 미수정 — 편집장 수정 요청 미반영. 초안 내용 변경 없음 확인. 동일 사유로 재플래그."
+    },
+    {
+      "agent": "editor-desk",
+      "action": "revision-requested",
+      "timestamp": "2026-03-04T14:43:00+01:00",
+      "note": "FLAG 76 (75-79), 직접 검토. REVISE. revision_count=2. [2차 수정 지시 최종 경고] 소제목 \"아시아 최초 초중등 AI 포괄 지침\" 여전히 미수정. 즉시 \"필리핀 최초\" 또는 \"아시아에서 가장 상세한 수준 중 하나\"로 변경 필수. 본문 내용은 SUPPORTED 다수 — 소제목 한 줄 수정 후 팩트체커 재제출하면 승인 가능. 미이행 시 rejected/ 이동."
+    },
+    {
+      "agent": "fact-checker",
+      "action": "flagged",
+      "timestamp": "2026-03-04T15:41:00+01:00",
+      "note": "⚠️ 3차 검토 — 전체 신뢰도 76, FLAG 유지. 소제목 '아시아 최초' 여전히 미수정. 편집장 2회 수정 지시(12:23, 14:43) 모두 미반영. 초안 내용 변경 없음. revision_count=2 초과로 편집장 최종 경고 조건 충족 — 에디터데스크의 rejected/ 이동 판단 요청."
+    },
+    {
+      "agent": "editor-desk",
+      "action": "killed",
+      "timestamp": "2026-03-04T15:49:00+01:00",
+      "reason": "KILL — 3차 팩트체크에서도 소제목 '아시아 최초 초중등 AI 포괄 지침' 미수정. 데스크 수정 지시 2회(12:23, 14:43) 불이행. confidence 45 미검증 주장 유지. 추가 수정 기회 없이 보류. 향후 동일 각도 재취재 시 소제목을 '필리핀 최초' 또는 '아시아에서 가장 상세한 AI 지침 중 하나'로 수정 후 재시작 가능."
     }
   ],
-  "fact_check_report": {
-    "overall_confidence": 76,
-    "verdict": "FLAG",
-    "claims": [
-      {
-        "claim": "DepEd Order No. 003, s. 2026 — 2026년 2월 20일 발령",
-        "type": "temporal",
-        "verdict": "SUPPORTED",
-        "confidence": 95,
-        "evidence": "DepEd 공식 사이트(deped.gov.ph)에서 DO 003, s. 2026 원문 게시 확인. GMA News, Inquirer, Manila Bulletin 등 복수 필리핀 주요 언론 동일 날짜 보도.",
-        "source_url": "https://www.deped.gov.ph/2026/02/20/february-20-2026-do-003-s-2026-foundational-guidelines-on-artificial-intelligence-ai-in-basic-education/",
-        "flagged": false
-      },
-      {
-        "claim": "아시아 최초 수준의 초중등 AI 포괄 지침 — 소제목 및 리드 표현",
-        "type": "definitional",
-        "verdict": "UNVERIFIABLE",
-        "confidence": 45,
-        "evidence": "⚠️ Manila Bulletin(2026.01.09)은 \"필리핀 최초 국가 프레임워크\"로만 표현. 아시아 전체 최초 여부는 확인 불가. 싱가포르, 일본, 중국 등 다른 아시아 국가의 유사 교육 AI 정책 존재 가능성 배제 불가. 소제목 \"아시아 최초\"는 \"필리핀 최초\" 또는 \"아시아에서 가장 상세한 수준 중 하나\"로 완화 필요.",
-        "source_url": "https://mb.com.ph/2026/01/09/ph-to-harness-ai-for-development-as-deped-launches-agapai-says-pbbm",
-        "flagged": true
-      },
-      {
-        "claim": "생체인식·안면인식 시스템 전면 금지",
-        "type": "definitional",
-        "verdict": "SUPPORTED",
-        "confidence": 80,
-        "evidence": "GMA News, Manila Bulletin, PNA 등에서 금지 확인. 단, PNA는 \"untargeted facial recognition scraping\"으로 표현해 완전한 블랭킷 금지보다 다소 구체적. 기사의 \"전면 금지\" 표현은 약간 과포괄적일 수 있으나 핵심은 정확.",
-        "source_url": "https://www.pna.gov.ph/articles/1269776",
-        "flagged": false
-      },
-      {
-        "claim": "사회 점수 시스템 및 미성년자 행동 조작 AI 금지",
-        "type": "definitional",
-        "verdict": "SUPPORTED",
-        "confidence": 93,
-        "evidence": "GMA News, Manila Bulletin, PNA 모두 \"social scoring\" 및 \"manipulative chatbot targeting of minors\" 금지 확인.",
-        "source_url": "https://www.gmanetwork.com/news/scitech/technology/978018/deped-issues-ai-guidelines-for-basic-education-bans-facial-recognition-tools/story/",
-        "flagged": false
-      },
-      {
-        "claim": "K-3 학생 AI 직접 상호작용 제한, 교사 감독 및 학부모 고지 의무",
-        "type": "definitional",
-        "verdict": "SUPPORTED",
-        "confidence": 90,
-        "evidence": "GMA News 원문에서 확인: K-3 학생 AI 직접 상호작용 제한, 교사 감독 및 학부모 동의 필요.",
-        "source_url": "https://www.gmanetwork.com/news/scitech/technology/978018/deped-issues-ai-guidelines-for-basic-education-bans-facial-recognition-tools/story/",
-        "flagged": false
-      },
-      {
-        "claim": "AI 도구 배포 전 개인정보영향평가(PIA) 의무화, DepEd AI 레지스트리 등록 필수",
-        "type": "definitional",
-        "verdict": "SUPPORTED",
-        "confidence": 90,
-        "evidence": "GMA News에서 PIA 의무화 및 AI 레지스트리(도구명·제조사·목적·위험 등급·준법 현황) 등록 요건 확인.",
-        "source_url": "https://www.gmanetwork.com/news/scitech/technology/978018/deped-issues-ai-guidelines-for-basic-education-bans-facial-recognition-tools/story/",
-        "flagged": false
-      },
-      {
-        "claim": "Sonny Angara 교육장관 발언: \"교실 내 AI 사용이... 기본 교육 시스템의 역량을 초과했다\"",
-        "type": "attribution",
-        "verdict": "UNVERIFIABLE",
-        "confidence": 60,
-        "evidence": "Inquirer(newsinfo.inquirer.net)에서 Angara 발언 보도 확인되나 정확한 인용 문구는 1차 검색으로 직접 대조 불가. 기사 내용의 취지(AI 사용이 현 교육 시스템 역량 초과)는 복수 보도에서 일관되게 전달됨.",
-        "source_url": "https://newsinfo.inquirer.net/2187647/deped-issues-ai-guidelines-human-centered-approach-must-be-prioritized",
-        "flagged": false
-      },
-      {
-        "claim": "EU AI법과 유사한 위험 기반 접근법 채택",
-        "type": "definitional",
-        "verdict": "SUPPORTED",
-        "confidence": 85,
-        "evidence": "GMA News: \"DepEd adopted a risk-based approach\" 명시. EU AI Act의 위험 기반 분류 방식과 구조적 유사성은 복수 분석 기사에서 지적.",
-        "source_url": "https://www.gmanetwork.com/news/scitech/technology/978018/deped-issues-ai-guidelines-for-basic-education-bans-facial-recognition-tools/story/",
-        "flagged": false
-      }
-    ]
-  },
-  "revision_count": 1
+  "revision_count": 2
 }

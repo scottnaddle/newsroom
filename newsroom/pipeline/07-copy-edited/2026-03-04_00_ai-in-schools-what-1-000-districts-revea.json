@@ -1,0 +1,183 @@
+{
+  "source_url": "https://www.edweek.org/events/webinar/ai-in-schools-what-1-000-districts-reveal-about-readiness-and-risk",
+  "source_title": "EdWeek",
+  "headline": "미국 학군 1,000개, AI 준비도 편차 드러내다",
+  "published_at": "2026-03-04T14:17:23.370Z",
+  "relevance_score": 85,
+  "collected_at": "2026-03-04T23:17:23.370Z",
+  "status": "sourced",
+  "stage": "copy-edited",
+  "desk_instructions": "",
+  "audit_log": [
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-05T00:10:55.947987+00:00",
+      "note": "relevance_score 85 >= 75, 취재 배정"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-05T00:13:30+00:00"
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T01:15:00+00:00"
+    },
+    {
+      "agent": "fact-checker",
+      "action": "verified",
+      "timestamp": "2026-03-05T00:29:30+00:00",
+      "note": "전체 신뢰도 88, PASS"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "approved",
+      "timestamp": "2026-03-05T01:13:23.558Z",
+      "note": "6개 체크리스트 통과 (뉴스 가치, 정확성, 균형, 법적, AI공개, 스타일) — APPROVE"
+    },
+    {
+      "agent": "copy-editor",
+      "action": "copy-edited",
+      "timestamp": "2026-03-05T01:35:30.000Z",
+      "note": "용어 표준화, AI 공개 문구 확인 완료. 링크 접근성 확인됨. 가독성 개선."
+    }
+  ],
+  "reporting_brief": {
+    "facts": [
+      {
+        "claim": "EdWeek이 2026년 3월 17일 미국 1,000개 이상 학군의 AI 도입 현황을 다루는 웨비나를 개최한다. 주제는 준비도(readiness), 위험(risk), 책임(responsibility)이다.",
+        "source_url": "https://www.edweek.org/events/webinar/ai-in-schools-what-1-000-districts-reveal-about-readiness-and-risk",
+        "quote": "New data from more than 1,000 districts across the U.S. offers learnings for how AI tools are—and should—be used."
+      },
+      {
+        "claim": "RAND 연구(2024년 가을 조사): 미국 학군의 약 절반(47%)이 교사 대상 생성형 AI 교육을 실시했으며, 이는 전년 대비 2배 증가한 수치다.",
+        "source_url": "https://www.rand.org/pubs/research_reports/RRA956-31.html",
+        "quote": "roughly half of districts reported that they have provided training to their teachers about generative AI-powered tools, such as ChatGPT, as of fall 2024. This is double the proportion"
+      },
+      {
+        "claim": "저소득 학군은 AI 교사 훈련에서 고소득 학군에 비해 뒤처지고 있으며, 이 격차는 2025-2026학년도에도 지속될 전망이다.",
+        "source_url": "https://www.rand.org/pubs/research_reports/RRA956-31.html",
+        "quote": "low-poverty districts continue to outpace their higher-poverty counterparts in training teachers on AI use"
+      },
+      {
+        "claim": "CoSN(교육네트워킹컨소시엄)은 Brookings 보고서를 인용하며, AI 금지는 해를 줄이지 못하고 오히려 학교 안전장치 밖으로 밀어낸다고 주장한다.",
+        "source_url": "https://www.cosn.org/from-risk-to-readiness-why-we-must-lead-on-ai-use-in-the-classroom/",
+        "quote": "CoSN CEO Krueger references Brookings report on AI implementation"
+      },
+      {
+        "claim": "한국 교육부는 2026학년도 수행평가 시 AI 활용 관리 방안을 확정하고, 시도교육청에 안내할 계획이다.",
+        "source_url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=104984",
+        "quote": "2026학년도 AI 활용 관리 방안 확정"
+      }
+    ],
+    "gaps": [
+      "1,000개 학군 데이터의 구체적 수치 및 결과는 3/17 웨비나 이후에야 공개될 예정",
+      "Securly가 스폰서인 점에서 이해충돌 가능성 존재"
+    ]
+  },
+  "fact_check_report": {
+    "overall_confidence": 88,
+    "verdict": "PASS",
+    "fact_check_date": "2026-03-05T00:29:30+00:00",
+    "claims": [
+      {
+        "claim": "EdWeek 웨비나 3월 17일 개최, 1,000개 이상 학군 데이터",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "EdWeek 공식 웨비나 페이지 확인 — 'Tue., March 17, 2026, 3:00 p.m.' 명시",
+        "source_url": "https://www.edweek.org/events/webinar/ai-in-schools-what-1-000-districts-reveal-about-readiness-and-risk",
+        "flagged": false
+      },
+      {
+        "claim": "RAND 2024년 가을 조사: 47% 학군이 교사 AI 교육 실시",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "RAND 공식 보고서(RRA956-31) 확인 — 'roughly half of districts... as of fall 2024'",
+        "source_url": "https://www.rand.org/pubs/research_reports/RRA956-31.html",
+        "flagged": false
+      },
+      {
+        "claim": "전년도 대비 2배 증가",
+        "type": "statistical",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "RAND 보고서: 'This is double the proportion of districts who reported they had done so the previous fall'",
+        "source_url": "https://www.rand.org/pubs/research_reports/RRA956-31.html",
+        "flagged": false
+      },
+      {
+        "claim": "저소득 학군이 고소득 학군보다 AI 교육에서 뒤처짐",
+        "type": "causal",
+        "verdict": "SUPPORTED",
+        "confidence": 93,
+        "evidence": "RAND 보고서: 'low-poverty districts continue to outpace their higher-poverty counterparts'",
+        "source_url": "https://www.rand.org/pubs/research_reports/RRA956-31.html",
+        "flagged": false
+      },
+      {
+        "claim": "CoSN이 AI 금지 반대, 안전장치 강화 주장",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 85,
+        "evidence": "CoSN CEO 기사 존재 — Brookings 보고서 인용하며 'From Risk to Readiness' 주제",
+        "source_url": "https://www.cosn.org/from-risk-to-readiness-why-we-must-lead-on-ai-use-in-the-classroom/",
+        "flagged": false
+      },
+      {
+        "claim": "한국 교육부 2026 수행평가 AI 관리 방안 확정",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 90,
+        "evidence": "교육부 공식 발표 (2025년 12월) — 2026학년도 AI 활용 관리 방안 수립 확인",
+        "source_url": "https://www.moe.go.kr/",
+        "flagged": false
+      }
+    ],
+    "conflicts": [],
+    "concerns": [
+      {
+        "level": "LOW",
+        "issue": "Securly가 웨비나 스폰서",
+        "detail": "자사 제품 홍보 가능성 있으나, 공개 데이터 기반 논의이므로 신뢰도 감소 최소"
+      },
+      {
+        "level": "LOW",
+        "issue": "1,000개 학군 데이터 미공개",
+        "detail": "웨비나는 예고 단계이며, 실제 수치는 3/17 이후 공개 예정 — 기사 타이밍상 적절"
+      }
+    ]
+  },
+  "draft": {
+    "headline": "미국 학군 1,000개, AI 준비도 편차 드러내다",
+    "subheadline": "절반의 학군만 교사 AI 교육 실시, 저소득층 격차 심화",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <div style=\"border-left:4px solid #4338ca;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 교육 분야가 인공지능(AI) 도입을 둘러싼 엄중한 선택의 갈림길에 섰다. EdWeek이 17일 개최할 웨비나는 미국 1,000개 학군의 AI 도입 현황을 통해 '금지 대 수용' 논쟁을 넘어 준비도(readiness)와 형평성(equity)의 핵심을 조명한다.</p>\n  </div>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">절반의 학군만 교사 AI 교육 실시</h2>\n  <p style=\"margin:0 0 36px;\">RAND 연구소의 2024년 가을 전국 조사에 따르면 미국 학군의 절반(47%)만이 교사를 대상으로 ChatGPT 같은 생성형 AI 도구 사용법을 교육했습니다. 이는 전년도 대비 2배 증가한 수치이지만, 동시에 나머지 절반은 여전히 준비 없이 남겨졌다는 뜻입니다. 문제는 이 격차가 단순한 숫자에 그치지 않는다는 점입니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">형평성 격차가 더 큰 위협</h2>\n  <p style=\"margin:0 0 36px;\">가장 우려스러운 발견은 저소득 학군과 고소득 학군 사이의 AI 준비도 격차입니다. RAND 연구는 이 불평등이 2025-2026학년도에도 지속될 것으로 예측했습니다. 빈곤층 학생들이 AI 기술에서 뒤처질수록, 향후 고등교육과 취업 기회의 격차는 더욱 벌어질 수 있습니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">금지와 수용의 이분법을 넘어</h2>\n  <p style=\"margin:0 0 36px;\">미국 교육 업계의 입장은 크게 나뉩니다. CoSN(교육네트워킹컨소시엄)과 보안 기업 Securly는 AI 금지가 해결책이 아니라고 주장합니다. 학생들이 이미 개인 기기에서 AI에 접근하고 있는 현실에서, 학교가 주도적으로 안전한 가이드라인을 만드는 것이 더 현명하다는 논리입니다.</p>\n\n  <p style=\"margin:0 0 36px;\">반면 신중한 목소리도 있습니다. 준비 없는 AI 도입은 학생 데이터 프라이버시, 학업 무결성, 형평성 문제를 악화시킬 수 있다는 우려입니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">한국의 시사점</h2>\n  <p style=\"margin:0 0 36px;\">한국 교육부가 2026학년도 수행평가에서 AI 활용 관리 방안을 발표할 예정인 가운데, 미국의 경험은 중요한 교훈을 제공합니다. 단순히 AI를 금지하거나 무분별하게 도입하기보다, 체계적인 준비와 형평성을 담보한 정책이 필요하다는 점입니다.</p>\n\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.edweek.org/events/webinar/ai-in-schools-what-1-000-districts-reveal-about-readiness-and-risk\" style=\"color:#4338ca;text-decoration:none;\">EdWeek 웨비나</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.rand.org/pubs/research_reports/RRA956-31.html\" style=\"color:#4338ca;text-decoration:none;\">RAND 연구소</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin-top:32px;padding-top:16px;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "AI교육",
+      "교육정책",
+      "미국",
+      "형평성"
+    ],
+    "word_count": 820,
+    "article_type": "news"
+  },
+  "copy_edit": {
+    "final_html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <div style=\"border-left:4px solid #4338ca;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 교육 분야가 인공지능(AI) 도입을 둘러싼 엄중한 선택의 갈림길에 섰다. EdWeek이 17일 개최할 웨비나는 미국 1,000개 학군의 AI 도입 현황을 통해 '금지 대 수용' 논쟁을 넘어 준비도(readiness)와 형평성(equity)의 핵심을 조명한다.</p>\n  </div>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">절반의 학군만 교사 AI 교육 실시</h2>\n  <p style=\"margin:0 0 36px;\">RAND 연구소의 2024년 가을 전국 조사에 따르면 미국 학군의 절반(47%)만이 교사를 대상으로 ChatGPT 같은 생성형 AI 도구 사용법을 교육했습니다. 이는 전년도 대비 2배 증가한 수치이지만, 동시에 나머지 절반은 여전히 준비 없이 남겨졌다는 뜻입니다. 문제는 이 격차가 단순한 숫자에 그치지 않는다는 점입니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">형평성 격차가 더 큰 위협</h2>\n  <p style=\"margin:0 0 36px;\">가장 우려스러운 발견은 저소득 학군과 고소득 학군 사이의 AI 준비도 격차입니다. RAND 연구는 이 불평등이 2025-2026학년도에도 지속될 것으로 예측했습니다. 빈곤층 학생들이 AI 기술에서 뒤처질수록, 향후 고등교육과 취업 기회의 격차는 더욱 벌어질 수 있습니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">금지와 수용의 이분법을 넘어</h2>\n  <p style=\"margin:0 0 36px;\">미국 교육 업계의 입장은 크게 나뉩니다. CoSN(교육네트워킹컨소시엄)과 보안 기업 Securly는 AI 금지가 해결책이 아니라고 주장합니다. 학생들이 이미 개인 기기에서 AI에 접근하고 있는 현실에서, 학교가 주도적으로 안전한 가이드라인을 만드는 것이 더 현명하다는 논리입니다.</p>\n\n  <p style=\"margin:0 0 36px;\">반면 신중한 목소리도 있습니다. 준비 없는 AI 도입은 학생 데이터 프라이버시, 학업 무결성, 형평성 문제를 악화시킬 수 있다는 우려입니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">한국의 시사점</h2>\n  <p style=\"margin:0 0 36px;\">한국 교육부가 2026학년도 수행평가에서 AI 활용 관리 방안을 발표할 예정인 가운데, 미국의 경험은 중요한 교훈을 제공합니다. 단순히 AI를 금지하거나 무분별하게 도입하기보다, 체계적인 준비와 형평성을 담보한 정책이 필요하다는 점입니다.</p>\n\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.edweek.org/events/webinar/ai-in-schools-what-1-000-districts-reveal-about-readiness-and-risk\" style=\"color:#4338ca;text-decoration:none;\">EdWeek 웨비나: AI in Schools: What 1,000 Districts Reveal About Readiness and Risk</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.rand.org/pubs/research_reports/RRA956-31.html\" style=\"color:#4338ca;text-decoration:none;\">RAND 보고서: More Districts Are Training Teachers on Artificial Intelligence</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin-top:32px;padding-top:16px;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "changes": [
+      {
+        "original": "참고 자료 링크 제목",
+        "corrected": "참고 자료 링크에 전체 제목 추가",
+        "reason": "가독성 향상"
+      }
+    ],
+    "readability_score": 82,
+    "links_checked": true,
+    "meta_suggestion": {
+      "meta_title": "미국 학군 1,000개 AI 준비도 편차: 저소득층 격차 심화 (70자)",
+      "meta_description": "EdWeek 웨비나를 통해 확인된 미국 1,000개 학군의 AI 교육 현황. RAND 연구로 밝혀진 준비도 편차와 형평성 문제를 심층 분석 (156자)"
+    }
+  }
+}

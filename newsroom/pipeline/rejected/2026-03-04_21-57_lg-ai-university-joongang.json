@@ -1,0 +1,230 @@
+{
+  "id": "20260304-2157-001",
+  "stage": "rejected",
+  "created_at": "2026-03-04T21:57:00+01:00",
+  "fact_checked_at": "2026-03-04T22:18:00+01:00",
+  "priority": 2,
+  "source": {
+    "title": "신입생 전원에 최신 노트북…'국내 첫 사내대학원' LG AI대학원 출범",
+    "url": "https://www.joongang.co.kr/article/25409088",
+    "source_name": "중앙일보",
+    "relevance_score": 77,
+    "summary": "LG그룹이 국내 최초로 교육부 공식 인가를 받은 사내 AI 대학원을 공식 출범했다. 석사 11명·박사 6명 등 17명이 1기로 입학했으며 신입생 전원에게 최신 노트북을 지급하는 등 실무 중심 AI 인재 양성 모델을 제시한다. 구광모 LG 대표는 'AI의 핵심 동력은 사람'이라고 강조했다.",
+    "tags": [
+      "industry",
+      "higher-education",
+      "Korea",
+      "corporate-education",
+      "MOE-approved"
+    ],
+    "collected_via": "brave_search"
+  },
+  "fact_check_report": {
+    "overall_confidence": 85,
+    "verdict": "PASS",
+    "summary": "주요 사실 관계 8건 검증됨. 'AI 핵심 동력은 사람' 직접 인용 및 '세계 전례 없다' 주장에 대한 출처 명확화 권장. 박사과정 정원(5명) vs 입학생(6명) 차이는 기사에서 이미 분명히 구분되어 있음.",
+    "claims": [
+      {
+        "claim": "LG AI대학원이 2026년 3월 4일 서울 강서구 마곡 K스퀘어에서 개원식을 열고 공식 출범했다",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 90,
+        "evidence": "헤럴드경제 기사 및 대한민국 정책브리핑(korea.kr) 정책뉴스 동시 보도. 개원식 일시, 장소, 기관명 모두 일치.",
+        "sources": [
+          "https://biz.heraldcorp.com/article/10686615",
+          "https://www.korea.kr/news/policyNewsView.do?newsId=148960284&call_from=rsslink"
+        ],
+        "flagged": false
+      },
+      {
+        "claim": "법적 근거는 2025년 1월 시행된 '첨단산업 인재혁신 특별법' 제4조",
+        "type": "definitional",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "대한민국 정책브리핑(1차 정부 소스) 및 LG 공식 보도자료에서 명확히 확인. '지난해 1월부터 시행된' 표현으로 2025년 1월 시행 확실함.",
+        "sources": [
+          "https://www.korea.kr/news/policyNewsView.do?newsId=148960284&call_from=rsslink",
+          "https://www.lg.co.kr/media/release/29286"
+        ],
+        "flagged": false
+      },
+      {
+        "claim": "졸업 시 일반 대학원 졸업자와 동등한 학력·학위가 인정된다. 이는 세계적으로도 전례를 찾기 어려운 제도다",
+        "type": "causal",
+        "verdict": "SUPPORTED_with_caveat",
+        "confidence": 75,
+        "evidence": "학위 동등 인정은 korea.kr, LG 공식 보도자료에서 검증됨. 그러나 '세계 전례 없음'은 LG의 자체 주장('사내 대학원이 공식 평생교육기관으로서 학위를 수여하는 것은 세계에서도 전례를 찾기 어렵다')일 뿐, 독립적인 국제 비교 자료로는 미검증.",
+        "sources": [
+          "https://www.korea.kr/news/policyNewsView.do?newsId=148960284&call_from=rsslink",
+          "https://www.lg.co.kr/media/release/29286"
+        ],
+        "flagged": true,
+        "flag_reason": "세계적 전례 부분은 LG의 자기 주장이므로 기사에서 'LG가 주장하는 바에 따르면' 식으로 명시적 출처 표기 권장"
+      },
+      {
+        "claim": "1기 입학생은 총 17명(석사 11명, 박사 6명). 정원은 석사 25명, 박사 5명이다",
+        "type": "statistical",
+        "verdict": "SUPPORTED_with_caveat",
+        "confidence": 70,
+        "evidence": "입학생 수(17명, 석사 11명, 박사 6명)는 헤럴드경제에서 확인. 정원(석사 25명)은 korea.kr에서 확인. 그러나 박사과정 정원은 korea.kr에서 '입학정원 5명'으로 명시되어 있으나, 실제 입학생은 6명으로 정원 초과. 기사에서 이미 정원과 입학생 수를 구분하여 기술하고 있으므로 명확하나, 정원과의 차이에 대한 설명 부재.",
+        "sources": [
+          "https://biz.heraldcorp.com/article/10686615",
+          "https://www.korea.kr/news/policyNewsView.do?newsId=148960284&call_from=rsslink"
+        ],
+        "flagged": true,
+        "flag_reason": "박사과정 정원 5명 대비 입학생 6명 — 정원 초과 또는 인가 후 정원 조정 여부 불명. 경미한 수준의 불일치이나 기사에서 향후 설명 추가 고려"
+      },
+      {
+        "claim": "석사 과정 1년(3학기), 박사 과정 3년 이상. 학비 전액 지원",
+        "type": "definitional",
+        "verdict": "SUPPORTED",
+        "confidence": 90,
+        "evidence": "korea.kr(정부 1차 소스)에서 '석사 학위과정은 문제해결 중심의 실무형 인재 양성을 목표로 1년 파견 교육과정', '박사 학위과정은 3년 이상 파견 과정으로 운영'으로 명시. 헤럴드경제에서도 '학비 지원'과 '석사 1년, 박사 3년 이상 과정' 확인.",
+        "sources": [
+          "https://www.korea.kr/news/policyNewsView.do?newsId=148960284&call_from=rsslink",
+          "https://biz.heraldcorp.com/article/10686615"
+        ],
+        "flagged": false
+      },
+      {
+        "claim": "박사 졸업요건은 SCI(E)급 논문 1편 이상 게재 또는 세계 정상급 학술대회 발표 필수",
+        "type": "definitional",
+        "verdict": "SUPPORTED",
+        "confidence": 90,
+        "evidence": "korea.kr 정부 공식 정책브리핑에서 '박사 학위과정의 졸업요건으로는 SCI(E)급 논문 1편 이상 게재 또는 세계 정상급 학술대회 발표가 필수'로 명확히 명시. 세계 정상급 학술대회 발표라는 대안 선택지 포함.",
+        "sources": [
+          "https://www.korea.kr/news/policyNewsView.do?newsId=148960284&call_from=rsslink"
+        ],
+        "flagged": false
+      },
+      {
+        "claim": "교수진은 LG AI연구원 소속 산업 전문가 24명 + 전임 교원으로 구성",
+        "type": "definitional",
+        "verdict": "SUPPORTED",
+        "confidence": 85,
+        "evidence": "헤럴드경제 기사에서 '겸임교원 24명, AI 전문지식을 보유한 전임교원 1명'으로 명시. LG 공식 보도자료(2025년 8월)에서 '25명의 전문가'로 총원 표현. 초안의 '24명 + 전임 교원' 표현은 정확하나, 총 구성인원이 25명임을 더욱 명확히 할 수 있음.",
+        "sources": [
+          "https://biz.heraldcorp.com/article/10686615",
+          "https://www.lg.co.kr/media/release/29286"
+        ],
+        "flagged": false
+      },
+      {
+        "claim": "LG는 이번 대학원 출범으로 청소년(LG 디스커버리랩) → 청년(LG 에이머스) → 임직원(LG AI 아카데미) → 석박사(LG AI대학원)를 아우르는 전 생애주기 AI 교육 생태계를 완성했다",
+        "type": "causal",
+        "verdict": "SUPPORTED",
+        "confidence": 80,
+        "evidence": "LG 공식 보도자료에서 'LG는 청소년 대상 체험형 AI 교육기관인 'LG디스커버리랩'을 서울과 부산에서 운영', '청년 AI 전문가 육성 프로그램 'LG 에이머스'를 운영', '임직원 대상 'LG AI 아카데미'도 운영' 명시. 각 프로그램 존재는 검증되나, '생태계 완성'은 LG의 자체 표현 기반 평가.",
+        "sources": [
+          "https://www.lg.co.kr/media/release/29286"
+        ],
+        "flagged": false
+      },
+      {
+        "claim": "개원식에 교육부 고등평생정책실장, 산업통상자원부 산업정책실장이 참석해 정책적 지지를 표명했다",
+        "type": "attribution",
+        "verdict": "SUPPORTED",
+        "confidence": 95,
+        "evidence": "대한민국 정책브리핑(1차 정부 소스)에서 '이해숙 교육부 고등평생정책실장, 박동일 산업통상부 산업정책실장이 참석하여 축하와 격려를 전했으며' 직접 인용문까지 제시. 헤럴드경제에서도 두 인물의 참석 및 발언 내용 확인.",
+        "sources": [
+          "https://www.korea.kr/news/policyNewsView.do?newsId=148960284&call_from=rsslink",
+          "https://biz.heraldcorp.com/article/10686615"
+        ],
+        "flagged": false
+      },
+      {
+        "claim": "2022년 내부 AI 교육기관으로 먼저 설립되었다가 2025년 교육부 석사과정 인가를 받았다. 박사과정은 연내 인가 절차 진행 중",
+        "type": "temporal",
+        "verdict": "SUPPORTED",
+        "confidence": 85,
+        "evidence": "LG 공식 보도자료(2025년 8월)에서 '2022년 개원한 LG AI대학원은 이번 인가로 석사 및 박사 학위를 수여할 수 있는 평생교육기관이라는 법적 지위를 인정받았다', '석사과정 인가를 받았으며, 연내 완료를 목표로 박사과정 인가 절차도 진행 중'으로 명시. 2026년 3월 개원 당시 박사과정 인가 완료 여부는 korea.kr에서 '박사학위과정을 운영한다'고 표현하여 인가 완료로 해석 가능.",
+        "sources": [
+          "https://www.lg.co.kr/media/release/29286",
+          "https://www.korea.kr/news/policyNewsView.do?newsId=148960284&call_from=rsslink"
+        ],
+        "flagged": false
+      }
+    ]
+  },
+  "recommendations": [
+    "PASSED: 전체 신뢰도 85점으로 PASS 기준(80점) 충족",
+    "FLAG-1: '세계 전례 없다'는 표현 — LG의 자체 주장임을 명확히 하기 위해 '세계에서도 전례를 찾기 어렵다는 평가를 받는 이번 제도는'과 같이 기사에서 LG의 평가로 표현된 부분을 더욱 명확히 할 것 권장",
+    "FLAG-2: 박사과정 정원 5명 vs 입학생 6명 — 기사에서 이미 정원과 입학생 수를 구분하여 기술했으나, 정원 초과의 이유(조정, 특별 선발 등)에 대한 설명 추가 고려. 현재 기사는 두 수치를 명확히 제시하고 있어 직접적인 오류는 없음.",
+    "EDITORIAL-1: 구광모 회장 발언 'AI의 핵심 동력은 사람'은 헤럴드 기사 헤드라인에 인용되나, 기사 본문의 편지 내용과 다소 다름. 원문 인용 시 정확한 출처 확인 권장",
+    "강점: 주요 사실 관계(법적 근거, 기관 설립 연혁, 정원 및 정원, 커리큘럼, 교수진 구성, 정부 참석)는 1차 소스(korea.kr, LG 공식 보도자료)로 광범위하게 검증됨"
+  ],
+  "audit_log": [
+    {
+      "agent": "source-collector",
+      "action": "collected",
+      "timestamp": "2026-03-04T21:57:00+01:00",
+      "note": "관련성 77점 — 교육부 인가 국내 첫 AI 사내대학원 출범, 중앙일보 단독 상세 보도"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-04T22:03:00+01:00",
+      "note": "relevance_score 77 (≥75) — 취재 배정. 국내 첫 교육부 인가 AI 사내대학원 출범, 기업 주도 AI 인재양성 모델 앵글."
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-04T22:04:00+01:00",
+      "note": "7개 소스 수집 완료. 중앙일보 원문 + korea.kr 공식 정책브리핑 + LG 공식 보도자료 포함."
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T22:07:00+01:00",
+      "note": "심층 기사 초안 완료 (~1480자). 제도 기반 → 커리큘럼·학위 구조 → 전 생애주기 AI 교육 생태계 → 학계 우려 구도."
+    },
+    {
+      "agent": "fact-checker",
+      "action": "verified",
+      "timestamp": "2026-03-04T22:18:00+01:00",
+      "note": "SAFE 프로토콜 실행 완료. 10개 주장 검증, 전체 신뢰도 85점, PASS 판정. 세계 전례 부분 출처 명확화 및 박사정원 차이 설명 추가 권장."
+    },
+    {
+      "agent": "editor-desk",
+      "action": "revision_requested",
+      "timestamp": "2026-03-04T22:05:36Z",
+      "note": "신뢰도 85점(PASS 80-89) — 간략 검토 후 REVISE. FLAG 2개 수정 후 재검토 예정"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "revision_requested",
+      "timestamp": "2026-03-04T23:07:33Z",
+      "note": "신뢰도 85점(PASS 80-89) 간략 검토 → REVISE. 2개 FLAG 수정 + 헤드라인 단축. revision_count = 2"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "killed",
+      "timestamp": "2026-03-05T00:11:13.933945+00:00",
+      "note": "LG AI 대학원 기사 중복 — 높은 신뢰도(88) 버전(0001)이 승인됨. 중복 제거."
+    }
+  ],
+  "revision_count": 1,
+  "revision_notes": [
+    "FLAG-1: '세계 전례 없다' 표현 — LG의 평가로 명확히 표기",
+    "FLAG-2: 박사정원(5명) vs 입학생(6명) 차이 — 설명 추가",
+    "그 외 사실 관계는 85점으로 검증됨"
+  ],
+  "desk_decision": "REVISE",
+  "desk_review": {
+    "revision_count": 2,
+    "checklist": {
+      "news_value": "PASS",
+      "accuracy": "PASS (confidence 85)",
+      "balance": "PASS",
+      "legal": "PASS",
+      "ai_disclosure": "PASS",
+      "style": "REVISE (headline too long)"
+    },
+    "revision_instructions": [
+      "FLAG-1: '세계 전례 없다' 표현을 '세계적으로도 전례를 찾기 어렵다는 LG의 평가에 따르면'으로 명확화",
+      "FLAG-2: 박사과정 정원 초과(5명 정원 vs 6명 입학) 이유 설명 추가 (조정/특별 선발 등)",
+      "헤드라인 길이 단축: 현재 40자 → 30자↓로 조정",
+      "기사 본문은 대체로 양호, 소수 표현만 다듬기"
+    ]
+  }
+}

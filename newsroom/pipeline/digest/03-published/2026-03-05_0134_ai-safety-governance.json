@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "GSMA and Zindi Launch Landmark African AI Safety Challenge to Shape Global Standards for Trustworthy AI",
+    "url": "https://www.mwcbarcelona.com/articles/gsma-and-zindi-launch-landmark-african-ai-safety-challenge-to-shape-global-standards-for-trustworthy-ai",
+    "source_name": "GSMA",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "GSMA and Zindi launched the African Trust & Safety LLM Challenge (March 4-April 19, 2026) to establish global AI safety standards. The initiative mobilizes over 100,000 data scientists across 180+ countries to develop trustworthy AI models aligned with diverse cultural contexts.",
+    "published_date": "2026-03-04",
+    "collected_at": "2026-03-05T01:34:00Z"
+  },
+  "digest": {
+    "headline": "글로벌 AI 안전 표준화, 아프리카 중심 국제 챌린지 추진",
+    "lead": "GSMA와 Zindi가 '아프리카 신뢰·안전 LLM 챌린지'(3월 4일~4월 19일)를 개최한다. 180개국 10만 명 이상의 데이터 과학자들이 참여해 문화 다양성을 반영한 신뢰할 수 있는 AI 모델 개발을 목표로 한다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">⚡ AI Digest</span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">GSMA와 Zindi가 '아프리카 신뢰·안전 LLM 챌린지'(3월 4일~4월 19일)를 개최한다. 180개국 10만 명 이상의 데이터 과학자들이 참여해 문화 다양성을 반영한 신뢰할 수 있는 AI 모델 개발을 목표로 한다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">기존의 AI 안전 표준은 주로 서구 중심으로 수립돼 왔다. 이번 챌린지는 아프리카와 글로벌 개발도상국의 맥락을 반영한 AI 안전 가이드라인을 개발하려는 시도다. 참가자들은 다양한 언어와 문화적 맥락에서 편향 없는 AI 모델을 구축하는 과제에 도전하게 된다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 글로벌 챌린지는 AI 안전 표준화의 민주화를 의미한다. 기존의 상향식 규제가 아닌 다양한 지역의 데이터 과학자들이 협력해 표준을 수립함으로써, 진정한 의미의 문화적 포용성 있는 AI 거버넌스를 구현할 수 있을 것으로 기대된다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">문화적 다양성을 고려한 AI 모델 개발 경험은 글로벌 에듀테크 기업들에게 중요한 교훈을 제시한다. 다양한 언어·문화권 학생들을 지원하는 교육용 AI 시스템 개발 시 공정성과 신뢰성을 담보할 수 있는 프레임워크를 제공하며, 국제 협력 교육 플랫폼 구축을 가속화할 것으로 예상된다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.mwcbarcelona.com/articles/gsma-and-zindi-launch-landmark-african-ai-safety-challenge-to-shape-global-standards-for-trustworthy-ai\" style=\"color:#FF6B35;text-decoration:none;\">GSMA</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "research"
+    ],
+    "meta_title": "글로벌 AI 안전 표준화, 아프리카 중심 국제 챌린지 추진",
+    "meta_description": "180개국 10만 명 데이터 과학자가 참여한 아프리카 AI 안전 챌린지로 다문화 포용적 글로벌 표준 수립",
+    "word_count": 610
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-05T01:34:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T01:36:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T00:38:26.186Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a8d082e2eb440001d5585b",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a8d082e2eb440001d5585b",
+    "public_url": "https://ubion.ghost.io/geulrobeol-ai-anjeon-pyojunhwa-apeurika-jungsim-gugje-caelrinji-cujin/",
+    "status": "published",
+    "published_at": "2026-03-05T00:38:26.186Z",
+    "feature_image": "https://images.unsplash.com/photo-1562408590-e32931084e23?w=1200&h=630&fit=crop&q=85&auto=format"
+  }
+}

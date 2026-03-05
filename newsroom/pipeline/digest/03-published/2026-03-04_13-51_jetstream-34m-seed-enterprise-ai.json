@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "JetStream raises $34M seed to bring real-time governance and visibility to enterprise AI",
+    "url": "https://techstartups.com/2026/03/03/jetstream-raises-34m-seed-to-bring-real-time-governance-and-visibility-to-enterprise-ai/",
+    "source_name": "Tech Startups",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "San Francisco-based AI startup JetStream has raised a $34 million seed round led by Redpoint Ventures, with backing from CrowdStrike's Falcon Fund and high-profile angels including CrowdStrike CEO George Kurtz and Wiz CEO Assaf Rappaport. The company focuses on real-time governance and visibility for enterprise AI deployments, addressing the growing need for AI oversight at scale.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T12:51:00Z"
+  },
+  "digest": {
+    "headline": "AI 거버넌스 스타트업 JetStream, 3,400만 달러 시드 투자 유치",
+    "lead": "샌프란시스코 AI 스타트업 JetStream이 Redpoint Ventures 주도로 3,400만 달러(약 460억 원) 시드 투자를 유치했다. CrowdStrike·SentinelOne 출신 창업팀이 구축한 이 플랫폼은 기업 내 AI 에이전트의 실시간 행동을 추적하고 거버넌스를 제공한다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">샌프란시스코 AI 스타트업 JetStream이 Redpoint Ventures 주도로 3,400만 달러(약 460억 원) 시드 투자를 유치했다. CrowdStrike·SentinelOne 출신 창업팀이 구축한 이 플랫폼은 기업 내 AI 에이전트의 실시간 행동을 추적하고 거버넌스를 제공한다. CrowdStrike CEO 조지 커츠, Wiz CEO 아사프 라파포트 등 사이버보안 업계 거물들도 엔젤 투자자로 참여했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">기업들이 AI 에이전트와 자동화 워크플로를 빠르게 도입하면서 정작 그 시스템이 무엇을 하는지 추적하지 못하는 '가시성 공백' 문제가 심화되고 있다. 어떤 데이터에 접근했는지, 어떤 모델이 결정을 내렸는지, 누가 워크플로를 승인했는지조차 파악하지 못하는 기업이 많다. JetStream은 이 공백을 메우는 'AI 제어탑'을 표방하며, 핵심 기능인 'AI Blueprints™'를 통해 AI 에이전트·모델·데이터 소스·툴·사용자 아이덴티티 간 관계를 동적 그래프로 실시간 시각화한다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">사이버보안 분야 베테랑들이 AI 거버넌스 시장에 진입했다는 점이 주목된다. 포춘 500대 기업 고객을 이미 확보했다는 점에서 엔터프라이즈 수요는 검증된 셈이다. AI 거버넌스·규정 준수가 기업 AI 도입의 핵심 레이어로 부상하면서, 이 시장은 보안·컴플라이언스 솔루션과 함께 빠르게 성장할 전망이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">대학·교육 플랫폼이 AI 튜터·자동 채점·학습 추천 에이전트를 도입할수록 'AI가 어떤 근거로 학생에게 무엇을 제공했는가'에 대한 설명 책임이 강화될 것이다. JetStream 같은 실시간 AI 거버넌스 플랫폼은 교육기관의 AI 윤리·개인정보보호 규정 준수를 지원하는 핵심 인프라가 될 수 있으며, 에듀테크 개발사도 자사 AI 서비스에 유사한 가시성 레이어를 내재화하는 것을 고려해야 한다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://techstartups.com/2026/03/03/jetstream-raises-34m-seed-to-bring-real-time-governance-and-visibility-to-enterprise-ai/\" style=\"color:#FF6B35;text-decoration:none;\">Tech Startups</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "regulation"
+    ],
+    "meta_title": "AI 거버넌스 스타트업 JetStream 3,400만 달러 유치 — 기업 AI 실시간 감시",
+    "meta_description": "JetStream이 Redpoint Ventures 주도 3,400만 달러 시드 투자를 유치, 기업 AI 에이전트의 실시간 거버넌스·가시성 플랫폼을 구축 중이다. 에듀테크 AI 설명 책임과도 직결된다.",
+    "word_count": 560
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T12:51:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T13:52:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T13:56:47.693Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a83a1fe2eb440001d557af",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a83a1fe2eb440001d557af",
+    "public_url": "https://insight.ubion.global/ai-geobeoneonseu-seutateueob-jetstream-3-400man-dalreo-sideu-tuja-yuci/",
+    "status": "published",
+    "published_at": "2026-03-04T13:56:47.000Z",
+    "slug": "ai-geobeoneonseu-seutateueob-jetstream-3-400man-dalreo-sideu-tuja-yuci"
+  }
+}

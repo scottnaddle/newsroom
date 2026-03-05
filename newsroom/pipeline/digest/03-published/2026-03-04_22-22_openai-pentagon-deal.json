@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "OpenAI Amends A.I. Deal With the Pentagon",
+    "url": "https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html",
+    "source_name": "The New York Times",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "OpenAI has amended its Pentagon deal to include additional protections preventing the use of its technology for mass surveillance of Americans. This follows the Trump administration's actions regarding AI policy and military applications.",
+    "published_date": "2026-03-02",
+    "collected_at": "2026-03-04T21:22:00Z"
+  },
+  "digest": {
+    "headline": "오픈AI, 펜타곤 계약 수정하며 대규모 감시 방지 조항 추가",
+    "lead": "오픈AI는 미국 국방부와의 계약을 수정하면서 자사 AI 기술이 미국 국민 대규모 감시에 활용되는 것을 명시적으로 차단했다. 트럼프 행정부의 AI 정책 변화 속에서 이루어진 이번 수정은 AI 기업과 군부 간의 기술 협력 방식을 재정의하는 신호다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">오픈AI는 미국 국방부와의 계약을 수정하면서 자사 AI 기술이 미국 국민 대규모 감시에 활용되는 것을 명시적으로 차단했다. 트럼프 행정부의 AI 정책 변화 속에서 이루어진 이번 수정은 AI 기업과 군부 간의 기술 협력 방식을 재정의하는 신호다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">오픈AI와 미국 국방부의 협력은 2023년부터 시작된 AI의 국방 분야 활용에 대한 논의 속에서 진행되었다. 최근 트럼프 행정부의 AI 정책 방향성이 변화하면서, 오픈AI는 기술 활용의 범위를 명확하게 제한하는 조항을 추가하기로 결정했다. 특히 대규모 감시 목적의 기술 활용을 명시적으로 금지함으로써 데이터 프라이버시와 시민적 자유 보호에 대한 우려를 반영했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 계약 수정은 AI 기업들이 정부 기관과의 협력에서 윤리적 기준선을 명확히 해야 한다는 메시지를 전달한다. 군사 AI 기술 개발은 계속되겠지만, 일반인 감시와 같은 민감한 용도로의 확대는 제한될 것으로 보인다. 이는 향후 공공 부문의 AI 도입 시 유사한 보호 장치가 필수적일 것임을 시사한다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">교육 현장의 AI 도입도 유사한 윤리 기준이 필요하다. 학생 학습 데이터 수집과 분석, AI 기반 감시 카메라 활용 등에서 프라이버시 보호 조항이 필수다. 이번 펜타곤 계약 수정은 에듀테크 스타트업과 교육청이 학생 데이터 보호를 위해 선제적인 약정을 개발할 필요성을 강조한다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html\" style=\"color:#FF6B35;text-decoration:none;\">The New York Times</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "regulation",
+      "openai"
+    ],
+    "meta_title": "오픈AI 펜타곤 계약, 대규모 감시 방지 조항 추가",
+    "meta_description": "오픈AI가 국방부 계약을 수정해 AI 기술의 미국 국민 대규모 감시 활용을 명시적으로 차단했습니다. 에듀테크 분야의 데이터 보호 기준도 강화되어야 합니다.",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T21:22:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T06:26:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T22:28:06.051Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a8b1f5e2eb440001d55830",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a8b1f5e2eb440001d55830",
+    "public_url": "https://ubion.ghost.io/opeunai-pentagon-gyeyag-sujeonghamyeo-daegyumo-gamsi-bangji-johang-cuga/",
+    "status": "published",
+    "published_at": "2026-03-04T22:28:05.000Z"
+  }
+}

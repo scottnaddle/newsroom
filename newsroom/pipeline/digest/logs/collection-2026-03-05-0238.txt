@@ -1,0 +1,41 @@
+=== AI Digest Collector Run ===
+Timestamp: 2026-03-05T02:38:00Z
+Timezone: Europe/Berlin
+
+EXECUTION SUMMARY
+─────────────────
+Queries Executed: 2 of 3
+  ✓ "AI news today latest" (5 results)
+  ✓ "OpenAI Google Anthropic Meta AI news" (5 results)
+  ✗ "AI startup funding investment 2026" (rate-limited at 429)
+
+Total Results Examined: 10
+Unique URLs: 10
+Already in Database: 8 (80% dedup rate)
+New URLs Found: 2
+Eligible for Sourcing (85+): 0
+
+NEW CONTENT IDENTIFIED
+──────────────────────
+1. Reuters OpenAI NATO contract (generic feed page, insufficient detail)
+2. StockTitan ARMOGI fulfillment (product-specific, below relevance threshold ~60pts)
+
+DEDUP EFFECTIVENESS
+───────────────────
+Recent-urls database is comprehensive. Most active AI news already tracked.
+Last 24h collection: Good coverage of Pentagon/Anthropic, OpenAI, Meta deals.
+
+COLLECTION QUALITY STATUS
+──────────────────────────
+- Pentagon/Anthropic/OpenAI military contracts: Well covered ✓
+- Funding trends: Multiple venture capital stories tracked ✓
+- Model releases: Gemini, Claude updates in database ✓
+- Chip industry: NVIDIA, semiconductor news present ✓
+
+ARTIFACTS CREATED
+─────────────────
+None (no sourced articles scoring > 85 threshold this run)
+recent-urls.json updated with execution timestamp
+
+STATUS: COMPLETE
+Result: 0 articles sourced | 8 deduplicated | 1 rate-limited query

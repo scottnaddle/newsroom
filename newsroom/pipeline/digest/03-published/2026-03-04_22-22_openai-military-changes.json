@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "OpenAI changes deal with US military after backlash",
+    "url": "https://www.bbc.com/news/articles/c3rz1nd0egro",
+    "source_name": "BBC News",
+    "language": "en",
+    "relevance_score": 86,
+    "summary": "OpenAI has changed its military deal following backlash, with the AI model previously blacklisted by the Trump administration. This contrasts with Anthropic's refusal to drop its principle against fully autonomous weapons development.",
+    "published_date": "2026-03-04",
+    "collected_at": "2026-03-04T21:22:00Z"
+  },
+  "digest": {
+    "headline": "오픈AI, 국방부 계약 수정 및 안전장치 강화",
+    "lead": "오픈AI는 미국 국방부와의 기밀 군사 운영 계약을 수정하고 추가 안전장치를 도입했다. 직원 반발과 사용자 이탈 증가 압박에 응한 조치로, 기업의 윤리적 입장이 대내외 압력에 따라 변할 수 있음을 보여준다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">오픈AI는 미국 국방부와의 기밀 군사 운영 계약을 수정하고 추가 안전장치를 도입했다. 직원 반발과 사용자 이탈 증가 압박에 응한 조치로, 기업의 윤리적 입장이 대내외 압력에 따라 변할 수 있음을 보여준다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">오픈AI가 국방부와의 계약을 발표한 직후 비판이 쏟아졌다. 센서타워의 데이터에 따르면 챗GPT 제거 비율이 평소의 200% 수준으로 치솟았다. 반면 완전 자동화 무기 개발을 거부한 앤트로픽의 클로드 앱 다운로드는 애플 앱스토어에서 1위로 상승했다. 샘 알트먼 CEO는 월요일 X에 글을 올려 국내 감시 제외 등 계약 수정을 발표했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 사건은 AI 기업 간 윤리적 입장의 차이를 드러냈다. 앤트로픽은 국방부 블랙리스트에 올랐음에도 \"완전 자동화 무기 금지\" 원칙을 지킨 반면, 오픈AI는 초기 계약의 \"부주의함\"을 인정하고 수정했다. 알트먼은 \"이슈들은 매우 복잡하고 명확한 커뮤니케이션을 요구한다\"고 말했다. 사용자와 직원의 압력이 기업의 의사결정에 영향을 미칠 수 있음을 보여주는 사례다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 기술의 투명성과 윤리적 거버넌스의 중요성이 강조되었다. 교육 현장에서 AI를 도입할 때도 명확한 윤리 기준과 투명한 의사결정 프로세스가 필수다. 학생과 교사의 신뢰는 AI 기술의 투명한 설계와 책임감 있는 운영에 달려 있으며, 이는 학습 효과와 장기적 수용도에 직결된다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.bbc.com/news/articles/c3rz1nd0egro\" style=\"color:#FF6B35;text-decoration:none;\">BBC News</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "openai"
+    ],
+    "meta_title": "오픈AI, 국방부 계약 수정 및 안전장치 강화",
+    "meta_description": "오픈AI가 군사 계약 수정 및 안전장치 강화. 사용자 이탈 증가와 직원 반발로 계약 조건 변경",
+    "word_count": 530
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T21:22:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T06:25:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T21:27:06.061Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a8a3a9e2eb440001d55827",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a8a3a9e2eb440001d55827",
+    "public_url": "https://ubion.ghost.io/opeunai-gugbangbu-gyeyag-sujeong-mic-anjeonjangci-ganghwa/",
+    "status": "published",
+    "published_at": "2026-03-04T21:27:06.061Z"
+  }
+}

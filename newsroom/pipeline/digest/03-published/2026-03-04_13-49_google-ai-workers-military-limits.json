@@ -1,5 +1,5 @@
 {
-  "stage": "drafted",
+  "stage": "published",
   "pipeline": "digest",
   "source": {
     "title": "Google AI Workers Demand Limits on Military Use After Anthropic Dispute",
@@ -15,13 +15,39 @@
     "headline": "구글 AI 직원 100명, 군사 활용 제한 요구 — 앤스로픽 사태 여파 확산",
     "lead": "구글 AI 직원 100여 명이 3월 1일 제프 딘 최고과학자에게 서한을 보내 제미나이의 군사 활용에 명확한 제한을 요구했다. 트럼프 대통령이 앤스로픽의 미 정부 계약을 전면 중단시킨 사태가 실리콘밸리 전반으로 파문을 일으킨 결과다.",
     "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">구글 AI 직원 100여 명이 3월 1일 제프 딘 최고과학자에게 서한을 보내 제미나이의 군사 활용에 명확한 제한을 요구했다. 자국민 감시와 인간 감독 없는 자율무기 시스템에 제미나이를 사용하지 말 것을 골자로 한다. 앤스로픽-국방부 갈등으로 촉발된 이 움직임은 오픈AI 직원들의 동조 성명으로까지 이어지며 업계 전반으로 확산되고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">앤스로픽은 미 국방부와의 계약 조건을 둘러싼 갈등 끝에 트럼프 대통령으로부터 정부 계약 전면 중단 명령을 받았다. 이후 미 정부기관들은 오픈AI·구글 플랫폼으로 빠르게 전환하고 있으며, 샘 알트먼 오픈AI CEO는 미 전쟁부와 새 계약을 체결했다. 이 과정에서 구글 AI 연구원들은 자사도 같은 상황에 처할 수 있다는 우려를 표명하며 내부 행동에 나선 것으로 분석된다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">빅테크 AI 연구자들이 집단으로 군사 활용 제한을 요구한 것은 AI 거버넌스 논의가 내부에서도 본격화되고 있음을 보여준다. AI 연구자들의 윤리적 우려가 정책 결정에 미치는 영향력이 커질수록, 기업들은 군·민간 이중 활용 정책을 명문화하는 압박을 받게 될 것이다. 향후 미 의회와 EU의 AI 군사 활용 규제 논의에도 영향을 미칠 가능성이 높다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 모델의 용도 제한 논의는 교육 서비스 개발사에도 직결된다. 구글·오픈AI 등 핵심 API 공급사의 사용 정책이 정치적 압력에 따라 급변할 수 있다는 점이 확인된 만큼, 에듀테크 기업은 특정 AI 공급사에 대한 단일 의존도를 낮추고 멀티-모델 전략을 검토해야 한다. 또한 교육 플랫폼이 AI를 활용할 때 '인간 감독(human oversight)' 원칙을 명시하는 것이 향후 규제 대응에서 경쟁 우위가 될 수 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://nationaltoday.com/us/ny/new-york/news/2026/03/02/google-ai-workers-demand-limits-on-military-use-after-anthropic-dispute/\" style=\"color:#FF6B35;text-decoration:none;\">National Today (New York)</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
-    "ghost_tags": ["ai-digest", "ai", "regulation", "google"],
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "google"
+    ],
     "meta_title": "구글 AI 직원 100명, 제미나이 군사 활용 제한 촉구",
     "meta_description": "앤스로픽-국방부 갈등 여파로 구글 AI 연구원 100여 명이 자국민 감시·자율무기에 제미나이 사용 금지를 요구하는 내부 서한을 제출했다.",
     "word_count": 520
   },
   "audit_log": [
-    {"agent": "digest-collector", "action": "sourced", "timestamp": "2026-03-04T12:49:00Z"},
-    {"agent": "digest-writer", "action": "drafted", "timestamp": "2026-03-04T13:51:00Z"}
-  ]
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T12:49:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T13:51:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T13:56:47.174Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a83a1fe2eb440001d5579d",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a83a1fe2eb440001d5579d",
+    "public_url": "https://insight.ubion.global/gugeul-ai-jigweon-100myeong-gunsa-hwalyong-jehan-yogu-aenseuropig-satae-yeopa-hwagsan/",
+    "status": "published",
+    "published_at": "2026-03-04T13:56:47.000Z",
+    "slug": "gugeul-ai-jigweon-100myeong-gunsa-hwalyong-jehan-yogu-aenseuropig-satae-yeopa-hwagsan"
+  }
 }

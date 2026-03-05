@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Digital Sovereignty Push Exposes Gaps in Government Control of Cloud and AI Infrastructure",
+    "url": "https://www.prnewswire.com/news-releases/digital-sovereignty-push-exposes-gaps-in-government-control-of-cloud-and-ai-infrastructure-says-info-tech-research-group-302704340.html",
+    "source_name": "PR Newswire",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "Digital sovereignty has moved from policy discussion to operational mandate across national and subnational governments. Leaders are under pressure to assert jurisdictional authority over data and AI infrastructure, revealing significant gaps in government control and preparation.",
+    "published_date": "2026-03-04",
+    "collected_at": "2026-03-05T00:27:00Z"
+  },
+  "digest": {
+    "headline": "정부의 클라우드·AI 인프라 통제 전략, 실행 단계로 진입",
+    "lead": "세계 각국 정부가 디지털 주권을 정책 수준에서 실제 운영 체계로 전환 중이다. 데이터와 AI 시스템에 대한 국가 통제권을 강화하려는 움직임이 가속화되면서, 암호화 키, 국경 간 데이터 이동, 클라우드 인프라에 대한 정부의 통제 수준이 미흡함을 드러냈다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">각국 정부가 클라우드와 AI 인프라에 대한 실질적 통제권을 확보하려는 '디지털 주권' 전략을 본격 추진 중이다. 하지만 현실에는 암호화 키 관리, 국경 간 데이터 흐름, 인프라 호스팅에 대한 가시성 부족 등 구조적 한계가 노출되고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">지정학적 불안정성과 AI 규제 확대, 국경 간 데이터 노출에 대한 우려가 커지면서 전 세계 정부는 '디지털 주권'을 더 이상 정책 담론이 아닌 필수 운영 과제로 인식하기 시작했다. 미국, 유럽, 인도, 한국 등 주요국이 자국 데이터와 AI 시스템에 대한 통제권 강화를 추진 중이지만, 많은 공공 기관이 클라우드 제공자의 실제 통제 범위, 암호화 키의 소유권, 국경 간 데이터 전송의 위험성을 명확히 파악하지 못하고 있는 상황이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">Info-Tech 리서치 그룹은 디지털 주권이 '전 지구적 기술 생태계와의 단절'을 의미하지는 않으며, 오히려 국내 거버넌스 통제와 신뢰할 수 있는 클라우드 모델, 계약상 안전장치를 결합하는 방식으로 작동해야 한다고 강조했다. 향후 정부들은 조달 정책과 기술 아키텍처의 정렬, 민감 데이터 처리 위치의 명확화 등 4단계 로드맵을 통해 정책 의도를 실제 운영 통제로 전환할 것으로 예상된다.</p>\n\n  <!-- 에듀테크 시사점 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 기반 교육 플랫폼과 학생 데이터를 다루는 에듀테크 기업들에게 필수적인 과제다. 교육 현장의 학생 정보, 학습 기록, 평가 데이터는 극도로 민감한 개인정보인 만큼, 향후 각국의 디지털 주권 강화로 인해 데이터 저장소 위치 제한, 국경 간 데이터 이동 규제, 제3국 클라우드 서비스 사용 제한 등이 심화될 가능성이 크다. 에듀테크 기업은 학생 데이터 거버넌스 체계를 선제적으로 정비하고, 로컬 또는 주권형 클라우드 인프라 전환을 준비해야 한다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.prnewswire.com/news-releases/digital-sovereignty-push-exposes-gaps-in-government-control-of-cloud-and-ai-infrastructure-says-info-tech-research-group-302704340.html\" style=\"color:#FF6B35;text-decoration:none;\">PR Newswire</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "regulation",
+      "technology"
+    ],
+    "meta_title": "각국 정부, 클라우드·AI 인프라 통제 강화 본격화",
+    "meta_description": "디지털 주권 전략이 정책에서 실행 단계로 진입. 교육 데이터도 영향받을 가능성 커져",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-05T00:27:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T00:29:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T23:31:22.334Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a8c0cae2eb440001d5583a",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a8c0cae2eb440001d5583a",
+    "public_url": "https://ubion.ghost.io/jeongbuyi-keulraudeu-ai-inpeura-tongje-jeonryag-silhaeng-dangyero-jinib/",
+    "status": "published",
+    "published_at": "2026-03-04T23:31:22.000Z"
+  }
+}

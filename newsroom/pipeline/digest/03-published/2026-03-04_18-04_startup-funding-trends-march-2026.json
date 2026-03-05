@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Startup Funding Trends | March 2026",
+    "url": "https://blog.mean.ceo/startup-funding-trends-march-2026/",
+    "source_name": "Mean.CEO Blog",
+    "language": "en",
+    "relevance_score": 70,
+    "summary": "Analysis of startup funding trends for March 2026, with a focus on AI's expanding role shifting from experimentation to infrastructure. AI Series A funding now averages $51.9M (30% higher than non-AI peers), and pre-money valuations for AI seed rounds averaged $17.9M in 2024—42% higher than non-AI companies. Execution capability is highlighted as a key differentiator in investment decisions.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T17:04:00Z"
+  },
+  "digest": {
+    "headline": "AI 스타트업 시드 밸류에이션 비AI 대비 42% 높아... 2026년 투자 시장 '실험→인프라' 전환",
+    "lead": "2026년 3월 스타트업 투자 시장은 AI 기업에 대한 프리미엄이 더욱 뚜렷해지는 양상을 보이고 있다. AI 시리즈A 투자 규모는 평균 5,190만 달러로 비AI 기업 대비 30% 높고, 시드 단계 사전 밸류에이션 역시 42% 높은 수준이다. 투자자들은 '실험적 AI'보다 실제 인프라로 기능하는 AI 기업을 선별하기 시작했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">2026년 3월 스타트업 투자 시장은 AI 기업에 대한 프리미엄이 더욱 뚜렷해지는 양상을 보이고 있다. AI 시리즈A 투자 규모는 평균 5,190만 달러로 비AI 기업 대비 30% 높고, 시드 단계 사전 밸류에이션 역시 42% 높은 수준이다. 투자자들은 '실험적 AI'보다 실제 인프라로 기능하는 AI 기업을 선별하기 시작했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">2026년 3월 투자 시장의 주요 흐름은 '선별적 집중'이다. 자율주행 스타트업 Wayve가 12억 달러 대규모 투자를 유치하는 한편, 핀테크 분야에서는 Plaid의 밸류에이션 하락 사례처럼 수익성 검증 없이는 대형 라운드가 어려워지고 있다. 크립토 투자는 냉각세를 보이는 반면, AI·자율기술·헬스케어 분야에는 자본이 집중되는 양극화가 심화되고 있다. 투자자들은 이제 'AI를 쓴다'는 수준이 아닌, AI가 핵심 인프라로 내재화된 사업 모델을 요구하고 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">AI 스타트업의 밸류에이션 프리미엄은 단순한 트렌드가 아니라 투자자들이 AI를 차세대 핵심 인프라로 인식하고 있음을 반영한다. 실행력(execution capability)이 투자 결정의 핵심 변수로 부상하면서, 팀의 기술적 역량과 제품 완성도가 투자 유치의 당락을 가르는 시대가 됐다. 2026년에는 보조금·비희석 자금 등 비전통적 펀딩 방식에 대한 관심도 높아질 것으로 예상된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 에듀테크 스타트업 역시 이 투자 프리미엄의 수혜를 누릴 수 있는 위치에 있다. 단, 투자자들이 요구하는 것은 'AI 탑재'라는 홍보 문구가 아니라 학습 성과 향상, 교사 업무 경감 등 측정 가능한 교육 효과의 증명이다. 에듀테크 창업자라면 AI를 보조 기능이 아닌 핵심 서비스 인프라로 설계하고, 시드 단계부터 데이터 기반 성과 지표를 갖추는 것이 투자 유치 경쟁력의 핵심이 될 것이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://blog.mean.ceo/startup-funding-trends-march-2026/\" style=\"color:#FF6B35;text-decoration:none;\">Mean.CEO Blog</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "regulation"
+    ],
+    "meta_title": "AI 스타트업 밸류에이션 비AI 대비 42% 높아... 2026년 3월 투자 트렌드",
+    "meta_description": "2026년 3월 AI 투자 시장, 실험에서 인프라로 전환. AI 시리즈A 평균 5,190만 달러, 비AI 대비 30% 높아. 에듀테크 창업자를 위한 시사점.",
+    "word_count": 510
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T17:04:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T17:07:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T17:11:44.090Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a867cfe2eb440001d557f6",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a867cfe2eb440001d557f6",
+    "public_url": "https://insight.ubion.global/ai-seutateueob-sideu-baelryueisyeon-biai-daebi-42-nopa-2026nyeon-tuja-sijang-silheom-inpeura-jeonhwan/",
+    "status": "published",
+    "published_at": "2026-03-04T17:11:43.000Z"
+  }
+}

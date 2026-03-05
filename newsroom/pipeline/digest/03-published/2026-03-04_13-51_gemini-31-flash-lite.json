@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Gemini 3.1 Flash-Lite",
+    "url": "https://simonwillison.net/2026/Mar/3/gemini-31-flash-lite/",
+    "source_name": "Simon Willison's Weblog",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Google released Gemini 3.1 Flash-Lite, a new lightweight LLM supporting four different thinking levels. The model was noted by AI researcher Simon Willison with a hands-on test generating outputs at varying reasoning depths. This continues Google's rapid iteration on its Gemini model family.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T12:51:00Z"
+  },
+  "digest": {
+    "headline": "구글, 4단계 사고 수준 지원 경량 모델 Gemini 3.1 Flash-Lite 출시",
+    "lead": "구글이 초저가 경량 AI 모델 Gemini 3.1 Flash-Lite를 공개했다. 4가지 사고 심도(minimal·low·medium·high)를 지원하며, 입력 토큰 100만 개당 $0.25로 Gemini 3.1 Pro 대비 1/8 수준의 비용이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">구글이 초저가 경량 AI 모델 Gemini 3.1 Flash-Lite를 공개했다. 4가지 사고 심도(minimal·low·medium·high)를 지원하며, 입력 토큰 100만 개당 $0.25로 Gemini 3.1 Pro 대비 1/8 수준의 비용이다. AI 연구자 사이먼 윌리슨이 직접 4단계 출력 결과를 비교 테스트해 공개하며 화제를 모았다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">구글은 Gemini 모델 패밀리의 경량·저비용 라인업인 Flash-Lite 시리즈를 지속적으로 업데이트하고 있다. 이번 Gemini 3.1 Flash-Lite는 출력 토큰 100만 개당 $1.5로, 고성능 Pro 모델 대비 극적으로 낮은 가격을 유지하면서도 사고 수준을 4단계로 조절할 수 있다는 점이 특징이다. 사용자는 작업 복잡도에 따라 최소한의 추론(minimal)부터 심층 사고(high)까지 선택해 비용과 품질의 균형을 맞출 수 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">사고 수준의 세분화는 단순 비용 절감을 넘어 AI 활용의 유연성을 높인다. 간단한 질의응답에는 minimal, 복잡한 추론이 필요한 작업에는 high를 적용하는 식으로 토큰 예산을 정밀 제어할 수 있다. 구글이 Gemini 패밀리 전반에 걸쳐 이 같은 단계형 추론 구조를 확장할 경우, 기업·개발자 시장에서의 경쟁력이 더욱 강화될 전망이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">100만 토큰당 $0.25의 초저가 경량 모델은 에듀테크 스타트업이 AI 튜터링·채점·피드백 기능을 대규모 학습자에게 제공하는 데 드는 인프라 비용 장벽을 크게 낮춘다. 특히 4단계 사고 수준 조절 기능은 단순 퀴즈 채점(minimal)부터 서술형 논술 첨삭(high)까지 교육 과제 유형별로 비용을 최적화하는 전략적 활용이 가능하다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://simonwillison.net/2026/Mar/3/gemini-31-flash-lite/\" style=\"color:#FF6B35;text-decoration:none;\">Simon Willison's Weblog</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "google",
+      "technology"
+    ],
+    "meta_title": "구글 Gemini 3.1 Flash-Lite 출시 — 4단계 사고·초저가 경량 LLM",
+    "meta_description": "구글이 4가지 사고 심도를 지원하는 경량 모델 Gemini 3.1 Flash-Lite를 공개했다. 입력 100만 토큰당 $0.25로 Pro 모델 대비 1/8 가격으로, 에듀테크 AI 비용 최적화에 유리하다.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T12:51:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T13:52:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T13:56:47.434Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a83a1fe2eb440001d557a6",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a83a1fe2eb440001d557a6",
+    "public_url": "https://insight.ubion.global/gugeul-4dangye-sago-sujun-jiweon-gyeongryang-model-gemini-3-1-flash-lite-culsi/",
+    "status": "published",
+    "published_at": "2026-03-04T13:56:47.000Z",
+    "slug": "gugeul-4dangye-sago-sujun-jiweon-gyeongryang-model-gemini-3-1-flash-lite-culsi"
+  }
+}

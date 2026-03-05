@@ -1,0 +1,14 @@
+{
+  "id": "20260305-0218-virginia-ai-guardrails",
+  "collected_at": "2026-03-05T02:18:00+01:00",
+  "priority": 2,
+  "source": {
+    "title": "Virginia lawmakers propose guardrails for artificial intelligence use in education",
+    "url": "https://virginiamercury.com/2026/03/02/va-lawmakers-propose-artificial-intelligence-guardrails-for-instructional-use-in-education/",
+    "source_name": "Virginia Mercury",
+    "relevance_score": 77,
+    "summary": "85% teachers, 86% students use AI. State-level policy response to widespread adoption. Guardrails proposal for instructional use.",
+    "tags": ["AI policy", "state legislation", "teacher usage", "student safety"],
+    "collected_via": "heartbeat_search"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "The fight between Anthropic and the Pentagon raises crucial questions about control over AI",
+    "url": "https://fortune.com/2026/03/03/the-pentagons-fight-with-anthropic-was-the-first-real-test-for-how-we-will-control-powerful-ai-the-bad-news-we-all-failed/",
+    "source_name": "Fortune",
+    "language": "en",
+    "relevance_score": 95,
+    "summary": "Fortune analyzes the fallout from Anthropic's refusal to remove contractual prohibitions on using Claude for mass domestic surveillance and autonomous weapons, resulting in US agencies phasing out Anthropic products. The article also reports OpenAI has raised $110 billion in new funding and examines Meta's AI shopping assistant experiments, framing the Anthropic/Pentagon standoff as the first real test of AI governance — and arguing that all parties failed.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-04T18:11:00Z"
+  },
+  "digest": {
+    "headline": "Anthropic vs 국방부 충돌, AI 거버넌스의 첫 시험대 — 모든 당사자 실패",
+    "lead": "Anthropic이 자사 AI 모델 Claude의 대규모 국내 감시 및 자율무기 활용 금지 조항 삭제를 거부하면서 미국 국방부와 정면충돌했다. 미 정부 기관들은 Anthropic 제품 도입을 중단했고, OpenAI는 '어떠한 합법적 목적에도 사용 허용' 조건으로 국방부와 계약을 체결하며 빈자리를 채웠다. Fortune은 이 사태를 강력한 AI를 누가 어떻게 통제할 것인지를 가른 첫 번째 실질적 시험이었으며, 모든 당사자가 실패했다고 진단한다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">Anthropic이 자사 AI 모델 Claude의 대규모 국내 감시 및 자율무기 활용 금지 조항 삭제를 거부하면서 미국 국방부와 정면충돌했다. 미 정부 기관들은 Anthropic 제품 도입을 중단했고, OpenAI는 '어떠한 합법적 목적에도 사용 허용' 조건으로 국방부와 계약을 체결하며 빈자리를 채웠다. Fortune은 이 사태를 강력한 AI를 누가 어떻게 통제할 것인지를 가른 첫 번째 실질적 시험이었으며, 모든 당사자가 실패했다고 진단한다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Anthropic은 기존 계약에 Claude를 대규모 국내 감시나 자율무기 시스템에 사용하지 못하도록 하는 조항을 포함시켜 왔다. 국방부는 이를 민간 기업이 선출된 정부의 정책을 좌우하는 것이라며 조항 삭제를 요구했고, Anthropic이 거부하자 해당 공급망 위험 기업으로 지정하는 전례 없는 조치를 취했다. OpenAI CEO 샘 알트먼은 즉각 국방부와 협의에 나서 계약을 체결했고, \"AI 윤리는 민간 기업이 아닌 민주적 절차가 결정해야 한다\"는 입장을 밝혔다. 한편 OpenAI는 같은 시기 1,100억 달러 규모의 신규 자금 조달에 성공했다고 보도됐다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">Fortune은 이 충돌을 단순한 기업-정부 갈등이 아닌, AI 거버넌스의 구조적 공백을 드러낸 사건으로 분석한다. 민주적 입법 절차는 기술의 발전 속도를 따라가지 못하고, 기업이 윤리 기준을 자체 설정할 경우 민주주의 원칙과 충돌하는 딜레마가 전면에 부상했다. 어떤 주체가 강력한 AI의 사용 방식을 결정해야 하는지에 대한 명확한 규범이 없는 상태에서, 이번 사태는 AI 산업 전반에 걸쳐 계약 조건과 이용 정책 재편을 촉발할 가능성이 높다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">이번 사태는 AI 모델의 이용 약관과 윤리 조항이 계약 관계에서 핵심 변수가 될 수 있음을 보여준다. 교육 기관과 에듀테크 기업이 AI 서비스를 도입할 때, 단순한 기능 비교를 넘어 이용 정책과 데이터 윤리 조항을 면밀히 검토해야 한다는 교훈을 남긴다. 특히 학생 데이터를 다루는 플랫폼은 공급 기업의 정책 변화가 서비스 연속성에 미치는 리스크를 사전에 평가해야 한다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://fortune.com/2026/03/03/the-pentagons-fight-with-anthropic-was-the-first-real-test-for-how-we-will-control-powerful-ai-the-bad-news-we-all-failed/\" style=\"color:#FF6B35;text-decoration:none;\">Fortune</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "technology",
+      "openai"
+    ],
+    "meta_title": "Anthropic vs 국방부 충돌, AI 거버넌스의 첫 시험대 — 모든 당사자 실패",
+    "meta_description": "Anthropic이 Claude의 군사 사용 금지 조항 삭제를 거부하면서 미 국방부와 충돌했다. OpenAI는 즉각 국방부와 계약을 체결했고, Fortune은 이 사태가 AI 거버넌스 공백을 드러낸 첫 시험이었다고 분석한다.",
+    "word_count": 560
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T18:11:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T19:13:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T18:18:21.475Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a8776de2eb440001d557ff",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a8776de2eb440001d557ff",
+    "public_url": "https://insight.ubion.global/anthropic-vs-gugbangbu-cungdol-ai-geobeoneonseuyi-ceos-siheomdae-modeun-dangsaja-silpae/",
+    "status": "published",
+    "published_at": "2026-03-04T18:18:21.000Z",
+    "feature_image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop&q=85&auto=format"
+  }
+}

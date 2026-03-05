@@ -1,0 +1,14 @@
+{
+  "id": "20260305-0215-guardian-ai-teacher-perspective",
+  "collected_at": "2026-03-05T02:15:00+01:00",
+  "priority": 2,
+  "source": {
+    "title": "Teacher v chatbot: my journey into the classroom in the age of AI",
+    "url": "https://www.theguardian.com/education/ng-interactive/2026/mar/03/cheating-machine-or-powerful-assistant-the-ai-anxieties-of-a-trainee-teacher",
+    "source_name": "The Guardian",
+    "relevance_score": 78,
+    "summary": "Trainee teacher's first-person account navigating AI tools in classroom. Explores teacher anxiety about AI chatbots, student cheating concerns, and psychological impact of AI integration on teaching practice.",
+    "tags": ["AI in education", "teacher perspectives", "student cheating", "classroom technology"],
+    "collected_via": "heartbeat_search"
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "queued_at": "2026-03-03T17:18:00Z",
-  "total_waiting": 5,
+  "queued_at": "2026-03-05T00:10:55.947987+00:00",
+  "total_waiting": 8,
   "items": [
     {
       "id": "1740968460005",
@@ -46,6 +46,33 @@
       "status": "waiting",
       "reason": "relevance_score 55 (50-74 범위) — 우선순위 낮음",
       "next_review": "2026-03-05T00:00:00Z"
+    },
+    {
+      "id": "1741210465000-469935",
+      "title": "AI가 혁신하는 교육 환경 전략",
+      "source": "전국인력신문",
+      "relevance_score": 72,
+      "status": "waiting",
+      "reason": "relevance_score 72 (50-74 범위) — 우선순위 낮음",
+      "next_review": "2026-03-06T00:00:00Z"
+    },
+    {
+      "id": "1741210467000-470657",
+      "title": "AI 혁신 경쟁, 한국의 대응 전략은",
+      "source": "전국인력신문",
+      "relevance_score": 68,
+      "status": "waiting",
+      "reason": "relevance_score 68 (50-74 범위) — 우선순위 낮음",
+      "next_review": "2026-03-06T00:00:00Z"
+    },
+    {
+      "id": "1741210470000-296151",
+      "title": "윤건영 교육감·김창규 제천시장, 'AI 시대 학부모와 IB교육 정책 간담회'",
+      "source": "더퍼블릭",
+      "relevance_score": 62,
+      "status": "waiting",
+      "reason": "relevance_score 62 (50-74 범위) — 우선순위 낮음",
+      "next_review": "2026-03-06T00:00:00Z"
     }
   ],
   "note": "대기 중인 항목들은 relevance_score 50-74 범위. 스캇의 우선순위 조정 또는 스토리 앵글 변경 시 배정으로 전환 가능."

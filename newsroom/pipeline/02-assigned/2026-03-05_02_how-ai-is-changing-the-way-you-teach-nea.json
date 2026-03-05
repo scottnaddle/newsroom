@@ -1,0 +1,18 @@
+{
+  "source_url": "https://www.nea.org/nea-today/all-news-articles/how-ai-changing-way-you-teach",
+  "source_title": "NEA",
+  "headline": "How AI is Changing the Way You Teach - NEA",
+  "relevance_score": 79,
+  "collected_at": "2026-03-05T01:04:32.615Z",
+  "status": "sourced",
+  "stage": "assigned",
+  "desk_instructions": "",
+  "audit_log": [
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-05T01:12:58.284Z",
+      "note": "relevance_score 79 >= 75, 취재 배정"
+    }
+  ]
+}

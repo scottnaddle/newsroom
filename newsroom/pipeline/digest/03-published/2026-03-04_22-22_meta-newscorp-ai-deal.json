@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "News Corp is essentially an AI 'input company', chief executive says, after US$150m deal with Meta",
+    "url": "https://www.theguardian.com/media/2026/mar/04/news-corp-meta-ai-deal-us50m",
+    "source_name": "The Guardian",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "News Corp has signed a three-year deal with Meta worth $150 million, allowing Facebook and Instagram to use the company's content for AI training. The deal reflects Meta's major investment in AI development and content partnerships.",
+    "published_date": "2026-03-04",
+    "collected_at": "2026-03-04T21:22:00Z"
+  },
+  "digest": {
+    "headline": "뉴스코퍼레이션, 메타와 1.5억 달러 AI 콘텐츠 거래",
+    "lead": "뉴스코퍼레이션이 메타(페이스북·인스타그램)와 3년 계약으로 최대 1.5억 달러 규모의 AI 학습용 콘텐츠 라이센싱 계약을 체결했다. 언론사가 AI 시대에서 핵심 자산으로 역할함을 보여주는 사례다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">뉴스코퍼레이션이 메타(페이스북·인스타그램)와 3년 계약으로 최대 1.5억 달러 규모의 AI 학습용 콘텐츠 라이센싱 계약을 체결했다. 언론사가 AI 시대에서 핵심 자산으로 역할함을 보여주는 사례다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">뉴스코퍼레이션의 로버트 톰슨 회장은 언론사를 \"AI의 입력 소재\"라고 표현했다. 신뢰할 수 있는 속보와 정보는 반도체, 데이터센터, 에너지만큼이나 AI 개발에 필수적이라는 의미다. 이번 메타 거래에는 월스트리트저널과 뉴욕포스트가 포함되지만, 호주의 데일리 텔레그래프와 헤럴드 선은 제외되었다. 뉴스코퍼레이션은 2024년 오픈AI와 2.5억 달러 규모의 5년 계약을 이미 체결한 상태다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 계약은 고품질 콘텐츠가 AI 시대에서 얼마나 중요한 자산인지를 입증했다. 톰슨 회장의 \"뉴스 또는 소송\" 전략(deal or sue)은 콘텐츠 가치를 직접 인정받는 방식으로, AI 기업들과의 협상력을 높이고 있다. 뉴욕타임스는 반대로 오픈AI와 마이크로소프트를 상대로 소송을 제기한 상황이다. AI 기업들이 고품질 콘텐츠에 의존하면서 언론사의 협상력이 상승하고 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">교육용 콘텐츠도 AI 학습 자료로서의 상업적 가치를 인정받을 기회가 생겼다. 교육 출판사, 온라인 학습 플랫폼, 오픈 교육자원(OER) 등이 앞으로 AI 기업과 라이센싱 계약을 체결할 가능성이 높다. 이는 교육 시장의 새로운 수익 모델이 될 수 있으며, 동시에 교육 기관과 개발사들이 자신의 콘텐츠 가치를 더 정확히 평가하고 협상해야 함을 의미한다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.theguardian.com/media/2026/mar/04/news-corp-meta-ai-deal-us50m\" style=\"color:#FF6B35;text-decoration:none;\">The Guardian</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "meta"
+    ],
+    "meta_title": "뉴스코퍼레이션, 메타와 1.5억 달러 AI 콘텐츠 거래",
+    "meta_description": "뉴스코퍼레이션이 메타와 3년 1.5억 달러 규모 AI 라이센싱 계약 체결. 고품질 콘텐츠의 AI 시대 가치 증명",
+    "word_count": 550
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T21:22:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T06:25:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T21:27:05.845Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a8a3a9e2eb440001d5581c",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a8a3a9e2eb440001d5581c",
+    "public_url": "https://ubion.ghost.io/nyuseukopeoreisyeon-metawa-1-5eog-dalreo-ai-kontenceu-georae/",
+    "status": "published",
+    "published_at": "2026-03-04T21:27:05.845Z"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "stage": "drafted",
+  "stage": "published",
   "pipeline": "digest",
   "source": {
     "title": "Apple Introduces the New MacBook Air with M5",
@@ -15,13 +15,39 @@
     "headline": "애플, M5 탑재 맥북 에어 공개 — 온디바이스 AI 성능 4배 도약",
     "lead": "애플이 3월 3일 M5 칩을 탑재한 새 맥북 에어를 발표했다. M5는 GPU 코어마다 뉴럴 액셀러레이터를 내장해 LLM 추론 속도를 전작 M4 대비 최대 4배 향상시켰으며, 3월 11일부터 정식 출시된다.",
     "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">애플이 3월 3일 M5 칩을 탑재한 새 맥북 에어를 발표했다. M5는 GPU 코어마다 뉴럴 액셀러레이터를 내장해 LLM 추론 속도를 전작 M4 대비 최대 4배 향상시켰으며, AI 비디오 향상 작업 성능은 M1 대비 최대 6.9배에 달한다. 13인치·15인치 두 모델 모두 3월 11일부터 구매 가능하다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">애플은 2025년 M4 맥북 에어 출시에 이어 불과 1년 만에 M5 세대로 전환했다. M5 칩은 10코어 CPU와 함께 각 GPU 코어에 독립 뉴럴 액셀러레이터를 탑재한 것이 핵심 변화다. 기본 저장 용량도 512GB로 두 배 늘었으며, Wi-Fi 7과 블루투스 6을 지원하는 자체 N1 무선 칩도 새로 적용됐다. 가격은 기존과 동일하게 유지될 예정으로, 애플은 성능 대비 가격 경쟁력을 강화했다는 점을 강조했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">M5의 등장은 클라우드 의존 없이 기기 자체에서 AI를 구동하는 '온디바이스 AI' 흐름을 가속화한다. LLM 프롬프트 처리가 4배 빨라졌다는 것은 인터넷 연결 없이도 언어 모델을 실시간으로 활용할 수 있는 가능성을 높인다. 애플 인텔리전스와 결합해 맥북 에어는 개인용 AI 기기로서의 입지를 더욱 강화할 전망이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">온디바이스 LLM 성능 향상은 에듀테크 스타트업에게 클라우드 API 비용 절감의 실질적 기회다. 학습자가 직접 소유한 기기에서 AI 튜터·첨삭 기능을 오프라인으로 구동할 수 있게 되면, 인터넷 환경이 열악한 지역의 학습 격차 해소에도 기여할 수 있다. 교육 플랫폼 개발사는 맥OS용 온디바이스 AI 기능 통합을 중기 로드맵에 반영할 시점이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/\" style=\"color:#FF6B35;text-decoration:none;\">Apple Newsroom</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
-    "ghost_tags": ["ai-digest", "ai", "technology", "apple"],
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "apple"
+    ],
     "meta_title": "애플 M5 맥북 에어 출시 — 온디바이스 LLM 성능 4배 향상",
     "meta_description": "애플이 GPU 코어별 뉴럴 액셀러레이터를 탑재한 M5 맥북 에어를 공개했다. LLM 추론 속도가 M4 대비 4배 빨라져 온디바이스 AI 시대를 가속화한다.",
     "word_count": 490
   },
   "audit_log": [
-    {"agent": "digest-collector", "action": "sourced", "timestamp": "2026-03-04T12:49:00Z"},
-    {"agent": "digest-writer", "action": "drafted", "timestamp": "2026-03-04T13:51:00Z"}
-  ]
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-04T12:49:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-04T13:51:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-04T13:56:46.888Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a83a1ee2eb440001d55792",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a83a1ee2eb440001d55792",
+    "public_url": "https://insight.ubion.global/aepeul-m5-tabjae-maegbug-eeo-gonggae-ondibaiseu-ai-seongneung-4bae-doyag/",
+    "status": "published",
+    "published_at": "2026-03-04T13:56:46.000Z",
+    "slug": "aepeul-m5-tabjae-maegbug-eeo-gonggae-ondibaiseu-ai-seongneung-4bae-doyag"
+  }
 }
