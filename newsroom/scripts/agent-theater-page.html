@@ -1,0 +1,207 @@
+<div id="agent-theater-container" style="font-family:'Noto Sans KR',system-ui,sans-serif;background:#f8fafc;padding:20px;border-radius:10px;margin:20px 0;">
+
+<canvas id="theater-canvas" width="800" height="300" style="border:2px solid #e2e8f0;border-radius:8px;background:#fff;display:block;margin:0 auto;max-width:100%;"></canvas>
+
+<script>
+/**
+ * Agent Theater — 픽셀 아트로 에이전트 활동을 시각화
+ * Canvas 기반 애니메이션
+ */
+
+class AgentTheater {
+  constructor(canvasId) {
+    this.canvas = document.getElementById(canvasId);
+    if (!this.canvas) return;
+    this.ctx = this.canvas.getContext('2d');
+    this.agents = [];
+    this.animationFrame = null;
+    
+    // 에이전트 정의
+    this.agentDefs = [
+      { id: 'sourcer', name: '소수집기', icon: '📡', color: '#3B82F6', x: 60, y: 100 },
+      { id: 'reporter', name: '취재기자', icon: '🔍', color: '#10B981', x: 140, y: 100 },
+      { id: 'writer', name: '작성기자', icon: '✍️', color: '#F59E0B', x: 220, y: 100 },
+      { id: 'checker', name: '팩트체커', icon: '✅', color: '#8B5CF6', x: 300, y: 100 },
+      { id: 'editor', name: '편집장', icon: '📋', color: '#EC4899', x: 380, y: 100 },
+      { id: 'copyedit', name: '교열기자', icon: '🔎', color: '#06B6D4', x: 460, y: 100 },
+      { id: 'publisher', name: '발행', icon: '🚀', color: '#EF4444', x: 540, y: 100 }
+    ];
+    
+    this.init();
+  }
+  
+  init() {
+    // 에이전트 초기화
+    this.agentDefs.forEach(def => {
+      this.agents.push({
+        ...def,
+        state: 'idle',
+        stateTime: 0,
+        workload: 0
+      });
+    });
+    
+    this.animate();
+  }
+  
+  // 픽셀 아트 스타일 텍스트
+  drawPixelText(text, x, y, size = 12, color = '#000') {
+    this.ctx.font = `${size}px 'Courier New', monospace`;
+    this.ctx.fillStyle = color;
+    this.ctx.textAlign = 'center';
+    this.ctx.textBaseline = 'middle';
+    this.ctx.fillText(text, x, y);
+  }
+  
+  // 에이전트 박스 그리기
+  drawAgent(agent) {
+    const { x, y, state, color, workload } = agent;
+    
+    // 배경
+    this.ctx.fillStyle = workload > 0 ? '#E0F2FE' : '#f8fafc';
+    this.ctx.fillRect(x - 28, y - 38, 56, 56);
+    
+    // 테두리
+    this.ctx.strokeStyle = color;
+    this.ctx.lineWidth = workload > 0 ? 3 : 2;
+    this.ctx.strokeRect(x - 28, y - 38, 56, 56);
+    
+    // 상태 표시기 (좌상단)
+    const statusColors = {
+      idle: '#94a3b8',
+      typing: '#3B82F6',
+      reading: '#10B981',
+      waiting: '#FBBF24',
+      done: '#10B981'
+    };
+    this.ctx.fillStyle = statusColors[state];
+    this.ctx.beginPath();
+    this.ctx.arc(x - 26, y - 36, 4, 0, Math.PI * 2);
+    this.ctx.fill();
+    
+    // 아이콘
+    this.drawPixelText(agent.icon, x, y - 12, 20);
+    
+    // 이름
+    this.drawPixelText(agent.name, x, y + 12, 9, '#475569');
+    
+    // 상태 이모지
+    const stateEmoji = {
+      idle: '💤',
+      typing: '✍️',
+      reading: '👀',
+      waiting: '⏳',
+      done: '✅'
+    };
+    this.drawPixelText(stateEmoji[state], x, y + 22, 11);
+    
+    // 작업량 표시
+    if (workload > 0) {
+      this.ctx.fillStyle = 'rgba(59, 130, 246, 0.5)';
+      this.ctx.fillRect(x - 28, y + 18, 56 * (workload / 10), 4);
+    }
+  }
+  
+  // 흐름 화살표
+  drawArrows() {
+    this.ctx.strokeStyle = '#D1D5DB';
+    this.ctx.lineWidth = 2;
+    
+    for (let i = 0; i < this.agentDefs.length - 1; i++) {
+      const x1 = this.agentDefs[i].x + 28;
+      const x2 = this.agentDefs[i + 1].x - 28;
+      const y = 100;
+      
+      this.ctx.beginPath();
+      this.ctx.moveTo(x1, y);
+      this.ctx.lineTo(x2, y);
+      this.ctx.stroke();
+      
+      // 화살표 머리
+      this.ctx.fillStyle = '#D1D5DB';
+      this.ctx.beginPath();
+      this.ctx.moveTo(x2, y);
+      this.ctx.lineTo(x2 - 6, y - 3);
+      this.ctx.lineTo(x2 - 6, y + 3);
+      this.ctx.closePath();
+      this.ctx.fill();
+    }
+  }
+  
+  // 상태 데이터로부터 에이전트 업데이트
+  updateStatus(statusData) {
+    if (!statusData || !statusData.pipeline) return;
+    
+    statusData.pipeline.forEach((stage, idx) => {
+      if (idx < this.agents.length) {
+        const count = stage.count;
+        this.agents[idx].workload = Math.min(count, 10); // 최대 10으로 제한
+        
+        if (count > 0) {
+          const states = ['typing', 'reading', 'waiting'];
+          this.agents[idx].state = states[idx % states.length];
+        } else {
+          this.agents[idx].state = idx === this.agents.length - 1 ? 'done' : 'idle';
+        }
+      }
+    });
+  }
+  
+  // 메인 애니메이션 루프
+  animate() {
+    if (!this.ctx) return;
+    
+    // 캔버스 지우기
+    this.ctx.fillStyle = '#FFFFFF';
+    this.ctx.fillRect(0, 0, this.canvas.width, this.canvas.height);
+    
+    // 헤더
+    this.drawPixelText('🏢 Agent Theater — 에이전트 활동 현황', 400, 25, 13, '#1a1a2e');
+    
+    // 흐름 화살표
+    this.drawArrows();
+    
+    // 에이전트들
+    this.agents.forEach(agent => {
+      this.drawAgent(agent);
+    });
+    
+    // 시간 표시
+    const now = new Date().toLocaleTimeString('ko-KR');
+    this.drawPixelText(`갱신: ${now}`, 700, 285, 9, '#94a3b8');
+    
+    this.animationFrame = requestAnimationFrame(() => this.animate());
+  }
+  
+  stop() {
+    if (this.animationFrame) cancelAnimationFrame(this.animationFrame);
+  }
+}
+
+// 초기화
+let theater = null;
+let statusData = window.statusData || {};
+
+function initTheater() {
+  theater = new AgentTheater('theater-canvas');
+  theater.updateStatus(statusData);
+}
+
+function updateTheater() {
+  if (theater && statusData) {
+    theater.updateStatus(statusData);
+  }
+}
+
+// 시작
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initTheater);
+} else {
+  initTheater();
+}
+
+// 30초마다 상태 갱신
+setInterval(updateTheater, 30000);
+</script>
+
+</div>
