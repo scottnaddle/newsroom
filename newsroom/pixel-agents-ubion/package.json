@@ -1,0 +1,11 @@
+{
+  "name": "pixel-agents-ubion",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "UBION Newsroom - Pixel Agents Port",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js",
+    "dev": "node -e \"console.log('Development mode')\""
+  }
+}
