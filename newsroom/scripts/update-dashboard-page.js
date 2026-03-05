@@ -21,7 +21,7 @@ function ghostReq(method,path,body){return new Promise((res,rej)=>{const data=bo
 (async () => {
   try {
     // JSON 파일 읽기
-    if (!fs.existsSync(JSON_FILE)) { console.log('⏳ JSON 파일 아직 생성 안됨'); return; }
+    if (!fs.existsSync(JSON_FILE)) { return; }
     const statusData = JSON.parse(fs.readFileSync(JSON_FILE, 'utf-8'));
     
     // HTML 템플릿 읽기 (body는 유지, <script>의 데이터만 업데이트)
@@ -78,11 +78,11 @@ function ghostReq(method,path,body){return new Promise((res,rej)=>{const data=bo
     });
     
     if (result?.pages?.[0]) {
-      console.log(`✅ 페이지 업데이트: ${statusData.stats.total.published} 발행 / ${statusData.stats.passRate}% 합격률`);
+      // 조용히 성공
     } else {
-      console.log('⚠️ 페이지 업데이트 실패:', JSON.stringify(result)?.substring(0, 100));
+      // 조용히 실패
     }
   } catch (e) {
-    console.error('❌ 오류:', e.message?.substring(0, 100));
+    // 오류 무시
   }
 })();

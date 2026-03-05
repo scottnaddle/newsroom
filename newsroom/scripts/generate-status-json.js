@@ -178,8 +178,9 @@ function getStatus() {
 try {
   fs.mkdirSync(path.dirname(OUTPUT), { recursive: true });
   fs.writeFileSync(OUTPUT, JSON.stringify(getStatus(), null, 2));
-  console.log('✅ 상태 저장:', OUTPUT);
+  // 조용히 실행 (크론 메시지 제거)
 } catch (e) {
+  // 오류 시만 로그
   console.error('❌ 오류:', e.message);
   process.exit(1);
 }
