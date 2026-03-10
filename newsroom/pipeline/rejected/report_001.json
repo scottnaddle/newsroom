@@ -1,0 +1,74 @@
+{
+  "id": "source_001",
+  "stage": "fact-checked",
+  "source": {
+    "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960557&call_from=rsslink",
+    "title": "'AI 중점학교' 1141개교 선정…특별교부금 385억 원 지원",
+    "published": "2026-03-09T23:01:02Z",
+    "domain": "korea.kr"
+  },
+  "reporting_brief": {
+    "WHO": "교육부 (장관 최교진), 초·중등학교 1,141개 AI 중점학교, 전국 17개 시도교육청",
+    "WHAT": "정부, AI 중점학교 1,141개교 선정 완료 및 운영 시작. 2026년 특별교부금 385억 원 지원. 2027년 1,500개교, 2028년 2,000개교로 단계 확대 계획",
+    "WHY": "초·중등 학교에서 인공지능 교육을 체계적으로 확대하고 학교 현장의 AI 교육 모델 확산 필요",
+    "WHEN": "2026년 3월부터 3년간 중점학교로 운영",
+    "CONTEXT": "국정과제 '인공지능 디지털 시대 미래인재 양성' 및 '모두를 위한 인공지능 인재 양성 방안' 일환",
+    "SOURCES": [
+      {
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960557",
+        "title": "'AI 중점학교' 1141개교 선정…특별교부금 385억 원 지원",
+        "trust": "high",
+        "type": "official_policy"
+      },
+      {
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156747948",
+        "title": "교육부 초·중등 인공지능 교육 본격 운영",
+        "trust": "high",
+        "type": "official_press_release"
+      },
+      {
+        "url": "https://www.dailyan.com/news/article.html?no=765638",
+        "title": "글로벌 교육 정책, 미래형 인재 양성",
+        "trust": "medium",
+        "type": "news_analysis"
+      }
+    ],
+    "PERSPECTIVES": {
+      "government": "교육부, AI를 차세대 미래인재 양성의 핵심으로 인식. 단계적 확대와 안정적 재정 지원으로 학교 현장 정착 추진",
+      "education_sector": "일선 학교의 AI 교육 모델 확산을 위한 좋은 기회. 우수 사례를 인근 학교와 지역으로 확산 예정",
+      "industry": "에듀테크 기업들의 성장 기회"
+    },
+    "SUGGESTED_ANGLE": "한국 초·중등 교육의 'AI 대전환'…385억 원 투자로 시작된 미래 교육의 변화"
+  },
+  "draft": {
+    "headline": "Unknown Title",
+    "subheadline": "관련 기사",
+    "slug": "unknown",
+    "ghost_tags": [
+      "ai-education",
+      "ai-news"
+    ],
+    "category": "education",
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;margin:0 auto;padding:20px;\">\n<div style=\"border-left:4px solid #0891b2;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:48px;\">\n<p style=\"margin:0;font-size:18px;font-weight:600;\">국정과제 '인공지능 디지털 시대 미래인재 양성' 및 '모두를 위한 인공지능 인재 양성 방안' 일환</p>\n</div>\n\n<h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;color:#1a1a2e;\">배경</h2>\n<p style=\"margin:0 0 32px;\">정부, AI 중점학교 1,141개교 선정 완료 및 운영 시작. 2026년 특별교부금 385억 원 지원. 2027년 1,500개교, 2028년 2,000개교로 단계 확대 계획</p>\n\n<h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;color:#1a1a2e;\">주요 내용</h2>\n<p style=\"margin:0 0 32px;\">초·중등 학교에서 인공지능 교육을 체계적으로 확대하고 학교 현장의 AI 교육 모델 확산 필요</p>\n\n<h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;color:#1a1a2e;\">전망</h2>\n<p style=\"margin:0 0 32px;\">국정과제 '인공지능 디지털 시대 미래인재 양성' 및 '모두를 위한 인공지능 인재 양성 방안' 일환</p>\n\n<div style=\"border-top:1px solid #e2e8f0;padding-top:24px;margin-top:48px;\">\n<h3 style=\"font-size:15px;font-weight:600;color:#1a1a2e;margin-bottom:16px;\">참고자료</h3>\n<ol style=\"margin:0;padding-left:20px;color:#374151;\">\n<li style=\"margin-bottom:10px;\"><strong>원문</strong> - undefined</li>\n<li style=\"margin:0;\"><strong>작성</strong> - AI 기자단</li>\n</ol>\n</div>\n\n<p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "custom_excerpt": "",
+    "references": [
+      {
+        "title": "원문",
+        "url": "#"
+      }
+    ],
+    "word_count": 335
+  },
+  "fact_check": {
+    "score": 70,
+    "verdict": "FLAG",
+    "issues": [
+      "본문 333자 (1000자 미만)"
+    ],
+    "verified_claims": [
+      "Structure validation: FAIL",
+      "Content length validation: OK"
+    ],
+    "validated_at": "2026-03-10T00:13:36.253Z"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "source_005",
+  "stage": "fact-checked",
+  "source": {
+    "url": "https://www.kjob.news/news/470555",
+    "title": "AI 교육혁명 2026: 영국·미국 동시 착수한 거버넌스 강화와 한국의 과제",
+    "published": "2026-03-05T00:00:00Z",
+    "domain": "kjob.news"
+  },
+  "reporting_brief": {
+    "WHO": "영국 의회 교육특별위원회, 미국 하원 교육·노동 소위원회, 마이크로소프트, 맥쿼리 그룹, 한국 교육계",
+    "WHAT": "2026년 2월, 영국·미국이 동시에 AI 교육 거버넌스 강화 시작. 영국 의회는 AI·에듀테크 영향 조사 개시. 미국 하원은 'AI 준비 미국 구축' 주제의 청문회 개최. 한국은 이에 대한 대응 필요",
+    "WHY": "AI가 교육의 경계를 넘으며 기회와 도전 동시 제시. 글로벌 표준 형성 시점에서 각국의 선제적 대응 필요",
+    "WHEN": "2026년 2월 현재, 2027~2028년 글로벌 표준 형성 예상",
+    "CONTEXT": "맞춤형 학습, 개인화 피드백, 행정 효율성 등 AI의 교육적 혁신 가능성과 동시에 윤리·프라이버시·불평등 심화 우려",
+    "SOURCES": [
+      {
+        "url": "https://www.kjob.news/news/470555",
+        "title": "AI 교육혁명 2026: 영국·미국 동시 착수",
+        "trust": "high",
+        "type": "analysis"
+      },
+      {
+        "url": "https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education",
+        "title": "Cantwell, Moran Introduce Bill to Boost AI Education",
+        "trust": "high",
+        "type": "official_policy"
+      },
+      {
+        "url": "https://www.dailyan.com/news/article.html?no=765638",
+        "title": "글로벌 교육 정책, 미래형 인재 양성",
+        "trust": "medium",
+        "type": "news_analysis"
+      }
+    ],
+    "PERSPECTIVES": {
+      "uk_government": "AI 안전하고 책임감 있는 사용 지원. 아동 디지털 권리, 데이터 프라이버시 중점",
+      "us_government": "교사 AI 리터러시 구축, 윤리적 가드레일, 교실 친화적 도구 개발 강조",
+      "korea_education": "글로벌 동향 수용으로 교육 경쟁력 강화 필요. 법·제도 선제적 강화 요구"
+    },
+    "SUGGESTED_ANGLE": "글로벌 'AI 교육 거버넌스 강화' 움직임…한국 교육계의 과제는 무엇인가"
+  },
+  "draft": {
+    "headline": "Unknown Title",
+    "subheadline": "관련 기사",
+    "slug": "unknown",
+    "ghost_tags": [
+      "ai-education",
+      "ai-news"
+    ],
+    "category": "education",
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;margin:0 auto;padding:20px;\">\n<div style=\"border-left:4px solid #0891b2;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:48px;\">\n<p style=\"margin:0;font-size:18px;font-weight:600;\">맞춤형 학습, 개인화 피드백, 행정 효율성 등 AI의 교육적 혁신 가능성과 동시에 윤리·프라이버시·불평등 심화 우려</p>\n</div>\n\n<h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;color:#1a1a2e;\">배경</h2>\n<p style=\"margin:0 0 32px;\">2026년 2월, 영국·미국이 동시에 AI 교육 거버넌스 강화 시작. 영국 의회는 AI·에듀테크 영향 조사 개시. 미국 하원은 'AI 준비 미국 구축' 주제의 청문회 개최. 한국은 이에 대한 대응 필요</p>\n\n<h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;color:#1a1a2e;\">주요 내용</h2>\n<p style=\"margin:0 0 32px;\">AI가 교육의 경계를 넘으며 기회와 도전 동시 제시. 글로벌 표준 형성 시점에서 각국의 선제적 대응 필요</p>\n\n<h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;color:#1a1a2e;\">전망</h2>\n<p style=\"margin:0 0 32px;\">맞춤형 학습, 개인화 피드백, 행정 효율성 등 AI의 교육적 혁신 가능성과 동시에 윤리·프라이버시·불평등 심화 우려</p>\n\n<div style=\"border-top:1px solid #e2e8f0;padding-top:24px;margin-top:48px;\">\n<h3 style=\"font-size:15px;font-weight:600;color:#1a1a2e;margin-bottom:16px;\">참고자료</h3>\n<ol style=\"margin:0;padding-left:20px;color:#374151;\">\n<li style=\"margin-bottom:10px;\"><strong>원문</strong> - undefined</li>\n<li style=\"margin:0;\"><strong>작성</strong> - AI 기자단</li>\n</ol>\n</div>\n\n<p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "custom_excerpt": "",
+    "references": [
+      {
+        "title": "원문",
+        "url": "#"
+      }
+    ],
+    "word_count": 378
+  },
+  "fact_check": {
+    "score": 70,
+    "verdict": "FLAG",
+    "issues": [
+      "본문 376자 (1000자 미만)"
+    ],
+    "verified_claims": [
+      "Structure validation: FAIL",
+      "Content length validation: OK"
+    ],
+    "validated_at": "2026-03-10T00:13:36.254Z"
+  }
+}
