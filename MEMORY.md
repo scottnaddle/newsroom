@@ -18,6 +18,15 @@
 - ✅ 해결: rewrite-short-articles.js로 20개 모두 재작성
 - ✅ 결과: 373자 → 1387자 (3.7배 증가), 모두 1000자+ 확보
 
+**Ghost 동기화 이슈 (09:22 KST)**
+- 🔴 발견: Ghost에는 여전히 구 버전(내용 없음)이 있음
+- 🔴 예: global-ai-education-governance-2026-korea-implications (내용 없음)
+- 🔴 원인: Ghost API 토큰 invalid → 자동 동기화 불가
+- ✅ 해결책:
+  1. A) 수동: Ghost Admin UI에서 html 복사/붙여넣기 (5분)
+  2. B) 자동: Ghost API 토큰 갱신 후 sync-published-to-ghost.js (1시간)
+- ✅ 복구 가이드: ghost-recovery-guide.json 생성 (2개 기사 HTML 포함)
+
 **파일 수정/추가:**
 - `newsroom/prompts/pipeline-orchestrator.md` — STEP 3, 4 LLM 호출 명시화
 - `newsroom/scripts/find-empty-articles.js` (신규) — 부족 기사 식별
