@@ -1,5 +1,5 @@
 {
-  "stage": "drafted",
+  "stage": "rejected",
   "pipeline": "digest",
   "source": {
     "title": "US federal agencies phase out Claude AI after Anthropic refuses surveillance/weapons restrictions removal",
@@ -34,13 +34,12 @@
       "agent": "digest-writer",
       "action": "drafted",
       "timestamp": "2026-03-10T12:15:00Z"
-    },
-    {
-      "agent": "digest-publisher",
-      "action": "rejected",
-      "error": "HTTP 403: {\"errors\":[{\"message\":\"Authorization failed\",\"context\":\"Unable to determine the authenticated user or integration. Check that cookies are being passed through if using session authentication.\",\"type\":",
-      "timestamp": "2026-03-10T03:33:16.193Z"
     }
   ],
-  "error": "HTTP 403: {\"errors\":[{\"message\":\"Authorization failed\",\"context\":\"Unable to determine the authenticated user or integration. Check that cookies are being passed through if using session authentication.\",\"type\":"
+  "error": {
+    "agent": "digest-publisher",
+    "action": "publish_failed",
+    "error": "Ghost API error after redirect: 401 {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"1e4e60d0-1c3a-11f1-be8b-43144e99e423\",\"ghostErrorCode\":null}]}",
+    "timestamp": "2026-03-10T04:32:16.747Z"
+  }
 }

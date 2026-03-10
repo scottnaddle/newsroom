@@ -1065,3 +1065,5 @@
 [2026-03-10T04:06:29.174Z] [WARN] [Stage4] 본문 1389자 미만 -> rejected: factchecked-20260310-005.json
 [2026-03-10T04:06:29.175Z] [INFO] === Pipeline Runner 완료 ===
 [2026-03-10T04:06:29.175Z] [INFO] Published: 0, Rejected: 5, Error: 0
+[2026-03-10T04:30:14.643Z] [INFO] Pipeline Runner 시작
+[2026-03-10T04:30:14.646Z] [INFO] 처리할 기사 없음

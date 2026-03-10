@@ -1,5 +1,5 @@
 {
-  "stage": "drafted",
+  "stage": "rejected",
   "pipeline": "digest",
   "source": {
     "title": "Revealed: UK's multibillion AI drive is built on 'phantom investments'",
@@ -15,13 +15,31 @@
     "headline": "영국 수십억 파운드 AI 인프라... '유령 투자'로 구성되었다는 의혹",
     "lead": "영국의 수십억 파운드 규모 AI 인프라 사업이 의심스러운 회계 기법으로 부풀려졌다는 의혹이 제기됐습니다. CoreWeave의 £1억 투자는 사실상 2002년, 2015년에 지어진 기존 데이터센터 공간 임차였고, Nscale의 £25억 약정은 정식 계약도, 부지 소유권도 확보하지 못했습니다. 영국 정부는 이들 약정을 감시할 방법이 없다고 인정했습니다.",
     "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">영국의 수십억 파운드 규모 AI 인프라 사업이 의심스러운 회계 기법으로 부풀려졌다는 의혹이 제기됐습니다. CoreWeave의 £1억 투자는 사실상 2002년, 2015년에 지어진 기존 데이터센터 공간 임차였고, Nscale의 £25억 약정은 정식 계약도, 부지 소유권도 확보하지 못했습니다. 영국 정부는 이들 약정을 감시할 방법이 없다고 인정했습니다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">영국 정부는 AI 시대 경쟁력 확보를 목표로 수십억 파운드 규모의 AI 데이터센터 인프라 투자를 발표했습니다. 하지만 Guardian의 조사 보도에 따르면 이 계획의 상당 부분이 실제 신규 투자가 아닙니다. CoreWeave는 2002년, 2015년에 이미 건설된 데이터센터 공간만 임차하고 이를 신규 투자처럼 공시했습니다. Nscale의 경우는 더욱 심각한데, £25억의 약정에도 불구하고 정식 계약은 체결되지 않았고, 투자 대상 부지(Loughton)의 소유권도 확보하지 못했습니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이는 단순한 회계 오류가 아닌 정책 신뢰도의 문제입니다. 영국 정부가 \"투자 약정 감시 메커니즘이 없다\"고 인정한 것은 AI 인프라 정책이 충분히 검증되지 않은 상태에서 추진됐다는 의미입니다. 글로벌 AI 경쟁 속에서 선의의 투자 약정이 허상으로 판명되면 정부 정책의 공신력이 크게 하락합니다. 실제 신규 AI 인프라 투자는 미국, 중국에 비해 크게 뒤처질 가능성이 높습니다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">정부의 AI 인프라 투자 정책이 제대로 실행되지 않으면 에듀테크 생태계도 직접 타격을 받습니다. 학교나 교육 기관이 사용할 수 있는 AI 계산 자원의 확충이 지연되고, 저가의 AI 학습 도구 개발도 어려워집니다. 또한 정부 정책 공시의 신뢰도 저하는 에듀테크 스타트업이 정부 지원 프로그램 참여 시 신중함을 요구합니다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments\" style=\"color:#FF6B35;text-decoration:none;\">The Guardian</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
-    "ghost_tags": ["ai-digest", "ai", "regulation"],
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation"
+    ],
     "meta_title": "영국 AI 인프라 사업, '유령 투자' 의혹 노출",
     "meta_description": "Guardian 보도: 영국의 수십억 파운드 AI 투자 계획이 기존 시설 임차와 미완료 계약으로 부풀려졌다는 의혹 제기.",
     "word_count": 650
   },
   "audit_log": [
-    {"agent": "digest-collector", "action": "sourced", "timestamp": "2026-03-10T13:06:00Z"},
-    {"agent": "digest-writer", "action": "drafted", "timestamp": "2026-03-10T13:15:00Z"}
-  ]
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T13:06:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T13:15:00Z"
+    }
+  ],
+  "error": {
+    "agent": "digest-publisher",
+    "action": "publish_failed",
+    "error": "Ghost API error after redirect: 401 {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"1e7dd540-1c3a-11f1-be8b-43144e99e423\",\"ghostErrorCode\":null}]}",
+    "timestamp": "2026-03-10T04:32:17.073Z"
+  }
 }

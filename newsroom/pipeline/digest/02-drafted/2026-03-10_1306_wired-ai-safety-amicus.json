@@ -1,0 +1,40 @@
+{
+  "stage": "drafted",
+  "pipeline": "digest",
+  "source": {
+    "title": "OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government",
+    "url": "https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/",
+    "source_name": "WIRED",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "WIRED reports on 30+ OpenAI and Google researchers filing an amicus brief supporting Anthropic's Pentagon lawsuit, arguing the supply-chain risk designation threatens U.S. AI competitiveness and chills industry debate on AI safety. The brief highlights that contractual and technological guardrails, in the absence of public law, are vital safeguards against catastrophic AI misuse.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-10T13:06:00Z"
+  },
+  "digest": {
+    "headline": "OpenAI·구글 연구원 30명, Anthropic 국방부 소송에 우호 의견서 제출",
+    "lead": "OpenAI와 구글(DeepMind 포함) 소속 30명 이상의 AI 연구원들이 Anthropic의 국방부 소송을 지지하는 '법정 우호 의견서(amicus brief)'를 제출했다. 이들은 정부가 Anthropic에 부여한 '공급망 위험' 지정이 미국 AI 산업의 경쟁력을 위협하고 AI 안전 관련 업계 논의를 위축시킨다고 주장했다. 공적 법 규제가 부재한 상황에서 계약·기술적 안전장치가 AI 오용으로부터의 핵심 방어막이라는 점도 강조했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">OpenAI와 구글(DeepMind 포함) 소속 30명 이상의 AI 연구원들이 Anthropic의 국방부 소송을 지지하는 '법정 우호 의견서'를 제출했다. 이들은 정부가 Anthropic에 부여한 '공급망 위험' 지정이 미국 AI 산업의 경쟁력을 위협하고 AI 안전 관련 업계 논의를 위축시킨다고 주장했다. 공적 법 규제가 부재한 상황에서 계약·기술적 안전장치가 AI 오용으로부터의 핵심 방어막이라는 점도 강조했다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">지난달 트럼프 행정부는 Anthropic을 '공급망 위험(supply-chain risk)' 대상으로 지정하고 국방부·정보기관의 사용을 금지했다. Anthropic은 대량 감시·완전 자율 무기 개발 거부를 이유로 정부 계약 조건에 따를 수 없다는 입장을 밝혔고, 이에 항소소송을 제기했다. 이번 우호의견서는 OpenAI와 구글의 안전 연구원들이 Anthropic의 입장에 연대하는 의미를 담고 있다. 의견서는 정부의 일방적 지정이 업계 전체의 AI 안전 기술 발전과 윤리 논의를 방해할 수 있다고 우려한다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 움직임은 빅테크 내에서 AI 안전을 명분으로 정부 통제에 저항하는 '업계 연대'의 신호다. 개별 기업의 이해관계를 넘어 업계 공동의 안전 기준이 필요하다는 공감대가 형성되고 있음을 보여준다. 동시에 정부의 선택적 제재와 상업 경쟁의 공정성 문제도 제기된다. 향후 소송 결과와 의회의 AI 규제 입법이 주목할 사항이다.</p>\n\n  <div style=\"margin-top:28px;padding:14px 18px;background:#f0f9ff;border-radius:8px;border:1px solid #bae6fd;\">\n    <p style=\"margin:0;font-size:15px;line-height:1.7;color:#0c4a6e;\"><strong>🎓 교육·에드테크 함의</strong><br/>AI 안전 규제의 방향성은 교육용 AI 도입 정책에도 직결된다. 만약 정부가 강압적 규제로 AI 기업들의 안전 혁신을 억제한다면, 학교가 사용할 AI 도구의 신뢰성과 투명성이 저하될 위험이 있다. 반대로 업계 주도의 자발적 안전 기준이 정착된다면, 에드테크 기업들은 학생 데이터 보호와 알고리즘 편향 제거에 더 효과적으로 투자할 수 있게 된다. 장기적으로는 교육 현장의 AI 신뢰도가 공적 논의와 기술 표준의 균형에 달려 있다는 점이 중요하다.</p>\n  </div>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/\" style=\"color:#FF6B35;text-decoration:none;\">WIRED</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "research",
+      "regulation"
+    ],
+    "meta_title": "OpenAI·구글 연구원, Anthropic 소송 지지 의견서 제출",
+    "meta_description": "30+ 연구원이 국방부 소송을 지지하며 정부의 공급망 위험 지정이 AI 경쟁력·안전 논의를 훼손한다고 주장. 빅테크 업계 연대의 신호.",
+    "word_count": 598
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T13:06:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T13:45:00Z"
+    }
+  ]
+}
