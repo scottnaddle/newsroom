@@ -1,0 +1,42 @@
+{
+  "id": "007",
+  "title": "How students are using AI in 2026: A shift from AI adoption to AI agency",
+  "url": "https://genio.co/blog/-students-using-ai-2026-from-ai-adoption-to-ai-agency",
+  "source": "genio.co",
+  "published": "2026-03-01",
+  "language": "en",
+  "relevance_score": 80,
+  "stage": "reported",
+  "keywords": ["AI literacy", "student agency", "education trends"],
+  "summary": "Analysis of how students are shifting from passive AI adoption to active AI agency in 2026",
+  "reporting_brief": {
+    "WHO": "Higher education institutions, student body, educators facing AI integration challenge",
+    "WHAT": "Student AI usage surged to 92% (2026) vs 66% (2024); but training gap persists - only 36% received formal institutional support; socioeconomic divide in AI application",
+    "WHY": "Critical shift from asking 'Are students using AI?' to 'Is AI creating dependency or agency?'; risk of over-automation without learning depth",
+    "WHEN": "Trend analysis for 2026 academic year",
+    "CONTEXT": "Post 'panic phase' (2023) and 'pilot phase' (2024); AI now foundational infrastructure; 53% of students fear academic integrity accusations despite legitimate use",
+    "SOURCES": [
+      {
+        "title": "Genio Blog - Student AI Agency 2026",
+        "url": "https://genio.co/blog/-students-using-ai-2026-from-ai-adoption-to-ai-agency",
+        "credibility": "industry analyst"
+      },
+      {
+        "title": "HEPI-Kortext Student AI Survey 2025",
+        "url": "https://www.hepi.ac.uk/wp-content/uploads/2025/02/HEPI-Kortext-Student-Generative-AI-Survey-2025.pdf",
+        "credibility": "research"
+      },
+      {
+        "title": "Turnitin - 2025 AI Trends & Student Behavior",
+        "url": "https://www.turnitin.com/blog/what-2025-generative-ai-trends-reveal-about-student-behavior",
+        "credibility": "industry research"
+      }
+    ],
+    "PERSPECTIVES": {
+      "education": "Need for structured AI literacy and pedagogical guardrails; risk of outsourcing thinking",
+      "student": "Anxiety over academic integrity; uncertainty about boundaries of responsible use",
+      "research": "Socioeconomic disparity in AI application quality - high-SES students use for deep research, others for surface tasks"
+    },
+    "SUGGESTED_ANGLE": "The AI paradox: Student adoption hits 92%, but institutions still haven't solved the training gap"
+  }
+}

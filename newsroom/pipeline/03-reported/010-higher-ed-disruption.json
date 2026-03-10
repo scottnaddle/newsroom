@@ -1,0 +1,42 @@
+{
+  "id": "010",
+  "title": "How 3 college administrators are tackling higher education disruption",
+  "url": "https://www.highereddive.com/news/how-3-college-administrators-are-tackling-higher-education-disruption/813556/",
+  "source": "highereddive.com",
+  "published": "2026-02-25",
+  "language": "en",
+  "relevance_score": 81,
+  "stage": "reported",
+  "keywords": ["higher education", "AI disruption", "institutional response"],
+  "summary": "Case study of college administrators' strategies to address AI-driven disruption in higher education",
+  "reporting_brief": {
+    "WHO": "Christopher Hopey (Merrimack Univ, MA), Connie Book (Elon Univ, NC), college leaders at ACE conference",
+    "WHAT": "Higher ed faces 'earthquake' from AI adoption, visa policy shifts, declining traditional-age enrollment, international student recruitment collapse; new enrollment down 17% (Fall 2025)",
+    "WHY": "Perfect storm: AI changes pedagogy + Trump policies restrict international enrollment + demographics shift + institutional vulnerability increases",
+    "WHEN": "Reported Feb 2026 from American Council on Education conference in Washington DC",
+    "CONTEXT": "International enrollment crisis backdrop (new students -17% in Fall 2025); Trump administration policies restricting visas; AI adding layer of pedagogical/enrollment complexity",
+    "SOURCES": [
+      {
+        "title": "Higher Ed Dive - College Admin Response",
+        "url": "https://www.highereddive.com/news/how-3-college-administrators-are-tackling-higher-education-disruption/813556/",
+        "credibility": "news"
+      },
+      {
+        "title": "Higher Ed Dive - International Enrollment Decline",
+        "url": "https://www.highereddive.com/news/international-students-in-us-up-45-in-2024-25-but-warning-signs-loom/805614/",
+        "credibility": "news"
+      },
+      {
+        "title": "Higher Ed Dive - 2026 Trends",
+        "url": "https://www.highereddive.com/news/6-higher-education-trends-to-watch-in-2026/809045/",
+        "credibility": "news"
+      }
+    ],
+    "PERSPECTIVES": {
+      "administration": "Structural change inevitable; need portfolio diversification beyond international enrollment; AI not silver bullet",
+      "enrollment_perspective": "Institutional vulnerability if over-reliant on single revenue stream (intl students); domestic student competition intensifying",
+      "policy_context": "Trump policies compound AI-related disruption; timing makes recovery harder"
+    },
+    "SUGGESTED_ANGLE": "The higher ed earthquake is now: College leaders warn of 'restructuring' as AI, visa policy, and enrollment decline converge"
+  }
+}

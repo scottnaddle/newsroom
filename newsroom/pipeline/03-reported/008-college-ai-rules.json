@@ -1,0 +1,42 @@
+{
+  "id": "008",
+  "title": "College students, professors are making their own AI rules. They don't always agree",
+  "url": "https://www.npr.org/2026/03/03/nx-s1-5716176/ai-college-students-professors",
+  "source": "npr.org",
+  "published": "2026-03-03",
+  "language": "en",
+  "relevance_score": 84,
+  "stage": "reported",
+  "keywords": ["higher education", "AI policy", "faculty perspectives"],
+  "summary": "NPR report on differing AI policies between students and professors in higher education",
+  "reporting_brief": {
+    "WHO": "English professor Dan Cryer (Johnson County Community College), students like Aysa Tarana, faculty across US institutions",
+    "WHAT": "3+ years post-ChatGPT: 85% of undergrads use AI for coursework (brainstorming, outlining, studying); 19% use for full essays; no unified campus policies; faculty detection burden; students face integrity concerns",
+    "WHY": "Rapid technology adoption outpaced institutional policy development; diverging incentives (speed vs learning depth); uneven guidance creates student confusion",
+    "WHEN": "March 2026 reporting on current state across US higher ed",
+    "CONTEXT": "3+ years into ChatGPT era; Inside Higher Ed/Gen Lab survey from July 2025 shows 85% adoption; professor sabbaticals spent studying AI; students report both help and cognitive shortcuts",
+    "SOURCES": [
+      {
+        "title": "NPR - College AI Policy Report",
+        "url": "https://www.npr.org/2026/03/03/nx-s1-5716176/ai-college-students-professors",
+        "credibility": "news"
+      },
+      {
+        "title": "Inside Higher Ed / Generation Lab Student Survey",
+        "url": "https://www.insidehighered.com/news/students/academics/2025/08/29/survey-college-students-views-ai",
+        "credibility": "research"
+      },
+      {
+        "title": "HEPI 2025 AI Adoption Survey",
+        "url": "https://www.hepi.ac.uk/wp-content/uploads/2025/02/HEPI-Kortext-Student-Generative-AI-Survey-2025.pdf",
+        "credibility": "research"
+      }
+    ],
+    "PERSPECTIVES": {
+      "faculty": "AI as cognitive shortcut (forklift vs gym weights); detection challenges; unfair to students without clear guidance",
+      "student": "Confusion over lines of responsibility use; fear of false integrity accusations; some feel it undermines learning",
+      "institutional": "Missing infrastructure for policy coordination and training rollout"
+    },
+    "SUGGESTED_ANGLE": "Faculty and students still writing the rulebook: Why college campuses lag on AI policy 3 years after ChatGPT"
+  }
+}
