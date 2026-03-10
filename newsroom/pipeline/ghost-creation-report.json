@@ -1,0 +1,226 @@
+{
+  "timestamp": "2026-03-10T07:40:58.429Z",
+  "api": "https://ubion.ghost.io",
+  "processed": 76,
+  "success": 27,
+  "failure": 0,
+  "skipped": 49,
+  "results": {
+    "success": [
+      {
+        "file": "2026-03-06_10-04_01-ai-bootcamp-policy.json",
+        "title": "...",
+        "ghostId": "69afcaf815c2cc0001bbe0c4",
+        "url": "https://ubion.ghost.io/post/"
+      },
+      {
+        "file": "2026-03-06_10-11_seoul-youth-academy-ai.json",
+        "title": "...",
+        "ghostId": "69afcaf815c2cc0001bbe0c8",
+        "url": "https://ubion.ghost.io/post-2/"
+      },
+      {
+        "file": "2026-03-06_12-11_ai-education-direction.json",
+        "title": "...",
+        "ghostId": "69afcaf915c2cc0001bbe0cc",
+        "url": "https://ubion.ghost.io/post-3/"
+      },
+      {
+        "file": "2026-03-06_12-11_ai-regulation-2026.json",
+        "title": "...",
+        "ghostId": "69afcaf915c2cc0001bbe0d0",
+        "url": "https://ubion.ghost.io/post-4/"
+      },
+      {
+        "file": "2026-03-06_15-18_hannam-bootcamp.json",
+        "title": "...",
+        "ghostId": "69afcafa15c2cc0001bbe0d4",
+        "url": "https://ubion.ghost.io/post-5/"
+      },
+      {
+        "file": "2026-03-06_15-18_joongang-lg-ai-graduate.json",
+        "title": "...",
+        "ghostId": "69afcafb15c2cc0001bbe0d8",
+        "url": "https://ubion.ghost.io/post-6/"
+      },
+      {
+        "file": "2026-03-06_18-00-global-edu-policy.json",
+        "title": "...",
+        "ghostId": "69afcafb15c2cc0001bbe0dc",
+        "url": "https://ubion.ghost.io/post-7/"
+      },
+      {
+        "file": "2026-03-06_18-00-seoul-ai-bootcamp.json",
+        "title": "...",
+        "ghostId": "69afcafc15c2cc0001bbe0e0",
+        "url": "https://ubion.ghost.io/post-8/"
+      },
+      {
+        "file": "2026-03-06_18-00_ai-required-course-campus.json",
+        "title": "...",
+        "ghostId": "69afcafd15c2cc0001bbe0e4",
+        "url": "https://ubion.ghost.io/post-9/"
+      },
+      {
+        "file": "2026-03-06_19-45_smart-device-school-restriction.json",
+        "title": "...",
+        "ghostId": "69afcafd15c2cc0001bbe0e8",
+        "url": "https://ubion.ghost.io/post-10/"
+      },
+      {
+        "file": "2026-03-06_23-16_Korea-Univ-Tech-Education-Semicon.json",
+        "title": "...",
+        "ghostId": "69afcafe15c2cc0001bbe0ec",
+        "url": "https://ubion.ghost.io/post-11/"
+      },
+      {
+        "file": "2026-03-07_02-37_ai-era-children-education.json",
+        "title": "...",
+        "ghostId": "69afcaff15c2cc0001bbe0f0",
+        "url": "https://ubion.ghost.io/post-12/"
+      },
+      {
+        "file": "2026-03-07_02-37_ai-ethics-policy-universities.json",
+        "title": "...",
+        "ghostId": "69afcb0015c2cc0001bbe0f4",
+        "url": "https://ubion.ghost.io/post-13/"
+      },
+      {
+        "file": "2026-03-07_02-37_asia-ai-research-consortium.json",
+        "title": "...",
+        "ghostId": "69afcb0015c2cc0001bbe0f8",
+        "url": "https://ubion.ghost.io/post-14/"
+      },
+      {
+        "file": "2026-03-07_02-37_korea-ai-love-politico.json",
+        "title": "...",
+        "ghostId": "69afcb0115c2cc0001bbe0fc",
+        "url": "https://ubion.ghost.io/post-15/"
+      },
+      {
+        "file": "2026-03-07_06-55_ai-hyeogsin-gyeongjaeng-hangug-daeeung.json",
+        "title": "...",
+        "ghostId": "69afcb0215c2cc0001bbe100",
+        "url": "https://ubion.ghost.io/post-16/"
+      },
+      {
+        "file": "2026-03-07_11-53_global-education-policy-paradigm-shift.json",
+        "title": "...",
+        "ghostId": "69afcb0215c2cc0001bbe104",
+        "url": "https://ubion.ghost.io/post-17/"
+      },
+      {
+        "file": "2026-03-07_11-53_lg-launches-south-koreas-first-corporate.json",
+        "title": "...",
+        "ghostId": "69afcb0315c2cc0001bbe108",
+        "url": "https://ubion.ghost.io/post-18/"
+      },
+      {
+        "file": "2026-03-07_17-58_ai-education-revolution-2026-uk-us-korea.json",
+        "title": "...",
+        "ghostId": "69afcb0415c2cc0001bbe10c",
+        "url": "https://ubion.ghost.io/post-19/"
+      },
+      {
+        "file": "2026-03-10_12-30_ai-middle-school-policy.json",
+        "title": "...",
+        "ghostId": "69afcb0415c2cc0001bbe110",
+        "url": "https://ubion.ghost.io/post-20/"
+      },
+      {
+        "file": "2026-03-10_12-31_university-ai-curriculum.json",
+        "title": "...",
+        "ghostId": "69afcb0515c2cc0001bbe114",
+        "url": "https://ubion.ghost.io/post-21/"
+      },
+      {
+        "file": "2026-03-10_12-32_ai-education-revolution.json",
+        "title": "...",
+        "ghostId": "69afcb0615c2cc0001bbe118",
+        "url": "https://ubion.ghost.io/post-22/"
+      },
+      {
+        "file": "2026-03-10_12-33_ai-governance-higher-ed.json",
+        "title": "...",
+        "ghostId": "69afcb0615c2cc0001bbe11c",
+        "url": "https://ubion.ghost.io/post-23/"
+      },
+      {
+        "file": "source_001.json",
+        "title": "...",
+        "ghostId": "69afcb0715c2cc0001bbe120",
+        "url": "https://ubion.ghost.io/post-24/"
+      },
+      {
+        "file": "source_002.json",
+        "title": "...",
+        "ghostId": "69afcb0815c2cc0001bbe124",
+        "url": "https://ubion.ghost.io/post-25/"
+      },
+      {
+        "file": "source_003.json",
+        "title": "...",
+        "ghostId": "69afcb0915c2cc0001bbe128",
+        "url": "https://ubion.ghost.io/post-26/"
+      },
+      {
+        "file": "source_004.json",
+        "title": "...",
+        "ghostId": "69afcb0915c2cc0001bbe12c",
+        "url": "https://ubion.ghost.io/post-27/"
+      }
+    ],
+    "failure": [],
+    "skipped": [
+      "2026-03-02_11-53_kjob-uk-us-ai-governance-korea.json",
+      "2026-03-04_00-12_k12dive-states-ban-edtech-generative-ai.json",
+      "2026-03-04_14-41_lg-ai-graduate-school-opens.json",
+      "2026-03-07_06-25_daegu-ai-bootcamp.json",
+      "2026-03-07_06-55_ai-ro-byeonhwa-hangug-gyoyug-2026.json",
+      "2026-03-08_00-16_yeoncheon-ebs-ai-learning-center.json",
+      "2026-03-08_07-11_ai-ethics-literacy-policy-needed.json",
+      "2026-03-08_07-11_koreatech-ai-learning-platform-klxp.json",
+      "2026-03-08_07-11_national-education-vision-forum-ai.json",
+      "2026-03-08_07-11_university-ai-adoption-workforce-debate.json",
+      "2026-03-09_07-24_guardian-teacher-v-chatbot-ai-classroom.json",
+      "2026-03-09_13-22_ai-governance-higher-education-2026.json",
+      "2026-03-09_13-22_ansan-wongok-ai-future-school.json",
+      "2026-03-09_13-22_jeju-skku-ai-edutech-partnership.json",
+      "2026-03-09_13-22_us-senate-ai-education-act-2026.json",
+      "2026-03-09_13-22_us-states-49-ai-education-bills-tracker.json",
+      "2026-03-09_13-22_visang-edutech-lesson-contest.json",
+      "2026-03-09_14-00_coursera-ai-higher-ed-norm.json",
+      "2026-03-09_14-00_higher-ed-dive-administrators-ai-disruption.json",
+      "2026-03-09_14-00_korean-universities-ai-colleges-acceleration.json",
+      "2026-03-09_14-00_moe-ai-focus-schools-1141.json",
+      "2026-03-09_14-00_washpost-liberal-arts-ai-era.json",
+      "2026-03-09_14-00_washu-plus-ai-academic-initiative.json",
+      "2026-03-09_18-00_ai-teacher-role-elementary-column.json",
+      "2026-03-09_18-00_kjob-ai-integrated-curriculum-innovation.json",
+      "article-001.json",
+      "article-004.json",
+      "copy-edited.json",
+      "draft_002.json",
+      "draft_003.json",
+      "draft_004.json",
+      "etcjournal-ai-education-uses-20260302.json",
+      "kjob-ai-regulation-2026-20260303.json",
+      "korea-kr-ai-schools-operation-20260309.json",
+      "npr-ai-college-rules-20260303.json",
+      "source-1773093643285-0.json",
+      "source-1773093643286-1.json",
+      "source-1773093643287-2.json",
+      "source-1773093643287-3.json",
+      "source_10_1773054034553.json",
+      "source_1_1773054034527.json",
+      "source_2_1773054034537.json",
+      "source_3_1773054034541.json",
+      "source_4_1773054034542.json",
+      "source_5_1773054034543.json",
+      "source_6_1773054034545.json",
+      "source_7_1773054034546.json",
+      "source_8_1773054034549.json",
+      "source_9_1773054034552.json"
+    ]
+  }
+}
