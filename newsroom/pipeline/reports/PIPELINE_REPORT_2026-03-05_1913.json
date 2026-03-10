@@ -1,0 +1,97 @@
+{
+  "timestamp": "2026-03-05T19:13:30Z",
+  "execution_agent": "editor-desk",
+  "execution_time_kst": "2026-03-05 (목) 19:13 (Asia/Seoul)",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "assigned": 0,
+      "queued": 0,
+      "rejected": 0
+    },
+    "02_assigned": {
+      "total": 0,
+      "reported": 0
+    },
+    "03_reported": {
+      "total": 0,
+      "drafted": 0
+    },
+    "04_drafted": {
+      "total": 1,
+      "in_revision": 1,
+      "revision_count": {
+        "revision_1": 1,
+        "revision_2_plus": 0
+      }
+    },
+    "05_fact_checked": {
+      "total": 0,
+      "pass_90plus": 0,
+      "pass_80_89": 0,
+      "flag_75_79": 0,
+      "fail_below_75": 0
+    },
+    "06_desk_approved": {
+      "total": 0,
+      "copy_edit_ready": 0
+    },
+    "07_copy_edited": {
+      "total": 0,
+      "publish_ready": 0
+    },
+    "08_published": {
+      "total": 70,
+      "this_session": 0
+    },
+    "rejected": {
+      "total": 40,
+      "recent_kills": 3
+    }
+  },
+  "actions_this_session": {
+    "fact_checked_reviewed": 1,
+    "files_moved": 1,
+    "revisions_issued": 1,
+    "auto_approved": 0,
+    "auto_rejected": 0
+  },
+  "current_bottleneck": {
+    "stage": "04_drafted (1개)",
+    "issue": "REVISE 피드백 대기 - writer 수정 처리 필요",
+    "priority": "normal",
+    "action_needed": "writer에게 REVISE 지침 전달 및 재검증"
+  },
+  "details": {
+    "flagged_article": {
+      "id": "1741261500000-590453",
+      "headline": "KAIST 정원 100명 지원자 6명, AI 교육 정책 현장과 괴리",
+      "fact_check_score": 77,
+      "editor_score": 89,
+      "verdict": "REVISE",
+      "revision_round": 1,
+      "issues": [
+        {
+          "priority": "HIGH",
+          "issue": "수도권 15개 대학 비율(55.4%) 통계 출처 불명확",
+          "recommendation": "원본 기사(한국대학신문) 재확인 필요"
+        },
+        {
+          "priority": "MEDIUM",
+          "issue": "KAIST VTA 시스템 공식 출처 미확인",
+          "recommendation": "KAIST 공식 보도자료 또는 인터뷰 확인"
+        },
+        {
+          "priority": "MEDIUM",
+          "issue": "ASU, 옥스퍼드 AI 사례 구체적 출처 부재",
+          "recommendation": "대학 공식 채널 또는 구체적 뉴스 소스 링크 추가"
+        }
+      ],
+      "next_action": "writer → 출처 확인 및 재검증 → reporter 상담 → 재 제출"
+    }
+  },
+  "summary": {
+    "health_status": "🟡 NORMAL",
+    "message": "파이프라인 건강도 양호. 현재 1개 기사가 REVISE 대기 중이며, 발행 준비 완료된 기사 70개 안정적 배치. 다음 sourcer/reporter 배치 대기 중."
+  }
+}

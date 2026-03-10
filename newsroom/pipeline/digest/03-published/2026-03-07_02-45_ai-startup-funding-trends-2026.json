@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "From Idea to Investment: What Venture Capital Actually Sees in AI Startups",
+    "url": "https://ventureburn.com/from-idea-to-investment-what-venture-capital-actually-sees-in-ai-startups/",
+    "source_name": "Ventureburn",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "AI is now infrastructure, not novelty. Capital is consolidating around entities controlling infrastructure layers - World Labs' $1B round, Saudi Humain's $3B xAI investment, Nvidia enabling 500 startups. VCs look for compounding systems, proprietary data loops, and embedded AI workflows.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-07T02:45:00+09:00"
+  },
+  "digest": {
+    "headline": "AI는 더 이상 혁신이 아니다...벤처캐피털이 주목하는 2026 투자 기준",
+    "lead": "2026년 AI는 혁신이 아닌 인프라로 재정의되고 있다. 자본은 인프라 레이어를 장악한 기업으로 집중되고 있으며, World Labs의 10억 달러, 사우디 Humain의 xAI 30억 달러 투자가 이를 방증한다. VC들은 이제 복합 시스템, 독점 데이터 루프, 임베디드 AI 워크플로우를 찾고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">2026년 AI는 혁신이 아닌 인프라로 재정의되고 있다. 자본은 인프라 레이어를 장악한 기업으로 집중되고 있으며, World Labs의 10억 달러, 사우디 Humain의 xAI 30억 달러 투자가 이를 방증한다. VC들은 이제 복합 시스템, 독점 데이터 루프, 임베디드 AI 워크플로우를 찾고 있다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">AI 스타트업 투자 환경이 급격히 변화하고 있다. 과거 'AI를 활용한다'는 것만으로도 투자를 받을 수 있었으나, 이제는 AI가 기본 인프라로 간주되면서 투자 기준이 까다로워졌다. 대표적인 대규모 투자 사례로 World Labs의 10억 달러 라운드, 사우디 Humain의 xAI 30억 달러 투자, 엔비디아의 500개 스타트업 지원 프로그램 등이 있다. 자본은 인프라 레이어를 통제하는 주체들로 집중되는 추세다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">벤처캐피털이 새롭게 주목하는 세 가지 핵심 요소는 ▲복합 시스템(compounding systems) ▲독점 데이터 루프 ▲임베디드 AI 워크플로우다. 단순히 AI를 활용하는 서비스가 아니라, AI가 제품 내에서 지속적으로 학습하고 개선되는 구조가 필수가 됐다. 또한 독점적인 데이터 확보 여부와 AI가 기존 워크플로우에 깊숙이 통합되어 있는지가 투자 결정의 핵심 변수로 부상했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">에듀테크 스타트업들도 이 기준을 따라야 한다. 학습 데이터를 독점적으로 확보하고, AI가 학습 과정에서 지속적으로 개선되는 시스템을 구축한 기업이 투자를 받을 가능성이 높다. 단순한 AI 기반 학습 도구가 아닌, 학습 패턴을 분석해 개인화된 교육을 제공하는 '복합 시스템'이 경쟁력이 될 것이다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://ventureburn.com/from-idea-to-investment-what-venture-capital-actually-sees-in-ai-startups/\" style=\"color:#FF6B35;text-decoration:none;\">Ventureburn</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "investment",
+      "vc",
+      "trends"
+    ],
+    "meta_title": "2026 AI 스타트업 투자 트렌드, VC가 주목하는 3가지 핵심",
+    "meta_description": "2026년 AI는 인프라로 재정의됐다. 벤처캐피털은 복합 시스템, 독점 데이터 루프, 임베디드 AI 워크플로우를 갖춘 스타트업에 투자한다.",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T02:45:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T02:59:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T18:20:02.019Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ab1ad1ff4fbf0001ab70ba",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ab1ad1ff4fbf0001ab70ba",
+    "public_url": "https://insight.ubion.global/aineun-deo-isang-hyeogsini-anida-benceokaepiteoli-jumoghaneun-2026-tuja-gijun/",
+    "status": "published",
+    "published_at": "2026-03-06T18:20:01.000Z"
+  }
+}

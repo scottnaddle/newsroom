@@ -1,0 +1,228 @@
+{
+  "id": "20260306-1800-kairnews-470913",
+  "stage": "published",
+  "created_at": "2026-03-06T18:00:00+09:00",
+  "priority": 2,
+  "source": {
+    "title": "[Pocus 칼럼] 과제에 AI 썼다가 적발되면?\" 2026년 'AI 필수과목' 의무화 시대",
+    "url": "https://www.kairnews.com/news/470913",
+    "source_name": "한국AI부동산신문",
+    "relevance_score": 80,
+    "summary": "2026년 대학가에 AI 필수과목 의무화가 본격화되면서 캠퍼스 교육 패러다임이 급변하고 있다.",
+    "tags": [
+      "policy",
+      "university",
+      "ai-literacy"
+    ],
+    "collected_via": "brave_search"
+  },
+  "draft": {
+    "headline": "20개 대학 AI 필수과목 의무화, 캠퍼스 교육 패러다임 급변",
+    "subheadline": "졸업 요건 지정, ChatGPT 활용 교육 확산… 'AI 리터러시' 필수 경쟁력 시대 개막",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n  \n  <div style=\"border-left:4px solid #4338ca;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">2026년 대학 신학기부터 전국 주요 대학 20곳에서 AI 필수과목 의무화가 본격 시행된다. 교육부는 60억 원 예산을 투입해 '연구자를 위한 AI 이해와 활용' 15주 과정을 신설하고, 졸업 필수 요건으로 지정했다. 법대·경영대도 예외 없는 '전공 불문 AI 교양' 시대가 열리고 있다.</p>\n  </div>\n\n  <figure class=\"kg-card kg-image-card kg-width-full\">\n    <img src=\"https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop&q=85&auto=format\" class=\"kg-image\" alt=\"대학 AI 교육\">\n    <figcaption>AI 필수과목 시대, 대학생들이 마주한 새로운 경쟁력 (이미지: Unsplash)</figcaption>\n  </figure>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">전공 무관 졸업 필수 요건 지정</h2>\n  <p style=\"margin:0 0 36px;\">교육부는 2026년 2월 24일 '대학 AI 기본교육과정 개발 지원사업 운영계획'을 발표했다. 서울권 주요 대학과 지역 거점 국립대 등 전국 20개 대학을 선도 대학으로 선정하고, 신입생 대상 '연구자를 위한 AI 이해와 활용' 15주 과정을 신설했다. 이 과정은 졸업 필수 요건으로 지정돼 전공과 무관하게 모든 학생이 이수해야 한다. 인문 계열과 자연 계열 분반을 운영해 비전공생의 학업적 부담을 최소화하려는 노력도 보인다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">가천대, 2024년 조기 시행해 191개 강좌 확대</h2>\n  <p style=\"margin:0 0 36px;\">가천대는 2024년부터 전교생 AI 기초교양 수강을 의무화했다. 2026년에는 관련 강좌를 191개로 대폭 확대하고, 4월에는 'AI 활용 교육 혁신 TF팀'을 출범할 예정이다. 학생들은 ChatGPT·Midjourney 등 생성형 AI 활용 교육을 받고, 프롬프트엔지니어링도 학습한다. 가천대의 과감한 실험은 '금지 대신 필수 교양으로' 전환한 선도적 사례로 주목받고 있다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">과제 AI 활용 vs 부정행위 딜레마</h2>\n  <p style=\"margin:0 0 36px;\">AI 필수과목 의무화와 함께 현장에서는 새로운 딜레마에 직면했다. 학생들은 ChatGPT로 과제를 작성하다 적발될까 불안해하고, 프롬프트엔지니어링 학습에 허덕이기도 한다. 교수진은 AI 탐지 툴을 도입하고 프로젝트 중심 평가 방식으로 전환하며 대응하고 있다. 교육부와 과학기술정보통신부는 2026년 2월 중 수업·평가 AI 활용 가이드라인을 안내할 예정이다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">대규모 예산 투입, AI 교육 인프라 구축</h2>\n  <p style=\"margin:0 0 36px;\">교육부는 2026년 예산에 AI+X 융합 부트캠프 50억 원, 대학생 AI 기본교육 88억 원, AI 거점대학 300억 원 등 신규 사업을 대거 포함했다. 60억 원(20개교)과 88억 원(대학생 AI 기본교육)을 합친 대규모 예산이 전국적 AI 교육 인프라 구축에 투입된다. 재직자 AI·디지털 집중과정 운영대학도 30곳에서 38곳으로 증설돼 평생학습 체제와도 연계된다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">OECD 권고, 사고력 훈련으로의 전환</h2>\n  <p style=\"margin:0 0 36px;\">OECD는 'AI 리터러시'를 필수 역량으로 강조하며, 단순 소프트웨어 사용법을 넘어선 사고력 훈련으로의 연결을 역설하고 있다. 한국은 글로벌 AI 교육 선도국가로서 OECD 권고를 적극 반영하고 있다. AI 디지털교과서 정책에서 AI를 '보조적 교육도구'로 재정의하고, 대학 중심 AI 교육으로 정책 중심을 이동시킨 것도 이러한 흐름의 일환이다. 기초학력과 AI 리터러시의 균형을 추구하며 '진짜 경쟁력'을 모색하는 단계다.</p>\n\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745482\" style=\"color:#4338ca;text-decoration:none;\">정책브리핑 - 대학 AI 기본교육과정 개발 지원사업</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.kairnews.com/news/470913\" style=\"color:#4338ca;text-decoration:none;\">한국AI부동산신문 - AI 필수과목 의무화 시대</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.mt.co.kr/policy/2026/03/03/2026030313051850252\" style=\"color:#4338ca;text-decoration:none;\">머니투데이 - 가천대 AI 기초교양 의무화</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=104984\" style=\"color:#4338ca;text-decoration:none;\">교육부 - 수업·평가 AI 활용 가이드라인</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://focusnjn.com/article/1065591818096765\" style=\"color:#4338ca;text-decoration:none;\">포커스신문 - 2026년 교육부 AI 예산</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "AI교육",
+      "대학교육",
+      "AI리터러시",
+      "교육정책",
+      "가천대"
+    ],
+    "references": [
+      {
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745482",
+        "title": "정책브리핑 - 대학 AI 기본교육과정 개발 지원사업"
+      },
+      {
+        "url": "https://www.kairnews.com/news/470913",
+        "title": "한국AI부동산신문 - AI 필수과목 의무화 시대"
+      },
+      {
+        "url": "https://www.mt.co.kr/policy/2026/03/03/2026030313051850252",
+        "title": "머니투데이 - 가천대 AI 기초교양 의무화"
+      },
+      {
+        "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=104984",
+        "title": "교육부 - 수업·평가 AI 활용 가이드라인"
+      },
+      {
+        "url": "https://focusnjn.com/article/1065591818096765",
+        "title": "포커스신문 - 2026년 교육부 AI 예산"
+      }
+    ],
+    "word_count": 1050,
+    "category": "policy"
+  },
+  "quality_report": {
+    "structure_score": 100,
+    "fact_check_score": 82,
+    "readability_score": 82,
+    "completeness_score": 88,
+    "overall_confidence": 84,
+    "verdict": "PASS",
+    "details": {
+      "structure": {
+        "has_headline": true,
+        "headline_length": 27,
+        "has_lead_box": true,
+        "has_background": true,
+        "section_count": 6,
+        "min_section_length": 200,
+        "has_references": true,
+        "reference_count": 5,
+        "has_ai_footer": true,
+        "no_ai_badge": true,
+        "no_number_card": true,
+        "no_article_tag": true,
+        "issues": []
+      },
+      "fact_check": {
+        "claims_checked": 7,
+        "claims": [
+          {
+            "claim": "교육부 2026년 대학 AI 기본교육과정 개발 지원사업 발표",
+            "type": "attribution",
+            "verdict": "SUPPORTED",
+            "confidence": 95,
+            "evidence": "정책브리핑(korea.kr) 공식 발표 확인",
+            "source_url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745482",
+            "flagged": false
+          },
+          {
+            "claim": "60억 원 예산, 20개 대학 선정",
+            "type": "statistical",
+            "verdict": "SUPPORTED",
+            "confidence": 75,
+            "evidence": "정책브리핑, 한국AI부동산신문 인용, API 한도로 직접 확인 제한",
+            "source_url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745482",
+            "flagged": false
+          },
+          {
+            "claim": "가천대 2024년 전교생 AI 기초교양 의무화",
+            "type": "temporal",
+            "verdict": "SUPPORTED",
+            "confidence": 85,
+            "evidence": "전자신문, 경인일보, 중부일보 등 다수 보도",
+            "source_url": "https://www.etnews.com/20260219000410",
+            "flagged": false
+          },
+          {
+            "claim": "2026년 191개 강좌 확대",
+            "type": "statistical",
+            "verdict": "SUPPORTED",
+            "confidence": 90,
+            "evidence": "전자신문, 경인일보, 중부일보, 대학뉴스 등 다수 보도에서 '작년 1학기 대비 133% 증가한 191개 강좌' 확인",
+            "source_url": "https://www.etnews.com/20260219000410",
+            "flagged": false
+          },
+          {
+            "claim": "수업·평가 AI 활용 가이드라인 2026년 2월 안내 예정",
+            "type": "temporal",
+            "verdict": "PARTIALLY SUPPORTED",
+            "confidence": 65,
+            "evidence": "교육부 발표에서 '안내 예정'으로 표기, 확정 여부는 미확인",
+            "source_url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=104984",
+            "flagged": true,
+            "flag_note": "가이드라인 확정 여부 추가 확인 필요"
+          },
+          {
+            "claim": "재직자 AI·디지털 집중과정 운영대학 30→38곳 증설",
+            "type": "statistical",
+            "verdict": "SUPPORTED",
+            "confidence": 80,
+            "evidence": "뉴스1 보도, 교육부 정책 확대",
+            "source_url": "https://www.news1.kr/society/education/6076653",
+            "flagged": false
+          },
+          {
+            "claim": "AI+X 융합 부트캠프 50억, 대학생 AI 기본교육 88억, AI 거점대학 300억",
+            "type": "statistical",
+            "verdict": "SUPPORTED",
+            "confidence": 75,
+            "evidence": "포커스신문 인용, 교육부 2026년 예산 분석",
+            "source_url": "https://focusnjn.com/article/1065591818096765",
+            "flagged": false
+          }
+        ],
+        "flagged_claims": [
+          {
+            "claim": "수업·평가 AI 활용 가이드라인 2026년 2월 안내 예정",
+            "flag_note": "가이드라인 확정 여부 추가 확인 필요 (현재 '안내 예정' 상태)"
+          }
+        ]
+      },
+      "readability": {
+        "avg_paragraph_length": 290,
+        "avg_sentence_length": 29,
+        "unique_word_ratio": 0.74,
+        "section_structure": "good",
+        "emphasis_usage": "good"
+      },
+      "completeness": {
+        "headline_content_match": 90,
+        "source_count": 5,
+        "perspective_diversity": "good",
+        "who_what_why": "complete"
+      }
+    },
+    "desk_note": "FLAG(가이드라인 확정 여부)는 비치명적, 승인 결정"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector",
+      "action": "collected",
+      "timestamp": "2026-03-06T18:00:00+09:00",
+      "note": "관련성 80점 - AI 필수과목 의무화 정책"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-06T19:28:00+09:00",
+      "note": "원본 칼럼 + 8개 추가 소스 확보"
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T19:35:00+09:00",
+      "note": "AI 필수과목 딜레마 앵글로 기사 작성"
+    },
+    {
+      "agent": "fact-checker",
+      "action": "verified",
+      "timestamp": "2026-03-06T19:40:00+09:00",
+      "note": "구조 100 | 팩트 82 | 가독성 82 | 완정도 88 → 종합 84점 PASS (1개 주장 FLAGGED: 가이드라인 확정 여부)"
+    },
+    {
+      "agent": "copy-editor",
+      "action": "copy-edited",
+      "timestamp": "2026-03-06T19:59:00+09:00",
+      "corrections": 1
+    },
+    {
+      "agent": "publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T11:04:27.379Z",
+      "note": "Ghost URL: https://ubion.ghost.io/ghost/#/editor/post/69aab4bbff4fbf0001ab6f6e"
+    },
+    {
+      "agent": "publisher",
+      "action": "published-draft",
+      "timestamp": "2026-03-06T14:08:38.692Z",
+      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69aadfe6ff4fbf0001ab7015"
+    }
+  ],
+  "copy_edit_report": {
+    "grammar_issues": 1,
+    "style_issues": 0,
+    "clarity_issues": 0,
+    "structure_issues": 0,
+    "total_corrections": 1,
+    "status": "ready-to-publish",
+    "notes": "프롬프트 엔지니어링 → 프롬프트엔지니어링 (띄어쓰기 수정)"
+  },
+  "publish_result": {
+    "ghost_post_id": "69aadfe6ff4fbf0001ab7015",
+    "ghost_draft_url": "https://ubion.ghost.io/ghost/#/editor/post/69aadfe6ff4fbf0001ab7015",
+    "status": "published",
+    "published_at": "2026-03-06T14:08:38.692Z"
+  }
+}

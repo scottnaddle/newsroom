@@ -1,0 +1,63 @@
+{
+  "timestamp": "2026-03-05T22:45:00+09:00",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 1,
+      "queued": 1,
+      "assigned": 0,
+      "rejected": 0
+    },
+    "02_assigned": 0,
+    "03_reported": 0,
+    "04_drafted": 0,
+    "05_fact_checked": 0,
+    "06_desk_approved": 0,
+    "07_copy_edited": 0,
+    "08_published": 75,
+    "rejected": 47
+  },
+  "queue": {
+    "total": 5,
+    "items": [
+      {
+        "id": "1772710577-001",
+        "title": "Hwang Hyuna of Korea University of Technology and Education Publishes AI Career Counseling Paper in KCI-Listed Journal",
+        "relevance_score": 68,
+        "status": "waiting"
+      },
+      {
+        "id": "1741271193-clg-consortium",
+        "title": "South Korean Universities Form Asia AI Research Consortium",
+        "relevance_score": 68,
+        "status": "waiting"
+      },
+      {
+        "id": "1741271193-politico-love",
+        "title": "The Country That's Madly in Love With AI",
+        "relevance_score": 62,
+        "status": "waiting"
+      },
+      {
+        "id": "1741352160-002",
+        "title": "2026학년도 AI기반 기초과목 진단 및 맞춤형 학습 프로그램",
+        "relevance_score": 68,
+        "status": "waiting"
+      },
+      {
+        "id": "20260305-223631-469935",
+        "title": "AI가 혁신하는 교육 환경 전략",
+        "relevance_score": 72,
+        "status": "waiting"
+      }
+    ]
+  },
+  "bottleneck": "none — 파이프라인 유휴 상태",
+  "action_needed": "01-sourced의 신규 기사 처리 필요. queue의 기사 중 우선순위 높은 항목 배정",
+  "summary": {
+    "published_count": 75,
+    "rejected_count": 47,
+    "active_in_pipeline": 0,
+    "queued_count": 5,
+    "health": "✅ HEALTHY — 발행 정상, 현재 대기 항목만 배정 대기"
+  }
+}

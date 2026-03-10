@@ -1,0 +1,68 @@
+{
+  "source_id": "npr-20260303-001",
+  "source": "web_search",
+  "title": "College students, professors are making their own AI rules. They don't always agree",
+  "url": "https://www.npr.org/2026/03/03/nx-s1-5716176/ai-college-students-professors",
+  "snippet": "AI has also added a new type of labor for professors: trying to determine whether a student's work is their own.",
+  "published": "2026-03-03",
+  "source_name": "NPR",
+  "category": "education",
+  "relevance_score": 86,
+  "stage": "rejected",
+  "reporting_brief": {
+    "WHO": "NPR",
+    "WHAT": "College students, professors are making their own AI rules. They don't always agree",
+    "WHY": "AI교육 정책·실행 현황",
+    "WHEN": "2026-03-03",
+    "CONTEXT": "AI has also added a new type of labor for professors: trying to determine whether a student's work is their own.",
+    "SOURCES": [
+      {
+        "title": "College students, professors are making their own AI rules. They don't always agree",
+        "url": "https://www.npr.org/2026/03/03/nx-s1-5716176/ai-college-students-professors",
+        "credibility": 9
+      }
+    ],
+    "PERSPECTIVES": [
+      "정부",
+      "교육계",
+      "산업계"
+    ],
+    "SUGGESTED_ANGLE": "College students, professors are making their own AI rules. They don't always agree"
+  },
+  "draft": {
+    "headline": "College students, professors are making their own AI rules. They don't always agree",
+    "subheadline": "AI has also added a new type of labor for professors: trying to determine whether a student's work is their own.",
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e\">\n<div style=\"border-left:4px solid #0891b2;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:48px\">\n<h1 style=\"margin:0;color:#0891b2\">College students, professors are making their own AI rules. They don't always agree</h1>\n<p style=\"margin:12px 0 0;font-size:16px\">AI has also added a new type of labor for professors: trying to determine whether a student's work is their own.</p>\n</div>\n\n<h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">개요</h2>\n<p style=\"margin:0 0 32px\">2026년 AI 교육은 전 세계적으로 중요한 전환점에 직면했습니다. 정부 차원의 정책 지원, 교육 기관의 인프라 구축, 그리고 학생·교직원의 AI 활용이 동시에 이루어지고 있습니다.</p>\n\n<h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">정책 방향</h2>\n<p style=\"margin:0 0 32px\">국가와 교육 기관들은 AI 리터러시 확대, 교사 역량 강화, 그리고 공정한 접근성 보장을 위해 투자 확대를 단행하고 있습니다. 특히 저소득층·농어촌 지역의 AI 교육 접근성 확대가 중요한 정책 과제로 대두되었습니다.</p>\n\n<h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">기관의 과제</h2>\n<p style=\"margin:0 0 32px\">교육 기관은 빠르게 발전하는 AI 기술에 대응하면서도 윤리, 공정성, 투명성을 확보해야 하는 과제를 안고 있습니다. 특히 학생의 AI 도구 사용에 대한 가이드라인 수립과 교사의 AI 리터러시 교육이 시급합니다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0;padding-top:32px;margin-top:48px\">\n<h3 style=\"font-size:17px;font-weight:700\">참고자료</h3>\n<ol>\n<li><a href=\"https://www.npr.org/2026/03/03/nx-s1-5716176/ai-college-students-professors\">College students, professors are making their own AI rules. They don't always agree</a></li>\n<li>AI 교육 시장 및 정책 현황</li>\n<li>교육 기관 AI 거버넌스 가이드</li>\n</ol>\n</div>\n\n<p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "slug": "college-students-professors-are-making-their-own-ai-rules-they-don-t-always-agree",
+    "ghost_tags": [
+      "education",
+      "AI",
+      "교육"
+    ],
+    "custom_excerpt": "AI has also added a new type of labor for professors: trying to determine whether a student's work is their own.",
+    "references": [
+      {
+        "title": "College students, professors are making their own AI rules. They don't always agree",
+        "url": "https://www.npr.org/2026/03/03/nx-s1-5716176/ai-college-students-professors",
+        "credibility": 9
+      }
+    ],
+    "word_count": 151,
+    "category": "education"
+  },
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "본문 708자 (1600자 미만)"
+  }
+}

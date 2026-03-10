@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-03-05T15:40:12+09:00",
+  "editor": "editor-desk",
+  "pipeline_status": {
+    "01_sourced": 0,
+    "02_assigned": 0,
+    "03_reported": 0,
+    "04_drafted": 10,
+    "05_fact_checked": 0,
+    "06_desk_approved": 0,
+    "07_copy_edited": 3,
+    "08_published": 54,
+    "rejected": 30
+  },
+  "total_in_pipeline": 67,
+  "actions_completed": {
+    "desk_approved_to_copy_edited": 3,
+    "copy_edited_to_published": 2,
+    "drafted_max_revise_killed": 1
+  },
+  "bottleneck": {
+    "stage": "04_drafted",
+    "count": 10,
+    "reason": "Writer 병목 — 기사 작성 지연"
+  },
+  "action_required": "writer 우선 실행",
+  "quality_metrics": {
+    "published_today": 2,
+    "in_copy_edit": 3,
+    "awaiting_writer": 10,
+    "rejected_total": 30
+  },
+  "notes": [
+    "06-desk-approved 3개 → 07-copy-edited 이동 완료",
+    "07-copy-edited 2개 (published 상태) → 08-published 이동 완료",
+    "04-drafted 내 3회 REVISE 파일 자동 KILL (EdWeek article)",
+    "04-drafted 파일 중 JSON 구조 오류 있는 파일 다수 발견 — 별도 정리 필요"
+  ]
+}

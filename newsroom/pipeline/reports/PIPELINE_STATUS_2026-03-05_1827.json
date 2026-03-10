@@ -1,0 +1,61 @@
+{
+  "timestamp": "2026-03-05T18:27:00+09:00",
+  "execution_agent": "editor-desk",
+  "execution_reason": "scheduled-cron-30min",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "files": []
+    },
+    "02_assigned": {
+      "total": 0,
+      "files": []
+    },
+    "03_reported": {
+      "total": 0,
+      "files": []
+    },
+    "04_drafted": {
+      "total": 1,
+      "files": [
+        {
+          "id": "20260305-180500-korean-universities-ai",
+          "headline": "AI는 금지에서 필수로…한국 대학가 교육 판도 대전환",
+          "relevance_score": 88,
+          "drafted_at": "2026-03-05T18:25:00+09:00",
+          "waiting_since_minutes": 2,
+          "status": "awaiting_fact_check"
+        }
+      ]
+    },
+    "05_fact_checked": {
+      "total": 0,
+      "files": []
+    },
+    "06_desk_approved": {
+      "total": 0,
+      "files": []
+    },
+    "07_copy_edited": {
+      "total": 0,
+      "files": []
+    },
+    "08_published": {
+      "total": "unknown",
+      "note": "Last published batch size: check 08-published/ directory"
+    }
+  },
+  "bottleneck": {
+    "stage": "04_drafted",
+    "issue": "Fact-checker has not yet completed verification (신뢰도 88 기사 대기)",
+    "action_needed": "Ping fact-checker to process: 20260305-180500-korean-universities-ai"
+  },
+  "summary": {
+    "active_files": 1,
+    "waiting": 1,
+    "passed": 0,
+    "rejected": 0,
+    "health": "IDLE — waiting for fact-checker output"
+  },
+  "next_check": "2026-03-05T18:57:00+09:00"
+}

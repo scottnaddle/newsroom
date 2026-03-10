@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Best AI Venture Capital Funds (2026 Ranking)",
+    "url": "https://www.earthianai.com/news/articles/2026-03-05/best-ai-venture-capital-funds-2026-ranking",
+    "source_name": "Earthian AI",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Earthian AI's 2026 ranking scores VCs on involvement in high-value AI startups, value created, early conviction, and ownership quality. Top Silicon Valley AI VCs: Thrive Capital (#1 globally), Lightspeed, a16z, Sequoia, Menlo Ventures, Salesforce Ventures, Index Ventures, Benchmark, Kleiner Perkins, CapitalG, NEA, Greylock, and Accel.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-07T02:45:00+09:00"
+  },
+  "digest": {
+    "headline": "2026 글로벌 AI 벤처캐피털 랭킹...Thrive Capital 세계 1위",
+    "lead": "Earthian AI가 발표한 2026년 AI 벤처캐피털 랭킹에서 Thrive Capital이 세계 1위를 차지했다. 이어 Lightspeed, a16z, Sequoia, Menlo Ventures가 상위권에 이름을 올렸다. 평가 기준은 고가치 AI 스타트업 참여도, 창출 가치, 초기 확신, 지분 품질 등 4가지다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">Earthian AI가 발표한 2026년 AI 벤처캐피털 랭킹에서 Thrive Capital이 세계 1위를 차지했다. 이어 Lightspeed, a16z, Sequoia, Menlo Ventures가 상위권에 이름을 올렸다. 평가 기준은 고가치 AI 스타트업 참여도, 창출 가치, 초기 확신, 지분 품질 등 4가지다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Earthian AI는 매년 AI 분야에서 가장 영향력 있는 벤처캐피털을 선정하고 있다. 2026년 랭킹은 ▲고가치 AI 스타트업 투자 참여도 ▲창출한 가치 ▲초기 단계에서의 투자 확신 ▲지분 보유의 품질 등 4가지 지표를 기반으로 산출됐다. 이번 랭킹은 실리콘밸리 중심의 AI 투자 생태계 현황을 보여주는 지표로 활용된다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">상위 10개 펀드는 Thrive Capital, Lightspeed, a16z, Sequoia, Menlo Ventures, Salesforce Ventures, Index Ventures, Benchmark, Kleiner Perkins, CapitalG 순으로 나타났다. 이어 NEA, Greylock, Accel도 상위권에 포함됐다. 특히 Thrive Capital은 OpenAI 등 핵심 AI 기업에 대한 초기 투자로 1위에 올랐으며, 이는 AI 인프라 기업에 대한 선점적 투자가 승부처가 됐음을 시사한다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">에듀테크 분야에서도 이들 VC의 투자 패턴을 주시할 필요가 있다. 교육 분야는 규제와 데이터 특성상 AI 적용이 상대적으로 늦었으나, 2026년부터는 AI 기반 개인화 학습, 자동 평가, 학습 분석 등에서 대규모 투자가 예상된다. 특히 a16z와 Sequoia는 에듀테크 분야에도 적극적인 투자 이력이 있어 관련 스타트업들의 움직임이 주목된다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.earthianai.com/news/articles/2026-03-05/best-ai-venture-capital-funds-2026-ranking\" style=\"color:#FF6B35;text-decoration:none;\">Earthian AI</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "vc",
+      "investment",
+      "ranking"
+    ],
+    "meta_title": "2026 AI 벤처캐피털 랭킹, Thrive Capital 세계 1위",
+    "meta_description": "Earthian AI 2026 랭킹에서 Thrive Capital이 AI 벤처캐피털 1위를 차지했다. Lightspeed, a16z, Sequoia가 뒤를 이었으며, 평가는 4가지 지표 기준.",
+    "word_count": 550
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T02:45:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T02:59:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T18:20:02.805Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ab1ad2ff4fbf0001ab70c5",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ab1ad2ff4fbf0001ab70c5",
+    "public_url": "https://insight.ubion.global/2026-geulrobeol-ai-benceokaepiteol-raengking-thrive-capital-segye-1wi/",
+    "status": "published",
+    "published_at": "2026-03-06T18:20:02.000Z"
+  }
+}

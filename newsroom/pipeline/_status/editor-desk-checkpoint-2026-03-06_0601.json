@@ -1,0 +1,70 @@
+{
+  "timestamp": "2026-03-06T06:01:00+09:00",
+  "checkpoint": "editor-desk-cron-run",
+  "interval": "last_checkpoint_75_minutes_ago",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "status": "cleared"
+    },
+    "02_assigned": {
+      "total": 4,
+      "high_priority": 3,
+      "normal_priority": 1,
+      "status": "WAITING_FOR_WRITER_PICKUP",
+      "items_waiting_time": "75 minutes+"
+    },
+    "03_reported": {
+      "total": 0
+    },
+    "04_drafted": {
+      "total": 0
+    },
+    "05_fact_checked": {
+      "total": 0,
+      "status": "no_action_needed"
+    },
+    "06_desk_approved": {
+      "total": 0
+    },
+    "07_copy_edited": {
+      "total": 0
+    },
+    "08_published": {
+      "total": 114,
+      "since_last_checkpoint": "+26 articles"
+    },
+    "rejected": {
+      "total": 54
+    },
+    "memory_queue": {
+      "total": 8,
+      "reason": "relevance_score_50-74"
+    }
+  },
+  "actions_executed": {
+    "step_1_sourced": "no_new_sources",
+    "step_2_fact_checked": "no_pending_articles",
+    "step_3_desk_approved": "no_pending_articles",
+    "step_4_copy_edited": "no_pending_articles",
+    "step_5_rejected": "54_articles_already_processed"
+  },
+  "bottleneck": {
+    "status": "CRITICAL",
+    "location": "02-assigned",
+    "issue": "Writer not picking up assigned articles for 75+ minutes",
+    "affected_articles": [
+      "2026-03-06_0437_lg-ai-graduate-school (HIGH, score:83)",
+      "2026-03-06_0437_moe-ai-ethics-guideline (HIGH, score:85)",
+      "2026-03-06_0437_moe-ai-ethics-roundtable (NORMAL, score:78)",
+      "2026-03-06_0437_seoul-ai-education-guideline (HIGH, score:88)"
+    ]
+  },
+  "summary": {
+    "overall_health": "⚠️ HEALTHY BUT STALLED",
+    "publishing_pace": "26 articles published in 75 minutes = strong output",
+    "action_needed": "CONTACT WRITER — 4 high-priority articles stuck in 02-assigned",
+    "editorial_notes": "시간 관련 시의성 높은 기사들 (교육정책 3개)이 대기 중 → 시간 민감",
+    "next_checkpoint": "60분 후 (06:60) 또는 writer 응답 대기"
+  }
+}

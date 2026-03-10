@@ -1,0 +1,97 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.openaccessgovernment.org/how-ai-is-reshaping-higher-education-with-lessons-and-leadership-from-asia-pacific/204133/",
+    "title": "How AI is reshaping higher education with lessons and leadership from Asia‑Pacific",
+    "snippet": "Microsoft data shows 86% of education organisations now use generative AI—the highest adoption rate of any sector.",
+    "published_date": "2026-03-05"
+  },
+  "relevance_score": 76,
+  "tags": [
+    "university",
+    "ai-adoption",
+    "asia-pacific",
+    "global"
+  ],
+  "collected_at": "2026-03-09T05:00:00.000Z",
+  "editor_note": "아시아-태평양 지역 AI 고등교육 도입 현황. Microsoft 데이터 인용. 글로벌 시각 제공.",
+  "priority": "medium",
+  "assigned_at": "2026-03-09T05:37:48.514090Z",
+  "reported_at": "2026-03-09T05:41:00.000Z",
+  "reporting_brief": {
+    "who": "AACSB International (Geoff Perry, EVP/Chief Officer Asia Pacific), Microsoft, UNESCO, 아시아-태평양 대학",
+    "what": "교육 분야 생성형 AI 도입률 86%로 전 산업 최고(Microsoft 데이터). 아태지역 대학이 디지털 전환과 정부 주도 혁신 전략의 최전선. AACSB 인증 및 AI 통합에서 가장 빠른 성장세. 비즈니스 스쿨 84%가 AI 콘텐츠 내장, 학장 42%가 월 수회 이상 AI 개인 사용.",
+    "why": "한국도 아태지역 AI 교육 선도국으로서 글로벌 트렌드 파악 필요. 기술 구현에서 '의도(intent)'로 초점 전환 시점.",
+    "when": "2026년 3월 5일 발표",
+    "context": "과제: 학생·교육자 절반 미만만 AI에 대해 '잘 안다'고 인식(Microsoft). 아태지역은 빠른 도입과 역량 구축의 이중 과제. 인간 역량(판단력, 윤리, 창의성, 비판적 사고) 함양이 핵심. UNESCO 동아시아 공동 거버넌스·AI 리터러시 이니셔티브 추진. APRU(환태평양대학협회)도 2025년 AI 고등교육 포럼 개최.",
+    "sources": [
+      {
+        "url": "https://www.openaccessgovernment.org/how-ai-is-reshaping-higher-education-with-lessons-and-leadership-from-asia-pacific/204133/",
+        "type": "primary",
+        "reliability": "medium-high",
+        "note": "Open Access Government 원문. AACSB 관점."
+      },
+      {
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/products-and-services/en-us/education/2025-Microsoft-AI-in-Education-Report.pdf",
+        "type": "data",
+        "reliability": "high",
+        "note": "Microsoft AI in Education 보고서. 86% 도입률 원본 데이터."
+      },
+      {
+        "url": "https://apru.org/wp-content/uploads/2025/05/AULF2025-Final-Booklet.pdf",
+        "type": "secondary",
+        "reliability": "high",
+        "note": "APRU 환태평양대학협회 AI 고등교육 포럼 자료."
+      },
+      {
+        "url": "https://rptel.apsce.net/index.php/RPTEL/article/view/2026-21019",
+        "type": "academic",
+        "reliability": "high",
+        "note": "학술논문. AI 고등교육 통합의 기회와 우려 — 윤리적 고려 강조."
+      }
+    ],
+    "perspectives": {
+      "government": "아태지역 정부들이 혁신 전략과 디지털 전환을 적극 주도. UNESCO 동아시아 공동 거버넌스 이니셔티브.",
+      "education": "AACSB: 암기 중심에서 윤리적 추론·데이터 유창성·비판적 분석·창의적 문제해결 중심으로 전환 필요. 인간 역량과 알고리즘의 '보완' 관계 강조.",
+      "industry": "Microsoft: 교육 분야가 전 산업 중 생성형 AI 도입률 최고(86%). 비즈니스 스쿨 선도적 도입."
+    },
+    "suggested_angle": "아태지역 AI 고등교육 리더십 — Microsoft 86% 도입률의 이면에서 한국·일본·싱가포르·호주 대학의 AI 전략과 역량 격차 분석."
+  },
+  "draft": {
+    "headline": "교육 분야 AI 도입률 86%, 전 산업 최고… 아태지역이 이끈다",
+    "subheadline": "Microsoft 보고서 기반, AACSB 비즈니스 스쿨 84%가 AI 커리큘럼 내장",
+    "html": "<div style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;font-size:17px;line-height:1.9;color:#1a1a1a\">\n\n<div style=\"border-left:4px solid #d97706;background:#f8f9ff;padding:20px 24px;margin-bottom:32px;border-radius:0 8px 8px 0\">\n<p style=\"margin:0;font-size:18px;font-weight:600;color:#d97706\">Microsoft 데이터에 따르면 교육 분야의 생성형 AI 도입률이 86%로 전 산업 중 최고를 기록했다. 아시아-태평양 지역 대학들이 이 디지털 전환의 최전선에 서 있으며, AACSB 인증 비즈니스 스쿨의 84%가 AI 콘텐츠를 커리큘럼에 내장하고 있다.</p>\n</div>\n\n<figure class=\"kg-card kg-image-card kg-width-full\">\n<img src=\"https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80\" alt=\"아시아 대학 캠퍼스에서 공부하는 학생들\" style=\"width:100%;border-radius:8px\" />\n<figcaption style=\"text-align:center;font-size:14px;color:#64748b;margin-top:8px\">아태지역 대학들이 AI 고등교육 도입에서 글로벌 리더십을 보이고 있다. (이미지: Unsplash)</figcaption>\n</figure>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">86% — 교육 분야가 전 산업 AI 도입률 1위</h2>\n<p style=\"font-size:17px\">Microsoft의 'AI in Education' 보고서가 던진 숫자는 놀랍다. 교육 기관의 86%가 생성형 AI를 도입해, 금융·의료·제조 등 다른 산업을 제치고 전 산업 중 최고 도입률을 기록했다. AACSB International의 제프 페리(Geoff Perry) 아태지역 수석부사장은 이 숫자의 이면을 분석했다. 비즈니스 스쿨의 84%가 AI 콘텐츠를 커리큘럼에 내장했으며, 학장의 42%가 월 수회 이상 개인적으로 AI를 사용하고 있다.</p>\n<p style=\"font-size:17px\">하지만 '도입률'과 '역량'은 다른 문제다. Microsoft 같은 보고서에서 학생·교육자의 절반 미만만이 AI에 대해 '잘 안다'고 응답했다. 도구는 손에 들었지만, 그것을 목적의식 있게 활용하는 역량은 아직 따라가지 못하고 있다는 뜻이다.</p>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">아태지역의 리더십 — 정부 주도 전략과 대학의 빠른 적응</h2>\n<p style=\"font-size:17px\">아시아-태평양 지역이 AI 고등교육에서 주목받는 이유는 정부 주도의 혁신 전략과 대학의 빠른 적응력이 결합되어 있기 때문이다. UNESCO는 동아시아 국가들의 공동 AI 거버넌스·리터러시 이니셔티브를 추진 중이며, APRU(환태평양대학협회)도 2025년 AI 고등교육 포럼을 개최해 지역 내 협력 체계를 구축했다.</p>\n<p style=\"font-size:17px\">한국·싱가포르·호주·일본 등의 대학들이 AACSB 인증 및 AI 통합에서 가장 빠른 성장세를 보이고 있다. 특히 한국은 AI 단과대 신설, 정부 지원 AI 중심대학 사업 등으로 아태지역 AI 교육 선도국으로서의 위상을 강화하고 있다.</p>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">'기술 구현'에서 '의도'로 — 인간 역량의 재정의</h2>\n<p style=\"font-size:17px\">AACSB의 페리 부사장이 강조한 핵심 메시지는 교육의 초점을 '기술 구현(implementation)'에서 '의도(intent)'로 전환해야 한다는 것이다. 암기 중심의 교육에서 윤리적 추론·데이터 유창성·비판적 분석·창의적 문제해결 중심으로 전환이 필요하다. AI가 효율을 극대화할수록, 역설적으로 인간만이 할 수 있는 판단력·윤리·창의성의 가치가 높아진다.</p>\n<p style=\"font-size:17px\">아태지역은 빠른 도입과 역량 구축이라는 이중 과제를 안고 있다. 도입 속도에서는 글로벌 선두에 서 있지만, AI 리터러시의 깊이와 비판적 활용 역량은 아직 성숙 단계에 이르지 못했다. 기술을 '사용할 줄 아는 것'과 '목적의식 있게 활용하는 것'의 차이를 좁히는 것이 아태지역 AI 고등교육의 다음 과제다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0;margin-top:40px;padding-top:20px\">\n<h3 style=\"font-size:16px;color:#475569;margin-bottom:12px\">참고자료</h3>\n<ol style=\"font-size:15px;color:#475569;padding-left:20px\">\n<li><a href=\"https://www.openaccessgovernment.org/how-ai-is-reshaping-higher-education-with-lessons-and-leadership-from-asia-pacific/204133/\" style=\"color:#d97706\">Open Access Government — AI가 아태지역 고등교육을 어떻게 바꾸고 있는가</a></li>\n<li><a href=\"https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/products-and-services/en-us/education/2025-Microsoft-AI-in-Education-Report.pdf\" style=\"color:#d97706\">Microsoft AI in Education 보고서</a></li>\n<li><a href=\"https://apru.org/wp-content/uploads/2025/05/AULF2025-Final-Booklet.pdf\" style=\"color:#d97706\">APRU 환태평양대학협회 AI 고등교육 포럼 자료</a></li>\n</ol>\n</div>\n\n<p style=\"font-size:13px;color:#cbd5e1;margin-top:32px\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "ghost_tags": [
+      "AI 교육",
+      "아시아태평양",
+      "대학",
+      "AI 도입",
+      "글로벌"
+    ],
+    "references": [
+      "https://www.openaccessgovernment.org/how-ai-is-reshaping-higher-education-with-lessons-and-leadership-from-asia-pacific/204133/",
+      "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/products-and-services/en-us/education/2025-Microsoft-AI-in-Education-Report.pdf",
+      "https://apru.org/wp-content/uploads/2025/05/AULF2025-Final-Booklet.pdf",
+      "https://rptel.apsce.net/index.php/RPTEL/article/view/2026-21019"
+    ],
+    "word_count": 1181,
+    "category": "industry"
+  },
+  "rejection_reason": "주제 중복: Coursera 보고서 기사와 글로벌 AI 고등교육 도입률 주제 중복(85%+ 유사도). Microsoft 86% vs Coursera 95% — 같은 트렌드의 다른 데이터. 기존 발행 기사(대학 AI 도입, AI 윤리 리터러시)와도 겹침.",
+  "rejected_at": "2026-03-09T06:05:00.000Z",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "본문 1505자 (1600자 미만)"
+  }
+}

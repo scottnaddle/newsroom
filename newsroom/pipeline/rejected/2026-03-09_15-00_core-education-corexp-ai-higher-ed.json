@@ -1,0 +1,33 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.businesswire.com/news/home/20260304922673/en/Core-Education-Launches-CoreXP-The-AI-Powered-Operating-Model-Built-for-Higher-Education",
+    "title": "Core Education Launches CoreXP: The AI-Powered Operating Model Built for Higher Education",
+    "snippet": "Core Education launches CoreXP, an AI-powered operating model built to help higher ed institutions redesign decision-making and improve performance.",
+    "published_date": "2026-03-04"
+  },
+  "relevance_score": 72,
+  "tags": [
+    "higher-education",
+    "edtech",
+    "AI-platform"
+  ],
+  "collected_at": "2026-03-09T06:00:00.000Z",
+  "rejection_reason": "기업 제품 보도자료 수준. 독자적 뉴스 가치 부족. 분석적 관점 부재.",
+  "rejected_at": "2026-03-09T06:05:00.000Z",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

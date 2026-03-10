@@ -1,0 +1,52 @@
+{
+  "timestamp": "2026-03-06T05:46:00+09:00",
+  "checkpoint": "에디터/데스크 정기 점검 (30분 주기)",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "action": "maritime-ai (신뢰도 67점) → queue.json 처리됨"
+    },
+    "02_assigned": 0,
+    "03_reported": 0,
+    "04_drafted": 0,
+    "05_fact_checked": 0,
+    "06_desk_approved": 0,
+    "07_copy_edited": 0,
+    "08_published": 113,
+    "rejected": 54,
+    "waiting_queue": 7
+  },
+  "queue_status": {
+    "total_waiting": 7,
+    "score_distribution": {
+      "72_points": 2,
+      "71_points": 1,
+      "68_points": 3,
+      "62_points": 1
+    },
+    "items": [
+      "1772710577-001: Hwang Hyuna AI Career Counseling (68)",
+      "1741271193-clg-consortium: Asia AI Research Consortium (68)",
+      "1741271193-politico-love: South Korea AI Culture (62)",
+      "1741352160-002: 가톨릭대 AI 기초과목 진단 (68)",
+      "20260305-223631-469935: AI 혁신 교육 환경 전략 (72)",
+      "1741326420003-daegu-bootcamp: 대구대 첨단산업 부트캠프 (71)",
+      "1741326420002-gumi-defense-ai: 경북도 방산 AI 전문인력 (72)",
+      "1741245300-maritime-ai: 한국해양대 AI 운영대학 (67) ← NEW"
+    ]
+  },
+  "health_check": {
+    "pipeline_flow": "✅ 정상",
+    "bottleneck": "⚠️  대기 큐 7개 — 기자 배정 필요",
+    "critical_items": "없음",
+    "rejected_count": 54,
+    "published_count": 113
+  },
+  "next_actions": [
+    "💡 대기 큐 검토: 72점 아이템(AI 혁신 교육 환경 전략, 경북도 방산 AI) → 우선 배정 검토",
+    "📊 68점 아이템(3개) → 표준 배정 대기",
+    "⚠️  62점 아이템(Politico 남한 AI 문화) → 신뢰도 재검토 필요",
+    "✅ 05-fact-checked/부터 07-copy-edited까지 모두 비어있음 → 파이프라인 원활"
+  ],
+  "notes": "새벽 시간대 기사 수집이 지속 중. 대기 큐가 관리 가능한 수준 유지 중."
+}

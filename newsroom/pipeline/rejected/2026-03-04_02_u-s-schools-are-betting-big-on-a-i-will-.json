@@ -6,7 +6,7 @@
   "relevance_score": 80,
   "collected_at": "2026-03-04T23:17:23.370Z",
   "status": "sourced",
-  "stage": "fact-checked",
+  "stage": "rejected",
   "desk_instructions": "",
   "audit_log": [
     {
@@ -36,6 +36,12 @@
       "action": "killed",
       "timestamp": "2026-03-05T01:13:23.558Z",
       "note": "KILL — 신뢰도 75이하의 FLAG 항목 3개 (NYC DOE 가이드라인, Kiddom 계약, Bill A9190 상태). NYT 원문 페이월 접근 불가로 1차 출처 검증 불가능. 재취재 필요 시 신원 명확한 공식 출처 필요"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "published",
+      "timestamp": "2026-03-05T20:32:23.637053Z",
+      "note": "copy-edited 완료, 발행 준비"
     }
   ],
   "reporting_brief": {
@@ -166,5 +172,20 @@
     ],
     "word_count": 915,
     "article_type": "news"
+  },
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "본문 675자 (1600자 미만)"
   }
 }

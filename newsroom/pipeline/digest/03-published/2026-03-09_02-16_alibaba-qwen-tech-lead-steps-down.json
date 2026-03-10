@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Alibaba's Qwen tech lead steps down after major AI push",
+    "url": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
+    "source_name": "TechCrunch",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Junyang Lin, a central technical leader on Alibaba's Qwen AI team, abruptly resigned just one day after the launch of Qwen 3.5 small models. The departure drew strong reactions from colleagues, with one describing it as 'the end of an era.' The shake-up has sparked a broader AI talent war, with competitors including Z.ai and Google DeepMind potentially poised to recruit departing Qwen team members.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-09T02:16:00+09:00"
+  },
+  "digest": {
+    "headline": "알리바바 Qwen 핵심 기술 리더, Qwen 3.5 출시 하루 만에 전격 사임",
+    "lead": "알리바바의 오픈소스 AI 모델 Qwen 프로젝트를 이끌어온 린쥔양(Junyang Lin)이 Qwen 3.5 소형 모델 공개 직후 돌연 사임했다. 동료들은 '한 시대의 끝'이라며 충격을 표했으며, 그의 퇴장은 글로벌 AI 인재 쟁탈전의 서막으로 해석되고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">알리바바의 오픈소스 AI 모델 Qwen 프로젝트를 이끌어온 린쥔양(Junyang Lin)이 Qwen 3.5 소형 모델 공개 직후 돌연 사임했다. 동료들은 '한 시대의 끝'이라며 충격을 표했으며, 그의 퇴장은 글로벌 AI 인재 쟁탈전의 서막으로 해석되고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">린쥔양은 2019년 알리바바에 합류해 2023년 4월부터 Qwen 팀의 핵심 기술 리더로 활동해왔다. 알리바바는 지난 월요일 0.8B~9B 파라미터 규모의 Qwen 3.5 소형 모델 4종을 공개했으며, 일론 머스크마저 '인상적인 지능 밀도'라고 평가할 만큼 업계의 주목을 받았다. 그러나 출시 바로 다음 날, 린은 X를 통해 프로젝트에서 물러난다고 밝혔다. 동료 천청(Chen Cheng)은 \\\"떠나는 건 당신의 선택이 아니었다는 걸 안다\\\"고 적어, 자발적 사임이 아닐 가능성을 시사했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">Qwen은 중국에서 가장 영향력 있는 오픈소스 AI 모델 중 하나로, 벤치마크에서 미국 주요 모델들과 대등한 성능을 보여왔다. 핵심 인물의 이탈은 프로젝트의 방향성과 오픈소스 커뮤니티와의 연결 고리에 즉각적 영향을 줄 수 있다. 허깅페이스 APAC 생태계 총괄 왕체전(Tiezhen Wang)은 이를 'Qwen에 엄청난 손실'이라고 평가했다. Z.ai, 구글 딥마인드 등 경쟁사들이 이탈 인재 영입에 나설 가능성이 높아, AI 인재 시장의 재편이 예상된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">Qwen 시리즈는 오픈소스 특성상 에듀테크 스타트업들이 비용 부담 없이 AI 기능을 구축하는 데 널리 활용되어왔다. 핵심 리더의 이탈이 프로젝트의 오픈소스 전략이나 업데이트 속도에 영향을 미칠 경우, Qwen 기반 교육 AI 서비스 개발사들은 대안 모델 확보 전략을 점검할 필요가 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/\" style=\"color:#FF6B35;text-decoration:none;\">TechCrunch</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "alibaba"
+    ],
+    "meta_title": "알리바바 Qwen 핵심 기술 리더, Qwen 3.5 출시 하루 만에 전격 사임",
+    "meta_description": "알리바바 Qwen AI 프로젝트의 핵심 기술 리더 린쥔양이 Qwen 3.5 소형 모델 출시 직후 돌연 사임했다. 동료들은 충격을 표했으며 글로벌 AI 인재 쟁탈전이 본격화될 전망이다.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T02:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T02:43:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T17:56:31.551Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69adb84fff4fbf0001ab75b8",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69adb84fff4fbf0001ab75b8",
+    "public_url": "https://insight.ubion.global/alribaba-qwen-haegsim-gisul-rideo-qwen-3-5-culsi-haru-mane-jeongyeog-saim/",
+    "status": "published",
+    "published_at": "2026-03-08T17:56:31.000Z"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "stage": "published",
+  "source": {
+    "url": "https://www.washingtonpost.com/opinions/2026/03/02/ais-best-use-is-enhancing-human-judgment-so-study-liberal-arts/",
+    "title": "Opinion: The best education for future success might surprise you — study liberal arts",
+    "snippet": "Washington Post opinion argues AI makes purely technical skills less valuable and human judgment more essential.",
+    "published_date": "2026-03-02"
+  },
+  "relevance_score": 75,
+  "tags": [
+    "opinion",
+    "liberal-arts",
+    "ai-era",
+    "higher-education"
+  ],
+  "collected_at": "2026-03-09T05:00:00.000Z",
+  "editor_note": "워싱턴포스트 오피니언. AI 시대 인문학 교육의 가치.",
+  "priority": "medium",
+  "assigned_at": "2026-03-09T05:37:48.516620Z",
+  "reported_at": "2026-03-09T05:41:00.000Z",
+  "reporting_brief": {
+    "who": "워싱턴포스트 칼럼니스트",
+    "what": "AI가 기술적 스킬 가치를 낮추고 인간 판단력 가치를 높이는 시대에 인문학 교육 필요성 강화.",
+    "why": "STEM 편향에 대한 반론. 비판적 사고·윤리적 추론·창의성이 AI 시대 핵심 역량.",
+    "when": "2026년 3월 2일",
+    "sources": [
+      {
+        "url": "https://www.washingtonpost.com/opinions/2026/03/02/ais-best-use-is-enhancing-human-judgment-so-study-liberal-arts/",
+        "type": "primary",
+        "reliability": "high"
+      },
+      {
+        "url": "https://www.naicu.edu/news-events/presidential-opinion/2026/why-ai-makes-a-liberal-arts-education-even-more-invaluable/",
+        "type": "secondary",
+        "reliability": "high"
+      },
+      {
+        "url": "https://www.inc.com/jessica-stillman/the-rise-of-ai-will-make-liberal-arts-degrees-popular-again-heres-why/91206953",
+        "type": "secondary",
+        "reliability": "medium-high"
+      }
+    ]
+  },
+  "drafted_at": "2026-03-09T06:45:00.000Z",
+  "draft": {
+    "headline": "AI 시대의 인문학 역설 — '코딩보다 철학'이라는 워싱턴포스트의 도발",
+    "subheadline": "기술적 스킬은 AI가 대체하고, 인간 판단력의 가치는 오히려 높아진다",
+    "html": "<div style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;font-size:17px;line-height:1.9;color:#1a202c\">\n\n\n\n<figure class=\"kg-card kg-image-card kg-width-full\">\n<img src=\"https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&q=80\" alt=\"도서관에서 책을 읽는 학생\" style=\"width:100%;border-radius:8px\">\n<figcaption style=\"text-align:center;font-size:14px;color:#94a3b8;margin-top:8px\">AI가 코드를 작성하는 시대, 인문학의 가치가 재조명되고 있다 | Unsplash</figcaption>\n</figure>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">기술이 대체하는 것, 대체할 수 없는 것</h2>\n<p>워싱턴포스트 칼럼니스트는 3월 2일 오피니언을 통해 명확한 논지를 펼쳤다. AI가 발전할수록 순수 기술적 스킬 — 코딩, 데이터 처리, 정형화된 분석 — 의 시장 가치는 하락한다. 반면 비판적 사고, 윤리적 추론, 창의성, 맥락 판단 같은 인문학적 역량은 오히려 희소해지며 가치가 올라간다.</p>\n<p>이 주장은 단독이 아니다. 미국사립대총장협의회(NAICU) 회장 로빈 홈스-설리번(Robin Holmes-Sullivan)은 \"경제 불확실성, 국가 분열, 기술 의존이 심화되는 시대에 인문학이 더 필요하다\"고 역설했다. Inc.도 \"AI의 부상이 인문학 학위의 인기를 다시 끌어올릴 것\"이라는 분석을 내놓았다.</p>\n<p>논리는 단순하다. AI가 루틴 업무를 대체하면 남는 것은 비루틴 업무다. 비루틴 업무의 핵심은 판단력이고, 판단력의 기반은 폭넓은 인문학적 소양이다. 코딩은 AI에게 시킬 수 있지만, 무엇을 만들어야 하고 왜 만들어야 하는지를 판단하는 것은 인간의 영역으로 남는다.</p>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">'AI 전공은 필요 없다' — 대학 리더들의 합의</h2>\n<p>주목할 것은 이런 시각이 인문학 옹호론자들만의 것이 아니라는 점이다. Elon University 총장 코니 북(Connie Book)은 \"인터넷 전공이 없었듯이 AI 전공도 필요 없다\"고 단언했다. AI는 하나의 학과가 아니라 모든 커리큘럼에 스며들어야 하는 기반 기술이라는 것이다.</p>\n<p>데이비드 미어만 스콧은 블로그에서 인문학 교육의 '미래방어적(future-proof) 가치'를 분석했다. 기술의 유통기한은 점점 짧아지지만, 텍스트를 비판적으로 읽고, 복잡한 상황에서 윤리적 판단을 내리고, 다양한 관점을 종합하는 능력은 시대를 초월한다는 것이다.</p>\n<p>NAICU는 한 걸음 더 나아간다. 인문학 교육이 단순히 개인의 역량을 키우는 것이 아니라, AI 시대에 민주주의를 유지하기 위한 사회적 인프라라는 주장이다. AI가 생성한 정보를 비판 없이 수용하는 시민으로 가득 찬 사회가 얼마나 위험한지를 생각하면, 이 주장은 과장이 아니다.</p>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">한국의 역설 — 인문학 폐과와 AI 단과대 신설의 동시 진행</h2>\n<p>한국 대학의 현실은 이 논의와 정반대 방향으로 움직이고 있다. 인문학과는 통폐합되거나 폐과되고, AI 단과대가 앞다퉈 신설된다. 'AI 인재 양성'이라는 구호 아래 인문학은 비용 효율이 낮은 학과로 밀려나고 있다.</p>\n<p>그러나 워싱턴포스트의 질문을 한국에 대입하면 불편한 진실이 드러난다. AI를 다루는 기술 인력만 양산하고, AI가 만든 결과물을 비판적으로 검증하고 사회적 맥락에서 판단할 인재는 양성하지 않는다면, 그 사회는 AI의 사용자가 아니라 AI의 소비자에 머물게 된다.</p>\n<p>워싱턴포스트가 제안한 것은 인문학과 기술의 양자택일이 아니다. AI 시대에 인문학적 역량이 기술적 역량만큼, 아니 그 이상으로 중요하다는 인식의 전환이다. 한국 대학이 AI 단과대를 세우는 만큼 인문학의 가치를 재발견하는 노력도 필요하다. 코딩을 가르치는 것과 질문하는 법을 가르치는 것은 다른 차원의 교육이다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0;margin-top:40px;padding-top:20px\">\n<p style=\"font-size:15px;font-weight:600;color:#7c3aed;margin-bottom:12px\">📎 참고자료</p>\n<ol style=\"font-size:15px;color:#475569;padding-left:20px\">\n<li><a href=\"https://www.washingtonpost.com/opinions/2026/03/02/ais-best-use-is-enhancing-human-judgment-so-study-liberal-arts/\" style=\"color:#7c3aed\">Washington Post — AI's best use is enhancing human judgment, so study liberal arts</a></li>\n<li><a href=\"https://www.naicu.edu/news-events/presidential-opinion/2026/why-ai-makes-a-liberal-arts-education-even-more-invaluable/\" style=\"color:#7c3aed\">NAICU — Why AI makes a liberal arts education even more invaluable</a></li>\n<li><a href=\"https://www.inc.com/jessica-stillman/the-rise-of-ai-will-make-liberal-arts-degrees-popular-again-heres-why/91206953\" style=\"color:#7c3aed\">Inc. — The rise of AI will make liberal arts degrees popular again</a></li>\n</ol>\n</div>\n\n<p style=\"font-size:13px;color:#cbd5e1;margin-top:32px;text-align:center\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>",
+    "ghost_tags": [
+      "인문학",
+      "AI시대",
+      "고등교육",
+      "오피니언",
+      "비판적사고"
+    ],
+    "references": [
+      "https://www.washingtonpost.com/opinions/2026/03/02/ais-best-use-is-enhancing-human-judgment-so-study-liberal-arts/",
+      "https://www.naicu.edu/news-events/presidential-opinion/2026/why-ai-makes-a-liberal-arts-education-even-more-invaluable/",
+      "https://www.inc.com/jessica-stillman/the-rise-of-ai-will-make-liberal-arts-degrees-popular-again-heres-why/91206953"
+    ],
+    "word_count": 870,
+    "category": "opinion",
+    "meta_title": "AI 시대의 인문학 역설 — '코딩보다 철학'이라는 워싱턴포스트의 도발",
+    "meta_description": "\"AI의 최선의 활용은 인간 판단력을 강화하는 것이다. 그러니 인문학을 공부하라.\" 워싱턴포스트가 던진 이 도발적 제안이 미국 고등교육계를 관통하고 있다. 대학마다 AI 전공 신설에 혈안인 한국에서, 이 역설은 더욱 날카롭게 들린다. AI가 코드를 작성하는 시대, 인문"
+  },
+  "fact_check": {
+    "score": 90,
+    "verdict": "PASS",
+    "issues": [
+      "한국 인문학과 통폐합/폐과 추세 — 널리 알려진 사실이나 기사 내 구체적 출처 없음. 구체적 사례나 통계 추가 권고"
+    ],
+    "verified_claims": [
+      "워싱턴포스트 오피니언(2026.3.2) 존재 확인 — 검색 결과와 URL 일치",
+      "NAICU 회장 칼럼(2026.1.23) 존재 확인",
+      "Connie Book의 AI 전공 불필요론 — Higher Ed Dive 원문에서 교차 확인"
+    ]
+  },
+  "fact_checked_at": "2026-03-09T06:54:34.267Z",
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 1910자, 팩트점수 90, 중복 27.8%",
+    "meta_title": "AI 시대의 인문학 역설 — '코딩보다 철학'이라는 워싱턴포스트의 도발",
+    "meta_description": "\"AI의 최선의 활용은 인간 판단력을 강화하는 것이다. 그러니 인문학을 공부하라.\" 워싱턴포스트가 던진 이 도발적 제안이 미국 고등교육계를 관통하고 있다. 대학마다 AI 전공 신설에 혈안인 한국에서, 이 역설은 더욱 날카롭게 들린다. AI가 코드를 작성하는 시대, 인문",
+    "decided_at": "2026-03-09T07:07:03.940Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [
+      "AI 배지 pill 제거"
+    ],
+    "text_length": 1779,
+    "checked_at": "2026-03-09T07:07:03.942Z"
+  },
+  "ghost_id": "69ae7198ff4fbf0001ab78c2",
+  "ghost_url": "https://insight.ubion.global/p/ae9e6730-d420-470c-9ac4-ad80712ae635/",
+  "published_at": "2026-03-09T07:07:04.459Z"
+}

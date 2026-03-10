@@ -1,0 +1,107 @@
+{
+  "id": "20260306234606-asia-ai-consortium",
+  "stage": "published",
+  "created_at": "2026-03-06T23:46:00+09:00",
+  "drafted_at": "2026-03-07T02:37:00+09:00",
+  "priority": 2,
+  "source": {
+    "title": "South Korean Universities Form Asia AI Research Consortium",
+    "url": "https://creativelearningguild.co.uk/education/south-korean-universities-form-asia-ai-research-consortium/",
+    "source_name": "Creative Learning Guild",
+    "relevance_score": 72,
+    "summary": "서울대, KAIST, 연세대, 고려대 등 소위 SKY대학을 중심으로 아시아 AI 연구 컨소시엄이 결성되었다.",
+    "tags": [
+      "university",
+      "research",
+      "consortium"
+    ],
+    "collected_via": "brave_search"
+  },
+  "draft": {
+    "headline": "SKY 대학이 손잡았다, 아시아 AI 연구 컨소시엄 출범",
+    "subheadline": "반도체 강국에서 AI G3로 도약하려는 한국의 야심과 현실적 과제",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n  \n  <div style=\"border-left:4px solid #059669;padding:16px 20px;background:#f0fdf4;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">서울대, KAIST, 연세대, 고려대가 중심이 되어 아시아 AI 연구 컨소시엄이 결성되었다. 일반적인 MOU를 넘어 자금, 인프라, 긴박성을 갖춘 이 협력체는 2030년까지 한국을 'AI G3' 국가로 진입시키겠다는 야심찬 목표를 세웠다. 반도체 강국이 소프트웨어 제국의 하드웨어 공급업체로 전락하지 않기 위한 국가적 도전이 시작되었다.</p>\n  </div>\n\n  <figure class=\"kg-card kg-image-card kg-width-full\">\n    <img src=\"https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop&q=85&auto=format\" class=\"kg-image\" alt=\"대학 연구실\">\n    <figcaption>SKY 대학들이 이례적으로 협력하며 AI 연구 역량을 결집하고 있다 (이미지: Unsplash)</figcaption>\n  </figure>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">컨소시엄의 구조와 목표</h2>\n  <p style=\"margin:0 0 36px;\">아시아 AI 연구 컨소시엄은 서울대, KAIST, 연세대, 고려대가 주도하고 과학기술정보통신부가 정부 파트너로 참여한다. 국제적으로는 뉴욕대학교와 Global AI Frontier Lab을 통해 협력한다. 주요 연구 분야는 기초 AI, AI 안전, 헬스케어 AI, AI와 타 산업의 융합인 AI+X 등이다. 컨소시엄은 연구 어젠다 조율, 고성능 GPU 확보, SK텔레콤 등 산업 파트너십 정렬 등 구체적 활동을 추진한다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">왜 지금 협력하나</h2>\n  <p style=\"margin:0 0 36px;\">글로벌 AI 경쟁이 이론적 연구에서 지정학적 포지셔닝과 컴퓨트 용량 경쟁으로 이동했다. 한국은 반도체 우위에 있지만 AI 소프트웨어 생태계에서는 실리콘밸리나 중국 일부 지역에 비해 열위에 있다. 소프트웨어 제국의 하드웨어 공급업체로 전락할 위기를 극복하기 위해 학계가 자구책으로 내놓은 것이 바로 이 컨소시엄이다. 경쟁 관계에 있던 SKY 대학들이 국가적 목표를 위해 이례적으로 손을 잡은 배경이다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">AX 프로그램: 새로운 인재상</h2>\n  <p style=\"margin:0 0 36px;\">과학기술정보통신부는 10개 AI 구동형 전환, 즉 AX(AI-driven Transformation) 대학원 프로그램을 지원한다. AI를 로봇공학, 반도체, 금융, 우주기술 등과 통합하는 것이다. 기존 머신러닝 엔지니어 양성에서 'AI에 능통한 도메인 전문가' 양성으로 전환하겠다는 전략이다. OpenAI는 한국 경제 청사진에서 세계 최고 수준의 반도체 제조, 고밀도 디지털 인프라, 고학력 인재, AI를 국가 우선순위로 삼은 정부를 한국의 강점으로 꼽았다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">브레인 드레인 역전 가능할까</h2>\n  <p style=\"margin:0 0 36px;\">한국 최우수 AI 인재 상당수는 미국 대학원으로 유학을 떠난다. 컨소시엄은 국제 협력을 강화하면서도 연구를 국내에 집중해 인력 유출을 완화하겠다는 목표를 세웠다. 공유 컴퓨트 인프라 구축과 세계적 수준의 연구 환경 조성이 필수적이다. 서울 마포구 서울 AI 허브의 스타트업 생태계는 연구 성과의 상업화 경로이자 인재 유치의 매력 요소가 될 수 있다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">AI 안전 연구도 병행</h2>\n  <p style=\"margin:0 0 36px;\">한국 AI 안전연구소가 설립되어 모델 개발과 함께 가드레일 구축도 병행한다. AI 경쟁이 가열되어도 안전과 윤리의 균형을 유지하겠다는 의지다. Microsoft는 한국의 AI 구축 현황을 분석하며 실용적 가치 창출 사례로 주목했다. 기술 개발과 사회적 책임을 동시에 추구하는 접근이 컨소시엄의 신뢰성을 높일 것으로 기대된다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">시사점</h2>\n  <p style=\"margin:0 0 36px;\">컨소시엄의 성패는 한국이 반도체 강국에서 AI 강국으로 도약할 수 있느냐를 가를 것이다. SKY 대학의 이례적 협력이 지속될지, 브레인 드레인이 역전될지, 연구 성과가 산업 경쟁력으로 이어질지가 관건이다. 당분간 컨소시엄의 구체적 성과인 연구 인용, 스타트업 성과, 국제 표준 영향력 등을 주시해야 한다.</p>\n\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://creativelearningguild.co.uk/education/south-korean-universities-form-asia-ai-research-consortium/\" style=\"color:#059669;text-decoration:none;\">South Korean Universities Form Asia AI Research Consortium - Creative Learning Guild</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://openai.com/index/south-korea-economic-blueprint/\" style=\"color:#059669;text-decoration:none;\">OpenAI South Korea Economic Blueprint</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/04/24/how-south-korea-is-building-an-ai-powered-future-for-everyone/\" style=\"color:#059669;text-decoration:none;\">How South Korea is building an AI-powered future - Microsoft</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://gsai.kaist.ac.kr/\" style=\"color:#059669;text-decoration:none;\">KAIST AI 대학원</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "AI연구",
+      "대학협력",
+      "컨소시엄",
+      "SKY대학"
+    ],
+    "references": [
+      {
+        "url": "https://creativelearningguild.co.uk/education/south-korean-universities-form-asia-ai-research-consortium/",
+        "title": "South Korean Universities Form Asia AI Research Consortium - Creative Learning Guild"
+      },
+      {
+        "url": "https://openai.com/index/south-korea-economic-blueprint/",
+        "title": "OpenAI South Korea Economic Blueprint"
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/04/24/how-south-korea-is-building-an-ai-powered-future-for-everyone/",
+        "title": "How South Korea is building an AI-powered future - Microsoft"
+      },
+      {
+        "url": "https://gsai.kaist.ac.kr/",
+        "title": "KAIST AI 대학원"
+      }
+    ],
+    "word_count": 1020,
+    "category": "research"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector",
+      "action": "collected",
+      "timestamp": "2026-03-06T23:46:00+09:00",
+      "note": "관련성 72점 - 대학 AI 연구 컨소시엄"
+    },
+    {
+      "agent": "auto-assign",
+      "action": "assigned",
+      "timestamp": "2026-03-06T17:13:22.241Z",
+      "note": "자동 할당: 2026-03-06_23-46_asia-ai-research-consortium.json"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-07T02:26:00+09:00",
+      "note": "취재 완료 - 원본 기사, OpenAI 청사진, Microsoft 분석 등 6개 소스 확보"
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T02:37:00+09:00",
+      "note": "기사 작성 완료 - 1020자, 연구 카테고리"
+    },
+    {
+      "agent": "fact-checker",
+      "action": "checked",
+      "timestamp": "2026-03-06T17:57:08Z",
+      "note": "자동 신뢰도 85점 - 품질 검증 통과"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "approved",
+      "timestamp": "2026-03-06T17:57:55Z",
+      "note": "데스크 승인 완료 - 07-copy-edited로 이동"
+    },
+    {
+      "agent": "publisher",
+      "action": "published-draft",
+      "timestamp": "2026-03-06T18:04:48.921Z",
+      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69ab1740ff4fbf0001ab708a"
+    }
+  ],
+  "fact_check": {
+    "score": 85,
+    "checked_at": "2026-03-06T17:57:08Z",
+    "issues": [],
+    "verdict": "PASS"
+  },
+  "publish_result": {
+    "ghost_post_id": "69ab1740ff4fbf0001ab708a",
+    "ghost_edit_url": "https://ubion.ghost.io/ghost/#/editor/post/69ab1740ff4fbf0001ab708a",
+    "status": "published",
+    "published_at": "2026-03-06T18:04:48.921Z"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "OpenAI Raises $110 Billion in Latest Funding Round, Total Funding Reaches $168 Billion",
+    "url": "https://tracxn.com/d/companies/openai/__kElhSG7uVGeFk1i71Co9-nwFtmtyMVT7f-YHMn4TFBg/funding-and-investors",
+    "source_name": "Tracxn",
+    "language": "en",
+    "relevance_score": 92,
+    "summary": "OpenAI has raised a total of $168 billion across 11 funding rounds from 67 investors including T. Rowe Price and G Squared. The latest funding round of $110 billion was completed on February 27, 2026.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-06T23:25:00+09:00"
+  },
+  "digest": {
+    "headline": "오픈AI, 15조 원 규모 펀딩 완료… 누적 투자금 24조 원 돌파",
+    "lead": "오픈AI가 지난 2월 27일 110억 달러(약 15조 원) 규모의 대규모 펀딩을 완료했다. 이로써 누적 투자금은 1,680억 달러(약 24조 원)에 달하며, 11차례 펀딩 라운드에서 총 67개 투자자가 참여했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">오픈AI가 지난 2월 27일 110억 달러(약 15조 원) 규모의 대규모 펀딩을 완료했다. 이로써 누적 투자금은 1,680억 달러(약 24조 원)에 달하며, 11차례 펀딩 라운드에서 총 67개 투자자가 참여했다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">오픈AI는 생성형 AI 시장을 선도하며 꾸준히 대규모 투자를 유치해왔다. 이번 라운드에는 T. Rowe Price, G Squared 등 주요 기관투자자가 참여했으며, 기업 가치는 천문학적인 수준으로 평가받고 있다. 경쟁사인 Anthropic, Google DeepMind 등과의 경쟁이 심화되는 가운데, 오픈AI는 연구 개발과 인프라 확충에 자금을 집중할 것으로 전망된다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 펀딩은 단일 AI 기업으로서 전례 없는 규모다. 오픈AI는 이 자금을 바탕으로 GPT 시리즈의 차기 모델 개발, 데이터센터 인프라 확장, 안전성 연구 등에 집중할 것으로 보인다. 또한 마이크로소프트와의 파트너십을 넘어 더 다양한 기업과의 협업도 가속화할 가능성이 크다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">오픈AI의 자금력 강화는 교육 현장에도 직접적인 영향을 미친다. ChatGPT Edu와 같은 교육 특화 서비스의 기능 고도화, API 가격 안정화, 교육기관 대상 할인 프로그램 확대가 기대된다. 특히 학습 보조 AI, 자동 채점, 개인화된 튜터링 시스템 등 에듀테크 핵심 기능이 더 빠르게 발전할 것으로 보인다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://tracxn.com/d/companies/openai/__kElhSG7uVGeFk1i71Co9-nwFtmtyMVT7f-YHMn4TFBg/funding-and-investors\" style=\"color:#FF6B35;text-decoration:none;\">Tracxn</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "openai",
+      "funding"
+    ],
+    "meta_title": "오픈AI 15조 펀딩 완료, 누적 24조 원 돌파 | AI Digest",
+    "meta_description": "오픈AI가 110억 달러 펀딩을 완료해 누적 투자금이 1,680억 달러를 돌파했다. 에듀테크 분야에 미치는 영향을 분석한다.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T23:25:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T23:33:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T14:52:53.061Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aaea44ff4fbf0001ab7020",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aaea44ff4fbf0001ab7020",
+    "public_url": "https://ubion.ghost.io/opeunai-15jo-weon-gyumo-peonding-wanryo-nujeog-tujageum-24jo-weon-dolpa/",
+    "status": "published",
+    "published_at": "2026-03-06T14:52:53.061Z"
+  }
+}

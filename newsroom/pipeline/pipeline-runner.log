@@ -1,0 +1,747 @@
+[2026-03-09T07:04:45.808Z] [INFO] Pipeline Runner 시작
+[2026-03-09T07:04:45.810Z] [ERROR] 파일없음: --dry-run
+[2026-03-09T07:05:02.596Z] [INFO] Pipeline Runner 시작
+[2026-03-09T07:05:02.599Z] [INFO] 처리 대상: 5개 기사
+[2026-03-09T07:05:02.599Z] [INFO] === 기사 처리: 2026-03-09_14-00_higher-ed-dive-administrators-ai-disruption.json (from: 05-fact-checked) ===
+[2026-03-09T07:05:02.599Z] [INFO] [Stage4:에디터] 2026-03-09_14-00_higher-ed-dive-administrators-ai-disruption.json
+[2026-03-09T07:06:58.701Z] [INFO] Pipeline Runner 시작
+[2026-03-09T07:06:58.703Z] [INFO] 처리 대상: 5개 기사
+[2026-03-09T07:06:58.704Z] [INFO] === 기사: 2026-03-09_14-00_higher-ed-dive-administrators-ai-disruption.json (from: 05-fact-checked) ===
+[2026-03-09T07:06:58.705Z] [INFO] [Stage4:에디터] 2026-03-09_14-00_higher-ed-dive-administrators-ai-disruption.json
+[2026-03-09T07:06:58.727Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 2026-03-09_14-00_higher-ed-dive-administrators-ai-disruption.json
+[2026-03-09T07:06:58.728Z] [INFO] [Stage5:교열] 2026-03-09_14-00_higher-ed-dive-administrators-ai-disruption.json
+[2026-03-09T07:06:58.730Z] [OK] [Stage5:교열] PASS (1706자, 1 changes) -> 07-copy-edited/: 2026-03-09_14-00_higher-ed-dive-administrators-ai-disruption.json
+[2026-03-09T07:06:58.730Z] [INFO] [Stage6:발행] 2026-03-09_14-00_higher-ed-dive-administrators-ai-disruption.json
+[2026-03-09T07:07:03.915Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/p/3e84f9fb-5d00-467b-920d-5c501e5653ac/: 2026-03-09_14-00_higher-ed-dive-administrators-ai-disruption.json
+[2026-03-09T07:07:03.915Z] [OK] === 완료: 2026-03-09_14-00_higher-ed-dive-administrators-ai-disruption.json (5.2s) ===
+[2026-03-09T07:07:03.915Z] [INFO] === 기사: 2026-03-09_14-00_joongboo-ai-literacy-column.json (from: 05-fact-checked) ===
+[2026-03-09T07:07:03.915Z] [INFO] [Stage4:에디터] 2026-03-09_14-00_joongboo-ai-literacy-column.json
+[2026-03-09T07:07:03.922Z] [WARN] [Stage4] 본문 1465자 미만 -> rejected: 2026-03-09_14-00_joongboo-ai-literacy-column.json
+[2026-03-09T07:07:03.923Z] [INFO] === 기사: 2026-03-09_14-00_population-cliff-ai-university-role.json (from: 05-fact-checked) ===
+[2026-03-09T07:07:03.923Z] [INFO] [Stage4:에디터] 2026-03-09_14-00_population-cliff-ai-university-role.json
+[2026-03-09T07:07:03.934Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 2026-03-09_14-00_population-cliff-ai-university-role.json
+[2026-03-09T07:07:03.934Z] [INFO] [Stage5:교열] 2026-03-09_14-00_population-cliff-ai-university-role.json
+[2026-03-09T07:07:03.934Z] [WARN] [Stage5] 본문 1526자 미만 -> rejected: 2026-03-09_14-00_population-cliff-ai-university-role.json
+[2026-03-09T07:07:03.935Z] [INFO] === 기사: 2026-03-09_14-00_washpost-liberal-arts-ai-era.json (from: 05-fact-checked) ===
+[2026-03-09T07:07:03.935Z] [INFO] [Stage4:에디터] 2026-03-09_14-00_washpost-liberal-arts-ai-era.json
+[2026-03-09T07:07:03.941Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 2026-03-09_14-00_washpost-liberal-arts-ai-era.json
+[2026-03-09T07:07:03.941Z] [INFO] [Stage5:교열] 2026-03-09_14-00_washpost-liberal-arts-ai-era.json
+[2026-03-09T07:07:03.942Z] [OK] [Stage5:교열] PASS (1779자, 1 changes) -> 07-copy-edited/: 2026-03-09_14-00_washpost-liberal-arts-ai-era.json
+[2026-03-09T07:07:03.943Z] [INFO] [Stage6:발행] 2026-03-09_14-00_washpost-liberal-arts-ai-era.json
+[2026-03-09T07:07:09.193Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/p/ae9e6730-d420-470c-9ac4-ad80712ae635/: 2026-03-09_14-00_washpost-liberal-arts-ai-era.json
+[2026-03-09T07:07:09.193Z] [OK] === 완료: 2026-03-09_14-00_washpost-liberal-arts-ai-era.json (5.3s) ===
+[2026-03-09T07:07:09.193Z] [INFO] === 기사: 2026-03-09_14-00_washu-plus-ai-academic-initiative.json (from: 05-fact-checked) ===
+[2026-03-09T07:07:09.193Z] [INFO] [Stage4:에디터] 2026-03-09_14-00_washu-plus-ai-academic-initiative.json
+[2026-03-09T07:07:09.201Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 2026-03-09_14-00_washu-plus-ai-academic-initiative.json
+[2026-03-09T07:07:09.201Z] [INFO] [Stage5:교열] 2026-03-09_14-00_washu-plus-ai-academic-initiative.json
+[2026-03-09T07:07:09.202Z] [OK] [Stage5:교열] PASS (1871자, 1 changes) -> 07-copy-edited/: 2026-03-09_14-00_washu-plus-ai-academic-initiative.json
+[2026-03-09T07:07:09.202Z] [INFO] [Stage6:발행] 2026-03-09_14-00_washu-plus-ai-academic-initiative.json
+[2026-03-09T07:07:14.459Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/p/de61298a-078e-4016-a4bb-e523ce7229c5/: 2026-03-09_14-00_washu-plus-ai-academic-initiative.json
+[2026-03-09T07:07:14.460Z] [OK] === 완료: 2026-03-09_14-00_washu-plus-ai-academic-initiative.json (5.3s) ===
+[2026-03-09T07:07:14.460Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-09T07:07:14.460Z] [INFO] Published: 3, Rejected: 2, Error: 0
+[2026-03-09T07:07:14.460Z] [INFO] Ghost URLs: https://insight.ubion.global/p/3e84f9fb-5d00-467b-920d-5c501e5653ac/, https://insight.ubion.global/p/ae9e6730-d420-470c-9ac4-ad80712ae635/, https://insight.ubion.global/p/de61298a-078e-4016-a4bb-e523ce7229c5/
+[2026-03-09T07:07:29.481Z] [INFO] Pipeline Runner 시작
+[2026-03-09T07:07:29.483Z] [INFO] 처리할 기사 없음
+[2026-03-09T09:33:45.806Z] [INFO] Pipeline Runner 시작
+[2026-03-09T09:33:45.809Z] [INFO] 처리 대상: 4개 기사
+[2026-03-09T09:33:45.809Z] [INFO] === 기사: 2026-03-09_18-00_ai-teacher-role-elementary-column.json (from: 05-fact-checked) ===
+[2026-03-09T09:33:45.809Z] [INFO] [Stage4:에디터] 2026-03-09_18-00_ai-teacher-role-elementary-column.json
+[2026-03-09T09:33:45.824Z] [WARN] [Stage4] 중복 KILL (100.0%): 2026-03-09_18-00_ai-teacher-role-elementary-column.json
+[2026-03-09T09:33:45.825Z] [INFO] === 기사: 2026-03-09_18-00_dankook-ai-bootcamp-71billion.json (from: 05-fact-checked) ===
+[2026-03-09T09:33:45.825Z] [INFO] [Stage4:에디터] 2026-03-09_18-00_dankook-ai-bootcamp-71billion.json
+[2026-03-09T09:33:45.833Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 2026-03-09_18-00_dankook-ai-bootcamp-71billion.json
+[2026-03-09T09:33:45.834Z] [INFO] [Stage5:교열] 2026-03-09_18-00_dankook-ai-bootcamp-71billion.json
+[2026-03-09T09:33:45.835Z] [WARN] [Stage5] 본문 1121자 미만 -> rejected: 2026-03-09_18-00_dankook-ai-bootcamp-71billion.json
+[2026-03-09T09:33:45.836Z] [INFO] === 기사: 2026-03-09_18-00_kjob-ai-integrated-curriculum-innovation.json (from: 05-fact-checked) ===
+[2026-03-09T09:33:45.836Z] [INFO] [Stage4:에디터] 2026-03-09_18-00_kjob-ai-integrated-curriculum-innovation.json
+[2026-03-09T09:33:45.840Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 2026-03-09_18-00_kjob-ai-integrated-curriculum-innovation.json
+[2026-03-09T09:33:45.840Z] [INFO] [Stage5:교열] 2026-03-09_18-00_kjob-ai-integrated-curriculum-innovation.json
+[2026-03-09T09:33:45.841Z] [OK] [Stage5:교열] PASS (2434자, 1 changes) -> 07-copy-edited/: 2026-03-09_18-00_kjob-ai-integrated-curriculum-innovation.json
+[2026-03-09T09:33:45.841Z] [INFO] [Stage6:발행] 2026-03-09_18-00_kjob-ai-integrated-curriculum-innovation.json
+[2026-03-09T09:33:52.087Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/p/1b54b758-2852-44e9-bdcc-23a065d5a2ca/: 2026-03-09_18-00_kjob-ai-integrated-curriculum-innovation.json
+[2026-03-09T09:33:52.088Z] [OK] === 완료: 2026-03-09_18-00_kjob-ai-integrated-curriculum-innovation.json (6.3s) ===
+[2026-03-09T09:33:52.088Z] [INFO] === 기사: 2026-03-09_18-00_virginia-ai-education-guardrails-bill.json (from: 05-fact-checked) ===
+[2026-03-09T09:33:52.088Z] [INFO] [Stage4:에디터] 2026-03-09_18-00_virginia-ai-education-guardrails-bill.json
+[2026-03-09T09:33:52.092Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 2026-03-09_18-00_virginia-ai-education-guardrails-bill.json
+[2026-03-09T09:33:52.093Z] [INFO] [Stage5:교열] 2026-03-09_18-00_virginia-ai-education-guardrails-bill.json
+[2026-03-09T09:33:52.093Z] [WARN] [Stage5] 본문 747자 미만 -> rejected: 2026-03-09_18-00_virginia-ai-education-guardrails-bill.json
+[2026-03-09T09:33:52.093Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-09T09:33:52.093Z] [INFO] Published: 1, Rejected: 3, Error: 0
+[2026-03-09T09:33:52.093Z] [INFO] Ghost URLs: https://insight.ubion.global/p/1b54b758-2852-44e9-bdcc-23a065d5a2ca/
+[2026-03-09T10:04:34.598Z] [INFO] Pipeline Runner 시작
+[2026-03-09T10:04:34.601Z] [INFO] 처리 대상: 5개 기사
+[2026-03-09T10:04:34.601Z] [INFO] === 기사: article-001.json (from: 05-fact-checked) ===
+[2026-03-09T10:04:34.601Z] [INFO] [Stage4:에디터] article-001.json
+[2026-03-09T10:04:34.602Z] [ERROR] === 실패: article-001.json -- titles is not iterable ===
+[2026-03-09T10:04:34.602Z] [INFO] === 기사: article-002.json (from: 05-fact-checked) ===
+[2026-03-09T10:04:34.602Z] [INFO] [Stage4:에디터] article-002.json
+[2026-03-09T10:04:34.603Z] [ERROR] === 실패: article-002.json -- titles is not iterable ===
+[2026-03-09T10:04:34.603Z] [INFO] === 기사: article-003.json (from: 05-fact-checked) ===
+[2026-03-09T10:04:34.603Z] [INFO] [Stage4:에디터] article-003.json
+[2026-03-09T10:04:34.603Z] [ERROR] === 실패: article-003.json -- titles is not iterable ===
+[2026-03-09T10:04:34.603Z] [INFO] === 기사: article-004.json (from: 05-fact-checked) ===
+[2026-03-09T10:04:34.603Z] [INFO] [Stage4:에디터] article-004.json
+[2026-03-09T10:04:34.604Z] [ERROR] === 실패: article-004.json -- titles is not iterable ===
+[2026-03-09T10:04:34.604Z] [INFO] === 기사: article-005.json (from: 05-fact-checked) ===
+[2026-03-09T10:04:34.604Z] [INFO] [Stage4:에디터] article-005.json
+[2026-03-09T10:04:34.604Z] [ERROR] === 실패: article-005.json -- titles is not iterable ===
+[2026-03-09T10:04:34.604Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-09T10:04:34.605Z] [INFO] Published: 0, Rejected: 0, Error: 5
+[2026-03-09T10:04:39.348Z] [INFO] Pipeline Runner 시작
+[2026-03-09T10:04:39.355Z] [INFO] 처리할 기사 없음
+[2026-03-09T10:31:23.991Z] [INFO] Pipeline Runner 시작
+[2026-03-09T10:31:23.996Z] [INFO] 처리 대상: 4개 기사
+[2026-03-09T10:31:23.996Z] [INFO] === 기사: article-011.json (from: 05-fact-checked) ===
+[2026-03-09T10:31:23.997Z] [INFO] [Stage4:에디터] article-011.json
+[2026-03-09T10:31:23.998Z] [ERROR] === 실패: article-011.json -- titles is not iterable ===
+[2026-03-09T10:31:23.998Z] [INFO] === 기사: article-012.json (from: 05-fact-checked) ===
+[2026-03-09T10:31:23.998Z] [INFO] [Stage4:에디터] article-012.json
+[2026-03-09T10:31:23.998Z] [ERROR] === 실패: article-012.json -- titles is not iterable ===
+[2026-03-09T10:31:23.998Z] [INFO] === 기사: article-013.json (from: 05-fact-checked) ===
+[2026-03-09T10:31:23.999Z] [INFO] [Stage4:에디터] article-013.json
+[2026-03-09T10:31:23.999Z] [ERROR] === 실패: article-013.json -- titles is not iterable ===
+[2026-03-09T10:31:23.999Z] [INFO] === 기사: article-014.json (from: 05-fact-checked) ===
+[2026-03-09T10:31:23.999Z] [INFO] [Stage4:에디터] article-014.json
+[2026-03-09T10:31:23.999Z] [ERROR] === 실패: article-014.json -- titles is not iterable ===
+[2026-03-09T10:31:23.999Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-09T10:31:23.999Z] [INFO] Published: 0, Rejected: 0, Error: 4
+[2026-03-09T11:01:21.836Z] [INFO] Pipeline Runner 시작
+[2026-03-09T11:01:21.839Z] [INFO] 처리 대상: 5개 기사
+[2026-03-09T11:01:21.839Z] [INFO] === 기사: source_10_1773054034553.json (from: 05-fact-checked) ===
+[2026-03-09T11:01:21.839Z] [INFO] [Stage4:에디터] source_10_1773054034553.json
+[2026-03-09T11:01:21.840Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source_10_1773054034553.json
+[2026-03-09T11:01:21.841Z] [INFO] [Stage5:교열] source_10_1773054034553.json
+[2026-03-09T11:01:21.843Z] [OK] [Stage5:교열] PASS (2297자, 0 changes) -> 07-copy-edited/: source_10_1773054034553.json
+[2026-03-09T11:01:21.844Z] [INFO] [Stage6:발행] source_10_1773054034553.json
+[2026-03-09T11:01:27.476Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/p/64947261-ce1e-4893-8d8f-753bae645b71/: source_10_1773054034553.json
+[2026-03-09T11:01:27.477Z] [OK] === 완료: source_10_1773054034553.json (5.6s) ===
+[2026-03-09T11:01:27.477Z] [INFO] === 기사: source_1_1773054034527.json (from: 05-fact-checked) ===
+[2026-03-09T11:01:27.477Z] [INFO] [Stage4:에디터] source_1_1773054034527.json
+[2026-03-09T11:01:27.484Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source_1_1773054034527.json
+[2026-03-09T11:01:27.485Z] [INFO] [Stage5:교열] source_1_1773054034527.json
+[2026-03-09T11:01:27.485Z] [OK] [Stage5:교열] PASS (2297자, 0 changes) -> 07-copy-edited/: source_1_1773054034527.json
+[2026-03-09T11:01:27.485Z] [INFO] [Stage6:발행] source_1_1773054034527.json
+[2026-03-09T11:01:33.430Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/p/fc14e795-703c-4ecd-b550-e08bd018a1f5/: source_1_1773054034527.json
+[2026-03-09T11:01:33.430Z] [OK] === 완료: source_1_1773054034527.json (6.0s) ===
+[2026-03-09T11:01:33.430Z] [INFO] === 기사: source_2_1773054034537.json (from: 05-fact-checked) ===
+[2026-03-09T11:01:33.430Z] [INFO] [Stage4:에디터] source_2_1773054034537.json
+[2026-03-09T11:01:33.431Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source_2_1773054034537.json
+[2026-03-09T11:01:33.431Z] [INFO] [Stage5:교열] source_2_1773054034537.json
+[2026-03-09T11:01:33.432Z] [OK] [Stage5:교열] PASS (2297자, 0 changes) -> 07-copy-edited/: source_2_1773054034537.json
+[2026-03-09T11:01:33.432Z] [INFO] [Stage6:발행] source_2_1773054034537.json
+[2026-03-09T11:01:38.649Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/p/fc3ee55b-f104-4213-8eda-5e81bd8f3d85/: source_2_1773054034537.json
+[2026-03-09T11:01:38.650Z] [OK] === 완료: source_2_1773054034537.json (5.2s) ===
+[2026-03-09T11:01:38.650Z] [INFO] === 기사: source_3_1773054034541.json (from: 05-fact-checked) ===
+[2026-03-09T11:01:38.650Z] [INFO] [Stage4:에디터] source_3_1773054034541.json
+[2026-03-09T11:01:38.653Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source_3_1773054034541.json
+[2026-03-09T11:01:38.653Z] [INFO] [Stage5:교열] source_3_1773054034541.json
+[2026-03-09T11:01:38.654Z] [OK] [Stage5:교열] PASS (2297자, 0 changes) -> 07-copy-edited/: source_3_1773054034541.json
+[2026-03-09T11:01:38.654Z] [INFO] [Stage6:발행] source_3_1773054034541.json
+[2026-03-09T11:01:43.857Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/p/8a180977-57e9-433b-9bc5-f45072360ac4/: source_3_1773054034541.json
+[2026-03-09T11:01:43.857Z] [OK] === 완료: source_3_1773054034541.json (5.2s) ===
+[2026-03-09T11:01:43.857Z] [INFO] === 기사: source_4_1773054034542.json (from: 05-fact-checked) ===
+[2026-03-09T11:01:43.857Z] [INFO] [Stage4:에디터] source_4_1773054034542.json
+[2026-03-09T11:01:43.858Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source_4_1773054034542.json
+[2026-03-09T11:01:43.858Z] [INFO] [Stage5:교열] source_4_1773054034542.json
+[2026-03-09T11:01:43.859Z] [OK] [Stage5:교열] PASS (2297자, 0 changes) -> 07-copy-edited/: source_4_1773054034542.json
+[2026-03-09T11:01:43.859Z] [INFO] [Stage6:발행] source_4_1773054034542.json
+[2026-03-09T11:01:49.171Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/p/efec0c5a-77b2-46d1-b0a2-b40de304750d/: source_4_1773054034542.json
+[2026-03-09T11:01:49.171Z] [OK] === 완료: source_4_1773054034542.json (5.3s) ===
+[2026-03-09T11:01:49.171Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-09T11:01:49.172Z] [INFO] Published: 5, Rejected: 0, Error: 0
+[2026-03-09T11:01:49.172Z] [INFO] Ghost URLs: https://insight.ubion.global/p/64947261-ce1e-4893-8d8f-753bae645b71/, https://insight.ubion.global/p/fc14e795-703c-4ecd-b550-e08bd018a1f5/, https://insight.ubion.global/p/fc3ee55b-f104-4213-8eda-5e81bd8f3d85/, https://insight.ubion.global/p/8a180977-57e9-433b-9bc5-f45072360ac4/, https://insight.ubion.global/p/efec0c5a-77b2-46d1-b0a2-b40de304750d/
+[2026-03-09T11:35:31.516Z] [INFO] Pipeline Runner 시작
+[2026-03-09T11:35:31.522Z] [INFO] 처리 대상: 5개 기사
+[2026-03-09T11:35:31.522Z] [INFO] === 기사: source_5_1773054034543.json (from: 05-fact-checked) ===
+[2026-03-09T11:35:31.523Z] [INFO] [Stage4:에디터] source_5_1773054034543.json
+[2026-03-09T11:35:31.528Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source_5_1773054034543.json
+[2026-03-09T11:35:31.528Z] [INFO] [Stage5:교열] source_5_1773054034543.json
+[2026-03-09T11:35:31.530Z] [OK] [Stage5:교열] PASS (2217자, 1 changes) -> 07-copy-edited/: source_5_1773054034543.json
+[2026-03-09T11:35:31.530Z] [INFO] [Stage6:발행] source_5_1773054034543.json
+[2026-03-09T11:35:36.935Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/p/6b703fbd-a11a-45f7-8e35-72aabea37d2f/: source_5_1773054034543.json
+[2026-03-09T11:35:36.935Z] [OK] === 완료: source_5_1773054034543.json (5.4s) ===
+[2026-03-09T11:35:36.935Z] [INFO] === 기사: source_6_1773054034545.json (from: 05-fact-checked) ===
+[2026-03-09T11:35:36.935Z] [INFO] [Stage4:에디터] source_6_1773054034545.json
+[2026-03-09T11:35:36.937Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source_6_1773054034545.json
+[2026-03-09T11:35:36.937Z] [INFO] [Stage5:교열] source_6_1773054034545.json
+[2026-03-09T11:35:36.949Z] [OK] [Stage5:교열] PASS (2357자, 1 changes) -> 07-copy-edited/: source_6_1773054034545.json
+[2026-03-09T11:35:36.949Z] [INFO] [Stage6:발행] source_6_1773054034545.json
+[2026-03-09T11:35:42.157Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/p/48820736-abf5-47dc-bc32-ccd16ef08929/: source_6_1773054034545.json
+[2026-03-09T11:35:42.158Z] [OK] === 완료: source_6_1773054034545.json (5.2s) ===
+[2026-03-09T11:35:42.158Z] [INFO] === 기사: source_7_1773054034546.json (from: 05-fact-checked) ===
+[2026-03-09T11:35:42.158Z] [INFO] [Stage4:에디터] source_7_1773054034546.json
+[2026-03-09T11:35:42.159Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source_7_1773054034546.json
+[2026-03-09T11:35:42.159Z] [INFO] [Stage5:교열] source_7_1773054034546.json
+[2026-03-09T11:35:42.160Z] [OK] [Stage5:교열] PASS (2854자, 1 changes) -> 07-copy-edited/: source_7_1773054034546.json
+[2026-03-09T11:35:42.160Z] [INFO] [Stage6:발행] source_7_1773054034546.json
+[2026-03-09T11:35:47.355Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/p/b72ff468-2617-4460-9159-cf0de014ec75/: source_7_1773054034546.json
+[2026-03-09T11:35:47.355Z] [OK] === 완료: source_7_1773054034546.json (5.2s) ===
+[2026-03-09T11:35:47.355Z] [INFO] === 기사: source_8_1773054034549.json (from: 05-fact-checked) ===
+[2026-03-09T11:35:47.355Z] [INFO] [Stage4:에디터] source_8_1773054034549.json
+[2026-03-09T11:35:47.358Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source_8_1773054034549.json
+[2026-03-09T11:35:47.358Z] [INFO] [Stage5:교열] source_8_1773054034549.json
+[2026-03-09T11:35:47.359Z] [OK] [Stage5:교열] PASS (2629자, 1 changes) -> 07-copy-edited/: source_8_1773054034549.json
+[2026-03-09T11:35:47.359Z] [INFO] [Stage6:발행] source_8_1773054034549.json
+[2026-03-09T11:35:52.554Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/p/b1110be6-d775-480c-8da9-1ff6810a4291/: source_8_1773054034549.json
+[2026-03-09T11:35:52.554Z] [OK] === 완료: source_8_1773054034549.json (5.2s) ===
+[2026-03-09T11:35:52.554Z] [INFO] === 기사: source_9_1773054034552.json (from: 05-fact-checked) ===
+[2026-03-09T11:35:52.554Z] [INFO] [Stage4:에디터] source_9_1773054034552.json
+[2026-03-09T11:35:52.557Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source_9_1773054034552.json
+[2026-03-09T11:35:52.557Z] [INFO] [Stage5:교열] source_9_1773054034552.json
+[2026-03-09T11:35:52.558Z] [OK] [Stage5:교열] PASS (3311자, 1 changes) -> 07-copy-edited/: source_9_1773054034552.json
+[2026-03-09T11:35:52.558Z] [INFO] [Stage6:발행] source_9_1773054034552.json
+[2026-03-09T11:35:58.387Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/p/558f08cf-45ce-4c83-87b7-9d5739fb03cd/: source_9_1773054034552.json
+[2026-03-09T11:35:58.389Z] [OK] === 완료: source_9_1773054034552.json (5.8s) ===
+[2026-03-09T11:35:58.390Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-09T11:35:58.390Z] [INFO] Published: 5, Rejected: 0, Error: 0
+[2026-03-09T11:35:58.390Z] [INFO] Ghost URLs: https://insight.ubion.global/p/6b703fbd-a11a-45f7-8e35-72aabea37d2f/, https://insight.ubion.global/p/48820736-abf5-47dc-bc32-ccd16ef08929/, https://insight.ubion.global/p/b72ff468-2617-4460-9159-cf0de014ec75/, https://insight.ubion.global/p/b1110be6-d775-480c-8da9-1ff6810a4291/, https://insight.ubion.global/p/558f08cf-45ce-4c83-87b7-9d5739fb03cd/
+[2026-03-09T12:00:48.960Z] [INFO] Pipeline Runner 시작
+[2026-03-09T12:00:48.963Z] [INFO] 처리할 기사 없음
+[2026-03-09T13:32:55.894Z] [INFO] Pipeline Runner 시작
+[2026-03-09T13:32:55.905Z] [INFO] 처리 대상: 3개 기사
+[2026-03-09T13:32:55.905Z] [INFO] === 기사: commerce-senate-ai-education-bill-20260303.json (from: 05-fact-checked) ===
+[2026-03-09T13:32:55.906Z] [INFO] [Stage4:에디터] commerce-senate-ai-education-bill-20260303.json
+[2026-03-09T13:32:55.907Z] [WARN] [Stage4] 본문 1494자 미만 -> rejected: commerce-senate-ai-education-bill-20260303.json
+[2026-03-09T13:32:55.910Z] [INFO] === 기사: korea-kr-ai-hub-schools-20260309.json (from: 05-fact-checked) ===
+[2026-03-09T13:32:55.911Z] [INFO] [Stage4:에디터] korea-kr-ai-hub-schools-20260309.json
+[2026-03-09T13:32:55.912Z] [WARN] [Stage4] 본문 1265자 미만 -> rejected: korea-kr-ai-hub-schools-20260309.json
+[2026-03-09T13:32:55.914Z] [INFO] === 기사: mt-ai-education-mandatory-20260303.json (from: 05-fact-checked) ===
+[2026-03-09T13:32:55.915Z] [INFO] [Stage4:에디터] mt-ai-education-mandatory-20260303.json
+[2026-03-09T13:32:55.917Z] [WARN] [Stage4] 본문 1426자 미만 -> rejected: mt-ai-education-mandatory-20260303.json
+[2026-03-09T13:32:55.917Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-09T13:32:55.918Z] [INFO] Published: 0, Rejected: 3, Error: 0
+[2026-03-09T13:33:24.265Z] [INFO] Pipeline Runner 시작
+[2026-03-09T13:33:24.269Z] [INFO] 처리 대상: 102개 기사
+[2026-03-09T13:33:24.270Z] [INFO] === 기사: 2026-03-02_11-23_aitimes-ai-action-plan.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:24.270Z] [INFO] [Stage4:에디터] 2026-03-02_11-23_aitimes-ai-action-plan.json
+[2026-03-09T13:33:24.271Z] [WARN] [Stage4] 본문 1384자 미만 -> rejected: 2026-03-02_11-23_aitimes-ai-action-plan.json
+[2026-03-09T13:33:24.272Z] [INFO] === 기사: 2026-03-02_11-23_hani-ai-ethics-guideline.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:24.272Z] [INFO] [Stage4:에디터] 2026-03-02_11-23_hani-ai-ethics-guideline.json
+[2026-03-09T13:33:24.273Z] [WARN] [Stage4] 본문 1496자 미만 -> rejected: 2026-03-02_11-23_hani-ai-ethics-guideline.json
+[2026-03-09T13:33:24.275Z] [INFO] === 기사: 2026-03-02_11-23_herald-ai-regulation-80pct.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:24.275Z] [INFO] [Stage4:에디터] 2026-03-02_11-23_herald-ai-regulation-80pct.json
+[2026-03-09T13:33:24.277Z] [WARN] [Stage4] 본문 1575자 미만 -> rejected: 2026-03-02_11-23_herald-ai-regulation-80pct.json
+[2026-03-09T13:33:24.278Z] [INFO] === 기사: 2026-03-02_11-23_koreatimes-korea-univ-ai.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:24.278Z] [INFO] [Stage4:에디터] 2026-03-02_11-23_koreatimes-korea-univ-ai.json
+[2026-03-09T13:33:24.279Z] [WARN] [Stage4] 본문 1397자 미만 -> rejected: 2026-03-02_11-23_koreatimes-korea-univ-ai.json
+[2026-03-09T13:33:24.279Z] [INFO] === 기사: 2026-03-02_11-23_mk-ai-cheating-prevention.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:24.279Z] [INFO] [Stage4:에디터] 2026-03-02_11-23_mk-ai-cheating-prevention.json
+[2026-03-09T13:33:24.283Z] [WARN] [Stage4] 본문 1182자 미만 -> rejected: 2026-03-02_11-23_mk-ai-cheating-prevention.json
+[2026-03-09T13:33:24.286Z] [INFO] === 기사: 2026-03-02_11-53_kjob-uk-us-ai-governance-korea.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:24.286Z] [INFO] [Stage4:에디터] 2026-03-02_11-53_kjob-uk-us-ai-governance-korea.json
+[2026-03-09T13:33:24.287Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 2026-03-02_11-53_kjob-uk-us-ai-governance-korea.json
+[2026-03-09T13:33:24.287Z] [INFO] [Stage5:교열] 2026-03-02_11-53_kjob-uk-us-ai-governance-korea.json
+[2026-03-09T13:33:24.291Z] [OK] [Stage5:교열] PASS (1892자, 1 changes) -> 07-copy-edited/: 2026-03-02_11-53_kjob-uk-us-ai-governance-korea.json
+[2026-03-09T13:33:24.291Z] [INFO] [Stage6:발행] 2026-03-02_11-53_kjob-uk-us-ai-governance-korea.json
+[2026-03-09T13:33:30.505Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/kjob-uk-us-ai-governance-korea-4/: 2026-03-02_11-53_kjob-uk-us-ai-governance-korea.json
+[2026-03-09T13:33:30.505Z] [OK] === 완료: 2026-03-02_11-53_kjob-uk-us-ai-governance-korea.json (6.2s) ===
+[2026-03-09T13:33:30.505Z] [INFO] === 기사: 2026-03-02_18-00_inews365-kttu-ai-bootcamp.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:30.505Z] [INFO] [Stage4:에디터] 2026-03-02_18-00_inews365-kttu-ai-bootcamp.json
+[2026-03-09T13:33:30.506Z] [WARN] [Stage4] 본문 1408자 미만 -> rejected: 2026-03-02_18-00_inews365-kttu-ai-bootcamp.json
+[2026-03-09T13:33:30.507Z] [INFO] === 기사: 2026-03-03_01-49_jeonmae-seoul-ai-guideline.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:30.507Z] [INFO] [Stage4:에디터] 2026-03-03_01-49_jeonmae-seoul-ai-guideline.json
+[2026-03-09T13:33:30.508Z] [WARN] [Stage4] 본문 1453자 미만 -> rejected: 2026-03-03_01-49_jeonmae-seoul-ai-guideline.json
+[2026-03-09T13:33:30.509Z] [INFO] === 기사: 2026-03-03_09-46_moe-ai-ethics-guideline.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:30.509Z] [INFO] [Stage4:에디터] 2026-03-03_09-46_moe-ai-ethics-guideline.json
+[2026-03-09T13:33:30.510Z] [WARN] [Stage4] 본문 1409자 미만 -> rejected: 2026-03-03_09-46_moe-ai-ethics-guideline.json
+[2026-03-09T13:33:30.510Z] [INFO] === 기사: 2026-03-03_16-19_california-ai-safeguards-elementary.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:30.510Z] [INFO] [Stage4:에디터] 2026-03-03_16-19_california-ai-safeguards-elementary.json
+[2026-03-09T13:33:30.512Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 2026-03-03_16-19_california-ai-safeguards-elementary.json
+[2026-03-09T13:33:30.512Z] [INFO] [Stage5:교열] 2026-03-03_16-19_california-ai-safeguards-elementary.json
+[2026-03-09T13:33:30.513Z] [WARN] [Stage5] 본문 1598자 미만 -> rejected: 2026-03-03_16-19_california-ai-safeguards-elementary.json
+[2026-03-09T13:33:30.513Z] [INFO] === 기사: 2026-03-03_16-19_us-house-hearing-ai-teacher-training.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:30.513Z] [INFO] [Stage4:에디터] 2026-03-03_16-19_us-house-hearing-ai-teacher-training.json
+[2026-03-09T13:33:30.516Z] [WARN] [Stage4] 본문 1318자 미만 -> rejected: 2026-03-03_16-19_us-house-hearing-ai-teacher-training.json
+[2026-03-09T13:33:30.518Z] [INFO] === 기사: 2026-03-03_17-17_nyt-ai-literacy-newark-school.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:30.519Z] [INFO] [Stage4:에디터] 2026-03-03_17-17_nyt-ai-literacy-newark-school.json
+[2026-03-09T13:33:30.519Z] [WARN] [Stage4] 본문 1341자 미만 -> rejected: 2026-03-03_17-17_nyt-ai-literacy-newark-school.json
+[2026-03-09T13:33:30.521Z] [INFO] === 기사: 2026-03-03_17-17_virginia-ai-education-guardrails-bill.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:30.521Z] [INFO] [Stage4:에디터] 2026-03-03_17-17_virginia-ai-education-guardrails-bill.json
+[2026-03-09T13:33:30.523Z] [WARN] [Stage4] 본문 1263자 미만 -> rejected: 2026-03-03_17-17_virginia-ai-education-guardrails-bill.json
+[2026-03-09T13:33:30.524Z] [INFO] === 기사: 2026-03-03_17-37_philippines-deped-ai-guidelines-facial-ban.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:30.524Z] [INFO] [Stage4:에디터] 2026-03-03_17-37_philippines-deped-ai-guidelines-facial-ban.json
+[2026-03-09T13:33:30.526Z] [WARN] [Stage4] 본문 1141자 미만 -> rejected: 2026-03-03_17-37_philippines-deped-ai-guidelines-facial-ban.json
+[2026-03-09T13:33:30.526Z] [INFO] === 기사: 2026-03-03_1701_ai-ethics-guideline.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:30.527Z] [INFO] [Stage4:에디터] 2026-03-03_1701_ai-ethics-guideline.json
+[2026-03-09T13:33:30.528Z] [WARN] [Stage4] 본문 1140자 미만 -> rejected: 2026-03-03_1701_ai-ethics-guideline.json
+[2026-03-09T13:33:30.529Z] [INFO] === 기사: 2026-03-03_1701_seoul-ai-guideline.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:30.529Z] [INFO] [Stage4:에디터] 2026-03-03_1701_seoul-ai-guideline.json
+[2026-03-09T13:33:30.530Z] [WARN] [Stage4] 본문 1144자 미만 -> rejected: 2026-03-03_1701_seoul-ai-guideline.json
+[2026-03-09T13:33:30.532Z] [INFO] === 기사: 2026-03-04_00-12_k12dive-states-ban-edtech-generative-ai.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:30.533Z] [INFO] [Stage4:에디터] 2026-03-04_00-12_k12dive-states-ban-edtech-generative-ai.json
+[2026-03-09T13:33:30.534Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 2026-03-04_00-12_k12dive-states-ban-edtech-generative-ai.json
+[2026-03-09T13:33:30.534Z] [INFO] [Stage5:교열] 2026-03-04_00-12_k12dive-states-ban-edtech-generative-ai.json
+[2026-03-09T13:33:30.536Z] [OK] [Stage5:교열] PASS (2007자, 1 changes) -> 07-copy-edited/: 2026-03-04_00-12_k12dive-states-ban-edtech-generative-ai.json
+[2026-03-09T13:33:30.537Z] [INFO] [Stage6:발행] 2026-03-04_00-12_k12dive-states-ban-edtech-generative-ai.json
+[2026-03-09T13:33:35.739Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/k12dive-states-ban-edtech-generative-ai-3/: 2026-03-04_00-12_k12dive-states-ban-edtech-generative-ai.json
+[2026-03-09T13:33:35.740Z] [OK] === 완료: 2026-03-04_00-12_k12dive-states-ban-edtech-generative-ai.json (5.2s) ===
+[2026-03-09T13:33:35.740Z] [INFO] === 기사: 2026-03-04_01-12_edweek-teens-ai-college-research.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:35.740Z] [INFO] [Stage4:에디터] 2026-03-04_01-12_edweek-teens-ai-college-research.json
+[2026-03-09T13:33:35.746Z] [WARN] [Stage4] 본문 1499자 미만 -> rejected: 2026-03-04_01-12_edweek-teens-ai-college-research.json
+[2026-03-09T13:33:35.753Z] [INFO] === 기사: 2026-03-04_02_u-s-schools-are-betting-big-on-a-i-will-.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:35.754Z] [INFO] [Stage4:에디터] 2026-03-04_02_u-s-schools-are-betting-big-on-a-i-will-.json
+[2026-03-09T13:33:35.757Z] [WARN] [Stage4] 본문 675자 미만 -> rejected: 2026-03-04_02_u-s-schools-are-betting-big-on-a-i-will-.json
+[2026-03-09T13:33:35.759Z] [INFO] === 기사: 2026-03-04_14-41_lg-ai-graduate-school-opens.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:35.760Z] [INFO] [Stage4:에디터] 2026-03-04_14-41_lg-ai-graduate-school-opens.json
+[2026-03-09T13:33:35.761Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 2026-03-04_14-41_lg-ai-graduate-school-opens.json
+[2026-03-09T13:33:35.761Z] [INFO] [Stage5:교열] 2026-03-04_14-41_lg-ai-graduate-school-opens.json
+[2026-03-09T13:33:35.762Z] [OK] [Stage5:교열] PASS (1685자, 1 changes) -> 07-copy-edited/: 2026-03-04_14-41_lg-ai-graduate-school-opens.json
+[2026-03-09T13:33:35.762Z] [INFO] [Stage6:발행] 2026-03-04_14-41_lg-ai-graduate-school-opens.json
+[2026-03-09T13:33:41.941Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/lg-ai-graduate-school-opens-5/: 2026-03-04_14-41_lg-ai-graduate-school-opens.json
+[2026-03-09T13:33:41.941Z] [OK] === 완료: 2026-03-04_14-41_lg-ai-graduate-school-opens.json (6.2s) ===
+[2026-03-09T13:33:41.942Z] [INFO] === 기사: 2026-03-05_0001_lg-ai-graduate-school.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:41.942Z] [INFO] [Stage4:에디터] 2026-03-05_0001_lg-ai-graduate-school.json
+[2026-03-09T13:33:41.942Z] [WARN] [Stage4] 본문 519자 미만 -> rejected: 2026-03-05_0001_lg-ai-graduate-school.json
+[2026-03-09T13:33:41.943Z] [INFO] === 기사: 2026-03-05_01_states-responsible-ai-education.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:41.943Z] [INFO] [Stage4:에디터] 2026-03-05_01_states-responsible-ai-education.json
+[2026-03-09T13:33:41.944Z] [WARN] [Stage4] 본문 584자 미만 -> rejected: 2026-03-05_01_states-responsible-ai-education.json
+[2026-03-09T13:33:41.945Z] [INFO] === 기사: 2026-03-06_08-10_41-universities-advanced-bootcamp-ai.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:41.945Z] [INFO] [Stage4:에디터] 2026-03-06_08-10_41-universities-advanced-bootcamp-ai.json
+[2026-03-09T13:33:41.945Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-06_08-10_41-universities-advanced-bootcamp-ai.json
+[2026-03-09T13:33:41.945Z] [INFO] === 기사: 2026-03-06_09-11_future-strategy-academy-ai-curriculum.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:41.945Z] [INFO] [Stage4:에디터] 2026-03-06_09-11_future-strategy-academy-ai-curriculum.json
+[2026-03-09T13:33:41.945Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-06_09-11_future-strategy-academy-ai-curriculum.json
+[2026-03-09T13:33:41.945Z] [INFO] === 기사: 2026-03-06_10-11_seoul-youth-academy-ai.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:41.945Z] [INFO] [Stage4:에디터] 2026-03-06_10-11_seoul-youth-academy-ai.json
+[2026-03-09T13:33:41.946Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-06_10-11_seoul-youth-academy-ai.json
+[2026-03-09T13:33:41.946Z] [INFO] === 기사: 2026-03-06_12-11_ai-education-direction.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:41.946Z] [INFO] [Stage4:에디터] 2026-03-06_12-11_ai-education-direction.json
+[2026-03-09T13:33:41.946Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-06_12-11_ai-education-direction.json
+[2026-03-09T13:33:41.947Z] [INFO] === 기사: 2026-03-06_12-11_ai-regulation-2026.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:41.947Z] [INFO] [Stage4:에디터] 2026-03-06_12-11_ai-regulation-2026.json
+[2026-03-09T13:33:41.948Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-06_12-11_ai-regulation-2026.json
+[2026-03-09T13:33:41.948Z] [INFO] === 기사: 2026-03-06_15-18_kyosu-ai-ethics-guideline.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:41.948Z] [INFO] [Stage4:에디터] 2026-03-06_15-18_kyosu-ai-ethics-guideline.json
+[2026-03-09T13:33:41.948Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-06_15-18_kyosu-ai-ethics-guideline.json
+[2026-03-09T13:33:41.948Z] [INFO] === 기사: 2026-03-06_23-16_Koo-Kwang-mo-Raising-AI-Talent.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:41.948Z] [INFO] [Stage4:에디터] 2026-03-06_23-16_Koo-Kwang-mo-Raising-AI-Talent.json
+[2026-03-09T13:33:41.949Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 2026-03-06_23-16_Koo-Kwang-mo-Raising-AI-Talent.json
+[2026-03-09T13:33:41.949Z] [INFO] [Stage5:교열] 2026-03-06_23-16_Koo-Kwang-mo-Raising-AI-Talent.json
+[2026-03-09T13:33:41.950Z] [WARN] [Stage5] 본문 1519자 미만 -> rejected: 2026-03-06_23-16_Koo-Kwang-mo-Raising-AI-Talent.json
+[2026-03-09T13:33:41.950Z] [INFO] === 기사: 2026-03-06_23-16_LG-govt-backed-AI-graduate-schoo.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:41.950Z] [INFO] [Stage4:에디터] 2026-03-06_23-16_LG-govt-backed-AI-graduate-schoo.json
+[2026-03-09T13:33:41.950Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-06_23-16_LG-govt-backed-AI-graduate-schoo.json
+[2026-03-09T13:33:41.950Z] [INFO] === 기사: 2026-03-06_23-46_ai-mandatory-general-ed.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:41.950Z] [INFO] [Stage4:에디터] 2026-03-06_23-46_ai-mandatory-general-ed.json
+[2026-03-09T13:33:41.950Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-06_23-46_ai-mandatory-general-ed.json
+[2026-03-09T13:33:41.950Z] [INFO] === 기사: 2026-03-06_23-46_lg-ai-graduate-school-kt.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:41.950Z] [INFO] [Stage4:에디터] 2026-03-06_23-46_lg-ai-graduate-school-kt.json
+[2026-03-09T13:33:41.951Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-06_23-46_lg-ai-graduate-school-kt.json
+[2026-03-09T13:33:41.951Z] [INFO] === 기사: 2026-03-06_23-46_university-ai-education-expansion.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:41.951Z] [INFO] [Stage4:에디터] 2026-03-06_23-46_university-ai-education-expansion.json
+[2026-03-09T13:33:41.951Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-06_23-46_university-ai-education-expansion.json
+[2026-03-09T13:33:41.951Z] [INFO] === 기사: 2026-03-07_02-20_seongdong-ai-youth-academy.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:41.951Z] [INFO] [Stage4:에디터] 2026-03-07_02-20_seongdong-ai-youth-academy.json
+[2026-03-09T13:33:41.951Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-07_02-20_seongdong-ai-youth-academy.json
+[2026-03-09T13:33:41.951Z] [INFO] === 기사: 2026-03-07_04-51_ai-gyoyuk-hwangyeong-jeollyak.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:41.951Z] [INFO] [Stage4:에디터] 2026-03-07_04-51_ai-gyoyuk-hwangyeong-jeollyak.json
+[2026-03-09T13:33:41.951Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-07_04-51_ai-gyoyuk-hwangyeong-jeollyak.json
+[2026-03-09T13:33:41.952Z] [INFO] === 기사: 2026-03-07_05-25_ai-career-counseling-paper-kci.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:41.952Z] [INFO] [Stage4:에디터] 2026-03-07_05-25_ai-career-counseling-paper-kci.json
+[2026-03-09T13:33:41.953Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 2026-03-07_05-25_ai-career-counseling-paper-kci.json
+[2026-03-09T13:33:41.953Z] [INFO] [Stage5:교열] 2026-03-07_05-25_ai-career-counseling-paper-kci.json
+[2026-03-09T13:33:41.954Z] [WARN] [Stage5] 본문 30자 미만 -> rejected: 2026-03-07_05-25_ai-career-counseling-paper-kci.json
+[2026-03-09T13:33:41.954Z] [INFO] === 기사: 2026-03-07_06-25_daegu-ai-bootcamp.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:41.954Z] [INFO] [Stage4:에디터] 2026-03-07_06-25_daegu-ai-bootcamp.json
+[2026-03-09T13:33:41.955Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 2026-03-07_06-25_daegu-ai-bootcamp.json
+[2026-03-09T13:33:41.955Z] [INFO] [Stage5:교열] 2026-03-07_06-25_daegu-ai-bootcamp.json
+[2026-03-09T13:33:41.956Z] [OK] [Stage5:교열] PASS (1793자, 1 changes) -> 07-copy-edited/: 2026-03-07_06-25_daegu-ai-bootcamp.json
+[2026-03-09T13:33:41.956Z] [INFO] [Stage6:발행] 2026-03-07_06-25_daegu-ai-bootcamp.json
+[2026-03-09T13:33:48.276Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/daegu-ai-bootcamp/: 2026-03-07_06-25_daegu-ai-bootcamp.json
+[2026-03-09T13:33:48.277Z] [OK] === 완료: 2026-03-07_06-25_daegu-ai-bootcamp.json (6.3s) ===
+[2026-03-09T13:33:48.277Z] [INFO] === 기사: 2026-03-07_06-55_ai-ro-byeonhwa-hangug-gyoyug-2026.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:48.277Z] [INFO] [Stage4:에디터] 2026-03-07_06-55_ai-ro-byeonhwa-hangug-gyoyug-2026.json
+[2026-03-09T13:33:48.279Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 2026-03-07_06-55_ai-ro-byeonhwa-hangug-gyoyug-2026.json
+[2026-03-09T13:33:48.280Z] [INFO] [Stage5:교열] 2026-03-07_06-55_ai-ro-byeonhwa-hangug-gyoyug-2026.json
+[2026-03-09T13:33:48.282Z] [OK] [Stage5:교열] PASS (2026자, 1 changes) -> 07-copy-edited/: 2026-03-07_06-55_ai-ro-byeonhwa-hangug-gyoyug-2026.json
+[2026-03-09T13:33:48.282Z] [INFO] [Stage6:발행] 2026-03-07_06-55_ai-ro-byeonhwa-hangug-gyoyug-2026.json
+[2026-03-09T13:33:54.279Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/ai-ro-byeonhwa-hangug-gyoyug-2026/: 2026-03-07_06-55_ai-ro-byeonhwa-hangug-gyoyug-2026.json
+[2026-03-09T13:33:54.279Z] [OK] === 완료: 2026-03-07_06-55_ai-ro-byeonhwa-hangug-gyoyug-2026.json (6.0s) ===
+[2026-03-09T13:33:54.279Z] [INFO] === 기사: 2026-03-07_23-02_hannamuniv-ai-bootcamp.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.279Z] [INFO] [Stage4:에디터] 2026-03-07_23-02_hannamuniv-ai-bootcamp.json
+[2026-03-09T13:33:54.281Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-07_23-02_hannamuniv-ai-bootcamp.json
+[2026-03-09T13:33:54.282Z] [INFO] === 기사: 2026-03-08_00-16_ai-career-counseling-paper.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.282Z] [INFO] [Stage4:에디터] 2026-03-08_00-16_ai-career-counseling-paper.json
+[2026-03-09T13:33:54.282Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-08_00-16_ai-career-counseling-paper.json
+[2026-03-09T13:33:54.282Z] [INFO] === 기사: 2026-03-08_00-16_ai-innovating-education-strategy.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.282Z] [INFO] [Stage4:에디터] 2026-03-08_00-16_ai-innovating-education-strategy.json
+[2026-03-09T13:33:54.283Z] [WARN] [Stage4] 본문 1423자 미만 -> rejected: 2026-03-08_00-16_ai-innovating-education-strategy.json
+[2026-03-09T13:33:54.283Z] [INFO] === 기사: 2026-03-08_00-16_ai-innovation-korea-response-strategy.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.283Z] [INFO] [Stage4:에디터] 2026-03-08_00-16_ai-innovation-korea-response-strategy.json
+[2026-03-09T13:33:54.283Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-08_00-16_ai-innovation-korea-response-strategy.json
+[2026-03-09T13:33:54.283Z] [INFO] === 기사: 2026-03-08_00-16_daegu-ai-robot-bootcamp.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.283Z] [INFO] [Stage4:에디터] 2026-03-08_00-16_daegu-ai-robot-bootcamp.json
+[2026-03-09T13:33:54.283Z] [WARN] [Stage4] 본문 1284자 미만 -> rejected: 2026-03-08_00-16_daegu-ai-robot-bootcamp.json
+[2026-03-09T13:33:54.284Z] [INFO] === 기사: 2026-03-08_00-16_hannam-univ-ai-bootcamp.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.284Z] [INFO] [Stage4:에디터] 2026-03-08_00-16_hannam-univ-ai-bootcamp.json
+[2026-03-09T13:33:54.284Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-08_00-16_hannam-univ-ai-bootcamp.json
+[2026-03-09T13:33:54.284Z] [INFO] === 기사: 2026-03-08_00-16_lg-ai-grad-school-1conomy.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.284Z] [INFO] [Stage4:에디터] 2026-03-08_00-16_lg-ai-grad-school-1conomy.json
+[2026-03-09T13:33:54.284Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-08_00-16_lg-ai-grad-school-1conomy.json
+[2026-03-09T13:33:54.284Z] [INFO] === 기사: 2026-03-08_00-16_lg-ai-grad-school-en-chosun.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.284Z] [INFO] [Stage4:에디터] 2026-03-08_00-16_lg-ai-grad-school-en-chosun.json
+[2026-03-09T13:33:54.284Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-08_00-16_lg-ai-grad-school-en-chosun.json
+[2026-03-09T13:33:54.284Z] [INFO] === 기사: 2026-03-08_00-16_lg-ai-grad-school-en-joongang.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.284Z] [INFO] [Stage4:에디터] 2026-03-08_00-16_lg-ai-grad-school-en-joongang.json
+[2026-03-09T13:33:54.284Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-08_00-16_lg-ai-grad-school-en-joongang.json
+[2026-03-09T13:33:54.284Z] [INFO] === 기사: 2026-03-08_00-16_lg-ai-grad-school-mk.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.284Z] [INFO] [Stage4:에디터] 2026-03-08_00-16_lg-ai-grad-school-mk.json
+[2026-03-09T13:33:54.284Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-08_00-16_lg-ai-grad-school-mk.json
+[2026-03-09T13:33:54.285Z] [INFO] === 기사: 2026-03-08_00-16_lg-ai-grad-school-tistory.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.285Z] [INFO] [Stage4:에디터] 2026-03-08_00-16_lg-ai-grad-school-tistory.json
+[2026-03-09T13:33:54.285Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-08_00-16_lg-ai-grad-school-tistory.json
+[2026-03-09T13:33:54.285Z] [INFO] === 기사: 2026-03-08_00-16_lg-ai-graduate-school-policy-briefing.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.291Z] [INFO] [Stage4:에디터] 2026-03-08_00-16_lg-ai-graduate-school-policy-briefing.json
+[2026-03-09T13:33:54.292Z] [WARN] [Stage4] 본문 1330자 미만 -> rejected: 2026-03-08_00-16_lg-ai-graduate-school-policy-briefing.json
+[2026-03-09T13:33:54.293Z] [INFO] === 기사: 2026-03-08_00-16_uos-ai-bootcamp-selected.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.293Z] [INFO] [Stage4:에디터] 2026-03-08_00-16_uos-ai-bootcamp-selected.json
+[2026-03-09T13:33:54.293Z] [WARN] [Stage4] 본문 1179자 미만 -> rejected: 2026-03-08_00-16_uos-ai-bootcamp-selected.json
+[2026-03-09T13:33:54.294Z] [INFO] === 기사: 2026-03-08_07-11_chungbuk-ib-education-ai-forum.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.294Z] [INFO] [Stage4:에디터] 2026-03-08_07-11_chungbuk-ib-education-ai-forum.json
+[2026-03-09T13:33:54.294Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-08_07-11_chungbuk-ib-education-ai-forum.json
+[2026-03-09T13:33:54.294Z] [INFO] === 기사: 2026-03-08_07-11_korea-education-ai-2026-personalized.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.294Z] [INFO] [Stage4:에디터] 2026-03-08_07-11_korea-education-ai-2026-personalized.json
+[2026-03-09T13:33:54.294Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-08_07-11_korea-education-ai-2026-personalized.json
+[2026-03-09T13:33:54.294Z] [INFO] === 기사: 2026-03-08_07-11_lg-ai-graduate-school-launch.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.294Z] [INFO] [Stage4:에디터] 2026-03-08_07-11_lg-ai-graduate-school-launch.json
+[2026-03-09T13:33:54.294Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-08_07-11_lg-ai-graduate-school-launch.json
+[2026-03-09T13:33:54.295Z] [INFO] === 기사: 2026-03-08_07-11_mandatory-ai-education-k12.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.295Z] [INFO] [Stage4:에디터] 2026-03-08_07-11_mandatory-ai-education-k12.json
+[2026-03-09T13:33:54.295Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-08_07-11_mandatory-ai-education-k12.json
+[2026-03-09T13:33:54.295Z] [INFO] === 기사: 2026-03-08_07-11_moe-41-universities-ai-bootcamp.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.295Z] [INFO] [Stage4:에디터] 2026-03-08_07-11_moe-41-universities-ai-bootcamp.json
+[2026-03-09T13:33:54.295Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-08_07-11_moe-41-universities-ai-bootcamp.json
+[2026-03-09T13:33:54.295Z] [INFO] === 기사: 2026-03-08_07-11_moe-university-ai-ethics-guidelines.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.295Z] [INFO] [Stage4:에디터] 2026-03-08_07-11_moe-university-ai-ethics-guidelines.json
+[2026-03-09T13:33:54.295Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-08_07-11_moe-university-ai-ethics-guidelines.json
+[2026-03-09T13:33:54.295Z] [INFO] === 기사: 2026-03-08_07-11_politico-korea-loves-ai.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.295Z] [INFO] [Stage4:에디터] 2026-03-08_07-11_politico-korea-loves-ai.json
+[2026-03-09T13:33:54.296Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-08_07-11_politico-korea-loves-ai.json
+[2026-03-09T13:33:54.296Z] [INFO] === 기사: 2026-03-08_07-11_school-smart-device-legal-restriction.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.296Z] [INFO] [Stage4:에디터] 2026-03-08_07-11_school-smart-device-legal-restriction.json
+[2026-03-09T13:33:54.296Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-08_07-11_school-smart-device-legal-restriction.json
+[2026-03-09T13:33:54.296Z] [INFO] === 기사: 2026-03-08_07-11_universities-ai-mandatory-literacy.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.296Z] [INFO] [Stage4:에디터] 2026-03-08_07-11_universities-ai-mandatory-literacy.json
+[2026-03-09T13:33:54.296Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-08_07-11_universities-ai-mandatory-literacy.json
+[2026-03-09T13:33:54.296Z] [INFO] === 기사: 2026-03-08_22-48_lg-ai-graduate-school-koreatimes.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.296Z] [INFO] [Stage4:에디터] 2026-03-08_22-48_lg-ai-graduate-school-koreatimes.json
+[2026-03-09T13:33:54.296Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-08_22-48_lg-ai-graduate-school-koreatimes.json
+[2026-03-09T13:33:54.297Z] [INFO] === 기사: 2026-03-09_06-25_jungso-ai-training-platform.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.297Z] [INFO] [Stage4:에디터] 2026-03-09_06-25_jungso-ai-training-platform.json
+[2026-03-09T13:33:54.297Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-09_06-25_jungso-ai-training-platform.json
+[2026-03-09T13:33:54.297Z] [INFO] === 기사: 2026-03-09_13-22_2026-educational-paradigm-research.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.297Z] [INFO] [Stage4:에디터] 2026-03-09_13-22_2026-educational-paradigm-research.json
+[2026-03-09T13:33:54.297Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-09_13-22_2026-educational-paradigm-research.json
+[2026-03-09T13:33:54.297Z] [INFO] === 기사: 2026-03-09_13-22_ai-education-statistics-2026.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.297Z] [INFO] [Stage4:에디터] 2026-03-09_13-22_ai-education-statistics-2026.json
+[2026-03-09T13:33:54.297Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-09_13-22_ai-education-statistics-2026.json
+[2026-03-09T13:33:54.297Z] [INFO] === 기사: 2026-03-09_13-22_ai-teacher-role-evolving.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.297Z] [INFO] [Stage4:에디터] 2026-03-09_13-22_ai-teacher-role-evolving.json
+[2026-03-09T13:33:54.298Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-09_13-22_ai-teacher-role-evolving.json
+[2026-03-09T13:33:54.298Z] [INFO] === 기사: 2026-03-09_13-22_students-using-ai-2026-agency.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.298Z] [INFO] [Stage4:에디터] 2026-03-09_13-22_students-using-ai-2026-agency.json
+[2026-03-09T13:33:54.298Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-09_13-22_students-using-ai-2026-agency.json
+[2026-03-09T13:33:54.298Z] [INFO] === 기사: 2026-03-09_13-22_three-best-uses-ai-education-2026.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.298Z] [INFO] [Stage4:에디터] 2026-03-09_13-22_three-best-uses-ai-education-2026.json
+[2026-03-09T13:33:54.298Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-09_13-22_three-best-uses-ai-education-2026.json
+[2026-03-09T13:33:54.298Z] [INFO] === 기사: 2026-03-09_13-22_us-k12-education-policy-feb-2026.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.298Z] [INFO] [Stage4:에디터] 2026-03-09_13-22_us-k12-education-policy-feb-2026.json
+[2026-03-09T13:33:54.298Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-09_13-22_us-k12-education-policy-feb-2026.json
+[2026-03-09T13:33:54.299Z] [INFO] === 기사: 2026-03-09_14-00_ai-reshaping-higher-ed-asia-pacific.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.299Z] [INFO] [Stage4:에디터] 2026-03-09_14-00_ai-reshaping-higher-ed-asia-pacific.json
+[2026-03-09T13:33:54.299Z] [WARN] [Stage4] 본문 1505자 미만 -> rejected: 2026-03-09_14-00_ai-reshaping-higher-ed-asia-pacific.json
+[2026-03-09T13:33:54.299Z] [INFO] === 기사: 2026-03-09_14-00_joongboo-ai-literacy-column.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.299Z] [INFO] [Stage4:에디터] 2026-03-09_14-00_joongboo-ai-literacy-column.json
+[2026-03-09T13:33:54.300Z] [WARN] [Stage4] 본문 1465자 미만 -> rejected: 2026-03-09_14-00_joongboo-ai-literacy-column.json
+[2026-03-09T13:33:54.300Z] [INFO] === 기사: 2026-03-09_14-00_npr-college-students-professors-ai-rules.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.300Z] [INFO] [Stage4:에디터] 2026-03-09_14-00_npr-college-students-professors-ai-rules.json
+[2026-03-09T13:33:54.301Z] [WARN] [Stage4] 본문 1526자 미만 -> rejected: 2026-03-09_14-00_npr-college-students-professors-ai-rules.json
+[2026-03-09T13:33:54.301Z] [INFO] === 기사: 2026-03-09_14-00_population-cliff-ai-university-role.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.301Z] [INFO] [Stage4:에디터] 2026-03-09_14-00_population-cliff-ai-university-role.json
+[2026-03-09T13:33:54.302Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 2026-03-09_14-00_population-cliff-ai-university-role.json
+[2026-03-09T13:33:54.302Z] [INFO] [Stage5:교열] 2026-03-09_14-00_population-cliff-ai-university-role.json
+[2026-03-09T13:33:54.302Z] [WARN] [Stage5] 본문 1526자 미만 -> rejected: 2026-03-09_14-00_population-cliff-ai-university-role.json
+[2026-03-09T13:33:54.302Z] [INFO] === 기사: 2026-03-09_15-00_core-education-corexp-ai-higher-ed.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.303Z] [INFO] [Stage4:에디터] 2026-03-09_15-00_core-education-corexp-ai-higher-ed.json
+[2026-03-09T13:33:54.303Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-09_15-00_core-education-corexp-ai-higher-ed.json
+[2026-03-09T13:33:54.303Z] [INFO] === 기사: 2026-03-09_15-00_gyeongkuk-univ-ai-literacy-training.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.303Z] [INFO] [Stage4:에디터] 2026-03-09_15-00_gyeongkuk-univ-ai-literacy-training.json
+[2026-03-09T13:33:54.303Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-09_15-00_gyeongkuk-univ-ai-literacy-training.json
+[2026-03-09T13:33:54.303Z] [INFO] === 기사: 2026-03-09_15-00_miraeen-mteacher-platform-revamp.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.303Z] [INFO] [Stage4:에디터] 2026-03-09_15-00_miraeen-mteacher-platform-revamp.json
+[2026-03-09T13:33:54.303Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-09_15-00_miraeen-mteacher-platform-revamp.json
+[2026-03-09T13:33:54.303Z] [INFO] === 기사: 2026-03-09_15-00_uni-northern-iowa-ai-majors.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.303Z] [INFO] [Stage4:에디터] 2026-03-09_15-00_uni-northern-iowa-ai-majors.json
+[2026-03-09T13:33:54.303Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-09_15-00_uni-northern-iowa-ai-majors.json
+[2026-03-09T13:33:54.303Z] [INFO] === 기사: 2026-03-09_15-00_us-minerva-singularity-creative-curriculum.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.303Z] [INFO] [Stage4:에디터] 2026-03-09_15-00_us-minerva-singularity-creative-curriculum.json
+[2026-03-09T13:33:54.304Z] [WARN] [Stage4] draft.html 없음 -> rejected: 2026-03-09_15-00_us-minerva-singularity-creative-curriculum.json
+[2026-03-09T13:33:54.304Z] [INFO] === 기사: 2026-03-09_18-00_ai-teacher-role-elementary-column.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:54.304Z] [INFO] [Stage4:에디터] 2026-03-09_18-00_ai-teacher-role-elementary-column.json
+[2026-03-09T13:33:54.304Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 2026-03-09_18-00_ai-teacher-role-elementary-column.json
+[2026-03-09T13:33:54.304Z] [INFO] [Stage5:교열] 2026-03-09_18-00_ai-teacher-role-elementary-column.json
+[2026-03-09T13:33:54.305Z] [OK] [Stage5:교열] PASS (1714자, 1 changes) -> 07-copy-edited/: 2026-03-09_18-00_ai-teacher-role-elementary-column.json
+[2026-03-09T13:33:54.305Z] [INFO] [Stage6:발행] 2026-03-09_18-00_ai-teacher-role-elementary-column.json
+[2026-03-09T13:33:59.501Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/ai-teacher-role-elementary/: 2026-03-09_18-00_ai-teacher-role-elementary-column.json
+[2026-03-09T13:33:59.501Z] [OK] === 완료: 2026-03-09_18-00_ai-teacher-role-elementary-column.json (5.2s) ===
+[2026-03-09T13:33:59.501Z] [INFO] === 기사: 2026-03-09_18-00_dankook-ai-bootcamp-71billion.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:59.501Z] [INFO] [Stage4:에디터] 2026-03-09_18-00_dankook-ai-bootcamp-71billion.json
+[2026-03-09T13:33:59.502Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 2026-03-09_18-00_dankook-ai-bootcamp-71billion.json
+[2026-03-09T13:33:59.502Z] [INFO] [Stage5:교열] 2026-03-09_18-00_dankook-ai-bootcamp-71billion.json
+[2026-03-09T13:33:59.503Z] [WARN] [Stage5] 본문 1121자 미만 -> rejected: 2026-03-09_18-00_dankook-ai-bootcamp-71billion.json
+[2026-03-09T13:33:59.503Z] [INFO] === 기사: 2026-03-09_18-00_virginia-ai-education-guardrails-bill.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:59.503Z] [INFO] [Stage4:에디터] 2026-03-09_18-00_virginia-ai-education-guardrails-bill.json
+[2026-03-09T13:33:59.504Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 2026-03-09_18-00_virginia-ai-education-guardrails-bill.json
+[2026-03-09T13:33:59.504Z] [INFO] [Stage5:교열] 2026-03-09_18-00_virginia-ai-education-guardrails-bill.json
+[2026-03-09T13:33:59.505Z] [WARN] [Stage5] 본문 747자 미만 -> rejected: 2026-03-09_18-00_virginia-ai-education-guardrails-bill.json
+[2026-03-09T13:33:59.505Z] [INFO] === 기사: REJECT_2026-03-03_1701_seoul-ai-guideline.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:59.505Z] [INFO] [Stage4:에디터] REJECT_2026-03-03_1701_seoul-ai-guideline.json
+[2026-03-09T13:33:59.505Z] [WARN] [Stage4] draft.html 없음 -> rejected: REJECT_2026-03-03_1701_seoul-ai-guideline.json
+[2026-03-09T13:33:59.505Z] [INFO] === 기사: REJECT_2026-03-06_10-11_seoul-youth-academy-ai.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:59.506Z] [INFO] [Stage4:에디터] REJECT_2026-03-06_10-11_seoul-youth-academy-ai.json
+[2026-03-09T13:33:59.506Z] [WARN] [Stage4] draft.html 없음 -> rejected: REJECT_2026-03-06_10-11_seoul-youth-academy-ai.json
+[2026-03-09T13:33:59.506Z] [INFO] === 기사: REJECT_2026-03-06_12-11_ai-education-direction.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:59.506Z] [INFO] [Stage4:에디터] REJECT_2026-03-06_12-11_ai-education-direction.json
+[2026-03-09T13:33:59.506Z] [WARN] [Stage4] draft.html 없음 -> rejected: REJECT_2026-03-06_12-11_ai-education-direction.json
+[2026-03-09T13:33:59.506Z] [INFO] === 기사: REJECT_2026-03-06_12-11_ai-regulation-2026.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:59.506Z] [INFO] [Stage4:에디터] REJECT_2026-03-06_12-11_ai-regulation-2026.json
+[2026-03-09T13:33:59.506Z] [WARN] [Stage4] draft.html 없음 -> rejected: REJECT_2026-03-06_12-11_ai-regulation-2026.json
+[2026-03-09T13:33:59.506Z] [INFO] === 기사: article-001.json (from: 05-fact-checked) ===
+[2026-03-09T13:33:59.506Z] [INFO] [Stage4:에디터] article-001.json
+[2026-03-09T13:33:59.510Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: article-001.json
+[2026-03-09T13:33:59.510Z] [INFO] [Stage5:교열] article-001.json
+[2026-03-09T13:33:59.511Z] [OK] [Stage5:교열] PASS (1786자, 1 changes) -> 07-copy-edited/: article-001.json
+[2026-03-09T13:33:59.511Z] [INFO] [Stage6:발행] article-001.json
+[2026-03-09T13:34:04.702Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/ai-essential-skill-university-education-2026/: article-001.json
+[2026-03-09T13:34:04.702Z] [OK] === 완료: article-001.json (5.2s) ===
+[2026-03-09T13:34:04.703Z] [INFO] === 기사: article-002.json (from: 05-fact-checked) ===
+[2026-03-09T13:34:04.703Z] [INFO] [Stage4:에디터] article-002.json
+[2026-03-09T13:34:04.704Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: article-002.json
+[2026-03-09T13:34:04.704Z] [INFO] [Stage5:교열] article-002.json
+[2026-03-09T13:34:04.704Z] [WARN] [Stage5] 본문 1572자 미만 -> rejected: article-002.json
+[2026-03-09T13:34:04.704Z] [INFO] === 기사: article-003.json (from: 05-fact-checked) ===
+[2026-03-09T13:34:04.704Z] [INFO] [Stage4:에디터] article-003.json
+[2026-03-09T13:34:04.706Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: article-003.json
+[2026-03-09T13:34:04.706Z] [INFO] [Stage5:교열] article-003.json
+[2026-03-09T13:34:04.706Z] [WARN] [Stage5] 본문 1489자 미만 -> rejected: article-003.json
+[2026-03-09T13:34:04.706Z] [INFO] === 기사: article-004.json (from: 05-fact-checked) ===
+[2026-03-09T13:34:04.706Z] [INFO] [Stage4:에디터] article-004.json
+[2026-03-09T13:34:04.707Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: article-004.json
+[2026-03-09T13:34:04.707Z] [INFO] [Stage5:교열] article-004.json
+[2026-03-09T13:34:04.708Z] [OK] [Stage5:교열] PASS (1879자, 1 changes) -> 07-copy-edited/: article-004.json
+[2026-03-09T13:34:04.708Z] [INFO] [Stage6:발행] article-004.json
+[2026-03-09T13:34:09.940Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/uk-us-ai-education-governance-korea-lessons/: article-004.json
+[2026-03-09T13:34:09.940Z] [OK] === 완료: article-004.json (5.2s) ===
+[2026-03-09T13:34:09.941Z] [INFO] === 기사: article-005.json (from: 05-fact-checked) ===
+[2026-03-09T13:34:09.941Z] [INFO] [Stage4:에디터] article-005.json
+[2026-03-09T13:34:09.941Z] [WARN] [Stage4] 본문 1151자 미만 -> rejected: article-005.json
+[2026-03-09T13:34:09.941Z] [INFO] === 기사: article-006.json (from: 05-fact-checked) ===
+[2026-03-09T13:34:09.941Z] [INFO] [Stage4:에디터] article-006.json
+[2026-03-09T13:34:09.942Z] [WARN] [Stage4] 본문 886자 미만 -> rejected: article-006.json
+[2026-03-09T13:34:09.943Z] [INFO] === 기사: article-007.json (from: 05-fact-checked) ===
+[2026-03-09T13:34:09.943Z] [INFO] [Stage4:에디터] article-007.json
+[2026-03-09T13:34:09.945Z] [WARN] [Stage4] 본문 941자 미만 -> rejected: article-007.json
+[2026-03-09T13:34:09.947Z] [INFO] === 기사: article-008.json (from: 05-fact-checked) ===
+[2026-03-09T13:34:09.947Z] [INFO] [Stage4:에디터] article-008.json
+[2026-03-09T13:34:09.947Z] [WARN] [Stage4] 본문 950자 미만 -> rejected: article-008.json
+[2026-03-09T13:34:09.948Z] [INFO] === 기사: article-009.json (from: 05-fact-checked) ===
+[2026-03-09T13:34:09.948Z] [INFO] [Stage4:에디터] article-009.json
+[2026-03-09T13:34:09.950Z] [WARN] [Stage4] 본문 963자 미만 -> rejected: article-009.json
+[2026-03-09T13:34:09.950Z] [INFO] === 기사: article-010.json (from: 05-fact-checked) ===
+[2026-03-09T13:34:09.950Z] [INFO] [Stage4:에디터] article-010.json
+[2026-03-09T13:34:09.951Z] [WARN] [Stage4] 본문 981자 미만 -> rejected: article-010.json
+[2026-03-09T13:34:09.951Z] [INFO] === 기사: article-011.json (from: 05-fact-checked) ===
+[2026-03-09T13:34:09.953Z] [INFO] [Stage4:에디터] article-011.json
+[2026-03-09T13:34:09.954Z] [WARN] [Stage4] 본문 708자 미만 -> rejected: article-011.json
+[2026-03-09T13:34:09.954Z] [INFO] === 기사: article-012.json (from: 05-fact-checked) ===
+[2026-03-09T13:34:09.954Z] [INFO] [Stage4:에디터] article-012.json
+[2026-03-09T13:34:09.956Z] [WARN] [Stage4] 본문 707자 미만 -> rejected: article-012.json
+[2026-03-09T13:34:09.957Z] [INFO] === 기사: article-013.json (from: 05-fact-checked) ===
+[2026-03-09T13:34:09.957Z] [INFO] [Stage4:에디터] article-013.json
+[2026-03-09T13:34:09.958Z] [WARN] [Stage4] 본문 635자 미만 -> rejected: article-013.json
+[2026-03-09T13:34:09.958Z] [INFO] === 기사: article-014.json (from: 05-fact-checked) ===
+[2026-03-09T13:34:09.958Z] [INFO] [Stage4:에디터] article-014.json
+[2026-03-09T13:34:09.959Z] [WARN] [Stage4] 본문 721자 미만 -> rejected: article-014.json
+[2026-03-09T13:34:09.959Z] [INFO] === 기사: commerce-senate-ai-education-bill-20260303.json (from: 05-fact-checked) ===
+[2026-03-09T13:34:09.960Z] [INFO] [Stage4:에디터] commerce-senate-ai-education-bill-20260303.json
+[2026-03-09T13:34:09.961Z] [WARN] [Stage4] 본문 1494자 미만 -> rejected: commerce-senate-ai-education-bill-20260303.json
+[2026-03-09T13:34:09.961Z] [INFO] === 기사: copy-edited.json (from: 05-fact-checked) ===
+[2026-03-09T13:34:09.961Z] [INFO] [Stage4:에디터] copy-edited.json
+[2026-03-09T13:34:09.962Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: copy-edited.json
+[2026-03-09T13:34:09.962Z] [INFO] [Stage5:교열] copy-edited.json
+[2026-03-09T13:34:09.963Z] [OK] [Stage5:교열] PASS (1824자, 1 changes) -> 07-copy-edited/: copy-edited.json
+[2026-03-09T13:34:09.963Z] [INFO] [Stage6:발행] copy-edited.json
+[2026-03-09T13:34:15.152Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/copy-edited/: copy-edited.json
+[2026-03-09T13:34:15.152Z] [OK] === 완료: copy-edited.json (5.2s) ===
+[2026-03-09T13:34:15.152Z] [INFO] === 기사: korea-kr-ai-hub-schools-20260309.json (from: 05-fact-checked) ===
+[2026-03-09T13:34:15.152Z] [INFO] [Stage4:에디터] korea-kr-ai-hub-schools-20260309.json
+[2026-03-09T13:34:15.153Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: korea-kr-ai-hub-schools-20260309.json
+[2026-03-09T13:34:15.153Z] [INFO] [Stage5:교열] korea-kr-ai-hub-schools-20260309.json
+[2026-03-09T13:34:15.154Z] [WARN] [Stage5] 본문 1596자 미만 -> rejected: korea-kr-ai-hub-schools-20260309.json
+[2026-03-09T13:34:15.154Z] [INFO] === 기사: mt-ai-education-mandatory-20260303.json (from: 05-fact-checked) ===
+[2026-03-09T13:34:15.155Z] [INFO] [Stage4:에디터] mt-ai-education-mandatory-20260303.json
+[2026-03-09T13:34:15.156Z] [WARN] [Stage4] 본문 1426자 미만 -> rejected: mt-ai-education-mandatory-20260303.json
+[2026-03-09T13:34:15.157Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-09T13:34:15.157Z] [INFO] Published: 9, Rejected: 93, Error: 0
+[2026-03-09T13:34:15.157Z] [INFO] Ghost URLs: https://insight.ubion.global/kjob-uk-us-ai-governance-korea-4/, https://insight.ubion.global/k12dive-states-ban-edtech-generative-ai-3/, https://insight.ubion.global/lg-ai-graduate-school-opens-5/, https://insight.ubion.global/daegu-ai-bootcamp/, https://insight.ubion.global/ai-ro-byeonhwa-hangug-gyoyug-2026/, https://insight.ubion.global/ai-teacher-role-elementary/, https://insight.ubion.global/ai-essential-skill-university-education-2026/, https://insight.ubion.global/uk-us-ai-education-governance-korea-lessons/, https://insight.ubion.global/copy-edited/
+[2026-03-09T22:03:01.250Z] [INFO] Pipeline Runner 시작
+[2026-03-09T22:03:01.260Z] [INFO] 처리 대상: 3개 기사
+[2026-03-09T22:03:01.261Z] [INFO] === 기사: source-1773093643285-0.json (from: 05-fact-checked) ===
+[2026-03-09T22:03:01.261Z] [INFO] [Stage4:에디터] source-1773093643285-0.json
+[2026-03-09T22:03:01.266Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source-1773093643285-0.json
+[2026-03-09T22:03:01.266Z] [INFO] [Stage5:교열] source-1773093643285-0.json
+[2026-03-09T22:03:01.268Z] [OK] [Stage5:교열] PASS (1900자, 0 changes) -> 07-copy-edited/: source-1773093643285-0.json
+[2026-03-09T22:03:01.270Z] [INFO] [Stage6:발행] source-1773093643285-0.json
+[2026-03-09T22:03:07.942Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/global-education-ai-transformation-2026/: source-1773093643285-0.json
+[2026-03-09T22:03:07.943Z] [OK] === 완료: source-1773093643285-0.json (6.7s) ===
+[2026-03-09T22:03:07.943Z] [INFO] === 기사: source-1773093643286-1.json (from: 05-fact-checked) ===
+[2026-03-09T22:03:07.943Z] [INFO] [Stage4:에디터] source-1773093643286-1.json
+[2026-03-09T22:03:07.945Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source-1773093643286-1.json
+[2026-03-09T22:03:07.945Z] [INFO] [Stage5:교열] source-1773093643286-1.json
+[2026-03-09T22:03:07.956Z] [OK] [Stage5:교열] PASS (1939자, 0 changes) -> 07-copy-edited/: source-1773093643286-1.json
+[2026-03-09T22:03:07.958Z] [INFO] [Stage6:발행] source-1773093643286-1.json
+[2026-03-09T22:03:13.167Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/ai-literacy-crisis-higher-ed-2026/: source-1773093643286-1.json
+[2026-03-09T22:03:13.167Z] [OK] === 완료: source-1773093643286-1.json (5.2s) ===
+[2026-03-09T22:03:13.167Z] [INFO] === 기사: source-1773093643287-2.json (from: 05-fact-checked) ===
+[2026-03-09T22:03:13.167Z] [INFO] [Stage4:에디터] source-1773093643287-2.json
+[2026-03-09T22:03:13.169Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source-1773093643287-2.json
+[2026-03-09T22:03:13.169Z] [INFO] [Stage5:교열] source-1773093643287-2.json
+[2026-03-09T22:03:13.169Z] [OK] [Stage5:교열] PASS (1871자, 0 changes) -> 07-copy-edited/: source-1773093643287-2.json
+[2026-03-09T22:03:13.169Z] [INFO] [Stage6:발행] source-1773093643287-2.json
+[2026-03-09T22:03:18.357Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/eu-ai-act-higher-ed-governance-2026/: source-1773093643287-2.json
+[2026-03-09T22:03:18.358Z] [OK] === 완료: source-1773093643287-2.json (5.2s) ===
+[2026-03-09T22:03:18.358Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-09T22:03:18.358Z] [INFO] Published: 3, Rejected: 0, Error: 0
+[2026-03-09T22:03:18.358Z] [INFO] Ghost URLs: https://insight.ubion.global/global-education-ai-transformation-2026/, https://insight.ubion.global/ai-literacy-crisis-higher-ed-2026/, https://insight.ubion.global/eu-ai-act-higher-ed-governance-2026/
+[2026-03-09T22:34:51.319Z] [INFO] Pipeline Runner 시작
+[2026-03-09T22:34:51.331Z] [INFO] 처리 대상: 5개 기사
+[2026-03-09T22:34:51.333Z] [INFO] === 기사: etcjournal-ai-education-uses-20260302.json (from: 05-fact-checked) ===
+[2026-03-09T22:34:51.333Z] [INFO] [Stage4:에디터] etcjournal-ai-education-uses-20260302.json
+[2026-03-09T22:34:51.340Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: etcjournal-ai-education-uses-20260302.json
+[2026-03-09T22:34:51.340Z] [INFO] [Stage5:교열] etcjournal-ai-education-uses-20260302.json
+[2026-03-09T22:34:51.341Z] [OK] [Stage5:교열] PASS (2408자, 1 changes) -> 07-copy-edited/: etcjournal-ai-education-uses-20260302.json
+[2026-03-09T22:34:51.342Z] [INFO] [Stage6:발행] etcjournal-ai-education-uses-20260302.json
+[2026-03-09T22:34:56.846Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/three-best-ai-education-uses-2026/: etcjournal-ai-education-uses-20260302.json
+[2026-03-09T22:34:56.847Z] [OK] === 완료: etcjournal-ai-education-uses-20260302.json (5.5s) ===
+[2026-03-09T22:34:56.847Z] [INFO] === 기사: kjob-ai-regulation-2026-20260303.json (from: 05-fact-checked) ===
+[2026-03-09T22:34:56.847Z] [INFO] [Stage4:에디터] kjob-ai-regulation-2026-20260303.json
+[2026-03-09T22:34:56.849Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: kjob-ai-regulation-2026-20260303.json
+[2026-03-09T22:34:56.849Z] [INFO] [Stage5:교열] kjob-ai-regulation-2026-20260303.json
+[2026-03-09T22:34:56.850Z] [OK] [Stage5:교열] PASS (2240자, 1 changes) -> 07-copy-edited/: kjob-ai-regulation-2026-20260303.json
+[2026-03-09T22:34:56.850Z] [INFO] [Stage6:발행] kjob-ai-regulation-2026-20260303.json
+[2026-03-09T22:35:02.434Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/ai-regulation-tipping-point-2026/: kjob-ai-regulation-2026-20260303.json
+[2026-03-09T22:35:02.434Z] [OK] === 완료: kjob-ai-regulation-2026-20260303.json (5.6s) ===
+[2026-03-09T22:35:02.434Z] [INFO] === 기사: korea-kr-ai-schools-operation-20260309.json (from: 05-fact-checked) ===
+[2026-03-09T22:35:02.434Z] [INFO] [Stage4:에디터] korea-kr-ai-schools-operation-20260309.json
+[2026-03-09T22:35:02.436Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: korea-kr-ai-schools-operation-20260309.json
+[2026-03-09T22:35:02.436Z] [INFO] [Stage5:교열] korea-kr-ai-schools-operation-20260309.json
+[2026-03-09T22:35:02.436Z] [OK] [Stage5:교열] PASS (1736자, 1 changes) -> 07-copy-edited/: korea-kr-ai-schools-operation-20260309.json
+[2026-03-09T22:35:02.436Z] [INFO] [Stage6:발행] korea-kr-ai-schools-operation-20260309.json
+[2026-03-09T22:35:07.712Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/korea-ai-schools-2026/: korea-kr-ai-schools-operation-20260309.json
+[2026-03-09T22:35:07.712Z] [OK] === 완료: korea-kr-ai-schools-operation-20260309.json (5.3s) ===
+[2026-03-09T22:35:07.712Z] [INFO] === 기사: npr-ai-college-rules-20260303.json (from: 05-fact-checked) ===
+[2026-03-09T22:35:07.712Z] [INFO] [Stage4:에디터] npr-ai-college-rules-20260303.json
+[2026-03-09T22:35:07.713Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: npr-ai-college-rules-20260303.json
+[2026-03-09T22:35:07.713Z] [INFO] [Stage5:교열] npr-ai-college-rules-20260303.json
+[2026-03-09T22:35:07.714Z] [OK] [Stage5:교열] PASS (2029자, 1 changes) -> 07-copy-edited/: npr-ai-college-rules-20260303.json
+[2026-03-09T22:35:07.714Z] [INFO] [Stage6:발행] npr-ai-college-rules-20260303.json
+[2026-03-09T22:35:13.348Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/college-ai-integrity-2026/: npr-ai-college-rules-20260303.json
+[2026-03-09T22:35:13.348Z] [OK] === 완료: npr-ai-college-rules-20260303.json (5.6s) ===
+[2026-03-09T22:35:13.348Z] [INFO] === 기사: source-1773093643287-3.json (from: 05-fact-checked) ===
+[2026-03-09T22:35:13.348Z] [INFO] [Stage4:에디터] source-1773093643287-3.json
+[2026-03-09T22:35:13.350Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source-1773093643287-3.json
+[2026-03-09T22:35:13.350Z] [INFO] [Stage5:교열] source-1773093643287-3.json
+[2026-03-09T22:35:13.351Z] [OK] [Stage5:교열] PASS (1853자, 1 changes) -> 07-copy-edited/: source-1773093643287-3.json
+[2026-03-09T22:35:13.351Z] [INFO] [Stage6:발행] source-1773093643287-3.json
+[2026-03-09T22:35:18.581Z] [OK] [Stage6:발행] done URL: https://insight.ubion.global/liberal-arts-ai-era-2026/: source-1773093643287-3.json
+[2026-03-09T22:35:18.582Z] [OK] === 완료: source-1773093643287-3.json (5.2s) ===
+[2026-03-09T22:35:18.582Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-09T22:35:18.582Z] [INFO] Published: 5, Rejected: 0, Error: 0
+[2026-03-09T22:35:18.582Z] [INFO] Ghost URLs: https://insight.ubion.global/three-best-ai-education-uses-2026/, https://insight.ubion.global/ai-regulation-tipping-point-2026/, https://insight.ubion.global/korea-ai-schools-2026/, https://insight.ubion.global/college-ai-integrity-2026/, https://insight.ubion.global/liberal-arts-ai-era-2026/
+[2026-03-09T23:04:25.594Z] [INFO] Pipeline Runner 시작
+[2026-03-09T23:04:25.598Z] [INFO] 처리 대상: 5개 기사
+[2026-03-09T23:04:25.599Z] [INFO] === 기사: review_001.json (from: 05-fact-checked) ===
+[2026-03-09T23:04:25.600Z] [INFO] [Stage4:에디터] review_001.json
+[2026-03-09T23:04:25.600Z] [WARN] [Stage4] draft.html 없음 -> rejected: review_001.json
+[2026-03-09T23:04:25.602Z] [INFO] === 기사: review_002.json (from: 05-fact-checked) ===
+[2026-03-09T23:04:25.602Z] [INFO] [Stage4:에디터] review_002.json
+[2026-03-09T23:04:25.602Z] [WARN] [Stage4] draft.html 없음 -> rejected: review_002.json
+[2026-03-09T23:04:25.602Z] [INFO] === 기사: review_003.json (from: 05-fact-checked) ===
+[2026-03-09T23:04:25.602Z] [INFO] [Stage4:에디터] review_003.json
+[2026-03-09T23:04:25.603Z] [WARN] [Stage4] draft.html 없음 -> rejected: review_003.json
+[2026-03-09T23:04:25.605Z] [INFO] === 기사: review_004.json (from: 05-fact-checked) ===
+[2026-03-09T23:04:25.606Z] [INFO] [Stage4:에디터] review_004.json
+[2026-03-09T23:04:25.606Z] [WARN] [Stage4] draft.html 없음 -> rejected: review_004.json
+[2026-03-09T23:04:25.606Z] [INFO] === 기사: review_005.json (from: 05-fact-checked) ===
+[2026-03-09T23:04:25.606Z] [INFO] [Stage4:에디터] review_005.json
+[2026-03-09T23:04:25.606Z] [WARN] [Stage4] draft.html 없음 -> rejected: review_005.json
+[2026-03-09T23:04:25.606Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-09T23:04:25.607Z] [INFO] Published: 0, Rejected: 5, Error: 0
+[2026-03-09T23:05:50.428Z] [INFO] Pipeline Runner 시작
+[2026-03-09T23:05:50.431Z] [INFO] 처리 대상: 5개 기사
+[2026-03-09T23:05:50.431Z] [INFO] === 기사: source_001.json (from: 05-fact-checked) ===
+[2026-03-09T23:05:50.432Z] [INFO] [Stage4:에디터] source_001.json
+[2026-03-09T23:05:50.432Z] [ERROR] === 실패: source_001.json -- titles is not iterable ===
+[2026-03-09T23:05:50.432Z] [INFO] === 기사: source_002.json (from: 05-fact-checked) ===
+[2026-03-09T23:05:50.433Z] [INFO] [Stage4:에디터] source_002.json
+[2026-03-09T23:05:50.433Z] [ERROR] === 실패: source_002.json -- titles is not iterable ===
+[2026-03-09T23:05:50.433Z] [INFO] === 기사: source_005.json (from: 05-fact-checked) ===
+[2026-03-09T23:05:50.433Z] [INFO] [Stage4:에디터] source_005.json
+[2026-03-09T23:05:50.434Z] [ERROR] === 실패: source_005.json -- titles is not iterable ===
+[2026-03-09T23:05:50.434Z] [INFO] === 기사: source_007.json (from: 05-fact-checked) ===
+[2026-03-09T23:05:50.434Z] [INFO] [Stage4:에디터] source_007.json
+[2026-03-09T23:05:50.434Z] [ERROR] === 실패: source_007.json -- titles is not iterable ===
+[2026-03-09T23:05:50.435Z] [INFO] === 기사: source_009.json (from: 05-fact-checked) ===
+[2026-03-09T23:05:50.435Z] [INFO] [Stage4:에디터] source_009.json
+[2026-03-09T23:05:50.435Z] [ERROR] === 실패: source_009.json -- titles is not iterable ===
+[2026-03-09T23:05:50.435Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-09T23:05:50.435Z] [INFO] Published: 0, Rejected: 0, Error: 5
+[2026-03-09T23:34:52.206Z] [INFO] Pipeline Runner 시작
+[2026-03-09T23:34:52.221Z] [INFO] 처리 대상: 4개 기사
+[2026-03-09T23:34:52.222Z] [INFO] === 기사: source_002.json (from: 05-fact-checked) ===
+[2026-03-09T23:34:52.222Z] [INFO] [Stage4:에디터] source_002.json
+[2026-03-09T23:34:52.224Z] [ERROR] === 실패: source_002.json -- titles is not iterable ===
+[2026-03-09T23:34:52.227Z] [INFO] === 기사: source_003.json (from: 05-fact-checked) ===
+[2026-03-09T23:34:52.230Z] [INFO] [Stage4:에디터] source_003.json
+[2026-03-09T23:34:52.230Z] [ERROR] === 실패: source_003.json -- titles is not iterable ===
+[2026-03-09T23:34:52.231Z] [INFO] === 기사: source_004.json (from: 05-fact-checked) ===
+[2026-03-09T23:34:52.232Z] [INFO] [Stage4:에디터] source_004.json
+[2026-03-09T23:34:52.232Z] [ERROR] === 실패: source_004.json -- titles is not iterable ===
+[2026-03-09T23:34:52.233Z] [INFO] === 기사: source_005.json (from: 05-fact-checked) ===
+[2026-03-09T23:34:52.233Z] [INFO] [Stage4:에디터] source_005.json
+[2026-03-09T23:34:52.233Z] [ERROR] === 실패: source_005.json -- titles is not iterable ===
+[2026-03-09T23:34:52.233Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-09T23:34:52.233Z] [INFO] Published: 0, Rejected: 0, Error: 4
+[2026-03-10T00:04:28.888Z] [INFO] Pipeline Runner 시작
+[2026-03-10T00:04:28.891Z] [INFO] 처리 대상: 8개 기사
+[2026-03-10T00:04:28.892Z] [INFO] === 기사: 001-ai-middle-school.json (from: 05-fact-checked) ===
+[2026-03-10T00:04:28.892Z] [INFO] [Stage4:에디터] 001-ai-middle-school.json
+[2026-03-10T00:04:28.893Z] [ERROR] === 실패: 001-ai-middle-school.json -- titles is not iterable ===
+[2026-03-10T00:04:28.893Z] [INFO] === 기사: 002-university-ai-policy.json (from: 05-fact-checked) ===
+[2026-03-10T00:04:28.893Z] [INFO] [Stage4:에디터] 002-university-ai-policy.json
+[2026-03-10T00:04:28.893Z] [ERROR] === 실패: 002-university-ai-policy.json -- titles is not iterable ===
+[2026-03-10T00:04:28.894Z] [INFO] === 기사: 003-global-ai-education.json (from: 05-fact-checked) ===
+[2026-03-10T00:04:28.894Z] [INFO] [Stage4:에디터] 003-global-ai-education.json
+[2026-03-10T00:04:28.894Z] [ERROR] === 실패: 003-global-ai-education.json -- titles is not iterable ===
+[2026-03-10T00:04:28.894Z] [INFO] === 기사: 005-ai-education-statistics.json (from: 05-fact-checked) ===
+[2026-03-10T00:04:28.894Z] [INFO] [Stage4:에디터] 005-ai-education-statistics.json
+[2026-03-10T00:04:28.897Z] [ERROR] === 실패: 005-ai-education-statistics.json -- titles is not iterable ===
+[2026-03-10T00:04:28.897Z] [INFO] === 기사: source_001.json (from: 05-fact-checked) ===
+[2026-03-10T00:04:28.897Z] [INFO] [Stage4:에디터] source_001.json
+[2026-03-10T00:04:28.897Z] [ERROR] === 실패: source_001.json -- titles is not iterable ===
+[2026-03-10T00:04:28.897Z] [INFO] === 기사: source_002.json (from: 05-fact-checked) ===
+[2026-03-10T00:04:28.898Z] [INFO] [Stage4:에디터] source_002.json
+[2026-03-10T00:04:28.898Z] [ERROR] === 실패: source_002.json -- titles is not iterable ===
+[2026-03-10T00:04:28.898Z] [INFO] === 기사: source_003.json (from: 05-fact-checked) ===
+[2026-03-10T00:04:28.898Z] [INFO] [Stage4:에디터] source_003.json
+[2026-03-10T00:04:28.898Z] [ERROR] === 실패: source_003.json -- titles is not iterable ===
+[2026-03-10T00:04:28.898Z] [INFO] === 기사: source_004.json (from: 05-fact-checked) ===
+[2026-03-10T00:04:28.898Z] [INFO] [Stage4:에디터] source_004.json
+[2026-03-10T00:04:28.899Z] [ERROR] === 실패: source_004.json -- titles is not iterable ===
+[2026-03-10T00:04:28.899Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-10T00:04:28.899Z] [INFO] Published: 0, Rejected: 0, Error: 8
+[2026-03-10T00:09:32.684Z] [INFO] Pipeline Runner 시작
+[2026-03-10T00:09:32.686Z] [INFO] 처리할 기사 없음
+[2026-03-10T00:09:55.677Z] [INFO] Pipeline Runner 시작
+[2026-03-10T00:09:55.680Z] [INFO] 처리할 기사 없음

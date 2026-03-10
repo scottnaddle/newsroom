@@ -1,0 +1,45 @@
+{
+  "id": "20260306234602-ai-mandatory-ed",
+  "stage": "rejected",
+  "created_at": "2026-03-06T23:46:00+09:00",
+  "priority": 1,
+  "source": {
+    "title": "\"금지 대신 필수 교양으로\"…대학가 덮친 AI, 교육·평가 판도 바꾼다",
+    "url": "https://www.mt.co.kr/policy/2026/03/03/2026030313051850252",
+    "source_name": "머니투데이",
+    "relevance_score": 85,
+    "summary": "챗GPT 초기 표절 논란으로 AI 사용을 억제하던 대학들이 이제는 AI를 학생의 필수 역량으로 규정하고 있다. 정규 교과목 편성부터 평가 방식 개편까지 대학 교육의 판도가 바뀌고 있다.",
+    "tags": [
+      "policy",
+      "university",
+      "mandatory"
+    ],
+    "collected_via": "brave_search"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector",
+      "action": "collected",
+      "timestamp": "2026-03-06T23:46:00+09:00",
+      "note": "관련성 85점 - AI 필수 교양화 정책 전환"
+    }
+  ],
+  "rejected_at": "2026-03-07T01:25:00+09:00",
+  "rejected_by": "editor-desk",
+  "rejection_reason": "중복 기사 - 이미 발행된 기사와 동일 주제",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

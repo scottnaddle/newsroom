@@ -1,0 +1,46 @@
+{
+  "arxiv_id": "2603.05646v1",
+  "title": "Evaluating LLMs in the Context of a Functional Programming Course: A Comprehensive Study",
+  "summary": "Large-Language Models (LLMs) are changing the way learners acquire knowledge outside the classroom setting. Previous studies have shown that LLMs seem effective in generating to short and simple questions in introductory CS courses using high-resource programming languages such as Java or Python. In this paper, we evaluate the effectiveness of LLMs in the context of a low-resource programming language -- OCaml, in an educational setting. In particular, we built three benchmarks to comprehensively evaluate 9 state-of-the-art LLMs: 1) $λ$CodeGen (a benchmark containing natural-language homework programming problems); 2) $λ$Repair (a benchmark containing programs with syntax, type, and logical errors drawn from actual student submissions); 3) $λ$Explain (a benchmark containing natural language questions regarding theoretical programming concepts). We grade each LLMs responses with respect to correctness using the OCaml compiler and an autograder. And our evaluation goes beyond common evaluation methodology by using manual grading to assess the quality of the responses. Our study shows that the top three LLMs are effective on all tasks within a typical functional programming course, although they solve much fewer homework problems in the low-resource setting compared to their success on introductory programming problems in Python and Java. The strength of LLMs lies in correcting syntax and type errors as well as generating answers to basic conceptual questions. While LLMs may not yet match dedicated language-specific tools in some areas, their convenience as a one-stop tool for multiple programming languages can outweigh the benefits of more specialized systems. We hope our benchmarks can serve multiple purposes: to assess the evolving capabilities of LLMs, to help instructors raise awareness among students about the limitations of LLM-generated solutions, and to inform programming language researchers about opportunities to integrate domain-specific reasoning into LLMs and develop more powerful code synthesis and repair tools for low-resource languages.",
+  "authors": [
+    "Yihan Zhang",
+    "Brigitte Pientka",
+    "Xujie Si"
+  ],
+  "categories": [
+    "cs.PL",
+    "cs.PL"
+  ],
+  "published": "2026-03-05T19:55:41Z",
+  "updated": "2026-03-05T19:55:41Z",
+  "pdf_url": "https://arxiv.org/pdf/2603.05646v1",
+  "abs_url": "https://arxiv.org/abs/2603.05646v1",
+  "source": "arxiv",
+  "relevance_score": 98,
+  "source_query": "abs:LLM AND abs:education",
+  "collected_at": "2026-03-09T18:00:11.544Z",
+  "stage": "summarized",
+  "audit_log": [
+    {
+      "agent": "paper-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T18:00:18.546Z",
+      "source": "arxiv",
+      "relevance_score": 98
+    },
+    {
+      "agent": "paper-summarizer",
+      "action": "summarized",
+      "timestamp": "2026-03-09T22:04:24.338Z",
+      "model": "glm-4-plus"
+    }
+  ],
+  "korean_title": "함수형 프로그래밍 과정에서의 LLM 평가: 종합 연구",
+  "korean_summary": "본 연구는 자원이 부족한 프로그래밍 언어인 OCaml을 활용하여, 대형 언어 모델(LLM)이 함수형 프로그래밍 교육 환경에서 얼마나 효과적인지 평가했습니다. 연구팀은 과제, 코드 오류 수정, 이론 개념 설명 등 세 가지 벤치마크를 통해 9개 최신 LLM을 테스트한 결과, 상위 3개 모델은 기본적인 개념 질문과 오류 수정에는 효과적이었으나, 자원이 풍부한 언어에 비해 과제 해결 능력은 낮은 것으로 나타났습니다.",
+  "key_findings": [
+    "LLM은 OCaml과 같은 저자원(low-resource) 언어에서도 문법 및 타입 오류 수정과 기본 프로그래밍 개념에 대한 질문에 효과적이다.",
+    "*   LLM은 파이썬이나 자바와 같은 자원이 풍부한 언어에 비해 저자원 언어의 프로그래밍 문제를 푸는 성공률이 현저히 낮다.",
+    "*   언어에 특화된 전용 도구에 비해 성능이 떨어질 수 있지만, 다양한 프로그래밍 언어를 지원하는 '원스톱' 도구로서의 편리성은 큰 장점이 될 수 있다."
+  ],
+  "implications": "LLM이 교육 환경에서 유용하게 활용될 수 있지만, 모든 문제를 완벽하게 해결하지는 못한다는 한계가 있음을 시사합니다. 따라서 교육자는 학생들이 LLM의 강점과 약점을 인지하고, 비판적으로 활용하도록 지도하는 것이 중요하며, 이를 통해 LLM을 효과적인 학습 보조 도구로 활용할 수 있을 것이다."
+}

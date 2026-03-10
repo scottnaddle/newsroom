@@ -1,0 +1,34 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.fnnews.com/news/202603060924006992",
+    "title": "미래엔 '엠티처' 교수활동 지원 플랫폼 전면 개편 — 2022 개정 교육과정 반영",
+    "snippet": "미래엔이 2026년 새 학기를 맞아 2022 개정 교육과정을 반영하고 사용자 편의성을 대폭 강화한 교수활동 지원 플랫폼 '엠티처'를 리뉴얼 오픈했다.",
+    "published_date": "2026-03-06"
+  },
+  "relevance_score": 68,
+  "tags": [
+    "edtech",
+    "platform",
+    "K-12",
+    "curriculum"
+  ],
+  "collected_at": "2026-03-09T06:00:00.000Z",
+  "rejection_reason": "에드테크 제품 리뉴얼 소식. 보도자료 수준으로 독자적 분석 가치 부족. AI 관련성도 낮음(2022 개정 교육과정 반영이 핵심).",
+  "rejected_at": "2026-03-09T06:05:00.000Z",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

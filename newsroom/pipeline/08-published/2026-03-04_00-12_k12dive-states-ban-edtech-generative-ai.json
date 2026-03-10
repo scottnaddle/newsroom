@@ -72,7 +72,7 @@
   "draft": {
     "headline": "미국 5개 주, 학교 생성형 AI 전면 금지 법안 추진",
     "subheadline": "아동 보호 논리로 에듀테크 규제 강화 움직임…한국·싱가포르 AI 필수화와 정반대",
-    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <!-- 리드 문단 -->\n  <div style=\"border-left:4px solid #4338ca;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 최소 5개 주 의회가 2026년 학교 내 생성형·대화형 AI를 포함한 에듀테크 도구를 전면 금지하는 법안을 추진하고 있습니다. 한국·인도·싱가포르 등이 AI 교육 의무화를 확대하는 가운데, 미국 일부 주는 정반대 방향으로 향하고 있어 글로벌 교육 정책의 이분화가 뚜렷해지고 있습니다.</p>\n  </div>\n\n  <!-- 섹션 1: 현황 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">최소 5개 주, 에듀테크 전면 금지 입법 검토</h2>\n  <p style=\"margin:0 0 36px;\">K-12 Dive의 보도에 따르면 캔자스·미주리·테네시·버지니아·웨스트버지니아 등 최소 5개 주가 올해 학교 내 에듀테크를 제한하거나 완전히 금지하는 법안을 심의 중입니다. 이 움직임은 학생의 개인 기기 반입 금지에서 한 발 나아가, 교육청이 지급한 기기와 AI 도구 전반으로 규제 범위를 확장하는 것이 특징입니다.</p>\n\n  <p style=\"margin:0 0 36px;\">가장 강경한 법안은 테네시에서 나왔습니다. <strong>테네시 HB 2393</strong>은 공립학교와 차터스쿨에서 K-5(초등) 학생의 디지털 기기 접근을 일체 금지하고, 교사의 수업 중 기기 활용도 차단합니다. 버지니아는 한 발 앞서 나가, <strong>SB 568</strong>이 이미 주 상원을 통과했습니다. 이 법안은 버지니아 교육부에 학년별 화면 시간 상한선을 담은 표준 정책 수립을 요구합니다.</p>\n\n  <!-- 인용 블록 -->\n  <blockquote style=\"border-left:4px solid #4338ca;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">\"학교는 생성형·대화형 AI를 포함한 모든 화면 기술을 K-5 단계에서 전면 금지해야 한다.\"</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— Distraction-Free Schools Policy Project, 모델 입법 권고안</p>\n  </blockquote>\n\n  <!-- 섹션 2: 찬반 논쟁 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">\"아동 보호\" 대 \"교육 효과\" — 첨예한 갈등</h2>\n  <p style=\"margin:0 0 36px;\">금지 추진의 이론적 근거를 제공하는 Distraction-Free Schools Policy Project는 K-5 전면 금지, 중학교(6-8학년) 교육청 기기 가정 반출 금지, 전 학년 생성형·대화형 AI 사용 금지라는 세 축의 모델 입법을 개발해 각 주에 배포하고 있습니다. 이 단체와 Fairplay 등 시민단체는 에듀테크가 청소년 정신건강 위기를 악화시키고, AI 도구가 데이터 수집과 중독적 설계로 학생을 착취한다고 주장합니다.</p>\n\n  <p style=\"margin:0 0 36px;\">교육계 주류는 즉각 반발했습니다. 전국 교육장협회(AASA)·교육 IT 협회(CoSN)·미국교원연맹(AFT)·전국교육협회(NEA) 등 주요 교육 단체 연합은 2026년 1월 13일 상원 통상과학교통위원회에 공개 서한을 보내 전면 금지 입법을 비판했습니다. 이들은 가정과 학교의 기술 활용을 구분해야 하며, 전면 금지보다는 교사 전문 연수·콘텐츠 필터링·데이터 보호 강화에 예산을 투입해야 한다고 주장했습니다.</p>\n\n  <!-- 섹션 3: 지침 불일치 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">28개 주 AI 지침, 제각각… 집행 효과 의문</h2>\n  <p style=\"margin:0 0 36px;\">교육정책연구소(CRPE)의 분석에 따르면, 2025년 4월 기준 이미 28개 이상의 주가 K-12 환경에서의 AI 지침을 발표했으나 내용이 서로 불일치하고 단편적입니다. 웨스트버지니아는 \"학생과 교직원은 사전 승인과 정확한 출처 표기 없이 생성형 AI를 포함한 어떠한 자료도 복사해서는 안 된다\"는 주 지침을 채택했지만, 이 같은 규정의 현장 집행 가능성에는 물음표가 붙습니다. CRPE는 전국 단위의 일관된 프레임워크 없이는 어떤 정책도 실효를 거두기 어렵다고 지적합니다.</p>\n\n  <!-- 섹션 4: 글로벌 대비 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">아시아는 반대 방향 — '기술 보호주의 vs 가속주의' 분열</h2>\n  <p style=\"margin:0 0 36px;\">미국 일부 주가 AI 금지 법안을 논의하는 사이, 한국은 AI 디지털 교과서를 전국 확대하고 있으며 싱가포르는 전 교육기관 AI 필수 과정 도입을, 인도는 3학년부터 AI 교육 커리큘럼 적용을 추진하고 있습니다. 같은 기술을 두고 한쪽에서는 \"규제해야 할 위험\"으로, 다른 쪽에서는 \"가르쳐야 할 역량\"으로 바라보는 시각의 분열이 국제 교육 정책의 핵심 갈등으로 부상하고 있습니다.</p>\n\n  <p style=\"margin:0 0 36px;\">이 격차는 국제 경쟁력 측면에서 장기적인 함의를 가집니다. AI 리터러시를 필수 역량으로 규정하고 체계적으로 교육하는 국가와, 아동 보호를 이유로 학교에서 AI 도구를 차단하는 국가 사이의 격차가 10년 후 인재 수준에 어떤 영향을 미칠지 교육계의 관심이 집중되고 있습니다.</p>\n\n  <!-- 참고 자료 -->\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.k12dive.com/news/states-weigh-limits-outright-bans-on-ed-tech-in-schools/813500/\" style=\"color:#4338ca;text-decoration:none;\">K-12 Dive — States weigh limits, outright bans on ed tech in schools (2026.03.03)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.ecs.org/artificial-intelligence-ai-education-task-forces/\" style=\"color:#4338ca;text-decoration:none;\">Education Commission of the States — AI in Education Task Forces</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://crpe.org/new-state-ai-policies-released-inconsistency-and-fragmentation/\" style=\"color:#4338ca;text-decoration:none;\">CRPE — New State AI Policies: Inconsistency and Fragmentation</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.cosn.org/wp-content/uploads/2026/01/Senate-Commerce-Hearing-Letter-2.pdf\" style=\"color:#4338ca;text-decoration:none;\">AASA·CoSN·AFT·NEA 등 교육 단체 연합 서한 (2026.01.13)</a></li>\n    </ol>\n  </div>\n\n  <!-- AI 공개 각주 -->\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <!-- 리드 문단 -->\n  \n\n  <!-- 섹션 1: 현황 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">최소 5개 주, 에듀테크 전면 금지 입법 검토</h2>\n  <p style=\"margin:0 0 36px;\">K-12 Dive의 보도에 따르면 캔자스·미주리·테네시·버지니아·웨스트버지니아 등 최소 5개 주가 올해 학교 내 에듀테크를 제한하거나 완전히 금지하는 법안을 심의 중입니다. 이 움직임은 학생의 개인 기기 반입 금지에서 한 발 나아가, 교육청이 지급한 기기와 AI 도구 전반으로 규제 범위를 확장하는 것이 특징입니다.</p>\n\n  <p style=\"margin:0 0 36px;\">가장 강경한 법안은 테네시에서 나왔습니다. <strong>테네시 HB 2393</strong>은 공립학교와 차터스쿨에서 K-5(초등) 학생의 디지털 기기 접근을 일체 금지하고, 교사의 수업 중 기기 활용도 차단합니다. 버지니아는 한 발 앞서 나가, <strong>SB 568</strong>이 이미 주 상원을 통과했습니다. 이 법안은 버지니아 교육부에 학년별 화면 시간 상한선을 담은 표준 정책 수립을 요구합니다.</p>\n\n  <!-- 인용 블록 -->\n  <blockquote style=\"border-left:4px solid #4338ca;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">\"학교는 생성형·대화형 AI를 포함한 모든 화면 기술을 K-5 단계에서 전면 금지해야 한다.\"</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— Distraction-Free Schools Policy Project, 모델 입법 권고안</p>\n  </blockquote>\n\n  <!-- 섹션 2: 찬반 논쟁 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">\"아동 보호\" 대 \"교육 효과\" — 첨예한 갈등</h2>\n  <p style=\"margin:0 0 36px;\">금지 추진의 이론적 근거를 제공하는 Distraction-Free Schools Policy Project는 K-5 전면 금지, 중학교(6-8학년) 교육청 기기 가정 반출 금지, 전 학년 생성형·대화형 AI 사용 금지라는 세 축의 모델 입법을 개발해 각 주에 배포하고 있습니다. 이 단체와 Fairplay 등 시민단체는 에듀테크가 청소년 정신건강 위기를 악화시키고, AI 도구가 데이터 수집과 중독적 설계로 학생을 착취한다고 주장합니다.</p>\n\n  <p style=\"margin:0 0 36px;\">교육계 주류는 즉각 반발했습니다. 전국 교육장협회(AASA)·교육 IT 협회(CoSN)·미국교원연맹(AFT)·전국교육협회(NEA) 등 주요 교육 단체 연합은 2026년 1월 13일 상원 통상과학교통위원회에 공개 서한을 보내 전면 금지 입법을 비판했습니다. 이들은 가정과 학교의 기술 활용을 구분해야 하며, 전면 금지보다는 교사 전문 연수·콘텐츠 필터링·데이터 보호 강화에 예산을 투입해야 한다고 주장했습니다.</p>\n\n  <!-- 섹션 3: 지침 불일치 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">28개 주 AI 지침, 제각각… 집행 효과 의문</h2>\n  <p style=\"margin:0 0 36px;\">교육정책연구소(CRPE)의 분석에 따르면, 2025년 4월 기준 이미 28개 이상의 주가 K-12 환경에서의 AI 지침을 발표했으나 내용이 서로 불일치하고 단편적입니다. 웨스트버지니아는 \"학생과 교직원은 사전 승인과 정확한 출처 표기 없이 생성형 AI를 포함한 어떠한 자료도 복사해서는 안 된다\"는 주 지침을 채택했지만, 이 같은 규정의 현장 집행 가능성에는 물음표가 붙습니다. CRPE는 전국 단위의 일관된 프레임워크 없이는 어떤 정책도 실효를 거두기 어렵다고 지적합니다.</p>\n\n  <!-- 섹션 4: 글로벌 대비 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">아시아는 반대 방향 — '기술 보호주의 vs 가속주의' 분열</h2>\n  <p style=\"margin:0 0 36px;\">미국 일부 주가 AI 금지 법안을 논의하는 사이, 한국은 AI 디지털 교과서를 전국 확대하고 있으며 싱가포르는 전 교육기관 AI 필수 과정 도입을, 인도는 3학년부터 AI 교육 커리큘럼 적용을 추진하고 있습니다. 같은 기술을 두고 한쪽에서는 \"규제해야 할 위험\"으로, 다른 쪽에서는 \"가르쳐야 할 역량\"으로 바라보는 시각의 분열이 국제 교육 정책의 핵심 갈등으로 부상하고 있습니다.</p>\n\n  <p style=\"margin:0 0 36px;\">이 격차는 국제 경쟁력 측면에서 장기적인 함의를 가집니다. AI 리터러시를 필수 역량으로 규정하고 체계적으로 교육하는 국가와, 아동 보호를 이유로 학교에서 AI 도구를 차단하는 국가 사이의 격차가 10년 후 인재 수준에 어떤 영향을 미칠지 교육계의 관심이 집중되고 있습니다.</p>\n\n  <!-- 참고 자료 -->\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.k12dive.com/news/states-weigh-limits-outright-bans-on-ed-tech-in-schools/813500/\" style=\"color:#4338ca;text-decoration:none;\">K-12 Dive — States weigh limits, outright bans on ed tech in schools (2026.03.03)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.ecs.org/artificial-intelligence-ai-education-task-forces/\" style=\"color:#4338ca;text-decoration:none;\">Education Commission of the States — AI in Education Task Forces</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://crpe.org/new-state-ai-policies-released-inconsistency-and-fragmentation/\" style=\"color:#4338ca;text-decoration:none;\">CRPE — New State AI Policies: Inconsistency and Fragmentation</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.cosn.org/wp-content/uploads/2026/01/Senate-Commerce-Hearing-Letter-2.pdf\" style=\"color:#4338ca;text-decoration:none;\">AASA·CoSN·AFT·NEA 등 교육 단체 연합 서한 (2026.01.13)</a></li>\n    </ol>\n  </div>\n\n  <!-- AI 공개 각주 -->\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->\n<figure class=\"kg-card kg-image-card kg-width-full\">\n  <img src=\"https://images.unsplash.com/photo-1580485944550-73107b027a9f?w=1200&h=630&fit=crop&q=85&auto=format\" class=\"kg-image\" alt=\"AI와 교육\">\n  <figcaption>AI 기술과 교육의 만남</figcaption>\n</figure>\n",
     "ghost_tags": [
       "AI교육",
       "교육정책",
@@ -103,7 +103,11 @@
       }
     ],
     "word_count": 1480,
-    "article_type": "news"
+    "article_type": "news",
+    "feature_image": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://insight.ubion.global/content/images/2026/03/og-69a916efe2eb440001d559d6.png",
+    "meta_title": "미국 5개 주, 학교 생성형 AI 전면 금지 법안 추진",
+    "meta_description": "미국 최소 5개 주 의회가 2026년 학교 내 생성형·대화형 AI를 포함한 에듀테크 도구를 전면 금지하는 법안을 추진하고 있습니다. 한국·인도·싱가포르 등이 AI 교육 의무화를 확대하는 가운데, 미국 일부 주는 정반대 방향으로 향하고 있어 글로벌 교육 정책의 이분화가 "
   },
   "fact_check_report": {
     "overall_confidence": 92,
@@ -219,39 +223,55 @@
       "action": "published-draft",
       "timestamp": "2026-03-03T22:21:52.176Z",
       "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69a75ec00ac2ff00013a3e96"
+    },
+    {
+      "agent": "publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T05:38:55.239Z",
+      "note": "Ghost post ID: 69a916efe2eb440001d559d6"
+    },
+    {
+      "agent": "publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T22:08:33.842Z",
+      "note": "Ghost post ID: 69a9fee1ff4fbf0001ab6c65"
     }
   ],
   "desk_decision": {
-    "verdict": "APPROVE",
-    "method": "fast-track",
-    "reason": "PASS verdict, overall_confidence 92 (≥90) — 자동 고속 승인.",
-    "timestamp": "2026-03-04T21:28:00+01:00"
+    "verdict": "PASS",
+    "reason": "본문 2169자, 팩트점수 96, 중복 20.7%",
+    "meta_title": "미국 5개 주, 학교 생성형 AI 전면 금지 법안 추진",
+    "meta_description": "미국 최소 5개 주 의회가 2026년 학교 내 생성형·대화형 AI를 포함한 에듀테크 도구를 전면 금지하는 법안을 추진하고 있습니다. 한국·인도·싱가포르 등이 AI 교육 의무화를 확대하는 가운데, 미국 일부 주는 정반대 방향으로 향하고 있어 글로벌 교육 정책의 이분화가 ",
+    "decided_at": "2026-03-09T13:33:30.533Z"
   },
   "copy_edit": {
-    "final_html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <!-- 리드 문단 -->\n  <div style=\"border-left:4px solid #4338ca;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 최소 5개 주 의회가 2026년 학교 내 생성형·대화형 AI를 포함한 에듀테크 도구를 전면 금지하는 법안을 추진하고 있습니다. 한국·인도·싱가포르 등이 AI 교육 의무화를 확대하는 가운데, 미국 일부 주는 정반대 방향으로 향하고 있어 글로벌 교육 정책의 이분화가 뚜렷해지고 있습니다.</p>\n  </div>\n\n  <!-- 섹션 1: 현황 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:0 0 20px;\">최소 5개 주, 에듀테크 전면 금지 입법 검토</h2>\n  <p style=\"margin:0 0 36px;\">K-12 Dive의 보도에 따르면 캔자스·미주리·테네시·버지니아·웨스트버지니아 등 최소 5개 주가 올해 학교 내 에듀테크를 제한하거나 완전히 금지하는 법안을 심의 중입니다. 이 움직임은 학생의 개인 기기 반입 금지에서 한 발 나아가, 교육청이 지급한 기기와 AI 도구 전반으로 규제 범위를 확장하는 것이 특징입니다.</p>\n\n  <p style=\"margin:0 0 36px;\">가장 강경한 법안은 테네시에서 나왔습니다. <strong>테네시 HB 2393</strong>은 공립학교와 차터스쿨에서 K-5(초등) 학생의 디지털 기기 접근을 일체 금지하고, 교사의 수업 중 기기 활용도 차단합니다. 버지니아는 한 발 앞서 나가, <strong>SB 568</strong>이 이미 주 상원을 통과했습니다. 이 법안은 버지니아 교육부에 학년별 화면 시간 상한선을 담은 표준 정책 수립을 요구합니다.</p>\n\n  <!-- 인용 블록 -->\n  <blockquote style=\"border-left:4px solid #4338ca;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">\"학교는 생성형·대화형 AI를 포함한 모든 화면 기술을 K-5 단계에서 전면 금지해야 한다.\"</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— Distraction-Free Schools Policy Project, 모델 입법 권고안</p>\n  </blockquote>\n\n  <!-- 섹션 2: 찬반 논쟁 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">\"아동 보호\" 대 \"교육 효과\" — 첨예한 갈등</h2>\n  <p style=\"margin:0 0 36px;\">금지 추진의 이론적 근거를 제공하는 Distraction-Free Schools Policy Project는 K-5 전면 금지, 중학교(6-8학년) 교육청 기기 가정 반출 금지, 전 학년 생성형·대화형 AI 사용 금지라는 세 축의 모델 입법을 개발해 각 주에 배포하고 있습니다. 이 단체와 Fairplay 등 시민단체는 에듀테크가 청소년 정신건강 위기를 악화시키고, AI 도구가 데이터 수집과 중독적 설계로 학생을 착취한다고 주장합니다.</p>\n\n  <p style=\"margin:0 0 36px;\">교육계 주류는 즉각 반발했습니다. 전국 교육장협회(AASA)·교육 IT 협회(CoSN)·미국교원연맹(AFT)·전국교육협회(NEA) 등 주요 교육 단체 연합은 2026년 1월 13일 상원 통상과학교통위원회에 공개 서한을 보내 전면 금지 입법을 비판했습니다. 이들은 가정과 학교의 기술 활용을 구분해야 하며, 전면 금지보다는 교사 전문 연수·콘텐츠 필터링·데이터 보호 강화에 예산을 투입해야 한다고 주장했습니다.</p>\n\n  <!-- 섹션 3: 지침 불일치 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">28개 주 AI 지침, 제각각… 집행 효과 의문</h2>\n  <p style=\"margin:0 0 36px;\">교육정책연구소(CRPE)의 분석에 따르면, 2025년 4월 기준 이미 28개 이상의 주가 K-12 환경에서의 AI 지침을 발표했으나 내용이 서로 불일치하고 단편적입니다. 웨스트버지니아는 \"학생과 교직원은 사전 승인과 정확한 출처 표기 없이 생성형 AI를 포함한 어떠한 자료도 복사해서는 안 된다\"는 주 지침을 채택했지만, 이 같은 규정의 현장 집행 가능성에는 물음표가 붙습니다. CRPE는 전국 단위의 일관된 프레임워크 없이는 어떤 정책도 실효를 거두기 어렵다고 지적합니다.</p>\n\n  <!-- 섹션 4: 글로벌 대비 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">아시아는 반대 방향 — '기술 보호주의 vs 가속주의' 분열</h2>\n  <p style=\"margin:0 0 36px;\">미국 일부 주가 AI 금지 법안을 논의하는 사이, 한국은 AI 디지털 교과서를 전국 확대하고 있으며 싱가포르는 전 교육기관 AI 필수 과정 도입을, 인도는 3학년부터 AI 교육 커리큘럼 적용을 추진하고 있습니다. 같은 기술을 두고 한쪽에서는 \"규제해야 할 위험\"으로, 다른 쪽에서는 \"가르쳐야 할 역량\"으로 바라보는 시각의 분열이 국제 교육 정책의 핵심 갈등으로 부상하고 있습니다.</p>\n\n  <p style=\"margin:0 0 36px;\">이 격차는 국제 경쟁력 측면에서 장기적인 함의를 가집니다. AI 리터러시를 필수 역량으로 규정하고 체계적으로 교육하는 국가와, 아동 보호를 이유로 학교에서 AI 도구를 차단하는 국가 사이의 격차가 10년 후 인재 수준에 어떤 영향을 미칠지 교육계의 관심이 집중되고 있습니다.</p>\n\n  <!-- 참고 자료 -->\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.k12dive.com/news/states-weigh-limits-outright-bans-on-ed-tech-in-schools/813500/\" style=\"color:#4338ca;text-decoration:none;\">K-12 Dive — States weigh limits, outright bans on ed tech in schools (2026.03.03)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.ecs.org/artificial-intelligence-ai-education-task-forces/\" style=\"color:#4338ca;text-decoration:none;\">Education Commission of the States — AI in Education Task Forces</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://crpe.org/new-state-ai-policies-released-inconsistency-and-fragmentation/\" style=\"color:#4338ca;text-decoration:none;\">CRPE — New State AI Policies: Inconsistency and Fragmentation</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.cosn.org/wp-content/uploads/2026/01/Senate-Commerce-Hearing-Letter-2.pdf\" style=\"color:#4338ca;text-decoration:none;\">AASA·CoSN·AFT·NEA 등 교육 단체 연합 서한 (2026.01.13)</a></li>\n    </ol>\n  </div>\n\n  <!-- AI 공개 각주 -->\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "verdict": "PASS",
     "changes": [
-      {
-        "original": "한발 나아가, 교육청이 지급한 기기와",
-        "corrected": "한 발 나아가, 교육청이 지급한 기기와",
-        "reason": "띄어쓰기: '한 발'은 두 단어로 띄어 쓰는 것이 표준"
-      },
-      {
-        "original": "한발 앞서 나가,",
-        "corrected": "한 발 앞서 나가,",
-        "reason": "띄어쓰기: 동일 규칙 적용"
-      }
+      "AI 배지 pill 제거"
     ],
-    "readability_score": 82,
-    "links_checked": true,
-    "meta_suggestion": {
-      "meta_title": "미국 5개 주, 학교 생성형 AI 금지 법안 추진 — 글로벌 교육 정책 이분화",
-      "meta_description": "캔자스·테네시·버지니아 등 미국 5개 주가 학교 내 생성형·대화형 AI 에듀테크를 전면 금지하는 법안을 추진 중입니다. 한국·싱가포르가 AI 교육을 의무화하는 것과 정반대 흐름을 분석합니다."
-    }
+    "text_length": 2007,
+    "checked_at": "2026-03-09T13:33:30.535Z"
   },
   "publish_result": {
-    "ghost_post_id": "69a75ec00ac2ff00013a3e96",
-    "ghost_draft_url": "https://ubion.ghost.io/ghost/#/editor/post/69a75ec00ac2ff00013a3e96",
-    "status": "draft",
-    "published_at": "2026-03-03T22:21:52.176Z"
-  }
+    "ghost_post_id": "69a9fee1ff4fbf0001ab6c65",
+    "ghost_edit_url": "https://ubion.ghost.io/ghost/#/editor/post/69a9fee1ff4fbf0001ab6c65",
+    "status": "published",
+    "published_at": "2026-03-05T22:08:33.842Z"
+  },
+  "rejected_at": "2026-03-06T19:16:13+09:00",
+  "rejection_reason": "신뢰도 0 - 팩트체크 미수행",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "ghost_id": "69aecc2aff4fbf0001ab7c74",
+  "ghost_url": "https://insight.ubion.global/k12dive-states-ban-edtech-generative-ai-3/",
+  "published_at": "2026-03-09T13:33:30.991Z"
 }

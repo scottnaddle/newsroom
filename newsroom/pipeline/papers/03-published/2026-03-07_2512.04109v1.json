@@ -1,0 +1,56 @@
+{
+  "arxiv_id": "2512.04109v1",
+  "title": "ChatGPT-5 in Secondary Education: A Mixed-Methods Analysis of Student Attitudes, AI Anxiety, and Hallucination-Aware Use",
+  "summary": "This mixed-methods study examined secondary students' interactions with the generative AI chatbot ChatGPT-5 in a formal classroom setting, focusing on attitudes, anxiety, and responses to hallucinated outputs. Participants were 109 16-year-old students from three Greek high schools who used ChatGPT-5 during an eight-hour intervention in the course \"Technology.\" Students engaged in information seeking, CV generation, document and video summarization, image generation, quiz creation, and age-appropriate explanations, including tasks deliberately designed to elicit hallucinations. Quantitative data were collected with the Student Attitudes Toward Artificial Intelligence scale (SATAI) and the Artificial Intelligence Anxiety Scale (AIAS); qualitative data came from semi-structured interviews with 36 students. SATAI results showed moderately positive attitudes toward AI, with stronger cognitive evaluations than behavioral intentions, whereas AIAS scores indicated moderate learning-related anxiety and higher concern about AI-driven job replacement. Gender differences in AI anxiety were small and non-significant, while female students reported more positive cognitive attitudes than males. AI attitudes and AI anxiety were essentially uncorrelated. Thematic analysis identified four pedagogical affordances (knowledge expansion, immediate feedback, familiar interface, perceived skill development) and three constraints (uncertainty about accuracy, anxiety about AI feedback, privacy concerns). After encountering hallucinations, many students reported restricting AI use to domains where they already possessed knowledge and could verify answers, a strategy termed \"epistemic safeguarding.\" The study discusses implications for critical AI literacy in secondary education.",
+  "authors": [
+    "Tryfon Sivenas"
+  ],
+  "categories": [
+    "cs.CY",
+    "cs.CY"
+  ],
+  "published": "2025-11-30T19:28:48Z",
+  "updated": "2025-11-30T19:28:48Z",
+  "pdf_url": "https://arxiv.org/pdf/2512.04109v1",
+  "abs_url": "https://arxiv.org/abs/2512.04109v1",
+  "source": "arxiv",
+  "relevance_score": 90,
+  "source_query": "ti:chatgpt AND (student OR classroom OR school)",
+  "collected_at": "2026-03-07T18:01:11.629Z",
+  "stage": "published",
+  "audit_log": [
+    {
+      "agent": "paper-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T18:01:23.536Z",
+      "source": "arxiv",
+      "relevance_score": 90
+    },
+    {
+      "agent": "paper-summarizer",
+      "action": "summarized",
+      "timestamp": "2026-03-08T00:11:21.604Z",
+      "model": "glm-4-plus"
+    },
+    {
+      "agent": "paper-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T17:03:51.166Z"
+    }
+  ],
+  "korean_title": "중등교육에서의 ChatGPT-5: 학생들의 태도, AI 불안감 및 환각 인지 사용에 대한 혼합방법 연구",
+  "korean_summary": "이 연구는 중등학생들이 교실에서 ChatGPT-5를 활용했을 때의 태도, 불안감, 그리고 AI의 환각 정보에 대한 반응을 조사했습니다. 학생들은 대체로 AI에 대해 긍정적인 태도를 보였으나, 학습 관련 불안과 AI에 의한 일자리 대체에 대한 우려도 있었습니다. 특히 환각 정보를 접한 후, 학생들은 자신이 잘 아는 분야에서 AI를 사용하는 '인식적 안전장치' 전략을 사용하는 경향을 보였습니다.",
+  "key_findings": [
+    "학생들은 AI에 대해 긍정적인 인식을 가졌지만, 실제 사용으로 이어지는 의도는 낮았습니다.",
+    "여성 학생들이 남성 학생들보다 AI에 대해 더 긍정적인 인식을 보였으나, 성별 간 불안감 차이는 없었습니다.",
+    "AI의 환각 정보를 접한 후, 학생들은 정보의 정확성을 확인할 수 있는 분야에서만 AI를 사용하려는 '인식적 안전장치(epistemic safeguarding)' 전략을 사용했습니다."
+  ],
+  "implications": "학생들이 AI의 한계를 인지하고 비판적으로 사용하는 능력을 길러주는 비판적 AI 리터러시 교육이 필수적입니다.\n교사는 학생들이 환각 정보에 대한 경험을 통해 AI의 신뢰도에 대해 스스로 생각하게 하는 활동을 설계해야 합니다.",
+  "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>중등교육에서의 ChatGPT-5: 학생들의 태도, AI 불안감 및 환각 인지 사용에 대한 혼합방법 연구</title>\n</head>\n<body style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;padding:20px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n\n  <!-- 논문 정보 박스 -->\n  <div style=\"background:#f8f9ff;border-left:4px solid #8b5cf6;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:32px;\">\n    <p style=\"margin:0 0 12px;font-size:15px;color:#64748b;\">\n      <strong>📄 논문</strong> | Tryfon Sivenas\n    </p>\n    <p style=\"margin:0 0 8px;font-size:14px;color:#64748b;\">\n      <strong>게재일:</strong> 2025. 12. 1. | \n      <strong>arXiv:</strong> <a href=\"https://arxiv.org/abs/2512.04109v1\" style=\"color:#8b5cf6;\">2512.04109v1</a>\n    </p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">\n      <a href=\"https://arxiv.org/pdf/2512.04109v1\" style=\"color:#8b5cf6;margin-right:16px;\">📥 PDF 다운로드</a>\n      <a href=\"https://arxiv.org/abs/2512.04109v1\" style=\"color:#8b5cf6;\">🔗 원문 보기</a>\n    </p>\n  </div>\n\n  <!-- 한국어 요약 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📝 한국어 요약</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">이 연구는 중등학생들이 교실에서 ChatGPT-5를 활용했을 때의 태도, 불안감, 그리고 AI의 환각 정보에 대한 반응을 조사했습니다. 학생들은 대체로 AI에 대해 긍정적인 태도를 보였으나, 학습 관련 불안과 AI에 의한 일자리 대체에 대한 우려도 있었습니다. 특히 환각 정보를 접한 후, 학생들은 자신이 잘 아는 분야에서 AI를 사용하는 '인식적 안전장치' 전략을 사용하는 경향을 보였습니다.</p>\n\n  <!-- 핵심 발견 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">💡 핵심 발견</h2>\n  <ul style=\"margin:0 0 24px;padding-left:24px;line-height:1.9;\">\n    <li style=\"margin-bottom:8px;\">학생들은 AI에 대해 긍정적인 인식을 가졌지만, 실제 사용으로 이어지는 의도는 낮았습니다.</li>\n    <li style=\"margin-bottom:8px;\">여성 학생들이 남성 학생들보다 AI에 대해 더 긍정적인 인식을 보였으나, 성별 간 불안감 차이는 없었습니다.</li>\n    <li style=\"margin-bottom:8px;\">AI의 환각 정보를 접한 후, 학생들은 정보의 정확성을 확인할 수 있는 분야에서만 AI를 사용하려는 '인식적 안전장치(epistemic safeguarding)' 전략을 사용했습니다.</li>\n  </ul>\n\n  <!-- 교육적 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">🎓 교육적 시사점</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">학생들이 AI의 한계를 인지하고 비판적으로 사용하는 능력을 길러주는 비판적 AI 리터러시 교육이 필수적입니다.\n교사는 학생들이 환각 정보에 대한 경험을 통해 AI의 신뢰도에 대해 스스로 생각하게 하는 활동을 설계해야 합니다.</p>\n\n  <!-- 원문 초록 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📋 원문 초록 (Abstract)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.8;font-style:italic;color:#374151;background:#f8f9ff;padding:16px 20px;border-radius:8px;\">This mixed-methods study examined secondary students' interactions with the generative AI chatbot ChatGPT-5 in a formal classroom setting, focusing on attitudes, anxiety, and responses to hallucinated outputs. Participants were 109 16-year-old students from three Greek high schools who used ChatGPT-5 during an eight-hour intervention in the course \"Technology.\" Students engaged in information seeking, CV generation, document and video summarization, image generation, quiz creation, and age-appropriate explanations, including tasks deliberately designed to elicit hallucinations. Quantitative data were collected with the Student Attitudes Toward Artificial Intelligence scale (SATAI) and the Artificial Intelligence Anxiety Scale (AIAS); qualitative data came from semi-structured interviews with 36 students. SATAI results showed moderately positive attitudes toward AI, with stronger cognitive evaluations than behavioral intentions, whereas AIAS scores indicated moderate learning-related anxiety and higher concern about AI-driven job replacement. Gender differences in AI anxiety were small and non-significant, while female students reported more positive cognitive attitudes than males. AI attitudes and AI anxiety were essentially uncorrelated. Thematic analysis identified four pedagogical affordances (knowledge expansion, immediate feedback, familiar interface, perceived skill development) and three constraints (uncertainty about accuracy, anxiety about AI feedback, privacy concerns). After encountering hallucinations, many students reported restricting AI use to domains where they already possessed knowledge and could verify answers, a strategy termed \"epistemic safeguarding.\" The study discusses implications for critical AI literacy in secondary education.</p>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">\n    본 요약은 AI가 작성했습니다. 원문은 위의 링크에서 확인하세요.\n  </p>\n\n</body>\n</html>",
+  "publish_result": {
+    "ghost_post_id": "69adabf7ff4fbf0001ab75b1",
+    "public_url": "https://ubion.ghost.io/nonmun-jungdeunggyoyugeseoyi-chatgpt-5-hagsaengdeulyi-taedo-ai-bulangam-mic-hwangag-inji-sayonge-daehan-honhabbangbeob-yeongu/",
+    "status": "published",
+    "published_at": "2026-03-08T17:03:51.166Z"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "stage": "published",
+  "source": {
+    "url": "https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education",
+    "title": "Cantwell, Moran Introduce Bill to Boost AI Education (AI Education Act of 2026)",
+    "snippet": "U.S. Senators introduce the AI Education Act of 2026 to expand scholarship and professional development opportunities to study artificial intelligence with support from the National Science Foundation (NSF).",
+    "published_date": "2026-03-03"
+  },
+  "relevance_score": 88,
+  "tags": [
+    "policy",
+    "legislation",
+    "us"
+  ],
+  "collected_at": "2026-03-09T04:22:00.000Z",
+  "assigned_at": "2026-03-09T04:35:00.000Z",
+  "reported_at": "2026-03-09T04:40:00.000Z",
+  "editor_note": "미국 상원 AI 교육법안. 높은 시의성과 정책 영향력. NSF 장학금·교사 전문성 개발 프로그램.",
+  "priority": "high",
+  "reporting_brief": {
+    "who": "미국 상원의원 Maria Cantwell(민주당, 워싱턴)과 Jerry Moran(공화당, 캔자스). Cantwell은 상원 상무위 간사, Moran은 상무위 선임위원.",
+    "what": "초당적 'NSF AI Education Act of 2026' 법안 발의. NSF를 통해 AI 분야 학부·대학원 장학금, 현직 STEM·교육 종사자 전문성 개발 펠로우십, K-12 AI 교육 가이던스, 커뮤니티칼리지 AI 우수센터(최소 5개), 랜드그랜트 대학·협력지도서비스를 통한 농업 AI 연구·훈련 보조금 등을 신설.",
+    "why": "AI 인력 수요 급증 대응, 중국과의 기술 경쟁력 유지, 미국 AI 기술 스택 글로벌 표준화 목표. NSF Grand Challenge로 100만 명 이상 AI 워크포스 교육 전략 모색. 트럼프 대통령의 AI 리터러시 행정명령(EO 14277)과 교육부의 AI 교육 보조금 우선순위 지정과 맥을 같이함.",
+    "when": "2026년 3월 3일 법안 발의",
+    "context": "2029 PISA에서 AI 리터러시가 처음 평가 예정. 연방 차원 AI 교육 체계화와 주(州) 단위 49개 법안(23개 주) 움직임이 동시에 진행 중. NSF CyberAI SFS 프로그램도 별도 운영 중.",
+    "sources": [
+      {
+        "url": "https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education",
+        "type": "primary",
+        "reliability": "high",
+        "note": "상원 상무위 공식 보도자료"
+      },
+      {
+        "url": "https://www.moran.senate.gov/public/index.cfm/news-releases?id=41E503F4-146E-4387-A3BD-9EDACAAB3798",
+        "type": "primary",
+        "reliability": "high",
+        "note": "Moran 상원의원 공식 보도자료"
+      },
+      {
+        "url": "https://www.benton.org/headlines/sens-cantwell-moran-introduce-bill-boost-ai-education",
+        "type": "secondary",
+        "reliability": "high",
+        "note": "Benton Institute 분석"
+      },
+      {
+        "url": "https://www.quiverquant.com/news/Press+Release:+Sens.+Jerry+Moran+and+Maria+Cantwell+Introduce+Bipartisan+NSF+AI+Education+Act+to+Enhance+Workforce+Development",
+        "type": "secondary",
+        "reliability": "medium",
+        "note": "Quiver Quantitative 보도"
+      },
+      {
+        "url": "https://www.nsf.gov/funding/opportunities/cyberai-sfs-cyberaicorps-scholarship-service/nsf26-503/solicitation",
+        "type": "reference",
+        "reliability": "high",
+        "note": "NSF CyberAI SFS 프로그램 (관련 기존 정책)"
+      }
+    ],
+    "perspectives": {
+      "government": "초당적 지지(민주당 Cantwell + 공화당 Moran). 연방 차원 AI 교육 인프라 투자 의지. 농업·제조·교육 분야 특화 장학금으로 다양한 산업 커버.",
+      "education": "K-12 교사 AI 역량 강화 가이던스 마련, 커뮤니티칼리지 AI 우수센터 설립으로 고등교육 접근성 확대. 기존 졸업 요건 내 AI 교과 편입 방식으로 부담 최소화.",
+      "industry": "민간 부문 재정 참여 유도(장학금·펠로우십 공동 지원). AI 인력 파이프라인 확대로 산업계 인력난 해소 기대."
+    },
+    "suggested_angle": "미국 연방·주 차원 AI 교육 정책이 동시다발적으로 움직이는 2026년 '골드러시' 현상을 조망. NSF AI Education Act와 23개 주 49개 법안을 연결해 미국 AI 교육 체계의 구조적 전환을 분석하고, 한국 AI 디지털 교과서 정책과 비교하는 앵글."
+  },
+  "draft": {
+    "headline": "미국 상원, 초당적 'AI 교육법' 발의… NSF 통해 AI 인력 100만 명 양성 나서",
+    "subheadline": "Cantwell·Moran 상원의원, 장학금·커뮤니티칼리지 AI 센터·K-12 가이던스 포괄하는 법안 제출",
+    "html": "<div style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;font-size:17px;line-height:1.9;color:#1a202c\">\n\n<div style=\"border-left:4px solid #4338ca;background:#f8f9ff;padding:18px 22px;margin-bottom:28px;border-radius:0 8px 8px 0\">\n<p style=\"margin:0;font-size:18px;font-weight:600;color:#4338ca\">미국 상원에서 민주·공화 양당이 손잡고 'NSF AI Education Act of 2026'을 발의했다. 국립과학재단(NSF)을 통해 AI 인력 양성에 대규모 투자하겠다는 구상이다. 장학금, 교사 연수, 커뮤니티칼리지 AI 우수센터 설립, K-12 교육 가이던스까지 포괄하는 이 법안은 중국과의 AI 기술 경쟁과 2029년 PISA AI 리터러시 평가를 앞두고 나왔다.</p>\n</div>\n\n<figure class=\"kg-card kg-image-card kg-width-full\">\n<img src=\"https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=1200&q=80\" alt=\"미국 의회 건물\" style=\"width:100%;border-radius:8px\" />\n<figcaption style=\"text-align:center;font-size:14px;color:#94a3b8;margin-top:8px\">미국 의회는 AI 교육을 국가 경쟁력의 핵심으로 보고 있다 (Unsplash)</figcaption>\n</figure>\n\n<h2 style=\"font-size:19px;margin-top:36px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">초당적 합의, AI 교육을 국가 안보 수준으로</h2>\n<p style=\"font-size:17px\">3월 3일, 미국 상원 상무위원회의 Maria Cantwell(민주당, 워싱턴) 간사와 Jerry Moran(공화당, 캔자스) 선임위원이 공동으로 'NSF AI Education Act of 2026'을 발의했다. 당파를 초월한 이 법안은 AI 인력 양성을 단순한 교육 의제가 아닌 국가 경쟁력·안보 차원의 과제로 격상시킨다는 점에서 주목할 만하다.</p>\n<p style=\"font-size:17px\">법안의 핵심은 국립과학재단(NSF)을 컨트롤타워로 삼아 AI 교육 인프라를 체계적으로 구축하는 것이다. NSF의 'Grand Challenge'는 100만 명 이상의 AI 워크포스 교육을 목표로 하고 있으며, 이번 법안은 그 실행 수단을 법제화한다. 트럼프 대통령이 서명한 AI 리터러시 행정명령(EO 14277)과 교육부의 AI 교육 보조금 우선순위 지정에 이어, 의회까지 나선 셈이다.</p>\n\n<h2 style=\"font-size:19px;margin-top:36px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">장학금에서 농업 AI까지, 법안의 5대 축</h2>\n<p style=\"font-size:17px\">법안이 제시하는 AI 교육 투자 구조는 다섯 가지 축으로 나뉜다. 첫째, AI 분야 학부·대학원 장학금을 대폭 확대한다. 둘째, 현직 STEM·교육 종사자를 위한 전문성 개발 펠로우십을 신설해 현장 인력의 AI 역량을 끌어올린다. 셋째, K-12 단계부터 AI 교육 가이던스를 마련해 초·중·고 교실에 AI가 체계적으로 들어올 수 있는 틀을 제공한다.</p>\n<p style=\"font-size:17px\">넷째, 전국에 최소 5개의 커뮤니티칼리지 AI 우수센터를 설립한다. 4년제 대학에 비해 접근성이 높은 커뮤니티칼리지를 활용해 AI 교육의 문턱을 낮추겠다는 전략이다. 다섯째, 랜드그랜트 대학과 협력지도서비스(Cooperative Extension Service)를 통해 농업 AI 연구·훈련 보조금을 지원한다. 실리콘밸리만의 AI가 아니라 농촌과 제조 현장까지 AI가 침투해야 한다는 인식이 반영됐다.</p>\n\n<h2 style=\"font-size:19px;margin-top:36px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">23개 주 49개 법안과 동시 진행… 미국 AI 교육 '골드러시'</h2>\n<p style=\"font-size:17px\">연방 차원의 이 법안은 고립된 움직임이 아니다. 조지타운대 FutureEd에 따르면, 2026년 회기 기준 이미 23개 주에서 49개의 AI 교육 관련 법안이 발의된 상태다. 일리노이주는 9학년부터 1년간 AI 필수과목을 도입하는 법안(HB 4411)을, 하와이주는 500만 달러 규모의 AI 리터러시 보조금과 6주 집중 과정(SB 2212)을 추진 중이다. 연방과 주 정부가 동시에 움직이는 '골드러시'가 벌어지고 있는 것이다.</p>\n<p style=\"font-size:17px\">이 같은 흐름의 배경에는 2029년 PISA 평가가 있다. OECD가 처음으로 AI 리터러시를 국제 학력 평가에 포함하기로 하면서, 각국은 자국 학생들의 AI 역량을 끌어올려야 하는 시간표를 갖게 됐다. 한국이 2025년부터 AI 디지털 교과서를 도입하고 있는 것도 같은 맥락이다. 미국의 연방·주 동시 입법은 한국에도 AI 교육 정책의 속도와 범위에 대한 시사점을 던진다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0;margin-top:36px;padding-top:20px\">\n<h3 style=\"font-size:16px;color:#64748b;margin-bottom:12px\">📎 참고자료</h3>\n<ol style=\"font-size:15px;color:#475569;padding-left:20px\">\n<li><a href=\"https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education\" style=\"color:#4338ca\">상원 상무위원회 공식 보도자료</a></li>\n<li><a href=\"https://www.moran.senate.gov/public/index.cfm/news-releases?id=41E503F4-146E-4387-A3BD-9EDACAAB3798\" style=\"color:#4338ca\">Moran 상원의원 공식 보도자료</a></li>\n<li><a href=\"https://www.benton.org/headlines/sens-cantwell-moran-introduce-bill-boost-ai-education\" style=\"color:#4338ca\">Benton Institute 분석</a></li>\n<li><a href=\"https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/\" style=\"color:#4338ca\">FutureEd 2026 AI 교육 법안 트래커</a></li>\n<li><a href=\"https://www.nsf.gov/funding/opportunities/cyberai-sfs-cyberaicorps-scholarship-service/nsf26-503/solicitation\" style=\"color:#4338ca\">NSF CyberAI SFS 프로그램</a></li>\n</ol>\n</div>\n\n<p style=\"font-size:13px;color:#cbd5e1;margin-top:32px\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>",
+    "ghost_tags": [
+      "AI 교육",
+      "미국 정책",
+      "AI 리터러시",
+      "NSF",
+      "입법"
+    ],
+    "references": [
+      "https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education",
+      "https://www.moran.senate.gov/public/index.cfm/news-releases?id=41E503F4-146E-4387-A3BD-9EDACAAB3798",
+      "https://www.benton.org/headlines/sens-cantwell-moran-introduce-bill-boost-ai-education",
+      "https://www.quiverquant.com/news/Press+Release:+Sens.+Jerry+Moran+and+Maria+Cantwell+Introduce+Bipartisan+NSF+AI+Education+Act+to+Enhance+Workforce+Development",
+      "https://www.nsf.gov/funding/opportunities/cyberai-sfs-cyberaicorps-scholarship-service/nsf26-503/solicitation"
+    ],
+    "word_count": 850,
+    "category": "policy"
+  },
+  "fact_check": {
+    "score": 94,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "Cantwell(민주당, 워싱턴)-Moran(공화당, 캔자스) 초당적 법안 발의 — 상원 상무위 공식 보도자료, Moran 의원실, Benton Institute, KCLY Radio 등 다수 확인",
+      "NSF AI Education Act of 2026 법안명 — 공식 보도자료 확인",
+      "장학금·펠로우십·커뮤니티칼리지 AI 센터·K-12 가이던스·농업 AI 보조금 — Benton Institute 분석, Quiver Quantitative 확인",
+      "NSF Grand Challenge 100만 명 AI 워크포스 목표 — 보도자료 기반 확인",
+      "트럼프 AI 리터러시 행정명령(EO 14277) — FutureEd 트래커에서 언급 확인",
+      "2029 PISA AI 리터러시 첫 평가 — OECD 공식 사이트(PISA 2029 MAIL) 확인"
+    ]
+  },
+  "meta_title": "미국 상원, 초당적 'AI 교육법' 발의… NSF 통해 AI 인력 100만 명 양성 나서",
+  "meta_description": "Cantwell·Moran 상원의원, 장학금·커뮤니티칼리지 AI 센터·K-12 가이던스 포괄하는 법안 제출",
+  "desk_approved_at": "2026-03-09T05:37:48.506821Z",
+  "copy_edited_at": "2026-03-09T05:57:18.285Z",
+  "ghost_id": "69ae68bcff4fbf0001ab7818",
+  "ghost_url": "https://insight.ubion.global/p/744c2722-e521-43db-9672-0578fe764a88/",
+  "published_at": "2026-03-09T06:29:16.594Z"
+}

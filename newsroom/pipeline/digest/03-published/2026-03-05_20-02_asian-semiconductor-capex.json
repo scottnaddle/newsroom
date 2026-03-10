@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Aggressive investments in AI chips and HBM! Asian semiconductor giants' spending this year is expected to reach $136 billion, a 25% increase year-on-year",
+    "url": "https://news.futunn.com/en/post/69593577/aggressive-investments-in-ai-chips-and-hbm-asian-semiconductor-giants",
+    "source_name": "Futunn / Wall Street News",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Asian semiconductor manufacturers including TSMC, Samsung, and SK Hynix are planning record-breaking capital expenditures of $136 billion in 2026, a 25% increase from 2025. Focus is on AI chips and high-bandwidth memory production.",
+    "published_date": "2026-03-04",
+    "collected_at": "2026-03-05T20:02:44Z"
+  },
+  "digest": {
+    "headline": "아시아 반도체 3사, 2026년 AI칩·HBM 투자 136억 달러로 급증",
+    "lead": "TSMC, 삼성, SK하이닉스 등 아시아 반도체 거대 3사가 2026년 자본 지출액을 136억 달러로 늘리기로 결정했다. 이는 전년 대비 25% 증가한 규모로, AI칩과 고대역폭 메모리(HBM) 생산 능력 확대에 집중된다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">TSMC, 삼성, SK하이닉스 등 아시아 반도체 거대 3사가 2026년 자본 지출액을 136억 달러로 늘리기로 결정했다. 이는 전년 대비 25% 증가한 규모로, AI칩과 고대역폭 메모리(HBM) 생산 능력 확대에 집중된다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">AI 혁신으로 수요 폭증한 고성능 반도체에 대응하기 위해 주요 반도체 제조업체들이 생산 능력 확대에 경쟁적으로 투자하고 있다. TSMC는 AI칩 생산 라인을 확충하고, 삼성과 SK하이닉스는 AI 학습에 필수적인 고대역폭 메모리 생산에 역량을 집중하고 있다. 이러한 대규모 투자는 글로벌 AI 산업이 인프라 제약에서 벗어나기 위한 신호로 해석된다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">올해 대규모 투자로 내년부터 글로벌 AI칩 공급 부족 현상이 점차 완화될 것으로 기대된다. 장기적으로는 반도체 제조 과정의 첨단화에 따른 원가 경감과 공급 안정화로 AI 기술의 대중화가 가속될 전망이다. 아시아 반도체 업체들이 주도적으로 투자를 확대함에 따라 글로벌 AI 인프라 지형도 재편될 가능성도 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">반도체 생산 능력 확대와 원가 절감은 에듀테크 스타트업의 AI 인프라 접근성을 크게 높일 것으로 예상된다. 현재는 대형 기술 회사들이 독점하다시피한 고성능 AI칩 사용이 보편화되면서, 개인화 학습 플랫폼이나 AI 튜터링 서비스 같은 교육 혁신이 더 빠르게 확산될 수 있다. 또한 각 교육 기관이 자체 AI 모델 개발·배포에 필요한 비용 부담이 감소하면서 교육 현장의 디지털 전환이 가속화될 가능성도 높다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://news.futunn.com/en/post/69593577/aggressive-investments-in-ai-chips-and-hbm-asian-semiconductor-giants\" style=\"color:#FF6B35;text-decoration:none;\">Futunn / Wall Street News</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "semiconductor"
+    ],
+    "meta_title": "아시아 반도체 3사, 2026년 AI칩·HBM에 136억 달러 투자",
+    "meta_description": "TSMC, 삼성, SK하이닉스가 AI칩과 고대역폭 메모리 생산 확대에 136억 달러 투자. 전년 대비 25% 증가로 AI 인프라 공급 부족 현상 완화 전망.",
+    "word_count": 582
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-05T20:02:44Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T20:03:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T11:27:13.759Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a96891e2eb440001d55fbb",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a96891e2eb440001d55fbb",
+    "public_url": "https://ubion.ghost.io/asia-bandoce-3sa-2026nyeon-aicib-hbm-tuja-136eog-dalreoro-geubjeung/",
+    "status": "published",
+    "published_at": "2026-03-05T11:27:13.000Z"
+  }
+}

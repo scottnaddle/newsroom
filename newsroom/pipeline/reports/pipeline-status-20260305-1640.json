@@ -1,0 +1,61 @@
+{
+  "timestamp": "2026-03-05T07:40:56Z",
+  "check_type": "editor_desk_audit",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "note": "신뢰도 기반 배정 완료"
+    },
+    "02_assigned": {
+      "total": 8,
+      "note": "취재 배정 대기 (reporter 처리 필요)"
+    },
+    "03_reported": {
+      "total": 0,
+      "note": "취재 완료 대기"
+    },
+    "04_drafted": {
+      "total": 4,
+      "note": "기사 초안 (writer 처리 중 또는 REVISE 대기)"
+    },
+    "05_fact_checked": {
+      "total": 1,
+      "status_breakdown": {
+        "pass_90plus": 0,
+        "pass_80_89": 1,
+        "below_80": 0
+      },
+      "note": "팩트체커 검증 완료"
+    },
+    "06_desk_approved": {
+      "total": 0,
+      "note": "에디터 승인 완료"
+    },
+    "07_copy_edited": {
+      "total": 1,
+      "note": "교열 진행 중"
+    },
+    "08_published": {
+      "total": 59,
+      "note": "발행 완료"
+    },
+    "rejected": {
+      "total": 35,
+      "note": "거부/KILL"
+    }
+  },
+  "today_actions": {
+    "sourced_routed": 8,
+    "approved": 1,
+    "revise_sent_back": 1,
+    "revise_pending": 1
+  },
+  "bottleneck": "04_drafted (4개) — writer 처리 필요",
+  "next_steps": [
+    "Reporter: 02-assigned 8개 기사 취재 진행",
+    "Writer: 04-drafted 기사 수정 (building-an-ai-ready-america, ccc-ai-reuse-rights)",
+    "Copy-editor: 07-copy-edited (benton-ai-literacy) 교열 완료",
+    "Publisher: 완료된 파일을 08-published로 자동 발행"
+  ],
+  "summary": "✅ 파이프라인 정상 가동. 신뢰도 기반 자동 라우팅 완료. 에디터 체크리스트 실행 완료. Writer의 REVISE 처리 대기 중."
+}

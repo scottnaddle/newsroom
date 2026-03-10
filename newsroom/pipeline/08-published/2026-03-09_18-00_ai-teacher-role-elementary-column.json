@@ -1,0 +1,110 @@
+{
+  "title": "AI 시대, 초등교사는 사라지지 않는다 — 관계·돌봄·감정의 영역은 기계가 대신할 수 없다",
+  "source": {
+    "url": "https://www.kgnews.co.kr/news/article.html?no=886282",
+    "name": "경기신문",
+    "reliability": "medium"
+  },
+  "summary": "AI가 교단에 서는 날은 기술 완성도가 아닌 세대 경험에서 결정될 것이라는 현직 초등교사의 칼럼.",
+  "category": "opinion",
+  "score": 68,
+  "stage": "published",
+  "collected_at": "2026-03-09T09:00:00.000Z",
+  "tags": [
+    "AI교육",
+    "교사",
+    "초등교육",
+    "칼럼"
+  ],
+  "reporting_brief": {
+    "WHO": "경기신문 교육 칼럼니스트(현직 초등교사 추정), 소설가 장강명(<먼저 온 미래> 저자)",
+    "WHAT": "현직 교사의 관점에서 AI 교사 대체 논쟁을 다룬 칼럼. 핵심 논점: (1) 초등교육은 돌봄·관계 포함, 기계 대체 어려움, (2) 그러나 기술은 항상 예상보다 빠르게 변화, (3) 대체 시점은 기술 완성도보다 '세대 경험'에 의해 결정될 것, (4) 교사 스스로 AI와 공존할 전문성 증명해야.",
+    "WHY": "AI 확산 속도에 비해 교사 역할 재정의가 미비. 의료·법률·번역 등 전문직도 AI로 대체 진행 중. '인간 고유의 영역'으로 여겨지던 예술·글쓰기가 오히려 먼저 흔들리는 역설.",
+    "WHEN": "2026년 3월 5일 보도",
+    "CONTEXT": "장강명 <먼저 온 미래>: 알파고 이후 바둑계에서 프로 기사 대신 AI로 학습하는 사례. 교육부 AI 중점학교 확대, 비상교육 에듀테크 수업 공모전 등 AI 교육 현장 도입 가속화.",
+    "SOURCES": [
+      {
+        "name": "경기신문",
+        "url": "https://www.kgnews.co.kr/news/article.html?no=886282",
+        "reliability": "medium"
+      },
+      {
+        "name": "한국대학신문(AI교육 도입)",
+        "url": "https://news.unn.net/news/articleView.html?idxno=590453",
+        "reliability": "high"
+      },
+      {
+        "name": "전국인력신문(AI 교육혁명)",
+        "url": "https://www.kjob.news/news/470555",
+        "reliability": "medium"
+      }
+    ],
+    "PERSPECTIVES": {
+      "교사": "초등교육은 관계의 공간이며 교육은 사람의 일이라는 믿음 여전. 그러나 그 확신이 얼마나 오래갈지 장담 어려움",
+      "기술계": "AI는 방대한 지식 저장, 피로 없음, 편견 없는 학습 가능 — 효율성에서 이미 인간 앞섬",
+      "사회": "대체 시점은 기술이 아닌 세대 경험 문제. 로봇 보살핌을 받고 자란 세대에겐 AI 교사가 자연스러울 것"
+    },
+    "SUGGESTED_ANGLE": "현직 교사의 솔직한 자기 성찰을 중심으로, 장강명의 바둑 AI 사례와 연결해 '교사 대체'가 기술이 아닌 문화적 수용의 문제임을 조명. 교사가 증명해야 할 '지식 너머의 전문성'이 무엇인지 탐구."
+  },
+  "draft": {
+    "headline": "AI 시대, 초등교사는 사라지지 않는다",
+    "subheadline": "관계·돌봄·감정의 영역은 기계가 대신할 수 없다 — 교사가 증명해야 할 전문성의 진정한 의미",
+    "slug": "ai-teacher-role-elementary",
+    "html": "<div style=\"font-family:'Noto Sans KR', sans-serif; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e; margin:0 auto; padding:0 20px;\">\n\n\n\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">의료·법률·번역도 대체되는데, 교육은 안전할까?</h2>\n<p style=\"margin:0 0 32px;\">의료진을 진단 능력에서 앞지르는 의료 AI, 법률가를 넘어서는 법률 검색 시스템, 전문 번역가의 영역을 잠식하는 기계 번역기. 지난 10년간 우리가 목격한 현실은 '전문성'이라는 방패도 AI의 공략 앞에서는 점차 무력해지고 있다는 것이다.</p>\n<p style=\"margin:0 0 32px;\">역설적이게도, '창의력'과 '감정'이 필수라고 여겨지던 분야들이 먼저 기계에 포위되고 있다. 소설, 미술, 음악, 글쓰기. 이들 영역에서 생성형 AI는 이미 '충분히 좋은' 결과물을 만들어낸다. 그렇다면 초등학교 교사는? 교육의 본질이 관계와 돌봄에 있다는 믿음만으로, 과연 AI 시대를 견딜 수 있을까?</p>\n\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">알파고에서 배우는 교육의 미래</h2>\n<p style=\"margin:0 0 32px;\">소설가 장강명은 저작 <먼저 온 미래>에서 흥미로운 관찰을 제시한다. 알파고 이후 바둑계의 변화다. 프로 기사들은 더 이상 인간 스승을 찾지 않는다. 대신 AI와의 대국으로 자신을 단련하고, AI의 수를 연구하며 학습한다. 세대가 바뀔수록 '인간 기사 스승'의 존재 이유는 점차 희미해진다. 이 과정에서 중요한 것은 기술의 완성도가 아니라 세대의 경험이다.</p>\n<p style=\"margin:0 0 32px;\">바둑의 미래 세대는 AI 수를 자연스럽게 받아들이는 환경에서 자라날 것이다. 마찬가지로 교육도 그럴 것이다. AI 튜터링, 개인화된 학습 경로, 24시간 응답하는 교육 기계. 이런 것들을 어려서부터 경험한 세대에게는 '인간 교사'라는 개념 자체가 낡은 것이 될 수 있다. '세대 경험'이 기술을 수용하는 문화적 토양을 만드는 것이다.</p>\n\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">교사는 지식 저장소가 아니라 관계의 매개자여야 한다</h2>\n<p style=\"margin:0 0 32px;\">하지만 현직 초등교사의 목소리는 여기서 멈추지 않는다. 초등교육의 본질을 직면한다는 것이다. 초등학교 교실은 단순한 지식 전달의 장이 아니다. 그곳은 아이들이 처음으로 집단 생활을 배우고, 관계 속에서 감정을 학습하고, 어른의 돌봄을 경험하는 공간이다. AI가 수학 문제를 완벽하게 풀어주고, 영어를 유창하게 가르칠 수 있다 하더라도, 외로운 아이를 위로하고, 잘못한 아이를 다시 일으켜 세우는 일은 기계가 할 수 없다.</p>\n<p style=\"margin:0 0 32px;\">교사는 '지식 저장소'로서의 역할은 확실히 줄어들 것이다. 그러나 대신 '관계의 매개자'로서의 역할은 더욱 중요해질 가능성이 높다. 기계가 효율적으로 지식을 전달하는 시대에, 교사가 증명해야 할 전문성은 무엇인가? 그것은 아마도 '개인적 관계' '감정적 공감' '도덕적 지도' 같은 것들일 것이다.</p>\n\n\n\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">결국 세대 경험의 문제다</h2>\n<p style=\"margin:0 0 32px;\">AI 시대 교사의 미래는 비관적이지도, 낙관적이지도 않다. 그것은 기술이 아닌 '경험'의 문제다. AI에 의해 양육받고 교육받은 세대가 나타날 때, 그들은 그것을 당연하게 받아들일 것이다. 로봇 청소기 옆에서 자란 아이들이 로봇 청소기의 효율성을 의심하지 않는 것처럼, AI 튜터링을 받고 자란 아이들은 AI 교사를 거부하지 않을 것이다.</p>\n<p style=\"margin:0 0 32px;\">그렇다면 교사는? 지금부터 준비해야 한다. AI와의 공존 속에서 자신의 고유한 가치를 증명해야 한다. 지식 전달자에서 벗어나 관계의 건축가, 감정의 안내자, 도덕적 모범의 제시자로 변신해야 한다. 기술 발전 속도보다 더 빠르게, 자신이 인간이기에만 할 수 있는 일들을 명확히 해야 한다는 뜻이다.</p>\n<p style=\"margin:0 0 32px;\">결국 초등교사가 AI 시대에 사라질지 남을지는, 기술이 결정하지 않는다. 그 세대의 경험이, 그리고 교사 자신이 증명하는 전문성이 결정한다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0; margin-top:48px; padding-top:32px;\">\n<h3 style=\"font-size:16px; font-weight:700; color:#1a1a2e; margin:0 0 16px;\">참고자료</h3>\n<ol style=\"margin:0; padding-left:20px; color:#374151;\">\n<li style=\"margin-bottom:12px;\"><a href=\"https://www.kgnews.co.kr/news/article.html?no=886282\" style=\"color:#4338ca; text-decoration:none;\">경기신문 - AI 시대, 초등교사는 사라지지 않는다</a></li>\n<li style=\"margin-bottom:12px;\"><a href=\"https://news.unn.net/news/articleView.html?idxno=590453\" style=\"color:#4338ca; text-decoration:none;\">한국대학신문 - AI 교육 도입 현황</a></li>\n<li style=\"margin-bottom:12px;\"><a href=\"https://www.kjob.news/news/470555\" style=\"color:#4338ca; text-decoration:none;\">전국인력신문 - AI 교육혁명의 현재</a></li>\n</ol>\n</div>\n\n<p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "ghost_tags": [
+      "AI교육",
+      "교사",
+      "초등교육",
+      "기술정책"
+    ],
+    "custom_excerpt": "현직 초등교사가 던지는 질문: AI 시대에 교사는 사라질 것인가? 그 답은 기술 완성도가 아닌 세대 경험에서 나온다. 교사가 지식 전달자에서 벗어나 관계와 돌봄의 전문가임을 증명할 때 교육의 미래가 결정된다.",
+    "references": [
+      {
+        "url": "https://www.kgnews.co.kr/news/article.html?no=886282",
+        "title": "경기신문 - AI 시대, 초등교사는 사라지지 않는다"
+      },
+      {
+        "url": "https://news.unn.net/news/articleView.html?idxno=590453",
+        "title": "한국대학신문 - AI 교육 도입 현황"
+      },
+      {
+        "url": "https://www.kjob.news/news/470555",
+        "title": "전국인력신문 - AI 교육혁명"
+      }
+    ],
+    "word_count": 1854,
+    "category": "opinion",
+    "accent": "#7c3aed",
+    "meta_title": "AI 시대, 초등교사는 사라지지 않는다",
+    "meta_description": "'AI 교사가 교단에 서는 날은 기술 완성도가 아닌 세대 경험에서 결정될 것이다.' 현직 초등교사의 냉철한 성찰이 던지는 물음: 교사는 지식 전달자인가, 아니면 관계와 돌봄을 담당하는 존재인가? 의료·법률·번역도 대체되는데, 교육은 안전할까? 의료진을 진단 능력에서 앞"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 1923자, 팩트점수 96, 중복 21.7%",
+    "meta_title": "AI 시대, 초등교사는 사라지지 않는다",
+    "meta_description": "'AI 교사가 교단에 서는 날은 기술 완성도가 아닌 세대 경험에서 결정될 것이다.' 현직 초등교사의 냉철한 성찰이 던지는 물음: 교사는 지식 전달자인가, 아니면 관계와 돌봄을 담당하는 존재인가? 의료·법률·번역도 대체되는데, 교육은 안전할까? 의료진을 진단 능력에서 앞",
+    "decided_at": "2026-03-09T13:33:54.304Z"
+  },
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [
+      "AI 배지 pill 제거"
+    ],
+    "text_length": 1714,
+    "checked_at": "2026-03-09T13:33:54.305Z"
+  },
+  "ghost_id": "69aecc42ff4fbf0001ab7c96",
+  "ghost_url": "https://insight.ubion.global/ai-teacher-role-elementary/",
+  "published_at": "2026-03-09T13:33:54.780Z"
+}

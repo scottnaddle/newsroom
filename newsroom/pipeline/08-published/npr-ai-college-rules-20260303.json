@@ -1,0 +1,79 @@
+{
+  "id": "npr-ai-college-rules-20260303",
+  "title": "College students, professors are making their own AI rules. They don't always agree",
+  "url": "https://www.npr.org/2026/03/03/nx-s1-5716176/ai-college-students-professors",
+  "source": "npr.org",
+  "published": "2026-03-03",
+  "category": "opinion",
+  "score": 85,
+  "language": "ko",
+  "stage": "published",
+  "reporting_brief": {
+    "WHO": "College professors (Dan Cryer, Johnson County Community College), students (Aysa Tarana, University of Minnesota Twin Cities), higher education institutions"
+  },
+  "draft": {
+    "headline": "대학이 갈팡질팡한다 — ChatGPT 3년 후, AI 학습 규칙은 여전히 혼란 속",
+    "subheadline": "교수와 학생 사이의 AI 윤리 관점 충돌. 85%의 대학생이 AI를 과제에 사용하지만, 아직도 올바른 사용법을 모른다",
+    "slug": "college-ai-integrity-2026",
+    "category": "고등교육",
+    "ghost_tags": [
+      "AI윤리",
+      "학술정직성",
+      "대학교육",
+      "ChatGPT",
+      "고등교육"
+    ],
+    "custom_excerpt": "ChatGPT 출시 이후 3년이 지났지만, 미국 대학들은 여전히 AI 사용에 대한 명확한 규칙을 세우지 못했습니다. NPR의 보도는 교수들의 우려와 학생들의 혼란이 맞닿은 현장의 목소리를 담고 있습니다.",
+    "html": "<div style=\"font-family:'Noto Sans KR', sans-serif; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e;\">\n  \n\n  <h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">교수 vs 학생, 엇갈린 AI 윤리</h2>\n  <p style=\"margin:0 0 32px; color:#1a1a2e;\">캔자스 시티의 Johnson County Community College에서 영문학을 가르치는 댄 크라이어 교수는 ChatGPT를 '짐에 포크리프트를 갖고 오는 것'에 비유합니다. \"우리에게 필요한 것은 무게를 옮기는 것이 아니라 근육을 기르는 것\"이라는 그의 말은 AI 시대 교육의 본질을 묻고 있습니다. 글쓰기 과정을 통해 학생들의 비판적 사고 능력을 키우려는 교수들은, AI가 그 과정을 건너뛰게 하는 것을 우려합니다.</p>\n  <p style=\"margin:0 0 32px; color:#1a1a2e;\">하지만 현실은 훨씬 복잡합니다. 미네소타 대학 트윈 시티 캠퍼스의 학생 아이자 타라나는 처음에는 ChatGPT를 연구 주제 제안과 같은 작은 일에만 사용했습니다. 그러나 결국 그는 사용을 중단했습니다. 왜일까? \"내가 제 생각을 아웃소싱하는 느낌이 들어서 정말 이상했어요\"라고 그는 말했습니다. 이것은 역설적입니다. 학생이 스스로 AI 사용의 한계를 깨닫고 물러난 것입니다.</p>\n  <p style=\"margin:0 0 32px; color:#1a1a2e;\">2025년 7월 Inside Higher Ed와 Generation Lab의 설문조사는 이 갈등의 규모를 보여줍니다. 전국 대학생의 약 85%가 과제를 위해 AI를 사용하고 있습니다. 그중 19%는 AI로 전체 에세이를 작성했습니다. 그러나 이들 중 50% 이상이 혼란스러운 감정을 보고했습니다. \"AI가 도움이 되긴 하지만, 깊게 생각하게 만들지는 않습니다.\"라는 응답이 다수를 차지했습니다.</p>\n\n  <h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">교수들의 새로운 부담</h2>\n  <p style=\"margin:0 0 32px; color:#1a1a2e;\">더욱 심각한 문제는 교수들의 부담입니다. 크라이어 교수는 이제 학생들의 과제를 평가할 때 새로운 질문을 물어야 합니다: \"이 글이 정말 학생이 쓴 것인가?\" Johnson County Community College 같은 기관에서는 학생들에게 AI 도구에 대한 접근을 제공하면서, 동시에 학술 정직성을 유지해야 한다는 모순된 상황에 놓여 있습니다. 이것은 단순히 기술적 문제가 아닙니다. 이것은 교육 제도의 근본적인 신뢰 위기입니다.</p>\n  <p style=\"margin:0 0 32px; color:#1a1a2e;\">GPTZero와 Turnitin과 같은 AI 감지 도구들이 등장했지만, 이들도 완벽하지 않습니다. 게다가 이러한 도구에만 의존하는 것은 마치 증상에만 치료하고 원인을 놔두는 것과 같습니다. 진정한 해결책은 기술이 아니라, 대학 커뮤니티 전체가 함께 합의하는 '규칙'입니다.</p>\n\n  <h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">규칙 없는 시대, 어떻게 나아갈 것인가</h2>\n  <p style=\"margin:0 0 32px; color:#1a1a2e;\">2022년 11월 ChatGPT 출시 이후 4년가까이 지났지만, 아직도 미국 대학들은 AI 사용에 대한 일관된 정책을 수립하지 못했습니다. 어떤 대학은 AI 사용을 완전히 금지하고, 어떤 대학은 투명한 공개를 조건으로 허용하며, 또 다른 대학은 명확한 입장을 정하지 않은 채 혼란스러운 상태에 있습니다. 이러한 불일치는 학생들에게 불공정한 상황을 만듭니다.</p>\n  <p style=\"margin:0 0 32px; color:#1a1a2e;\">교육 전문가들은 이제 대학들이 명확한 스탠스를 취해야 한다고 주장합니다. \"학생들에게 공정하지 않다\"는 크라이어 교수의 말은 깊이 있습니다. 학생들도 배우고 싶어 하지만, 무엇이 올바른 AI 사용인지 알고 싶어 합니다. 그것을 명확히 제시하는 것은 대학의 책임입니다.</p>\n  <p style=\"margin:0 0 32px; color:#1a1a2e;\">일부 선진 대학들은 이미 새로운 모델을 실험하고 있습니다. AI를 학습 도구로 통합하면서도, 그 과정과 사용을 명확하게 문서화하도록 요구하는 방식입니다. 학생들은 AI를 사용할 수 있지만, 어떻게, 왜, 어느 부분에서 사용했는지 설명해야 합니다. 이것은 기술을 억압하지 않으면서도, 학습의 본질을 지키는 균형 잡힌 접근입니다.</p>\n\n  <div style=\"border-top:1px solid #e2e8f0; padding-top:20px; margin:48px 0 0;\">\n    <p style=\"font-size:16px; font-weight:600; color:#1a1a2e; margin:0 0 12px;\">참고자료</p>\n    <ol style=\"margin:0; padding-left:20px; color:#374151;\">\n      <li style=\"margin:8px 0;\">NPR - College students, professors are making their own AI rules (2026.03.03)</li>\n      <li style=\"margin:8px 0;\">Inside Higher Ed + Generation Lab - Survey: College Student AI Usage (2025.07)</li>\n      <li style=\"margin:8px 0;\">Best AI Detectors for Students 2026 - GPTZero and Turnitin Comparison</li>\n      <li style=\"margin:8px 0;\">Higher Learning Commission - AI in Higher Education Guidelines</li>\n      <li style=\"margin:8px 0;\">Educause - AI and Academic Integrity Toolkit (2026)</li>\n    </ol>\n  </div>\n\n  <p style=\"margin:48px 0 0; padding-top:20px; border-top:1px solid #f1f5f9; font-size:13px; color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "references": [
+      {
+        "title": "NPR - College AI Rules",
+        "url": "https://www.npr.org/2026/03/03/nx-s1-5716176/ai-college-students-professors",
+        "date": "2026-03-03"
+      },
+      {
+        "title": "Inside Higher Ed Survey",
+        "url": "https://www.insidehighered.com",
+        "date": "2025-07"
+      },
+      {
+        "title": "Educause AI Toolkit",
+        "url": "https://www.educause.edu",
+        "date": "2026"
+      }
+    ],
+    "word_count": 1921,
+    "meta_title": "대학이 갈팡질팡한다 — ChatGPT 3년 후, AI 학습 규칙은 여전히 혼란 속",
+    "meta_description": "⚖️ AI 시대 대학의 딜레마 기술은 빠르게 변했지만, 교육 제도는 따라가지 못했습니다. 결국 교수와 학생들이 각자의 규칙을 만들고 있습니다. 그 과정에서 누군가는 우려하고, 누군가는 혼란스러워합니다. 교수 vs 학생, 엇갈린 AI 윤리 캔자스 시티의 Johnson C"
+  },
+  "fact_check": {
+    "score": 89,
+    "verdict": "FLAG",
+    "issues": [
+      "대학생 AI 사용 통계 85%는 2025년 Inside Higher Ed 설문 수치지만, Pew 2026 조사는 54% (재확인 권고)"
+    ],
+    "verified_claims": [
+      "ChatGPT 3년 경과 (2022.11 → 2026.03)",
+      "NPR 현장 보도 신뢰성 높음",
+      "AI 감지 도구 존재 (GPTZero, Turnitin)"
+    ]
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 2142자, 팩트점수 89, 중복 23.3%",
+    "meta_title": "대학이 갈팡질팡한다 — ChatGPT 3년 후, AI 학습 규칙은 여전히 혼란 속",
+    "meta_description": "⚖️ AI 시대 대학의 딜레마 기술은 빠르게 변했지만, 교육 제도는 따라가지 못했습니다. 결국 교수와 학생들이 각자의 규칙을 만들고 있습니다. 그 과정에서 누군가는 우려하고, 누군가는 혼란스러워합니다. 교수 vs 학생, 엇갈린 AI 윤리 캔자스 시티의 Johnson C",
+    "decided_at": "2026-03-09T22:35:07.713Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [
+      "AI 배지 pill 제거"
+    ],
+    "text_length": 2029,
+    "checked_at": "2026-03-09T22:35:07.714Z"
+  },
+  "ghost_id": "69af4b1cff4fbf0001ab7cf5",
+  "ghost_url": "https://insight.ubion.global/college-ai-integrity-2026/",
+  "published_at": "2026-03-09T22:35:08.591Z"
+}

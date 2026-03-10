@@ -38,3 +38,10 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
+
+## API Keys
+
+### Google AI Studio (Nano Banana / Gemini Image)
+- Key: `AIzaSyDvH5WMJww3-hxjfGJ0yexIQxKQk48KVS0`
+- Models: `gemini-3-pro-image-preview` (Nano Banana Pro), `gemini-2.5-flash-image` (Nano Banana)
+- Used for: 일일 만평 이미지 생성 (`newsroom/scripts/generate-cartoon.js`)

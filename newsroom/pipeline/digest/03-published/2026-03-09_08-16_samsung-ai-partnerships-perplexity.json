@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Samsung signals broader AI partnerships after Perplexity integration",
+    "url": "https://www.prismnews.com/news/samsung-signals-broader-ai-partnerships-after-perplexity-integration",
+    "source_name": "Prism News",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Samsung is expanding its AI partnerships following the integration of Perplexity into its devices. The dual pressure of AI functionality across hundreds of millions of devices and projected DRAM demand tightens the link between product roadmaps and semiconductor supply chains. Samsung has positioned itself around open ecosystems and human-centered AI.",
+    "published_date": "2026-03-08",
+    "collected_at": "2026-03-09T08:16:00+09:00"
+  },
+  "digest": {
+    "headline": "삼성, 퍼플렉시티 이어 OpenAI와도 협력… 멀티 AI 에이전트 생태계 본격 구축",
+    "lead": "삼성전자가 갤럭시 S26 시리즈에 퍼플렉시티(Perplexity)를 AI 에이전트로 통합한 데 이어, OpenAI 계열사와 양해각서(LOI)를 체결하며 AI 파트너십을 빠르게 확장하고 있다. 구글 제미나이(Gemini) 중심이던 갤럭시 AI 전략이 멀티 에이전트 생태계로 전환되는 신호탄이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">삼성전자가 갤럭시 S26 시리즈에 퍼플렉시티(Perplexity)를 AI 에이전트로 통합한 데 이어, OpenAI 계열사와 양해각서(LOI)를 체결하며 AI 파트너십을 빠르게 확장하고 있다. 구글 제미나이(Gemini) 중심이던 갤럭시 AI 전략이 멀티 에이전트 생태계로 전환되는 신호탄이다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">삼성은 갤럭시 S26 출시와 함께 퍼플렉시티를 시스템 수준의 AI 에이전트로 탑재했다. 사용자는 기본 Gemini 대신 퍼플렉시티를 선택해 삼성 기본 앱과 일부 서드파티 앱에서 AI 검색·요약 기능을 활용할 수 있다. 삼성 임원은 \"생태계에 추가 파트너가 합류할 가능성이 있다\"고 밝혔으며, 실제로 OpenAI 계열사와의 LOI 체결이 확인됐다. 수억 대 기기에 AI 기능을 제공해야 하는 삼성에게 다중 AI 파트너 전략은 특정 업체 의존도를 낮추는 동시에 DRAM 수요 확대와 반도체 공급망 시너지를 극대화하는 선택이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 행보는 모바일 AI 시장의 판도를 바꿀 수 있다. 애플이 Apple Intelligence로 폐쇄형 생태계를 고수하는 것과 달리, 삼성은 오픈 에코시스템을 내세워 AI 파트너를 경쟁시키는 전략을 택했다. 사용자 입장에서는 검색엔진을 고르듯 AI 에이전트를 선택할 수 있게 되며, AI 스타트업에게는 수억 대 기기에 사전 탑재될 수 있는 거대한 유통 채널이 열린다. 반도체 사업부 역시 온디바이스 AI 처리에 필요한 고성능 DRAM 수요 증가의 직접적 수혜를 기대할 수 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">삼성 기기에 다양한 AI 에이전트가 사전 탑재되면, 교육 현장에서 학생·교사가 별도 앱 설치 없이 AI 학습 도우미를 즉시 활용할 수 있는 환경이 마련된다. 에듀테크 스타트업이 삼성의 멀티 에이전트 플랫폼에 교육 특화 AI를 올릴 수 있다면, 학교 보급형 태블릿·스마트폰을 통한 AI 기반 개인 맞춤 학습의 대중화가 한층 빨라질 수 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.prismnews.com/news/samsung-signals-broader-ai-partnerships-after-perplexity-integration\" style=\"color:#FF6B35;text-decoration:none;\">Prism News</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "samsung"
+    ],
+    "meta_title": "삼성, 퍼플렉시티·OpenAI와 멀티 AI 에이전트 생태계 구축",
+    "meta_description": "삼성전자가 갤럭시 S26에 퍼플렉시티를 통합하고 OpenAI와 LOI를 체결하며 멀티 AI 에이전트 전략을 본격화했다. 모바일 AI 생태계 판도 변화와 에듀테크 시사점을 분석한다.",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T08:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T00:15:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T00:28:14.813Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae1412ff4fbf0001ab76b7",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae1412ff4fbf0001ab76b7",
+    "public_url": "https://ubion.ghost.io/samseong-peopeulregsiti-ieo-openaiwado-hyeobryeog-meolti-ai-eijeonteu-saengtaegye-bongyeog-gucug/",
+    "status": "published",
+    "published_at": "2026-03-09T00:28:02.000Z"
+  }
+}

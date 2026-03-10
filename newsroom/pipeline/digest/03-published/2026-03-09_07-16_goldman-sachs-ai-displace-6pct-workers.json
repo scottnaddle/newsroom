@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Goldman Sachs: Widespread AI Could Displace About 6% of U.S. Workers",
+    "url": "https://www.prismnews.com/news/goldman-sachs-widespread-ai-could-displace-about-6-of-us-workers",
+    "source_name": "Prism News",
+    "language": "en",
+    "relevance_score": 86,
+    "summary": "Goldman Sachs research projects that broad AI adoption could displace 6-7% of the U.S. workforce in a baseline scenario. The bank expects the impact to be transitory. The analysis, originally from 2025 but newly cited by market analysts in March 2026, is being used by investors to gauge macro-level implications of AI on employment.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-09T07:16:00+09:00"
+  },
+  "digest": {
+    "headline": "골드만삭스 \"AI 본격 확산 시 미국 근로자 6% 대체 전망\"",
+    "lead": "골드만삭스(Goldman Sachs)가 AI의 광범위한 도입이 미국 근로자의 약 6~7%를 대체할 수 있다는 분석을 내놓았다. 다만 그 충격은 일시적일 것으로 전망했다. 2025년 발표된 이 연구가 2026년 3월 시장 분석가들 사이에서 재조명되며 AI와 고용의 거시적 관계에 대한 논의가 다시 뜨거워지고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">골드만삭스(Goldman Sachs)가 AI의 광범위한 도입이 미국 근로자의 약 6~7%를 대체할 수 있다는 분석을 내놓았다. 다만 그 충격은 일시적일 것으로 전망했다. 이 연구가 시장 분석가들 사이에서 재조명되며 AI와 고용의 거시적 관계에 대한 논의가 다시 뜨거워지고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">골드만삭스의 연구는 기본 시나리오에서 AI가 미국 전체 근로자의 6~7%를 대체할 수 있다고 추정했다. 이 보고서는 원래 2025년에 발표됐으나, 2026년 3월 Block의 대규모 감원 등 AI 관련 고용 이슈가 연이어 터지면서 투자자들이 거시 경제에 미치는 영향을 가늠하는 기준선으로 다시 인용하기 시작했다. 골드만삭스는 이 영향이 '과도기적(transitory)'일 것으로 보며, 새로운 직군 창출이 일부 손실을 상쇄할 것이라고 전망했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">6~7%라는 수치는 단순히 일자리 소멸을 의미하지 않는다. AI가 특정 업무를 대체하더라도 생산성 향상과 새로운 산업 생태계 형성으로 고용 구조가 재편될 가능성이 크다. 다만 전환 과정에서 화이트칼라 사무직·행정직 등 반복적 업무 종사자가 가장 큰 충격을 받을 것으로 예상되며, 리스킬링(재교육)과 사회안전망의 중요성이 더욱 부각되고 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI로 인한 직무 전환이 본격화되면 리스킬링·업스킬링 수요가 폭발적으로 증가할 것이다. 에듀테크 기업들에게는 AI 시대에 맞는 직업 재교육 프로그램, 맞춤형 학습 경로 설계, 그리고 기업 교육 파트너십 확대가 핵심 성장 기회가 될 수 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.prismnews.com/news/goldman-sachs-widespread-ai-could-displace-about-6-of-us-workers\" style=\"color:#FF6B35;text-decoration:none;\">Prism News</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "골드만삭스: AI 확산 시 미국 근로자 6% 대체 가능",
+    "meta_description": "골드만삭스 연구에 따르면 AI 광범위 도입 시 미국 근로자 6~7% 대체 전망. 충격은 일시적이나 리스킬링 수요 증가 예상. 에듀테크 성장 기회 분석.",
+    "word_count": 510,
+    "feature_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T07:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T07:45:54+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T22:56:29.930Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69adfe9dff4fbf0001ab765f",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69adfe9dff4fbf0001ab765f",
+    "public_url": "https://insight.ubion.global/goldeumansagseu-ai-bongyeog-hwagsan-si-migug-geunroja-6-daece-jeonmang/",
+    "status": "published",
+    "published_at": "2026-03-08T22:56:29.000Z"
+  }
+}

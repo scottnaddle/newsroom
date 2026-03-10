@@ -1,0 +1,133 @@
+{
+  "timestamp": "2026-03-06T01:01:00+09:00",
+  "stage": "editor-desk-check",
+  "runtime": 2,
+  "check_cycle": "30분 주기점검 (3/8)",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "status": "✅ 비어있음",
+      "action": "sourcer 대기"
+    },
+    "02_assigned": {
+      "total": 0,
+      "status": "✅ 비어있음",
+      "action": "sourcer 입력 대기"
+    },
+    "03_reported": {
+      "total": 0,
+      "status": "✅ 비어있음",
+      "action": "보도기자 완료"
+    },
+    "04_drafted": {
+      "total": 0,
+      "status": "✅ 병목 해소",
+      "action": "작가 완료"
+    },
+    "05_fact_checked": {
+      "total": 0,
+      "status": "✅ 비어있음",
+      "action": "팩트체커 대기"
+    },
+    "06_desk_approved": {
+      "total": 0,
+      "status": "✅ 비어있음",
+      "action": "에디터 대기"
+    },
+    "07_copy_edited": {
+      "total": 0,
+      "status": "✅ 비어있음",
+      "action": "교열기자 대기"
+    },
+    "08_published": {
+      "total": 76,
+      "status": "📤 발행 준비 완료 (Ghost CMS 대기)",
+      "action": "Publisher 에이전트 실행 필수"
+    }
+  },
+  "queue_status": {
+    "total_items": 5,
+    "status": "🟡 신뢰도 50-74 범위 (배정 우선도 낮음 — 대기)",
+    "items": [
+      {
+        "id": "1772710577-001",
+        "title": "Hwang Hyuna of Korea University of Technology and Education Publishes AI Career Counseling Paper in KCI-Listed Journal",
+        "relevance_score": 68,
+        "status": "QUEUE",
+        "reason": "신뢰도 68 (50-74) — 표준 우선도"
+      },
+      {
+        "id": "1741271193-clg-consortium",
+        "title": "South Korean Universities Form Asia AI Research Consortium",
+        "relevance_score": 68,
+        "status": "QUEUE",
+        "reason": "신뢰도 68 (50-74)"
+      },
+      {
+        "id": "1741271193-politico-love",
+        "title": "The Country That's Madly in Love With AI",
+        "relevance_score": 62,
+        "status": "QUEUE",
+        "reason": "신뢰도 62 (50-74) — 가장 낮은 점수"
+      },
+      {
+        "id": "1741352160-002",
+        "title": "2026학년도 AI기반 기초과목 진단 및 맞춤형 학습 프로그램",
+        "relevance_score": 68,
+        "status": "QUEUE",
+        "reason": "신뢰도 68 (50-74) — 가톨릭대학교 사례"
+      },
+      {
+        "id": "20260305-223631-469935",
+        "title": "AI가 혁신하는 교육 환경 전략",
+        "relevance_score": 72,
+        "status": "QUEUE",
+        "reason": "신뢰도 72 (50-74) — 가장 높은 점수, 정책 분석 포함"
+      }
+    ]
+  },
+  "rejected_summary": {
+    "total": 48,
+    "status": "⛔ 품질 미달 거부 (기록 보관)",
+    "acceptance_rate": "61.3% (76 published / 124 total)"
+  },
+  "health_check": {
+    "pipeline_flow": "✅ 정상 — 모든 단계 작동 중",
+    "bottleneck": "❌ 없음",
+    "critical_alerts": [
+      "⚠️ 08-published에 76개 기사 대기 — Publisher 에이전트 실행 필요"
+    ],
+    "last_check": "2026-03-06T00:46:00+09:00 (15분 전)",
+    "current_status": "✅ 파이프라인 완전 작동 상태"
+  },
+  "action_items": {
+    "immediate": [
+      "🔴 URGENT: Ghost CMS Publisher 에이전트 실행 — 76개 기사 발행"
+    ],
+    "pending": [
+      "🟡 Queue의 5개 항목: 신뢰도 50-74 범위 → 신뢰도 80+ 우선 기사 입수 시까지 대기"
+    ],
+    "monitoring": [
+      "📊 01-sourced 모니터링 (sourcer 작업 진행 상황)",
+      "📊 다음 30분 주기점검: 2026-03-06 01:31 KST"
+    ]
+  },
+  "data_quality": {
+    "total_articles_processed": 124,
+    "published_ready": 76,
+    "rejected": 48,
+    "queued": 5,
+    "in_pipeline": 0,
+    "quality_rate": "✅ 61.3% (양호 수준)",
+    "throughput": "정상 (최근 30분: 진행 중인 기사 없음 — 처리 완료)"
+  },
+  "notes": [
+    "✅ 파이프라인이 최적 상태로 작동 중입니다.",
+    "✅ 01-07 단계가 모두 비어있으며, 이는 모든 처리 작업이 신속하게 진행되었음을 의미합니다.",
+    "📤 08-published의 76개 기사는 교열 완료 상태로, Ghost CMS Publisher 에이전트만 실행하면 즉시 발행될 수 있습니다.",
+    "🟡 Queue의 5개 항목은 신뢰도가 50-74 범위여서 우선도가 낮으나, 필요시 스캇이 수동으로 검토 후 배정 가능합니다.",
+    "✅ 병목 현상이 없으며, 시스템이 안정적으로 운영 중입니다.",
+    "⚠️ 중복 항목은 확인되지 않음 (정상 상태)"
+  ],
+  "editor_note": "편집국장 보고: 파이프라인 모두 정상입니다. 다음 액션은 발행 에이전트 실행입니다. —  헤일리"
+}

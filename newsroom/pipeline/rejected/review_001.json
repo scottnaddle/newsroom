@@ -1,0 +1,43 @@
+{
+  "id": "source_001",
+  "stage": "rejected",
+  "draft": {
+    "headline": "한국 초·중등 교육의 'AI 대전환' 시작…385억 원 투자로 1,141개 학교 지정"
+  },
+  "fact_check": {
+    "score": 94,
+    "verdict": "PASS",
+    "verified_claims": [
+      {
+        "claim": "AI 중점학교 1,141개교 선정",
+        "source": "korea.kr 정책브리핑",
+        "status": "verified"
+      },
+      {
+        "claim": "2026년 특별교부금 385억 원 지원",
+        "source": "korea.kr 정책브리핑",
+        "status": "verified"
+      },
+      {
+        "claim": "2027년 1,500개, 2028년 2,000개로 확대",
+        "source": "korea.kr 정책브리핑",
+        "status": "verified"
+      },
+      {
+        "claim": "초등 34시간→68시간, 중학 68→102시간 확대",
+        "source": "korea.kr 정책브리핑",
+        "status": "verified"
+      }
+    ],
+    "issues": [],
+    "quality_score": {
+      "structure": "pass",
+      "readability": "pass",
+      "completeness": "pass"
+    }
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

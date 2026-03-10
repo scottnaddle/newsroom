@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Even Tech Investors Are Getting Sick of All These AI Startups With Weak Ideas",
+    "url": "https://futurism.com/artificial-intelligence/ai-startups-investor-funding",
+    "source_name": "Futurism",
+    "language": "en",
+    "relevance_score": 82,
+    "summary": "Venture capital investors are increasingly fatigued by AI startups with weak or derivative business models. Despite record February 2026 funding of $189 billion total across all sectors (with $171B in AI), investors admit to skepticism about the sustainability of the AI startup boom and question the viability of many projects.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-06T14:11:00+09:00"
+  },
+  "digest": {
+    "headline": "VC 투자자들, 약한 AI 스타트업에 회의적 태도 표시",
+    "lead": "벤처캐피탈 투자자들이 AI 스타트업의 과도한 증가에 회의적인 입장을 드러냈습니다. 2026년 2월 기록적인 1,710억 달러의 AI 펀딩에도 불구하고, 투자자들은 많은 프로젝트의 지속가능성과 실행 가능성에 의문을 제기하고 있습니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">AI 스타트업의 펀딩 기록이 계속 경신되는 중에도, 벤처캐피탈 투자자들은 대다수 AI 스타트업의 비즈니스 모델이 약하거나 파생적이라며 회의적 입장을 보이고 있습니다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">2026년 2월 VC 펀딩은 전 산업 통틀어 1,890억 달러를 기록했으며, 그 중 AI 부문이 1,710억 달러로 대부분을 차지했습니다. 그러나 이러한 호황 속에서도 투자자들은 시장에 진입하는 AI 스타트업들의 비즈니스 모델이 혁신적이지 못하고, 기존 솔루션의 반복에 불과하다고 지적하고 있습니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이는 AI 스타트업 생태계의 질적 위기를 시사합니다. 단순히 기술을 활용한 스타트업이 아니라, 명확한 차별화 포인트와 지속 가능한 비즈니스 모델을 갖춘 기업만이 향후 펀딩을 확보할 수 있을 것으로 전망됩니다. 투자자들의 선별안목이 높아지면서 AI 스타트업 시장의 구조 조정이 본격화될 가능성이 있습니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">에듀테크 스타트업도 같은 기준으로 평가받게 될 것입니다. 단순한 AI 튜터링이나 채점 자동화만으로는 부족하며, 학습 성과 측정, 개인화 학습 경로 최적화 등 교육적 가치를 명확히 입증할 수 있는 플랫폼만이 생존할 수 있을 것으로 예상됩니다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://futurism.com/artificial-intelligence/ai-startups-investor-funding\" style=\"color:#FF6B35;text-decoration:none;\">Futurism</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "VC 투자자들, 약한 AI 스타트업에 회의적",
+    "meta_description": "벤처캐피탈이 AI 스타트업의 급증에 회의를 표시하며, 질적 선별이 본격화될 전망입니다.",
+    "word_count": 620
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T14:11:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T14:15:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T06:31:54.590Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aa74daff4fbf0001ab6e53",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aa74daff4fbf0001ab6e53",
+    "public_url": "https://ubion.ghost.io/vc-tujajadeul-yaghan-ai-seutateueobe-hoeyijeog-taedo-pyosi/",
+    "status": "published",
+    "published_at": "2026-03-06T06:31:54.590Z",
+    "feature_image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1200&h=630&fit=crop&q=85&auto=format"
+  }
+}

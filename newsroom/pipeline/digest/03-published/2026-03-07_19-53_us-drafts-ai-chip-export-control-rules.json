@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Nvidia, AMD Global AI Chip Sales Would Need US Permit Under Draft Rule",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-05/us-drafts-rules-for-sweeping-power-over-nvidia-s-global-sales",
+    "source_name": "Bloomberg",
+    "language": "en",
+    "relevance_score": 93,
+    "summary": "The US Commerce Department has written draft regulations that would restrict AI chip shipments anywhere in the world without American approval, giving Washington broad control over whether other countries can build AI facilities. This would affect Nvidia and AMD global sales and represents a major escalation of AI chip export controls.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-07T19:53:00+09:00"
+  },
+  "digest": {
+    "headline": "미국, 전 세계 AI 칩 수출에 허가제 도입 추진",
+    "lead": "미국 상무부가 엔비디아·AMD의 AI 칩을 전 세계 어디로든 수출할 때 미국 정부의 사전 허가를 요구하는 규정 초안을 마련했다. 이는 기존 특정국 대상 수출 통제를 넘어, 글로벌 AI 인프라 구축 자체에 대한 워싱턴의 통제력을 획기적으로 확대하는 조치다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 상무부가 엔비디아·AMD의 AI 칩을 전 세계 어디로든 수출할 때 미국 정부의 사전 허가를 요구하는 규정 초안을 마련했다. 이는 기존 특정국 대상 수출 통제를 넘어, 글로벌 AI 인프라 구축 자체에 대한 워싱턴의 통제력을 획기적으로 확대하는 조치다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">미국은 2022년부터 중국을 겨냥한 AI 칩 수출 규제를 단계적으로 강화해왔다. 그러나 이번 초안은 특정 국가가 아닌 전 세계를 대상으로 하는 포괄적 허가제라는 점에서 차원이 다르다. 블룸버그 보도에 따르면, 엔비디아와 AMD의 고성능 AI 반도체를 어떤 국가에 판매하든 미국 정부의 승인이 필요해지며, 이는 사실상 글로벌 AI 데이터센터 건설의 열쇠를 워싱턴이 쥐게 되는 구조다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 규정이 시행되면 동맹국을 포함한 모든 국가의 AI 인프라 확장 속도에 직접적 영향을 미칠 수 있다. 한국을 비롯한 각국의 AI 반도체 조달 전략에도 변수가 생기며, 자체 AI 칩 개발 움직임을 가속화할 가능성이 높다. 엔비디아·AMD의 글로벌 매출에도 상당한 불확실성이 예상된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 칩 수출 허가제는 에듀테크 기업이 의존하는 클라우드 AI 인프라 비용과 가용성에 직접 영향을 줄 수 있다. 특히 미국 외 지역에서 AI 학습 플랫폼을 운영하는 교육 기업은 GPU 조달 지연과 비용 상승에 대비한 인프라 다변화 전략을 검토해야 할 시점이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.bloomberg.com/news/articles/2026-03-05/us-drafts-rules-for-sweeping-power-over-nvidia-s-global-sales\" style=\"color:#FF6B35;text-decoration:none;\">Bloomberg</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "technology"
+    ],
+    "meta_title": "미국, 전 세계 AI 칩 수출에 허가제 도입 추진",
+    "meta_description": "미국 상무부가 엔비디아·AMD AI 칩의 글로벌 수출에 사전 허가를 요구하는 규정 초안을 마련했다. 특정국이 아닌 전 세계 대상 포괄적 통제로 AI 인프라 구축에 미칠 영향을 분석한다.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T19:53:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T20:16:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T11:27:40.579Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ac0bacff4fbf0001ab7386",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ac0bacff4fbf0001ab7386",
+    "public_url": "https://insight.ubion.global/migug-jeon-segye-ai-cib-sucule-heogaje-doib-cujin/",
+    "status": "published",
+    "published_at": "2026-03-07T11:27:40.000Z"
+  }
+}

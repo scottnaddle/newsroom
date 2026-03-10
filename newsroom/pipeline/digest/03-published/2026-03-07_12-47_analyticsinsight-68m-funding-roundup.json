@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "AI Startups Funding Roundup: MeltPlan, Elly, Gushwork AI in Focus",
+    "url": "https://www.analyticsinsight.net/startups/funding-roundup-gushwork-and-others-raise-68-million-for-ai-hiring-and-construction-tech",
+    "source_name": "Analytics Insight",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "Five AI startups raised a combined $68 million in fresh funding including MeltPlan, Gushwork AI, Sensera Systems, RIIICO, and Elly, focusing on construction planning, AI marketing tools, and factory automation.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-07T12:47:00+09:00"
+  },
+  "digest": {
+    "headline": "건설·채용·마케팅 AI 스타트업 5곳, 6,800만 달러 집중 유치",
+    "lead": "실용적 자동화 도구를 개발하는 AI 스타트업 5곳이 이번 주 총 6,800만 달러를 유치했다. 건설 계획 AI 멜트플랜이 1,000만 달러로 가장 컸고, 현장 모니터링 센세라시스템스가 2,700만 달러를 확보했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">실용적 자동화 도구를 개발하는 AI 스타트업 5곳이 이번 주 총 6,800만 달러를 유치했다. 건설 계획 AI 멜트플랜이 1,000만 달러로 가장 컸고, 현장 모니터링 센세라시스템스가 2,700만 달러를 확보했다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">투자자들은 대화형 챗봇을 넘어 실제 업무를 수행하는 '에이전트 AI'에 주목하고 있다. 건설 분야에서는 멜트플랜이 착공 전 비용·일정·규정을 분석해 비용 손실을 줄이고, 센세라시스템스는 태양광 카메라로 현장을 실시간 모니터링한다. 마케팅 분야의 개시워크 AI는 ChatGPT·Gemini 같은 AI 검색에 노출되도록 돕는 에이전트를 개발해 300개 글로벌 고객을 확보했다. 채용 플랫폼 엘리와 공장 디지털 트윈 기업 리이코도 각각 800만 달러, 500만 달러를 유치했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 펀딩 라운드는 투자자들이 단순한 대화 AI가 아닌 중공업·제조 등 실제 산업 문제를 해결하는 도구에 자금을 집중하고 있음을 보여준다. 개시워크 AI 팀은 \"AI 에이전트가 웹사이트를 방문하는 빈도가 인간보다 2~3배 많다\"며 AI 검색 최적화의 중요성을 강조했다. 2026년 말까지 일상 업무의 자동화가 크게 확대될 것으로 전망된다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">건설·채용·마케팅 분야의 AI 자동화는 직업 교육과 기업 연수에 즉각 활용 가능하다. 멜트플랜의 건설 계획 AI는 건축·토목 분야 실무 교육 시뮬레이터로, 엘리의 채용 AI는 HR 담당자 양성 과정의 실습 도구로 활용될 수 있다. 특히 AI 검색 최적화는 에듀테크 기업의 마케팅 전략 변화를 예고한다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.analyticsinsight.net/startups/funding-roundup-gushwork-and-others-raise-68-million-for-ai-hiring-and-construction-tech\" style=\"color:#FF6B35;text-decoration:none;\">Analytics Insight</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "funding",
+      "automation",
+      "construction-tech"
+    ],
+    "meta_title": "AI 스타트업 5곳 6,800만 달러 유치, 건설·채용 자동화 주목",
+    "meta_description": "멜트플랜·센세라시스템스·개시워크 AI 등 5개 스타트업이 6,800만 달러 유치. 에이전트 AI로 건설 계획·현장 모니터링·채용 자동화.",
+    "word_count": 510
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T12:47:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T13:07:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T04:18:00.240Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aba6f8ff4fbf0001ab72c0",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aba6f8ff4fbf0001ab72c0/",
+    "public_url": "https://insight.ubion.global/geonseol-caeyong-maketing-ai-seutateueob-5gos-6-800man-dalreo-jibjung-yuci/",
+    "status": "published",
+    "published_at": "2026-03-07T04:18:00.240Z"
+  }
+}

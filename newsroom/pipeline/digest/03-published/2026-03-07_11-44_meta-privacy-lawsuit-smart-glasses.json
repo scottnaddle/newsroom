@@ -1,0 +1,35 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Meta Faces Privacy Lawsuit After Swedish Investigation Found Overseas Workers Viewed Users' Intimate Footage",
+    "url": "https://www.timesnownews.com/technology-science/meta-faces-privacy-lawsuit-after-swedish-investigation-found-overseas-workers-viewed-users-intimate-footage-article-153769015",
+    "source_name": "Times Now",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Meta faces a US lawsuit after Swedish investigation revealed Kenyan subcontractors accessed user footage from Ray-Ban smart glasses, including sensitive content. Filed March 4, the case alleges privacy violations and misleading marketing about data privacy protections.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-07T11:44:00+09:00"
+  },
+  "digest": {
+    "headline": "메타 스마트글라스, 케냐 하청노동자가 사용자 영상 열람…미국서 프라이버시 소송",
+    "lead": "메타의 레이밴 AI 스마트글라스로 촬영된 사용자 영상이 케냐 하청업체 노동자들에게 검토된 사실이 드러나 미국에서 소송이 제기됐다. 스웨덴 언론 조사에 따르면 민감한 콘텐츠까지 포함돼 있었던 것으로 알려졌다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">메타의 레이밴 AI 스마트글라스로 촬영된 사용자 영상이 케냐 하청업체 노동자들에게 검토된 사실이 드러나 미국에서 소송이 제기됐다. 스웨덴 언론 조사에 따르면 민감한 콘텐츠까지 포함돼 있었던 것으로 알려졌다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">스웨덴 일간지 스벤스카 다그블라데트(SvD)와 예테보리 포스텐의 공동 조사에 따르면, 메타의 하청업체가 케냐에 고용한 노동자들이 레이밴 메타 스마트글라스 사용자들의 녹화 영상에 접근할 수 있었다. 일부 영상에는 누드나 사적인 상황 등 민감한 콘텐츠가 포함된 것으로 전해졌다. 이에 따라 지난 4일 클락슨 로펌이 메타를 상대로 미국에서 집단소송을 제기했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">소송 측은 메타가 \"프라이버시를 위해 설계됐다\"는 식의 마케팅으로 소비자를 오도했다고 주장한다. 반면 메타 대변인은 \"사용자가 직접 공유하지 않은 콘텐츠는 기기에만 남는다\"며 \"AI 서비스 개선을 위해 계약자가 리뷰하는 경우도 있지만 식별 정보를 제거한다\"고 반박했다. 이 사건은 AI 기기 전반의 데이터 처리 실태에 대한 규제 논의를 촉발할 것으로 보인다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">이 사건은 교육 현장에 도입되는 웨어러블 AI 기기와 학생 데이터 처리에 대한 경각심을 일깨운다. AI 기반 교육 도구에서도 인간 리뷰어가 데이터를 검토할 수 있다는 점을 학부모와 학생에게 명확히 안내하고 동의를 받는 절차가 필수적이다. 에듀테크 기업은 데이터 처리 투명성을 핵심 경쟁력으로 삼아야 한다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.timesnownews.com/technology-science/meta-faces-privacy-lawsuit-after-swedish-investigation-found-overseas-workers-viewed-users-intimate-footage-article-153769015\" style=\"color:#FF6B35;text-decoration:none;\">Times Now</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": ["ai-digest", "ai", "technology", "regulation", "meta"],
+    "meta_title": "메타 스마트글라스 프라이버시 논란…케냐서 사용자 영상 열람",
+    "meta_description": "메타 레이밴 스마트글라스 사용자 영상이 케냐 하청노동자에게 검토된 사실이 드러나 미국서 소송 제기. AI 기기 데이터 처리 투명성 문제 대두.",
+    "word_count": 520
+  },
+  "publish_result": {
+    "ghost_post_id": "69ab97e0ff4fbf0001ab727d",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ab97e0ff4fbf0001ab727d",
+    "public_url": "https://insight.ubion.global/meta-seumateugeulraseu-kenya-haceongnodongjaga-sayongja-yeongsang-yeolram-migugseo-peuraibeosi-sosong/",
+    "status": "published",
+    "published_at": "2026-03-07T03:13:36.000Z"
+  },
+  "audit_log": [
+    {"agent": "digest-collector", "action": "sourced", "timestamp": "2026-03-07T11:44:00+09:00"},
+    {"agent": "digest-writer", "action": "drafted", "timestamp": "2026-03-07T12:06:00+09:00"},
+    {"agent": "digest-publisher", "action": "published", "timestamp": "2026-03-07T12:13:36+09:00"}
+  ]
+}

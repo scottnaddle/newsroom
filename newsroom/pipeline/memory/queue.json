@@ -1,79 +1,184 @@
-{
-  "queued_at": "2026-03-05T00:10:55.947987+00:00",
-  "total_waiting": 8,
-  "items": [
-    {
-      "id": "1740968460005",
-      "title": "AI로 변화하는 한국 교육: 2026년, 맞춤형 학습과 전문화된 교육 AI의 시대",
-      "source": "환경감시일보",
-      "relevance_score": 65,
-      "status": "waiting",
-      "reason": "relevance_score 65 (50-74 범위) — 우선순위 낮음",
-      "next_review": "2026-03-05T00:00:00Z"
-    },
-    {
-      "id": "1740968460004",
-      "title": "교육 AI 윤리와 정책 개발: 대학들의 시급한 과제",
-      "source": "전국인력신문",
-      "relevance_score": 70,
-      "status": "waiting",
-      "reason": "relevance_score 70 (50-74 범위) — 우선순위 낮음",
-      "next_review": "2026-03-05T00:00:00Z"
-    },
-    {
-      "id": "1740968460007",
-      "title": "South Korean Universities Form Asia AI Research Consortium",
-      "source": "Creative Learning Guild",
-      "relevance_score": 50,
-      "status": "waiting",
-      "reason": "relevance_score 50 (50-74 범위) — 우선순위 낮음",
-      "next_review": "2026-03-05T00:00:00Z"
-    },
-    {
-      "id": "1740968460008",
-      "title": "Chonnam National University holds AI training camp for incoming freshmen",
-      "source": "The Korea Times",
-      "relevance_score": 60,
-      "status": "waiting",
-      "reason": "relevance_score 60 (50-74 범위) — 우선순위 낮음",
-      "next_review": "2026-03-05T00:00:00Z"
-    },
-    {
-      "id": "1740968460006",
-      "title": "지식재산 교육으로 인공지능 전환 시대 혁신성장 지원",
-      "source": "대한민국 정책브리핑",
-      "relevance_score": 55,
-      "status": "waiting",
-      "reason": "relevance_score 55 (50-74 범위) — 우선순위 낮음",
-      "next_review": "2026-03-05T00:00:00Z"
-    },
-    {
-      "id": "1741210465000-469935",
-      "title": "AI가 혁신하는 교육 환경 전략",
-      "source": "전국인력신문",
-      "relevance_score": 72,
-      "status": "waiting",
-      "reason": "relevance_score 72 (50-74 범위) — 우선순위 낮음",
-      "next_review": "2026-03-06T00:00:00Z"
-    },
-    {
-      "id": "1741210467000-470657",
-      "title": "AI 혁신 경쟁, 한국의 대응 전략은",
-      "source": "전국인력신문",
+[
+  {
+    "id": "1772710577-001",
+    "stage": "sourced",
+    "created_at": "2026-03-05T20:36:00+09:00",
+    "priority": 2,
+    "source": {
+      "title": "Hwang Hyuna of Korea University of Technology and Education Publishes AI Career Counseling Paper in KCI-Listed Journal",
+      "url": "https://view.asiae.co.kr/en/article/2026030310240827561",
+      "source_name": "The Asia Business Daily",
       "relevance_score": 68,
-      "status": "waiting",
-      "reason": "relevance_score 68 (50-74 범위) — 우선순위 낮음",
-      "next_review": "2026-03-06T00:00:00Z"
+      "summary": "한국공학대학교 학생이 AI 기반 상담 챗봇 설계에 대한 학부 프로젝트를 학술지에 발표. 대학 AI 교육 실제 사례.",
+      "tags": [
+        "education",
+        "university",
+        "AI-literacy",
+        "case-study"
+      ],
+      "collected_via": "brave_search"
     },
-    {
-      "id": "1741210470000-296151",
-      "title": "윤건영 교육감·김창규 제천시장, 'AI 시대 학부모와 IB교육 정책 간담회'",
-      "source": "더퍼블릭",
+    "audit_log": [
+      {
+        "agent": "source-collector",
+        "action": "collected",
+        "timestamp": "2026-03-05T20:36:00+09:00",
+        "note": "관련성 68점 - AI 기반 대학 교육 사례"
+      }
+    ],
+    "queued_at": "2026-03-05T21:15:00.285151"
+  },
+  {
+    "id": "1741271193-clg-consortium",
+    "stage": "sourced",
+    "created_at": "2026-03-05T21:06:00+09:00",
+    "priority": 2,
+    "source": {
+      "title": "South Korean Universities Form Asia AI Research Consortium",
+      "url": "https://creativelearningguild.co.uk/education/south-korean-universities-form-asia-ai-research-consortium/",
+      "source_name": "Creative Learning Guild",
+      "relevance_score": 68,
+      "summary": "서울대, KAIST, 연세대, 고려대 등 한국 주요 대학들이 아시아 AI 연구 컨소시엄을 구성했습니다. 한국의 AI 학술 교육 인프라 확충을 보여주는 사례입니다.",
+      "tags": [
+        "research",
+        "consortium"
+      ],
+      "collected_via": "brave_search"
+    },
+    "audit_log": [
+      {
+        "agent": "source-collector",
+        "action": "collected",
+        "timestamp": "2026-03-05T21:06:00+09:00",
+        "note": "한국 주요 대학의 AI 연구 컨소시엄 구성"
+      }
+    ],
+    "queued_at": "2026-03-05T21:15:00.286867"
+  },
+  {
+    "id": "1741271193-politico-love",
+    "stage": "sourced",
+    "created_at": "2026-03-05T21:06:00+09:00",
+    "priority": 2,
+    "source": {
+      "title": "The Country That's Madly in Love With AI",
+      "url": "https://www.politico.com/news/magazine/2026/02/21/south-korea-ai-popular-why-00789618",
+      "source_name": "POLITICO",
       "relevance_score": 62,
-      "status": "waiting",
-      "reason": "relevance_score 62 (50-74 범위) — 우선순위 낮음",
-      "next_review": "2026-03-06T00:00:00Z"
-    }
-  ],
-  "note": "대기 중인 항목들은 relevance_score 50-74 범위. 스캇의 우선순위 조정 또는 스토리 앵글 변경 시 배정으로 전환 가능."
-}
+      "summary": "한국이 자원 부족 국가로서 기술을 경제 부흥의 핵심으로 삼아왔으며, 이것이 교육 시스템에 깊이 내재되어 있어 AI에 대한 긍정적 인식이 높다는 분석입니다. 한국의 교육 문화 배경을 다룹니다.",
+      "tags": [
+        "policy",
+        "culture"
+      ],
+      "collected_via": "brave_search"
+    },
+    "audit_log": [
+      {
+        "agent": "source-collector",
+        "action": "collected",
+        "timestamp": "2026-03-05T21:06:00+09:00",
+        "note": "한국의 AI 친화적 교육 문화 배경 분석"
+      }
+    ],
+    "queued_at": "2026-03-05T21:15:00.286946"
+  },
+  {
+    "id": "1741352160-002",
+    "stage": "sourced",
+    "created_at": "2026-03-05T21:36:00+09:00",
+    "priority": 2,
+    "source": {
+      "title": "2026학년도 AI기반 기초과목 진단 및 맞춤형 학습 프로그램",
+      "url": "https://www.catholic.ac.kr/ko/campuslife/notice.do?mode=view&articleNo=268688",
+      "source_name": "가톨릭대학교",
+      "relevance_score": 68,
+      "summary": "가톨릭대학교가 AI를 통해 학생의 기초과목 역량을 진단하고 맞춤형 학습을 제공하는 온라인 플랫폼 운영. 대학수학, 과학, 영어, 국어 등 다양한 과목에서 AI 기반 개인 맞춤 튜터링 지원.",
+      "tags": [
+        "education_practice",
+        "higher_education",
+        "personalized_learning"
+      ],
+      "collected_via": "brave_search"
+    },
+    "audit_log": [
+      {
+        "agent": "source-collector",
+        "action": "collected",
+        "timestamp": "2026-03-05T21:36:00+09:00",
+        "note": "대학 AI 교육 사례, 관련성 68점"
+      }
+    ],
+    "queued_at": "2026-03-05T21:59:00Z"
+  },
+  {
+    "id": "20260305-223631-469935",
+    "stage": "sourced",
+    "created_at": "2026-03-05T22:36:31+09:00",
+    "priority": 2,
+    "source": {
+      "title": "AI가 혁신하는 교육 환경 전략",
+      "url": "https://www.kjob.news/news/469935",
+      "source_name": "전국인력신문 (kjob.news)",
+      "relevance_score": 72,
+      "summary": "전 세계적으로 AI가 교육 혁신을 주도하고 있는 가운데, 스탠퍼드, 미국 K-12, 인도, 영국 등 주요국의 사례와 성과를 분석한 글. 한국 교육 시스템도 AI를 통한 개인 맞춤형 교육, 교사 행정부담 경감, 접근성 개선을 추진할 수 있으며, 데이터 보안, 교사 연수, 윤리적 통합 등의 과제 해결이 필요함을 제시.",
+      "tags": [
+        "policy",
+        "global-trends",
+        "teacher-training",
+        "personalized-learning",
+        "ethics"
+      ],
+      "collected_via": "brave_search"
+    },
+    "audit_log": [
+      {
+        "agent": "source-collector",
+        "action": "collected",
+        "timestamp": "2026-03-05T22:36:31+09:00",
+        "note": "관련성 72점 - 글로벌 AI 교육 전략 분석 및 한국 교육 정책 시사점"
+      }
+    ],
+    "queued_at": "2026-03-05T22:40:00Z",
+    "status": "waiting",
+    "reason": "신뢰도 72 (50-74 범위) — 추후 배정 검토"
+  },
+  {
+    "id": "1741326420003-daegu-bootcamp",
+    "stage": "sourced",
+    "created_at": "2026-03-06T02:07:00+09:00",
+    "priority": 2,
+    "source": {
+      "title": "대구대, 교육부 '첨단산업 인재양성 부트캠프' 인공지능 분야 선정",
+      "url": "https://www.sentv.co.kr/article/view/sentv202602270057",
+      "source_name": "서울경제TV",
+      "relevance_score": 71
+    },
+    "queued_at": "2026-03-06T02:31:00+09:00",
+    "reason": "신뢰도 71점 (50-74 범위) — 표준 배정 대기"
+  },
+  {
+    "id": "1741326420002-gumi-defense-ai",
+    "stage": "sourced",
+    "created_at": "2026-03-06T02:07:00+09:00",
+    "priority": 2,
+    "source": {
+      "title": "경북도, 방산 인공지능 전문인력 양성 박차",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=137538",
+      "source_name": "스마트비즈",
+      "relevance_score": 72
+    },
+    "queued_at": "2026-03-06T02:31:00+09:00",
+    "reason": "신뢰도 72점 (50-74 범위) — 표준 배정 대기"
+  },
+  {
+    "id": "1741245300-maritime-ai",
+    "stage": "sourced",
+    "created_at": "2026-03-06T05:08:00+09:00",
+    "priority": 2,
+    "relevance_score": 67,
+    "source_name": "해양언론",
+    "title": "한국해양대, AI 운영대학 선정",
+    "queued_at": "2026-03-06T05:16:00+09:00",
+    "reason": "신뢰도 67점 (50-74 범위) → 대기 상태"
+  }
+]

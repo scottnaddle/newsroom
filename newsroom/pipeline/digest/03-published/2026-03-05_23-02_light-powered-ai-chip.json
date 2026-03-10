@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Light-powered chip makes AI 100 times more efficient",
+    "url": "https://www.sciencedaily.com/releases/2025/09/250908175458.htm",
+    "source_name": "ScienceDaily",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "Researchers have created a light-powered AI chip by integrating optical components directly onto silicon, performing convolutions using laser light and microscopic lenses. This dramatically reduces energy consumption and speeds up AI processing, addressing a critical challenge in AI infrastructure.",
+    "published_date": "2025-09-08",
+    "collected_at": "2026-03-05T23:02:49Z"
+  },
+  "digest": {
+    "headline": "빛으로 AI 연산하는 칩 개발, 에너지 효율 100배 향상",
+    "lead": "플로리다 대학 연구팀이 레이저와 미세 렌즈로 AI의 핵심 연산 작업을 수행하는 광학 칩을 개발했습니다. 기존 전자식 칩과 달리 빛의 파동을 이용해 연산을 처리해 에너지 소비를 극적으로 줄이면서도 손글씨 숫자 인식에서 98% 정확도를 달성했습니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">플로리다 대학 연구팀이 레이저와 미세 렌즈로 AI의 핵심 연산 작업을 수행하는 광학 칩을 개발했습니다. 기존 전자식 칩과 달리 빛의 파동을 이용해 연산을 처리해 에너지 소비를 극적으로 줄이면서도 손글씨 숫자 인식에서 98% 정확도를 달성했습니다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">AI 모델이 점점 복잡해지면서 전력 소비가 심각한 문제가 되고 있습니다. 특히 합성곱 연산(convolution)은 기계학습의 핵심 작업으로 이미지, 영상, 텍스트에서 패턴을 감지하는데 매우 많은 전력을 필요로 합니다. 이 연구팀은 광학 성분을 실리콘 칩에 직접 통합해 레이저 빛과 초미세 프레넬 렌즈를 이용해 이 연산을 수행하는 방식을 개발했습니다. 프레넬 렌즈는 등대의 렌즈처럼 설계된 평평하고 초박형 렌즈로, 반도체 제조 기술로 칩 위에 직접 식각할 수 있습니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">실험에서 이 광학 칩은 손글씨 숫자 98% 정확도로 인식했으며, 전통적 전자식 칩과 동등한 성능을 보였습니다. 특히 주목할 점은 서로 다른 색의 레이저를 동시에 사용해 여러 데이터 스트림을 병렬로 처리할 수 있다는 것입니다. 이는 광자학의 고유한 장점으로, 향후 AI 칩 설계에 광학 요소가 필수 구성요소가 될 가능성을 시사합니다. NVIDIA 같은 칩 제조사들이 이미 일부 시스템에 광학 기술을 도입 중이라는 점에서 상용화 가능성도 높습니다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">에너지 효율이 획기적으로 개선되면 저비용 AI 기반 교육 솔루션 개발이 가능해집니다. 현재 대규모 AI 모델 운영에 필요한 높은 전력비가 에듀테크 서비스의 가격 장벽이 되고 있으나, 광학 칩이 보급되면 온라인 교육 플랫폼과 적응형 학습 시스템의 운영 비용을 대폭 절감할 수 있습니다. 특히 개발도상국이나 농촌 지역의 학교에서도 저전력으로 고성능 AI 기반 맞춤형 수업을 제공할 수 있는 기반이 마련되어 교육 격차 해소에 기여할 것으로 예상됩니다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.sciencedaily.com/releases/2025/09/250908175458.htm\" style=\"color:#FF6B35;text-decoration:none;\">ScienceDaily</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "빛으로 AI 연산하는 칩 개발, 에너지 효율 100배 향상",
+    "meta_description": "플로리다 대학이 레이저와 미세 렌즈를 이용한 광학 칩으로 AI 연산의 에너지 소비를 획기적으로 감소시키는 기술 개발",
+    "word_count": 595
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-05T23:02:49Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T23:05:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T14:29:31.447Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a9934b1e4e8000016eb34d",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a9934b1e4e8000016eb34d",
+    "public_url": "https://ubion.ghost.io/biceuro-ai-yeonsanhaneun-cib-gaebal-eneoji-hyoyul-100bae-hyangsang/",
+    "status": "published",
+    "published_at": "2026-03-05T14:29:31.447Z"
+  }
+}

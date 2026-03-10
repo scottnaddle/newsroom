@@ -1,0 +1,91 @@
+{
+  "stage": "published",
+  "source": {
+    "url": "https://www.asiae.co.kr/en/article/2026030615581928199",
+    "title": "Korea University of Technology and Education Implements Korea's First AI Learning Platform 'K-LXP'",
+    "snippet": "University-wide AI learning platform independently developed. Faculty participated in planning and design. Integrates generative AI for students.",
+    "published_date": "2026-03-06"
+  },
+  "relevance_score": 72,
+  "tags": [
+    "university",
+    "platform",
+    "edtech"
+  ],
+  "collected_at": "2026-03-07T22:13:14.911Z",
+  "assigned_at": "2026-03-08T07:37:00+09:00",
+  "reported_at": "2026-03-08T07:48:00+09:00",
+  "reporting_brief": {
+    "who": "한국기술교육대학교(KOREATECH). 유길상 총장. 미래교육혁신본부 안채현 본부장. 4학년 경영학부 우지영 학생.",
+    "what": "국내 대학 최초 자체 개발 AI 기반 학습 플랫폼 K-LXP 전면 시행.",
+    "why": "대학 교육의 디지털 전환 가속화 속 LMS 한계 극복 시도.",
+    "when": "2023년 7월 R&D 착수, 2025년 2학기 시범운영, 2026년 3월 전면 시행.",
+    "context": "한국기술교육대는 2025년 취업률 80.1%. 정부 AID 전환 중점 전문대학 지원사업과 맞물림.",
+    "sources": [
+      {
+        "url": "https://www.asiae.co.kr/en/article/2026030615581928199",
+        "title": "아시아경제(영문) - K-LXP 전면 시행",
+        "reliability": "높음"
+      },
+      {
+        "url": "https://www.ngonews.kr/news/articleView.html?idxno=225712",
+        "title": "한국NGO신문 - 한기대 자체개발 AI 기반 학습플랫폼 시행",
+        "reliability": "중상"
+      },
+      {
+        "url": "https://www.veritas-a.com/news/articleView.html?idxno=600829",
+        "title": "베리타스알파 - 한기대 K-LXP 시행",
+        "reliability": "중상"
+      },
+      {
+        "url": "https://www.dhnews.co.kr/news/view/1065595823863356",
+        "title": "대학저널 - 한기대 K-LXP 시행",
+        "reliability": "중상"
+      }
+    ],
+    "perspectives": {
+      "government": "교육부 AID 전환 사업 등을 통해 대학 AI 전환 지원.",
+      "education": "교수진 직접 참여 설계라는 점에서 차별화. 확산 가능성과 비용 격차 문제.",
+      "industry": "생성형 AI 무료 제공은 에드테크 기업과의 협력 모델 시사."
+    },
+    "suggested_angle": "대학이 직접 AI 학습 플랫폼을 만들면 뭐가 달라지나."
+  },
+  "draft": {
+    "headline": "대학이 직접 AI 학습 플랫폼을 만들면 뭐가 달라지나 — 한기대 K-LXP의 실험",
+    "subheadline": "교수 23명이 설계에 참여, 학생 885명 시범운영 거쳐 3월 전면 시행… 입학부터 취업까지 AI가 따라가는 구조",
+    "html": "<div style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;font-size:17px;line-height:1.9;color:#1a202c\">\n\n<div style=\"border-left:4px solid #d97706;background:#f8f9ff;padding:20px 24px;margin-bottom:32px;border-radius:0 8px 8px 0\">\n<p style=\"margin:0;font-size:18px;font-weight:600;color:#d97706\">한국기술교육대학교가 국내 대학 최초로 자체 개발한 AI 기반 학습 플랫폼 'K-LXP'를 2026년 신학기부터 전면 시행한다. 2년 반의 개발 기간 동안 교수진이 직접 기획에 참여한 것이 이 플랫폼의 가장 큰 특징이다.</p>\n</div>\n\n<figure class=\"kg-card kg-image-card kg-width-full\">\n<img src=\"https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200\" alt=\"대학 캠퍼스에서 노트북으로 학습하는 학생들\" style=\"width:100%;border-radius:8px\" />\n<figcaption style=\"text-align:center;font-size:14px;color:#94a3b8;margin-top:8px\">K-LXP는 기존 LMS를 넘어 개인 맞춤형 학습 경험을 목표로 한다. (Unsplash)</figcaption>\n</figure>\n\n<h2 style=\"font-size:19px;margin-top:36px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">LMS의 한계, 교수가 직접 설계로 답하다</h2>\n<p>대학의 학습관리시스템(LMS)은 대부분 출결 확인, 과제 제출, 성적 조회 같은 관리 기능에 머물러 있다. 학생의 학습 패턴을 분석하거나, 개인별 맞춤형 콘텐츠를 추천하는 기능은 찾기 어렵다. 한국기술교육대학교(KOREATECH)는 이 한계를 자체 기술로 넘기로 했다.</p>\n<p>2023년 7월 R&D에 착수한 K-LXP(Koreatech Learning eXperience Platform)는 기존 LMS와 결정적으로 다른 점이 있다. 교수 23명이 기획과 설계 과정에 직접 참여했다. 미래교육혁신본부 안채현 본부장의 주도 아래 현장의 교수법 노하우가 플랫폼 구조에 반영된 것이다. 외부 솔루션을 구매해 도입하는 통상적 방식과는 출발점부터 달랐다.</p>\n\n<h2 style=\"font-size:19px;margin-top:36px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">AI 문제은행부터 3대 챗봇 무료 제공까지</h2>\n<p>K-LXP의 핵심 기능은 다섯 가지로 나뉜다. 먼저 학생 개인별 맞춤형 대시보드가 학습 현황과 목표를 한눈에 보여준다. AI 문제은행 'DRAGON'은 과목별로 AI가 생성한 연습 문제를 제공하며, 학생의 수준에 따라 난이도를 조절한다.</p>\n<p>눈에 띄는 것은 AI 챗봇 기능이다. Gemini, ChatGPT, Claude 세 가지 생성형 AI를 학생들에게 무료로 제공한다. 학생들이 개인 비용 부담 없이 다양한 AI 도구를 학습에 활용할 수 있도록 대학이 직접 라이선스를 확보한 것이다. 영상 학습 플랫폼 'HanTube'와 출결·성적이 자동 연동되는 교무행정 시스템도 통합됐다.</p>\n<p>2025년 2학기에 30개 강좌, 학생 885명을 대상으로 시범운영을 거쳤다. 4학년 경영학부 우지영 학생은 시범운영 기간 동안 자기주도 학습에 실질적 도움이 됐다고 평가한 것으로 전해진다.</p>\n\n<h2 style=\"font-size:19px;margin-top:36px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">다른 대학으로 퍼질 수 있을까</h2>\n<p>K-LXP가 주목받는 이유는 '자체 개발'이라는 점 때문이다. 정부의 'AID(AI+Digital) 전환 중점 전문대학 지원사업'이 대학의 AI 전환을 독려하고 있지만, 대부분의 대학은 외부 에드테크 기업의 솔루션을 도입하는 방식을 택한다. 개발 인력과 인프라가 부족하기 때문이다.</p>\n<p>한기대는 취업률 80.1%(2025년 기준)라는 탄탄한 성과를 바탕으로 투자 여력을 확보한 사례다. 그러나 지방 소규모 대학이 같은 경로를 밟기는 쉽지 않다. 개발비, 서버 인프라, AI 라이선스 비용까지 감당해야 하기 때문이다. 자체 개발의 장점인 '현장 맞춤형 설계'를 살리되, 플랫폼 공유나 공동 개발 같은 확산 모델이 함께 논의되어야 한다는 목소리도 나온다.</p>\n<p>한기대는 향후 K-LXP에 학습 추천 알고리즘, 실시간 학습 지원, 경력 포트폴리오, 취업정보, 상담 서비스를 추가로 통합할 계획이다. 입학부터 졸업, 취업까지 학생의 전체 성장 경로를 AI가 지원하는 구조를 완성하겠다는 구상이다. 대학이 에드테크의 '소비자'가 아니라 '생산자'가 될 수 있다는 가능성을 보여주는 실험이 본격적으로 시작됐다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0;margin-top:36px;padding-top:20px\">\n<p style=\"font-size:15px;font-weight:600;margin-bottom:12px\">📎 참고자료</p>\n<ol style=\"font-size:15px;color:#475569;padding-left:20px\">\n<li><a href=\"https://www.asiae.co.kr/en/article/2026030615581928199\" style=\"color:#d97706\">아시아경제 — K-LXP 전면 시행</a></li>\n<li><a href=\"https://www.ngonews.kr/news/articleView.html?idxno=225712\" style=\"color:#d97706\">한국NGO신문 — 한기대 자체개발 AI 기반 학습플랫폼 시행</a></li>\n<li><a href=\"https://www.veritas-a.com/news/articleView.html?idxno=600829\" style=\"color:#d97706\">베리타스알파 — 한기대 K-LXP 시행</a></li>\n<li><a href=\"https://www.dhnews.co.kr/news/view/1065595823863356\" style=\"color:#d97706\">대학저널 — 한기대 K-LXP 시행</a></li>\n</ol>\n</div>\n\n<p style=\"font-size:13px;color:#cbd5e1;margin-top:32px\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>",
+    "ghost_tags": [
+      "에드테크",
+      "AI 교육",
+      "K-LXP",
+      "한국기술교육대",
+      "대학 혁신"
+    ],
+    "references": [
+      "https://www.asiae.co.kr/en/article/2026030615581928199",
+      "https://www.ngonews.kr/news/articleView.html?idxno=225712",
+      "https://www.veritas-a.com/news/articleView.html?idxno=600829",
+      "https://www.dhnews.co.kr/news/view/1065595823863356"
+    ],
+    "word_count": 780,
+    "category": "industry",
+    "meta_title": "대학이 직접 AI 학습 플랫폼을 만들면 뭐가 달라지나 — 한기대 K-LXP의 실험",
+    "meta_description": "한국기술교육대가 교수 23명이 참여해 자체 개발한 AI 학습 플랫폼 K-LXP를 전면 시행한다. 입학부터 취업까지 AI가 학습을 지원하는 구조다."
+  },
+  "fact_check": {
+    "score": 90,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "K-LXP 3월 전면 시행 — NGO신문·베리타스알파·대학저널·아시아경제 보도 일치",
+      "한기대 취업률 80.1% (2025 교육부 공시 기준) — 한국경제·ZDNet·입시요강 등에서 동일 수치 확인",
+      "2023년 7월 R&D 착수, 30개 강좌/23명 교수/885명 학생 시범운영 — 대학저널 원문 확인",
+      "국내 대학 최초 자체 개발 AI 학습 플랫폼 — 다수 매체 동일 표현 사용"
+    ]
+  },
+  "desk_approved_at": "2026-03-08T09:00:29.021076+09:00",
+  "copy_edited_at": "2026-03-08T09:01:00+09:00",
+  "ghost_id": "69acbe3aff4fbf0001ab7456",
+  "ghost_url": "https://insight.ubion.global/p/d7aa6eb5-cee8-4e0e-81bb-82fbd32afc93/",
+  "published_at": "2026-03-08T00:09:30.227Z"
+}

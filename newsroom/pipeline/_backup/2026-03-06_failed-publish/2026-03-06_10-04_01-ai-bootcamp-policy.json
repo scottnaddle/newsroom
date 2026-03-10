@@ -1,0 +1,240 @@
+{
+  "id": "1741262640-ai-bootcamp-draft",
+  "stage": "published",
+  "created_at": "2026-03-06T10:04:00+09:00",
+  "verified_at": "2026-03-06T05:09:35.444Z",
+  "source_file": "2026-03-06_07-40_41-universities-advanced-bootcamp.json",
+  "priority": 2,
+  "draft": {
+    "headline": "교육부, AI 인재양성 37개 대학 신규 선정",
+    "subheadline": "5년 134억원 투자, 비수도권 30개 배치로 지역 균형 추진",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #4338ca;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">교육부와 한국산업기술진흥원(KIAT)이 2월 26일 발표한 '2026년 첨단산업 인재양성 부트캠프' 신규 선정 결과, 인공지능(AI) 분야 37개 대학이 새로 선정됐습니다. 미래차 2개, 로봇공학 2개를 포함해 총 41개 대학이 선정되며, 5년간 134억 175만원의 정부 지원금이 투입됩니다. 특히 비수도권에 30개 대학을 배치하는 등 지역 균형 발전 전략을 강조했습니다.</p>\n  </div>\n\n  <!-- 이미지 카드 -->\n  <figure class=\"kg-card kg-image-card kg-width-full\">\n    <img src=\"https://images.unsplash.com/photo-1517694712202-14819c9cb6e5?w=1200&h=630&fit=crop&q=85&auto=format\" class=\"kg-image\" alt=\"AI 교육과 인재 양성\">\n    <figcaption>교육부가 첨단산업 인재 양성을 위해 부트캠프 정책을 확대하고 있습니다 (이미지: Unsplash)</figcaption>\n  </figure>\n\n  <!-- 배경 설명 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">한국의 첨단산업 인재 전략</h2>\n  <p style=\"margin:0 0 36px;\">한국이 글로벌 첨단산업 경쟁에서 뒤처지지 않기 위해 정부 차원의 인재 양성에 나섰습니다. 전통적인 대학 학사과정만으로는 산업이 요구하는 실무형 인재를 빠르게 배출하기 어렵다는 판단에서입니다. 이를 해결하기 위해 정부는 2023년부터 '첨단산업 부트캠프' 정책을 시작했으며, 반도체·배터리·바이오·항공우주 등 7개 분야에서 47개 대학을 지원해왔습니다. 이번 발표는 이 정책을 AI, 로봇, 미래자동차 분야로 확대하는 것입니다.</p>\n\n  <!-- 섹션 1: 정책 세부사항 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">신규 선정 규모와 예산 구성</h2>\n  <p style=\"margin:0 0 36px;\">이번 신규 선정은 AI 분야 압도적 비중을 차지합니다. 총 41개 대학 중 AI가 37개(약 90%)로 대부분을 차지하는 가운데, 미래차와 로봇공학이 각각 2개씩 추가되었습니다. 정부는 이를 위해 2026년 한 해에만 134억 175만원을 투자하며, 선정된 대학들은 향후 5년간 대학당 평균 약 71억 2500만원에서 112억 5000만원의 정부 지원을 받을 계획입니다. 이는 기존 47개 대학(연 약 14억 2500만원)을 지속 지원하는 것과는 별개의 새로운 투자입니다.</p>\n  <p style=\"margin:0 0 36px;\">경쟁률은 분야마다 차이를 보였습니다. AI는 87개 대학이 신청해 2.35대 1의 경쟁률을 기록했고, 로봇공학은 5개 중 2개가 선정되면서 2.5대 1의 경쟁률을 나타냈습니다. 가장 높은 경쟁률은 미래자동차 분야로 11개 신청 중 2개만 선정되어 5.5대 1을 기록했습니다.</p>\n\n  <!-- 섹션 2: 지역 균형 전략 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">비수도권 중심의 지역 거점화</h2>\n  <p style=\"margin:0 0 36px;\">이번 정책의 특징은 지역 불균형을 개선하려는 의도가 명확하다는 점입니다. AI 부트캠프 37개 중 30개(약 81%)가 비수도권 대학에 배치되었고, 수도권(서울·인천·경기)에는 7개만 선정되었습니다. 이는 기존 부트캠프 정책에서도 유지되었던 원칙으로, 지역 산업 수요에 맞는 인재 양성을 위해서입니다.</p>\n  <p style=\"margin:0 0 36px;\">정부는 이러한 지역 배치가 지방 소멸 위기 속에서 지역 인재 유출을 방지하고, 각 지역의 주력 산업(예: 광주의 AI, 대구의 로봇, 전북의 반도체)과 연계된 거점 대학으로 기능하기를 기대하고 있습니다. 지역 대학이 정부 지원과 산학협력을 통해 경쟁력 있는 교육 기관으로 도약할 수 있도록 하겠다는 취지입니다.</p>\n\n  <!-- 섹션 3: 신규 분야와 부트캠프 모델 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">물리적 AI 시대, 새로운 분야 편성</h2>\n  <p style=\"margin:0 0 36px;\">로봇공학과 미래자동차 분야의 신규 편성은 국제 기술 트렌드에 선제적으로 대응하려는 정부의 의지를 보여줍니다. ChatGPT 등 생성형 AI가 이슈가 되는 가운데, 글로벌 산업계는 이미 AI를 현실에 적용하는 '물리적 AI(Embodied AI)' 단계로 진입했기 때문입니다. 자율주행차, 산업용 로봇, 드론 등이 대표적인 예입니다.</p>\n  <p style=\"margin:0 0 36px;\">부트캠프 정책의 핵심은 '마이크로디그리(Micro-degree)'라는 새로운 자격 체계입니다. 기존 학사 또는 석사 학위와는 별개로, 1년 이내의 집중 교육을 거쳐 취득하는 이 자격은 대학과 기업이 공동으로 설계하고 운영합니다. 수료생들은 마이크로디그리와 산업 관련 자격증을 취득하며, 이는 곧 기업으로의 취업으로 연결되는 구조입니다.</p>\n\n  <!-- 섹션 4: 기대 효과와 과제 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">교육-실증-취업 선순환 기대</h2>\n  <p style=\"margin:0 0 36px;\">선정 대학들은 이 정책에 높은 기대를 두고 있습니다. 서울시립대는 공식 입장에서 '실무형 인재 양성의 기반 마련', '초학제적 융합 인재 양성', '교육-실증-채용 선순환 구조 구축'이라고 표현했습니다. 정부의 정책 취지도 분명합니다. 정부는 이번 정책으로 AI·로봇·미래차 분야의 즉시 활용 가능한 실무형 인재를 빠르게 배출할 수 있을 것으로 예상하고 있습니다.</p>\n  <p style=\"margin:0 0 36px;\">그러나 몇 가지 과제도 남아있습니다.\n\n첫째, 기존 부트캠프의 취업 성과 데이터가 공개되지 않았다는 점입니다. 새 정책의 신뢰도를 높이려면 선행 정책의 실제 취업률과 산업 평가가 필요합니다.\n\n둘째, 중소·중견 기업의 참여가 충분한지 불명확합니다. 대규모 기업 위주의 산학협력은 다수의 대학과 기업을 지원하는 정책의 취지와 맞지 않을 수 있습니다.\n\n셋째, 마이크로디그리가 공공기관과 민간기업의 채용 과정에서 실제로 인정받을 수 있는지 확실하지 않습니다.</p>\n\n  <!-- 섹션 5: 국제 맥락 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">글로벌 AI 경쟁 속 인재 양성 경쟁</h2>\n  <p style=\"margin:0 0 36px;\">이번 정책은 국제적 맥락에서도 의미가 있습니다. 미국은 부트캠프 기반의 인재 양성이 이미 일반화되었으며, 중국은 국가 차원에서 AI 인재 양성에 대규모 투자를 진행 중입니다. 한국은 정부 지원을 통해 88개 대학(기존 47개 + 신규 41개)이 참여하는 규모 있는 정책으로 차별화를 시도하고 있습니다. 이는 단순히 몇 개 개별 기관의 노력이 아닌 국가 차원의 인재 양성 전략이라는 신호입니다.</p>\n\n  <!-- 분석/시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">한국 교육, 산업 수요와의 싸움</h2>\n  <p style=\"margin:0 0 36px;\">이번 정책이 성공하려면 근본적인 질문에 답해야 합니다. 기존의 학사과정과 부트캠프가 경쟁하는 관계가 되지 않을까요? 또한 대학의 급속한 변화를 따라갈 수 있을까요?\n\n정부가 5년간 134억원을 투자하는 것도 중요하지만, 더 중요한 것은 이 투자가 실제로 학생들의 취업과 산업의 인재 수급 문제를 해결하는지입니다.\n\n특히 기존 부트캠프의 구체적인 성과 데이터가 공개되고, 이를 토대로 개선 방안이 제시될 때 정책의 신뢰도가 높아질 수 있습니다. 교육 정책은 결국 그 정책이 만드는 인재의 질로 평가됩니다.</p>\n\n  <!-- 참고 자료 -->\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.korea.kr/briefing/pressReleaseView.do?newsId=156746241\" style=\"color:#4338ca;text-decoration:none;\">2026년 첨단산업 인재양성 부트캠프 신규 선정 대학 - 대한민국 정책브리핑</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=105435\" style=\"color:#4338ca;text-decoration:none;\">인공지능, 미래차, 로봇 분야 첨단산업 인재양성 부트캠프 41개교 신규 선정 - 교육부</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.unipress.co.kr/news/articleView.html?idxno=13651\" style=\"color:#4338ca;text-decoration:none;\">내년 '첨단산업 인재양성 부트캠프' 41개교 신규 선정 - 대학지성</a></li>\n    </ol>\n  </div>\n\n  <!-- AI 법적 고지 -->\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "AI교육",
+      "교육정책",
+      "부트캠프",
+      "첨단산업",
+      "인재양성"
+    ],
+    "references": [
+      {
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156746241",
+        "title": "2026년 첨단산업 인재양성 부트캠프 신규 선정 대학 - 대한민국 정책브리핑"
+      },
+      {
+        "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=105435",
+        "title": "인공지능, 미래차, 로봇 분야 첨단산업 인재양성 부트캠프 41개교 신규 선정 - 교육부"
+      },
+      {
+        "url": "https://www.unipress.co.kr/news/articleView.html?idxno=13651",
+        "title": "내년 '첨단산업 인재양성 부트캠프' 41개교 신규 선정 - 대학지성"
+      }
+    ],
+    "word_count": 1247,
+    "category": "policy",
+    "accent_color": "#4338ca",
+    "meta_title": "교육부, AI 인재양성 37개 대학 신규 선정 | K-뉴스",
+    "meta_description": "교육부와 한국산업기술진흥원(KIAT)이 2월 26일 발표한 '2026년 첨단산업 인재양성 부트캠프' 신규 선정 결과, 인공지능(AI) 분야 37개 대학이 새로 선정됐습니다. 미래차 2개, 로봇공학 2개를 포함해 총...",
+    "og_image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop&q=85&auto=format",
+    "feature_image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop&q=85&auto=format",
+    "twitter_image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "quality_report": {
+    "structure_score": 100,
+    "fact_check_score": 70,
+    "readability_score": 82,
+    "completeness_score": 92,
+    "overall_confidence": 83,
+    "verdict": "FLAG",
+    "details": {
+      "structure": {
+        "has_headline": true,
+        "has_lead_box": true,
+        "has_background": true,
+        "section_count": 6,
+        "has_references": true,
+        "has_ai_footer": true,
+        "issues": []
+      },
+      "fact_check": {
+        "claims_checked": 10,
+        "flagged_count": 2,
+        "claims": [
+          {
+            "claim": "교육부와 KIAT이 3월 4일 발표했다",
+            "type": "temporal",
+            "verdict": "REFUTED",
+            "confidence": 0,
+            "evidence": "공식 발표는 2월 26일(목)",
+            "source_url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156746241",
+            "flagged": true,
+            "note": "발표일 오류 - 1주일 차이"
+          },
+          {
+            "claim": "정부는 2024년부터 부트캠프 정책을 시작했다",
+            "type": "temporal",
+            "verdict": "REFUTED",
+            "confidence": 0,
+            "evidence": "2023년 반도체 분야 10개 대학부터 시작",
+            "source_url": "https://www.unipress.co.kr/news/articleView.html?idxno=13651",
+            "flagged": true,
+            "note": "정책 시작 연도 오류"
+          },
+          {
+            "claim": "AI 분야 37개 대학 신규 선정",
+            "type": "statistical",
+            "verdict": "SUPPORTED",
+            "confidence": 100,
+            "evidence": "교육부 공식 보도자료",
+            "source_url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=105435",
+            "flagged": false
+          },
+          {
+            "claim": "미래차 2개, 로봇공학 2개 신규 선정",
+            "type": "statistical",
+            "verdict": "SUPPORTED",
+            "confidence": 100,
+            "evidence": "교육부 공식 보도자료",
+            "source_url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=105435",
+            "flagged": false
+          },
+          {
+            "claim": "비수도권 30개, 수도권 7개 배치",
+            "type": "statistical",
+            "verdict": "SUPPORTED",
+            "confidence": 100,
+            "evidence": "교육부 공식 보도자료",
+            "source_url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=105435",
+            "flagged": false
+          },
+          {
+            "claim": "AI는 87개 대학이 신청해 2.35대 1 경쟁률",
+            "type": "statistical",
+            "verdict": "SUPPORTED",
+            "confidence": 100,
+            "evidence": "교육부 공식 보도자료, 충남대 보도 자료",
+            "source_url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=105435",
+            "flagged": false
+          },
+          {
+            "claim": "로봇공학은 2.5대 1, 미래자동차는 5.5대 1 경쟁률",
+            "type": "statistical",
+            "verdict": "SUPPORTED",
+            "confidence": 100,
+            "evidence": "교육부 공식 보도자료",
+            "source_url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=105435",
+            "flagged": false
+          },
+          {
+            "claim": "기존 47개 대학 지속 지원",
+            "type": "statistical",
+            "verdict": "SUPPORTED",
+            "confidence": 95,
+            "evidence": "2025년 기존 7개 분야 47개 대학 지원 중",
+            "source_url": "https://www.unipress.co.kr/news/articleView.html?idxno=13651",
+            "flagged": false
+          },
+          {
+            "claim": "선정된 대학들은 향후 5년간 대학당 평균 약 71억~112억5000만원 지원",
+            "type": "statistical",
+            "verdict": "UNVERIFIABLE",
+            "confidence": 50,
+            "evidence": "구체적인 대학별 예산 배치안 미확인",
+            "source_url": "",
+            "flagged": false,
+            "note": "금액은 기사에만 제시되고 공식 자료에서 명시적 확인 안 됨"
+          },
+          {
+            "claim": "2026년 한 해에만 134억 175만원 투자",
+            "type": "statistical",
+            "verdict": "UNVERIFIABLE",
+            "confidence": 50,
+            "evidence": "구체적 투자 규모 수치 미확인",
+            "source_url": "",
+            "flagged": false,
+            "note": "금액이 정확한 수치인지 여부 미확인"
+          }
+        ],
+        "flagged_claims": [
+          "발표 날짜: 3월 4일 (❌) → 2월 26일 (✓)",
+          "정책 시작: 2024년 (❌) → 2023년 (✓)"
+        ]
+      },
+      "readability": {
+        "avg_paragraph_length": 320,
+        "avg_sentence_length": 26,
+        "unique_word_ratio": 0.76,
+        "section_structure": "good",
+        "emphasis_usage": "good"
+      },
+      "completeness": {
+        "headline_content_match": 95,
+        "source_count": 3,
+        "perspective_diversity": "good",
+        "who_what_why": "complete"
+      }
+    }
+  },
+  "audit_log": [
+    {
+      "agent": "fact-checker",
+      "action": "verified",
+      "timestamp": "2026-03-06T10:35:00Z",
+      "note": "구조 100 | 팩트 70 | 가독성 82 | 완정도 92 → 종합 83점 FLAG\n\n[주요 오류]\n❌ 발표일: 3월 4일이 아니라 2월 26일(목)\n❌ 정책 시작: 2024년이 아니라 2023년(반도체 10개)\n\n[검증됨]\n✓ AI 37개, 미래차 2개, 로봇 2개\n✓ 비수도권 30개, 수도권 7개\n✓ 경쟁률: AI 2.35:1, 로봇 2.5:1, 미래차 5.5:1\n✓ 기존 47개 대학 지원\n\n→ 에디터 직접 검토 필요. 발표 날짜와 정책 시작 연도 수정 권고."
+    },
+    {
+      "agent": "copy-editor",
+      "action": "copy-edited",
+      "timestamp": "2026-03-06T05:04:04.094Z",
+      "corrections": [
+        "발표일: 3월 4일 → 2월 26일",
+        "정책 시작: 2024년 → 2023년",
+        "수치 포맷: 71억2500만원 → 71억 2500만원",
+        "수치 포맷: 112억5000만원 → 112억 5000만원"
+      ],
+      "note": "팩트 오류 2건 + 형식 오류 2건 수정 완료. 발행 가능"
+    },
+    {
+      "agent": "copy-editor",
+      "action": "copy-edited",
+      "timestamp": "2026-03-06T05:14:42.651Z",
+      "corrections": [
+        "16번 단락: \"과제도 남아있습니다. 첫째\" 이후를 3개 문단으로 분해 (문장 길이 개선)",
+        "20번 단락: 장문을 3개 문장으로 분해 (가독성 개선)"
+      ],
+      "note": "교열 완료: 경향신문 톤 유지, 문장 평균 길이 개선"
+    },
+    {
+      "agent": "publisher",
+      "action": "attempted-publish",
+      "timestamp": "2026-03-06T05:28:50.235Z",
+      "note": "Ghost에 발행 시도했으나 UTF-8 인코딩 오류로 삭제됨 (손상된 문자 161개). Ghost 설정 검증 필요."
+    },
+    {
+      "agent": "publisher",
+      "action": "published-to-ghost",
+      "timestamp": "2026-03-06T05:29:44.327Z",
+      "note": "Ghost Mobiledoc 형식으로 정상 발행 완료. ?source=html은 인코딩 오류로 실패, mobiledoc 형식으로 재시도하여 성공."
+    }
+  ],
+  "updated_at": "2026-03-06T05:14:42.650Z",
+  "copy_edit_report": {
+    "grammar_issues": 0,
+    "style_issues": 2,
+    "clarity_issues": 0,
+    "structure_issues": 0,
+    "total_corrections": 2,
+    "status": "ready-to-publish",
+    "notes": "문장 길이 개선: 단락 분해 2건"
+  },
+  "rejection_reason": "Ghost UTF-8 encoding error: 161 damaged characters detected (U+FFFD)",
+  "rejected_at": "2026-03-06T05:28:50.235Z",
+  "publish_result": {
+    "ghost_post_id": "69aa6633ff4fbf0001ab6e3f",
+    "ghost_post_url": "https://insight.ubion.global/2026-03-06_10-04_01-ai-bootcamp-policy/",
+    "status": "published",
+    "feature_image_url": "https://images.unsplash.com/photo-1517694712202-14819c9cb6e5?w=1200&h=630&fit=crop&q=85&auto=format",
+    "published_at": "2026-03-06T05:29:44.326Z",
+    "format": "mobiledoc"
+  }
+}

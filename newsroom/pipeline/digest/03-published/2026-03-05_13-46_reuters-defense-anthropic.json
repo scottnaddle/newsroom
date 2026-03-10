@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "U.S. Defense Contractors Expected to Purge Anthropic's AI Tools",
+    "url": "https://www.reuters.com/technology/artificial-intelligence/",
+    "source_name": "Reuters",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "U.S. defense contractors like Lockheed Martin are expected to follow the Pentagon's order to remove Anthropic's AI tools from their supply chains following the Pentagon-Anthropic military deal controversy. This represents a significant shift in government AI procurement policy.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-05T13:46:00Z"
+  },
+  "digest": {
+    "headline": "미 국방부, 방위업체에 Anthropic AI 도구 제거 명령",
+    "lead": "미 국방부의 Anthropic 군사 거래 논란에 따라 Lockheed Martin 등 미국 방위산업체들이 공급망에서 Anthropic의 AI 도구를 제거할 것으로 예상된다. 정부 AI 조달 정책의 중대한 전환점이 될 전망이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미 국방부의 Anthropic 군사 거래 논란에 따라 Lockheed Martin 등 미국 방위산업체들이 공급망에서 Anthropic의 AI 도구를 제거할 것으로 예상된다. 정부 AI 조달 정책의 중대한 전환점이 될 전망이다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">미 국방부와 AI 안전 기업 Anthropic 간의 군사 거래 논란이 정부 AI 조달 정책에 직격탄을 날렸다. 국방부가 방위산업체들에게 Anthropic의 AI 도구 제거를 명령함에 따라 Lockheed Martin, Raytheon Technologies 등 주요 방위산업체들이 즉각 대응할 것으로 예상된다. 이는 기술 기업이 정부 계약으로부터 얼마나 빠르게 배제될 수 있는지 보여주는 사례다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 결정은 단순한 계약 취소를 넘어 미국의 AI 공급망 안보 전략의 변화를 시사한다. 국방부가 정치적·안보적 판단에 따라 기술 선택을 변경할 수 있다는 점에서, AI 기업들의 정부 계약 의존도는 이제 기술 역량만으로 결정되지 않는다. 향후 다른 AI 기업들도 유사한 위험에 노출될 수 있으며, 이는 AI 산업의 정치화(politicization)를 가속화할 것으로 보인다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">정부와 기관의 AI 도구 선택이 정치적·규제적 요인에 의해 빠르게 변할 수 있다는 점은 AI 기반 교육 플랫폼 개발사들에게도 중요한 교훈이다. 학교·대학·교육청이 특정 AI 솔루션을 도입할 때, 공급자의 기술 역량뿐 아니라 규제 환경과 정치적 리스크도 평가해야 한다. 교육 기관이 정부 자금으로 조달하는 AI 도구는 향후 정책 변화로 인해 교체될 가능성이 높아지고 있으며, 이는 에듀테크 기업의 계약 안정성과 장기 사업 모델에 영향을 미칠 것이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.reuters.com/technology/artificial-intelligence/\" style=\"color:#FF6B35;text-decoration:none;\">Reuters</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "anthropic"
+    ],
+    "meta_title": "미 국방부 Anthropic AI 도구 제거 명령…정부 조달 정책 변화",
+    "meta_description": "Lockheed Martin 등 방위산업체가 Anthropic AI 도구 제거. 정부 AI 조달 정책의 전환점. 에듀테크 기업의 계약 안정성에도 영향.",
+    "word_count": 547
+  },
+  "publish_result": {
+    "ghost_post_id": "69a91150e2eb440001d558da",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a91150e2eb440001d558da",
+    "public_url": "https://insight.ubion.global/mi-gugbangbu-bangwieobcee-anthropic-ai-dogu-jegeo-myeongryeong/",
+    "status": "published",
+    "published_at": "2026-03-05T05:14:56.000Z"
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-05T13:46:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T04:47:53.455694Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T05:14:56.000Z"
+    }
+  ]
+}

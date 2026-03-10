@@ -1,0 +1,45 @@
+================================================================================
+발행 에이전트 - 2026-03-06 02:50 (cron)
+================================================================================
+
+❌ 발행 실패
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+오류 원인: Unsplash API 키 유효하지 않음
+
+기사 1: 법대생도 배우는 AI...대학 기본교육 표준화 시작
+기사 2: "LG 직원도 이제 대학원생"...기업이 석박사를 준다
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+상세 오류:
+  API: Unsplash API
+  Endpoint: https://api.unsplash.com/search/photos
+  Error: OAuth error: The access token is invalid
+  Current API Key (unsplash-smart-search.js): aQhPL39y1aOHxUIvjZLd0W3MuGLJpz46J7VwNEaVrAk
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+처리:
+  ✓ 파일 2개 → rejected/ 폴더로 격리
+  ✓ SOUL.md 지침에 따라 API 실패 시 거부 처리 실행
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+필요한 조치 (Scott 확인 필요):
+1. Unsplash API 키 갱신
+   - 사이트: https://unsplash.com/developers
+   - 새 키 발급 또는 기존 키 확인
+   
+2. 파일 업데이트:
+   /root/.openclaw/workspace/newsroom/scripts/unsplash-smart-search.js
+   Line 8: const UNSPLASH_API_KEY = '[NEW_KEY_HERE]'
+   
+3. 테스트:
+   node unsplash-smart-search.js "테스트" "<p>본문</p>"
+   
+4. 재발행:
+   rejected/ 폴더의 2개 파일을 07-copy-edited/로 이동 후 다시 실행
+
+================================================================================

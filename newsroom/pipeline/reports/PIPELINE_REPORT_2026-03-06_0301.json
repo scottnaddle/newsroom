@@ -1,0 +1,100 @@
+{
+  "timestamp": "2026-03-06T03:01:00Z",
+  "report_type": "EDITOR_DESK_30MIN_CHECK",
+  "duration": "30 minutes since last check",
+
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "status": "✅ CLEAR",
+      "action": "대기 중"
+    },
+    "02_assigned": {
+      "total": 0,
+      "status": "✅ CLEAR",
+      "action": "모든 배정 기사 처리 완료"
+    },
+    "03_reported": {
+      "total": 0,
+      "status": "✅ CLEAR",
+      "action": "모든 취재 완료"
+    },
+    "04_drafted": {
+      "total": 0,
+      "status": "✅ CLEAR",
+      "action": "모든 초안 처리 완료"
+    },
+    "05_fact_checked": {
+      "total": 0,
+      "status": "✅ CLEAR",
+      "action": "모든 팩트체크 완료"
+    },
+    "06_desk_approved": {
+      "total": 0,
+      "status": "✅ CLEAR",
+      "action": "모든 에디터 검수 완료"
+    },
+    "07_copy_edited": {
+      "total": 0,
+      "status": "✅ CLEAR",
+      "action": "모든 교열 완료"
+    },
+    "08_published": {
+      "total": 76,
+      "status": "📤 READY FOR EXPORT",
+      "action": "Ghost CMS 발행 대기",
+      "priority": "HIGH"
+    },
+    "rejected": {
+      "total": 50,
+      "status": "⛔ PERMANENT REJECT",
+      "reason": "품질 미달 (신뢰도 < 75 또는 재검수 초과)"
+    }
+  },
+
+  "health_metrics": {
+    "pipeline_flow": "✅ OPTIMAL",
+    "bottleneck": "❌ NONE",
+    "throughput": "매 30분 정상 처리",
+    "blockage_risk": "LOW",
+    "last_check_vs_current": "상태 변화 없음 (안정적)"
+  },
+
+  "quality_analysis": {
+    "total_articles": 126,
+    "accepted": 76,
+    "rejected": 50,
+    "acceptance_rate_percent": 60.3,
+    "rejection_rate_percent": 39.7,
+    "trend": "안정적 (자동화된 품질 필터링 정상 작동)"
+  },
+
+  "action_items": [
+    {
+      "priority": "HIGH",
+      "action": "📤 Ghost CMS Publisher 실행",
+      "target": "08-published/ (76개 기사)",
+      "owner": "publisher-agent",
+      "deadline": "ASAP",
+      "status": "대기 중"
+    }
+  ],
+
+  "pipeline_integrity": {
+    "file_consistency": "✅ PASS",
+    "stage_transitions": "✅ PASS",
+    "metadata_validation": "✅ PASS",
+    "revision_limits_respected": "✅ PASS"
+  },
+
+  "editor_desk_summary": "파이프라인이 완벽한 상태로 작동하고 있습니다. 모든 처리 단계가 깨끗하게 정리되었고, 자동화된 라우팅 시스템(신뢰도 기반 점수 판정)이 효율적으로 작동하고 있습니다. 현재 우선순위는 08-published의 76개 기사를 Ghost CMS에 발행하는 것입니다.",
+
+  "notes": [
+    "✅ 1회 체크 (01:31) 이후 상태 변화 없음 — 파이프라인 안정적",
+    "✅ 신뢰도 기반 자동 라우팅 시스템 100% 작동 중",
+    "✅ 거부율 39.7%는 정상 범위 — 품질 필터링 효과적",
+    "⚠️ 발행 대기 기사 76개 — publisher-agent 우선 실행 필요"
+  ],
+
+  "next_check": "2026-03-06T03:31:00Z (+30분)"
+}

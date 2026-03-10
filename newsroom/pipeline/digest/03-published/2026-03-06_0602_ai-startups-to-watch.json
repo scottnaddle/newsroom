@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "85 Hottest AI Startups to Watch in 2026 [By Valuation, Funding, & Growth]",
+    "url": "https://wellows.com/blog/ai-startups/",
+    "source_name": "Wellows",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Comprehensive list of hottest AI startups in 2026, focusing on companies winning customers and pulling in large funding rounds. Highlights xAI's $20 billion funding, LMArena's $1.7 billion valuation, and strong growth in companies like Anthropic, Perplexity AI, Mistral AI, and Anysphere.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-06T06:02:00+09:00"
+  },
+  "digest": {
+    "headline": "xAI 200억 달러 평가액, '자율 에이전트'가 2026년 AI 산업 주도",
+    "lead": "올 초 xAI가 200억 달러 평가액에 도달하며 AI 스타트업 생태계를 재편하고 있다. OpenAI(500억 달러), Anthropic(183억 달러) 등과 경쟁하는 가운데, 자율 AI 에이전트와 산업별 수직형 AI 플랫폼이 새로운 핵심 트렌드로 부상했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">올 초 xAI가 200억 달러 평가액에 도달하며 AI 스타트업 생태계를 재편하고 있다. OpenAI(500억 달러), Anthropic(183억 달러) 등과 경쟁하는 가운데, 자율 AI 에이전트와 산업별 수직형 AI 플랫폼이 새로운 핵심 트렌드로 부상했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">2026년 첫 주에만 elon musk의 xAI가 nvidia, cisco 등으로부터 200억 달러 규모의 펀딩을 확보했다. 동시에 LMArena는 출시 4개월 만에 17억 달러 평가액에 도달했으며, Anthropic, Perplexity AI, Mistral AI, Anysphere 등의 주요 AI 기업들이 대규모 자금을 유치하고 있다. 2025년 한 해 동안 AI 스타트업들은 약 1,500억 달러를 모금했으며, 이는 글로벌 벤처캐피탈의 40% 이상을 차지했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">2026년 AI 산업의 주요 트렌드는 채팅봇을 넘어 '행동하는' 자율 에이전트 시스템으로 진화하는 것이다. Cognition AI의 자율 코딩 에이전트, Harvey의 법률 AI, Runway의 영상 생성 도구처럼 특정 산업과 워크플로우에 최적화된 수직형 AI 플랫폼이 펀딩의 40% 이상을 모으고 있다. 개발자 도구 분야도 급성장하고 있으며, AI 안전성을 강조하는 Anthropic 같은 회사들은 기업 채택의 필수 조건으로 '신뢰성' 중시를 반영하고 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 스타트업들의 자금 집중화는 에듀테크 분야에 이중의 기회를 만든다. 첫째, Anthropic, Databricks 같은 기업형 AI 인프라 제공자들이 저렴해지면서 에듀테크 스타트업이 고비용 AI 개발 없이 API 기반으로 교육 도구를 만들 수 있다. 둘째, Runway, Cognition AI 같은 수직형 AI는 '맞춤형 학습 분석', '자동 코딩 튜터링', '개인화 평가 시스템' 같은 교육 혁신을 빠르게 가능하게 한다. 에듀테크 스타트업은 2026년 이들 기술을 소비자 교육과 기업 교육 시장에 어떻게 통합할지가 경쟁력의 핵심이 될 것이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://wellows.com/blog/ai-startups/\" style=\"color:#FF6B35;text-decoration:none;\">Wellows: 85 Hottest AI Startups to Watch in 2026</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "research"
+    ],
+    "meta_title": "xAI 200억 달러 평가액, 자율 에이전트가 2026년 AI 주도",
+    "meta_description": "xAI, OpenAI, Anthropic 등 초거대 AI 스타트업들이 자율 에이전트와 수직형 AI 플랫폼에 집중. 에듀테크 개발사가 알아야 할 인프라 변화.",
+    "word_count": 567
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T06:02:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T06:06:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T21:31:29.516Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a9f631ff4fbf0001ab6bb9",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a9f631ff4fbf0001ab6bb9",
+    "public_url": "https://ubion.ghost.io/ai-startups-to-watch/",
+    "status": "published",
+    "published_at": "2026-03-05T21:31:29.000Z"
+  }
+}

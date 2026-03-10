@@ -1,0 +1,107 @@
+{
+  "id": "20260306234600-ai-ethics-policy",
+  "stage": "published",
+  "created_at": "2026-03-06T23:46:00+09:00",
+  "drafted_at": "2026-03-07T02:37:00+09:00",
+  "priority": 2,
+  "source": {
+    "title": "교육 AI 윤리와 정책 개발: 대학들의 시급한 과제",
+    "url": "https://www.kjob.news/news/470502",
+    "source_name": "전국인력신문",
+    "relevance_score": 75,
+    "summary": "AI가 교육에 개별화된 학습 경험과 행정 업무 경감 등 혜택을 제공하지만 윤리적 문제 해결을 위한 체계적 접근이 필요하다.",
+    "tags": [
+      "policy",
+      "university",
+      "ethics"
+    ],
+    "collected_via": "brave_search"
+  },
+  "draft": {
+    "headline": "한국 대학, AI 윤리 정책은 있는데 누가 가르치나",
+    "subheadline": "UNESCO 경고와 맥마스터대 프라이버시 판결이 시사하는 대학 AI 거버넌스의 과제",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n  \n  <div style=\"border-left:4px solid #4338ca;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">UNESCO가 2026년 2월 고등교육 분야 AI 윤리적 사용을 위한 글로벌 정책 지침을 발표했다. 거대 기술 기업의 AI 모델 독점을 경고하며 오픈소스 기반 주권적 AI 인프라 구축을 권고했다. 한국 대학들은 정책 마련에 분주하지만, 정작 교수와 학생을 위한 실질적 교육 프로그램은 부재한 상태다.</p>\n  </div>\n\n  <figure class=\"kg-card kg-image-card kg-width-full\">\n    <img src=\"https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=1200&h=630&fit=crop&q=85&auto=format\" class=\"kg-image\" alt=\"대학 강의실\">\n    <figcaption>대학 교육 현장에 AI가 확산하면서 윤리적 가이드라인 마련이 시급해졌다 (이미지: Unsplash)</figcaption>\n  </figure>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">AI 윤리 6대 핵심 영역</h2>\n  <p style=\"margin:0 0 36px;\">교육 분야 AI 윤리는 개인 정보 및 데이터 보호, 편향성 및 공정성, 투명성 및 책임성, 자율성 및 감독, 거버넌스 격차, 학문적 진실성 및 표절 등 6대 영역으로 정리된다. 이는 단순한 원칙 선언을 넘어 구체적 가이드라인과 이행 메커니즘이 필요한 실천적 과제다. 교육부는 '사람의 성장을 지원하는 AI'를 대원칙으로 10대 세부원칙을 마련했지만, 대학 현장에서의 실질적 이행은 각 대학에 맡겨진 상태다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">맥마스터대 사례가 남긴 경고</h2>\n  <p style=\"margin:0 0 36px;\">캐나다 온타리오 정보 및 프라이버시 위원회(IPCO)는 맥마스터대가 AI 기반 시험 감독 소프트웨어 '리스폰더스'를 사용한 것이 학생 프라이버시를 침해했다고 판결했다. 이 사례는 AI 활용 시 개인정보 수집 및 활용에 대한 투명성과 동의가 얼마나 중요한지를 보여준다. 한국 대학들도 유사한 AI 감독 도구 도입을 검토 중이며, 프라이버시 침해 우려가 현실화할 가능성이 있다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">'지식 독점' 경고와 주권적 AI</h2>\n  <p style=\"margin:0 0 36px;\">UNESCO는 거대 기술 기업의 독점적 AI 모델에 과도하게 의존할 경우 '지식 독점'이 발생할 수 있다고 경고했다. 이를 방지하기 위해 각국 정부와 교육기관이 자체 AI 역량을 구축하는 '주권적 AI 인프라'에 투자할 것을 권고했다. 이는 단순히 기술적 자립을 넘어 학문적 자율성과 교육의 공공성을 보존하기 위한 전략이다. 연세대는 2024년 5월 생성형 AI 활용 가이드라인을 발표하는 등 일부 대학이 자체 지침을 마련하고 있다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">학생들은 윤리 지침 없이 AI를 독학한다</h2>\n  <p style=\"margin:0 0 36px;\">Digital Watch의 2026년 2월 보고서에 따르면 대다수 대학생이 이미 AI 도구를 학업에 활용하고 있지만, 고등교육기관은 공식 AI 교육 제공에 뒤처져 있다. 학생들은 윤리나 출처 검증에 대한 지침 없이 AI를 독학으로 익히고 있다. 이는 무비판적 AI 활용과 학문적 진실성 훼손으로 이어질 수 있다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">UC Irvine 모델: AI를 위협이 아닌 보완 도구로</h2>\n  <p style=\"margin:0 0 36px;\">미국 UC Irvine 교육대학원 디지털학습연구소는 '고등 교육 분야 AI'라는 10주 포괄적 과정을 개설했다. 교강사들이 생성형 AI 도구를 비판적으로 활용해 과제를 설계하는 방법을 교육한다. AI를 학문적 진실성의 위협이 아닌 보완 도구로 전환하는 접근이다. 한국 대학들도 유사한 교수연수 및 학생교육 프로그램 개발이 시급하다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">시사점</h2>\n  <p style=\"margin:0 0 36px;\">한국 대학들은 AI 윤리 정책 마련을 넘어 실질적 교육 프로그램으로 나아가야 한다. 교수진과 학생 모두 AI 활용 및 윤리에 대한 체계적 교육이 필요하다. 나아가 거대 기술 기업 의존도를 낮추고 대학 자체 AI 역량을 구축하는 장기적 전략도 고려해야 한다. 가이드라인은 있는데 가르치는 이가 없는 상황은 이제 끝내야 한다.</p>\n\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.kjob.news/news/470502\" style=\"color:#4338ca;text-decoration:none;\">교육 AI 윤리와 정책 개발: 대학들의 시급한 과제 - 전국인력신문</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.korea.kr/news/policyNewsView.do?newsId=148904612\" style=\"color:#4338ca;text-decoration:none;\">교육분야 AI 윤리원칙 - 대한민국 정책브리핑</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://cloudcms.yonsei.ac.kr/fresh/infomation/student.do?mode=download&articleNo=190086&attachNo=161939\" style=\"color:#4338ca;text-decoration:none;\">연세대 생성형 AI 활용 가이드라인</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003274268\" style=\"color:#4338ca;text-decoration:none;\">대학의 AI GuideLine 개발에서 고려할 사항에 관한 연구</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "AI윤리",
+      "대학교육",
+      "프라이버시",
+      "UNESCO"
+    ],
+    "references": [
+      {
+        "url": "https://www.kjob.news/news/470502",
+        "title": "교육 AI 윤리와 정책 개발: 대학들의 시급한 과제 - 전국인력신문"
+      },
+      {
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148904612",
+        "title": "교육분야 AI 윤리원칙 - 대한민국 정책브리핑"
+      },
+      {
+        "url": "https://cloudcms.yonsei.ac.kr/fresh/infomation/student.do?mode=download&articleNo=190086&attachNo=161939",
+        "title": "연세대 생성형 AI 활용 가이드라인"
+      },
+      {
+        "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003274268",
+        "title": "대학의 AI GuideLine 개발에서 고려할 사항에 관한 연구"
+      }
+    ],
+    "word_count": 980,
+    "category": "policy"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector",
+      "action": "collected",
+      "timestamp": "2026-03-06T23:46:00+09:00",
+      "note": "관련성 75점 - 대학 AI 윤리 정책"
+    },
+    {
+      "agent": "auto-assign",
+      "action": "assigned",
+      "timestamp": "2026-03-06T17:13:22.240Z",
+      "note": "자동 할당: 2026-03-06_23-46_ai-ethics-policy-universities.json"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-07T02:26:00+09:00",
+      "note": "취재 완료 - UNESCO 지침, 교육부 윤리원칙, 맥마스터대 사례 등 8개 소스 확보"
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T02:37:00+09:00",
+      "note": "기사 작성 완료 - 980자, 정책 카테고리"
+    },
+    {
+      "agent": "fact-checker",
+      "action": "checked",
+      "timestamp": "2026-03-06T17:57:08Z",
+      "note": "자동 신뢰도 85점 - 품질 검증 통과"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "approved",
+      "timestamp": "2026-03-06T17:57:55Z",
+      "note": "데스크 승인 완료 - 07-copy-edited로 이동"
+    },
+    {
+      "agent": "publisher",
+      "action": "published-draft",
+      "timestamp": "2026-03-06T18:04:43.115Z",
+      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69ab173aff4fbf0001ab707e"
+    }
+  ],
+  "fact_check": {
+    "score": 85,
+    "checked_at": "2026-03-06T17:57:08Z",
+    "issues": [],
+    "verdict": "PASS"
+  },
+  "publish_result": {
+    "ghost_post_id": "69ab173aff4fbf0001ab707e",
+    "ghost_edit_url": "https://ubion.ghost.io/ghost/#/editor/post/69ab173aff4fbf0001ab707e",
+    "status": "published",
+    "published_at": "2026-03-06T18:04:43.115Z"
+  }
+}

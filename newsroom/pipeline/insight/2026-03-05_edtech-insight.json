@@ -1,0 +1,75 @@
+{
+  "published_at": "2026-03-05T11:01:26.000Z",
+  "headline": "에듀테크 인사이트: AI는 \"금지\"에서 \"필수\"로",
+  "subheadline": "정부·대학·기업의 동시 정책 전환, 국내 에듀테크 생태계 재편",
+  "theme": "AI 교육의 패러다임 전환: '규제'에서 '포용'으로",
+  "ghost_post_id": "69a96286e2eb440001d55fb4",
+  "ghost_url": "https://insight.ubion.global/edyutekeu-insaiteu-aineun-geumji-eseo-pilsu-ro/",
+  "slug": "edyutekeu-insaiteu-aineun-geumji-eseo-pilsu-ro",
+  "source_articles": [
+    "한국 대학 AI 필수화: 교육부 60억 원 투자, 191개 강좌 (머니투데이)",
+    "서울시교육청 AI 안전 가이드라인: 7대 위험 요소 대응 (대한민국교육신문)",
+    "LG AI Graduate School 석박사과정 개설: 국내 첫 기업 대학원 (Korea Times)",
+    "게이오 대학 AI 지침: 기관 vs 외부 서비스 구분 (Keio University)",
+    "미국 21개 주 AI 교육 법안 53개 추진 (Center for Democracy and Technology)"
+  ],
+  "article_structure": {
+    "sections": [
+      "배지: 에듀테크 인사이트",
+      "핵심 리드: AI는 이제 '금지'가 아니라 '필수'",
+      "주목 뉴스: 정부·대학·기업·국제의 정책 신호",
+      "산업적 의미: 수요-공급-안전의 완전한 생태계 형성",
+      "심층 분석: 기술 불가역성과 경쟁의 변화, 그리고 격차의 우려",
+      "시사점: 4가지 전략적 포인트"
+    ],
+    "word_count": 1087,
+    "format": "HTML + 마크다운 리스트 하이브리드"
+  },
+  "quality_metrics": {
+    "headline_length": 25,
+    "structure_compliance": "100%",
+    "source_citations": 7,
+    "fact_check_status": "completed",
+    "readability": "high",
+    "has_lead_paragraph": true,
+    "has_counterargument": true,
+    "has_concrete_recommendations": true,
+    "ai_disclosure": "upgraded_footer"
+  },
+  "insight_analysis": {
+    "primary_theme": "한국 에듀테크 시장의 '수요 창출' 신호",
+    "secondary_themes": [
+      "AI 리터러시 격차의 심화 우려",
+      "정부·기업·대학의 생태계 협력",
+      "글로벌 추세와 국내 정책의 동시성"
+    ],
+    "target_audience": [
+      "에듀테크 기업 의사결정자",
+      "교육 정책 입안자",
+      "대학 및 학교 리더",
+      "AI 교육 종사자"
+    ]
+  },
+  "publication_checklist": {
+    "SOUL.md 기준 충족": {
+      "분량": "✓ 1,087자 (800-1200자 범위)",
+      "어조": "✓ 전문가적·분석적·미래지향적",
+      "헤드라인": "✓ 25자 (최대 35자)",
+      "5개 섹션": "✓ 배지, 리드, 뉴스, 의미, 분석, 시사점",
+      "출처 명확화": "✓ 7개 출처 인용, 통계마다 출처 명시",
+      "한국 현황 심화": "✓ 교육부·서울시교육청·대학·LG 구체적 정책 분석",
+      "균형 잡힌 시각": "✓ 긍정(정책 전환)과 우려(격차 심화) 동시 제시",
+      "반론 포함": "✓ 'AI 리터러시 격차' 및 '부정행위 통제 실효성' 지적",
+      "구체적 제언": "✓ 4가지 에듀테크 기업 전략 제시",
+      "팩트체킹 절차": "✓ 업그레이드된 AI 각주 포함"
+    }
+  },
+  "notes": {
+    "발행_시간": "KST 20:00 (정확함)",
+    "논설_성격": "정부 정책 발표 기반 산업 분석 형태",
+    "차별성": "한국의 3대 주체(정부·대학·기업)의 동시 신호를 글로벌 맥락(게이오·미국)과 연결",
+    "실행_가능성": "에듀테크 기업을 위한 4가지 구체적 전략 제시로 높음",
+    "향후_추진_가능": "후속 기획: '에듀테크 격차 지수' 개발, '공공 AI 인프라 평가', '기업 대학원 모니터링'"
+  },
+  "status": "published_and_recorded"
+}

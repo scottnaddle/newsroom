@@ -1,0 +1,84 @@
+{
+  "timestamp": "2026-03-05T18:57:00Z",
+  "audit_agent": "editor-desk",
+  "summary": {
+    "pipeline_status": "PROCESSING",
+    "bottleneck": "04-drafted (1개) - 팩트체킹 대기",
+    "action_needed": "fact-checker 실행 필수"
+  },
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "assigned": 0,
+      "queued": 0,
+      "rejected": 0
+    },
+    "02_assigned": 0,
+    "03_reported": 0,
+    "04_drafted": {
+      "total": 1,
+      "waiting_factcheck": 1,
+      "files": [
+        "2026-03-05_university-ai-education.json"
+      ]
+    },
+    "05_fact_checked": 0,
+    "06_desk_approved": 0,
+    "07_copy_edited": 0,
+    "08_published": {
+      "total": 52,
+      "sample_latest": [
+        "2026-03-04_04-29_southeast-asia-ai-governance-policies-2026.json",
+        "2026-03-04_04-29_philippine-deped-ai-policy-human-centered.json",
+        "2026-03-04_03-29_nc-schools-academic-integrity-ai-redesign.json"
+      ]
+    },
+    "rejected": {
+      "total": 37,
+      "recent_rejections": [
+        "2026-03-05_16-40_ai-ethics-guideline.json",
+        "2026-03-05_16-37_human-centered-ai-guidelines.json",
+        "2026-03-05_0250_ccc-ai-reuse-rights-higher-ed.json"
+      ]
+    },
+    "queue": {
+      "total": 1,
+      "items": [
+        {
+          "id": "1741163700001-korea-ai-popular",
+          "title": "The Country That's Madly in Love With AI",
+          "relevance_score": 72,
+          "reason": "신뢰도 50-74 범위 → 검토 대기"
+        }
+      ]
+    }
+  },
+  "performance_metrics": {
+    "total_processed_all_time": 89,
+    "published_rate": "58.4%",
+    "rejected_rate": "41.6%",
+    "current_wip": 1,
+    "average_cycle_time": "약 2-3시간 (sourced → published)"
+  },
+  "next_steps": {
+    "IMMEDIATE": [
+      "fact-checker를 호출하여 04-drafted/의 '대학 AI 교육' 기사 처리",
+      "fact-checker가 신뢰도 판정 → 05-fact-checked/로 이동"
+    ],
+    "PRIORITY": [
+      "memory/queue.json의 신뢰도 72점 기사 재검토",
+      "02-assigned → 03-reported → 04-drafted 파이프라인 흐름 확인"
+    ],
+    "MONITORING": [
+      "rejected/의 37개 기사 거부 사유 분석 (패턴 파악)",
+      "대기 중인 취재 없음 - 새 소스 필요"
+    ]
+  },
+  "health_check": {
+    "pipeline_flow": "⚠️ 병목: fact-checker 대기",
+    "data_integrity": "✅ 정상",
+    "file_integrity": "✅ 정상",
+    "queue_status": "⚠️ 1개 항목 대기 (신뢰도 72)"
+  },
+  "notes": "3월 5일 오후 6시 57분 기준, 파이프라인이 정상 처리 중이지만 fact-checker 단계에서 대기 중. 현재 작성 중인 기사 1개가 팩트체킹을 기다리고 있으며, 신뢰도 중간 수준의 기사 1개는 큐에 대기 중."
+}

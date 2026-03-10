@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Top Startup and Tech Funding News – March 5, 2026",
+    "url": "https://techstartups.com/2026/03/05/top-startup-and-tech-funding-news-march-5-2025/",
+    "source_name": "Tech Startups",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Major funding roundup: OpenAI raised a $110B private round, Vast raised $300M for space stations, Science Corp raised $230M for brain-computer interfaces, Lio raised $30M for AI procurement automation. Investor activity spans AI infrastructure, neurotech, defense automation, and institutional crypto, reflecting sustained capital concentration in intelligent systems.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-08T03:06:00+09:00"
+  },
+  "digest": {
+    "headline": "OpenAI 1,100억 달러 조달… AI·뉴로테크·우주 인프라에 대규모 자본 유입",
+    "lead": "3월 5일 하루 동안 공개된 주요 스타트업 투자 라운드가 AI 산업의 자본 집중 현상을 여실히 보여준다. OpenAI가 1,100억 달러 프라이빗 라운드를 마감했고, 뇌-컴퓨터 인터페이스의 Science Corp.이 2.3억 달러, AI 조달 자동화 스타트업 Lio가 3,000만 달러를 확보했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">3월 5일 하루 동안 공개된 주요 스타트업 투자 라운드가 AI 산업의 자본 집중 현상을 여실히 보여준다. OpenAI가 1,100억 달러 프라이빗 라운드를 마감했고, 뇌-컴퓨터 인터페이스의 Science Corp.이 2.3억 달러, AI 조달 자동화 스타트업 Lio가 3,000만 달러를 확보했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">이번 펀딩 라운드업에서 가장 눈에 띄는 것은 OpenAI의 1,100억 달러 조달이다. 아마존, 소프트뱅크, 엔비디아가 참여한 이 투자는 글로벌 AI 인프라 확장을 위한 것으로, 단일 라운드 기준 역대 최대 규모다. 뉴로테크 분야에서는 뉴럴링크 출신이 설립한 Science Corp.이 시력 복원용 뇌 임플란트 'PRIMA'의 상용화를 위해 2.3억 달러 시리즈 C를 마감했다. 47명의 시각장애 환자 임상에서 80%가 의미 있는 시력 개선을 보인 결과가 투자를 이끌었다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">하루 사이에 공개된 투자 규모만 합산하면 수천억 달러에 달한다. AI 인프라, 뉴로테크, 우주 개발, 국방 자동화까지 '지능형 시스템'을 중심으로 자본이 재편되고 있다. 특히 Lio(AI 조달 자동화, 3,000만 달러)와 Sage(AI 기반 시니어 케어, 6,500만 달러) 같은 기업형 AI 솔루션에도 대규모 자본이 유입되면서, AI가 특정 산업 버티컬에 깊이 침투하는 단계에 진입했음을 보여준다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">OpenAI의 초대형 투자는 AI 모델 접근 비용 하락으로 이어질 수 있어 에듀테크 서비스 개발사에 긍정적이다. 또한 Science Corp.의 뇌-컴퓨터 인터페이스 성과는 장기적으로 특수교육·접근성 영역에서 혁신적 학습 도구의 가능성을 열며, Lio의 AI 조달 자동화 모델은 대학·교육기관의 행정 효율화에 적용 가능한 사례로 주목할 만하다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://techstartups.com/2026/03/05/top-startup-and-tech-funding-news-march-5-2025/\" style=\"color:#FF6B35;text-decoration:none;\">Tech Startups</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "openai"
+    ],
+    "meta_title": "OpenAI 1,100억 달러 조달… 3월 5일 스타트업 펀딩 라운드업",
+    "meta_description": "OpenAI 1,100억 달러 프라이빗 라운드, Science Corp. 2.3억 달러 뇌-컴퓨터 인터페이스, Lio 3,000만 달러 AI 조달 자동화 등 3월 5일 주요 스타트업 투자 소식을 정리한다.",
+    "word_count": 560
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-08T03:06:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-08T03:20:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T18:45:08.412Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ac7229ff4fbf0001ab740f",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ac7229ff4fbf0001ab740f",
+    "public_url": "https://insight.ubion.global/openai-1-100eog-dalreo-jodal-ai-nyurotekeu-uju-inpeurae-daegyumo-jabon-yuib/",
+    "status": "published",
+    "published_at": "2026-03-07T18:44:57.000Z"
+  }
+}

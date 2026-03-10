@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Anthropic's Claude found 22 vulnerabilities in Firefox over two weeks",
+    "url": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
+    "source_name": "TechCrunch",
+    "language": "en",
+    "relevance_score": 92,
+    "summary": "In a security partnership with Mozilla, Anthropic used Claude Opus 4.6 to discover 22 separate vulnerabilities in Firefox over two weeks, including 14 classified as high-severity. Most bugs have been fixed in Firefox 148. Notably, while Claude excelled at finding vulnerabilities, it struggled to write exploits — the team spent $4,000 in API credits but only succeeded in two proof-of-concept cases.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-09T13:00:00+09:00"
+  },
+  "digest": {
+    "headline": "앤트로픽 클로드, 파이어폭스에서 2주 만에 보안 취약점 22개 발견",
+    "lead": "앤트로픽이 모질라와 보안 파트너십을 통해 AI 모델 클로드 오퍼스 4.6으로 파이어폭스 브라우저의 취약점 22개를 2주 만에 발견했다. 이 중 14개는 '고위험'으로 분류됐으며, 대부분 파이어폭스 148 업데이트에서 수정됐다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">앤트로픽이 모질라와 보안 파트너십을 통해 AI 모델 클로드 오퍼스 4.6으로 파이어폭스 브라우저의 취약점 22개를 2주 만에 발견했다. 이 중 14개는 '고위험'으로 분류됐으며, 대부분 파이어폭스 148 업데이트에서 수정됐다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">앤트로픽 연구팀은 자바스크립트 엔진을 시작으로 파이어폭스 코드베이스 전반으로 분석 범위를 넓혔다. 파이어폭스는 세계에서 가장 철저히 테스트되고 보안이 검증된 오픈소스 프로젝트 중 하나로, AI의 보안 감사 능력을 시험하기에 적합한 대상이었다. 흥미로운 점은 클로드가 취약점 '발견'에는 뛰어났지만, 이를 실제로 악용하는 '익스플로잇 작성'에는 한계를 보였다는 것이다. 4,000달러(약 560만 원)의 API 크레딧을 투입했지만, 개념증명(PoC) 익스플로잇에 성공한 건 2건에 불과했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 사례는 AI가 오픈소스 프로젝트의 보안 강화에 실질적으로 기여할 수 있음을 보여준다. 동시에 AI가 취약점을 찾을 수는 있지만 악용하기는 어렵다는 점은, AI 보안 도구가 '방어 우위' 특성을 갖고 있음을 시사한다. 앞으로 대형 오픈소스 프로젝트들이 AI 기반 보안 감사를 정례화할 가능성이 높아졌다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 기반 코드 보안 감사 기술은 컴퓨터과학 교육과 사이버보안 실습 환경에 직접 활용될 수 있다. 대학·부트캠프에서 학생들이 AI 도구를 활용해 오픈소스 코드의 취약점을 찾는 실습 커리큘럼을 구성하면, 기존 수동 분석보다 훨씬 효율적인 보안 교육이 가능해진다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/\" style=\"color:#FF6B35;text-decoration:none;\">TechCrunch</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "research"
+    ],
+    "meta_title": "앤트로픽 클로드, 파이어폭스 보안 취약점 22개 발견 | AI Digest",
+    "meta_description": "앤트로픽이 클로드 오퍼스 4.6으로 파이어폭스에서 2주 만에 보안 취약점 22개를 발견했다. 고위험 14개 포함, 대부분 최신 업데이트에서 수정 완료.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T13:00:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T13:15:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T04:30:57.835Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae4d01ff4fbf0001ab77b4",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae4d01ff4fbf0001ab77b4",
+    "public_url": "https://insight.ubion.global/aenteuropig-keulrodeu-paieopogseueseo-2ju-mane-boan-cwiyagjeom-22gae-balgyeon/",
+    "status": "published",
+    "published_at": "2026-03-09T04:30:57.000Z"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "stage": "published",
+  "source": {
+    "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/",
+    "title": "AI Governance in Higher Education: The 2026 Framework for Policy & Risk",
+    "snippet": "Universities using AI in student assessment, admissions, or performance monitoring must comply with the EU AI Act's high-risk AI provisions from August 2026. Policy without governance is largely unenforceable.",
+    "published_date": "2026-03-06"
+  },
+  "relevance_score": 82,
+  "tags": [
+    "governance",
+    "policy",
+    "higher-education",
+    "eu"
+  ],
+  "collected_at": "2026-03-09T04:22:00.000Z",
+  "assigned_at": "2026-03-09T04:35:00.000Z",
+  "reported_at": "2026-03-09T04:40:00.000Z",
+  "editor_note": "EU AI Act 대학 적용 프레임워크. 8월 시행 앞두고 글로벌 정책 기사.",
+  "priority": "medium",
+  "reporting_brief": {
+    "who": "전 세계 대학 (특히 EU 소재 및 EU 학생 데이터 처리 대학). EU AI Office, EDUCAUSE, UNESCO, 미 교육부. The Education Magazine의 2026 프레임워크 분석.",
+    "what": "대학의 AI 거버넌스 프레임워크 필요성 분석. EU AI Act 고위험 AI 조항이 2026년 8월부터 대학의 입시·평가·성적 모니터링 시스템에 적용. '섀도 AI' 문제(80% 교직원 AI 사용, 24% 미만만 공식 정책 인지), 데이터 유출·FERPA 위반·학술 무결성 리스크. 바이어스 테스팅, 인간 감독, 적합성 평가, 감사 추적 의무화.",
+    "why": "① EU AI Act 규제 압력 (위반 시 제재) ② AI 도입 속도 > 정책 수립 속도 (부서별 비일관적 관행) ③ UNESCO AI 윤리 권고에 따른 공공 신뢰 유지 필요성. EDUCAUSE 조사에서 AI 관련 AUP 보유 대학 비율 2024년 23% → 2025년 39%로 상승하나 여전히 부족.",
+    "when": "EU AI Act 고위험 조항 2026년 8월 2일 전면 시행. AI 리터러시 의무는 2025년 2월부터 시행 중.",
+    "context": "미국 교육부는 2023년 AI 윤리 프레임워크 지침 발표. FERPA는 제3자 AI 시스템의 학생 데이터 처리를 엄격히 제한. Digital Education Council, Ellucian 등이 대학 AI 거버넌스 모델을 적극 제안 중. 위트레흐트대학 등 유럽 대학들이 선제적 준수 체계 구축.",
+    "sources": [
+      {
+        "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/",
+        "type": "primary",
+        "reliability": "medium-high",
+        "note": "The Education Magazine 2026 프레임워크 분석 기사"
+      },
+      {
+        "url": "https://www.digitaleducationcouncil.com/post/eu-ai-act-what-it-means-for-universities",
+        "type": "secondary",
+        "reliability": "high",
+        "note": "Digital Education Council: EU AI Act 대학 적용 분석"
+      },
+      {
+        "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+        "type": "primary",
+        "reliability": "high",
+        "note": "EU 공식: AI Act 규제 프레임워크 및 시행 일정"
+      },
+      {
+        "url": "https://edtechmagazine.com/higher/article/2026/02/overview-ai-governance-education-perfcon",
+        "type": "secondary",
+        "reliability": "high",
+        "note": "EdTech Magazine: AI 거버넌스 현황 (AUP 23%→39%)"
+      },
+      {
+        "url": "https://www.ellucian.com/blog/ai-governance-educause-2025-strategy-structure-progress",
+        "type": "reference",
+        "reliability": "medium-high",
+        "note": "Ellucian: EDUCAUSE 2025 AI 거버넌스 전략·구조·진전"
+      }
+    ],
+    "perspectives": {
+      "government": "EU AI Office: 고위험 AI 시스템 지원 도구를 2026년 2분기 공개 예정. 대학도 기업과 동일한 적합성 평가·감사 의무. EU 역외 대학도 EU 학생 데이터 처리 시 적용 범위.",
+      "education": "대학 지도부: 섀도 AI 통제와 학문적 자유 사이 긴장. 중앙집중 거버넌스 위원회 설립 추세. 교수진의 AI 도구 자율성과 기관 리스크 관리 간 균형 과제. 벤더 평가 프로세스 구조화 필요.",
+      "industry": "에듀테크·AI 벤더: 대학향 AI 제품에 투명성·감사 기능 탑재 요구 증가. 적합성 인증이 시장 진입 장벽이자 차별화 요소. 프라이버시·보안 준수 비용 상승."
+    },
+    "suggested_angle": "'섀도 AI의 역습' — EU AI Act 시행 5개월 앞두고 대학들의 AI 거버넌스 준비 상태를 점검. EDUCAUSE 데이터(AUP 39%)로 현실 진단하고, 한국 대학의 AI 활용 정책 현황과 비교하는 글로벌 시각."
+  },
+  "draft": {
+    "headline": "대학의 '섀도 AI', EU AI Act가 단속한다… 8월 시행 앞두고 거버넌스 비상",
+    "subheadline": "교직원 80% AI 쓰지만 정책 인지 24% 미만… 입시·평가·성적 시스템에 고위험 AI 규제 적용",
+    "html": "<div style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;font-size:17px;line-height:1.9;color:#1a202c\">\n\n<div style=\"border-left:4px solid #4338ca;background:#f8f9ff;padding:18px 22px;margin-bottom:28px;border-radius:0 8px 8px 0\">\n<p style=\"margin:0;font-size:18px;font-weight:600;color:#4338ca\">2026년 8월 2일, EU AI Act의 고위험 AI 조항이 전면 시행된다. 대학의 입시·평가·성적 모니터링에 사용되는 AI 시스템이 정면으로 규제 대상에 들어간다. 문제는 대학의 준비 상태다. 교직원의 80%가 이미 AI를 쓰고 있지만, 기관 차원의 공식 정책을 인지하는 비율은 24%에도 못 미친다. '섀도 AI'가 캠퍼스를 잠식하고 있는 것이다.</p>\n</div>\n\n<figure class=\"kg-card kg-image-card kg-width-full\">\n<img src=\"https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80\" alt=\"대학 캠퍼스\" style=\"width:100%;border-radius:8px\" />\n<figcaption style=\"text-align:center;font-size:14px;color:#94a3b8;margin-top:8px\">EU AI Act는 대학의 AI 활용에도 기업 수준의 거버넌스를 요구한다 (Unsplash)</figcaption>\n</figure>\n\n<h2 style=\"font-size:19px;margin-top:36px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">교육도 '고위험'… EU AI Act가 대학에 요구하는 것</h2>\n<p style=\"font-size:17px\">EU AI Act는 AI 시스템을 위험도에 따라 분류하는데, 교육 분야의 입학 결정, 학업 평가, 학습 성과 모니터링에 사용되는 AI는 '고위험'으로 지정된다. 이는 기업이 채용·인사에 AI를 쓸 때와 동일한 수준의 규제가 대학에도 적용된다는 의미다. 구체적으로 바이어스 테스팅, 인간 감독 체계, 적합성 평가, 감사 추적(audit trail) 의무가 부과된다.</p>\n<p style=\"font-size:17px\">주목할 점은 적용 범위다. EU 소재 대학뿐 아니라 EU 학생의 데이터를 처리하는 EU 역외 대학도 규제 대상이다. 유럽 학생을 유치하는 미국, 영국, 호주의 대학들도 예외가 아니며, 한국 대학 역시 EU 학생 관련 데이터를 AI로 처리한다면 이 규정을 무시할 수 없다. 위반 시 상당한 제재가 예상된다.</p>\n\n<h2 style=\"font-size:19px;margin-top:36px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">'섀도 AI'의 역습: 정책 없는 도입의 위험</h2>\n<p style=\"font-size:17px\">The Education Magazine의 2026 프레임워크 분석에 따르면, 대학 캠퍼스의 AI 사용 실태와 거버넌스 사이에는 심각한 괴리가 있다. 교직원의 80% 이상이 업무에 AI를 활용하고 있지만, 기관의 공식 AI 사용 정책(AUP)을 인지하는 비율은 24% 미만이다. 부서별로 제각각인 AI 활용 관행이 통제 없이 확산되는 '섀도 AI' 현상이 벌어지고 있는 것이다.</p>\n<p style=\"font-size:17px\">EDUCAUSE 조사는 약간의 개선을 보여주기도 한다. AI 관련 AUP를 보유한 대학의 비율이 2024년 23%에서 2025년 39%로 상승했다. 그러나 8월 시행까지 남은 시간과 필요한 준비의 규모를 고려하면 여전히 부족하다. 데이터 유출, FERPA(미국 가족교육권·프라이버시법) 위반, 학술 무결성 훼손 등의 리스크가 현실화할 수 있다.</p>\n\n<h2 style=\"font-size:19px;margin-top:36px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">대학은 무엇을 해야 하나: 거버넌스 프레임워크의 핵심</h2>\n<p style=\"font-size:17px\">전문가들이 제안하는 대학 AI 거버넌스의 핵심 요소는 네 가지다. 첫째, 중앙집중형 AI 거버넌스 위원회 설립이다. 학과별 산발적 대응이 아닌 기관 차원의 일관된 정책 수립과 집행이 필요하다. 위트레흐트대학 등 유럽 선도 대학들은 이미 이 체계를 구축하고 있다.</p>\n<p style=\"font-size:17px\">둘째, AI 벤더 평가 프로세스의 구조화다. 제3자 AI 시스템이 학생 데이터를 어떻게 처리하는지 체계적으로 평가하고 감사해야 한다. 셋째, 교수진의 학문적 자유와 기관의 리스크 관리 사이의 균형점을 찾아야 한다. AI 도구 사용의 자율성을 보장하면서도 고위험 영역에서는 명확한 가이드라인이 필요하다. 넷째, AI 리터러시 의무교육이다. EU AI Act는 2025년 2월부터 이미 AI 리터러시 의무를 시행 중이며, 이는 거버넌스의 기반이 된다.</p>\n<p style=\"font-size:17px\">한국 대학들에게도 이 논의는 먼 이야기가 아니다. AI 디지털 교과서 도입, 대학 입시에서의 AI 활용 논의가 진행되는 가운데, 거버넌스 없는 AI 도입이 어떤 리스크를 초래하는지 EU의 사례는 선명한 경고등이다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0;margin-top:36px;padding-top:20px\">\n<h3 style=\"font-size:16px;color:#64748b;margin-bottom:12px\">📎 참고자료</h3>\n<ol style=\"font-size:15px;color:#475569;padding-left:20px\">\n<li><a href=\"https://www.theeducationmagazine.com/ai-governance-in-higher-education/\" style=\"color:#4338ca\">The Education Magazine: AI Governance in Higher Education 2026 프레임워크</a></li>\n<li><a href=\"https://www.digitaleducationcouncil.com/post/eu-ai-act-what-it-means-for-universities\" style=\"color:#4338ca\">Digital Education Council: EU AI Act 대학 적용 분석</a></li>\n<li><a href=\"https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai\" style=\"color:#4338ca\">EU 공식: AI Act 규제 프레임워크</a></li>\n<li><a href=\"https://edtechmagazine.com/higher/article/2026/02/overview-ai-governance-education-perfcon\" style=\"color:#4338ca\">EdTech Magazine: AI 거버넌스 현황</a></li>\n<li><a href=\"https://www.ellucian.com/blog/ai-governance-educause-2025-strategy-structure-progress\" style=\"color:#4338ca\">Ellucian: EDUCAUSE 2025 AI 거버넌스 전략</a></li>\n</ol>\n</div>\n\n<p style=\"font-size:13px;color:#cbd5e1;margin-top:32px\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>",
+    "ghost_tags": [
+      "AI 거버넌스",
+      "EU AI Act",
+      "고등교육",
+      "섀도 AI",
+      "대학 정책"
+    ],
+    "references": [
+      "https://www.theeducationmagazine.com/ai-governance-in-higher-education/",
+      "https://www.digitaleducationcouncil.com/post/eu-ai-act-what-it-means-for-universities",
+      "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "https://edtechmagazine.com/higher/article/2026/02/overview-ai-governance-education-perfcon",
+      "https://www.ellucian.com/blog/ai-governance-educause-2025-strategy-structure-progress"
+    ],
+    "word_count": 920,
+    "category": "policy"
+  },
+  "fact_check": {
+    "score": 92,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "EU AI Act 고위험 AI 조항 2026년 8월 2일 시행 — EU 공식 사이트 및 다수 법률 분석 확인",
+      "교육 분야(입시·평가·성적 모니터링) AI가 고위험으로 분류 — Digital Education Council, AI Act Annex III 확인",
+      "AI 리터러시 의무 2025년 2월 2일부터 시행 중 — EU 공식 FAQ 및 Latham & Watkins, Mayer Brown 확인",
+      "교직원 80% AI 사용, 24% 미만 정책 인지 — EDUCAUSE 2024 AI Landscape Study 원본 확인",
+      "AI 관련 AUP 보유 대학 23%→39% — EDUCAUSE 데이터, Anara 보고서 교차 확인",
+      "바이어스 테스팅·인간 감독·적합성 평가·감사 추적 의무 — The Education Magazine 원문 및 EU AI Act 조문 확인"
+    ]
+  },
+  "meta_title": "대학의 '섀도 AI', EU AI Act가 단속한다… 8월 시행 앞두고 거버넌스 비상",
+  "meta_description": "교직원 80% AI 쓰지만 정책 인지 24% 미만… 입시·평가·성적 시스템에 고위험 AI 규제 적용",
+  "desk_approved_at": "2026-03-09T05:37:48.504573Z",
+  "copy_edited_at": "2026-03-09T05:57:18.285Z",
+  "ghost_id": "69ae689dff4fbf0001ab77e8",
+  "ghost_url": "https://insight.ubion.global/p/e812cb59-69f9-475b-aa9d-7fffb9009428/",
+  "published_at": "2026-03-09T06:28:45.934Z"
+}

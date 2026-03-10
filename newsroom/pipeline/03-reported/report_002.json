@@ -1,0 +1,43 @@
+{
+  "id": "source_002",
+  "stage": "reported",
+  "source": {
+    "url": "https://www.mt.co.kr/policy/2026/03/03/2026030313051850252",
+    "title": "\"금지 대신 필수 교양으로\"…대학가 덮친 AI, 교육·평가 판도 바꾼다",
+    "published": "2026-03-03T00:00:00Z",
+    "domain": "mt.co.kr"
+  },
+  "reporting_brief": {
+    "WHO": "대학 교육계 (가천대, 서울대, 서울시립대, 호서대, 아주대), 대학 교수진, 학생",
+    "WHAT": "대학들이 ChatGPT 초기의 'AI 표절 논란'에서 벗어나 AI를 학생의 필수 역량으로 규정. 교과목 편성부터 평가 방식 개편까지 교육 판도 변화. 가천대 AI 강좌 191개 확대, 서울대 'AI 가이드라인' 제정, 서울시립대 자체 AIChat 도입 등",
+    "WHY": "AI 시대 인재상 변화. 단순 금지가 아닌 책임 있는 활용 능력 필요",
+    "WHEN": "2026년 새 학기 부터 시작",
+    "CONTEXT": "글로벌 교육계의 AI 도입 확산 추세 속 한국 대학의 적극적 대응",
+    "SOURCES": [
+      {
+        "url": "https://www.mt.co.kr/policy/2026/03/03/2026030313051850252",
+        "title": "\"금지 대신 필수 교양으로\"…대학가 덮친 AI",
+        "trust": "high",
+        "type": "news_investigation"
+      },
+      {
+        "url": "https://www.washingtonpost.com/opinions/2026/03/02/ais-best-use-is-enhancing-human-judgment-so-study-liberal-arts/",
+        "title": "The best education for future success",
+        "trust": "medium",
+        "type": "opinion"
+      },
+      {
+        "url": "https://www.kjob.news/news/470555",
+        "title": "AI 교육혁명 2026: 영국·미국 동시 착수한 거버넌스 강화",
+        "trust": "medium",
+        "type": "analysis"
+      }
+    ],
+    "PERSPECTIVES": {
+      "education_institutions": "AI를 통제 불가능한 기술이 아닌 관리 가능한 도구로 인식. 자율과 책임의 원칙으로 방향 설정",
+      "faculty": "평가 공정성 훼손, 신 디지털 격차, '사유의 외주화' 등 부작용 우려. AI 탐지 프로그램 한계 인식",
+      "education_experts": "AI 도구적 수단일뿐 맹종 불가. 윤리적 정립과 비판적 사고 능력 병행 필요"
+    },
+    "SUGGESTED_ANGLE": "대학가의 'AI 금지에서 필수로'…평가 혁신과 윤리 교육이 동반되는가"
+  }
+}

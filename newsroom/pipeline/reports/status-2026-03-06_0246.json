@@ -1,0 +1,55 @@
+{
+  "timestamp": "2026-03-06T02:46:00Z",
+  "cron_task": "2. 에디터/데스크 (30분)",
+  "pipeline_status": {
+    "01_sourced": 0,
+    "02_assigned": 0,
+    "03_reported": 0,
+    "04_drafted": 0,
+    "05_fact_checked": 0,
+    "06_desk_approved": 0,
+    "07_copy_edited": 2,
+    "08_published": 76,
+    "rejected": 48
+  },
+  "flow_analysis": {
+    "total_in_pipeline": 2,
+    "total_published": 76,
+    "total_rejected": 48,
+    "success_rate": "61.3%"
+  },
+  "bottleneck": "07_copy_edited (2개) — copy editor 대기중",
+  "action_needed": "copy editor 우선 처리 (교열)",
+  "today_processing": [
+    {
+      "file": "2026-03-06_0207_ai-basic-curriculum.json",
+      "headline": "법대생도 배우는 AI...대학 기본교육 표준화 시작",
+      "status": "copy-editing",
+      "fact_check_score": 86.5,
+      "editor_score": 100,
+      "verdict": "APPROVE"
+    },
+    {
+      "file": "2026-03-06_0207_lg-ai-university.json",
+      "headline": "\"LG 직원도 이제 대학원생\"...기업이 석박사를 준다",
+      "status": "copy-editing",
+      "fact_check_score": 87.5,
+      "editor_score": 100,
+      "verdict": "APPROVE"
+    }
+  ],
+  "editor_decisions": {
+    "total_processed": 2,
+    "approved": 2,
+    "revised": 0,
+    "rejected": 0
+  },
+  "generated_by": "editor-desk",
+  "notes": [
+    "✅ STEP 1: 01-sourced 확인 — 신규 기사 없음",
+    "✅ STEP 2: 05-fact-checked 자동 라우팅 — 2개 기사 에디터 체크 완료",
+    "✅ STEP 3: 2개 기사 → 06-desk-approved (100점) → 07-copy-edited로 승인 이동",
+    "⏳ STEP 4: 07-copy-edited 교열 대기 (copy editor 처리 필요)",
+    "📊 STEP 5: 파이프라인 통계 리포트 생성 완료"
+  ]
+}

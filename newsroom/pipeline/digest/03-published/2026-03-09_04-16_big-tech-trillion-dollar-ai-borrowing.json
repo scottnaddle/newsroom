@@ -1,0 +1,54 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Google, Meta, and Oracle Are on a $1 Trillion Borrowing Spree for AI Infrastructure",
+    "url": "https://fortune.com/2026/03/07/big-tech-trillion-dollar-borrowing-ai-century-bonds/",
+    "source_name": "Fortune",
+    "language": "en",
+    "relevance_score": 92,
+    "summary": "Five hyperscalers—Alphabet, Amazon, Meta, Microsoft, and Oracle—are driving a historic capital-expenditure sprint for AI infrastructure, with an eventual price tag expected in the trillions. Fortune compares the AI buildout to past infrastructure booms (fiber-optic, shale drilling, electric grid) that all ended in consolidation but produced long-term winners. The massive borrowing spree raises questions about sustainability and who will emerge victorious.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-09T04:16:00+09:00"
+  },
+  "digest": {
+    "headline": "빅테크 5사, AI 인프라에 '조 달러' 차입 경쟁 돌입",
+    "lead": "알파벳·아마존·메타·마이크로소프트·오라클 등 5대 하이퍼스케일러가 AI 데이터센터 구축을 위해 총 9,690억 달러 규모의 투자를 약정하며 사상 최대 자본지출 경쟁에 나섰다. 2025년 한 해에만 이들이 발행한 채권 규모는 1,210억 달러에 달하며, 향후 3~5년간 총 투자액은 1조 5천억~3조 달러에 이를 것으로 전망된다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">알파벳·아마존·메타·마이크로소프트·오라클 등 5대 하이퍼스케일러가 AI 데이터센터 구축을 위해 총 9,690억 달러 규모의 투자를 약정하며 사상 최대 자본지출 경쟁에 나섰다. 2025년 한 해에만 이들이 발행한 채권 규모는 1,210억 달러에 달하며, 향후 3~5년간 총 투자액은 1조 5천억~3조 달러에 이를 것으로 전망된다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">포춘은 이번 AI 인프라 투자 붐을 1990년대 광섬유 네트워크, 2010년대 셰일 혁명, 1900년대 초 전력망 구축과 비교했다. 과거 대규모 인프라 투자는 예외 없이 과잉투자·파산·합종연횡으로 이어졌지만, 최종 승자에게는 저렴한 인프라와 시장 지배력이라는 보상이 돌아갔다. 5대 빅테크의 약정액 중 3분의 2 이상인 6,620억 달러는 아직 시작조차 되지 않은 데이터센터 임대 계약에 묶여 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">핌코(PIMCO) CIO 모히트 미탈은 \"역사적으로 대규모 자본지출 주기는 결국 과잉투자 위험으로 이어졌다\"고 경고했다. 기존에 차입이 필요 없던 테크 기업들이 채권 시장에 본격 진입하면서, 새로운 이해관계자와 리스크 구조가 생겨나고 있다. 올해만 1,000억~3,000억 달러 규모의 AI 관련 채권 발행이 예상되며, 이 거대한 베팅의 성패가 향후 AI 산업의 판도를 결정할 전망이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">수조 달러 규모의 AI 인프라 확충은 클라우드 컴퓨팅 비용 하락과 GPU 접근성 향상으로 이어질 가능성이 높다. 이는 대학·에듀테크 스타트업이 자체 AI 모델을 학습·운영하는 데 필요한 진입 장벽을 크게 낮출 수 있으며, 특히 개인화 학습 플랫폼과 AI 튜터 서비스 개발에 긍정적 영향을 줄 전망이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://fortune.com/2026/03/07/big-tech-trillion-dollar-borrowing-ai-century-bonds/\" style=\"color:#FF6B35;text-decoration:none;\">Fortune</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "google",
+      "meta"
+    ],
+    "meta_title": "빅테크 5사, AI 인프라에 '조 달러' 차입 경쟁 돌입",
+    "meta_description": "알파벳·아마존·메타·마이크로소프트·오라클이 AI 데이터센터 구축을 위해 총 9,690억 달러 투자를 약정하고 채권 발행에 나섰다. 향후 3~5년간 총 투자액은 최대 3조 달러 전망.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T04:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T04:44:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T19:55:31.004Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69add432ff4fbf0001ab75f6",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69add432ff4fbf0001ab75f6",
+    "public_url": "https://insight.ubion.global/bigtekeu-5sa-ai-inpeurae-jo-dalreo-caib-gyeongjaeng-dolib/",
+    "status": "published",
+    "published_at": "2026-03-08T19:55:30.000Z",
+    "feature_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=630&fit=crop&q=85&auto=format"
+  }
+}

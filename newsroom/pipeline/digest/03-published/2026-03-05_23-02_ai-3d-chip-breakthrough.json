@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "This new 3D chip could break AI's biggest bottleneck",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251223084857.htm",
+    "source_name": "ScienceDaily",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Engineers from Stanford University, Carnegie Mellon, UPenn, and MIT collaborated with SkyWater Technology to create a new multilayer computer chip architecture that could mark a major shift in AI hardware and strengthen domestic U.S. semiconductor innovation. The breakthrough addresses a critical bottleneck in AI processing.",
+    "published_date": "2025-12-23",
+    "collected_at": "2026-03-05T23:02:49Z"
+  },
+  "digest": {
+    "headline": "AI 병목 현상 해결한 3D 칩 개발, 국내 반도체 기술 자립화 가능성 확대",
+    "lead": "미국 명문대 연구팀이 차세대 AI 반도체 개발에 성공했습니다. 수직으로 적층된 3D 구조의 칩으로 메모리와 연산 장치를 한 곳에 모아 AI 학습 속도를 기존 대비 4배 이상 향상시켰으며, 추가 적층 시 최대 12배까지 개선될 것으로 예상됩니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 명문대 연구팀이 차세대 AI 반도체 개발에 성공했습니다. 수직으로 적층된 3D 구조의 칩으로 메모리와 연산 장치를 한 곳에 모아 AI 학습 속도를 기존 대비 4배 이상 향상시켰으며, 추가 적층 시 최대 12배까지 개선될 것으로 예상됩니다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">스탠포드, 카네기멜론, 펜실베니아 대학과 MIT가 협력해 개발한 이 칩은 기존의 평면(2D) 구조를 벗어나 수직으로 메모리와 연산 회로를 쌓아올린 특징을 가집니다. 종래의 AI 칩들은 모든 부품이 한층으로 펼쳐져 있어 데이터가 메모리에서 연산 장치로 이동할 때 길고 혼잡한 경로를 통과해야 했습니다. 이를 '메모리 벽(memory wall)'이라고 부르는데, 새로운 3D 칩은 수직 배선을 통해 이 문제를 근본적으로 해결합니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">실험 결과 3D 칩은 기존 2D 칩보다 약 4배의 성능 향상을 보였으며, 시뮬레이션에 따르면 층을 더 추가할 경우 메타의 오픈소스 LLaMA 모델 기반 작업에서 최대 12배까지 개선될 수 있습니다. 특히 이 프로토타입은 대학 연구실이 아닌 상용 반도체 공장에서 제조되었다는 점에서 의의가 있습니다. 미국이 반도체 자립화를 추진하는 시점에서 국내 기업들도 이러한 기술 트렌드를 주시하고 기술 협력 기회를 모색할 필요가 있습니다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">3D 칩의 성능 향상은 AI 기반 교육 솔루션의 개발 비용과 시간을 대폭 단축할 수 있습니다. 현재 대형 언어모델 학습에 필요한 막대한 컴퓨팅 자원으로 인해 에듀테크 스타트업들은 AI 기술 도입에 큰 부담을 느끼고 있는데, 더 효율적인 칩이 보급되면 중소 규모 교육 회사도 경쟁력 있는 AI 학습 플랫폼을 구축할 수 있게 될 것입니다. 또한 에너지 효율 개선으로 인한 비용 절감은 온라인 교육 서비스의 확대를 촉진하고 교실 현장에서의 AI 도입 속도를 가속화할 수 있습니다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.sciencedaily.com/releases/2025/12/251223084857.htm\" style=\"color:#FF6B35;text-decoration:none;\">ScienceDaily</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "AI 병목 현상 해결한 3D 칩 개발, 국내 반도체 기술 자립화 가능성 확대",
+    "meta_description": "스탠포드, 카네기멜론, 펜실베니아 대학과 MIT가 수직으로 적층된 3D 반도체를 개발해 AI 학습 속도를 4배 이상 향상시켰습니다.",
+    "word_count": 620
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-05T23:02:49Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T23:05:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T14:29:30.833Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a9934a1e4e8000016eb33d",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a9934a1e4e8000016eb33d",
+    "public_url": "https://ubion.ghost.io/ai-byeongmog-hyeonsang-haegyeolhan-3d-cib-gaebal-gugnae-bandoce-gisul-jaribhwa-ganeungseong-hwagdae/",
+    "status": "published",
+    "published_at": "2026-03-05T14:29:30.833Z"
+  }
+}

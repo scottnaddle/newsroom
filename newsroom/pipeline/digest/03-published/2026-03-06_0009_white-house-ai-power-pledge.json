@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "7 Major AI Companies Sign White House Pledge to Cover Data Center Power Costs",
+    "url": "https://www.breitbart.com/tech/2026/03/05/7-major-ai-companies-sign-white-house-pledge-to-cover-data-center-power-costs/",
+    "source_name": "Breitbart",
+    "language": "en",
+    "relevance_score": 78,
+    "summary": "Seven major AI firms—Google, Microsoft, Meta, Oracle, xAI, OpenAI, and Amazon—signed a non-binding Ratepayer Protection Pledge at the White House to fund electricity infrastructure upgrades for their data centers, aiming to prevent utility cost increases for households while supporting continued AI infrastructure development.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-06T00:09:00Z"
+  },
+  "digest": {
+    "headline": "구글·마이크로소프트·메타·OpenAI 등 AI 기업 7곳, 백악관서 전력 인프라 투자 서약",
+    "lead": "구글, 마이크로소프트, 메타, 오라클, xAI, OpenAI, 아마존 등 세계 주요 AI 기업들이 백악관에서 데이터센터 전력 인프라 업그레이드에 투자하겠다는 서약(Ratepayer Protection Pledge)에 서명했다. 가정 전기료 인상을 막으면서 AI 인프라 확장을 계속하려는 취지다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">⚡ AI Digest</span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">구글, 마이크로소프트, 메타, 오라클, xAI, OpenAI, 아마존 등 세계 주요 AI 기업들이 백악관에서 데이터센터 전력 인프라 업그레이드에 투자하겠다는 서약(Ratepayer Protection Pledge)에 서명했다. 가정 전기료 인상을 막으면서 AI 인프라 확장을 계속하려는 취지다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">AI 기술 발전에는 막대한 전력이 필요하다. 데이터센터가 전력망의 부담을 급격히 증가시키면서 일반 가정의 전기료도 올라갈 수 있다는 우려가 나왔다. 이에 미국 정부와 AI 기업들이 협력하기로 했다. 7개 주요 AI 기업은 각자의 데이터센터 근처의 전력 인프라를 개선하기로 서약했다. 이는 전체 전력망 안정성을 높이고, 일반 가정용 전기료를 올리지 않겠다는 약속의 의미다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 서약은 법적 구속력이 없는 비구속적 합의(non-binding pledge)지만, 상징적 의미가 크다. 미국 정부가 AI 산업의 급속한 성장을 지원하되, 사회적 비용(에너지 가격 상승, 환경 문제)을 최소화하려는 정책 의지를 보여준다. AI 기업들도 자발적 참여로 사회적 책임감을 드러내려 하고 있다. 다만 실행 과정에서 정부 감시와 투명성 논의가 필요할 것으로 보인다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 인프라 비용 안정화는 교육 기술 기업의 운영 비용 예측을 도와준다. 전력 비용의 급등이 억제되면 에듀테크 기업들은 더 저렴하고 안정적인 가격으로 AI 서비스를 제공할 수 있게 된다. 또한 정부와 AI 기업 간 협력 모델은 교육 분야 AI 도입 시에도 참고할 수 있는 공공-민간 파트너십 사례가 될 수 있다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.breitbart.com/tech/2026/03/05/7-major-ai-companies-sign-white-house-pledge-to-cover-data-center-power-costs/\" style=\"color:#FF6B35;text-decoration:none;\">Breitbart</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation"
+    ],
+    "meta_title": "AI 기업 7곳, 백악관서 전력 인프라 투자 서약 서명",
+    "meta_description": "데이터센터 전력 비용 증가 문제. 미국 정부와 AI 기업의 공공-민간 파트너십 시작",
+    "word_count": 547
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T00:09:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T09:12:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T00:31:34.380Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aa2066ff4fbf0001ab6d8c",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aa2066ff4fbf0001ab6d8c",
+    "public_url": "https://ubion.ghost.io/gugeul-maikeurosopeuteu-meta-openai-deung-ai-gieob-7gos-baegaggwanseo-jeonryeog-inpeura-tuja-seoyag/",
+    "status": "published",
+    "published_at": "2026-03-06T00:31:34.000Z"
+  }
+}

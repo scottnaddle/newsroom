@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-03-06T02:32:16.910341+09:00",
+  "stage": "editor-desk checkpoint (cron 2, 30min)",
+  "pipeline_status": {
+    "01_sourced": 0,
+    "02_assigned": 0,
+    "03_reported": 0,
+    "04_drafted": 2,
+    "05_fact_checked": 0,
+    "06_desk_approved": 0,
+    "07_copy_edited": 0,
+    "08_published": 76
+  },
+  "queue": {
+    "total": 7,
+    "high_priority": 0,
+    "normal_priority": 7
+  },
+  "rejected": 48,
+  "bottleneck": "04-drafted (2개 정체) — writer 처리 대기",
+  "action_needed": [
+    "✓ STEP 1: 01-sourced 정리 완료 (2개 → queue)",
+    "⏳ STEP 2: 05-fact-checked 비어있음 (writer → fact-checker 대기)",
+    "📊 통계: 08-published 52개 발행 완료",
+    "⚠️  병목: 04-drafted 파일 2개가 fact-check 단계로 진행되지 않음"
+  ]
+}

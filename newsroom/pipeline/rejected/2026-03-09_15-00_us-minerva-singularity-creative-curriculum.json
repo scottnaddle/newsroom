@@ -1,0 +1,34 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.seoul.co.kr/news/plan/ScientificHuman10000/2026/03/05/20260305008001",
+    "title": "세계 누비며 연구, 인류 과제 해법 설계… '창의력'에 진심인 美명문들",
+    "snippet": "미국 미네르바 대학과 싱귤래리티 대학 등은 AI 시대에 걸맞은 독특한 커리큘럼으로 인재를 양성하고 있다. 지구촌 자체를 캠퍼스로 삼는 혁신적 교육 모델 소개.",
+    "published_date": "2026-03-05"
+  },
+  "relevance_score": 70,
+  "tags": [
+    "higher-education",
+    "curriculum",
+    "innovation",
+    "US"
+  ],
+  "collected_at": "2026-03-09T06:00:00.000Z",
+  "rejection_reason": "미네르바·싱귤래리티 대학 소개 기사. 시의성이 낮은 피처 형태이며, 이미 글로벌 교육 혁신 주제는 충분히 커버됨.",
+  "rejected_at": "2026-03-09T06:05:00.000Z",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

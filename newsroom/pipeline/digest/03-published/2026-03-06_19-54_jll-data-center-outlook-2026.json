@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "2026 Global Data Center Outlook",
+    "url": "https://www.jll.com/en-us/insights/market-outlook/data-center-outlook",
+    "source_name": "JLL",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Nearly 100 GW of new data centers will be added between 2026 and 2030, doubling global capacity. By 2030, AI could represent half of all workloads with inference becoming the primary driver, overtaking training by 2027. The sector is experiencing an infrastructure investment supercycle requiring up to $3 trillion by 2030.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-06T10:54:01.478Z"
+  },
+  "digest": {
+    "headline": "2026~2030년 데이터센터 100GW 증설…AI 워크로드 50% 차지 전망",
+    "lead": "글로벌 부동산 컨설팅사 JLL이 발표한 2026 데이터센터 전망에 따르면, 오는 2030년까지 전 세계 데이터센터 용량이 두 배로 늘어난다. AI 워크로드가 전체의 절반을 차지하며, 2027년부터는 AI 추론(inference)이 학습(training)을 넘어설 것으로 예상된다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">글로벌 부동산 컨설팅사 JLL이 발표한 2026 데이터센터 전망에 따르면, 오는 2030년까지 전 세계 데이터센터 용량이 두 배로 늘어난다. AI 워크로드가 전체의 절반을 차지하며, 2027년부터는 AI 추론(inference)이 학습(training)을 넘어설 것으로 예상된다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">JLL 보고서는 2026년부터 2030년까지 약 100GW 규모의 신규 데이터센터가 추가될 것으로 전망했다. 이는 현재 전 세계 데이터센터 용량을 두 배로 늘리는 규모다. 이러한 확장을 뒷받침하기 위해 2030년까지 최대 3조 달러(약 4,300조 원)의 인프라 투자가 필요할 것으로 분석된다. 특히 AI 붐이 이 투자 초주기(supercycle)의 핵심 동력이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">2030년이면 AI가 전체 데이터센터 워크로드의 50%를 차지할 전망이다. 흥미로운 점은 2027년부터 AI 추론(inference)이 학습(training)을 제치고 주요 수요 요인이 된다는 것이다. 이는 AI 모델 개발보다 실제 서비스 활용 단계로 시장이 이동하고 있음을 시사한다. 기업들은 모델을 만드는 것보다 이를 실제 비즈니스에 적용하는 데 더 많은 컴퓨팅 자원을 쓰게 된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">에듀테크 기업들에게 이 전망은 양날의 검이다. 한편으로는 AI 추론 중심으로 시장이 재편되면서 교육용 AI 서비스의 실시간 응답성과 개인화 기능이 대폭 개선될 기회다. 하지만 데이터센터 비용 상승과 전력 수급 불안정은 AI 기반 학습 플랫폼의 운영 비용에 직접적 영향을 미칠 수 있다. 에듀테크 스타트업들은 비용 효율적인 엣지 컴퓨팅이나 하이브리드 클라우드 전략을 미리 고려해야 한다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.jll.com/en-us/insights/market-outlook/data-center-outlook\" style=\"color:#FF6B35;text-decoration:none;\">JLL</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "data-center",
+      "infrastructure"
+    ],
+    "meta_title": "데이터센터 100GW 증설…2030년 AI 워크로드 50% 차지",
+    "meta_description": "JLL 전망: 2026~2030년 데이터센터 용량 두 배 증가, AI 워크로드 50% 도달. 3조 달러 인프라 투자 필요.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T10:54:01.478Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T10:54:32.000Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T10:57:45.915Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aab329ff4fbf0001ab6f46",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aab329ff4fbf0001ab6f46",
+    "public_url": "https://ubion.ghost.io/2026-2030nyeon-deiteosenteo-100gw-jeungseol-ai-weokeurodeu-50-caji-jeonmang/",
+    "status": "published",
+    "published_at": "2026-03-06T10:57:45.000Z"
+  }
+}

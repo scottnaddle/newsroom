@@ -1,0 +1,93 @@
+{
+  "timestamp": "2026-03-06T01:46:00+09:00",
+  "execution_time": "1:46 AM (KST) — 편집국장 자동 점검",
+  "pipeline_status": {
+    "01_sourced": 0,
+    "02_assigned": 0,
+    "03_reported": 0,
+    "04_drafted": 0,
+    "05_fact_checked": 0,
+    "06_desk_approved": 0,
+    "07_copy_edited": 0,
+    "08_published": 76,
+    "queue_waiting": 6,
+    "rejected": 48
+  },
+  "step_by_step": {
+    "STEP_1": {
+      "name": "01-sourced/ 확인 → 취재 배정",
+      "status": "✅ COMPLETE",
+      "findings": "파일 없음 (신뢰도 기반 라우팅 대기 상태)",
+      "actions": "없음"
+    },
+    "STEP_2": {
+      "name": "05-fact-checked/ 확인 → 자동 라우팅",
+      "status": "✅ COMPLETE",
+      "findings": "파일 없음 (현재 팩트체크 진행 중인 기사 없음)",
+      "actions": "없음"
+    },
+    "STEP_3": {
+      "name": "06-desk-approved/ → 07-copy-edited/ 준비",
+      "status": "✅ COMPLETE",
+      "findings": "파일 없음 (에디터 승인 대기 기사 없음)",
+      "actions": "없음"
+    },
+    "STEP_4": {
+      "name": "07-copy-edited/ → 08-published/ 준비",
+      "status": "✅ COMPLETE",
+      "findings": "파일 없음 (교열 완료 기사 없음)",
+      "actions": "없음"
+    },
+    "STEP_5": {
+      "name": "파이프라인 통계 리포트",
+      "status": "✅ GENERATED",
+      "timestamp": "2026-03-06T01:46:00+09:00"
+    }
+  },
+  "queue_analysis": {
+    "total_queued": 6,
+    "avg_relevance_score": 67.67,
+    "items": [
+      {
+        "id": "1772710577-001",
+        "relevance_score": 68,
+        "status": "대기 중 (신뢰도 충분 → 배정 가능)"
+      },
+      {
+        "id": "1741271193-clg-consortium",
+        "relevance_score": 68,
+        "status": "대기 중 (신뢰도 충분 → 배정 가능)"
+      },
+      {
+        "id": "1741271193-politico-love",
+        "relevance_score": 62,
+        "status": "대기 중 (신뢰도 낮음 → 검토 필요)"
+      },
+      {
+        "id": "1741352160-002",
+        "relevance_score": 68,
+        "status": "대기 중 (신뢰도 충분 → 배정 가능)"
+      },
+      {
+        "id": "20260305-223631-469935",
+        "relevance_score": 72,
+        "status": "대기 중 (신뢰도 양호 → 우선 배정)"
+      }
+    ]
+  },
+  "overall_health": "✅ EXCELLENT",
+  "status": "파이프라인 정상 운영 중",
+  "summary": {
+    "published": "76개 (발행 완료 — +1 신규)",
+    "rejected": "48개 (낮은 신뢰도 — +1 신규)",
+    "queued": "6개 (신뢰도 50-74, 배정 대기)",
+    "in_progress": "0개 (병목 없음)",
+    "next_action": "Writer 팀에 Queue 아이템 배정 검토 필요"
+  },
+  "recommendations": [
+    "✅ 파이프라인 정상 — 현재 진행 중인 기사 없음 (좋은 상태)",
+    "📋 Queue의 6개 아이템을 검토하여 04-drafted/로 배정 추천 (신뢰도 68+ 우선)",
+    "⚠️ politico-love (신뢰도 62) — 추가 검증 필요",
+    "🎯 현재 bottleneck 없음 — 안정적인 운영 상태"
+  ]
+}

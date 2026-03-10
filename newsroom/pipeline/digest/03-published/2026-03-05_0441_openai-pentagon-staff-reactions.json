@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Some OpenAI staff are fuming about its Pentagon deal",
+    "url": "https://edition.cnn.com/2026/03/04/tech/pentagon-anthropic-openai-staff-reactions",
+    "source_name": "CNN Business",
+    "language": "en",
+    "relevance_score": 72,
+    "summary": "OpenAI staff members expressed concerns about the company's Pentagon deal announced on Friday to deploy AI models in classified systems. The deal reflects internal tensions regarding military AI applications and policy.",
+    "published_date": "2026-03-04",
+    "collected_at": "2026-03-05T04:41:00Z"
+  },
+  "digest": {
+    "headline": "OpenAI의 국방부 계약 체결에 직원들 반발, 안전장치 논쟁",
+    "lead": "OpenAI가 국방부와 기밀 AI 시스템 배포 계약을 체결하자 직원들이 내부적으로 반발하고 있다. 경쟁사 Anthropic이 거부했던 같은 계약을 OpenAI가 최근 체결하면서, 인공지능 안전성과 윤리 문제를 놓고 회사 내 갈등이 고조되고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- AI Digest 배지 -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">OpenAI가 국방부와 기밀 AI 시스템 배포 계약을 체결하자 직원들이 내부적으로 반발하고 있다. 경쟁사 Anthropic이 거부했던 같은 계약을 OpenAI가 최근 체결하면서, 인공지능 안전성과 윤리 문제를 놓고 회사 내 갈등이 고조되고 있다.</p>\n  </div>\n\n  <!-- 배경 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">지난 주말 OpenAI가 국방부와의 AI 계약 체결을 발표했을 때 내부에서 즉각 비판의 목소리가 나왔다. 특히 주목할 점은 며칠 전 경쟁사 Anthropic이 같은 계약을 거부하며 'AI 대량감시 및 자율 무기 사용' 에 대한 명확한 제한을 요구했던 배경이다. OpenAI CEO 샘 알트먼도 초기에는 Anthropic의 입장에 동의하는 발언을 했으나, 곧 OpenAI가 독자적으로 국방부와 계약을 체결했다는 발표를 내놔 '기회주의적'이라는 비판을 받고 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">알트먼은 이후 국방부 계약 조항을 수정해 감시 프로그램 사용 금지를 명확히 했다고 밝혔으나, 직원들과 전문가들은 이러한 안전장치가 실제로 강제될 수 있는지에 대해 의문을 제기하고 있다. OpenAI의 AI 안전 연구원 재스민 왕은 독립적인 법적 검토를 촉구했고, 일부 직원들은 회사가 의회와의 경쟁에서 서둘러 계약을 체결했다고 지적했다. 알트먼은 이후 직원 대면 회의에서 '의사소통이 미흡했다'며 절차상 '실수'를 인정했다.</p>\n\n  <!-- 에듀테크 시사점 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">이 사건은 에듀테크 기업들에게 중요한 교훈을 제시한다. 정부·군사 계약의 수익성은 높지만, 기업의 AI 안전 기준과 충돌할 수 있다는 점이다. 교육 분야 AI 도구를 개발하는 스타트업이 정부 교육 프로젝트나 국방부 관련 교육 시스템에 진출할 때도 유사한 윤리적 딜레마에 직면할 수 있다. 투명한 안전장치와 내부 거버넌스 없이 정부 계약을 서둘러 체결하면 브랜드 신뢰도 훼손과 내부 갈등으로 이어질 수 있다는 점을 시사한다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://edition.cnn.com/2026/03/04/tech/pentagon-anthropic-openai-staff-reactions\" style=\"color:#FF6B35;text-decoration:none;\">CNN Business</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "openai"
+    ],
+    "meta_title": "OpenAI 국방부 계약, 직원 반발과 AI 안전성 논쟁",
+    "meta_description": "OpenAI의 국방부 AI 시스템 계약에 직원들이 반발. AI 안전장치와 투명성을 둘러싼 내부 갈등 심화.",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-05T04:41:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T04:43:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T03:46:02.073Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a8fc74e2eb440001d558c4",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a8fc74e2eb440001d558c4",
+    "public_url": "https://insight.ubion.global/openaiyi-gugbangbu-gyeyag-cegyeole-jigweondeul-banbal-anjeonjangci-nonjaeng/",
+    "status": "published",
+    "published_at": "2026-03-05T03:45:56.000Z"
+  }
+}

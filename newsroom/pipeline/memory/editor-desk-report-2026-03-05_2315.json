@@ -1,0 +1,31 @@
+{
+  "timestamp": "2026-03-05T23:15:00+09:00",
+  "pipeline_status": {
+    "01_sourced": 0,
+    "02_assigned": 0,
+    "03_reported": 0,
+    "04_drafted": 0,
+    "05_fact_checked": 0,
+    "06_desk_approved": 0,
+    "07_copy_edited": 0,
+    "08_published": 75,
+    "queue_waiting": 6,
+    "rejected": 47
+  },
+  "queue_items": [
+    "1772710577-001 (신뢰도 68)",
+    "1741271193-clg-consortium (신뢰도 68)",
+    "1741271193-politico-love (신뢰도 62)",
+    "1741352160-002 (신뢰도 68)",
+    "20260305-223631-469935 (신뢰도 72)"
+  ],
+  "status": "✅ CLEAN",
+  "bottleneck": "없음",
+  "action_needed": "Queue에 대기 중인 6개 아이템 — 신뢰도 50-74 범위 (배정 가능성 검토 필요)",
+  "summary": {
+    "published": "75개 (처리 완료)",
+    "rejected": "47개 (낮은 신뢰도)",
+    "queued": "6개 (신뢰도 68 평균, 배정 대기)",
+    "in_progress": "0개 (병목 없음)"
+  }
+}

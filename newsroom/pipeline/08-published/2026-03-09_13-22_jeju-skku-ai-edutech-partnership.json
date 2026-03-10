@@ -1,0 +1,100 @@
+{
+  "stage": "published",
+  "source": {
+    "url": "https://www.fnnews.com/news/202603040933104912",
+    "title": "제주대-성균관대, AI·에듀테크 인재양성 맞손",
+    "snippet": "제주대학교와 성균관대학교가 인공지능 기반 교육 혁신과 에듀테크 산업 협력 확대를 위해 손을 맞잡았다. 제주대 지능소프트웨어교육연구소와 성균관대 성균에듀테크연구소가 협약 체결.",
+    "published_date": "2026-03-04"
+  },
+  "relevance_score": 75,
+  "tags": [
+    "partnership",
+    "edutech",
+    "university"
+  ],
+  "collected_at": "2026-03-09T04:22:00.000Z",
+  "assigned_at": "2026-03-09T04:35:00.000Z",
+  "reported_at": "2026-03-09T04:40:00.000Z",
+  "editor_note": "국내 대학 간 AI·에듀테크 협력. 한국 독자 관심 높은 소재.",
+  "priority": "medium",
+  "reporting_brief": {
+    "who": "제주대학교 지능소프트웨어교육연구소(소장 조정원)와 성균관대학교 성균에듀테크연구소(소장 김재현). 2월 26일 성균관대에서 MOU 체결.",
+    "what": "AI·에듀테크 인재양성 및 산학협력 생태계 구축을 위한 업무협약(MOU) 체결. 협력 분야: ① AI·에듀테크 신기술 인재 양성 및 인재 교류 ② AI 기반 교과목·교육과정 공동 개발 ③ AI 교육 생태계 인프라 구축·융합 연구 ④ AI·디지털 교육 학술대회·세미나 공동 개최. AI, IoT, 빅데이터 기반 교육 모델 개발.",
+    "why": "지역(제주)-수도권(서울) 대학 연구소 간 AI·에듀테크 협력 모델 구축. 디지털 전환 시대 교육 현장 적용 가능한 실천형 연구와 산학 연계 강화. 성균관대는 인공지능혁신융합대학사업단 중심 AI 특화 인재 양성 체계 강화(렌쥴리에듀테인먼트와도 유사 MOU 체결, 2025.11).",
+    "when": "2026년 2월 26일 성균관대학교에서 MOU 체결. 2026년 3월 4일 파이낸셜뉴스 보도.",
+    "context": "한국 정부의 AI 디지털 교과서 정책(2025~), 교육부 AI 교육 확대 로드맵과 연계. 대학 간 AI·에듀테크 연구 협력 MOU가 2025~2026년 급증 추세. 성균관대 성균에듀테크연구소는 렌쥴리에듀테인먼트·기타 기업과도 유사 협약 체결하며 에듀테크 생태계 허브 역할.",
+    "sources": [
+      {
+        "url": "https://www.fnnews.com/news/202603040933104912",
+        "type": "primary",
+        "reliability": "high",
+        "note": "파이낸셜뉴스 보도 (제주대 보도자료 기반)"
+      },
+      {
+        "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=116857",
+        "type": "reference",
+        "reliability": "medium",
+        "note": "성균관대-렌쥴리에듀테인먼트 AI 인재양성 MOU (2025.11)"
+      },
+      {
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=469939",
+        "type": "reference",
+        "reliability": "medium",
+        "note": "중앙이코노미뉴스: 성균관대-렌쥴리 MOU 동일 건"
+      },
+      {
+        "url": "https://ai.jejunu.ac.kr/",
+        "type": "reference",
+        "reliability": "high",
+        "note": "제주대학교 인공지능학과 공식 사이트"
+      }
+    ],
+    "perspectives": {
+      "government": "교육부 AI 교육 확대 로드맵에 따른 대학 간 협력 활성화. 지역 균형 발전 차원에서 지역-수도권 연구 협력 모델 장려.",
+      "education": "대학 연구소 간 교과목·교육과정 공동 개발로 AI 교육의 질적 표준화 기대. 인재 교류를 통한 지역 대학 연구 역량 강화. 실천형 연구(교육 현장 적용 가능한 결과물) 강조.",
+      "industry": "산학 연계 에듀테크 생태계 구축으로 에듀테크 스타트업·기업의 대학 연구 자원 활용 기회 확대. AI·IoT·빅데이터 융합 교육 모델 공동 개발이 제품·서비스 개발로 이어질 잠재력."
+    },
+    "suggested_angle": "국내 대학 AI·에듀테크 연구소 간 협력 MOU 급증 트렌드를 조명. 제주대-성균관대 사례를 중심으로 지역-수도권 연구 협력 모델의 의미와 실효성을 분석. 교육부 AI 교육 정책과 연계하여 대학의 역할 변화 조망."
+  },
+  "draft": {
+    "headline": "제주대-성균관대, AI·에듀테크 인재양성 MOU… 지역-수도권 연구 협력 모델 구축",
+    "subheadline": "교과목 공동 개발·인재 교류·학술대회 개최… 대학 간 AI 에듀테크 협력 급증 추세",
+    "html": "<div style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;font-size:17px;line-height:1.9;color:#1a202c\">\n\n<div style=\"border-left:4px solid #d97706;background:#f8f9ff;padding:18px 22px;margin-bottom:28px;border-radius:0 8px 8px 0\">\n<p style=\"margin:0;font-size:18px;font-weight:600;color:#d97706\">제주대학교 지능소프트웨어교육연구소와 성균관대학교 성균에듀테크연구소가 AI·에듀테크 인재양성을 위한 업무협약(MOU)을 체결했다. 지역 대학과 수도권 대학의 연구소가 손잡고 AI 교육과정 공동 개발, 인재 교류, 산학협력 생태계 구축에 나선 이번 협약은 대학 간 AI·에듀테크 협력이 급증하는 2025~2026년 트렌드의 일환이다.</p>\n</div>\n\n<figure class=\"kg-card kg-image-card kg-width-full\">\n<img src=\"https://images.unsplash.com/photo-1523050854058-8df90110c476?w=1200&q=80\" alt=\"대학 연구 협력\" style=\"width:100%;border-radius:8px\" />\n<figcaption style=\"text-align:center;font-size:14px;color:#94a3b8;margin-top:8px\">대학 간 AI·에듀테크 연구 협력이 가속화되고 있다 (Unsplash)</figcaption>\n</figure>\n\n<h2 style=\"font-size:19px;margin-top:36px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">4대 협력 축: 인재부터 인프라까지</h2>\n<p style=\"font-size:17px\">2월 26일 성균관대학교에서 열린 이번 MOU 체결식에는 제주대 지능소프트웨어교육연구소의 조정원 소장과 성균관대 성균에듀테크연구소의 김재현 소장이 참석했다. 양측이 합의한 협력 분야는 네 가지다. AI·에듀테크 신기술 인재 양성 및 인재 교류, AI 기반 교과목·교육과정 공동 개발, AI 교육 생태계 인프라 구축 및 융합 연구, AI·디지털 교육 학술대회·세미나 공동 개최다.</p>\n<p style=\"font-size:17px\">핵심은 '실천형 연구'라는 지향점이다. 논문으로만 남는 연구가 아니라 교육 현장에 실제로 적용할 수 있는 결과물을 만들겠다는 것이다. AI, IoT, 빅데이터를 결합한 교육 모델 개발이 대표적이다. 두 연구소가 가진 자원을 결합하면 단독으로는 어려운 규모의 실증 연구가 가능해진다.</p>\n\n<h2 style=\"font-size:19px;margin-top:36px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">지역-수도권 격차를 연구로 메운다</h2>\n<p style=\"font-size:17px\">이번 협약의 구조적 의미는 지역-수도권 연구 협력 모델의 구축에 있다. 제주대는 지역 거점 국립대로서 AI 교육의 지역 확산에 강점이 있고, 성균관대는 인공지능혁신융합대학사업단을 중심으로 AI 특화 인재 양성 체계를 갖추고 있다. 양측의 인재 교류가 활성화되면 지역 대학 연구 역량의 구조적 강화가 기대된다.</p>\n<p style=\"font-size:17px\">성균관대 성균에듀테크연구소는 이미 에듀테크 생태계의 허브 역할을 자처하고 있다. 2025년 11월에는 렌쥴리에듀테인먼트와도 AI 인재양성 MOU를 체결한 바 있다. 기업·대학·연구소를 연결하는 에듀테크 협력 네트워크가 성균관대를 중심으로 확장되고 있는 형국이다.</p>\n\n<h2 style=\"font-size:19px;margin-top:36px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">AI 교육 MOU 급증, 실효성은 과제</h2>\n<p style=\"font-size:17px\">2025~2026년은 대학 간 AI·에듀테크 관련 MOU가 급증한 시기다. 교육부의 AI 교육 확대 로드맵, AI 디지털 교과서 정책(2025년~)이 대학들의 협력 수요를 자극하고 있다. 정부가 AI 교육 인프라에 대규모 투자를 예고하면서 대학들이 선제적으로 협력 체계를 갖추려는 움직임이 가속화된 것이다.</p>\n<p style=\"font-size:17px\">다만 MOU의 양적 증가가 곧 질적 성과로 이어지는 것은 아니다. 선언적 협약에 그치지 않으려면 구체적인 공동 프로젝트, 인재 교류의 실질적 메커니즘, 연구 성과의 교육 현장 적용 경로가 뒷받침되어야 한다. 제주대-성균관대 협약이 제시한 네 가지 협력 축이 실제로 어떤 결과물을 낼지는 앞으로의 실행에 달려 있다. 산학 연계로 에듀테크 스타트업·기업이 대학의 연구 자원을 활용할 기회가 확대된다면, 이번 협약의 파급력은 두 대학을 넘어설 수 있다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0;margin-top:36px;padding-top:20px\">\n<h3 style=\"font-size:16px;color:#64748b;margin-bottom:12px\">📎 참고자료</h3>\n<ol style=\"font-size:15px;color:#475569;padding-left:20px\">\n<li><a href=\"https://www.fnnews.com/news/202603040933104912\" style=\"color:#d97706\">파이낸셜뉴스: 제주대-성균관대 AI·에듀테크 인재양성 협약</a></li>\n<li><a href=\"http://www.dailysmart.co.kr/news/articleView.html?idxno=116857\" style=\"color:#d97706\">성균관대-렌쥴리에듀테인먼트 AI 인재양성 MOU</a></li>\n<li><a href=\"https://www.joongangenews.com/news/articleView.html?idxno=469939\" style=\"color:#d97706\">중앙이코노미뉴스: 성균관대-렌쥴리 MOU</a></li>\n<li><a href=\"https://ai.jejunu.ac.kr/\" style=\"color:#d97706\">제주대학교 인공지능학과 공식 사이트</a></li>\n</ol>\n</div>\n\n<p style=\"font-size:13px;color:#cbd5e1;margin-top:32px\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>",
+    "ghost_tags": [
+      "에듀테크",
+      "대학 협력",
+      "AI 인재양성",
+      "MOU",
+      "산학협력"
+    ],
+    "references": [
+      "https://www.fnnews.com/news/202603040933104912",
+      "http://www.dailysmart.co.kr/news/articleView.html?idxno=116857",
+      "https://www.joongangenews.com/news/articleView.html?idxno=469939",
+      "https://ai.jejunu.ac.kr/"
+    ],
+    "word_count": 830,
+    "category": "industry"
+  },
+  "fact_check": {
+    "score": 85,
+    "verdict": "FLAG",
+    "issues": [
+      "MOU 기사 특성상 선언적 내용이 중심. 구체적 성과나 예산 규모 등 실질적 수치 부재.",
+      "참고자료 4개 중 제주대 AI학과 공식 사이트는 MOU 관련 직접 정보를 제공하지 않음. 소스 다양성이 제한적(파이낸셜뉴스 1차 보도 + 렌쥴리 MOU 관련 2개)."
+    ],
+    "verified_claims": [
+      "제주대-성균관대 MOU 체결(2026.2.26) — 파이낸셜뉴스 보도 확인",
+      "조정원 소장(제주대 지능소프트웨어교육연구소), 김재현 소장(성균관대 성균에듀테크연구소) — 파이낸셜뉴스 보도 확인",
+      "4대 협력 분야(인재양성·교류, 교과목 공동개발, 인프라 구축, 학술대회) — 파이낸셜뉴스 보도 확인",
+      "성균관대-렌쥴리에듀테인먼트 MOU(2025.11) — dailysmart, 중앙이코노미뉴스 확인"
+    ]
+  },
+  "meta_title": "제주대-성균관대, AI·에듀테크 인재양성 MOU… 지역-수도권 연구 협력 모델 구축",
+  "meta_description": "교과목 공동 개발·인재 교류·학술대회 개최… 대학 간 AI 에듀테크 협력 급증 추세",
+  "desk_approved_at": "2026-03-09T05:37:48.506179Z",
+  "copy_edited_at": "2026-03-09T05:57:18.285Z",
+  "ghost_id": "69ae689eff4fbf0001ab7808",
+  "ghost_url": "https://insight.ubion.global/p/ccf59e80-81da-41dc-b8e3-b367cd77c6bc/",
+  "published_at": "2026-03-09T06:28:46.919Z"
+}

@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Broadcom AI Revenue Jumps 106% as Custom Chips Drive Growth",
+    "url": "https://www.analyticsinsight.net/news/broadcom-ai-revenue-jumps-106-as-custom-chips-drive-growth",
+    "source_name": "Analytics Insight",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Broadcom reported fiscal Q1 2026 revenue of $19.31B, up 29% YoY, beating analyst expectations. AI revenue hit $8.4B, a 106% year-over-year increase, driven by custom AI accelerators (up 140%) and AI networking products (up 60%). The company sees a path to over $100B in AI chip revenue by fiscal 2027. Stock traded at $330.48 with a market cap of about $1.36 trillion.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-09T12:01:00+09:00"
+  },
+  "digest": {
+    "headline": "브로드컴 AI 매출 106% 급증, 맞춤형 칩이 성장 견인",
+    "lead": "브로드컴이 2026 회계연도 1분기 AI 매출 84억 달러를 기록하며 전년 대비 106% 성장했다. 맞춤형 AI 가속기(140% 증가)와 AI 네트워킹 제품(60% 증가)이 핵심 동력이다. 전체 매출도 193억 달러로 29% 늘어 시장 기대를 상회했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">브로드컴(Broadcom)이 2026 회계연도 1분기 AI 매출 84억 달러를 기록하며 전년 대비 106% 성장했다. 맞춤형 AI 가속기 매출은 140%, AI 네트워킹 제품은 60% 각각 증가하며 데이터센터 AI 인프라 수요의 폭발적 성장을 반영했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">브로드컴은 1분기 전체 매출 193억 달러(전년 대비 29% 증가), 주당순이익 2.05달러를 기록해 애널리스트 예상치를 상회했다. 반도체 솔루션 부문이 125억 달러로 52% 성장한 반면 인프라 소프트웨어 매출은 68억 달러로 1% 증가에 그쳐, 현재 성장 동력이 AI 반도체에 집중되어 있음을 보여준다. 시가총액은 약 1조 3,600억 달러에 달한다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">브로드컴은 2분기 매출 약 220억 달러(47% 성장), AI 반도체 매출 107억 달러를 전망했다. 특히 2027 회계연도까지 AI 칩 매출 1,000억 달러 돌파를 목표로 제시했다. 다만 매출총이익률이 79.1%에서 77%로 소폭 하락해 맞춤형 ASIC의 마진 압박이 존재하며, 일부 애널리스트는 2027년 이후 고객 프로그램의 지속성에 의문을 제기하고 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">맞춤형 AI 칩 시장의 급성장은 대형 클라우드 사업자의 AI 연산 비용 절감으로 이어진다. 이는 에듀테크 스타트업이 API 기반 AI 서비스를 더 저렴하게 활용할 수 있는 환경을 조성하며, AI 튜터링·자동 채점 등 연산 집약적 교육 서비스의 확산을 가속화할 수 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.analyticsinsight.net/news/broadcom-ai-revenue-jumps-106-as-custom-chips-drive-growth\" style=\"color:#FF6B35;text-decoration:none;\">Analytics Insight</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "broadcom"
+    ],
+    "meta_title": "브로드컴 AI 매출 106% 급증, 맞춤형 칩·네트워킹이 성장 핵심",
+    "meta_description": "브로드컴 2026 회계연도 1분기 AI 매출 84억 달러로 106% 성장. 맞춤형 AI 가속기 140% 증가, 2027년 AI 칩 매출 1,000억 달러 목표 제시.",
+    "word_count": 530,
+    "feature_image": "https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T12:01:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T12:15:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T03:31:09.058Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae3efcff4fbf0001ab7799",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae3efcff4fbf0001ab7799",
+    "public_url": "https://insight.ubion.global/beurodeukeom-ai-maecul-106-geubjeung-majcumhyeong-cibi-seongjang-gyeonin/",
+    "status": "published",
+    "published_at": "2026-03-09T03:31:08.000Z"
+  }
+}

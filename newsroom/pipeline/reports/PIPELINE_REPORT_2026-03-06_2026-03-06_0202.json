@@ -1,0 +1,81 @@
+{
+  "timestamp": "2026-03-05T17:02:05.686402+00:00Z",
+  "report_type": "EDITOR_DESK_30MIN_CHECK",
+  "generated_by": "editor-desk",
+  "cron_event": "c20081e1-73be-4856-8768-029c326676d6",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "status": "✅ CLEAR"
+    },
+    "02_assigned": {
+      "total": 0,
+      "status": "✅ CLEAR"
+    },
+    "03_reported": {
+      "total": 0,
+      "status": "✅ CLEAR"
+    },
+    "04_drafted": {
+      "total": 0,
+      "status": "✅ CLEAR"
+    },
+    "05_fact_checked": {
+      "total": 0,
+      "status": "✅ CLEAR"
+    },
+    "06_desk_approved": {
+      "total": 0,
+      "status": "✅ CLEAR"
+    },
+    "07_copy_edited": {
+      "total": 0,
+      "status": "✅ CLEAR"
+    },
+    "08_published": {
+      "total": 76,
+      "status": "📤 READY (76)"
+    },
+    "queue_waiting": {
+      "total": 5,
+      "status": "📋 HOLDING (5)",
+      "avg_score": 67.6
+    },
+    "rejected": {
+      "total": 48,
+      "status": "⛔ REJECT (48)"
+    }
+  },
+  "health_metrics": {
+    "pipeline_flow": "✅ OPTIMAL",
+    "bottleneck": "❌ NONE",
+    "throughput": "정상",
+    "blockage_risk": "LOW"
+  },
+  "quality_analysis": {
+    "total_articles": 129,
+    "accepted": 76,
+    "rejected": 48,
+    "acceptance_rate_percent": 58.9,
+    "rejection_rate_percent": 41.1,
+    "queue_items": 5,
+    "trend": "안정적"
+  },
+  "action_items": [
+    {
+      "priority": "HIGH",
+      "action": "📤 Ghost CMS Publisher 실행",
+      "target": "08-published/ (76개 기사)",
+      "owner": "publisher-agent",
+      "deadline": "ASAP"
+    },
+    {
+      "priority": "NORMAL",
+      "action": "📋 Queue 검토",
+      "target": "신뢰도 50-74 범위 5개 아이템",
+      "owner": "writer-agent",
+      "deadline": "상황별"
+    }
+  ],
+  "editor_summary": "파이프라인 완벽 정상 작동 중. 모든 처리 단계가 명확하게 구분되고 자동 라우팅이 효율적입니다. 현재 우선순위는 08-published의 기사를 Ghost CMS에 발행하는 것입니다."
+}

@@ -1,0 +1,314 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AskedTech Article Metadata Schema",
+  "description": "Complete article metadata tracking throughout the pipeline",
+  
+  "definitions": {
+    "generationMetadata": {
+      "type": "object",
+      "properties": {
+        "model": {
+          "type": "string",
+          "description": "LLM model used (e.g., 'zai/glm-4-plus', 'anthropic/claude-opus')"
+        },
+        "temperature": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 2,
+          "description": "Temperature setting for generation"
+        },
+        "maxTokens": {
+          "type": "integer",
+          "description": "Max tokens for generation"
+        },
+        "timestamp": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When the content was generated"
+        },
+        "version": {
+          "type": "string",
+          "description": "Pipeline/schema version when generated"
+        }
+      },
+      "required": ["model", "timestamp"]
+    },
+    
+    "qualityScore": {
+      "type": "object",
+      "properties": {
+        "structureScore": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "factCheckScore": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "readabilityScore": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "completenessScore": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "overallConfidence": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Weighted overall score (40% fact + 20% structure + 20% readability + 20% completeness)"
+        },
+        "verdict": {
+          "type": "string",
+          "enum": ["PASS", "FLAG", "FAIL"],
+          "description": "80+=PASS, 75-79=FLAG, <75=FAIL"
+        }
+      }
+    },
+    
+    "sourceItem": {
+      "type": "object",
+      "properties": {
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "title": {
+          "type": "string"
+        },
+        "credibility": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Credibility score (95=government official, 75=news, 50=blog, 20=unknown)"
+        },
+        "role": {
+          "type": "string",
+          "enum": ["official_statement", "primary_source", "analysis", "context", "counterpoint"],
+          "description": "Role of this source in the article"
+        },
+        "summary": {
+          "type": "string",
+          "description": "What this source provides"
+        }
+      },
+      "required": ["url", "credibility"]
+    },
+    
+    "auditEntry": {
+      "type": "object",
+      "properties": {
+        "timestamp": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "agent": {
+          "type": "string",
+          "enum": ["source-collector", "reporter", "writer", "fact-checker", "editor-desk", "copy-editor", "publisher"]
+        },
+        "action": {
+          "type": "string",
+          "enum": ["collected", "assigned", "reported", "drafted", "verified", "approved", "revised", "copy-edited", "published", "rejected"]
+        },
+        "note": {
+          "type": "string",
+          "description": "Context or details about this action"
+        },
+        "durationMs": {
+          "type": "integer",
+          "description": "How long this stage took"
+        }
+      },
+      "required": ["timestamp", "agent", "action"]
+    }
+  },
+  
+  "type": "object",
+  "properties": {
+    "source_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Original source URL"
+    },
+    "source_title": {
+      "type": "string"
+    },
+    "headline": {
+      "type": "string",
+      "maxLength": 30
+    },
+    "stage": {
+      "type": "string",
+      "enum": ["sourced", "assigned", "reported", "drafted", "fact-checked", "desk-approved", "copy-edited", "published", "rejected"]
+    },
+    
+    "generatedBy": {
+      "$ref": "#/definitions/generationMetadata",
+      "description": "Metadata about AI generation (tracking which model produced this)"
+    },
+    
+    "reportingBrief": {
+      "type": "object",
+      "properties": {
+        "who": { "type": "string" },
+        "what": { "type": "string" },
+        "why": { "type": "string" },
+        "when_where": { "type": "string" },
+        "context": { "type": "string" },
+        "sources": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/sourceItem" }
+        },
+        "perspectives": {
+          "type": "object",
+          "properties": {
+            "government": { "type": "string" },
+            "education_field": { "type": "string" },
+            "corporate": { "type": "string" },
+            "parents": { "type": "string" }
+          }
+        },
+        "suggested_angle": { "type": "string" },
+        "gaps": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    
+    "draft": {
+      "type": "object",
+      "properties": {
+        "headline": { "type": "string", "maxLength": 30 },
+        "subheadline": { "type": "string" },
+        "html": {
+          "type": "string",
+          "description": "HTML content with kg-card wrapper"
+        },
+        "ghost_tags": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "references": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/sourceItem" }
+        },
+        "word_count": { "type": "integer" },
+        "category": {
+          "type": "string",
+          "enum": ["policy", "research", "industry", "opinion", "data", "education"]
+        }
+      }
+    },
+    
+    "qualityReport": {
+      "$ref": "#/definitions/qualityScore",
+      "description": "Fact-checker's quality assessment"
+    },
+    
+    "editorScorecard": {
+      "type": "object",
+      "properties": {
+        "newsValue": { "type": "integer", "minimum": 0, "maximum": 20 },
+        "accuracy": { "type": "integer", "minimum": 0, "maximum": 20 },
+        "balance": { "type": "integer", "minimum": 0, "maximum": 20 },
+        "legal": { "type": "integer", "minimum": 0, "maximum": 15 },
+        "aiDisclosure": { "type": "integer", "minimum": 0, "maximum": 15 },
+        "style": { "type": "integer", "minimum": 0, "maximum": 10 },
+        "totalScore": { "type": "integer", "minimum": 0, "maximum": 100 },
+        "verdict": {
+          "type": "string",
+          "enum": ["APPROVE", "REVISE", "KILL"]
+        }
+      }
+    },
+    
+    "copyEditReport": {
+      "type": "object",
+      "properties": {
+        "grammarIssues": { "type": "integer" },
+        "styleIssues": { "type": "integer" },
+        "clarityIssues": { "type": "integer" },
+        "structureIssues": { "type": "integer" },
+        "totalCorrections": { "type": "integer" },
+        "status": {
+          "type": "string",
+          "enum": ["ready-to-publish", "needs-revision"]
+        },
+        "notes": { "type": "string" }
+      }
+    },
+    
+    "publishResult": {
+      "type": "object",
+      "properties": {
+        "ghost_post_id": { "type": "string" },
+        "ghost_draft_url": { "type": "string", "format": "uri" },
+        "ghost_publish_url": { "type": "string", "format": "uri" },
+        "status": {
+          "type": "string",
+          "enum": ["draft", "published"]
+        },
+        "published_at": { "type": "string", "format": "date-time" }
+      }
+    },
+    
+    "auditLog": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/auditEntry" },
+      "description": "Complete audit trail from sourcing to publishing"
+    },
+    
+    "metrics": {
+      "type": "object",
+      "properties": {
+        "totalProcessingTimeMs": {
+          "type": "integer",
+          "description": "Time from sourced to published"
+        },
+        "revisionsCount": {
+          "type": "integer",
+          "description": "How many times article went back to writer/editor"
+        },
+        "factCheckTime": {
+          "type": "integer",
+          "description": "Fact-checking stage duration in ms"
+        },
+        "editorTime": {
+          "type": "integer",
+          "description": "Editorial review duration in ms"
+        },
+        "copyEditTime": {
+          "type": "integer",
+          "description": "Copy-editing stage duration in ms"
+        }
+      }
+    }
+  },
+  
+  "required": ["headline", "stage", "auditLog"],
+  
+  "examples": [
+    {
+      "headline": "교육부, 2025년 AI 교과서 전국 도입 확정",
+      "stage": "published",
+      "generatedBy": {
+        "model": "zai/glm-4-plus",
+        "timestamp": "2026-03-05T15:00:00Z"
+      },
+      "qualityReport": {
+        "overallConfidence": 85,
+        "verdict": "PASS"
+      },
+      "publishResult": {
+        "ghost_post_id": "69a916efe2eb440001d559dc",
+        "status": "published"
+      }
+    }
+  ]
+}

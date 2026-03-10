@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-03-05T08:28:30.882825Z",
+  "pipeline_status": {
+    "01-sourced": 0,
+    "02-assigned": 0,
+    "03-reported": 0,
+    "04-drafted": 2,
+    "05-fact-checked": 0,
+    "06-desk-approved": 0,
+    "07-copy-edited": 5,
+    "08-published": 61
+  },
+  "summary": {
+    "total_published": 61,
+    "status": "⚠️  병목: 08-published (61개)"
+  },
+  "bottleneck": "08-published"
+}

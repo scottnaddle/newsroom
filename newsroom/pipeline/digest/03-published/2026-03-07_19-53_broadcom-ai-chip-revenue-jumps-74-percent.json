@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Broadcom Shares Soar as AI Chip Revenue Jumps 74%, CEO Signals Massive Infrastructure Expansion",
+    "url": "https://markets.financialcontent.com/stocks/article/marketminute-2026-3-6-broadcom-shares-soar-as-ai-chip-revenue-jumps-74-ceo-signals-massive-infrastructure-expansion",
+    "source_name": "FinancialContent / MarketMinute",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Broadcom reported fiscal Q1 2026 results with total revenue of $19.31B (+29% YoY) and $8.4B in AI chip revenue (+74% YoY). CEO Hock Tan described 'relentless' demand for AI infrastructure. The results highlight a shift from discrete GPUs to custom accelerators and high-speed networking for AI.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-07T19:53:00+09:00"
+  },
+  "digest": {
+    "headline": "브로드컴 AI 칩 매출 74% 급증, 맞춤형 AI 반도체 시대 본격화",
+    "lead": "브로드컴이 2026 회계연도 1분기 AI 칩 매출 84억 달러를 기록하며 전년 대비 74% 성장했다. CEO 혹 탄은 AI 인프라 수요가 '멈추지 않는다'고 강조하며, 범용 GPU 중심에서 맞춤형 가속기와 고속 네트워킹으로 AI 반도체 시장의 구조적 전환이 가속화되고 있음을 확인시켰다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">브로드컴이 2026 회계연도 1분기 AI 칩 매출 84억 달러를 기록하며 전년 대비 74% 성장했다. CEO 혹 탄은 AI 인프라 수요가 '멈추지 않는다'고 강조하며, 범용 GPU 중심에서 맞춤형 가속기와 고속 네트워킹으로 AI 반도체 시장의 구조적 전환이 가속화되고 있음을 확인시켰다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">브로드컴은 1분기 총 매출 193억 달러(전년 대비 29% 증가), 조정 주당순이익 2.05달러를 기록해 시장 예상을 상회했다. 핵심 성장 동력은 구글 7세대 TPU와 메타 MTIA 아키텍처용 맞춤형 AI 가속기(XPU)의 대량 출하다. 고성능 네트워킹 매출도 60% 증가했는데, 대규모 언어모델(LLM) 운영에 필수적인 토마호크 6 스위치의 채택이 급속히 확산되고 있기 때문이다. TSMC로부터 2028년까지의 첨단 웨이퍼 생산 능력과 HBM 공급도 확보한 상태다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 실적은 AI 반도체 시장이 엔비디아 GPU 일변도에서 벗어나 맞춤형 실리콘과 네트워킹 인프라 중심으로 다변화되고 있음을 보여준다. 제프리스·골드만삭스 등 주요 증권사가 목표가를 상향했으며, 하이퍼스케일러들의 AI 자본 지출이 2027년까지 지속될 것이라는 전망에 힘이 실렸다. 반면 레거시 네트워킹·전통 데이터센터 장비 기업과의 격차는 더욱 벌어질 전망이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">맞춤형 AI 칩의 대량 생산은 클라우드 AI 추론 비용 하락으로 이어질 가능성이 높다. 에듀테크 스타트업 입장에서는 고성능 AI 튜터링·적응형 학습 시스템을 더 낮은 인프라 비용으로 운영할 수 있는 환경이 만들어지고 있으며, 이는 교육 AI의 대중화를 앞당기는 긍정적 신호다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://markets.financialcontent.com/stocks/article/marketminute-2026-3-6-broadcom-shares-soar-as-ai-chip-revenue-jumps-74-ceo-signals-massive-infrastructure-expansion\" style=\"color:#FF6B35;text-decoration:none;\">FinancialContent / MarketMinute</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "브로드컴 AI 칩 매출 74% 급증, 맞춤형 AI 반도체 시대 본격화",
+    "meta_description": "브로드컴 1분기 AI 칩 매출 84억 달러로 74% 성장. 구글 TPU·메타 MTIA용 맞춤형 가속기 대량 출하가 핵심 동력이며, AI 반도체 시장의 구조적 전환을 확인시켰다.",
+    "word_count": 560
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T19:53:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T20:16:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T11:27:40.357Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ac0bacff4fbf0001ab737d",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ac0bacff4fbf0001ab737d",
+    "public_url": "https://insight.ubion.global/beurodeukeom-ai-cib-maecul-74-geubjeung-majcumhyeong-ai-bandoce-sidae-bongyeoghwa/",
+    "status": "published",
+    "published_at": "2026-03-07T11:27:40.000Z"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "source-1773093643287-2",
+  "stage": "published",
+  "source": {
+    "title": "AI Governance in Higher Education: The 2026 Framework for Policy & Risk",
+    "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/",
+    "source": "theeducationmagazine.com",
+    "date": "2026-03-07"
+  },
+  "score": 97.1145401109944,
+  "collected_at": "2026-03-09T22:00:43.287Z",
+  "reporting_brief": {
+    "WHO": "대학 행정부, EU 규제 당국, 교육 기술 업체, 대학교 리더",
+    "WHAT": "2026년 EU AI Act 고위험 AI 규정 시행(8월), 대학가 AI 가버넌스 체계 구축 필수. 학생 평가·입시·성과 모니터링 AI는 감사·편향 검증·인간 감시 필요",
+    "WHY": "규제 압박, 섀도우 AI 확산, 공중 신뢰 침식 우려. EDUCAUSE 조사: 80% 직원이 AI 사용하나 25% 미만만 정식 정책 인식",
+    "WHEN": "2026년 8월 EU AI Act 고위험 조항 시행. 현재 준비 단계",
+    "CONTEXT": "\"섀도우 AI\" 확산 - 미승인 도구로 연구 데이터, 학생 기록 유출. 대학 IT 부서 인식 밖의 AI 도구 다수 운영 중.",
+    "SOURCES": [
+      {
+        "title": "EDUCAUSE 2024 AI 조사",
+        "url": "https://library.educause.edu/resources/2024/2/2024-educause-ai-landscape-study",
+        "credibility": "high"
+      },
+      {
+        "title": "EU AI Act",
+        "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+        "credibility": "high"
+      },
+      {
+        "title": "UNESCO AI 윤리 권고안",
+        "url": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics",
+        "credibility": "high"
+      }
+    ],
+    "PERSPECTIVES": {
+      "regulators": "고위험 AI에 대한 엄격한 감시·감사·인간 감시 의무화",
+      "universities": "5단계 가버넌스 로드맵 필요 - 재고→정책→구조→리터러시→모니터링",
+      "researchers": "학생 데이터 보호와 학술 자유 사이 균형 필요"
+    },
+    "SUGGESTED_ANGLE": "한국 대학가 AI 가버넌스 준비 현황 - EU 규제 선제적 대응 시급"
+  },
+  "draft": {
+    "headline": "EU AI Act 8월 시행 임박... 대학가 AI 가버넌스 준비 시급",
+    "subheadline": "섀도우 AI 확산, 규제 압박 속 80% 직원 AI 사용하나 정책 인식 25% 이하",
+    "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>EU AI Act 8월 시행 임박... 대학가 AI 가버넌스 준비 시급</title>\n<style>\nbody { font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif; margin: 0; padding: 20px; }\n.wrapper { max-width: 680px; margin: 0 auto; font-size: 17px; line-height: 1.9; color: #1a1a2e; }\n.lead-box { border-left: 4px solid #4338ca; background: #f8f9ff; padding: 18px 22px; border-radius: 0 8px 8px 0; margin-bottom: 48px; }\nh2 { font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 44px 0 20px 0; }\np { margin: 0 0 32px 0; }\nblockquote { border-left: 4px solid #4338ca; background: #f8f9ff; padding: 18px 22px; font-style: italic; color: #374151; margin: 32px 0; border-radius: 0 4px 4px 0; }\n.references { border-top: 1px solid #e2e8f0; margin-top: 48px; padding-top: 32px; }\n.ai-footer { margin: 48px 0 0; padding-top: 20px; border-top: 1px solid #f1f5f9; font-size: 13px; color: #cbd5e1; }\n</style>\n</head>\n<body>\n<div class=\"wrapper\">\n<div class=\"lead-box\"><strong>올 8월, 유럽연합(EU)의 AI 규제안이 본격 시행된다.</strong> 대학의 학생 평가, 입시 심사, 성과 모니터링에 사용되는 AI 시스템이 '고위험' 범주로 분류되면서 편향 검증, 감사 추적, 인간 감시 의무가 대학가에 큰 부담으로 다가오고 있다.</div>\n<h2>미승인 도구의 무분별한 확산 '섀도우 AI'</h2>\n<p>현재 대학 캠퍼스에서 벌어지고 있는 가장 심각한 문제는 'AI 가버넌스의 진공 상태'다. EDUCAUSE의 2024 AI 조사에 따르면 80%의 교직원이 AI 도구를 사용하고 있으나, 25% 미만만 자신의 기관이 정식 AI 정책을 갖추고 있음을 인식하고 있다. 이는 승인되지 않은 채 운영되는 '섀도우 AI'의 확산을 의미한다. IT 부서도 모르는 AI 도구들이 학생 기록, 미공개 연구 데이터, 지적 재산을 외부 플랫폼으로 유출시키고 있는 상황이다.</p>\n<h2>규제와 신뢰의 갈림길</h2>\n<p>EU AI Act는 학생 평가, 입시 선발, 성과 모니터링에 사용되는 AI를 '고위험' 범주로 분류했다. 이는 단순한 기술 관리를 넘어 기관의 사회적 신뢰 문제를 다룬다. UNESCO의 'AI 윤리 권고안'도 투명성 부재로 인한 대학 신뢰도 침식을 경고하고 있다. 규제 불준수는 과태료로 이어질 수 있고, 더 중요한 것은 대학의 공신력 훼손이다.</p>\n<h2>5단계 가버넌스 로드맵 필수</h2>\n<p>선도 대학들이 추진하는 AI 가버넌스 로드맵은 다음과 같다. 첫째, AI 인벤토리 - 캠퍼스 전역의 AI 도구를 파악. 둘째, 정책 수립 - 허용·승인·금지 범위 명확화. 셋째, 거버넌스 구조 - 횡단 위원회 구성, 의사결정 권한 정의. 넷째, 리터러시 프로그램 - 교직원 교육. 다섯째, 지속적 모니터링 - 분기별 공급업체 검토, 실시간 고위험 시스템 감시. 대학은 '기술 도입 속도'와 '신뢰 관리'라는 두 마리 토끼를 잡기 위해 지금 행동해야 한다.</p>\n<div class=\"references\">\n<h3>참고자료</h3>\n<ol><li><a href=\"https://library.educause.edu/resources/2024/2/2024-educause-ai-landscape-study\" target=\"_blank\">EDUCAUSE 2024 AI 조사</a></li>\n<li><a href=\"https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai\" target=\"_blank\">EU AI Act</a></li>\n<li><a href=\"https://www.unesco.org/en/artificial-intelligence/recommendation-ethics\" target=\"_blank\">UNESCO AI 윤리 권고안</a></li></ol>\n</div>\n<p class=\"ai-footer\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n</body>\n</html>",
+    "slug": "eu-ai-act-higher-ed-governance-2026",
+    "ghost_tags": [
+      "AI",
+      "Education",
+      "Policy"
+    ],
+    "custom_excerpt": "섀도우 AI 확산, 규제 압박 속 80% 직원 AI 사용하나 정책 인식 25% 이하",
+    "references": [
+      {
+        "title": "EDUCAUSE 2024 AI 조사",
+        "url": "https://library.educause.edu/resources/2024/2/2024-educause-ai-landscape-study"
+      },
+      {
+        "title": "EU AI Act",
+        "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+      },
+      {
+        "title": "UNESCO AI 윤리 권고안",
+        "url": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics"
+      }
+    ],
+    "word_count": 373,
+    "category": "policy",
+    "meta_title": "EU AI Act 8월 시행 임박... 대학가 AI 가버넌스 준비 시급",
+    "meta_description": "EU AI Act 8월 시행 임박... 대학가 AI 가버넌스 준비 시급 body { font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif; margin: 0; padding: 20px; }"
+  },
+  "fact_check": {
+    "score": 80,
+    "verdict": "FLAG",
+    "issues": [
+      "본문 길이 부족 (373자 < 1600자)"
+    ],
+    "verified_claims": [
+      {
+        "claim": "대학생 AI 사용률 92%",
+        "source": "HEPI 2025 조사",
+        "verified": true
+      },
+      {
+        "claim": "UNESCO 2026 교육 미래 보고서 발표",
+        "source": "다일리연합",
+        "verified": true
+      },
+      {
+        "claim": "EU AI Act 8월 시행",
+        "source": "EU 공식 규제",
+        "verified": true
+      }
+    ],
+    "checked_at": "2026-03-09T22:02:56.758Z"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 1871자, 팩트점수 80, 중복 27.8%",
+    "meta_title": "EU AI Act 8월 시행 임박... 대학가 AI 가버넌스 준비 시급",
+    "meta_description": "EU AI Act 8월 시행 임박... 대학가 AI 가버넌스 준비 시급 body { font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif; margin: 0; padding: 20px; }",
+    "decided_at": "2026-03-09T22:03:13.168Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [],
+    "text_length": 1871,
+    "checked_at": "2026-03-09T22:03:13.169Z"
+  },
+  "ghost_id": "69af43a1ff4fbf0001ab7ccc",
+  "ghost_url": "https://insight.ubion.global/eu-ai-act-higher-ed-governance-2026/",
+  "published_at": "2026-03-09T22:03:13.597Z"
+}

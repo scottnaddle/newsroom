@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "AI may not need massive training data after all",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251228074457.htm",
+    "source_name": "ScienceDaily",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Researchers redesigned AI systems to better resemble biological brains and discovered that some models produced brain-like activity without any training at all. This research challenges the current data-hungry approach to AI development and opens new possibilities for more efficient AI training.",
+    "published_date": "2025-12-28",
+    "collected_at": "2026-03-05T23:02:49Z"
+  },
+  "digest": {
+    "headline": "뇌구조 모방 AI, 학습 데이터 없이도 뇌 활동 패턴 재현",
+    "lead": "존스홉킨스 대학 연구팀이 생물학적 뇌 구조를 모방한 인공신경망은 훈련 데이터 없이도 인간의 뇌 활동 패턴을 재현할 수 있다는 연구 결과를 발표했습니다. 이는 기존의 방대한 데이터 학습 방식에 의존한 AI 개발 패러다임에 근본적인 의문을 제기합니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">존스홉킨스 대학 연구팀이 생물학적 뇌 구조를 모방한 인공신경망은 훈련 데이터 없이도 인간의 뇌 활동 패턴을 재현할 수 있다는 연구 결과를 발표했습니다. 이는 기존의 방대한 데이터 학습 방식에 의존한 AI 개발 패러다임에 근본적인 의문을 제기합니다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">현재 AI 개발 업계는 방대한 데이터셋과 막대한 컴퓨팅 자원에 투자해 모델을 학습시키는 방식을 주류로 삼고 있습니다. 반면 인간은 매우 적은 양의 데이터로 학습합니다. 이 연구팀은 세 가지 주요 신경망 아키텍처인 트랜스포머, 완전연결망, 합성곱신경망(CNN)의 구조를 변경해 실험했습니다. 흥미롭게도 CNN 구조를 조정했을 때 훈련되지 않은 모델도 수백만 장의 이미지로 학습한 전통적 AI와 유사한 성능을 보였습니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 발견은 AI 시스템의 성능이 '얼마나 많은 데이터를 학습했는가'만큼이나 '어떤 구조로 설계되었는가'에 크게 영향을 받는다는 점을 시사합니다. 연구팀은 생물학 원리에 기반한 단순한 학습 방법을 통해 새로운 세대의 딥러닝 프레임워크를 개발할 수 있을 것으로 전망하고 있으며, 이는 AI 모델을 더 빠르고 효율적이면서도 방대한 데이터에 덜 의존하게 할 수 있습니다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">더 적은 학습 데이터로 효과적인 AI를 개발할 수 있다면 교육 현장에서의 AI 도입이 획기적으로 쉬워질 수 있습니다. 현재 개인정보 보호와 데이터 수집의 어려움으로 교실 기반 AI 시스템 개발이 제약되어 왔는데, 이 연구 결과가 실제로 응용되면 소규모 학교나 지역 교육청도 제한된 학생 데이터로 맞춤형 학습 시스템을 구축할 수 있게 됩니다. 또한 학생 개인정보 보호 우려를 크게 낮추면서도 효과적인 적응형 학습(adaptive learning) 기술을 개발할 수 있는 길을 열어줍니다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.sciencedaily.com/releases/2025/12/251228074457.htm\" style=\"color:#FF6B35;text-decoration:none;\">ScienceDaily</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "research"
+    ],
+    "meta_title": "뇌구조 모방 AI, 학습 데이터 없이도 뇌 활동 패턴 재현",
+    "meta_description": "존스홉킨스 대학이 아키텍처만으로 뇌 활동 패턴을 재현하는 AI 모델 발견, 데이터 의존도 낮은 새로운 AI 개발 가능성 제시",
+    "word_count": 585
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-05T23:02:49Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T23:05:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T14:29:31.096Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a9934a1e4e8000016eb345",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a9934a1e4e8000016eb345",
+    "public_url": "https://ubion.ghost.io/noegujo-mobang-ai-hagseub-deiteo-eobsido-noe-hwaldong-paeteon-jaehyeon/",
+    "status": "published",
+    "published_at": "2026-03-05T14:29:31.096Z"
+  }
+}

@@ -1,0 +1,383 @@
+/* Agent Control Center Styles */
+
+:root {
+  --bg-primary: #0f172a;
+  --bg-secondary: #1e293b;
+  --bg-card: #334155;
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --success: #10b981;
+  --warning: #f59e0b;
+  --danger: #ef4444;
+  --info: #3b82f6;
+  --purple: #8b5cf6;
+  --pink: #ec4899;
+  --cyan: #06b6d4;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.dashboard {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 30px;
+  background: var(--bg-secondary);
+  border-radius: 12px;
+  margin-bottom: 24px;
+}
+
+.header h1 {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.header-meta {
+  display: flex;
+  gap: 20px;
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+.connection-status {
+  padding: 4px 12px;
+  border-radius: 12px;
+  background: var(--bg-card);
+}
+
+.connection-status.connected {
+  background: var(--success);
+  color: white;
+}
+
+/* Pipeline Flow */
+.pipeline-flow {
+  background: var(--bg-secondary);
+  border-radius: 12px;
+  padding: 24px;
+  margin-bottom: 24px;
+}
+
+.pipeline-flow h2 {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.flow-diagram {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  overflow-x: auto;
+  padding: 10px 0;
+}
+
+.stage-box {
+  min-width: 120px;
+  padding: 16px 20px;
+  background: var(--bg-card);
+  border-radius: 8px;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.stage-box.active {
+  background: var(--success);
+  color: white;
+}
+
+.stage-box.warning {
+  background: var(--warning);
+  color: white;
+}
+
+.stage-box.danger {
+  background: var(--danger);
+  color: white;
+}
+
+.stage-name {
+  font-size: 12px;
+  opacity: 0.8;
+  margin-bottom: 4px;
+}
+
+.stage-count {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.arrow {
+  color: var(--text-secondary);
+  font-size: 20px;
+}
+
+/* Agent Cards */
+.agents-grid {
+  background: var(--bg-secondary);
+  border-radius: 12px;
+  padding: 24px;
+  margin-bottom: 24px;
+}
+
+.agents-grid h2 {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 16px;
+}
+
+.agent-card {
+  background: var(--bg-card);
+  border-radius: 12px;
+  padding: 20px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-left: 4px solid transparent;
+}
+
+.agent-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.agent-card.active {
+  border-left-color: var(--success);
+}
+
+.agent-card.idle {
+  border-left-color: var(--warning);
+}
+
+.agent-card.error {
+  border-left-color: var(--danger);
+}
+
+.agent-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.agent-header h3 {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.agent-status {
+  padding: 4px 12px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.agent-status.running {
+  background: var(--success);
+  color: white;
+}
+
+.agent-status.idle {
+  background: var(--warning);
+  color: white;
+}
+
+.agent-status.error {
+  background: var(--danger);
+  color: white;
+}
+
+.agent-metrics {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.metric-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+}
+
+.metric-label {
+  color: var(--text-secondary);
+}
+
+.metric-value {
+  font-weight: 600;
+}
+
+/* Metrics Section */
+.metrics-section {
+  background: var(--bg-secondary);
+  border-radius: 12px;
+  padding: 24px;
+  margin-bottom: 24px;
+}
+
+.metrics-section h2 {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+}
+
+.metric-card {
+  background: var(--bg-card);
+  border-radius: 12px;
+  padding: 24px;
+  text-align: center;
+}
+
+.metric-card .metric-value {
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.metric-card .metric-label {
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+/* Alerts */
+.alerts-section {
+  background: var(--bg-secondary);
+  border-radius: 12px;
+  padding: 24px;
+}
+
+.alerts-section h2 {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.alerts-list {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.alert-item {
+  padding: 12px 16px;
+  border-radius: 8px;
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+.alert-item.info {
+  background: rgba(59, 130, 246, 0.2);
+  border-left: 3px solid var(--info);
+}
+
+.alert-item.warning {
+  background: rgba(245, 158, 11, 0.2);
+  border-left: 3px solid var(--warning);
+}
+
+.alert-item.danger {
+  background: rgba(239, 68, 68, 0.2);
+  border-left: 3px solid var(--danger);
+}
+
+.no-alerts {
+  text-align: center;
+  color: var(--text-secondary);
+  padding: 40px;
+}
+
+/* Modal */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+}
+
+.modal-overlay.active {
+  opacity: 1;
+  visibility: visible;
+}
+
+.modal {
+  background: var(--bg-secondary);
+  border-radius: 16px;
+  padding: 32px;
+  max-width: 600px;
+  width: 90%;
+  max-height: 80vh;
+  overflow-y: auto;
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.modal-header h2 {
+  font-size: 20px;
+}
+
+.modal-close {
+  background: none;
+  border: none;
+  color: var(--text-secondary);
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.modal-content {
+  /* Dynamic content */
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    gap: 12px;
+    text-align: center;
+  }
+
+  .flow-diagram {
+    flex-wrap: nowrap;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}

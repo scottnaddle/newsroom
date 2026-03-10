@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "World Labs Secures $1 Billion Funding Round for Spatial Intelligence Systems",
+    "url": "https://ventureburn.com/from-idea-to-investment-what-venture-capital-actually-sees-in-ai-startups/",
+    "source_name": "VentureBurn",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Fei-Fei Li's World Labs secured a $1 billion funding round to advance spatial intelligence systems in February 2026. The funding reflects growing investor interest in AI infrastructure and foundational AI research.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-06T23:25:00+09:00"
+  },
+  "digest": {
+    "headline": "Fei-Fei Li의 월드랩스, 공간지능 개발 위해 1조 원 투자 유치",
+    "lead": "AI계의 '신의 어머니'로 불리는 페이페이 리(Fei-Fei Li) 교수가 설립한 월드랩스가 10억 달러(약 1조 4,000억 원) 규모의 펀딩을 완료했다. 이 자금은 3D 공간 이해와 물리적 세계 인식을 담당하는 '공간지능(Spatial Intelligence)' 시스템 개발에 투입된다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">AI계의 '신의 어머니'로 불리는 페이페이 리(Fei-Fei Li) 교수가 설립한 월드랩스가 10억 달러(약 1조 4,000억 원) 규모의 펀딩을 완료했다. 이 자금은 3D 공간 이해와 물리적 세계 인식을 담당하는 '공간지능(Spatial Intelligence)' 시스템 개발에 투입된다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">스탠퍼드대 페이페이 리 교수는 ImageNet 프로젝트로 딥러닝 혁명을 이끌었다. 그가 설립한 월드랩스는 시각 정보를 넘어 3차원 공간을 이해하고 물리적 세계와 상호작용하는 AI 시스템을 개발 중이다. 공간지능은 자율주행, 로봇공학, 증강현실(AR), 가상현실(VR) 등 차세대 AI 응용의 핵심 기술로 꼽힌다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 투자는 투자자들이 기초 AI 연구와 인프라 기술에 여전히 큰 관심을 두고 있음을 보여준다. 언어모델 경쟁이 치열한 가운데, 공간지능은 상대적으로 덜 탐험된 '블루오션'으로 평가받는다. 월드랩스는 메타, 구글, 애플 등 빅테크와 협력하거나 경쟁하며 시장을 개척할 것으로 전망된다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">공간지능 기술은 에듀테크에 혁신적 변화를 가져올 수 있다. 가상 실험실, 3D 시뮬레이션 기반 학습, 몰입형 과학·공학 교육 콘텐츠 제작이 가능해진다. 특히 화학 분자 구조, 천체 운동, 기계 작동 원리 등을 3D로 체험하는 인터랙티브 학습 환경 구축에 핵심 기술이 될 것이다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://ventureburn.com/from-idea-to-investment-what-venture-capital-actually-sees-in-ai-startups/\" style=\"color:#FF6B35;text-decoration:none;\">VentureBurn</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "spatial-intelligence",
+      "research"
+    ],
+    "meta_title": "Fei-Fei Li 월드랩스, 공간지능 개발 위해 1조 원 투자 유치 | AI Digest",
+    "meta_description": "페이페이 리 교수의 월드랩스가 10억 달러를 유치해 공간지능 시스템을 개발한다. 에듀테크 분야에 미치는 영향을 분석한다.",
+    "word_count": 540
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T23:25:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T23:33:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T14:52:53.662Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aaea45ff4fbf0001ab7028",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aaea45ff4fbf0001ab7028",
+    "public_url": "https://ubion.ghost.io/fei-fei-liyi-weoldeuraebseu-gongganjineung-gaebal-wihae-1jo-weon-tuja-yuci/",
+    "status": "published",
+    "published_at": "2026-03-06T14:52:53.662Z"
+  }
+}

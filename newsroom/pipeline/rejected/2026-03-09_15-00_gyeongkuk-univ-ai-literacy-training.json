@@ -1,0 +1,33 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=821481",
+    "title": "국립경국대 안동MBC 대상 AI 리터러시 교육 실시",
+    "snippet": "국립경국대학교 K-하이테크플랫폼 사업단이 안동MBC 임직원과 파견직원을 대상으로 인공지능(AI) 리터러시 교육을 진행했다. 미디어 산업 현장에서의 AI 활용 확대.",
+    "published_date": "2026-03-04"
+  },
+  "relevance_score": 67,
+  "tags": [
+    "AI-literacy",
+    "media",
+    "training"
+  ],
+  "collected_at": "2026-03-09T06:00:00.000Z",
+  "rejection_reason": "지방 단발성 교육 행사. 규모·영향력 부족. 전국 독자 관심도 낮음.",
+  "rejected_at": "2026-03-09T06:05:00.000Z",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

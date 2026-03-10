@@ -1,0 +1,65 @@
+{
+  "timestamp": "2026-03-06T03:31:00Z",
+  "pipeline_check": "editor-desk (매 30분 점검)",
+  "summary": "✅ 파이프라인 정상 — 모든 처리 단계 비어있음. 현재 64개 기사 발행 대기 중.",
+  
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "status": "✅ 대기 없음"
+    },
+    "02_assigned": {
+      "total": 0,
+      "status": "✅ 대기 없음"
+    },
+    "03_reported": {
+      "total": 0,
+      "status": "✅ 대기 없음"
+    },
+    "04_drafted": {
+      "total": 0,
+      "status": "✅ 병목 해소 (이전 4개 처리 완료)"
+    },
+    "05_fact_checked": {
+      "total": 0,
+      "status": "✅ 처리 완료"
+    },
+    "06_desk_approved": {
+      "total": 0,
+      "status": "✅ 처리 완료"
+    },
+    "07_copy_edited": {
+      "total": 0,
+      "status": "✅ 처리 완료"
+    },
+    "08_published": {
+      "total": 76,
+      "status": "📤 발행 대기 (Ghost CMS 업로드 필요)"
+    },
+    "rejected": {
+      "total": 48,
+      "status": "⛔ 품질 미달 거부"
+    }
+  },
+  
+  "health_check": {
+    "pipeline_flow": "✅ 정상",
+    "bottleneck": "❌ 없음",
+    "actions_pending": [
+      "📤 Ghost CMS Publisher: 76개 기사 발행 (08-published/)",
+      "📊 Daily digest 생성 (현재 발행 대기 중인 기사 기반)"
+    ],
+    "next_run": "2026-03-06T04:01:00Z (30분 후)"
+  },
+  
+  "quality_metrics": {
+    "total_articles": 124,
+    "published": 76,
+    "rejected": 48,
+    "in_pipeline": 0,
+    "acceptance_rate": "61.3% (76/124)",
+    "rejection_rate": "38.7% (48/124)"
+  },
+  
+  "editor_notes": "파이프라인 시스템이 완벽하게 작동 중입니다. 모든 처리 단계가 명확하게 분리되어 있으며, 자동 라우팅이 효율적으로 진행되고 있습니다. 현재 우선순위: Ghost CMS 발행 에이전트 실행."
+}

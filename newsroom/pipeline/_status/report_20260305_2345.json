@@ -1,0 +1,59 @@
+{
+  "timestamp": "2026-03-05T23:45:00+09:00",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "status": "✅ 처리 완료"
+    },
+    "02_assigned": {
+      "total": 2,
+      "files": [
+        "2026-03-05_unn590453.json (우선도: high)",
+        "2026-03-05_mt2026030313051850252.json (우선도: high)"
+      ],
+      "status": "⏳ 취재기자 처리 대기"
+    },
+    "03_reported": {
+      "total": 0,
+      "status": "✅ 비움"
+    },
+    "04_drafted": {
+      "total": 0,
+      "status": "✅ 비움"
+    },
+    "05_fact_checked": {
+      "total": 0,
+      "status": "✅ 비움"
+    },
+    "06_desk_approved": {
+      "total": 0,
+      "status": "✅ 비움"
+    },
+    "07_copy_edited": {
+      "total": 0,
+      "status": "✅ 비움"
+    },
+    "08_published": {
+      "total": 75,
+      "status": "✅ 발행 완료"
+    },
+    "rejected": {
+      "total": 47,
+      "status": "❌ 거부됨"
+    }
+  },
+  "action_summary": {
+    "completed": [
+      "✅ 01-sourced에서 관련성 82-85점 기사 2건 발견",
+      "✅ 02-assigned/로 우선도 HIGH로 배정",
+      "✅ 취재 지침 추가 (균형잡힌 관점 강조)"
+    ],
+    "pending": [
+      "⏳ 취재기자가 2건 기사 처리할 때까지 대기",
+      "⏳ 취재 완료 후 → 03-reported/"
+    ],
+    "bottleneck": "현재 병목 없음. 2건 배정 대기 중.",
+    "next_action": "취재기자(writer) 작업 진행 모니터링"
+  },
+  "note": "AI 교육 정책 변화 (대학교 차원) 특집 준비 중. 두 건 모두 시의성 높음 (2026년 3월 초 발표). 작성자는 정책 배경, 대학별 사례, 학생/교사 반응 모두 포함 필요."
+}

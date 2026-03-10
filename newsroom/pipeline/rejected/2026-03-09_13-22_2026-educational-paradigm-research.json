@@ -1,0 +1,33 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.researchsquare.com/article/rs-8480176/v1",
+    "title": "The 2026 Educational Paradigm: Learning Agility, Perceptiveness, and the Reimagined University in the Age of AI",
+    "snippet": "Projections for 2026 increasingly identify learning agility and adaptability as the defining professional competency, superseding proficiency in any single technological tool or platform.",
+    "published_date": "2026-03-06"
+  },
+  "relevance_score": 70,
+  "tags": [
+    "research",
+    "higher-education",
+    "paradigm"
+  ],
+  "collected_at": "2026-03-09T04:22:00.000Z",
+  "rejected_at": "2026-03-09T04:35:00.000Z",
+  "reject_reason": "학술 프리프린트, 대중 뉴스 가치 부족",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

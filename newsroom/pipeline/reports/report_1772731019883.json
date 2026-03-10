@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-03-05T17:16:59.840Z",
+  "pipeline_status": {
+    "01_sourced": 2,
+    "02_assigned": 2,
+    "03_reported": 0,
+    "04_drafted": 0,
+    "05_fact_checked": 0,
+    "06_desk_approved": 0,
+    "07_copy_edited": 0,
+    "08_published": 76,
+    "rejected": 48
+  },
+  "queue": 23,
+  "bottleneck": "08_published (76개)",
+  "action_needed": "⚠️ 08_published (76개) — review priority",
+  "summary": {
+    "total_queued": 23,
+    "total_in_pipeline": 128,
+    "published_today": 76,
+    "timestamp_kst": "2026. 3. 6. AM 2:16:59"
+  }
+}

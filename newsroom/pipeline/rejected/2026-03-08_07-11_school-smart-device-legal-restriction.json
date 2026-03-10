@@ -1,0 +1,33 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://dazabi.com/insurance_magazine/article.php?id=8900",
+    "title": "새학기 개학을 앞두고 학교 내 스마트기기 사용이 법률로 제한",
+    "snippet": "법제처가 2026년 3월 6일 3월 시행법령 소개. 학교 내 스마트기기 사용이 법률로 제한됨.",
+    "published_date": "2026-03-07"
+  },
+  "relevance_score": 75,
+  "tags": [
+    "policy",
+    "K-12",
+    "device-restriction"
+  ],
+  "collected_at": "2026-03-07T22:13:14.911Z",
+  "rejection_reason": "duplicate: already published",
+  "rejected_at": "2026-03-08T07:37:00+09:00",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

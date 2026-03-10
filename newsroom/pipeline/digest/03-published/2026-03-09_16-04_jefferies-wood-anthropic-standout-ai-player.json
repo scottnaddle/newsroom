@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Christopher Wood sees Anthropic as the standout player in evolving AI landscape",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/christopher-wood-sees-anthropic-as-the-standout-player-in-evolving-ai-landscape/articleshow/129310983.cms",
+    "source_name": "Economic Times",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Jefferies strategist Christopher Wood identifies Anthropic as the most interesting company in the AI story, noting it leads in enterprise monetization over OpenAI. He warns that the three-year hyperscaler capex binge, driven more by fear of missing out than clear returns, raises questions about AI investment sustainability.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-09T16:04:00+09:00"
+  },
+  "digest": {
+    "headline": "Anthropic, 엔터프라이즈 수익화 면에서 OpenAI를 추월하다",
+    "lead": "제프리스의 전략가 크리스토퍼 우드는 Anthropic을 현재 AI 생태계에서 가장 주목할 기업으로 평가했습니다. Anthropic이 엔터프라이즈 수익화 면에서 OpenAI를 앞서고 있으며, 3년간 이어진 하이퍼스케일러의 과도한 자본지출이 실제 수익성 없이 '기술 추격 공포(FOMO)'에 의해 주도되고 있다고 경고했습니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">제프리스의 전략가 크리스토퍼 우드는 Anthropic을 현재 AI 생태계에서 가장 주목할 기업으로 평가했습니다. Anthropic이 엔터프라이즈 수익화 면에서 OpenAI를 앞서고 있으며, 3년간 이어진 하이퍼스케일러의 과도한 자본지출이 실제 수익성 없이 '기술 추격 공포(FOMO)'에 의해 주도되고 있다고 경고했습니다.</p>\n  </div>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">OpenAI와 Google, Meta 등 대형 기업들의 거대한 AI 투자 경쟁이 계속되는 가운데, Anthropic은 더 효율적인 사업 모델로 엔터프라이즈 시장에서 실제 수익을 창출하고 있습니다. 우드는 하이퍼스케일러들의 막대한 자본지출(Capex)이 실제 성과로 이어지지 못하고 있으며, 이는 AI 시장의 거품 가능성을 시사한다고 분석했습니다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이는 AI 시장의 성숙화를 의미합니다. 초기의 기술 경쟁 단계에서 실제 사업성 있는 모델로의 전환이 진행 중이며, 대규모 자본 투입만으로는 시장을 지배할 수 없다는 점을 드러냅니다. 향후 AI 기업들의 가치는 기술력보다 실제 엔터프라이즈 고객 확보와 지속 가능한 수익 모델에 의해 결정될 것으로 전망됩니다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">교육 기관과 에듀테크 기업들에게 중요한 신호입니다. 과도한 투자로 무장한 거대 AI 기업보다, 실제 교육 현장의 문제를 해결하고 명확한 ROI를 제시하는 중소 AI 벤처가 더 신뢰받을 수 있다는 의미입니다. 학교와 교육 기관은 기술의 화려함보다 실제 학습 효과와 비용 효율성으로 AI 솔루션을 평가해야 합니다.</p>\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://economictimes.indiatimes.com/markets/us-stocks/news/christopher-wood-sees-anthropic-as-the-standout-player-in-evolving-ai-landscape/articleshow/129310983.cms\" style=\"color:#FF6B35;text-decoration:none;\">Economic Times</a></p>\n  </div>\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "Anthropic, 엔터프라이즈 수익화에서 OpenAI를 추월",
+    "meta_description": "제프리스 전략가가 Anthropic을 AI 생태계 최고 기업으로 평가. 엔터프라이즈 수익화 우위와 하이퍼스케일러 투자 거품 경고",
+    "word_count": 508
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T16:04:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T18:15:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T09:34:45.638Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae9435ff4fbf0001ab796e",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae9435ff4fbf0001ab796e/",
+    "public_url": "https://ubion.ghost.io/anthropic-enteopeuraijeu-suighwa-myeoneseo-openaireul-cuweolhada/",
+    "status": "published",
+    "published_at": "2026-03-09T09:34:45.638Z"
+  }
+}

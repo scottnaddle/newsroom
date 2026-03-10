@@ -1,0 +1,43 @@
+{
+  "id": "source_005",
+  "stage": "rejected",
+  "draft": {
+    "headline": "글로벌 'AI 교육 거버넌스' 강화 움직임…한국 교육의 선택지는"
+  },
+  "fact_check": {
+    "score": 92,
+    "verdict": "PASS",
+    "verified_claims": [
+      {
+        "claim": "영국 의회 교육특별위원회 2월 26일 조사 시작",
+        "source": "kjob.news",
+        "status": "verified"
+      },
+      {
+        "claim": "영국 교사 60% AI 사용, 20%는 매일 사용",
+        "source": "kjob.news (School's Week 설문)",
+        "status": "verified"
+      },
+      {
+        "claim": "미국 하원 2월 24일 청문회",
+        "source": "kjob.news",
+        "status": "verified"
+      },
+      {
+        "claim": "마이크로소프트 AI 리터러시, 가드레일, 교실 친화적 도구 제시",
+        "source": "kjob.news",
+        "status": "verified"
+      }
+    ],
+    "issues": [],
+    "quality_score": {
+      "structure": "pass",
+      "readability": "pass",
+      "completeness": "pass"
+    }
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

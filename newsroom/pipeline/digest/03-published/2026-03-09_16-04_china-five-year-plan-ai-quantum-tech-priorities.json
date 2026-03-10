@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "China's latest economic plans highlight its tech ambitions and rivalry with the US",
+    "url": "https://apnews.com/article/china-five-year-plan-technology-economy-7face4580fcfba44410ff2134a09d6bb",
+    "source_name": "AP News",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "China's new five-year plan presented at the National People's Congress prioritizes AI, quantum technology, and biotechnology as strategic frontiers. President Xi Jinping called for 'seizing the strategic high ground of science and technology,' signaling intensified competition with the US in advanced tech sectors.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-09T16:04:00+09:00"
+  },
+  "digest": {
+    "headline": "중국, 5개년 계획에서 AI·양자기술을 전략적 최우선으로 선정",
+    "lead": "중국이 전국인민대표대회에서 발표한 신규 5개년 계획은 AI, 양자기술, 바이오기술을 과학기술의 전략적 고지로 지정했습니다. 시진핑 주석이 '과학기술의 전략적 고지를 점령할 것'을 강조하면서 미국과의 첨단 기술 경쟁이 더욱 심화될 전망입니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">중국이 전국인민대표대회에서 발표한 신규 5개년 계획은 AI, 양자기술, 바이오기술을 과학기술의 전략적 고지로 지정했습니다. 시진핑 주석이 '과학기술의 전략적 고지를 점령할 것'을 강조하면서 미국과의 첨단 기술 경쟁이 더욱 심화될 전망입니다.</p>\n  </div>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">중국 정부는 경제 성장의 원동력을 기술 혁신으로 설정하고, AI와 양자컴퓨팅 등 첨단 기술 개발에 대규모 자원을 투입할 계획입니다. 이는 미국과의 기술 주도권 경쟁에서 우위를 확보하려는 전략적 움직임으로, 5개년 계획을 통해 국가 차원의 조율과 지원을 강화하겠다는 의지를 드러냅니다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 결정은 글로벌 AI 산업의 지정학적 경쟁이 심화됨을 의미합니다. 중국의 공격적인 투자는 AI 칩, 알고리즘, 인프라 분야에서 기술 우위를 확보하려는 노력이며, 향후 5년간 AI 시장의 판도 변화와 국제 규제 논의에 영향을 미칠 것으로 예상됩니다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">중국의 AI 투자 강화는 아시아 권역의 에듀테크 스타트업들에게 양날의 검이 될 수 있습니다. 한편으로는 중국 시장의 AI 교육 솔루션 수요 증가를 의미하지만, 다른 한편으로는 중국 정부 지원을 받는 현지 기업들의 경쟁력 강화로 국제 스타트업들의 진입 장벽이 높아질 수 있습니다.</p>\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://apnews.com/article/china-five-year-plan-technology-economy-7face4580fcfba44410ff2134a09d6bb\" style=\"color:#FF6B35;text-decoration:none;\">AP News</a></p>\n  </div>\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "중국 5개년 계획, AI·양자기술 전략 최우선 선정",
+    "meta_description": "중국 5개년 계획에서 AI, 양자기술, 바이오 기술을 전략적 고지로 설정. 미국과의 기술 경쟁 심화 예상",
+    "word_count": 502
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T16:04:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T18:15:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T09:34:45.411Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae9435ff4fbf0001ab7966",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae9435ff4fbf0001ab7966/",
+    "public_url": "https://ubion.ghost.io/junggug-5gaenyeon-gyehoegeseo-ai-yangjagisuleul-jeonryagjeog-coeuseoneuro-seonjeong/",
+    "status": "published",
+    "published_at": "2026-03-09T09:34:45.411Z"
+  }
+}

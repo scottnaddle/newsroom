@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Top Startup and Tech Funding News – March 5, 2026",
+    "url": "https://techstartups.com/2026/03/05/top-startup-and-tech-funding-news-march-5-2025/",
+    "source_name": "Tech Startups",
+    "language": "en",
+    "relevance_score": 92,
+    "summary": "Major AI funding roundup including OpenAI's historic $110B private round for global AI infrastructure expansion. Other notable deals: Vast ($300M Series A for commercial space stations), Science Corp ($230M Series C for brain-computer interfaces), PLD Space ($209M Series C for reusable rockets), Nominal Inc ($80M Series B for defense/industrial testing automation), Sage ($65M Series C for AI senior care), Lio ($30M Series A for enterprise procurement AI), and more.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-07T14:48:00+09:00"
+  },
+  "digest": {
+    "headline": "오픈AI 1100억 달러, 역대 최대 투자…AI 인프라 확장 가속화",
+    "lead": "오픈AI가 사상 최대 규모인 1100억 달러(약 150조 원)를 유치하며 기업가치 8400억 달러를 기록했다. 아마존이 500억 달러, 소프트뱅크와 엔비디아가 각각 300억 달러를 투자했다. 같은 날 뇌-컴퓨터 인터페이스, 상업용 우주정거장, AI 기반 요양 케어 등 다양한 분야에서 대규모 투자가 이어졌다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">오픈AI가 사상 최대 규모인 1100억 달러(약 150조 원)를 유치하며 기업가치 8400억 달러를 기록했다. 아마존이 500억 달러, 소프트뱅크와 엔비디아가 각각 300억 달러를 투자했다. 같은 날 뇌-컴퓨터 인터페이스, 상업용 우주정거장, AI 기반 요양 케어 등 다양한 분야에서 대규모 투자가 이어졌다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">3월 5일 투자 라운드업에서 오픈AI의 1100억 달러 규모가 압도적이지만 그 외에도 주목할 딜이 이어졌다. 뇌-컴퓨터 인터페이스 개발사 Science Corp(2억 3000만 달러 C라운드)는 시각 회복 임플란트 상용화에 나선다. 상업용 우주정거장 개발사 Vast(3억 달러 A라운드), 스페인 재사용 로켓 기업 PLD Space(2억 900만 달러 C라운드)도 대규모 자금을 확보했다. AI 기반 요양 케어 플랫폼 Sage(6500만 달러 C라운드)와 기업 조달 자동화 Lio(3000만 달러 A라운드)도 투자를 유치했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">오픈AI 투자는 AI 인프라 확장이 글로벌 최우선 과제임을 보여준다. 샘 올트먼 CEO는 \"프론티어 AI가 일상적으로 사용되면서 인프라 규모가 중요해졌다\"고 밝혔다. 주당 9억 명의 주간 사용자를 보유한 오픈AI는 새 자금으로 연구 개발과 차세대 컴퓨팅을 가속화할 계획이다. 한편 Science Corp의 뇌 임플란트는 47명 시각장애 환자 중 80%가 의미 있는 시력 회복을 경험해 상용화 가능성을 입증했다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">오픈AI의 대규모 인프라 확장은 교육 분야 AI 서비스의 품질과 접근성을 높일 것으로 기대된다. 특히 Science Corp의 뇌-컴퓨터 인터페이스는 시각장애 학생을 위한 새로운 학습 도구 가능성을 열어준다. 또한 Sage의 AI 기반 케어 플랫폼 기술은 특수교육 및 돌봄 교육 현장의 안전 모니터링 시스템에도 적용될 수 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://techstartups.com/2026/03/05/top-startup-and-tech-funding-news-march-5-2025/\" style=\"color:#FF6B35;text-decoration:none;\">Tech Startups</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "openai",
+      "funding"
+    ],
+    "meta_title": "오픈AI 1100억 달러 투자 유치, 역대 최대 규모",
+    "meta_description": "오픈AI가 아마존·소프트뱅크·엔비디아로부터 1100억 달러를 유치했다. 기업가치 8400억 달러로 사상 최대 벤처 딜이다.",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T14:48:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T16:10:35+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T07:22:29.068Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69abd234ff4fbf0001ab7322",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69abd234ff4fbf0001ab7322",
+    "public_url": "https://ubion.ghost.io/opeunai-1100eog-dalreo-yeogdae-coedae-tuja-ai-inpeura-hwagjang-gasoghwa/",
+    "status": "published",
+    "published_at": "2026-03-07T07:22:29.068Z"
+  }
+}

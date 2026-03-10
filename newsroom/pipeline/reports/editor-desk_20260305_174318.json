@@ -1,0 +1,49 @@
+{
+  "timestamp": "2026-03-05T08:43:18.195423+00:00",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "assigned": 0,
+      "queued": 0,
+      "rejected": 0
+    },
+    "02_assigned": 1,
+    "03_reported": 0,
+    "04_drafted": 0,
+    "05_fact_checked": {
+      "total": 0,
+      "pass_90plus": 0,
+      "pass_80_89": 0,
+      "flag_75_79": 0,
+      "fail_below_75": 0
+    },
+    "06_desk_approved": 0,
+    "07_copy_edited": 1,
+    "08_published": 67
+  },
+  "actions_this_run": [
+    {
+      "action": "assigned",
+      "files": [
+        "2026-03-05_17-35_seoul-edtech-guideline.json"
+      ],
+      "reason": "신뢰도 88점 → 02-assigned/"
+    },
+    {
+      "action": "queued",
+      "files": [
+        "2026-03-05_17-35_korea-ai-popular.json"
+      ],
+      "reason": "신뢰도 72점 → memory/queue.json"
+    },
+    {
+      "action": "fast-tracked",
+      "files": [
+        "2026-03-05_16-40_ai-ethics-guideline.json"
+      ],
+      "reason": "신뢰도 94점 ≥ 90 → 07-copy-edited/ (교열 스킵)"
+    }
+  ],
+  "bottleneck": "대기 기사 1개 (queue.json) — 취재기자 우선 검토 권장",
+  "action_needed": "07-copy-edited/ (1개) → 발행 에이전트에 전달"
+}

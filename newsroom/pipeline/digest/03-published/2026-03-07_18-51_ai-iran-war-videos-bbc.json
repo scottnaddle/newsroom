@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "AI-generated Iran war videos surge as creators use new tech to cash in",
+    "url": "https://www.bbc.com/news/articles/ckg8wvz427vo",
+    "source_name": "BBC",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "AI-generated videos of the Iran-Israel conflict are flooding social media as creators exploit new generative AI tools for profit. The barrier to creating convincing synthetic conflict footage has essentially collapsed, raising concerns about misinformation during fast-moving military conflicts.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-07T18:51:00+09:00"
+  },
+  "digest": {
+    "headline": "이란 전쟁 AI 가짜 영상, SNS 수익화 노리며 폭증",
+    "lead": "미국·이스라엘의 이란 공습이 시작된 이후, AI로 생성된 전쟁 허위 영상이 소셜미디어를 뒤덮고 있다. 전문가들은 생성형 AI 도구의 대중화로 사실상 누구나 수 분 만에 사실적인 전쟁 영상을 만들 수 있게 됐다고 경고하며, 수억 회에 달하는 조회 수가 수익화 프로그램과 결합해 '허위정보 산업'을 형성하고 있다고 지적한다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국·이스라엘의 이란 공습이 시작된 이후, AI로 생성된 전쟁 허위 영상이 소셜미디어를 뒤덮고 있다. 전문가들은 생성형 AI 도구의 대중화로 사실상 누구나 수 분 만에 사실적인 전쟁 영상을 만들 수 있게 됐다고 경고하며, 수억 회에 달하는 조회 수가 수익화 프로그램과 결합해 '허위정보 산업'을 형성하고 있다고 지적한다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">2월 28일 미국과 이스라엘이 이란에 대한 공습을 개시한 이후, OpenAI의 Sora, 중국의 Seedance, 구글 Veo, X 내장 Grok 등 다양한 AI 영상 생성 도구가 전쟁 허위 콘텐츠 제작에 동원되고 있다. BBC Verify는 텔아비브 미사일 타격, 두바이 부르즈 칼리파 화재 등 AI 생성 영상이 수백 건의 게시물로 확산돼 수천만 회 조회된 사례를 확인했다. 특히 AI 위성사진까지 등장해, 이란 국영 매체가 미 해군 기지 피해를 과장하는 데 활용한 것으로 드러났다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">X는 AI 생성 전쟁 영상에 라벨을 달지 않은 크리에이터의 수익 프로그램 참여를 일시 중단하겠다고 발표했다. X 제품 책임자는 이러한 영상의 99%가 수익화를 노린 것이라고 밝혔다. 전문가들은 조회 수 100만 회당 8~12달러의 수익 구조가 '허위정보 머니 프린터'가 됐다고 비판한다. 그러나 근본적으로 플랫폼의 참여 기반 수익 모델과 정확한 정보 전달 사이의 모순은 쉽게 해결되기 어렵다는 것이 전문가들의 공통된 진단이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 생성 콘텐츠의 범람은 미디어 리터러시 교육의 시급성을 다시 한번 입증한다. 교육 현장에서는 학생들이 AI 생성 이미지·영상을 식별하는 능력을 체계적으로 길러야 하며, 에듀테크 기업들은 팩트체크·디지털 리터러시 도구를 학습 플랫폼에 통합하는 방안을 적극 검토할 필요가 있다. X의 Grok이 가짜 영상을 진짜로 판단한 사례는 AI 챗봇을 교육용으로 활용할 때 검증 체계가 반드시 병행되어야 함을 보여준다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.bbc.com/news/articles/ckg8wvz427vo\" style=\"color:#FF6B35;text-decoration:none;\">BBC Verify</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "regulation"
+    ],
+    "meta_title": "이란 전쟁 AI 가짜 영상 폭증, SNS 수익화와 결합한 허위정보 산업",
+    "meta_description": "미국·이스라엘의 이란 공습 이후 AI 생성 전쟁 허위 영상이 소셜미디어에 범람하고 있다. 수익화 프로그램과 결합한 허위정보 산업의 실태와 에듀테크 시사점을 분석한다.",
+    "word_count": 620
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T18:51:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T19:16:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T10:27:13.248Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69abfd81ff4fbf0001ab7363",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69abfd81ff4fbf0001ab7363",
+    "public_url": "https://insight.ubion.global/iran-jeonjaeng-ai-gajja-yeongsang-sns-suighwa-norimyeo-pogjeung/",
+    "status": "published",
+    "published_at": "2026-03-07T10:27:13.000Z"
+  }
+}

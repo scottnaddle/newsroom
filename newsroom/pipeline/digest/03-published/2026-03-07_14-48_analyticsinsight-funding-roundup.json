@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Funding Roundup: Gushwork and Others Raise $68 Million for AI, Hiring and Construction Tech",
+    "url": "https://www.analyticsinsight.net/startups/funding-roundup-gushwork-and-others-raise-68-million-for-ai-hiring-and-construction-tech",
+    "source_name": "Analytics Insight",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Five AI startups raised a combined $68M focusing on practical automation tools and Agentic AI. Highlights: MeltPlan ($10M seed for AI-powered preconstruction planning led by Bessemer), Gushwork AI ($9M seed for AI marketing agents optimizing for ChatGPT/Gemini visibility), plus Sensera Systems, RIIICO, and Elly. Shows investor shift toward AI agents that plan, market, and recruit autonomously.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-07T14:48:00+09:00"
+  },
+  "digest": {
+    "headline": "에이전트 AI 붐…건설·채용 자동화 스타트업 5곳 6800만 달러 투자 유치",
+    "lead": "5개 AI 스타트업이 이번 주 총 6800만 달러(약 950억 원)를 유치했다. 특히 건설 계획부터 마케팅, 채용까지 실무를 자동화하는 '에이전트 AI'에 투자자들의 관심이 쏠리고 있다. 벤처캐피털은 단순한 챗봇을 넘어 실제 업무를 수행하는 AI 도구에 주목하고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">5개 AI 스타트업이 이번 주 총 6800만 달러(약 950억 원)를 유치했다. 특히 건설 계획부터 마케팅, 채용까지 실무를 자동화하는 '에이전트 AI'에 투자자들의 관심이 쏠리고 있다. 벤처캐피털은 단순한 챗봇을 넘어 실제 업무를 수행하는 AI 도구에 주목하고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">이번 주 투자 하이라이트는 MeltPlan(1000만 달러 시드), Gushwork AI(900만 달러 시드), Sensera Systems(2700만 달러 B라운드), RIIICO(500만 달러 시드), Elly(800만 달러) 등 5개사다. MeltPlan은 건설 착공 전 비용·일정·법규를 분석하는 AI로 베세머 벤처 파트너스가 이끌었다. Gushwork AI는 ChatGPT나 Gemini 같은 AI 검색에 최적화하는 마케팅 에이전트를 개발 중이며 이미 300개 글로벌 고객을 확보했다. 독일 RIIICO는 공장 3D 스캔을 디지털 트윈으로 변환해 설비 배치를 시뮬레이션한다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">투자 패턴이 대화형 AI에서 '실무 수행 AI'로 이동하고 있다. 건설 현장 모니터링(Sensera), 채용 프로세스 자동화(Elly), AI 검색 가시성 최적화(Gushwork) 등 구체적 비즈니스 문제를 해결하는 에이전트가 주목받는 것이다. 업계 관계자는 \"투자자들이 이제 챗봇이 아니라 실제 산업 문제를 해결하는 도구를 원한다\"고 분석했다. 2026년 말까지 일상 업무 자동화가 가속화할 것으로 전망된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">에이전트 AI 기술은 에듀테크 분야에서도 직접 활용 가능성이 높다. 채용 자동화(Elly)는 교육기관의 강사·직원 채용 효율화에, 디지털 트윈(RIIICO)은 직업훈련 시뮬레이션 및 캠퍼스 시설 관리에 적용될 수 있다. 특히 Gushwork의 'AI 검색 최적화'는 온라인 교육 콘텐츠 발견성을 높이는 새로운 마케팅 채널이 될 전망이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.analyticsinsight.net/startups/funding-roundup-gushwork-and-others-raise-68-million-for-ai-hiring-and-construction-tech\" style=\"color:#FF6B35;text-decoration:none;\">Analytics Insight</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "funding"
+    ],
+    "meta_title": "에이전트 AI 스타트업 5곳 6800만 달러 투자 유치",
+    "meta_description": "건설·마케팅·채용 자동화 AI 스타트업 5곳이 6800만 달러를 유치했다. 투자자들이 실무를 수행하는 에이전트 AI에 주목하고 있다.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T14:48:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T16:10:30+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T07:22:28.812Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69abd234ff4fbf0001ab7317",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69abd234ff4fbf0001ab7317",
+    "public_url": "https://ubion.ghost.io/eijeonteu-ai-bum-geonseol-caeyong-jadonghwa-seutateueob-5gos-6800man-dalreo-tuja-yuci/",
+    "status": "published",
+    "published_at": "2026-03-07T07:22:28.811Z"
+  }
+}

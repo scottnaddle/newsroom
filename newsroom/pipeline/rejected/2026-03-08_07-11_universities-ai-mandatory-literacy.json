@@ -1,0 +1,33 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.mt.co.kr/policy/2026/03/03/2026030313051850252",
+    "title": "\"금지 대신 필수 교양으로\"…대학가 덮친 AI, 교육·평가 판도 바꾼다",
+    "snippet": "챗GPT 등장 초기 AI 사용을 억제하던 대학들이 이제 AI를 학생의 필수 역량으로 규정. 정규 교과목 편성부터 평가 방식 개편까지.",
+    "published_date": "2026-03-03"
+  },
+  "relevance_score": 88,
+  "tags": [
+    "university",
+    "curriculum",
+    "assessment"
+  ],
+  "collected_at": "2026-03-07T22:13:14.911Z",
+  "rejection_reason": "duplicate: already published",
+  "rejected_at": "2026-03-08T07:37:00+09:00",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

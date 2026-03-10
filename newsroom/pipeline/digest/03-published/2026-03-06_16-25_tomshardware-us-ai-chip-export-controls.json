@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "US gov't preps sweeping export controls for Nvidia, AMD AI hardware — worldwide licensing system would give Trump admin broad authority to block global sales",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-govt-preps-sweeping-export-controls-for-nvidia-amd-ai-hardware-worldwide-licensing-system-would-give-trump-admin-broad-authority-to-block-global-sales",
+    "source_name": "Tom's Hardware",
+    "language": "en",
+    "relevance_score": 92,
+    "summary": "The US government is preparing sweeping export controls for Nvidia and AMD AI hardware. A new worldwide licensing system would give the Trump administration broad authority to block global sales of AI chips, significantly impacting the semiconductor industry.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-06T16:25:00+09:00"
+  },
+  "digest": {
+    "headline": "미국, 엔비디아·AMD AI 칩 전 세계 수출에 '사전 승인제' 도입 검토",
+    "lead": "미국 정부가 엔비디아와 AMD의 AI 가속기 전 세계 수출에 대해 사전 승인제를 도입하는 대폭적인 규제안을 준비 중이다. 이 규정이 시행되면 트럼프 행정부가 모든 AI 칩 수출을 통제할 수 있는 광범위한 권한을 갖게 되며, 바이든 시절 'AI 확산 규정'보다 훨씬 강력한 조치가 될 전망이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 정부가 엔비디아와 AMD의 AI 가속기 전 세계 수출에 대해 사전 승인제를 도입하는 대폭적인 규제안을 준비 중이다. 이 규정이 시행되면 트럼프 행정부가 모든 AI 칩 수출을 통제할 수 있는 광범위한 권한을 갖게 된다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">블룸버그 보도에 따르면 미국 상무부는 미국 기업이 제조하는 거의 모든 고성능 AI 가속기의 전 세계 출하에 대해 정부 승인을 요구하는 규정 초안을 작성 중이다. 기존 국가별 제한을 전 세계 라이선스 시스템으로 확대하는 이번 규정은 1,000개 미만 GPU 출하는 간소화된 심사를 받지만, 대규모 클러스터 구축에는 사전 승인과 현장 검사까지 요구할 수 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">특히 20만 개 이상의 GB300 GPU를 운영하는 초대형 클러스터는 정부 간 협의와 미국 AI 인프라 투자 약속을 조건으로 내걸고 있다. 로이터는 미국이 수출 허가 대가로 외국 정부의 미국 AI 데이터센터 투자나 안보 보장을 요구하는 방안도 논의 중이라고 보도했다. 이는 사실상 미국이 글로벌 AI 인프라 구축의 '게이트키퍼' 역할을 하겠다는 의도로 풀이된다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">이 규제는 에듀테크 스타트업과 교육 기관의 AI 인프라 접근성에 직접적 영향을 미친다. 한국을 포함한 미국 동맹국 교육 기업들이 대규모 AI 모델을 구축하려면 미국 정부 승인과 잠재적 투자 약속이 필요해질 수 있어, AI 기반 교육 서비스 개발 비용과 복잡성이 증가할 전망이다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/us-govt-preps-sweeping-export-controls-for-nvidia-amd-ai-hardware-worldwide-licensing-system-would-give-trump-admin-broad-authority-to-block-global-sales\" style=\"color:#FF6B35;text-decoration:none;\">Tom's Hardware</a> / <a href=\"https://www.reuters.com/world/us-mulls-new-rules-ai-chip-exports-including-requiring-investments-by-foreign-2026-03-05/\" style=\"color:#FF6B35;text-decoration:none;\">Reuters</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "nvidia",
+      "semiconductors"
+    ],
+    "meta_title": "미국, 엔비디아·AMD AI 칩 수출에 전 세계 사전 승인제 검토",
+    "meta_description": "미국 정부가 엔비디아와 AMD AI 칩의 전 세계 수출에 대해 사전 승인제 도입을 검토 중이다. 대규모 AI 클러스터 구축에는 미국 정부 승인과 투자 약속이 필요해질 전망.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T16:25:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T18:26:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T10:57:44.166Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aab327ff4fbf0001ab6f02",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aab327ff4fbf0001ab6f02",
+    "public_url": "https://ubion.ghost.io/migug-enbidia-amd-ai-cib-jeon-segye-sucule-sajeon-seunginje-doib-geomto/",
+    "status": "published",
+    "published_at": "2026-03-06T10:57:43.000Z"
+  }
+}

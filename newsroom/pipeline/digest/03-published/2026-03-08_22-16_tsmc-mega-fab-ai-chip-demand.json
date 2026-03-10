@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "TSMC Fast Tracks Mega Fab To Capture Rising AI Chip Demand",
+    "url": "https://simplywall.st/stocks/us/semiconductors/nyse-tsm/taiwan-semiconductor-manufacturing/news/tsmc-fast-tracks-mega-fab-to-capture-rising-ai-chip-demand",
+    "source_name": "Simply Wall St",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "TSMC has secured environmental clearance and is fast-tracking a new mega factory to expand manufacturing capacity for AI hardware and advanced chips. The facility targets growing demand from data centers and high-performance computing, reinforcing TSMC's dominant role in the global semiconductor supply chain. The stock has returned 93.4% over the past year, reflecting surging AI chip demand.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-08T22:16:00+09:00"
+  },
+  "digest": {
+    "headline": "TSMC, AI 칩 수요에 메가팹 건설 가속… 15.5헥타르 신규 공장 2028년 완공 목표",
+    "lead": "세계 최대 파운드리 기업 TSMC가 AI 하드웨어와 첨단 반도체 수요 급증에 대응해 메가팹(대규모 공장) 건설을 가속하고 있다. 환경 인허가를 확보한 15.46헥타르 규모의 신규 시설은 2028년 완공을 목표로 하며, 약 1,900개의 직접 일자리가 창출될 전망이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">세계 최대 파운드리 기업 TSMC가 AI 하드웨어와 첨단 반도체 수요 급증에 대응해 메가팹 건설을 가속하고 있다. 환경 인허가를 확보한 15.46헥타르 규모의 신규 시설은 2028년 완공을 목표로 하며, 약 1,900개의 직접 일자리가 창출될 전망이다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">TSMC는 글로벌 순수 파운드리 시장의 72%를 점유하며, Nvidia·AMD·Apple·Broadcom 등 주요 칩 설계 기업의 핵심 제조 파트너다. 2025년 매출 1,220억 달러에 주당순이익(EPS) 51% 성장을 기록했고, 최근 1년간 주가 수익률은 93.4%에 달한다. 경영진은 2026년 약 30%의 매출 성장과 2029년까지 AI 가속기 매출 연평균 60% 이상의 고성장을 전망하고 있다. 이번 메가팹은 데이터센터와 고성능 컴퓨팅(HPC) 분야의 폭발적 수요에 대응하기 위한 전략적 투자다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 확장은 AI 칩 수요가 구조적·장기적 추세임을 TSMC 스스로 확인한 셈이다. 환경 인허가를 조기에 확보한 것은 다년간의 설비투자와 고객 로드맵에서 규제 불확실성을 줄이는 데 중요한 의미가 있다. 다만 대만에 생산능력을 집중하는 구조는 지정학적 리스크라는 점에서, 삼성·인텔과의 파운드리 경쟁 구도와 함께 향후 글로벌 공급망 다변화 흐름이 주목된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">TSMC의 첨단 노드 생산능력 확대는 AI 추론용 칩의 공급 안정화로 이어져, 에듀테크 플랫폼이 실시간 AI 튜터링·자동 평가 등 연산 집약적 서비스를 안정적으로 운영할 수 있는 인프라 기반을 강화한다. 반도체 공급망의 건전성은 결국 교육 현장의 AI 도입 속도를 좌우하는 핵심 변수다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://simplywall.st/stocks/us/semiconductors/nyse-tsm/taiwan-semiconductor-manufacturing/news/tsmc-fast-tracks-mega-fab-to-capture-rising-ai-chip-demand\" style=\"color:#FF6B35;text-decoration:none;\">Simply Wall St</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "tsmc"
+    ],
+    "meta_title": "TSMC 메가팹 건설 가속, AI 칩 수요 대응 2028년 완공 목표",
+    "meta_description": "TSMC가 AI 칩 수요 급증에 대응해 15.46헥타르 규모 메가팹 건설을 가속한다. 2028년 완공 예정인 이 시설은 데이터센터·HPC용 첨단 반도체 생산능력을 대폭 확대할 전망이다.",
+    "word_count": 570
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-08T22:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-08T22:44:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T13:56:39.206Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ad8017ff4fbf0001ab7531",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ad8017ff4fbf0001ab7531",
+    "public_url": "https://insight.ubion.global/tsmc-ai-cib-suyoe-megapaeb-geonseol-gasog-15-5hegtareu-singyu-gongjang-2028nyeon-wangong-mogpyo/",
+    "status": "published",
+    "published_at": "2026-03-08T13:56:39.000Z"
+  }
+}

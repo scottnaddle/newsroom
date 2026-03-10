@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Semiconductors & AI Chips Weekly Briefing – March 6, 2026",
+    "url": "https://www.distillintelligence.com/briefings/semiconductors-ai-chips-2026-03-06",
+    "source_name": "Distill Intelligence",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Marvell reported strong Q4 and FY2026 results with revenue up 22% and 42% YoY. Introduced 1.6T ZR/ZR+ pluggable and 2nm coherent DSPs with MACsec security for AI data center interconnects.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-07T09:44:00+09:00"
+  },
+  "digest": {
+    "headline": "마블, AI 데이터센터 연결 위한 1.6T 광통신 칩 공개…분기 매출 22% 성장",
+    "lead": "마블 테크놀로지가 2026 회계연도 4분기 매출이 전년 대비 22% 증가하며 견조한 성과를 발표했다. AI 데이터센터 간 고속 연결을 위한 1.6T ZR/ZR+ 플러거블 광 모듈과 2nm 코히어런트 DSP를 새롭게 선보이며 AI 인프라 시장 공략을 강화하고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">마블 테크놀로지가 2026 회계연도 4분기 매출이 전년 대비 22% 증가하며 견조한 성과를 발표했다. AI 데이터센터 간 고속 연결을 위한 1.6T ZR/ZR+ 플러거블 광 모듈과 2nm 코히어런트 DSP를 새롭게 선보이며 AI 인프라 시장 공략을 강화하고 있다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">마블은 2026 회계연도 전체로는 전년 대비 42% 매출 성장을 기록했다. AI 붐으로 데이터센터 간 대용량 데이터 전송 수요가 급증하면서 마블의 광통신 및 네트워킹 솔루션 수요가 크게 늘었다. 신제품 1.6T ZR/ZR+ 플러거블은 AI 클러스터 간 초고속 연결을 지원하며, 2nm 공정 기반 코히어런트 DSP는 MACsec 보안 기능을 탑재해 데이터 전송 보안을 강화했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">마블은 브로드컴과 함께 커스텀 ASIC 시장을 선도하는 기업으로 평가받는다. AI 모델이 수조 개 파라미터로 확대되면서 GPU 간 통신 병목이 핵심 과제로 떠올랐고, 마블의 광 인터커넥트 기술이 이를 해결하는 열쇠가 되고 있다. '골든 케이블 이니셔티브' 등을 통해 AI 데이터센터용 광케이블 생태계도 구축 중이다. 엔비디아·AMD와 달리 마블은 GPU가 아닌 '연결'에 집중하며 독자적 시장 지위를 확보했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 데이터센터 간 고속 연결 기술 발전은 대규모 언어모델 기반 교육 서비스의 응답 속도와 안정성을 개선한다. 특히 실시간 AI 튜터링, 멀티모달 학습 콘텐츠 생성 등 대역폭 집약적 서비스를 제공하는 에듀테크 기업에게 긍정적 신호다. 마블의 보안 강화 기술은 학생 데이터를 다루는 교육 플랫폼의 데이터 보호 요건 충족에도 기여할 수 있다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.distillintelligence.com/briefings/semiconductors-ai-chips-2026-03-06\" style=\"color:#FF6B35;text-decoration:none;\">Distill Intelligence</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "semiconductor",
+      "marvell",
+      "networking"
+    ],
+    "meta_title": "마블, 1.6T 광통신 칩 공개…AI 데이터센터 연결 강화",
+    "meta_description": "마블 테크놀로지가 AI 데이터센터 연결용 1.6T ZR/ZR+ 플러거블과 2nm DSP를 공개했다. 분기 매출 22% 성장하며 AI 인프라 시장 공략 강화.",
+    "word_count": 540
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T09:44:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T09:47:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T01:01:09.198Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ab78d5ff4fbf0001ab71de",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ab78d5ff4fbf0001ab71de",
+    "public_url": "https://ubion.ghost.io/mabeul-ai-deiteosenteo-yeongyeol-wihan-1-6t-gwangtongsin-cib-gonggae-bungi-maecul-22-seongjang/",
+    "status": "published",
+    "published_at": "2026-03-07T01:01:09.198Z"
+  }
+}

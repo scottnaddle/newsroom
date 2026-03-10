@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Family offices double down on AI investments as startup fundraising breaks record in February",
+    "url": "https://www.cnbc.com/2026/03/05/family-offices-ai-investments.html",
+    "source_name": "CNBC",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Ultra-wealthy family offices continue aggressive AI investments despite market concerns about AI bubble. Laurene Powell Jobs' Emerson Collective and other family offices joined major AI funding rounds. February 2026 saw AI startups raise $171 billion, with total startup funding reaching record $189 billion.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-06T06:02:00+09:00"
+  },
+  "digest": {
+    "headline": "초부자들의 AI 베팅, 가족사무소 펀딩이 스타트업 자금의 '신호'가 되다",
+    "lead": "AI 버블 우려가 시장을 흔들고 있지만, 초고자산 가족사무소(family office)들은 여전히 AI 스타트업에 공격적으로 투자하고 있다. 로렌 파월 잡스의 에머슨 컬렉티브부터 에릭 슈미트 부부의 힐스파이어까지, 돈을 아는 사람들의 선택이 시장의 신뢰도를 좌우하고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">AI 버블 우려가 시장을 흔들고 있지만, 초고자산 가족사무소(family office)들은 여전히 AI 스타트업에 공격적으로 투자하고 있다. 로렌 파월 잡스의 에머슨 컬렉티브부터 에릭 슈미트 부부의 힐스파이어까지, 돈을 아는 사람들의 선택이 시장의 신뢰도를 좌우하고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">2월 2026년 한 달간만 해도 AI 관련 스타트업들이 1,710억 달러를 모금했으며, 모든 산업을 포함한 전체 스타트업 펀딩은 1,890억 달러에 달해 역대 최고를 기록했다. 이 중 가족사무소들이 주목할 만한 역할을 했다. 로렌 파월 잡스의 에머슨 컬렉티브는 세계 3D 모델링 플랫폼 World Labs의 10억 달러 펀딩 라운드에 참여했고, 인도 재벌 아짐 프렘지의 가족사무소는 AI 영상 생성 기업 Runway의 3억 1,500만 달러 Series E 펀딩을 지원했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">초부자층의 AI 투자 확대는 '신뢰의 신호'다. 데이비드 코즈 같은 전문 벤처캐피탈도 회의적인 이 시점에, 가족사무소 운영진들이 장기 경제 수익성을 믿고 투자하고 있다는 사실 자체가 시장 심리에 영향을 미친다. 특히 에릭 슈미트의 힐스파이어가 Goodfire(AI 안전성 연구)에 1억 5천만 달러를 투자한 것은, 단순한 수익성 추구를 넘어 '책임 있는 AI 개발'이 경쟁 우위라는 신호다. OpenAI, Anthropic, Waymo의 대규모 펀딩도 가족사무소의 투자 결정을 강화하고 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">가족사무소의 AI 베팅 확대는 에듀테크 업체들에 두 가지 신호를 보낸다. 첫째, 초고자산가들이 AI 기술의 장기 가치를 확신하고 있다는 것은 '교육 AI 도구'도 장기 생존 가능성이 높다는 뜻이다. 둘째, Goodfire 같은 AI 해석 및 안전 기업에 자금이 몰린다는 것은, 향후 교육용 AI 시스템도 '설명 가능성(explainability)'과 '윤리' 기준을 충족해야 채택될 가능성이 높다는 경고다. 에듀테크 스타트업은 초기 생존과 자금 조달 시 이러한 신뢰성 기준을 명확히 할수록 전략적 유리함을 얻을 수 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.cnbc.com/2026/03/05/family-offices-ai-investments.html\" style=\"color:#FF6B35;text-decoration:none;\">CNBC: Family offices double down on AI investments</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "investment"
+    ],
+    "meta_title": "초부자 가족사무소의 AI 베팅 확대…신뢰의 신호가 되다",
+    "meta_description": "로렌 파월 잡스, 에릭 슈미트 등 초고자산가 투자자들의 AI 선택이 시장 신뢰도를 결정. 에듀테크 스타트업이 주목해야 할 신호.",
+    "word_count": 539
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T06:02:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T06:06:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T21:31:29.913Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a9f631ff4fbf0001ab6bc2",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a9f631ff4fbf0001ab6bc2",
+    "public_url": "https://ubion.ghost.io/family-offices-ai-investments/",
+    "status": "published",
+    "published_at": "2026-03-05T21:31:29.000Z"
+  }
+}

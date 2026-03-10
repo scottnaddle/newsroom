@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Pentagon-Anthropic AI standoff is real-time testing balance of power in future of warfare",
+    "url": "https://www.cnbc.com/2026/02/27/defense-anthropic-ai-war-risks-hegseth-amodei.html",
+    "source_name": "CNBC",
+    "language": "en",
+    "relevance_score": 86,
+    "summary": "In-depth analysis of the Pentagon-Anthropic clash over AI military integration. Defense Secretary Hegseth designated Anthropic a 'supply-chain risk to national security' after the company refused to remove safeguards against mass surveillance and autonomous weapons. Anthropic plans to challenge the designation in court, testing the balance of power between government and AI companies in warfare.",
+    "published_date": "2026-02-27",
+    "collected_at": "2026-03-07T21:06:00+09:00"
+  },
+  "digest": {
+    "headline": "펜타곤-앤스로픽 대립, AI 군사 통제권의 새로운 시험대",
+    "lead": "미 국방장관 피트 헤그세스가 앤스로픽을 '국가안보 공급망 위험'으로 지정했다. 앤스로픽이 대량 감시와 자율무기 관련 안전장치 해제를 거부한 데 따른 조치로, AI 기업과 정부 간 군사 기술 통제권을 둘러싼 전례 없는 충돌이 본격화되고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미 국방장관 피트 헤그세스가 앤스로픽을 '국가안보 공급망 위험'으로 지정했다. 앤스로픽이 대량 감시와 자율무기 관련 안전장치 해제를 거부한 데 따른 조치로, AI 기업과 정부 간 군사 기술 통제권을 둘러싼 전례 없는 충돌이 본격화되고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">미 국방부는 2025년 7월 앤스로픽, 오픈AI, 구글 딥마인드, xAI에 각각 최대 2억 달러 규모의 프론티어 AI 프로토타입 계약을 체결했다. 이후 국방부는 AI 모델을 '모든 합법적 용도'에 제한 없이 사용할 수 있도록 요구했으나, 앤스로픽은 대량 국내 감시와 완전 자율무기에 대한 안전장치 해제를 거부했다. 헤그세스 장관은 지난 2월 마감 시한을 설정했고, 앤스로픽이 응하지 않자 '공급망 위험' 지정과 함께 군 거래처의 앤스로픽 상거래를 전면 금지하는 조치를 발동했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 대립은 2차 세계대전 이후 정부가 첨단 기술의 프론티어를 직접 통제하던 시대의 종결을 상징한다. 조지타운대 CSET의 로렌 칸 연구원은 \"양쪽 모두에게 승자가 없다\"고 평가했다. 앤스로픽은 법적 대응을 예고하며, 헤그세스 장관이 군사 업무 외 영역까지 이 같은 정책을 강제할 법적 권한이 없다고 반박했다. 민간 AI 기업이 국가안보 영역에서 자체적인 윤리 기준을 관철할 수 있는지가 향후 AI 산업 전체의 방향을 결정할 핵심 쟁점이 되고 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">정부가 AI 모델의 안전장치 해제를 요구하는 선례가 만들어지면, 교육용 AI 서비스에도 유사한 압력이 가해질 수 있다. 에듀테크 기업은 학습자 보호를 위한 콘텐츠 필터링과 데이터 보호 정책이 규제 환경 변화에 따라 어떻게 영향받을지 면밀히 주시해야 한다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.cnbc.com/2026/02/27/defense-anthropic-ai-war-risks-hegseth-amodei.html\" style=\"color:#FF6B35;text-decoration:none;\">CNBC</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "anthropic"
+    ],
+    "meta_title": "펜타곤-앤스로픽 대립, AI 군사 통제권의 새로운 시험대",
+    "meta_description": "미 국방장관이 앤스로픽을 국가안보 공급망 위험으로 지정. AI 안전장치 해제 거부에 따른 전례 없는 정부-AI 기업 간 군사 기술 통제권 충돌 분석.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T21:06:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-08T06:20:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T21:46:31.172Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ac9cb7ff4fbf0001ab7421",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ac9cb7ff4fbf0001ab7421",
+    "public_url": "https://insight.ubion.global/pentagon-aenseuropig-daerib-ai-gunsa-tongjegweonyi-saeroun-siheomdae/",
+    "status": "published",
+    "published_at": "2026-03-07T21:46:31.000Z"
+  }
+}

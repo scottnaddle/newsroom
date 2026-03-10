@@ -1,0 +1,34 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.kyosu.net/news/articleView.html?idxno=200008",
+    "title": "교육부, 대학 인공지능 활용 윤리 가이드라인 시안 발표",
+    "snippet": "교육부가 대학 AI 활용 윤리 지침 가이드라인 시안을 발표. 각 대학이 실정에 맞는 자체 지침을 수립할 때 기초자료로 활용.",
+    "published_date": "2026-03-03"
+  },
+  "relevance_score": 90,
+  "tags": [
+    "policy",
+    "university",
+    "ethics",
+    "guidelines"
+  ],
+  "collected_at": "2026-03-07T22:13:14.911Z",
+  "rejection_reason": "duplicate: already published",
+  "rejected_at": "2026-03-08T07:37:00+09:00",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

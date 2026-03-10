@@ -1,0 +1,452 @@
+{
+  "timestamp": "2026-03-06T08:17:50.852074",
+  "total_articles": 11,
+  "passed": [],
+  "flags": [
+    {
+      "id": "20260302-1123-hani-ai-ethics",
+      "reason": "체크 항목 중 2개 FLAG, 1개 KILL",
+      "checks": {
+        "headline": [
+          "FLAG",
+          60
+        ],
+        "image": [
+          "KILL",
+          [
+            [
+              "feature_image",
+              "404_or_timeout"
+            ],
+            [
+              "html",
+              "ai_badge_found"
+            ]
+          ]
+        ],
+        "metadata": [
+          "PASS",
+          []
+        ],
+        "html": [
+          "FLAG",
+          [
+            "ai_disclosure_found"
+          ]
+        ],
+        "confidence": [
+          "PASS",
+          91
+        ],
+        "category": [
+          "PASS",
+          [
+            "policy",
+            "higher-education",
+            "AI-ethics",
+            "Korea"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "20260302-1123-mk-ai-cheating-prevention",
+      "reason": "체크 항목 중 2개 FLAG, 1개 KILL",
+      "checks": {
+        "headline": [
+          "FLAG",
+          60
+        ],
+        "image": [
+          "KILL",
+          [
+            [
+              "feature_image",
+              "404_or_timeout"
+            ],
+            [
+              "html",
+              "ai_badge_found"
+            ]
+          ]
+        ],
+        "metadata": [
+          "PASS",
+          []
+        ],
+        "html": [
+          "FLAG",
+          [
+            "ai_disclosure_found"
+          ]
+        ],
+        "confidence": [
+          "PASS",
+          95
+        ],
+        "category": [
+          "PASS",
+          [
+            "higher-education",
+            "AI-cheating",
+            "assessment",
+            "Korea"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "20260302-1153-001",
+      "reason": "체크 항목 중 3개 FLAG, 0개 KILL",
+      "checks": {
+        "headline": [
+          "PASS",
+          85
+        ],
+        "image": [
+          "FLAG",
+          [
+            [
+              "html",
+              "ai_badge_found"
+            ]
+          ]
+        ],
+        "metadata": [
+          "PASS",
+          []
+        ],
+        "html": [
+          "FLAG",
+          [
+            "ai_disclosure_found"
+          ]
+        ],
+        "confidence": [
+          "FLAG",
+          82
+        ],
+        "category": [
+          "PASS",
+          [
+            "policy",
+            "governance",
+            "international",
+            "UK",
+            "Korea"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "20260302-1800-inews365-kttu",
+      "reason": "체크 항목 중 1개 FLAG, 2개 KILL",
+      "checks": {
+        "headline": [
+          "KILL",
+          30
+        ],
+        "image": [
+          "KILL",
+          [
+            [
+              "feature_image",
+              "404_or_timeout"
+            ],
+            [
+              "html",
+              "ai_badge_found"
+            ]
+          ]
+        ],
+        "metadata": [
+          "PASS",
+          []
+        ],
+        "html": [
+          "FLAG",
+          [
+            "ai_disclosure_found"
+          ]
+        ],
+        "confidence": [
+          "PASS",
+          96
+        ],
+        "category": [
+          "PASS",
+          [
+            "policy",
+            "bootcamp",
+            "university",
+            "AI-talent"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "20260303-0946-moe-ai-ethics-guideline",
+      "reason": "체크 항목 중 0개 FLAG, 1개 KILL",
+      "checks": {
+        "headline": [
+          "KILL",
+          30
+        ],
+        "image": [
+          "PASS",
+          []
+        ],
+        "metadata": [
+          "PASS",
+          []
+        ],
+        "html": [
+          "PASS",
+          []
+        ],
+        "confidence": [
+          "PASS",
+          96
+        ],
+        "category": [
+          "PASS",
+          [
+            "policy",
+            "ethics",
+            "higher-education",
+            "MOE"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "unknown",
+      "reason": "체크 항목 중 1개 FLAG, 1개 KILL",
+      "checks": {
+        "headline": [
+          "KILL",
+          30
+        ],
+        "image": [
+          "PASS",
+          []
+        ],
+        "metadata": [
+          "FLAG",
+          [
+            "feature_image",
+            "og_image"
+          ]
+        ],
+        "html": [
+          "PASS",
+          []
+        ],
+        "confidence": [
+          "REVIEW",
+          78
+        ],
+        "category": [
+          "PASS",
+          []
+        ]
+      }
+    },
+    {
+      "id": "1740968460003",
+      "reason": "체크 항목 중 2개 FLAG, 1개 KILL",
+      "checks": {
+        "headline": [
+          "KILL",
+          30
+        ],
+        "image": [
+          "FLAG",
+          [
+            [
+              "feature_image",
+              "404_or_timeout"
+            ]
+          ]
+        ],
+        "metadata": [
+          "PASS",
+          []
+        ],
+        "html": [
+          "PASS",
+          []
+        ],
+        "confidence": [
+          "FLAG",
+          82
+        ],
+        "category": [
+          "PASS",
+          [
+            "policy",
+            "ethics",
+            "university",
+            "korea"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "20260304-1649-lg-ai-graduate-school",
+      "reason": "체크 항목 중 1개 FLAG, 0개 KILL",
+      "checks": {
+        "headline": [
+          "PASS",
+          85
+        ],
+        "image": [
+          "PASS",
+          []
+        ],
+        "metadata": [
+          "PASS",
+          []
+        ],
+        "html": [
+          "PASS",
+          []
+        ],
+        "confidence": [
+          "FLAG",
+          84
+        ],
+        "category": [
+          "PASS",
+          [
+            "AI인재양성",
+            "사내대학원",
+            "LG",
+            "교육부인가",
+            "산학연계"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "20260304-1852-kjob-470657",
+      "reason": "체크 항목 중 2개 FLAG, 1개 KILL",
+      "checks": {
+        "headline": [
+          "KILL",
+          30
+        ],
+        "image": [
+          "PASS",
+          []
+        ],
+        "metadata": [
+          "FLAG",
+          [
+            "feature_image",
+            "og_image"
+          ]
+        ],
+        "html": [
+          "PASS",
+          []
+        ],
+        "confidence": [
+          "FLAG",
+          83
+        ],
+        "category": [
+          "PASS",
+          [
+            "policy",
+            "korea",
+            "ai-strategy",
+            "talent"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "20260305-001-lgaigs",
+      "reason": "체크 항목 중 3개 FLAG, 0개 KILL",
+      "checks": {
+        "headline": [
+          "PASS",
+          85
+        ],
+        "image": [
+          "PASS",
+          []
+        ],
+        "metadata": [
+          "FLAG",
+          [
+            "ghost_tags"
+          ]
+        ],
+        "html": [
+          "PASS",
+          []
+        ],
+        "confidence": [
+          "FLAG",
+          88
+        ],
+        "category": [
+          "FLAG",
+          [
+            "policy",
+            "higher-ed",
+            "corporate-education",
+            "ai-talent"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2026-03-05_02_nea-teacher-ai-integration",
+      "reason": "체크 항목 중 2개 FLAG, 0개 KILL",
+      "checks": {
+        "headline": [
+          "PASS",
+          85
+        ],
+        "image": [
+          "PASS",
+          []
+        ],
+        "metadata": [
+          "FLAG",
+          [
+            "ghost_tags"
+          ]
+        ],
+        "html": [
+          "PASS",
+          []
+        ],
+        "confidence": [
+          "FLAG",
+          82
+        ],
+        "category": [
+          "PASS",
+          []
+        ]
+      }
+    }
+  ],
+  "killed": [],
+  "issues": {
+    "headline_mismatch": [],
+    "image_broken": [],
+    "duplicate": [
+      "20260302-1123-hani-ai-ethics",
+      "20260302-1123-mk-ai-cheating-prevention"
+    ],
+    "metadata_missing": [],
+    "html_escape": [],
+    "low_confidence": [],
+    "category_error": []
+  }
+}

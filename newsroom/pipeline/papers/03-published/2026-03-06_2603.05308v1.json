@@ -1,0 +1,80 @@
+{
+  "arxiv_id": "2603.05308v1",
+  "title": "Med-V1: Small Language Models for Zero-shot and Scalable Biomedical Evidence Attribution",
+  "summary": "Assessing whether an article supports an assertion is essential for hallucination detection and claim verification. While large language models (LLMs) have the potential to automate this task, achieving strong performance requires frontier models such as GPT-5 that are prohibitively expensive to deploy at scale. To efficiently perform biomedical evidence attribution, we present Med-V1, a family of small language models with only three billion parameters. Trained on high-quality synthetic data newly developed in this study, Med-V1 substantially outperforms (+27.0% to +71.3%) its base models on five biomedical benchmarks unified into a verification format. Despite its smaller size, Med-V1 performs comparably to frontier LLMs such as GPT-5, along with high-quality explanations for its predictions. We use Med-V1 to conduct a first-of-its-kind use case study that quantifies hallucinations in LLM-generated answers under different citation instructions. Results show that the format instruction strongly affects citation validity and hallucination, with GPT-5 generating more claims but exhibiting hallucination rates similar to GPT-4o. Additionally, we present a second use case showing that Med-V1 can automatically identify high-stakes evidence misattributions in clinical practice guidelines, revealing potentially negative public health impacts that are otherwise challenging to identify at scale. Overall, Med-V1 provides an efficient and accurate lightweight alternative to frontier LLMs for practical and real-world applications in biomedical evidence attribution and verification tasks. Med-V1 is available at https://github.com/ncbi-nlp/Med-V1.",
+  "authors": [
+    "Qiao Jin",
+    "Yin Fang",
+    "Lauren He",
+    "Yifan Yang",
+    "Guangzhi Xiong",
+    "Zhizheng Wang",
+    "Nicholas Wan",
+    "Joey Chan",
+    "Donald C. Comeau",
+    "Robert Leaman",
+    "Charalampos S. Floudas",
+    "Aidong Zhang",
+    "Michael F. Chiang",
+    "Yifan Peng",
+    "Zhiyong Lu"
+  ],
+  "categories": [
+    "cs.CL",
+    "cs.AI",
+    "cs.CL"
+  ],
+  "published": "2026-03-05T15:48:43Z",
+  "updated": "2026-03-05T15:48:43Z",
+  "pdf_url": "https://arxiv.org/pdf/2603.05308v1",
+  "abs_url": "https://arxiv.org/abs/2603.05308v1",
+  "relevance_score": 72,
+  "source_query": "LLM classroom teaching",
+  "collected_at": "2026-03-06T22:47:08.796Z",
+  "stage": "published",
+  "audit_log": [
+    {
+      "agent": "paper-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T22:47:09.800Z",
+      "source": "arxiv"
+    },
+    {
+      "agent": "paper-summarizer",
+      "action": "summarized",
+      "timestamp": "2026-03-06T22:47:21.725Z"
+    },
+    {
+      "agent": "paper-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T22:47:34.381Z"
+    }
+  ],
+  "korean_title": "Med-V1: 영상증거 귀속을 위한 제로샷 및 확장 가능한 소규모 언어 모델",
+  "korean_summary": "이 연구는 생명과학 분야의 영상증거 귀속(evidence attribution)을 위해 30억 파라미터의 소규모 언어 모델인 Med-V1을 제안합니다. Med-V1은 고품질 합성 데이터로 학습하여 최첨단 대형 언어 모델(LLM)에 버금가는 성능을 보이며, 저비용으로 확장 가능한 대안을 제시합니다. 또한, Med-V1을 활용하여 임상 지침서의 위험한 오류를 자동으로 발견하고 LLM 환각(hallucination)을 분석하는 실용적인 사례를 통해 그 효용성을 입증했습니다.",
+  "key_findings": [
+    "Med-V1은 30억 파라미터 소규모 모델임에도 불구하고, 최첨단 대형 언어 모델인 GPT-5에 버금가는 생명과학 분야 증거 귀속 성능을 보입니다.",
+    "GPT-5가 생성하는 답변의 인용 형식은 그 정확성과 환각률에 직접적인 영향을 미치며, GPT-5는 GPT-4o보다 더 많은 주장을 생성하지만 환각률은 비슷한 수준입니다.",
+    "Med-V1은 임상 지침서에서 인용 오류를 자동으로 식별하여, 대규모로 점검하기 어려운 잠재적인 공중보건 위협을 발견하는 데 활용될 수 있습니다."
+  ],
+  "implications": "이 연구는 교육 현장에서도 LLM 활용 시 발생할 수 있는 '환각' 현상을 인용 지시어를 통해 통제하고, 이를 검증하는 효율적인 방법(소규모 전문 모델 활용)을 제시합니다. 이를 통해 학생들이 AI 생성 콘텐츠를 비판적으로 활용하고 정보의 출처를 신뢰할 수 있도록 교육하는 중요한 기준을 마련할 수 있습니다.",
+  "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Med-V1: 영상증거 귀속을 위한 제로샷 및 확장 가능한 소규모 언어 모델</title>\n</head>\n<body style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;padding:20px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n\n  <!-- 논문 정보 박스 -->\n  <div style=\"background:#f8f9ff;border-left:4px solid #8b5cf6;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:32px;\">\n    <p style=\"margin:0 0 12px;font-size:15px;color:#64748b;\">\n      <strong>📄 논문</strong> | Qiao Jin, Yin Fang, Lauren He et al.\n    </p>\n    <p style=\"margin:0 0 8px;font-size:14px;color:#64748b;\">\n      <strong>게재일:</strong> 2026. 3. 6. | \n      <strong>arXiv:</strong> <a href=\"https://arxiv.org/abs/2603.05308v1\" style=\"color:#8b5cf6;\">2603.05308v1</a>\n    </p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">\n      <a href=\"https://arxiv.org/pdf/2603.05308v1\" style=\"color:#8b5cf6;margin-right:16px;\">📥 PDF 다운로드</a>\n      <a href=\"https://arxiv.org/abs/2603.05308v1\" style=\"color:#8b5cf6;\">🔗 원문 보기</a>\n    </p>\n  </div>\n\n  <!-- 한국어 요약 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📝 한국어 요약</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">이 연구는 생명과학 분야의 영상증거 귀속(evidence attribution)을 위해 30억 파라미터의 소규모 언어 모델인 Med-V1을 제안합니다. Med-V1은 고품질 합성 데이터로 학습하여 최첨단 대형 언어 모델(LLM)에 버금가는 성능을 보이며, 저비용으로 확장 가능한 대안을 제시합니다. 또한, Med-V1을 활용하여 임상 지침서의 위험한 오류를 자동으로 발견하고 LLM 환각(hallucination)을 분석하는 실용적인 사례를 통해 그 효용성을 입증했습니다.</p>\n\n  <!-- 핵심 발견 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">💡 핵심 발견</h2>\n  <ul style=\"margin:0 0 24px;padding-left:24px;line-height:1.9;\">\n    <li style=\"margin-bottom:8px;\">Med-V1은 30억 파라미터 소규모 모델임에도 불구하고, 최첨단 대형 언어 모델인 GPT-5에 버금가는 생명과학 분야 증거 귀속 성능을 보입니다.</li>\n    <li style=\"margin-bottom:8px;\">GPT-5가 생성하는 답변의 인용 형식은 그 정확성과 환각률에 직접적인 영향을 미치며, GPT-5는 GPT-4o보다 더 많은 주장을 생성하지만 환각률은 비슷한 수준입니다.</li>\n    <li style=\"margin-bottom:8px;\">Med-V1은 임상 지침서에서 인용 오류를 자동으로 식별하여, 대규모로 점검하기 어려운 잠재적인 공중보건 위협을 발견하는 데 활용될 수 있습니다.</li>\n  </ul>\n\n  <!-- 교육적 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">🎓 교육적 시사점</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">이 연구는 교육 현장에서도 LLM 활용 시 발생할 수 있는 '환각' 현상을 인용 지시어를 통해 통제하고, 이를 검증하는 효율적인 방법(소규모 전문 모델 활용)을 제시합니다. 이를 통해 학생들이 AI 생성 콘텐츠를 비판적으로 활용하고 정보의 출처를 신뢰할 수 있도록 교육하는 중요한 기준을 마련할 수 있습니다.</p>\n\n  <!-- 한국어 초록 (원문 번역) -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📖 초록 (한국어 번역)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;background:#fefce8;padding:16px 20px;border-radius:8px;\">논문이 주장을 뒷받침하는지 평가하는 것은 환각(hallucination) 탐지와 주장 검증에 필수적입니다. 대형 언어 모델(LLM)은 이 작업을 자동화할 잠재력을 가지지만, 강력한 성능을 위해서는 GPT-5와 같은 최첨단 모델이 필요하며, 이는 대규모로 배포하기에 금전적으로 부담이 큽니다. 생명과학 영상증거 귀속을 효율적으로 수행하기 위해, 본 연구에서는 단 30억 파라미터로 구성된 소규모 언어 모델 패밀리인 Med-V1을 소개합니다. 본 연구에서 새로 개발한 고품질 합성 데이터로 학습된 Med-V1은 다섯 개의 생명과학 벤치마크에서 기초 모델보다 최대 71.3%까지 월등한 성능을 보입니다. 더 작은 규임에도 불구하고 Med-V1은 GPT-5와 같은 최첨단 LLM과 견줄 만한 성능을 보이며, 그 예측에 대한 고품질의 설명을 제공합니다. Med-V1을 사용하여 다양한 인용 지시어 하에서 LLM이 생성하는 답변의 환각 수준을 측정하는 최초의 사용 사례 연구를 수행했습니다. 결과는 형식 지시어가 인용의 타당성과 환각에 큰 영향을 미치며, GPT-5가 더 많은 주장을 생성하지만 환각률은 GPT-4o와 유사함을 보여줍니다. 또한, Med-V1이 임상 실무 지침서에서 대규모로 식별하기 어려운 잠재적인 공중보건에 악영향을 미칠 수 있는 중대한 증거 오류를 자동으로 식별할 수 있는 두 번째 사용 사례를 제시합니다. 전반적으로 Med-V1은 생명과학 영상증거 귀속 및 검증 작업의 실제적이고 현실적인 응용 분야에서 최첨단 LLM에 대한 효율적이고 정확한 경량 대안을 제공합니다. Med-V1은 https://github.com/ncbi-nlp/Med-V1에서 이용할 수 있습니다.</p>\n\n  <!-- 원문 초록 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📋 원문 초록 (Abstract)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.8;font-style:italic;color:#374151;background:#f8f9ff;padding:16px 20px;border-radius:8px;\">Assessing whether an article supports an assertion is essential for hallucination detection and claim verification. While large language models (LLMs) have the potential to automate this task, achieving strong performance requires frontier models such as GPT-5 that are prohibitively expensive to deploy at scale. To efficiently perform biomedical evidence attribution, we present Med-V1, a family of small language models with only three billion parameters. Trained on high-quality synthetic data newly developed in this study, Med-V1 substantially outperforms (+27.0% to +71.3%) its base models on five biomedical benchmarks unified into a verification format. Despite its smaller size, Med-V1 performs comparably to frontier LLMs such as GPT-5, along with high-quality explanations for its predictions. We use Med-V1 to conduct a first-of-its-kind use case study that quantifies hallucinations in LLM-generated answers under different citation instructions. Results show that the format instruction strongly affects citation validity and hallucination, with GPT-5 generating more claims but exhibiting hallucination rates similar to GPT-4o. Additionally, we present a second use case showing that Med-V1 can automatically identify high-stakes evidence misattributions in clinical practice guidelines, revealing potentially negative public health impacts that are otherwise challenging to identify at scale. Overall, Med-V1 provides an efficient and accurate lightweight alternative to frontier LLMs for practical and real-world applications in biomedical evidence attribution and verification tasks. Med-V1 is available at https://github.com/ncbi-nlp/Med-V1.</p>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">\n    본 요약은 AI가 작성했습니다. 원문은 위의 링크에서 확인하세요.\n  </p>\n\n</body>\n</html>",
+  "ghost": {
+    "headline": "[논문] Med-V1: Small Language Models for Zero-shot and Scalable Biomedical Evidence Attribution",
+    "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Med-V1: Small Language Models for Zero-shot and Scalable Biomedical Evidence Attribution</title>\n</head>\n<body style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;padding:20px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n\n  <!-- 논문 정보 박스 -->\n  <div style=\"background:#f8f9ff;border-left:4px solid #059669;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:32px;\">\n    <p style=\"margin:0 0 12px;font-size:15px;color:#64748b;\">\n      <strong>📄 논문</strong> | Qiao Jin, Yin Fang, Lauren He et al.\n    </p>\n    <p style=\"margin:0 0 8px;font-size:14px;color:#64748b;\">\n      <strong>게재일:</strong> 2026. 3. 6. | \n      <strong>arXiv:</strong> <a href=\"https://arxiv.org/abs/2603.05308v1\" style=\"color:#059669;\">2603.05308v1</a>\n    </p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">\n      <a href=\"https://arxiv.org/pdf/2603.05308v1\" style=\"color:#059669;margin-right:16px;\">📥 PDF 다운로드</a>\n      <a href=\"https://arxiv.org/abs/2603.05308v1\" style=\"color:#059669;\">🔗 원문 보기</a>\n    </p>\n  </div>\n\n  <!-- 한국어 요약 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📝 한국어 요약</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">[요약 예정] Assessing whether an article supports an assertion is essential for hallucination detection and claim verification. While large language models (LLMs) have the potential to automate this task, achieving strong performance requires frontier models such as GPT-5 that are prohibitively expensive to dep...</p>\n\n  <!-- 핵심 발견 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">💡 핵심 발견</h2>\n  <ul style=\"margin:0 0 24px;padding-left:24px;line-height:1.9;\">\n    <li style=\"margin-bottom:8px;\">이 논문은 AI 교육 분야의 새로운 접근법을 제시합니다.</li>\n    <li style=\"margin-bottom:8px;\">실험 결과 교육 현장에서의 AI 활용 가능성을 보여줍니다.</li>\n    <li style=\"margin-bottom:8px;\">향후 연구 방향과 실제 적용 방안을 논의합니다.</li>\n  </ul>\n\n  <!-- 교육적 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">🎓 교육적 시사점</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">이 연구는 AI 기술의 교육 현장 도입에 있어 중요한 시사점을 제공합니다. 교사와 학생 모두에게 긍정적인 영향을 미칠 수 있으나, 신중한 적용이 필요합니다.</p>\n\n  <!-- 원문 초록 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📋 원문 초록 (Abstract)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.8;font-style:italic;color:#374151;background:#f8f9ff;padding:16px 20px;border-radius:8px;\">Assessing whether an article supports an assertion is essential for hallucination detection and claim verification. While large language models (LLMs) have the potential to automate this task, achieving strong performance requires frontier models such as GPT-5 that are prohibitively expensive to deploy at scale. To efficiently perform biomedical evidence attribution, we present Med-V1, a family of small language models with only three billion parameters. Trained on high-quality synthetic data newly developed in this study, Med-V1 substantially outperforms (+27.0% to +71.3%) its base models on five biomedical benchmarks unified into a verification format. Despite its smaller size, Med-V1 performs comparably to frontier LLMs such as GPT-5, along with high-quality explanations for its predictions. We use Med-V1 to conduct a first-of-its-kind use case study that quantifies hallucinations in LLM-generated answers under different citation instructions. Results show that the format instruction strongly affects citation validity and hallucination, with GPT-5 generating more claims but exhibiting hallucination rates similar to GPT-4o. Additionally, we present a second use case showing that Med-V1 can automatically identify high-stakes evidence misattributions in clinical practice guidelines, revealing potentially negative public health impacts that are otherwise challenging to identify at scale. Overall, Med-V1 provides an efficient and accurate lightweight alternative to frontier LLMs for practical and real-world applications in biomedical evidence attribution and verification tasks. Med-V1 is available at https://github.com/ncbi-nlp/Med-V1.</p>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">\n    본 요약은 AI가 작성했습니다. 원문은 위의 링크에서 확인하세요.\n  </p>\n\n</body>\n</html>",
+    "ghost_tags": [
+      "ai-papers",
+      "arxiv"
+    ],
+    "meta_title": "Med-V1: Small Language Models for Zero-shot and Scalable Biomedical Evidence Attribution | AI 교육 논문",
+    "meta_description": "[요약 예정] Assessing whether an article supports an assertion is essential for hallucination detection and claim verification. While large language model",
+    "feature_image_alt": "AI 교육 논문"
+  },
+  "publish_result": {
+    "ghost_post_id": "69ab5986ff4fbf0001ab711f",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ab5986ff4fbf0001ab711f",
+    "public_url": "https://ubion.ghost.io/nonmun-med-v1-small-language-models-for-zero-shot-and-scalable-biomedical-evidence-attribution/",
+    "status": "published",
+    "published_at": "2026-03-06T22:47:34.000Z"
+  }
+}

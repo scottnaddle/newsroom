@@ -1,0 +1,10 @@
+{
+  "id": "source_007",
+  "stage": "fact-checked",
+  "source": {"url": "https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education", "title": "미국 AI 교육 법안"},
+  "draft": {
+    "headline": "미국, 'AI 교육 투자 확대 법안' 발의…NSF 기금으로 인재 양성 가속화",
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e\"><div style=\"border-left:4px solid #4338ca;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:48px\"><p style=\"margin:0;font-weight:600\">정책</p><p style=\"margin:8px 0 0\">미국 상원의원들이 NSF 지원으로 AI 교육 장학금과 전문성 개발을 확대하는 법안을 발의했다.</p></div><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">미국의 AI 교육 투자 확대</h2><p style=\"margin:0 0 32px\">2026년 3월, 상원의원 Cantwell과 Moran은 'AI 교육 촉진법'을 발의했다. 이 법안은 NSF의 기금을 활용해 AI 분야 학생 장학금을 확대하고, 교사와 교수를 위한 전문성 개발 프로그램을 강화한다. 이는 글로벌 AI 시장에서 미국의 리더십 유지와 인재 풀 확충을 목표로 한다. 미국은 AI를 국가 경쟁력의 핵심 요소로 인식하고 있다.</p><div style=\"border-top:1px solid #e2e8f0;margin-top:44px;padding-top:32px\"><ol style=\"margin:0;padding-left:20px\"><li><a href=\"https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education\" style=\"color:#0284c7;text-decoration:none\">AI Education Act - U.S. Senate</a></li></ol></div><p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>"
+  },
+  "fact_check": {"score": 88, "verdict": "PASS", "issues": []}
+}

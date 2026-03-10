@@ -1,0 +1,74 @@
+{
+  "arxiv_id": "2603.05432v1",
+  "title": "Ensembling Language Models with Sequential Monte Carlo",
+  "summary": "Practitioners have access to an abundance of language models and prompting strategies for solving many language modeling tasks; yet prior work shows that modeling performance is highly sensitive to both choices. Classical machine learning ensembling techniques offer a principled approach: aggregate predictions from multiple sources to achieve better performance than any single one. However, applying ensembling to language models during decoding is challenging: naively aggregating next-token probabilities yields samples from a locally normalized, biased approximation of the generally intractable ensemble distribution over strings. In this work, we introduce a unified framework for composing $K$ language models into $f$-ensemble distributions for a wide range of functions $f\\colon\\mathbb{R}_{\\geq 0}^{K}\\to\\mathbb{R}_{\\geq 0}$. To sample from these distributions, we propose a byte-level sequential Monte Carlo (SMC) algorithm that operates in a shared character space, enabling ensembles of models with mismatching vocabularies and consistent sampling in the limit. We evaluate a family of $f$-ensembles across prompt and model combinations for various structured text generation tasks, highlighting the benefits of alternative aggregation strategies over traditional probability averaging, and showing that better posterior approximations can yield better ensemble performance.",
+  "authors": [
+    "Robin Shing Moon Chan",
+    "Tianyu Liu",
+    "Samuel Kiegeland",
+    "Clemente Pasti",
+    "Jacob Hoover Vigly",
+    "Timothy J. O'Donnell",
+    "Ryan Cotterell",
+    "Tim Vieira"
+  ],
+  "categories": [
+    "cs.CL",
+    "cs.AI",
+    "cs.LG",
+    "cs.CL"
+  ],
+  "published": "2026-03-05T17:54:31Z",
+  "updated": "2026-03-05T17:54:31Z",
+  "pdf_url": "https://arxiv.org/pdf/2603.05432v1",
+  "abs_url": "https://arxiv.org/abs/2603.05432v1",
+  "relevance_score": 71,
+  "source_query": "ai education learning",
+  "collected_at": "2026-03-06T22:47:06.766Z",
+  "stage": "published",
+  "audit_log": [
+    {
+      "agent": "paper-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T22:47:09.800Z",
+      "source": "arxiv"
+    },
+    {
+      "agent": "paper-summarizer",
+      "action": "summarized",
+      "timestamp": "2026-03-06T22:47:21.728Z"
+    },
+    {
+      "agent": "paper-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T22:47:37.921Z"
+    }
+  ],
+  "korean_title": "순차 몬테카를로를 이용한 언어 모델 앙상블링",
+  "korean_summary": "본 연구는 여러 언어 모델의 예측을 효과적으로 결합하는 새로운 앙상블 프레임워크를 제안합니다. 바이트 수준 순차 몬테카를로(SMC) 알고리즘을 통해 서로 다른 어휘를 가진 모델들도 앙상블할 수 있으며, 이는 기존의 단순 확률 평균 방식보다 우수한 성능을 보입니다. 특히 구조화된 텍스트 생성 작업에서 다양한 앙상블 전략의 이점을 입증했습니다.",
+  "key_findings": [
+    "바이트 수준 순차 몬테카를로(SMC) 알고리즘을 통해 서로 다른 어휘를 가진 언어 모델들도 효과적으로 앙상블할 수 있다.",
+    "단순한 확률 평균 방식보다 다양한 함수(f)를 이용한 대체 집계 전략이 구조화된 텍스트 생성 작업에서 더 나은 성능을 보인다.",
+    "더 정확한 사후 분포 근사치는 언어 모델 앙상블의 전반적인 성능 향상에 기여한다."
+  ],
+  "implications": "AI 교육 현장에서는 단일 최고 모델에만 의존하기보다, 여러 모델의 강점을 결합한 앙상블 방식을 학습자에게 교육하여 더 견고하고 다양한 문제 해결 능력을 기를 수 있다. 또한, 본 연구가 제시하는 새로운 앙상블 프레임워크는 학생들이 AI 모델의 한계를 이해하고 더 나은 결과를 생성하기 위한 전략적 사고를 개발하는 데 도움이 될 수 있다.",
+  "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>순차 몬테카를로를 이용한 언어 모델 앙상블링</title>\n</head>\n<body style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;padding:20px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n\n  <!-- 논문 정보 박스 -->\n  <div style=\"background:#f8f9ff;border-left:4px solid #8b5cf6;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:32px;\">\n    <p style=\"margin:0 0 12px;font-size:15px;color:#64748b;\">\n      <strong>📄 논문</strong> | Robin Shing Moon Chan, Tianyu Liu, Samuel Kiegeland et al.\n    </p>\n    <p style=\"margin:0 0 8px;font-size:14px;color:#64748b;\">\n      <strong>게재일:</strong> 2026. 3. 6. | \n      <strong>arXiv:</strong> <a href=\"https://arxiv.org/abs/2603.05432v1\" style=\"color:#8b5cf6;\">2603.05432v1</a>\n    </p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">\n      <a href=\"https://arxiv.org/pdf/2603.05432v1\" style=\"color:#8b5cf6;margin-right:16px;\">📥 PDF 다운로드</a>\n      <a href=\"https://arxiv.org/abs/2603.05432v1\" style=\"color:#8b5cf6;\">🔗 원문 보기</a>\n    </p>\n  </div>\n\n  <!-- 한국어 요약 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📝 한국어 요약</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">본 연구는 여러 언어 모델의 예측을 효과적으로 결합하는 새로운 앙상블 프레임워크를 제안합니다. 바이트 수준 순차 몬테카를로(SMC) 알고리즘을 통해 서로 다른 어휘를 가진 모델들도 앙상블할 수 있으며, 이는 기존의 단순 확률 평균 방식보다 우수한 성능을 보입니다. 특히 구조화된 텍스트 생성 작업에서 다양한 앙상블 전략의 이점을 입증했습니다.</p>\n\n  <!-- 핵심 발견 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">💡 핵심 발견</h2>\n  <ul style=\"margin:0 0 24px;padding-left:24px;line-height:1.9;\">\n    <li style=\"margin-bottom:8px;\">바이트 수준 순차 몬테카를로(SMC) 알고리즘을 통해 서로 다른 어휘를 가진 언어 모델들도 효과적으로 앙상블할 수 있다.</li>\n    <li style=\"margin-bottom:8px;\">단순한 확률 평균 방식보다 다양한 함수(f)를 이용한 대체 집계 전략이 구조화된 텍스트 생성 작업에서 더 나은 성능을 보인다.</li>\n    <li style=\"margin-bottom:8px;\">더 정확한 사후 분포 근사치는 언어 모델 앙상블의 전반적인 성능 향상에 기여한다.</li>\n  </ul>\n\n  <!-- 교육적 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">🎓 교육적 시사점</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">AI 교육 현장에서는 단일 최고 모델에만 의존하기보다, 여러 모델의 강점을 결합한 앙상블 방식을 학습자에게 교육하여 더 견고하고 다양한 문제 해결 능력을 기를 수 있다. 또한, 본 연구가 제시하는 새로운 앙상블 프레임워크는 학생들이 AI 모델의 한계를 이해하고 더 나은 결과를 생성하기 위한 전략적 사고를 개발하는 데 도움이 될 수 있다.</p>\n\n  <!-- 한국어 초록 (원문 번역) -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📖 초록 (한국어 번역)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;background:#fefce8;padding:16px 20px;border-radius:8px;\">실무자들은 많은 언어 모델링 작업을 해결하기 위해 다양한 언어 모델과 프롬프팅 전략에 접근할 수 있지만, 기존 연구들은 모델 성능이 이 두 가지 선택에 매우 민감하다는 것을 보여줍니다. 고전적인 머신러닝 앙상블 기법은 원칙적인 접근법을 제시합니다: 여러 소스의 예측을 집계하여 단일 모델만으로는 달성할 수 없는 더 나은 성능을 얻는 것입니다. 그러나 디코딩 과정에서 언어 모델에 앙상블을 적용하는 것은 어렵습니다: 다음 토큰 확률을 단순히 집계하면 일반적으로 계산 불가능한 문자열에 대한 앙상블 분포의 국소적으로 정규화된, 편향된 근사치에서 샘플을 얻게 됩니다. 이 연구에서는 K개의 언어 모델을 광범위한 함수 f: ℝ≥0K → ℝ≥0에 대한 f-앙상블 분포로 구성하는 통합 프레임워크를 소개합니다. 이러한 분포에서 샘플링하기 위해, 우리는 공유 문자 공간에서 작동하는 바이트 수준 순차 몬테카를로(SMC) 알고리즘을 제안하며, 이는 어휘가 일치하지 않는 모델들의 앙상블을 가능하게 하고 한계에서 일관된 샘플링을 지원합니다. 우리는 프롬프트와 모델 조합에 걸쳐 다양한 구조화된 텍스트 생성 작업에 대한 f-앙상블 가족을 평가하며, 전통적인 확률 평균 대체 대체 집계 전략의 이점을 부각시키고 더 나은 사후 근사치가 더 나은 앙상블 성능을 낼 수 있음을 보여줍니다.</p>\n\n  <!-- 원문 초록 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📋 원문 초록 (Abstract)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.8;font-style:italic;color:#374151;background:#f8f9ff;padding:16px 20px;border-radius:8px;\">Practitioners have access to an abundance of language models and prompting strategies for solving many language modeling tasks; yet prior work shows that modeling performance is highly sensitive to both choices. Classical machine learning ensembling techniques offer a principled approach: aggregate predictions from multiple sources to achieve better performance than any single one. However, applying ensembling to language models during decoding is challenging: naively aggregating next-token probabilities yields samples from a locally normalized, biased approximation of the generally intractable ensemble distribution over strings. In this work, we introduce a unified framework for composing $K$ language models into $f$-ensemble distributions for a wide range of functions $f\\colon\\mathbb{R}_{\\geq 0}^{K}\\to\\mathbb{R}_{\\geq 0}$. To sample from these distributions, we propose a byte-level sequential Monte Carlo (SMC) algorithm that operates in a shared character space, enabling ensembles of models with mismatching vocabularies and consistent sampling in the limit. We evaluate a family of $f$-ensembles across prompt and model combinations for various structured text generation tasks, highlighting the benefits of alternative aggregation strategies over traditional probability averaging, and showing that better posterior approximations can yield better ensemble performance.</p>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">\n    본 요약은 AI가 작성했습니다. 원문은 위의 링크에서 확인하세요.\n  </p>\n\n</body>\n</html>",
+  "ghost": {
+    "headline": "[논문] Ensembling Language Models with Sequential Monte Carlo",
+    "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Ensembling Language Models with Sequential Monte Carlo</title>\n</head>\n<body style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;padding:20px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n\n  <!-- 논문 정보 박스 -->\n  <div style=\"background:#f8f9ff;border-left:4px solid #059669;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:32px;\">\n    <p style=\"margin:0 0 12px;font-size:15px;color:#64748b;\">\n      <strong>📄 논문</strong> | Robin Shing Moon Chan, Tianyu Liu, Samuel Kiegeland et al.\n    </p>\n    <p style=\"margin:0 0 8px;font-size:14px;color:#64748b;\">\n      <strong>게재일:</strong> 2026. 3. 6. | \n      <strong>arXiv:</strong> <a href=\"https://arxiv.org/abs/2603.05432v1\" style=\"color:#059669;\">2603.05432v1</a>\n    </p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">\n      <a href=\"https://arxiv.org/pdf/2603.05432v1\" style=\"color:#059669;margin-right:16px;\">📥 PDF 다운로드</a>\n      <a href=\"https://arxiv.org/abs/2603.05432v1\" style=\"color:#059669;\">🔗 원문 보기</a>\n    </p>\n  </div>\n\n  <!-- 한국어 요약 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📝 한국어 요약</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">[요약 예정] Practitioners have access to an abundance of language models and prompting strategies for solving many language modeling tasks; yet prior work shows that modeling performance is highly sensitive to both choices. Classical machine learning ensembling techniques offer a principled approach: aggregate ...</p>\n\n  <!-- 핵심 발견 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">💡 핵심 발견</h2>\n  <ul style=\"margin:0 0 24px;padding-left:24px;line-height:1.9;\">\n    <li style=\"margin-bottom:8px;\">이 논문은 AI 교육 분야의 새로운 접근법을 제시합니다.</li>\n    <li style=\"margin-bottom:8px;\">실험 결과 교육 현장에서의 AI 활용 가능성을 보여줍니다.</li>\n    <li style=\"margin-bottom:8px;\">향후 연구 방향과 실제 적용 방안을 논의합니다.</li>\n  </ul>\n\n  <!-- 교육적 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">🎓 교육적 시사점</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">이 연구는 AI 기술의 교육 현장 도입에 있어 중요한 시사점을 제공합니다. 교사와 학생 모두에게 긍정적인 영향을 미칠 수 있으나, 신중한 적용이 필요합니다.</p>\n\n  <!-- 원문 초록 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📋 원문 초록 (Abstract)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.8;font-style:italic;color:#374151;background:#f8f9ff;padding:16px 20px;border-radius:8px;\">Practitioners have access to an abundance of language models and prompting strategies for solving many language modeling tasks; yet prior work shows that modeling performance is highly sensitive to both choices. Classical machine learning ensembling techniques offer a principled approach: aggregate predictions from multiple sources to achieve better performance than any single one. However, applying ensembling to language models during decoding is challenging: naively aggregating next-token probabilities yields samples from a locally normalized, biased approximation of the generally intractable ensemble distribution over strings. In this work, we introduce a unified framework for composing $K$ language models into $f$-ensemble distributions for a wide range of functions $f\\colon\\mathbb{R}_{\\geq 0}^{K}\\to\\mathbb{R}_{\\geq 0}$. To sample from these distributions, we propose a byte-level sequential Monte Carlo (SMC) algorithm that operates in a shared character space, enabling ensembles of models with mismatching vocabularies and consistent sampling in the limit. We evaluate a family of $f$-ensembles across prompt and model combinations for various structured text generation tasks, highlighting the benefits of alternative aggregation strategies over traditional probability averaging, and showing that better posterior approximations can yield better ensemble performance.</p>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">\n    본 요약은 AI가 작성했습니다. 원문은 위의 링크에서 확인하세요.\n  </p>\n\n</body>\n</html>",
+    "ghost_tags": [
+      "ai-papers",
+      "arxiv"
+    ],
+    "meta_title": "Ensembling Language Models with Sequential Monte Carlo | AI 교육 논문",
+    "meta_description": "[요약 예정] Practitioners have access to an abundance of language models and prompting strategies for solving many language modeling tasks; yet prior work",
+    "feature_image_alt": "AI 교육 논문"
+  },
+  "publish_result": {
+    "ghost_post_id": "69ab5989ff4fbf0001ab713d",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ab5989ff4fbf0001ab713d",
+    "public_url": "https://ubion.ghost.io/nonmun-ensembling-language-models-with-sequential-monte-carlo/",
+    "status": "published",
+    "published_at": "2026-03-06T22:47:37.000Z"
+  }
+}

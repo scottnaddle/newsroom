@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Oracle and OpenAI's Texas Stargate datacenter expansion reportedly on the skids",
+    "url": "https://www.theregister.com/2026/03/07/openai_oracle_dc/",
+    "source_name": "The Register",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Oracle and OpenAI have abandoned plans to expand the flagship Stargate data center in Abilene, Texas from 1.2GW to 2GW, after negotiations stalled over financing and OpenAI's inability to forecast demand. Meta is now in the running to lease the untapped capacity from developer Crusoe, with Nvidia reportedly putting down a $150 million deposit to broker the deal.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-09T03:16:00+09:00"
+  },
+  "digest": {
+    "headline": "OpenAI·오라클, 텍사스 스타게이트 확장 무산…메타가 잔여 용량 인수 추진",
+    "lead": "OpenAI와 오라클이 텍사스 애빌린 스타게이트 데이터센터의 2GW 확장 계획을 포기한 것으로 알려졌다. 자금 조달 난항과 수요 예측 불확실성이 원인이며, 엔비디아가 1억5천만 달러를 선 투자한 뒤 메타에 잔여 용량 인수를 제안하고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">OpenAI와 오라클이 텍사스 애빌린 스타게이트 데이터센터의 2GW 확장 계획을 포기한 것으로 알려졌다. 자금 조달 난항과 수요 예측 불확실성이 원인이며, 엔비디아가 1억5천만 달러를 선 투자한 뒤 메타에 잔여 용량 인수를 제안하고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">블룸버그에 따르면, OpenAI와 오라클은 현재 건설 중인 1.2GW 규모의 애빌린 캠퍼스를 최대 2GW까지 확대할 계획이었으나 협상이 결렬됐다. 오라클은 OpenAI와 총 4.5GW, 계약 규모 3,000억 달러에 달하는 컴퓨팅 인프라 공급 계약을 유지하고 있지만, 이번 확장분에 대해서는 자금 확보 시점과 OpenAI의 수요 예측 능력이 발목을 잡았다. 오라클은 이번 주 데이터센터 투자를 위해 500억 달러 규모의 추가 부채·자본 조달 계획을 발표한 바 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">5,000억 달러 규모로 발표된 스타게이트 프로젝트의 일부 축소는 AI 인프라 투자의 불확실성을 보여주는 사례다. 엔비디아가 직접 1억5천만 달러를 투자하며 메타와의 거래를 중개하고 나선 점은, GPU 수요를 안정적으로 확보하려는 엔비디아의 전략적 이해관계를 반영한다. 8대 하이퍼스케일러의 2026년 예상 총 투자액은 7,100억 달러에 이르며, AI 인프라를 둘러싼 주도권 경쟁은 한층 치열해지고 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">대규모 AI 인프라 투자의 지연과 재편은 클라우드 GPU 가격과 가용성에 직접 영향을 준다. 에듀테크 기업이 AI 모델을 학습·서빙하는 데 필요한 컴퓨팅 비용이 변동될 수 있으며, 특히 소규모 교육 AI 스타트업은 인프라 접근성의 불확실성에 대비한 멀티클라우드 전략이나 경량 모델 도입을 검토할 필요가 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.theregister.com/2026/03/07/openai_oracle_dc/\" style=\"color:#FF6B35;text-decoration:none;\">The Register</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "openai",
+      "technology"
+    ],
+    "meta_title": "OpenAI·오라클, 스타게이트 데이터센터 확장 포기…메타가 인수 추진",
+    "meta_description": "OpenAI와 오라클이 텍사스 스타게이트 데이터센터의 2GW 확장을 포기했다. 엔비디아 중개로 메타가 잔여 용량 인수에 나서며, AI 인프라 주도권 경쟁이 재편되고 있다.",
+    "word_count": 550
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T03:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T03:43:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T18:55:42.665Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69adc623ff4fbf0001ab75e6",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69adc623ff4fbf0001ab75e6",
+    "public_url": "https://insight.ubion.global/openai-orakeul-tegsaseu-seutageiteu-hwagjang-musan-metaga-janyeo-yongryang-insu-cujin/",
+    "status": "published",
+    "published_at": "2026-03-08T18:55:31.000Z"
+  }
+}

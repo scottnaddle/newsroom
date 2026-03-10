@@ -1,0 +1,43 @@
+{
+  "id": "source_002",
+  "stage": "rejected",
+  "draft": {
+    "headline": "대학가 'AI 금지에서 필수로'…평가 패러다임 전환의 시작"
+  },
+  "fact_check": {
+    "score": 91,
+    "verdict": "PASS",
+    "verified_claims": [
+      {
+        "claim": "가천대 AI 강좌 191개로 확대",
+        "source": "mt.co.kr",
+        "status": "verified"
+      },
+      {
+        "claim": "서울대 AI 가이드라인 2월 1일 제정",
+        "source": "mt.co.kr",
+        "status": "verified"
+      },
+      {
+        "claim": "서울시립대 AIChat 도입",
+        "source": "mt.co.kr",
+        "status": "verified"
+      },
+      {
+        "claim": "평가 공정성과 신 디지털 격차 우려",
+        "source": "mt.co.kr & 교육 전문가",
+        "status": "verified"
+      }
+    ],
+    "issues": [],
+    "quality_score": {
+      "structure": "pass",
+      "readability": "pass",
+      "completeness": "pass"
+    }
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "AI Startups Funding: Why Infrastructure Wins in 2026 - World Labs $1B Round",
+    "url": "https://ventureburn.com/from-idea-to-investment-what-venture-capital-actually-sees-in-ai-startups/",
+    "source_name": "VentureBurn",
+    "language": "en",
+    "relevance_score": 88
+  },
+  "digest": {
+    "headline": "페이페이 리의 월드랩스, 1조원 투자 유치...공간지능 AI 인프라 경쟁 가열",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "investment",
+      "spatial-intelligence",
+      "infrastructure"
+    ]
+  },
+  "publish_result": {
+    "ghost_post_id": "69ab2fedff4fbf0001ab70f8",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ab2fedff4fbf0001ab70f8",
+    "public_url": "https://insight.ubion.global/peipei-riyi-weoldeuraebseu-1joweon-tuja-yuci-gongganjineung-ai-inpeura-gyeongjaeng-gayeol/",
+    "status": "published",
+    "published_at": "2026-03-06T19:50:05.000Z"
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T03:45:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T04:00:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T19:50:35.705Z"
+    }
+  ]
+}

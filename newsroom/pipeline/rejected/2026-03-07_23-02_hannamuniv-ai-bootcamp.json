@@ -1,0 +1,41 @@
+{
+  "id": "20260307-2302-hannamuniv-ai-bootcamp",
+  "stage": "rejected",
+  "created_at": "2026-03-07T23:02:00+09:00",
+  "priority": 2,
+  "source": {
+    "title": "한남대, 교육부 '첨단산업 인재양성 부트캠프' 선정",
+    "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=441966",
+    "source_name": "굿모닝충청",
+    "relevance_score": 65,
+    "summary": "한남대학교가 교육부와 한국산업기술진흥원이 주관하는 '2026년 첨단산업 인재양성 부트캠프' 인공지능(AI) 분야 운영대학으로 최종 선정되었다. 서울시립대, 경북대 등과 함께 교육부의 AI 인재양성 정책 확대를 보여주는 사례.",
+    "tags": [
+      "policy",
+      "talent"
+    ],
+    "collected_via": "brave_search"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector",
+      "action": "collected",
+      "timestamp": "2026-03-07T23:02:00+09:00",
+      "note": "관련성 65점. 교육부 AI 부트캠프 사업 관련 추가 대학 선정 소식."
+    }
+  ],
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

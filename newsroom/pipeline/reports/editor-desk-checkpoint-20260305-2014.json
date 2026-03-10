@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-03-05T20:14:00+09:00",
+  "run_agent": "editor-desk",
+  "status": "✅ OPERATIONAL",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "assigned": 0,
+      "queued": 0,
+      "rejected": 0
+    },
+    "02_assigned": 0,
+    "03_reported": 0,
+    "04_drafted": 0,
+    "05_fact_checked": {
+      "total": 0,
+      "pass_90plus": 0,
+      "pass_80_89": 0,
+      "flag_75_79": 0,
+      "fail_below_75": 0
+    },
+    "06_desk_approved": 0,
+    "07_copy_edited": 0,
+    "08_published": 71,
+    "rejected": 40
+  },
+  "queue_status": "empty",
+  "bottleneck": "none",
+  "action_needed": "none — 파이프라인 완전 정상화",
+  "summary": {
+    "total_published": 71,
+    "total_rejected": 40,
+    "active_tasks": 0,
+    "pipeline_health": "✅ 모든 기사 처리 완료"
+  }
+}

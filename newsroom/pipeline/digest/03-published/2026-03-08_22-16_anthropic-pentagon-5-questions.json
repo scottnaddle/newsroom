@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "5 unresolved questions hanging over the Anthropic–Pentagon fracas: 'It's all very puzzling'",
+    "url": "https://www.cnbc.com/2026/03/05/5-big-questions-anthropic-pentagon-ai-war.html",
+    "source_name": "CNBC",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "CNBC analyzes five key unresolved questions surrounding the Pentagon's unprecedented decision to label Anthropic a 'supply chain risk to national security.' The designation, traditionally reserved for foreign adversaries, came after Anthropic refused to grant unfettered military access to its Claude models over concerns about autonomous weapons and mass surveillance. Experts call the move highly unusual, especially as Anthropic's models continue supporting US military operations in Iran.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-08T22:16:00+09:00"
+  },
+  "digest": {
+    "headline": "Anthropic '국가안보 위협' 지정에도 미군 작전서 Claude 계속 사용… 전문가 \"매우 당혹스럽다\"",
+    "lead": "미 국방부가 AI 기업 Anthropic을 '공급망 국가안보 위험'으로 지정했으나, 정작 이란 군사작전에서는 해당 기업의 AI 모델을 계속 사용하고 있어 논란이 확산되고 있다. 자율무기와 대규모 감시에 대한 안전장치를 요구한 Anthropic에 대해 전례 없는 제재가 내려진 가운데, 전문가들은 \"매우 당혹스럽다\"고 평가했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미 국방부가 AI 기업 Anthropic을 '공급망 국가안보 위험'으로 지정했으나, 정작 이란 군사작전에서는 해당 기업의 AI 모델을 계속 사용하고 있어 논란이 확산되고 있다. 자율무기와 대규모 감시에 대한 안전장치를 요구한 Anthropic에 대해 전례 없는 제재가 내려진 가운데, 전문가들은 \"매우 당혹스럽다\"고 평가했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">국방장관 피트 헥세스는 지난 3월 5일 Anthropic을 '국가안보 공급망 위험'으로 공식 지정했다. 이 조치는 전통적으로 외국 적대 세력에만 적용되던 것으로, 미국 기업에 적용된 것은 사상 최초다. 갈등의 핵심은 국방부가 Claude 모델에 대한 무제한 접근을 요구한 반면, Anthropic은 자율무기와 국내 대규모 감시 목적 사용을 제한하는 안전장치를 요구한 데 있다. 합의에 실패하자 트럼프 대통령은 연방기관의 Anthropic 기술 사용을 즉시 중단하고, 국방부에는 6개월 전환 기간을 부여했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">스탠퍼드대 허버트 린 연구원은 \"국가안보에 정말 위험하다면서 6개월 더 쓴다는 건 앞뒤가 맞지 않는다\"고 지적했다. 실제로 Anthropic의 모델은 지정 이후에도 이란 작전을 지원하고 있으며, 이는 국방부가 이 기술을 얼마나 중요하게 여기는지를 역설적으로 보여준다. 현재 OpenAI와 xAI가 기밀 네트워크 접근 승인을 받았으나 즉시 배치는 불가능한 상황이어서, 대체 전환에는 상당한 시간과 비용이 소요될 전망이다. 퇴역 국방 관계자들은 의회에 서한을 보내 이번 조치가 \"위험한 선례\"라고 경고했다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 안전 기준을 둘러싼 정부-기업 간 갈등은 교육 분야에도 직접적 파급력을 갖는다. Anthropic의 Claude는 미국 교육 현장에서도 널리 활용되고 있어, '국가안보 위험' 지정이 교육기관의 AI 도구 선택에 영향을 줄 수 있다. 에듀테크 기업들은 AI 모델 제공사의 정부 관계 리스크를 새로운 벤더 선정 기준으로 고려해야 할 시점이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.cnbc.com/2026/03/05/5-big-questions-anthropic-pentagon-ai-war.html\" style=\"color:#FF6B35;text-decoration:none;\">CNBC</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "anthropic"
+    ],
+    "meta_title": "Anthropic '국가안보 위협' 지정에도 미군 이란 작전서 Claude 계속 사용",
+    "meta_description": "미 국방부가 Anthropic을 공급망 국가안보 위험으로 지정했으나, 이란 군사작전에서는 Claude 모델을 계속 사용 중. AI 안전 기준을 둘러싼 전례 없는 정부-기업 갈등의 핵심 쟁점 5가지를 정리했다.",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-08T22:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-08T22:44:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T13:56:35.809Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ad8013ff4fbf0001ab751e",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ad8013ff4fbf0001ab751e",
+    "public_url": "https://insight.ubion.global/anthropic-guggaanbo-wihyeob-jijeongedo-migun-jagjeonseo-claude-gyesog-sayong-jeonmunga-maeu-danghogseureobda/",
+    "status": "published",
+    "published_at": "2026-03-08T13:56:35.000Z"
+  }
+}

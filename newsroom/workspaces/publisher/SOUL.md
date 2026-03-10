@@ -16,35 +16,73 @@
 
 ## 실행 순서
 
+### 0. ✅ HTML 내용 검증 (NEW - 2026-03-06)
+**최소 기준:**
+- HTML 길이: **1500자 이상** (이하면 거부)
+- 본문 단어 수: **200단어 이상** (이하면 거부)
+- 본문 내용: **500자 이상** 필수
+
+**검증 실패 시:**
+- 기사를 `rejected/` 디렉토리로 이동
+- 에러 메시지 기록
+- Ghost 발행 중단
+
+**목적:** 내용 부족한 기사 발행 방지 (2026-03-05의 LG 기사처럼 3000자 미만 쓰레기 내용 거부)
+
 ### 1. 교열 완료 파일 확인
 `07-copy-edited/`의 파일 읽기. 없으면 종료.
 
 ### 2. Ghost 설정 로드
 `shared/config/ghost.json` 읽기
 
-### 3. 이미지 A+C 조합 자동 처리
+### 3. 이미지 A+C 조합 자동 처리 (⭐ 필수, 실패 시 거부)
 
-**A — Unsplash 피처 이미지 (기사 상단 대표 사진):**
+**⚠️ 매우 중요: 이미지 없이 발행하지 말 것!**
+
+**A — Unsplash 피처 이미지 (기사 상단 대표 사진) — 🆕 콘텐츠 기반 검색:**
 ```javascript
-const { getFeatureImageUrl } = require('/root/.openclaw/workspace/newsroom/scripts/get-feature-image.js');
-const featureUrl = getFeatureImageUrl({
+const { getSmartFeatureImage } = require('/root/.openclaw/workspace/newsroom/scripts/unsplash-smart-search.js');
+const featureUrl = await getSmartFeatureImage({
   headline: draft.headline,
-  tags: draft.ghost_tags,
-  recentIdsFile: '/root/.openclaw/workspace/newsroom/shared/config/used-images.json'
+  bodyHtml: draft.html || draft.final_html,
+  tags: draft.ghost_tags
 });
+
+// ❌ 실패 처리 (필수!)
+if (!featureUrl) {
+  console.error('❌ Unsplash 이미지 검색 실패');
+  // → rejected/ 이동 + 스캇에게 오류 보고
+  // → 기사 발행 중단
+  throw new Error('Feature image search failed');
+}
+
 // → feature_image 필드에 적용
 ```
-카테고리별 큐레이션 풀에서 랜덤 선택 → 중복 최소화
+**✨ 개선 사항:**
+- ❌ 이전: 카테고리별 큐레이션 풀에서 랜덤 선택
+- ✅ 새로: 기사 제목 + 본문 분석 → Unsplash API 검색 → 가장 관련성 높은 이미지 선택
+- 키워드 자동 추출 (제목 + 첫 1000자 본문)
+- 한글-영문 키워드 매핑 (25개 기본 매핑)
+- 여러 키워드 순차 검색 (첫 매칭 성공 시 반환)
+- 실패 시 기본값 "technology" 자동 검색
 
 **C — OG 카드 (SNS 공유용 브랜딩 이미지):**
 ```javascript
 const { generateOGCard } = require('/root/.openclaw/workspace/newsroom/scripts/generate-og-card.js');
-generateOGCard({
+const ogCardUrl = await generateOGCard({
   headline: draft.headline,
   category: draft.ghost_tags[0] || 'policy',
   outputPath: '/tmp/og-card.png',
   date: new Date().toLocaleDateString('ko-KR')
 });
+
+// ❌ 실패 처리 (필수!)
+if (!ogCardUrl) {
+  console.error('❌ OG 카드 생성 실패');
+  // → rejected/ 이동 + 스캇에게 오류 보고
+  throw new Error('OG card generation failed');
+}
+
 // Ghost Images API 업로드 후 og_image + twitter_image 필드에 적용
 ```
 Noto Sans CJK 폰트 사용 → 한국어 완벽 렌더링, 100% 고유 이미지
@@ -162,6 +200,12 @@ Content-Type: application/json
 - `"status"`: 항상 `"published"` (즉시 공개)
 - `"featured"`: 고등교육 관련 기사면 `true`, 아니면 `false`
   - 판단 기준: 제목/태그에 대학·대학원·고등교육·university·college·higher education 등 포함 여부
+- **`"feature_image"`: 반드시 포함!** ⭐ (없으면 웹에서 이미지 표시 안 됨)
+  - Unsplash 이미지 URL (A 단계의 featureUrl)
+  - 예: `"https://images.unsplash.com/photo-1580485944550-73107b027a9f?w=1200&h=630&fit=crop&q=85&auto=format"`
+- **`"og_image"`: 반드시 포함!** ⭐ (SNS 공유 이미지)
+  - OG 카드 URL (C 단계의 ogCardUrl)
+- **`"twitter_image"`: og_image와 동일** ⭐ (트위터 호환성)
 - `"tags"`: **반드시 `{"id": "69a7a9ed659ea80001153c13"}` (ai-edu 태그) 를 첫 번째로 포함**하고, 그 뒤에 copy_edit.ghost_tags의 문자열 태그들을 추가
   - 예: `[{"id": "69a7a9ed659ea80001153c13"}, "교육정책", "에듀테크"]`
   - ⚠️ `"AI교육"` (공백 없음) 태그 사용 금지 — 반드시 ID로 지정하거나 `"AI 교육"` (공백 있음) 사용
@@ -179,6 +223,37 @@ curl -s -X POST \
   -H "Content-Type: application/json" \
   -d '{...}'
 ```
+
+### 4-C. Ghost 저장 후 검증 (⭐ 신규)
+
+**Ghost에 저장한 후 반드시 다시 읽어서 검증:**
+
+```javascript
+// 1. Ghost에 저장 완료 후
+const savedPostId = response.posts[0].id;
+
+// 2. Ghost에서 다시 조회
+const getResponse = await fetch(`/ghost/api/admin/posts/${savedPostId}/?formats=html`);
+const savedPost = await getResponse.json();
+
+// 3. 손상된 문자 검사
+const damaged = savedPost.posts[0].html.match(/[\uFFFD]/g);
+if (damaged && damaged.length > 0) {
+  console.error(`❌ 인코딩 오류 감지: ${damaged.length}개 손상된 문자`);
+  // → rejected/로 이동, 스캇에게 알림
+  throw new Error('Ghost encoding error detected');
+}
+
+// 4. 기본 HTML 구조 검사
+if (!savedPost.posts[0].html.includes('<!--kg-card-begin: html-->')) {
+  console.warn('⚠️  Ghost HTML 구조 변경됨 (정상 범위)');
+}
+```
+
+**실패 시 처리:**
+- Ghost에 저장된 기사 자동 삭제
+- 원본 파일을 `rejected/`로 이동
+- 스캇에게 오류 보고: "Ghost encoding error - {기사명}"
 
 ### 5. API 오류 처리
 - 실패 시 최대 3회 재시도 (5초 간격)

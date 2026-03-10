@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "US drafts strict guidelines for AI companies after Pentagon's clash with Anthropic",
+    "url": "https://www.livemint.com/news/us-news/us-govt-strict-guidelines-ai-companies-dept-war-all-lawful-use-models-license-military-pentagon-anthropic-csr-ft-report-11772860014412.html",
+    "source_name": "LiveMint",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "The Trump administration drafted strict civilian AI contract rules mandating 'any lawful use' licensing, with contractors required to provide 'neutral, non-partisan' AI tools free of ideological bias. The rules also require disclosure of compliance with non-US frameworks like the EU Digital Services Act, potentially forcing a decoupling of the American AI stack from global standards.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-09T14:02:00+09:00"
+  },
+  "digest": {
+    "headline": "미국 정부, AI 기업에 '모든 합법적 사용' 허용 의무화… 앤스로픽과의 갈등 후 계약 규정 강화",
+    "lead": "트럼프 행정부가 민간 AI 계약에 대해 '모든 합법적 사용(any lawful use)' 라이선스를 의무화하는 새 지침을 마련했다. 국방부와 앤스로픽(Anthropic)의 공개적 충돌 이후 나온 조치로, AI 기업들이 미국 정부와 거래하려면 군사 목적 포함 모든 합법적 용도에 모델 사용을 허용해야 한다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">트럼프 행정부가 민간 AI 계약에 대해 '모든 합법적 사용(any lawful use)' 라이선스를 의무화하는 새 지침을 마련했다. 국방부와 앤스로픽(Anthropic)의 공개적 충돌 이후 나온 조치로, AI 기업들이 미국 정부와 거래하려면 군사 목적 포함 모든 합법적 용도에 모델 사용을 허용해야 한다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">미국 조달청(GSA)이 초안한 새 규정에 따르면, AI 기업은 정부에 모델의 취소 불가능한(irrevocable) 라이선스를 부여해야 한다. 또한 '다양성·형평성·포용성(DEI) 등 이념적 편향이 없는 중립적·비당파적 도구'를 제공해야 한다는 조건도 포함됐다. 이 규정은 국방부가 앤스로픽을 '공급망 리스크(SCR)'로 지정하고 모든 국방 계약에서 배제한 직후 나왔다. 앤스로픽 CEO 다리오 아모데이는 이 지정이 법적 근거가 없다며 법적 대응을 예고한 상태다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">새 지침에는 EU 디지털서비스법 등 비미국 규제 프레임워크 준수 여부를 공개하도록 요구하는 조항이 포함돼 있어, 미국 AI 산업이 글로벌 규제 표준에서 분리(decoupling)될 가능성이 제기된다. AI 기업들은 미국 정부 계약과 유럽·아시아 시장 사이에서 양자택일 압력을 받을 수 있다. 국방부가 유사한 조건을 군사 계약에도 적용할 것을 검토 중이어서, AI 기업의 윤리 정책과 정부 요구 사이의 긴장은 더 심화될 전망이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 모델의 '이념적 중립성' 의무화는 교육용 AI 서비스에도 직접 영향을 미칠 수 있다. 미국 공립학교와 대학이 연방 조달 규정을 따르는 AI 도구를 도입할 경우, 콘텐츠 필터링·안전장치 설계 기준이 달라질 수 있다. 또한 미국과 EU 규제 분리가 현실화되면, 글로벌 시장을 겨냥하는 에듀테크 기업은 지역별로 다른 AI 모델 정책을 적용해야 하는 복잡성이 커진다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.livemint.com/news/us-news/us-govt-strict-guidelines-ai-companies-dept-war-all-lawful-use-models-license-military-pentagon-anthropic-csr-ft-report-11772860014412.html\" style=\"color:#FF6B35;text-decoration:none;\">LiveMint</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "anthropic"
+    ],
+    "meta_title": "미국 정부, AI 기업에 '모든 합법적 사용' 의무화 – 앤스로픽 갈등 후 계약 규정 강화",
+    "meta_description": "트럼프 행정부가 AI 기업에 군사 포함 모든 합법적 용도 라이선스를 의무화하는 새 계약 지침을 마련했다. 앤스로픽 공급망 리스크 지정 이후 나온 조치로, EU 규제와의 분리 가능성도 제기된다.",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T14:02:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T14:53:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T06:30:59.142Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae6923ff4fbf0001ab7845",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae6923ff4fbf0001ab7845",
+    "public_url": "https://insight.ubion.global/migug-jeongbu-ai-gieobe-modeun-habbeobjeog-sayong-heoyong-yimuhwa-aenseuropiggwayi-galdeung-hu-gyeyag-gyujeong-ganghwa/",
+    "status": "published",
+    "published_at": "2026-03-09T06:30:59.000Z"
+  }
+}

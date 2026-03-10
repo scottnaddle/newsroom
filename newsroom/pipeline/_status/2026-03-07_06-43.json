@@ -1,0 +1,71 @@
+{
+  "timestamp": "2026-03-07T06:43:00+09:00",
+  "agent": "editor-desk",
+  "check_type": "30min-cron",
+  "pipeline": {
+    "00-intake": 0,
+    "01-sourced": 2,
+    "02-assigned": 0,
+    "03-reported": 0,
+    "04-drafted": 0,
+    "05-fact-checked": 0,
+    "06-desk-approved": 0,
+    "07-copy-edited": 0,
+    "08-published": 15,
+    "rejected": 40
+  },
+  "published_analysis": {
+    "total": 15,
+    "ghost_published": 11,
+    "ghost_draft": 4,
+    "missing_images": 14,
+    "missing_quality_report": 5
+  },
+  "quality_checks": {
+    "title_content_match": "PASS",
+    "image_validity": "PARTIAL (14 missing)",
+    "duplicate_detection": "PASS",
+    "content_length": "PASS",
+    "metadata_complete": "PARTIAL",
+    "html_validation": "PASS",
+    "factcheck_confidence": "PARTIAL"
+  },
+  "issues": [
+    {
+      "severity": "high",
+      "issue": "missing_feature_images",
+      "count": 14,
+      "recommendation": "Publisher 이미지 생성 로직 실행"
+    },
+    {
+      "severity": "medium",
+      "issue": "ghost_draft_status",
+      "articles": [
+        "ai-era-children-education",
+        "ai-ethics-policy-universities", 
+        "asia-ai-research-consortium",
+        "korea-ai-love-politico"
+      ],
+      "recommendation": "Ghost에서 published로 변경"
+    },
+    {
+      "severity": "medium",
+      "issue": "missing_quality_report",
+      "count": 5,
+      "recommendation": "Fact-checker 재실행"
+    }
+  ],
+  "pending_articles": [
+    {
+      "id": "202603070525-kci-ai-career",
+      "title": "한국기술교육대학교 황현아 교수 AI 진로상담 논문 KCI 등재",
+      "relevance": 65
+    },
+    {
+      "id": "20260307-0625-daegu-ai-bootcamp",
+      "title": "대구시 경북대·계명대 AI·로봇 분야 선정",
+      "relevance": 70
+    }
+  ],
+  "report_file": "EDITOR_DESK_PIPELINE_CHECK_2026-03-07_0643.md"
+}

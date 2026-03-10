@@ -1,0 +1,234 @@
+{
+  "timestamp": "2026-03-05T22:47:48.057Z",
+  "total": 12,
+  "actions": [
+    {
+      "filename": "2026-03-02_11-23_hani-ai-ethics-guideline.json",
+      "id": "20260302-1123-hani-ai-ethics",
+      "headline": "교육부, 대학 AI 활용 윤리 가이드라인 시안 공개",
+      "score": 91,
+      "verdict": "COPY_EDITED (신뢰도 90+)",
+      "checks": {
+        "headline_match": "PASS",
+        "image_valid": "PASS",
+        "duplicate": "PASS",
+        "metadata": "PASS",
+        "html_valid": "PASS",
+        "factcheck_score": "PASS",
+        "category": "PASS"
+      }
+    },
+    {
+      "filename": "2026-03-02_11-23_mk-ai-cheating-prevention.json",
+      "id": "20260302-1123-mk-ai-cheating-prevention",
+      "headline": "교육부, 대학 AI 윤리 가이드라인 초안 공개",
+      "score": 95,
+      "verdict": "COPY_EDITED (신뢰도 90+)",
+      "checks": {
+        "headline_match": "PASS",
+        "image_valid": "PASS",
+        "duplicate": "PASS",
+        "metadata": "PASS",
+        "html_valid": "PASS",
+        "factcheck_score": "PASS",
+        "category": "PASS"
+      }
+    },
+    {
+      "filename": "2026-03-02_11-53_kjob-uk-us-ai-governance-korea.json",
+      "id": "20260302-1153-001",
+      "headline": "영·미 AI 교육 거버넌스 강화, 한국 선택은",
+      "score": 82,
+      "verdict": "DESK_APPROVED",
+      "checks": {
+        "headline_match": "PASS",
+        "image_valid": "PASS",
+        "duplicate": "PASS",
+        "metadata": "PASS",
+        "html_valid": "PASS",
+        "factcheck_score": "PASS",
+        "category": "PASS"
+      }
+    },
+    {
+      "filename": "2026-03-02_12-53_joongang-ai-ethics-guideline.json",
+      "id": "20260302125301",
+      "headline": "교육부, 대학 AI 윤리 가이드라인 시안 공개",
+      "score": 87,
+      "verdict": "KILL"
+    },
+    {
+      "filename": "2026-03-02_18-00_inews365-kttu-ai-bootcamp.json",
+      "id": "20260302-1800-inews365-kttu",
+      "headline": "교육부 AI 부트캠프, 전국 41개교 신규 선정",
+      "score": 96,
+      "verdict": "COPY_EDITED (신뢰도 90+)",
+      "checks": {
+        "headline_match": "PASS",
+        "image_valid": "PASS",
+        "duplicate": "PASS",
+        "metadata": "PASS",
+        "html_valid": "PASS",
+        "factcheck_score": "PASS",
+        "category": "PASS"
+      }
+    },
+    {
+      "filename": "2026-03-03_09-46_moe-ai-ethics-guideline.json",
+      "id": "20260303-0946-moe-ai-ethics-guideline",
+      "headline": "교육부, 대학 AI 윤리 가이드라인 시안 공개…4~5월 전국 배포",
+      "score": 96,
+      "verdict": "COPY_EDITED (신뢰도 90+)",
+      "checks": {
+        "headline_match": "PASS",
+        "image_valid": "PASS",
+        "duplicate": "PASS",
+        "metadata": "PASS",
+        "html_valid": "PASS",
+        "factcheck_score": "PASS",
+        "category": "PASS"
+      }
+    },
+    {
+      "filename": "2026-03-03_17-17_nyt-ai-literacy-newark-school.json",
+      "headline": "AI 리터러시를 운전면허처럼 — 뉴어크 고교의 실험",
+      "score": 78,
+      "verdict": "REVISE_REQUEST",
+      "note": "신뢰도 75-79 (FLAG): 팩트체크 재검증 필요",
+      "checks": {
+        "headline_match": "PASS",
+        "image_valid": "FLAG",
+        "duplicate": "PASS",
+        "metadata": "FLAG",
+        "html_valid": "PASS",
+        "factcheck_score": "PASS",
+        "category": "PASS"
+      }
+    },
+    {
+      "filename": "2026-03-03_1701_ai-ethics-guideline.json",
+      "id": "1740968460003",
+      "headline": "교육부, 대학 AI 활용 윤리 가이드라인 초안 공개",
+      "score": 82,
+      "verdict": "DESK_APPROVED",
+      "checks": {
+        "headline_match": "PASS",
+        "image_valid": "PASS",
+        "duplicate": "PASS",
+        "metadata": "PASS",
+        "html_valid": "PASS",
+        "factcheck_score": "PASS",
+        "category": "PASS"
+      }
+    },
+    {
+      "filename": "2026-03-04_16-49_lg-ai-graduate-school-opens.json",
+      "id": "20260304-1649-lg-ai-graduate-school",
+      "headline": "LG, 국내 첫 교육부 인가 사내 AI 대학원 개원",
+      "score": 84,
+      "verdict": "DESK_APPROVED",
+      "checks": {
+        "headline_match": "PASS",
+        "image_valid": "PASS",
+        "duplicate": "PASS",
+        "metadata": "PASS",
+        "html_valid": "PASS",
+        "factcheck_score": "PASS",
+        "category": "PASS"
+      }
+    },
+    {
+      "filename": "2026-03-04_18-52_ai-korea-innovation-strategy.json",
+      "id": "20260304-1852-kjob-470657",
+      "headline": "LG AI대학원 개원, 기업이 대학원이 되는 시대",
+      "score": 83,
+      "verdict": "REVISE_REQUEST",
+      "issues": [
+        "image_valid",
+        "metadata"
+      ],
+      "checks": {
+        "headline_match": "PASS",
+        "image_valid": "FLAG",
+        "duplicate": "PASS",
+        "metadata": "FLAG",
+        "html_valid": "PASS",
+        "factcheck_score": "PASS",
+        "category": "PASS"
+      }
+    },
+    {
+      "filename": "2026-03-05_0001_lg-ai-graduate-school.json",
+      "id": "20260305-001-lgaigs",
+      "headline": "기업형 대학원 시대 개막: LG AI 대학원 출범의 의미",
+      "score": 88,
+      "verdict": "DESK_APPROVED",
+      "checks": {
+        "headline_match": "PASS",
+        "image_valid": "PASS",
+        "duplicate": "PASS",
+        "metadata": "PASS",
+        "html_valid": "PASS",
+        "factcheck_score": "PASS",
+        "category": "PASS"
+      }
+    },
+    {
+      "filename": "2026-03-05_02_nea-teacher-ai-integration.json",
+      "id": "2026-03-05_02_nea-teacher-ai-integration",
+      "headline": "교사들은 AI를 어떻게 쓰고 있나... 現場 사례",
+      "score": 82,
+      "verdict": "DESK_APPROVED",
+      "checks": {
+        "headline_match": "PASS",
+        "image_valid": "PASS",
+        "duplicate": "PASS",
+        "metadata": "PASS",
+        "html_valid": "PASS",
+        "factcheck_score": "PASS",
+        "category": "PASS"
+      }
+    }
+  ],
+  "routing": {
+    "kill": [
+      "2026-03-02_12-53_joongang-ai-ethics-guideline.json"
+    ],
+    "revise": [
+      "2026-03-03_17-17_nyt-ai-literacy-newark-school.json",
+      "2026-03-04_18-52_ai-korea-innovation-strategy.json"
+    ],
+    "desk_approved": [
+      "2026-03-02_11-53_kjob-uk-us-ai-governance-korea.json",
+      "2026-03-03_1701_ai-ethics-guideline.json",
+      "2026-03-04_16-49_lg-ai-graduate-school-opens.json",
+      "2026-03-05_0001_lg-ai-graduate-school.json",
+      "2026-03-05_02_nea-teacher-ai-integration.json"
+    ],
+    "copy_edited": [
+      "2026-03-02_11-23_hani-ai-ethics-guideline.json",
+      "2026-03-02_11-23_mk-ai-cheating-prevention.json",
+      "2026-03-02_18-00_inews365-kttu-ai-bootcamp.json",
+      "2026-03-03_09-46_moe-ai-ethics-guideline.json"
+    ]
+  },
+  "issues": [
+    {
+      "file": "2026-03-02_12-53_joongang-ai-ethics-guideline.json",
+      "issue": "AI badge found (self-label)",
+      "auto_kill": true
+    },
+    {
+      "file": "2026-03-03_17-17_nyt-ai-literacy-newark-school.json",
+      "issue": "Missing image",
+      "feature_image": false,
+      "og_image": false
+    },
+    {
+      "file": "2026-03-04_18-52_ai-korea-innovation-strategy.json",
+      "issue": "Missing image",
+      "feature_image": false,
+      "og_image": false
+    }
+  ]
+}

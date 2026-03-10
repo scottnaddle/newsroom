@@ -1,0 +1,10 @@
+{
+  "id": "source_009",
+  "stage": "fact-checked",
+  "source": {"url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/", "title": "대학 AI 거버넌스"},
+  "draft": {
+    "headline": "대학 AI 거버넌스의 '현실과 갭'…섀도우 AI와 규제의 압박",
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e\"><div style=\"border-left:4px solid #4338ca;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:48px\"><p style=\"margin:0;font-weight:600\">정책</p><p style=\"margin:8px 0 0\">EDUCAUSE 조사에 따르면 80%의 교직원이 AI를 사용하지만, 25% 미만만 공식 정책을 인지한다.</p></div><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">대학 AI 거버넌스 위기</h2><p style=\"margin:0 0 32px\">대학에서 AI 도입이 정책을 앞지르고 있다. '섀도우 AI'라 불리는 미승인 AI 도구들이 캠퍼스에 확산되면서 데이터 유출, FERPA 위반, 사이버보안 위험이 증가하고 있다. EU AI Act는 2026년 8월부터 고위험 AI 규정을 적용한다. 대학들은 투명성, 편향 감시, 인간-루프 감시, 지속적 모니터링 등 4가지 거버넌스 기둥을 구축해야 한다.</p><div style=\"border-top:1px solid #e2e8f0;margin-top:44px;padding-top:32px\"><ol style=\"margin:0;padding-left:20px\"><li><a href=\"https://www.theeducationmagazine.com/ai-governance-in-higher-education/\" style=\"color:#0284c7;text-decoration:none\">AI Governance in Higher Education - The Education Magazine</a></li></ol></div><p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>"
+  },
+  "fact_check": {"score": 90, "verdict": "PASS", "issues": []}
+}

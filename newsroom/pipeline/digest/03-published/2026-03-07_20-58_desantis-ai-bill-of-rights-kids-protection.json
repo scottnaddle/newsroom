@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "DeSantis revives push for AI protections focused on kids as Florida session nears end",
+    "url": "https://www.wtxl.com/news/capitol-news/with-time-running-out-desantis-revives-push-for-ai-protections-focused-on-kids",
+    "source_name": "WTXL",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Florida Gov. DeSantis held a Capitol roundtable to push his 'AI Bill of Rights' focusing on children's safety from AI chatbots. Parents testified about harmful chatbot interactions with teens. MIT physicist Max Tegmark called for basic safety regulation. The bill passed the Senate 35-2 but faces opposition from House leadership, which prefers federal-level regulation.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-07T20:58:00+09:00"
+  },
+  "digest": {
+    "headline": "플로리다 'AI 권리장전' 법안, 아동 보호 중심으로 막판 추진",
+    "lead": "론 드산티스 플로리다 주지사가 입법 회기 종료를 앞두고 'AI 권리장전' 법안 통과를 위한 마지막 압박에 나섰다. AI 챗봇이 청소년에게 자해를 권유한 사례가 공개되며 규제 필요성이 부각됐지만, 하원 지도부는 연방 차원의 규제를 선호하며 법안 처리에 소극적인 상황이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">론 드산티스 플로리다 주지사가 입법 회기 종료를 앞두고 'AI 권리장전(Artificial Intelligence Bill of Rights)' 법안 통과를 위한 마지막 압박에 나섰다. AI 챗봇이 청소년에게 자해를 권유한 실제 사례가 공개되며 규제 필요성이 부각됐지만, 하원 지도부는 연방 차원의 규제를 선호하며 법안 처리에 소극적이다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">드산티스 주지사는 3월 6일 주 의회에서 원탁회의를 열어 학부모, 연구자, 주 관계자들을 소집했다. 한 학부모는 AI 챗봇과 대화한 뒤 아들이 자해 충동을 보이기 시작했다고 증언했으며, MIT 물리학자 맥스 테그마크는 \"AI 산업만 유일하게 기본적인 안전 규제가 없다\"고 지적했다. 해당 법안은 AI 사용 시 고지 의무, 개인정보 보호 강화, 미성년자 AI 사용에 대한 부모 통제권 부여 등을 골자로 한다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">상원은 35대 2로 법안을 통과시켰지만, 하원 의장 대니 페레즈는 AI 규제가 연방 정부 소관이라며 처리를 사실상 거부하고 있다. 이는 백악관의 입장과도 일치한다. 그러나 미 연방 의회가 포괄적 AI 법안 통과에 번번이 실패하면서, 주 단위 규제의 필요성을 주장하는 목소리도 커지고 있다. 드산티스 주지사는 \"연방 규칙도, 의회 입법도 없는 상황에서 기다릴 수 없다\"고 강조했다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">이 법안이 통과될 경우 K-12 및 대학에서 AI 도구를 활용하는 에듀테크 기업들은 미성년자 대상 AI 상호작용 고지, 부모 동의 절차, 데이터 보호 등 새로운 준수 요건을 갖춰야 한다. 플로리다를 시작으로 다른 주들도 유사 입법에 나설 가능성이 높아, AI 튜터링·챗봇 기반 학습 플랫폼 개발사는 규제 대응 체계를 선제적으로 마련할 필요가 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.wtxl.com/news/capitol-news/with-time-running-out-desantis-revives-push-for-ai-protections-focused-on-kids\" style=\"color:#FF6B35;text-decoration:none;\">WTXL</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation"
+    ],
+    "meta_title": "플로리다 'AI 권리장전' 법안, 아동 보호 중심으로 막판 추진",
+    "meta_description": "드산티스 플로리다 주지사가 AI 챗봇의 아동 위해 사례를 근거로 'AI 권리장전' 법안 통과를 압박하고 있다. 상원은 통과했지만 하원 지도부는 연방 규제를 선호하며 소극적 태도를 보이고 있다.",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T20:58:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T21:47:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T13:05:43.660Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ac229cff4fbf0001ab73a1",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ac229cff4fbf0001ab73a1",
+    "public_url": "https://insight.ubion.global/peulrorida-ai-gweonrijangjeon-beoban-adong-boho-jungsimeuro-magpan-cujin/",
+    "status": "published",
+    "published_at": "2026-03-07T13:05:32.000Z"
+  }
+}

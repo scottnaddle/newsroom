@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🔍 에이전트 활동 로그</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: 'Noto Sans KR', system-ui, sans-serif;
+      background: linear-gradient(135deg, #06b6d4 0%, #0891b2 100%);
+      color: #1a1a2e;
+      min-height: 100vh;
+      padding: 20px;
+    }
+    
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    
+    header {
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      margin-bottom: 24px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    
+    h1 {
+      font-size: 28px;
+      font-weight: 800;
+      margin-bottom: 8px;
+    }
+    
+    .subtitle {
+      font-size: 14px;
+      color: #6b7280;
+    }
+    
+    /* Agent Status */
+    .agent-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 12px;
+      margin-bottom: 24px;
+    }
+    
+    .agent-card {
+      background: white;
+      border-radius: 8px;
+      padding: 16px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      border-left: 4px solid #06b6d4;
+    }
+    
+    .agent-name {
+      font-size: 13px;
+      font-weight: 700;
+      color: #374151;
+      margin-bottom: 8px;
+    }
+    
+    .agent-status {
+      font-size: 12px;
+      color: #6b7280;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #10b981;
+    }
+    
+    .status-dot.idle {
+      background: #9ca3af;
+    }
+    
+    /* Activity Log */
+    .activity-log {
+      background: white;
+      border-radius: 12px;
+      padding: 24px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    
+    .activity-log h2 {
+      font-size: 16px;
+      font-weight: 700;
+      margin-bottom: 20px;
+      color: #374151;
+    }
+    
+    .activity-item {
+      padding: 16px;
+      border-left: 3px solid #e5e7eb;
+      margin-bottom: 12px;
+      border-radius: 4px;
+      transition: all 0.3s;
+    }
+    
+    .activity-item:hover {
+      background: #f9fafb;
+      border-left-color: #06b6d4;
+    }
+    
+    .activity-item.success {
+      border-left-color: #10b981;
+    }
+    
+    .activity-item.error {
+      border-left-color: #ef4444;
+      background: #fef2f2;
+    }
+    
+    .activity-time {
+      font-size: 11px;
+      color: #9ca3af;
+      margin-bottom: 4px;
+    }
+    
+    .activity-content {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+    }
+    
+    .activity-agent {
+      font-weight: 700;
+      font-size: 13px;
+      color: #06b6d4;
+      min-width: 80px;
+    }
+    
+    .activity-action {
+      flex: 1;
+      font-size: 13px;
+      color: #374151;
+    }
+    
+    .activity-status {
+      font-size: 11px;
+      font-weight: 600;
+      padding: 4px 8px;
+      border-radius: 4px;
+      background: #dbeafe;
+      color: #0369a1;
+    }
+    
+    .activity-status.error {
+      background: #fee2e2;
+      color: #991b1b;
+    }
+    
+    footer {
+      text-align: center;
+      color: white;
+      font-size: 12px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>🔍 에이전트 활동 로그</h1>
+      <p class="subtitle">모든 에이전트의 실시간 작업 기록</p>
+    </header>
+    
+    <!-- Agent Status -->
+    <div class="agent-grid" id="agentGrid">
+      <!-- JavaScript로 동적 생성 -->
+    </div>
+    
+    <!-- Activity Log -->
+    <div class="activity-log">
+      <h2>📋 최근 30분 활동</h2>
+      <div id="activityList">
+        <!-- JavaScript로 동적 생성 -->
+      </div>
+    </div>
+  </div>
+  
+  <footer>
+    <p>🔄 1분마다 자동 갱신 | 모든 에이전트 추적</p>
+  </footer>
+  
+  <script>
+    async function loadData() {
+      try {
+        const res = await fetch('/api/agents');
+        const data = await res.json();
+        
+        // Agent Grid
+        let agentHtml = '';
+        Object.entries(data.agents).forEach(([key, agent]) => {
+          const statusDot = agent.status === 'processing' ? 'success' : 'idle';
+          const koreanName = {
+            'sourcer': '소스수집기',
+            'reporter': '취재기자',
+            'writer': '작성기자',
+            'fact_checker': '팩트체커',
+            'editor_desk': '에디터/데스크',
+            'copy_editor': '교열기자',
+            'publisher': '발행에이전트',
+            'digest_writer': '다이제스트작성기',
+            'digest_publisher': '다이제스트발행기',
+            'cartoon_agent': '만평생성기'
+          }[key] || key;
+          
+          agentHtml += `
+            <div class="agent-card">
+              <div class="agent-name">${koreanName}</div>
+              <div class="agent-status">
+                <div class="status-dot ${statusDot}"></div>
+                <span>${agent.status === 'processing' ? '작업중' : '대기중'}</span>
+              </div>
+            </div>
+          `;
+        });
+        
+        document.getElementById('agentGrid').innerHTML = agentHtml;
+        
+        // Activity Log
+        const activities = data.recentActivity || [];
+        let activityHtml = '';
+        
+        if (activities.length === 0) {
+          activityHtml = '<p style="text-align:center; color:#9ca3af; padding:40px; font-size:13px;">📭 최근 활동 없음</p>';
+        } else {
+          activities.slice(0, 20).forEach(activity => {
+            const date = new Date(activity.timestamp);
+            const time = date.toLocaleTimeString('ko-KR', { 
+              hour: '2-digit', minute: '2-digit', second: '2-digit'
+            });
+            
+            const isError = activity.details?.status === 'error';
+            const koreanAgent = {
+              'sourcer': '소수집기',
+              'reporter': '기자',
+              'writer': '작성',
+              'fact_checker': '팩트',
+              'editor_desk': '데스크',
+              'copy_editor': '교열',
+              'publisher': '발행',
+              'digest_writer': 'Digest',
+              'digest_publisher': 'Digest발행',
+              'cartoon_agent': '만평'
+            }[activity.agent] || activity.agent;
+            
+            activityHtml += `
+              <div class="activity-item ${isError ? 'error' : 'success'}">
+                <div class="activity-time">🕐 ${time}</div>
+                <div class="activity-content">
+                  <div class="activity-agent">${koreanAgent}</div>
+                  <div class="activity-action">${activity.action}</div>
+                  <div class="activity-status ${isError ? 'error' : ''}">
+                    ${isError ? '❌ 실패' : '✅ 성공'}
+                  </div>
+                </div>
+              </div>
+            `;
+          });
+        }
+        
+        document.getElementById('activityList').innerHTML = activityHtml;
+      } catch (e) {
+        console.error('데이터 로드 오류:', e);
+      }
+    }
+    
+    loadData();
+    setInterval(loadData, 60 * 1000);
+  </script>
+</body>
+</html>

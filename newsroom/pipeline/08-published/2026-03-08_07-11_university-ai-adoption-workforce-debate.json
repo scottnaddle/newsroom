@@ -1,0 +1,92 @@
+{
+  "stage": "published",
+  "source": {
+    "url": "https://news.unn.net/news/articleView.html?idxno=590453",
+    "title": "대학 'AI 교육' 도입 확산… 효율 높인다 vs 강사·조교 인력 축소?",
+    "snippet": "AI 도입으로 대학 비용 절감 및 강사 규모 축소 가능성.",
+    "published_date": "2026-03-04"
+  },
+  "relevance_score": 82,
+  "tags": [
+    "university",
+    "workforce",
+    "debate"
+  ],
+  "collected_at": "2026-03-07T22:13:14.911Z",
+  "assigned_at": "2026-03-08T07:37:00+09:00",
+  "reported_at": "2026-03-08T07:48:00+09:00",
+  "reporting_brief": {
+    "who": "한국대학신문 취재. KAIST, 삼육보건대, 영산대, 경희대, 전 교육부 차관 등.",
+    "what": "대학 AI 조교·자동채점·AI 튜터 도입 확산. 효율 제고 vs 인력 축소 우려 동시 제기.",
+    "why": "비전임교원 153,923명 의존 구조에서 AI가 반복 업무 대체 시 인력 감축 가능성.",
+    "when": "2026년 3월 4일 보도.",
+    "context": "정부 AI 보조교사 도입 추진 속 대학 현장 자발적 도입 선행.",
+    "sources": [
+      {
+        "url": "https://news.unn.net/news/articleView.html?idxno=590453",
+        "title": "한국대학신문 - 대학 AI 교육 도입 효율 vs 인력 축소",
+        "reliability": "높음"
+      },
+      {
+        "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=105277",
+        "title": "교육부 - AID 사업 기본계획",
+        "reliability": "최고"
+      },
+      {
+        "url": "https://www.edupress.kr/news/articleView.html?idxno=21727",
+        "title": "에듀프레스 - AI 보조교사 도입 검토",
+        "reliability": "중상"
+      },
+      {
+        "url": "https://www.gttkorea.com/news/articleView.html?idxno=24497",
+        "title": "GTT코리아 - 재직자 AI 집중과정",
+        "reliability": "중상"
+      }
+    ],
+    "perspectives": {
+      "government": "AI는 교사 대체가 아닌 조력자 역할.",
+      "education": "대형강의 접근성 향상 vs 비정규교수 인력 감축 우려.",
+      "industry": "글로벌 도입 가속. 운영 철학이 결과 좌우."
+    },
+    "suggested_angle": "AI가 대학 강의실에 들어오면 누가 밀려나는가."
+  },
+  "draft": {
+    "headline": "AI가 대학 강의실에 들어오면, 누가 밀려나는가",
+    "subheadline": "비정규교수 15만 명 시대에 AI 조교 확산이 던지는 질문 — 효율의 이면에 있는 노동 구조의 갈림길",
+    "html": "<div style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;font-size:17px;line-height:1.9;color:#1a202c\">\n\n<div style=\"border-left:4px solid #7c3aed;background:#f8f9ff;padding:20px 24px;margin-bottom:32px;border-radius:0 8px 8px 0\">\n<p style=\"margin:0;font-size:18px;font-weight:600;color:#7c3aed\">대학에 AI 조교와 자동채점 시스템이 빠르게 퍼지고 있다. 교육 효율은 분명히 올라간다. 그런데 한국 대학의 강의 절반을 책임지는 비정규교수 15만 명에게, 이 변화는 기회일까 위협일까.</p>\n</div>\n\n<figure class=\"kg-card kg-image-card kg-width-full\">\n<img src=\"https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=1200\" alt=\"대학 강의실 풍경\" style=\"width:100%;border-radius:8px\" />\n<figcaption style=\"text-align:center;font-size:14px;color:#94a3b8;margin-top:8px\">대학 강의의 절반 가까이를 비전임교원이 담당하는 현실에서, AI 도입은 복잡한 질문을 던진다. (Unsplash)</figcaption>\n</figure>\n\n<h2 style=\"font-size:19px;margin-top:36px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">이미 강의실에 들어온 AI</h2>\n<p>KAIST는 AI 조교 'VTA'를 시험 운영 중이다. 대형 강의에서 학생들의 반복적인 질문에 AI가 즉시 답변하고, 과제 피드백을 자동으로 제공한다. 미국 Arizona State University(ASU)는 이미 생성형 AI 기반 학습지원 시스템을 도입했고, 영국 Oxford University는 '소크라테스식 AI 학습 파트너'를 연구하고 있다.</p>\n<p>한국에서도 대학 현장의 AI 도입은 정부 정책보다 한 발 앞서 진행되고 있다. 정부가 2027년 AI 파운데이션 모델 교육 적용, 2028년 시범 학교 운영 같은 단계적 로드맵을 밝히기 전에, 일부 대학들은 이미 자체적으로 AI 도구를 수업에 통합하기 시작한 것이다. 김수연 영산대 교육부총장은 대형 강의에서 학생의 학습 접근성이 높아졌다고 긍정적으로 평가한다.</p>\n\n<h2 style=\"font-size:19px;margin-top:36px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">15만 비정규교수, 구조적 불안</h2>\n<p>문제는 한국 대학의 교원 구조에 있다. 한국교육개발원의 2025년 통계에 따르면, 전임교원은 86,701명인 반면 비전임교원은 153,923명이다. 대학 강의의 절반 가까이를 비정규직이 담당하는 구조다. 수도권 15개 대학의 전임교원 강의 비율은 평균 55.4%에 불과하며, 가장 높은 한양대조차 64.2%에 그친다.</p>\n<p>이 구조에서 AI가 반복적 업무 — 출결 관리, 과제 채점, 기초 질의응답 — 를 대체하면 어떤 일이 벌어질까. 경희대 김선일 교수는 대학 재정난 속에서 AI가 비용 절감의 수단으로 활용될 경우, 비정규교수에 대한 수요가 줄어들 수밖에 없다고 지적한다. AI 도입이 교육의 질 향상이 아니라 인건비 삭감의 명분으로 쓰일 수 있다는 우려다.</p>\n<p>박주희 삼육보건대 총장은 ASU 사례를 인용하며 AI가 교수의 역할을 '강의자'에서 '콘텐츠 제작자·공급자'로 바꿀 수 있다고 전망한다. 기존에 강의를 통해 전달하던 지식은 AI가 담당하고, 교수는 커리큘럼 설계와 깊이 있는 토론 진행에 집중하는 모델이다. 하지만 이 전환이 전임교원에게는 '역할 고도화'로 작용할 수 있어도, 비정규교수에게는 '역할 소멸'로 이어질 수 있다는 점이 핵심 쟁점이다.</p>\n\n<h2 style=\"font-size:19px;margin-top:36px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">'어떻게 운영하느냐'에 달렸다</h2>\n<p>이기우 전 교육부 차관은 균형론을 제시한다. AI 도입 자체가 문제가 아니라, 운영 방식이 결과를 결정한다는 것이다. AI가 줄여준 시간을 학생 상담, 소규모 토론, 개별 멘토링에 재투자한다면 교육의 질은 올라간다. 반대로 비용 절감에만 초점을 맞추면 강의실의 인간적 접촉은 줄어들고, 가장 취약한 고용 형태부터 흔들린다.</p>\n<p>교육부도 '교원 업무 분석, 불필요 업무 폐지, 자동화'라는 단계적 접근을 밝히고 있다. AI가 대체할 수 있는 행정 업무를 먼저 파악하고, 교원이 교육 활동에 집중할 수 있는 환경을 만들겠다는 방향이다. 그러나 이 원칙이 대학 현장에서 실제로 지켜지려면, 비정규교수의 고용 안정 장치가 함께 마련되어야 한다.</p>\n<p>AI가 강의실에 들어오는 것은 이제 시간 문제가 아니라 현재 진행형이다. 그리고 이 변화가 '누구를 위한 효율인가'라는 질문에 대학이 어떤 답을 내놓느냐에 따라, 15만 비정규교수의 미래도 함께 결정된다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0;margin-top:36px;padding-top:20px\">\n<p style=\"font-size:15px;font-weight:600;margin-bottom:12px\">📎 참고자료</p>\n<ol style=\"font-size:15px;color:#475569;padding-left:20px\">\n<li><a href=\"https://news.unn.net/news/articleView.html?idxno=590453\" style=\"color:#7c3aed\">한국대학신문 — 대학 AI 교육 도입 확산, 효율 vs 인력 축소</a></li>\n<li><a href=\"https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=105277\" style=\"color:#7c3aed\">교육부 — 전문대학 AI·디지털 전환 AID 사업 기본계획</a></li>\n<li><a href=\"https://www.edupress.kr/news/articleView.html?idxno=21727\" style=\"color:#7c3aed\">에듀프레스 — AI 보조교사 도입·AI 교육 의무화 검토</a></li>\n<li><a href=\"https://www.gttkorea.com/news/articleView.html?idxno=24497\" style=\"color:#7c3aed\">GTT코리아 — 교육부 2026 재직자 AI·디지털 집중과정</a></li>\n</ol>\n</div>\n\n<p style=\"font-size:13px;color:#cbd5e1;margin-top:32px\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>",
+    "ghost_tags": [
+      "AI 교육",
+      "비정규교수",
+      "대학 노동",
+      "AI 조교",
+      "교육 혁신"
+    ],
+    "references": [
+      "https://news.unn.net/news/articleView.html?idxno=590453",
+      "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=105277",
+      "https://www.edupress.kr/news/articleView.html?idxno=21727",
+      "https://www.gttkorea.com/news/articleView.html?idxno=24497"
+    ],
+    "word_count": 870,
+    "category": "opinion",
+    "meta_title": "AI가 대학 강의실에 들어오면, 누가 밀려나는가",
+    "meta_description": "대학에 AI 조교와 자동채점이 확산되고 있다. 비정규교수 15만 명이 대학 강의 절반을 담당하는 구조에서, AI 도입은 효율인가 인력 감축인가."
+  },
+  "fact_check": {
+    "score": 93,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "비전임교원 153,923명, 전임교원 86,701명 — 한국교육개발원 2025 교육기본통계 확인 (교수신문·코리아타임뉴스·대학지성 동일 수치)",
+      "한국대학신문 원문 기사 존재 확인 — 검색 결과 일치",
+      "교육부 AID 전환 사업 — 정부 보도자료 확인",
+      "비전임교원이 전임교원의 약 1.7배 — 수치 계산 일치 (153,923/86,701 ≈ 1.78)"
+    ]
+  },
+  "desk_approved_at": "2026-03-08T09:00:29.022743+09:00",
+  "copy_edited_at": "2026-03-08T09:01:00+09:00",
+  "ghost_id": "69acc105ff4fbf0001ab7478",
+  "ghost_url": "https://insight.ubion.global/p/7c1a98c7-8371-44d0-a6f7-6d144c33becd/",
+  "ghost_slug": "aiga-daehag-gangyisile-deuleoomyeon-nuga-milryeonaneunga",
+  "published_at": "2026-03-08T00:21:32.458Z"
+}

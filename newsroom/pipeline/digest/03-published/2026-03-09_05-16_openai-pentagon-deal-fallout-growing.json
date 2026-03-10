@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "The Fallout Over OpenAI's Pentagon Deal Is Growing",
+    "url": "https://www.businessinsider.com/openai-pentagon-deal-fallout-backlash-anthropic-altman-amodei-trump-2026-3",
+    "source_name": "Business Insider",
+    "language": "en",
+    "relevance_score": 92,
+    "summary": "OpenAI faces mounting backlash from its Pentagon AI deal. Head of robotics Caitlin Kalinowski resigned, citing insufficient deliberation on surveillance and lethal autonomy. Multiple employees have publicly criticized the agreement, and consumers are uninstalling ChatGPT in protest. Altman amended the deal following criticism but failed to quell the growing opposition.",
+    "published_date": "2026-03-08",
+    "collected_at": "2026-03-09T05:16:00+09:00"
+  },
+  "digest": {
+    "headline": "OpenAI 펜타곤 계약 후폭풍 확산… 핵심 임원 사퇴에 사용자 이탈까지",
+    "lead": "OpenAI의 미 국방부 AI 계약을 둘러싼 반발이 빠르게 확산되고 있다. 로보틱스 책임자 케이틀린 칼리노스키가 사퇴하고, 직원·소비자·의원까지 가세하며 OpenAI의 신뢰 위기가 깊어지고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">OpenAI의 미 국방부 AI 계약을 둘러싼 반발이 빠르게 확산되고 있다. 로보틱스 책임자 케이틀린 칼리노스키가 사퇴하고, 직원·소비자·의원까지 가세하며 OpenAI의 신뢰 위기가 깊어지고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">2월 말, 경쟁사 앤트로픽이 자율 무기와 대규모 국내 감시에 대한 보장을 받지 못해 펜타곤 계약을 거부한 직후, OpenAI의 샘 올트먼 CEO가 국방부 AI 모델 공급 계약을 발표했다. 비판이 쏟아지자 올트먼은 계약 조항을 수정했다고 밝혔으나, 반발은 오히려 더 거세졌다. 로보틱스 부문 책임자 칼리노스키는 \"감시와 치명적 자율성에 대해 충분한 숙의가 없었다\"며 사퇴했고, 연구원 에이든 맥러플린 등 다수 직원도 공개적으로 비판했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">소비자 반발도 극적이다. ChatGPT 삭제 건수가 계약 발표 당일 295% 이상 급증했고, 앤트로픽의 Claude가 미국 앱스토어 1위를 차지했다. 샌프란시스코 본사 앞에서는 'QuitGPT' 시위가 열렸고, 캘리포니아주 의원은 국방부가 AI 기업의 안전장치 도입에 보복하지 못하도록 하는 법안을 발의했다. AI 기업의 군사 계약이 브랜드와 인재 유지에 직접적인 리스크가 된다는 점이 사상 처음으로 대규모로 확인된 사례다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">대학·학교가 ChatGPT 기반 교육 도구를 도입한 상황에서, OpenAI의 군사 계약 논란은 교육 기관의 AI 파트너 선택 기준에 윤리적 평판이 핵심 변수로 부상할 수 있음을 보여준다. 이미 학생·교수 중심의 불매 움직임이 나타나고 있어, 에듀테크 기업들도 AI 공급사의 군사·감시 관련 정책을 사전에 검토해야 할 필요성이 커지고 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.businessinsider.com/openai-pentagon-deal-fallout-backlash-anthropic-altman-amodei-trump-2026-3\" style=\"color:#FF6B35;text-decoration:none;\">Business Insider</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "openai",
+      "regulation"
+    ],
+    "meta_title": "OpenAI 펜타곤 계약 후폭풍 확산, 핵심 임원 사퇴·사용자 이탈 가속",
+    "meta_description": "OpenAI의 미 국방부 AI 계약에 로보틱스 책임자 사퇴, 직원 반발, ChatGPT 삭제 급증, Claude 앱스토어 1위 등 후폭풍이 빠르게 확산되고 있다.",
+    "word_count": 580,
+    "feature_image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T05:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T06:13:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T21:25:28.442Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ade948ff4fbf0001ab7641",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ade948ff4fbf0001ab7641",
+    "public_url": "https://insight.ubion.global/openai-pentagon-gyeyag-hupogpung-hwagsan-haegsim-imweon-satoee-sayongja-italggaji/",
+    "status": "published",
+    "published_at": "2026-03-08T21:25:28.000Z"
+  }
+}

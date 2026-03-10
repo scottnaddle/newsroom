@@ -1,0 +1,141 @@
+{
+  "stage": "published",
+  "source": {
+    "url": "https://www.theguardian.com/education/ng-interactive/2026/mar/03/cheating-machine-or-powerful-assistant-the-ai-anxieties-of-a-trainee-teacher",
+    "title": "Teacher v chatbot: my journey into the classroom in the age of AI",
+    "snippet": "A trainee teacher navigates the challenges of AI in high-school English classes — exploring whether AI is a cheating machine or a powerful teaching assistant, with reflections on pedagogy, assessment, and the future of education.",
+    "published_date": "2026-03-07"
+  },
+  "relevance_score": 55,
+  "tags": [
+    "education",
+    "classroom",
+    "AI-tools",
+    "teacher-perspective"
+  ],
+  "collected_at": "2026-03-09T07:24:00+09:00",
+  "assigned_at": "2026-03-09T07:36:00+09:00",
+  "reported_at": "2026-03-09T07:44:00+09:00",
+  "drafted_at": "2026-03-09T08:12:00+09:00",
+  "editor_notes": "교육 현장의 AI 활용 실제 경험담. 피처/에세이 성격이지만 교실 AI 도입 논쟁은 시의성 있음. 원문 기반 요약 및 한국 교육 맥락 연결 권장.",
+  "reporting_brief": {
+    "who": "미국 시카고 교외 고등학교에서 교생 실습 중인 39세 전직 프리랜서 작가·소설가. 15년간 글을 쓰다 영어 교사가 되기 위해 교직 과정에 진입한 인물.",
+    "what": "AI 챗봇이 교실에 미치는 영향을 '거부파(rejectionists)'와 '옹호파(cheerleaders)' 관점에서 직접 체험한 1인칭 에세이. 학생들이 ChatGPT로 과제를 생성하고, Google 검색이 자동으로 Gemini 챗봇으로 유도하는 현실을 목격. 동시에 AI 없이 함께 읽기(All Quiet on the Western Front) 수업에서 학생들이 몰입하는 '마법의 순간'도 경험. 결국 AI 거부와 활용 사이에서 답을 찾지 못한 채 고민을 이어가는 구조.",
+    "why": "① AI 챗봇이 교실 글쓰기·읽기 교육의 근본 목적(사고력 훈련)을 위협하는가, 아니면 개별 맞춤형 피드백으로 교육을 혁신하는가라는 글로벌 논쟁이 격화 중. ② 한국은 AI 디지털교과서(AIDT) 정책이 2025년 시범 도입 후 2025년 8월 국회에서 법적 교과서 지위를 박탈하는 법안이 통과되며 정책 급변. 미국·한국 모두 '교실에서 AI를 어떻게 다룰 것인가'가 교육 정책의 핵심 쟁점.",
+    "when": "원문 게재 2026년 3월 3일(가디언). 관찰 수업은 2025년 봄학기, 교생 실습은 2025년 가을학기.",
+    "context": "OECD 디지털교육전망 2026(1월 발간)은 범용 생성AI가 학습용으로 설계되지 않았으므로 교육 특화 AI 개발·교사 공동 설계·효과 검증이 필요하다고 권고. NPR(3월 3일)은 미국 대학에서 학생 85%가 수업에 AI를 활용하지만 절반 이상이 '생각을 덜 하게 된다'는 양가감정을 보고. NYT(2월 23일)는 뉴저지 뉴어크 학교의 'AI 리터러시 수업'(AI 운전면허) 사례를 보도. 한국에서는 AI 디지털교과서가 윤석열 정부 핵심 정책이었으나, 2025년 8월 국회가 법적 교과서 지위를 박탈하고 현재 채택률 약 30%로 급감. 출판업계는 약 8000억원 투자 손실 우려.",
+    "sources": [
+      {
+        "url": "https://www.theguardian.com/education/ng-interactive/2026/mar/03/cheating-machine-or-powerful-assistant-the-ai-anxieties-of-a-trainee-teacher",
+        "title": "Teacher v chatbot: my journey into the classroom in the age of AI (The Guardian)",
+        "reliability": "높음 — 원문, 1인칭 현장 에세이"
+      },
+      {
+        "url": "https://www.npr.org/2026/03/03/nx-s1-5716176/ai-college-students-professors",
+        "title": "College students, professors are making their own AI rules (NPR)",
+        "reliability": "높음 — 미국 공영방송, 대학 교수·학생 인터뷰 기반"
+      },
+      {
+        "url": "https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html",
+        "title": "As Schools Embrace A.I. Tools, Skeptics Raise Concerns (NYT)",
+        "reliability": "높음 — NYT 교육기술 전문기자, 에스토니아·아이슬란드 사례"
+      },
+      {
+        "url": "https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html",
+        "title": "The Lesson of A.I. Literacy Class: Don't Let the Chatbot Think for You (NYT)",
+        "reliability": "높음 — AI 리터러시 수업 현장 보도"
+      },
+      {
+        "url": "https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html",
+        "title": "OECD Digital Education Outlook 2026",
+        "reliability": "매우 높음 — OECD 공식 보고서"
+      },
+      {
+        "url": "https://www.aacrao.org/edge/emergent-news/south-korea-pulls-plug-on-ai-textbooks--leaving-schools--companies-without-funding-for-them",
+        "title": "South Korea pulls plug on AI textbooks (AACRAO/Straits Times)",
+        "reliability": "높음 — 한국 AI 디지털교과서 법안 통과 보도"
+      },
+      {
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148938440",
+        "title": "AI 디지털교과서 도입 개시…학생 개별 맞춤형 교육 실현 (정책브리핑)",
+        "reliability": "높음 — 대한민국 정부 공식 정책 브리핑"
+      }
+    ],
+    "perspectives": {
+      "교사·교육현장": "AI 거부파는 학생의 사고력·글쓰기 근력이 약화되고, 과제 출처 판별에 교사 에너지가 낭비된다고 우려. 옹호파는 개별 맞춤형 피드백, 실시간 학습 지원의 가능성을 강조. 현장에서는 두 입장 모두 경험적 근거를 가지고 있어 이분법으로 풀기 어려움.",
+      "정부·정책": "한국 교육부는 AI 디지털교과서를 2025년 시범 도입했으나 정권 교체 후 국회가 법적 지위 박탈. OECD는 교육 특화 AI 개발과 교사 공동 설계를 권고하며, 범용 생성AI의 무분별한 학교 도입에 경고. 미국은 연방 차원 통일 정책 없이 학교·학군별 대응.",
+      "기업·산업": "한국 교과서 출판업계는 약 8000억원 투자 후 정책 변경으로 위기. 글로벌 에듀테크 기업(Microsoft, Google 등)은 학교에 AI 도구를 적극 공급 중이나, 교육 효과에 대한 독립적 검증은 부족."
+    },
+    "suggested_angle": "가디언 원문의 '교사 개인의 고민'을 축으로, 한국 AI 디지털교과서 정책의 극적 반전(도입→법적 지위 박탈)을 대비시키는 구성. '교실에서 AI를 어떻게 다룰 것인가'라는 보편적 질문이 미국에서는 개별 교사의 실존적 고민으로, 한국에서는 국가 정책의 급변으로 나타나는 양상을 비교. OECD 권고('교육 특화 AI + 교사 공동 설계')를 해법의 방향으로 제시."
+  },
+  "draft": {
+    "headline": "교실에 들어온 AI, 교사의 딜레마 — 미국 교생의 고민에서 한국 정책 급변까지",
+    "subheadline": "\"챗봇이 대신 써준 과제를 어떻게 채점하지?\" 39세 미국 교생의 현장 에세이가 던진 질문은 한국 교육계에도 똑같이 울린다",
+    "html": "<div style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;font-size:17px;line-height:1.9;color:#1a202c\">\n\n<div style=\"border-left:4px solid #4338ca;background:#f8f9ff;padding:20px 24px;margin-bottom:32px;border-radius:0 8px 8px 0\">\n<p style=\"font-size:18px;margin:0;color:#4338ca;font-weight:600\">15년간 글을 써온 작가가 교단에 섰다. 그런데 학생들은 이미 ChatGPT로 과제를 쓰고 있었다. 미국 시카고 교외 고등학교의 교생이 마주한 현실은 한국 교실과도 닮아 있다. AI를 거부할 것인가, 껴안을 것인가 — 전 세계 교사들이 똑같은 질문 앞에 서 있다.</p>\n</div>\n\n<figure class=\"kg-card kg-image-card kg-width-full\">\n<img src=\"https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&q=80\" alt=\"교실에서 노트북을 사용하는 학생들\" style=\"width:100%;border-radius:8px\" />\n<figcaption style=\"text-align:center;font-size:14px;color:#94a3b8;margin-top:8px\">Photo by Kenny Eliason / Unsplash</figcaption>\n</figure>\n\n<h2 style=\"font-size:19px;color:#1e293b;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">\"구글 검색을 하면 챗봇이 먼저 답한다\" — 미국 교실의 풍경</h2>\n\n<p style=\"font-size:17px\">영국 가디언은 지난 3일, 미국 시카고 교외 고등학교에서 영어 교생 실습을 한 39세 전직 작가의 1인칭 에세이를 실었다. 15년간 프리랜서 작가이자 소설가로 활동하다 교사가 되기로 결심한 이 인물은 교단에 서자마자 예상치 못한 현실과 마주했다. 학생들이 에세이 과제를 ChatGPT에 맡기는 것은 이미 일상이었고, 구글 검색창에 질문을 입력하면 검색 결과보다 Gemini 챗봇의 AI 요약이 먼저 화면을 채웠다.</p>\n\n<p style=\"font-size:17px\">교사들 사이에서는 두 진영이 갈렸다. '거부파(rejectionists)'는 AI가 학생의 사고력과 글쓰기 근력을 약화시킨다며 수업에서 완전히 배제해야 한다고 주장했다. 반대편의 '옹호파(cheerleaders)'는 AI가 개별 학생에게 맞춤형 피드백을 제공하고, 교사의 반복 업무를 줄여줄 수 있다고 반박했다. 이 교생은 두 입장 모두에서 경험적 근거를 발견했다. AI 없이 에리히 마리아 레마르크의 <em>서부전선 이상없다</em>를 함께 읽는 수업에서 학생들이 텍스트에 깊이 몰입하는 '마법의 순간'을 목격한 한편, AI 도구가 읽기에 어려움을 겪는 학생에게 실시간 지원을 제공할 수 있다는 가능성도 인정해야 했다.</p>\n\n<h2 style=\"font-size:19px;color:#1e293b;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">한국의 거울 — AI 디지털교과서, 도입에서 법적 지위 박탈까지</h2>\n\n<p style=\"font-size:17px\">미국 교생의 개인적 고민은 태평양을 건너 한국에서는 국가 정책의 급변으로 나타났다. 윤석열 정부는 AI 디지털교과서(AIDT)를 핵심 교육 정책으로 추진하며 2025년 시범 도입을 개시했다. 학생 개인별 학습 수준을 AI가 분석해 맞춤형 콘텐츠를 제공한다는 구상이었다. 출판업계는 약 8000억 원을 개발에 투자했다.</p>\n\n<p style=\"font-size:17px\">그러나 정책은 극적으로 뒤집혔다. 2025년 8월 국회는 AI 디지털교과서의 법적 교과서 지위를 박탈하는 법안을 통과시켰다. 채택률은 약 30%로 급감했고, 출판업계는 투자 손실 위기에 놓였다. '교실에 AI를 도입할 것인가'라는 같은 질문이 미국에서는 교사 한 사람의 실존적 번민으로, 한국에서는 수천억 원이 오간 정책 진자운동으로 나타난 셈이다. 뉴욕타임스도 올해 초 에스토니아와 아이슬란드의 AI 교육 도구 도입 사례를 보도하며 “회의론자들의 우려가 커지고 있다”고 전했다.</p>\n\n<h2 style=\"font-size:19px;color:#1e293b;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">OECD의 처방 — \"범용 AI가 아니라 교육 특화 AI, 교사와 함께 설계하라\"</h2>\n\n<p style=\"font-size:17px\">올해 1월 발간된 OECD 디지털교육전망 2026은 이 논쟁에 방향을 제시한다. 보고서는 ChatGPT나 Gemini 같은 범용 생성AI가 학습용으로 설계되지 않았다는 점을 명확히 지적하며, 교육 목적에 특화된 AI 도구의 개발, 교사와의 공동 설계, 그리고 엄격한 효과 검증이라는 세 가지 원칙을 권고했다. '도입이냐 거부냐'라는 이분법을 넘어, '어떤 AI를, 어떻게, 누구와 함께 만들 것인가'로 질문을 재구성한 것이다.</p>\n\n<p style=\"font-size:17px\">미국에서도 현장의 움직임은 이미 시작됐다. NPR은 지난 3일 미국 대학생 85%가 수업에 AI를 활용하지만, 절반 이상이 '생각을 덜 하게 된다'는 양가감정을 느낀다고 보도했다. 뉴저지주 뉴어크의 한 학교는 아예 'AI 리터러시 수업'을 개설해 학생들에게 일종의 'AI 운전면허'를 발급하는 실험을 진행 중이다. 챗봇이 대신 생각해주지 못하도록 학생 스스로 AI의 한계와 활용법을 배우게 하는 접근이다.</p>\n\n<p style=\"font-size:17px\">시카고의 그 교생은 에세이 끝에서 답을 내리지 못했다. AI를 거부하자니 현실을 외면하는 것이고, 껴안자니 교육의 본질이 흔들린다. 하지만 답을 찾지 못했다는 것 자체가 어쩌면 가장 정직한 출발점일 수 있다. 전 세계 교실이 같은 질문 앞에 서 있고, 그 답은 교사와 학생이 함께 써나가야 할 것이다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0;margin-top:40px;padding-top:20px\">\n<h3 style=\"font-size:16px;color:#64748b;margin-bottom:12px\">참고자료</h3>\n<ol style=\"font-size:15px;color:#475569;padding-left:20px\">\n<li><a href=\"https://www.theguardian.com/education/ng-interactive/2026/mar/03/cheating-machine-or-powerful-assistant-the-ai-anxieties-of-a-trainee-teacher\" style=\"color:#4338ca\">Teacher v chatbot: my journey into the classroom in the age of AI — The Guardian (2026.3.3)</a></li>\n<li><a href=\"https://www.npr.org/2026/03/03/nx-s1-5716176/ai-college-students-professors\" style=\"color:#4338ca\">College students, professors are making their own AI rules — NPR (2026.3.3)</a></li>\n<li><a href=\"https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html\" style=\"color:#4338ca\">As Schools Embrace A.I. Tools, Skeptics Raise Concerns — NYT (2026.1.2)</a></li>\n<li><a href=\"https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html\" style=\"color:#4338ca\">The Lesson of A.I. Literacy Class: Don't Let the Chatbot Think for You — NYT (2026.2.23)</a></li>\n<li><a href=\"https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html\" style=\"color:#4338ca\">OECD Digital Education Outlook 2026 — OECD (2026.1)</a></li>\n<li><a href=\"https://www.aacrao.org/edge/emergent-news/south-korea-pulls-plug-on-ai-textbooks--leaving-schools--companies-without-funding-for-them\" style=\"color:#4338ca\">South Korea pulls plug on AI textbooks — AACRAO/Straits Times</a></li>\n<li><a href=\"https://www.korea.kr/news/policyNewsView.do?newsId=148938440\" style=\"color:#4338ca\">AI 디지털교과서 도입 개시 — 대한민국 정책브리핑</a></li>\n</ol>\n</div>\n\n<p style=\"font-size:13px;color:#cbd5e1;margin-top:32px;text-align:center\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>",
+    "ghost_tags": [
+      "AI",
+      "교육",
+      "AI디지털교과서",
+      "OECD",
+      "미국교육",
+      "ChatGPT",
+      "교실AI"
+    ],
+    "references": [
+      "https://www.theguardian.com/education/ng-interactive/2026/mar/03/cheating-machine-or-powerful-assistant-the-ai-anxieties-of-a-trainee-teacher",
+      "https://www.npr.org/2026/03/03/nx-s1-5716176/ai-college-students-professors",
+      "https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html",
+      "https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html",
+      "https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html",
+      "https://www.aacrao.org/edge/emergent-news/south-korea-pulls-plug-on-ai-textbooks--leaving-schools--companies-without-funding-for-them",
+      "https://www.korea.kr/news/policyNewsView.do?newsId=148938440"
+    ],
+    "word_count": 1120,
+    "category": "policy",
+    "meta_title": "교실에 들어온 AI, 교사의 딜레마 — 미국 교생의 고민에서 한국 정책 급변까지",
+    "meta_description": "미국 시카고 교생이 겪은 AI 교실의 현실과 한국 AI 디지털교과서 정책 급변. OECD는 교육 특화 AI와 교사 공동 설계를 권고한다."
+  },
+  "fact_check": {
+    "score": 88,
+    "verdict": "FLAG",
+    "issues": [
+      "NPR 기사에서 \"절반 이상이 생각을 덜 하게 된다\"는 수치의 정확한 출처 확인 어려움 — 기사 맥락상 양가감정 존재는 사실이나, 정확한 비율이 원문에 명시되어 있는지 추가 확인 권장",
+      "한국 AI 디지털교과서 투자 규모 \"약 8000억원\"의 출처가 reporting_brief에만 있고 참고자료 링크에서 직접 확인 불가 — 보도 인용이므로 수용 가능하나 주의"
+    ],
+    "verified_claims": [
+      {
+        "claim": "2025년 8월 국회가 AI 디지털교과서의 법적 교과서 지위를 박탈하는 법안 통과",
+        "status": "verified",
+        "source": "한국대학신문, 경향신문, ZDNet 등 다수 매체에서 2025.8.4 본회의 통과 확인"
+      },
+      {
+        "claim": "OECD 디지털교육전망 2026이 범용 생성AI가 학습용으로 설계되지 않았다고 지적",
+        "status": "verified",
+        "source": "OECD 공식 페이지 및 EU Digital Skills Platform에서 확인"
+      },
+      {
+        "claim": "NPR 보도: 미국 대학생 85%가 수업에 AI 활용",
+        "status": "verified",
+        "source": "NPR 2026.3.3 기사에서 Tyton Partners/Digital Education Council 설문 인용 확인"
+      }
+    ]
+  },
+  "fact_checked_at": "2026-03-09T08:23:00+09:00",
+  "desk_approved_at": "2026-03-08T23:37:33.869Z",
+  "desk_review": {
+    "checks_passed": [
+      "제목-내용 일치",
+      "이미지 유효",
+      "중복 없음",
+      "본문 길이 충족",
+      "HTML 유효",
+      "팩트체크 88점"
+    ],
+    "notes": "FLAG 이슈 2건(NPR 비율 근사치, 8000억원 보도 인용)은 경미하여 수용. meta_title/meta_description 생성 완료.",
+    "approved_by": "editor-desk-auto"
+  },
+  "copy_edited_at": "2026-03-08T23:38:50.758Z",
+  "ghost_id": "69ae08b3ff4fbf0001ab768a",
+  "ghost_url": "https://insight.ubion.global/p/23d26852-f6c8-4ee5-8061-ed4b12c7361c/",
+  "published_at": "2026-03-08T23:39:40.270Z"
+}

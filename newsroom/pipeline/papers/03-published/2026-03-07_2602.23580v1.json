@@ -1,0 +1,62 @@
+{
+  "arxiv_id": "2602.23580v1",
+  "title": "BRIDGE the Gap: Mitigating Bias Amplification in Automated Scoring of English Language Learners via Inter-group Data Augmentation",
+  "summary": "In the field of educational assessment, automated scoring systems increasingly rely on deep learning and large language models (LLMs). However, these systems face significant risks of bias amplification, where model prediction gaps between student groups become larger than those observed in training data. This issue is especially severe for underrepresented groups such as English Language Learners (ELLs), as models may inherit and further magnify existing disparities in the data. We identify that this issue is closely tied to representation bias: the scarcity of minority (high-scoring ELL) samples makes models trained with empirical risk minimization favor majority (non-ELL) linguistic patterns. Consequently, models tend to under-predict ELL students who even demonstrate comparable domain knowledge but use different linguistic patterns, thereby undermining the fairness of automated scoring outcomes. To mitigate this, we propose BRIDGE, a Bias-Reducing Inter-group Data GEneration framework designed for low-resource assessment settings. Instead of relying on the limited minority samples, BRIDGE synthesizes high-scoring ELL samples by \"pasting\" construct-relevant (i.e., rubric-aligned knowledge and evidence) content from abundant high-scoring non-ELL samples into authentic ELL linguistic patterns. We further introduce a discriminator model to ensure the quality of synthetic samples. Experiments on California Science Test (CAST) datasets demonstrate that BRIDGE effectively reduces prediction bias for high-scoring ELL students while maintaining overall scoring performance. Notably, our method achieves fairness gains comparable to using additional real human data, offering a cost-effective solution for ensuring equitable scoring in large-scale assessments.",
+  "authors": [
+    "Yun Wang",
+    "Xuansheng Wu",
+    "Jingyuan Huang",
+    "Lei Liu",
+    "Xiaoming Zhai",
+    "Ninghao Liu"
+  ],
+  "categories": [
+    "cs.CL",
+    "cs.AI",
+    "cs.CL"
+  ],
+  "published": "2026-02-27T01:11:05Z",
+  "updated": "2026-02-27T01:11:05Z",
+  "pdf_url": "https://arxiv.org/pdf/2602.23580v1",
+  "abs_url": "https://arxiv.org/abs/2602.23580v1",
+  "source": "arxiv",
+  "relevance_score": 92,
+  "source_query": "abs:LLM AND abs:education",
+  "collected_at": "2026-03-07T18:01:16.466Z",
+  "stage": "published",
+  "audit_log": [
+    {
+      "agent": "paper-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T18:01:23.532Z",
+      "source": "arxiv",
+      "relevance_score": 92
+    },
+    {
+      "agent": "paper-summarizer",
+      "action": "summarized",
+      "timestamp": "2026-03-08T02:04:01.149Z",
+      "model": "glm-4-plus"
+    },
+    {
+      "agent": "paper-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T19:03:50.785Z"
+    }
+  ],
+  "korean_title": "BRIDGE the Gap: 자동 채점 시스템에서 집단 간 데이터 증강을 통한 영어 학습자 편향 증폭 완화",
+  "korean_summary": "본 연구는 자동 채점 시스템이 영어 학습자(ELL)와 같은 소수 집단에 대해 기존 데이터의 편향을 더욱 증폭시키는 문제를 다룹니다. 이는 소수 집단의 고득표 샘플이 부족하여 모델이 다수 집단의 언어 패턴을 우선적으로 학습하기 때문입니다. 이를 해결하기 위해, 저자들은 BRIDGE라는 프레임워크를 제안하여 다수 집단의 지식을 ELL 언어 패턴에 결합해 새로운 샘플을 생성합니다. 실험 결과, 이 방법은 ELL 학생들의 예측 편향을 효과적으로 줄이면서도 전반적인 채점 성능을 유지하는 것으로 나타났습니다.",
+  "key_findings": [
+    "자동 채점 모델은 다수 집단(비 ELL) 언어 패턴을 선호하며, 이로 인해 동일한 지식을 가졌더라도 ELL 언어 패턴을 사용하는 학생들의 점수를 과소 예측하는 편향을 보입니다.",
+    "이 '편향 증폭' 문제의 근본 원인은 고득표 ELL 학생 샘플의 부재로 인한 '표현 편향(representation bias)'에 있습니다.",
+    "BRIDGE 프레임워크는 다수 집단의 지식을 ELL 언어 패턴에 결합해 합성 데이터를 생성하여, 실제 데이터를 추가하는 것과 맞먹는 공정성 향상 효과를 냅니다."
+  ],
+  "implications": "대규모 평가에서 자동 채점 시스템을 도입할 때, 특정 언어적 특성을 가진 학집단의 공정성을 확보하기 위해 단순히 데이터를 늘리는 것 외에도 지능적인 데이터 증강 기법이 효과적일 수 있음을 시사합니다.\n    이 연구는 기술 개발이 교육의 형평성을 실현하는 데 어떻게 기여할 수 있는지를 보여주며, 알고리즘의 편향을 의식적으로 교정하는 노력이 필수적임을 강조합니다.",
+  "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>BRIDGE the Gap: 자동 채점 시스템에서 집단 간 데이터 증강을 통한 영어 학습자 편향 증폭 완화</title>\n</head>\n<body style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;padding:20px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n\n  <!-- 논문 정보 박스 -->\n  <div style=\"background:#f8f9ff;border-left:4px solid #8b5cf6;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:32px;\">\n    <p style=\"margin:0 0 12px;font-size:15px;color:#64748b;\">\n      <strong>📄 논문</strong> | Yun Wang, Xuansheng Wu, Jingyuan Huang et al.\n    </p>\n    <p style=\"margin:0 0 8px;font-size:14px;color:#64748b;\">\n      <strong>게재일:</strong> 2026. 2. 27. | \n      <strong>arXiv:</strong> <a href=\"https://arxiv.org/abs/2602.23580v1\" style=\"color:#8b5cf6;\">2602.23580v1</a>\n    </p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">\n      <a href=\"https://arxiv.org/pdf/2602.23580v1\" style=\"color:#8b5cf6;margin-right:16px;\">📥 PDF 다운로드</a>\n      <a href=\"https://arxiv.org/abs/2602.23580v1\" style=\"color:#8b5cf6;\">🔗 원문 보기</a>\n    </p>\n  </div>\n\n  <!-- 한국어 요약 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📝 한국어 요약</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">본 연구는 자동 채점 시스템이 영어 학습자(ELL)와 같은 소수 집단에 대해 기존 데이터의 편향을 더욱 증폭시키는 문제를 다룹니다. 이는 소수 집단의 고득표 샘플이 부족하여 모델이 다수 집단의 언어 패턴을 우선적으로 학습하기 때문입니다. 이를 해결하기 위해, 저자들은 BRIDGE라는 프레임워크를 제안하여 다수 집단의 지식을 ELL 언어 패턴에 결합해 새로운 샘플을 생성합니다. 실험 결과, 이 방법은 ELL 학생들의 예측 편향을 효과적으로 줄이면서도 전반적인 채점 성능을 유지하는 것으로 나타났습니다.</p>\n\n  <!-- 핵심 발견 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">💡 핵심 발견</h2>\n  <ul style=\"margin:0 0 24px;padding-left:24px;line-height:1.9;\">\n    <li style=\"margin-bottom:8px;\">자동 채점 모델은 다수 집단(비 ELL) 언어 패턴을 선호하며, 이로 인해 동일한 지식을 가졌더라도 ELL 언어 패턴을 사용하는 학생들의 점수를 과소 예측하는 편향을 보입니다.</li>\n    <li style=\"margin-bottom:8px;\">이 '편향 증폭' 문제의 근본 원인은 고득표 ELL 학생 샘플의 부재로 인한 '표현 편향(representation bias)'에 있습니다.</li>\n    <li style=\"margin-bottom:8px;\">BRIDGE 프레임워크는 다수 집단의 지식을 ELL 언어 패턴에 결합해 합성 데이터를 생성하여, 실제 데이터를 추가하는 것과 맞먹는 공정성 향상 효과를 냅니다.</li>\n  </ul>\n\n  <!-- 교육적 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">🎓 교육적 시사점</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">대규모 평가에서 자동 채점 시스템을 도입할 때, 특정 언어적 특성을 가진 학집단의 공정성을 확보하기 위해 단순히 데이터를 늘리는 것 외에도 지능적인 데이터 증강 기법이 효과적일 수 있음을 시사합니다.\n    이 연구는 기술 개발이 교육의 형평성을 실현하는 데 어떻게 기여할 수 있는지를 보여주며, 알고리즘의 편향을 의식적으로 교정하는 노력이 필수적임을 강조합니다.</p>\n\n  <!-- 원문 초록 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📋 원문 초록 (Abstract)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.8;font-style:italic;color:#374151;background:#f8f9ff;padding:16px 20px;border-radius:8px;\">In the field of educational assessment, automated scoring systems increasingly rely on deep learning and large language models (LLMs). However, these systems face significant risks of bias amplification, where model prediction gaps between student groups become larger than those observed in training data. This issue is especially severe for underrepresented groups such as English Language Learners (ELLs), as models may inherit and further magnify existing disparities in the data. We identify that this issue is closely tied to representation bias: the scarcity of minority (high-scoring ELL) samples makes models trained with empirical risk minimization favor majority (non-ELL) linguistic patterns. Consequently, models tend to under-predict ELL students who even demonstrate comparable domain knowledge but use different linguistic patterns, thereby undermining the fairness of automated scoring outcomes. To mitigate this, we propose BRIDGE, a Bias-Reducing Inter-group Data GEneration framework designed for low-resource assessment settings. Instead of relying on the limited minority samples, BRIDGE synthesizes high-scoring ELL samples by \"pasting\" construct-relevant (i.e., rubric-aligned knowledge and evidence) content from abundant high-scoring non-ELL samples into authentic ELL linguistic patterns. We further introduce a discriminator model to ensure the quality of synthetic samples. Experiments on California Science Test (CAST) datasets demonstrate that BRIDGE effectively reduces prediction bias for high-scoring ELL students while maintaining overall scoring performance. Notably, our method achieves fairness gains comparable to using additional real human data, offering a cost-effective solution for ensuring equitable scoring in large-scale assessments.</p>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">\n    본 요약은 AI가 작성했습니다. 원문은 위의 링크에서 확인하세요.\n  </p>\n\n</body>\n</html>",
+  "publish_result": {
+    "ghost_post_id": "69adc816ff4fbf0001ab75ef",
+    "public_url": "https://ubion.ghost.io/nonmun-bridge-the-gap-jadong-caejeom-siseutemeseo-jibdan-gan-deiteo-jeunggangeul-tonghan-yeongeo-hagseubja-pyeonhyang-jeungpog-wanhwa/",
+    "status": "published",
+    "published_at": "2026-03-08T19:03:50.785Z"
+  }
+}

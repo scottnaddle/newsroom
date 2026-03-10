@@ -1,0 +1,52 @@
+{
+  "timestamp": "2026-03-07T09:51:00+09:00",
+  "agent": "editor-desk",
+  "check_type": "30min-cron",
+  "pipeline": {
+    "00-intake": 0,
+    "01-sourced": 0,
+    "02-assigned": 0,
+    "03-reported": 0,
+    "04-drafted": 0,
+    "05-fact-checked": 0,
+    "06-desk-approved": 0,
+    "07-copy-edited": 1,
+    "08-published": 15,
+    "rejected": 45
+  },
+  "desk_action": {
+    "article_id": "20260307-0655-ai-innovation-strategy",
+    "headline": "\"하루가 늦으면 한 세대\"…AI 패권 경쟁 속 한국의 선택은",
+    "confidence": 87,
+    "verdict": "PASS",
+    "action": "moved to 07-copy-edited",
+    "checks_passed": "7/7 (100%)"
+  },
+  "quality_checks": {
+    "title_content_match": "PASS",
+    "image_validity": "PASS (HTTP 200)",
+    "duplicate_detection": "PASS (no duplicates)",
+    "content_length": "PASS (5250 chars, 1050 words)",
+    "metadata_complete": "PASS",
+    "html_validation": "PASS (no &amp; escape)",
+    "factcheck_confidence": "PASS (87)"
+  },
+  "ongoing_issues": [
+    {
+      "severity": "high",
+      "issue": "missing_feature_images",
+      "count": 14,
+      "note": "08-published 기사 중 14개 feature_image 없음"
+    },
+    {
+      "severity": "medium",
+      "issue": "ghost_draft_status",
+      "count": 4,
+      "articles": ["ai-era-children-education", "ai-ethics-policy-universities", "asia-ai-research-consortium", "korea-ai-love-politico"]
+    }
+  ],
+  "next_steps": [
+    "Copy Editor: 07-copy-edited 기사 교열 진행",
+    "Publisher: 08-published 기사 이미지 재생성 검토"
+  ]
+}

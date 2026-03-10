@@ -1,0 +1,33 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.sisadays.co.kr/news/471869",
+    "title": "AI로 변화하는 한국 교육: 2026년, 맞춤형 학습과 전문화된 교육 AI의 시대",
+    "snippet": "AI 교육 지원 인프라 구축과 교사·학생 AI 리터러시 향상을 위한 교육 프로그램 필요.",
+    "published_date": "2026-03-02"
+  },
+  "relevance_score": 65,
+  "tags": [
+    "analysis",
+    "infrastructure",
+    "literacy"
+  ],
+  "collected_at": "2026-03-07T22:13:14.911Z",
+  "rejection_reason": "duplicate-adjacent: overlaps with published ai-education-direction article",
+  "rejected_at": "2026-03-08T07:37:00+09:00",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

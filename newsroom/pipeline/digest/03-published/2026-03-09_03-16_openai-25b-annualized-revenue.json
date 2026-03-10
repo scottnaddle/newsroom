@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "OpenAI tops $25 billion in annualised revenue last month, The Information reports",
+    "url": "https://startupnews.fyi/2026/03/07/openai-tops-25-billion-in-annualised-revenue-last-month-the-information-reports/",
+    "source_name": "StartupNews.fyi / Reuters",
+    "language": "en",
+    "relevance_score": 92,
+    "summary": "OpenAI has surpassed $25 billion in annualized revenue as of the end of February 2026, marking a 17% increase from the $21.4 billion reported at the end of 2025. The company continues expanding into enterprise markets by partnering with major consulting firms.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-09T03:16:00+09:00"
+  },
+  "digest": {
+    "headline": "OpenAI, 연간 매출 250억 달러 돌파…2개월 만에 17% 성장",
+    "lead": "OpenAI의 연환산 매출이 2026년 2월 말 기준 250억 달러를 넘어섰다. 2025년 말 214억 달러에서 불과 두 달 만에 17% 증가한 수치로, 글로벌 대형 컨설팅 기업과의 파트너십을 통한 엔터프라이즈 시장 확장이 성장을 견인하고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">OpenAI의 연환산 매출이 2026년 2월 말 기준 250억 달러를 넘어섰다. 2025년 말 214억 달러에서 불과 두 달 만에 17% 증가한 수치로, 글로벌 대형 컨설팅 기업과의 파트너십을 통한 엔터프라이즈 시장 확장이 성장을 견인하고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">디인포메이션(The Information)이 사안에 정통한 관계자를 인용해 보도한 이번 수치는 OpenAI의 성장 속도가 여전히 가파르다는 것을 보여준다. ChatGPT를 중심으로 한 소비자 사업에 더해, 세계 4대 컨설팅 기업과의 제휴를 통해 기업 시장 공략에 본격 나선 것이 매출 급등의 배경으로 분석된다. 최근 소프트뱅크·아마존·엔비디아 등과 1,100억 달러 규모 투자 라운드를 마감한 만큼, 인프라 확충과 인재 확보에 자금이 집중 투입될 전망이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">연환산 매출 250억 달러는 AI 산업 전체의 상업적 잠재력을 상징하는 이정표다. 소비자 구독 모델과 API 기반 B2B 수익이 동시에 성장하는 구조가 자리 잡으면서, 경쟁사인 구글·앤스로픽에도 기업 시장에서의 수익화 압력이 거세질 것으로 보인다. 다만 대규모 인프라 투자와 인건비 상승으로 수익성 확보 여부는 여전히 과제로 남아 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">OpenAI의 엔터프라이즈 확장은 교육 기관에도 직접적인 영향을 미친다. 대형 컨설팅사가 OpenAI 기술을 기업 교육·인력 개발 프로그램에 통합할 가능성이 높으며, 이는 곧 AI 기반 학습 플랫폼에 대한 수요 증가로 이어질 수 있다. 에듀테크 기업 입장에서는 OpenAI API 가격 정책 변화와 엔터프라이즈 전용 기능의 등장을 주시할 필요가 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://startupnews.fyi/2026/03/07/openai-tops-25-billion-in-annualised-revenue-last-month-the-information-reports/\" style=\"color:#FF6B35;text-decoration:none;\">StartupNews.fyi / Reuters</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "openai",
+      "technology"
+    ],
+    "meta_title": "OpenAI 연환산 매출 250억 달러 돌파, 2개월 만에 17% 급성장",
+    "meta_description": "OpenAI의 연환산 매출이 2026년 2월 기준 250억 달러를 돌파했다. 엔터프라이즈 시장 확장이 성장 동력으로 작용하며, 에듀테크 분야에도 파급 효과가 예상된다.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T03:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T03:43:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T18:55:42.665Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69adc623ff4fbf0001ab75dd",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69adc623ff4fbf0001ab75dd",
+    "public_url": "https://insight.ubion.global/openai-yeongan-maecul-250eog-dalreo-dolpa-2gaeweol-mane-17-seongjang/",
+    "status": "published",
+    "published_at": "2026-03-08T18:55:31.000Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://koreajoongangdaily.joins.com/news/2026-03-03/opinion/columns/Educating-children-for-the-AI-era-without-weakening-cognition/2534852",
+    "title": "Educating children for the AI era without weakening cognition",
+    "snippet": "Government unveiled national action plan on AI including mandatory AI education at all levels of elementary, middle and high school, along with revisions to curricula and textbooks.",
+    "published_date": "2026-03-03"
+  },
+  "relevance_score": 92,
+  "tags": [
+    "policy",
+    "K-12",
+    "curriculum"
+  ],
+  "collected_at": "2026-03-07T22:13:14.911Z",
+  "rejection_reason": "duplicate: already published",
+  "rejected_at": "2026-03-08T07:37:00+09:00",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

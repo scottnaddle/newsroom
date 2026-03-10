@@ -1,0 +1,72 @@
+{
+  "timestamp": "2026-03-05T20:59:00+09:00",
+  "report_type": "editor-desk-pipeline-check",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 1,
+      "status": "PROCESSED",
+      "note": "AI 커리어 상담 기사 (신뢰도 68) → queue로 이동"
+    },
+    "02_assigned": 0,
+    "03_reported": 0,
+    "04_drafted": 0,
+    "05_fact_checked": {
+      "total": 0,
+      "pass_90plus": 0,
+      "pass_80_89": 0,
+      "flag_75_79": 0,
+      "fail_below_75": 0
+    },
+    "06_desk_approved": 0,
+    "07_copy_edited": 0,
+    "08_published": {
+      "total": 71,
+      "status": "ACTIVE"
+    },
+    "rejected": {
+      "total": 40,
+      "status": "ARCHIVED"
+    },
+    "queue": {
+      "total": 2,
+      "items": [
+        {
+          "id": "1741163700001-korea-ai-popular",
+          "title": "The Country That's Madly in Love With AI",
+          "relevance_score": 72,
+          "queued_since": "2026-03-05T08:42:52Z"
+        },
+        {
+          "id": "1772710577-001",
+          "title": "Hwang Hyuna of Korea University of Technology and Education Publishes AI Career Counseling Paper",
+          "relevance_score": 68,
+          "queued_at": "2026-03-05T20:59:00+09:00"
+        }
+      ]
+    }
+  },
+  "system_health": {
+    "status": "✅ HEALTHY",
+    "bottleneck": "None detected",
+    "active_work": "None in progress (clean state)",
+    "next_action": "Awaiting new assigned articles from reporter or sourced articles >75 relevance"
+  },
+  "summary": {
+    "total_published": 71,
+    "total_rejected": 40,
+    "total_in_queue": 2,
+    "pipeline_utilization": "All stages clear — ready for next batch"
+  },
+  "audit": {
+    "agent": "editor-desk",
+    "action": "full-pipeline-check",
+    "timestamp": "2026-03-05T20:59:00+09:00",
+    "steps_completed": [
+      "STEP 1: 01-sourced processed (1 → queue)",
+      "STEP 2: 05-fact-checked checked (empty)",
+      "STEP 3: 06-desk-approved checked (empty)",
+      "STEP 4: 07-copy-edited checked (empty)",
+      "STEP 5: Statistics generated"
+    ]
+  }
+}

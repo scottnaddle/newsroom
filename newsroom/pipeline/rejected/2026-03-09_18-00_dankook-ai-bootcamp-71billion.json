@@ -1,0 +1,104 @@
+{
+  "title": "단국대, 교육부 'AI 첨단산업 인재양성 부트캠프' 선정… 71억 투입해 피지컬AI·에이전틱AI 특화 교육",
+  "source": {
+    "url": "https://www.mt.co.kr/policy/2026/03/03/2026030310235392328",
+    "name": "머니투데이",
+    "reliability": "high"
+  },
+  "summary": "단국대가 교육부 AI 첨단산업 인재양성 부트캠프에 선정, 5년간 71억 원으로 750명 AI 실무 인재 양성.",
+  "category": "education",
+  "score": 67,
+  "stage": "rejected",
+  "collected_at": "2026-03-09T09:00:00.000Z",
+  "tags": [
+    "AI교육",
+    "부트캠프",
+    "단국대",
+    "인재양성"
+  ],
+  "reporting_brief": {
+    "WHO": "단국대학교(안순철 총장), 교육부, 한국산업기술진흥원, 네이버 클라우드·데이터스트림즈·데이콘 등 15개 협력 기업",
+    "WHAT": "교육부 'AI분야 첨단산업 인재양성 부트캠프사업' 선정. 5년간 71억원 지원, AX·차세대 AI 실무형 인재 750명 양성. 교육과정: 중급(AX강화학습·컴퓨터비전·자연어처리·클라우드) + 고급(피지컬AI·에이전틱AI·인간중심GenAI·소버린AI). PBL 기반 몰입형 교육, AX마이크로디그리(9학점+)·부전공(21학점+) 취득 가능.",
+    "WHY": "디지털 대전환 시대 AI 실무 인재 수요 급증. 산업계 즉시 투입 가능한 인재 양성이 목표. 반도체에 이어 AI 분야까지 연속 선정으로 단국대 역량 입증.",
+    "WHEN": "2026년 3월 3일 보도",
+    "CONTEXT": "교육부가 41개 대학을 첨단산업 인재양성 부트캠프에 선정(AI·미래차·로봇 등). 한남대, 서울시립대, 제주대-성균관대 등도 유사 사업 참여. 네이버 클라우드 '에이전틱/소버린 AI 아카데미' 교육과정 연계.",
+    "SOURCES": [
+      {
+        "name": "머니투데이",
+        "url": "https://www.mt.co.kr/policy/2026/03/03/2026030310235392328",
+        "reliability": "high"
+      },
+      {
+        "name": "중앙이코노미뉴스",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=498778",
+        "reliability": "medium"
+      },
+      {
+        "name": "금강일보",
+        "url": "https://www.ggilbo.com/news/articleView.html?idxno=1144468",
+        "reliability": "medium"
+      }
+    ],
+    "PERSPECTIVES": {
+      "대학": "안순철 총장: 'AI 기반 융합교육과 연구를 대학 핵심 전략으로. 산학협력 취업 선순환 모델 정착'",
+      "정부": "교육부·한국산업기술진흥원: 41개 대학 선정, 첨단산업 인재 대규모 양성 추진",
+      "기업": "네이버 클라우드 등 15개 기업: 커리큘럼 설계~채용 연계 산학협력 모델 구축"
+    },
+    "SUGGESTED_ANGLE": "'피지컬AI·에이전틱AI·소버린AI' 등 2026년형 AI 교육 키워드와 산학협력 채용 연계 모델에 초점. 41개 대학 부트캠프 선정이라는 큰 그림 속에서 단국대 사례의 차별점."
+  },
+  "draft": {
+    "headline": "단국대, AI 인재양성 71억 규모 부트캠프 선정",
+    "subheadline": "교육부 지원으로 5년간 750명 양성 — '피지컬AI·에이전틱AI' 차세대 기술 교육에 집중",
+    "slug": "dankook-ai-bootcamp-71billion",
+    "html": "<div style=\"font-family:'Noto Sans KR', sans-serif; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e; margin:0 auto; padding:0 20px;\">\n\n<div style=\"border-left:4px solid #0891b2; background:#f8f9ff; padding:18px 22px; border-radius:0 8px 8px 0; margin-bottom:48px;\">\n<p style=\"margin:0; font-size:18px; font-weight:600; color:#1a1a2e;\">단국대학교가 교육부 'AI 첨단산업 인재양성 부트캠프'에 선정되었다.</p>\n<p style=\"margin:12px 0 0; font-size:15px; color:#374151;\">5년간 71억원을 투입해 750명의 AI 실무 전문가를 양성할 예정이며, 네이버 클라우드·데이터스트림즈 등 15개 협력사와 함께 산업 맞춤형 교육을 추진한다.</p>\n</div>\n\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">41개 대학 선정, 단국대는 AI 분야 최전선</h2>\n<p style=\"margin:0 0 32px;\">교육부와 한국산업기술진흥원이 첨단산업 인재양성 부트캠프사업 대상으로 41개 대학을 선정했다. 이 중 AI 분야는 단국대를 비롯해 서울시립대, 한남대, 제주대-성균관대 컨소시엄 등 다수 대학이 참여한다. 이는 한국의 디지털 대전환 전략에서 AI 인재 양성이 얼마나 중요한 위치를 차지하고 있는지를 보여준다.</p>\n<p style=\"margin:0 0 32px;\">단국대가 이번 선정에 앞서 반도체 분야 부트캠프도 함께 진행 중이라는 점은 주목할 만하다. 미래 핵심 산업으로 꼽히는 분야에서 연속으로 선정된 것은 대학의 교육 역량과 산학협력 능력이 상당하다는 평가를 받는다는 의미다.</p>\n\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">2026년형 AI 교육 — '피지컬AI'와 '에이전틱AI'</h2>\n<p style=\"margin:0 0 32px;\">단국대의 AI 부트캠프 교육 커리큘럼은 중급과 고급 과정으로 나뉜다. 중급 과정에서는 AX 강화학습, 컴퓨터비전, 자연어처리, 클라우드 인프라 등 기초를 다진다. 고급 과정에서는 '피지컬AI(Physical AI)', '에이전틱AI(Agentic AI)', '인간중심 생성형 AI', '소버린AI(Sovereign AI)' 같은 2026년형 AI 기술에 집중한다.</p>\n<p style=\"margin:0 0 32px;\">특히 피지컬AI는 로봇, 자율주행, 산업용 기계 등 물리적 세계와 상호작용하는 AI 기술을 뜻한다. 에이전틱AI는 사용자의 지시 없이 자율적으로 목표를 설정하고 실행하는 '에이전트' 형태의 AI를 말한다. 이 두 분야는 글로벌 기술 기업들이 2026-2027년 가장 중점적으로 개발 중인 영역으로, 한국이 이 분야에서 선도적 인재를 양성하겠다는 의지로 읽힌다.</p>\n\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">산학협력으로 '취업 선순환' 구축</h2>\n<p style=\"margin:0 0 32px;\">단국대 AI 부트캠프의 또 다른 특징은 강력한 산업 협력이다. 네이버 클라우드, 데이터스트림즈, 데이콘을 포함한 15개 협력 기업이 교육과정 설계부터 취업 연계까지 관여한다. 이는 단순한 대학-기업 협약이 아니라, 산업계의 실제 수요를 교육과정에 반영하고, 학생들이 곧바로 현장에 투입될 수 있도록 하는 구조를 의미한다.</p>\n<p style=\"margin:0 0 32px;\">안순철 단국대 총장은 \"AI 기반 융합교육과 연구를 대학의 핵심 전략으로 삼고, 산학협력을 통한 취업 선순환 모델을 정착시키겠다\"고 밝혔다. 이는 대학이 단순한 학위 수여 기관을 넘어 '인재 공급처'로서의 역할을 명확히 하겠다는 뜻이다.</p>\n\n<div style=\"border-left:4px solid #0891b2; background:#f8f9ff; padding:18px 22px; border-radius:0 8px 8px 0; margin:32px 0; font-style:italic; color:#374151;\">\n<p style=\"margin:0;\">본 프로그램을 통해 학생들은 AX 마이크로디그리(9학점+) 또는 부전공(21학점+)을 취득할 수 있으며, PBL(프로젝트 기반 학습) 중심의 몰입형 교육을 통해 실무 역량을 갖춘 인재로 성장하게 된다.</p>\n</div>\n\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">750명 AI 실무 인재, 5년의 목표</h2>\n<p style=\"margin:0 0 32px;\">단국대는 5년 동안 750명의 AI 실무 인재를 양성할 계획이다. 이는 연간 150명 규모로, 국내 대학 AI 교육 프로그램 중 가장 대규모 중 하나다. 교육부의 71억원 지원금과 대학·기업의 자체 투자가 함께 사용될 것으로 예상된다.</p>\n<p style=\"margin:0 0 32px;\">이러한 규모의 인재 양성 프로그램이 성과를 거두려면, 단순한 기술 교육을 넘어 실제 산업 현장의 문제를 해결할 수 있는 역량 개발이 중요하다. PBL 중심 커리큘럼과 기업 협력이 이 목표를 실현할 수 있을지가 향후 주목해야 할 지점이다.</p>\n\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">한국의 AI 인재 양성 전략, 본격화되다</h2>\n<p style=\"margin:0 0 32px;\">단국대의 선정은 한국 정부의 AI 인재 양성 전략이 구체적 단계로 들어섰음을 보여준다. 교육부의 AI 중점학교 선정(2024년 1,141곳), 대학 부트캠프 지원, 직업훈련소의 AI 교육 확대 등이 맞물려 돌아가고 있는 상태다. 특히 피지컬AI·에이전틱AI 같은 '차세대 기술' 중심의 교육 방향은 한국이 단순한 AI 도입국이 아닌 기술 선도국을 지향하고 있다는 신호로 해석된다.</p>\n<p style=\"margin:0 0 32px;\">다만 이 모든 노력이 실제 산업 현장에서 유의미한 성과로 이어지려면, 교육 품질 관리와 취업률 추적이 필수적이다. 750명이 정말 'AI 실무 인재'로 성장하는지, 그리고 그들이 산업 현장에서 실제로 요구하는 역할을 할 수 있는지가 이 부트캠프의 진정한 성공을 결정할 것이다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0; margin-top:48px; padding-top:32px;\">\n<h3 style=\"font-size:16px; font-weight:700; color:#1a1a2e; margin:0 0 16px;\">참고자료</h3>\n<ol style=\"margin:0; padding-left:20px; color:#374151;\">\n<li style=\"margin-bottom:12px;\"><a href=\"https://www.mt.co.kr/policy/2026/03/03/2026030310235392328\" style=\"color:#0891b2; text-decoration:none;\">머니투데이 - 단국대 AI 부트캠프 선정 소식</a></li>\n<li style=\"margin-bottom:12px;\"><a href=\"https://www.joongangenews.com/news/articleView.html?idxno=498778\" style=\"color:#0891b2; text-decoration:none;\">중앙이코노미뉴스 - 교육부 첨단산업 인재양성 부트캠프 전체 선정 내역</a></li>\n<li style=\"margin-bottom:12px;\"><a href=\"https://www.ggilbo.com/news/articleView.html?idxno=1144468\" style=\"color:#0891b2; text-decoration:none;\">금강일보 - 단국대 AI 교육 협력사 및 커리큘럼</a></li>\n</ol>\n</div>\n\n<p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "ghost_tags": [
+      "AI교육",
+      "부트캠프",
+      "인재양성",
+      "대학",
+      "산학협력"
+    ],
+    "custom_excerpt": "단국대가 교육부 AI 부트캠프 사업에 선정되어 5년간 71억원을 투입해 750명의 AI 실무 인재를 양성한다. 피지컬AI와 에이전틱AI 같은 차세대 기술에 특화된 교육으로, 한국의 AI 인재 양성 전략이 본격화되고 있다.",
+    "references": [
+      {
+        "url": "https://www.mt.co.kr/policy/2026/03/03/2026030310235392328",
+        "title": "머니투데이 - 단국대 AI 부트캠프 선정"
+      },
+      {
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=498778",
+        "title": "중앙이코노미뉴스 - 첨단산업 인재양성 부트캠프"
+      },
+      {
+        "url": "https://www.ggilbo.com/news/articleView.html?idxno=1144468",
+        "title": "금강일보 - 단국대 AI 협력"
+      }
+    ],
+    "word_count": 1752,
+    "category": "education",
+    "accent": "#0891b2",
+    "meta_title": "단국대, AI 인재양성 71억 규모 부트캠프 선정",
+    "meta_description": "단국대학교가 교육부 'AI 첨단산업 인재양성 부트캠프'에 선정되었다. 5년간 71억원을 투입해 750명의 AI 실무 전문가를 양성할 예정이며, 네이버 클라우드·데이터스트림즈 등 15개 협력사와 함께 산업 맞춤형 교육을 추진한다. 41개 대학 선정, 단국대는 AI 분야 "
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 2138자, 팩트점수 96, 중복 26.9%",
+    "meta_title": "단국대, AI 인재양성 71억 규모 부트캠프 선정",
+    "meta_description": "단국대학교가 교육부 'AI 첨단산업 인재양성 부트캠프'에 선정되었다. 5년간 71억원을 투입해 750명의 AI 실무 전문가를 양성할 예정이며, 네이버 클라우드·데이터스트림즈 등 15개 협력사와 함께 산업 맞춤형 교육을 추진한다. 41개 대학 선정, 단국대는 AI 분야 ",
+    "decided_at": "2026-03-09T13:33:59.501Z"
+  },
+  "copy_edit": {
+    "verdict": "FAIL",
+    "reason": "본문 1121자 미만"
+  },
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  }
+}

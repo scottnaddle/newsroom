@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Current and former Block workers say AI can't do their jobs after Jack Dorsey's mass layoffs",
+    "url": "https://www.theguardian.com/technology/2026/mar/08/block-ai-layoffs-jack-dorsey",
+    "source_name": "The Guardian",
+    "language": "en",
+    "relevance_score": 82,
+    "summary": "After Jack Dorsey cut Block's workforce by 4,000 people—almost half the company—citing AI productivity gains, current and former employees dispute the claims, saying AI can't actually perform many of their roles. The move highlights tensions between management expectations and practical AI limitations.",
+    "published_date": "2026-03-08",
+    "collected_at": "2026-03-10T07:03:42Z"
+  },
+  "digest": {
+    "headline": "\"AI로 대체 불가\" - Block 직원들이 대량해고 정당성에 이의",
+    "lead": "Jack Dorsey CEO가 AI 생산성 향상을 이유로 4,000명(전 직원의 절반)을 해고한 가운데, 현직·전직 직원들은 현재 AI 기술이 그 규모의 인력 대체를 감당할 수 없다고 반박했습니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">Jack Dorsey CEO가 AI 생산성 향상을 이유로 4,000명(전 직원의 절반)을 해고한 가운데, 현직·전직 직원들은 현재 AI 기술이 그 규모의 인력 대체를 감당할 수 없다고 반박했습니다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Block은 AI 도입으로 획기적 생산성 향상이 가능하다며 대규모 감원을 단행했습니다. 회사는 엔지니어당 생산 코드 출시량이 40% 이상 증가했다고 주장했으나, 현지 증언에 따르면 AI 코드 변경의 95%가 여전히 인간의 수정을 필요로 합니다. 또한 직원들은 자신의 업무를 자동화하는 도구를 만들도록 강요받았다는 점을 지적했습니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 사건은 기업들의 AI 투자 기대치와 현실의 괴리를 드러냅니다. 많은 임원들이 AI의 능력을 과대평가하는 경향이 있으며, 특히 규제가 필요한 금융·뱅킹 분야에서는 AI가 여전히 인간의 감독을 필수로 요구합니다. 남은 직원들의 업무 과부하와 낮은 사기, 그리고 고객 만족도 저하로 인한 장기적 비즈니스 리스크가 예상됩니다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">교육 기관들도 유사한 함정에 빠질 위험이 있습니다. AI 기반 교육 관리 시스템, 자동 채점, 학생 상담 챗봇 등이 도입될 때 현실적 한계를 간과하면 학생 경험 저하로 이어질 수 있습니다. 또한 교사들이 자신의 업무를 자동화할 기술을 직접 개발하도록 압박받는 상황을 피하고, AI와 인간의 협력 방식을 신중하게 설계해야 합니다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.theguardian.com/technology/2026/mar/08/block-ai-layoffs-jack-dorsey\" style=\"color:#FF6B35;text-decoration:none;\">The Guardian</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "Block 직원들, AI 대량해고 정당성에 이의 제기",
+    "meta_description": "Block CEO의 AI 생산성 주장에 현직·전직 직원들이 반박했습니다.",
+    "word_count": 620
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T07:03:42Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T07:15:30Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T22:36:00.591Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69af4b50ff4fbf0001ab7d18",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69af4b50ff4fbf0001ab7d18",
+    "public_url": "https://ubion.ghost.io/airo-daece-bulga-block-jigweondeuli-daeryanghaego-jeongdangseonge-iyi/",
+    "status": "published",
+    "published_at": "2026-03-09T22:36:00.000Z"
+  }
+}

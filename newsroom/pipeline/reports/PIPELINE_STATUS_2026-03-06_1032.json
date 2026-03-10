@@ -1,0 +1,78 @@
+{
+  "timestamp": "2026-03-06T10:32:00+09:00",
+  "cron_task": "에디터/데스크 (30분)",
+  "stage": "desk-check",
+  
+  "summary": {
+    "total_articles_processed": 1,
+    "pass": 0,
+    "revise": 1,
+    "kill": 0,
+    "flag": 0
+  },
+  
+  "articles": [
+    {
+      "id": "1741262640-ai-bootcamp-draft",
+      "headline": "교육부, AI 인재양성 37개 대학 신규 선정",
+      "confidence": 78,
+      "desk_verdict": "REVISE",
+      "reasons": [
+        "팩트체크 신뢰도 78점 (75-79 범위, 직접 검토 필수)",
+        "팩트체크 점수 58점 (낮음)",
+        "플래그된 클레임 3개 (발표일, 예산 수치)",
+        "이미지 URL 404 에러"
+      ],
+      "checklist": {
+        "headline_content_match": true,
+        "image_validity": false,
+        "duplicate_check": true,
+        "content_length": true,
+        "metadata_complete": true,
+        "html_clean": true,
+        "fact_check_passed": false
+      },
+      "action": "작성기자에게 REVISE 요청 발송 (우선도: 중)",
+      "revision_file": "06-desk-approved/REVISE_1741262640-ai-bootcamp-draft.json"
+    }
+  ],
+  
+  "duplicate_scan_results": {
+    "scanned": 1,
+    "killed": 0,
+    "flagged_for_review": 0,
+    "passed": 1
+  },
+  
+  "pipeline_status": {
+    "01-sourced": "N/A",
+    "02-assigned": "N/A",
+    "03-reported": "N/A",
+    "04-drafted": "N/A",
+    "05-fact-checked": "✅ 1개 (데스크 검증 중)",
+    "06-desk-approved": "⏳ REVISE 대기 중",
+    "07-copy-edited": "N/A",
+    "08-published": "✅ 12개 (기존)"
+  },
+  
+  "issues": {
+    "high": [
+      "발표일 오류 (3월 4일 → 2월 26일)",
+      "예산 수치 불명확 (정부 공식 자료와 불일치)"
+    ],
+    "medium": [
+      "이미지 404 에러 (Unsplash URL 유효하지 않음)"
+    ],
+    "low": []
+  },
+  
+  "recommendations": [
+    "작성기자 REVISE 수정 완료 예상: 30분",
+    "수정 후 재팩트체크 필요 (신뢰도 < 75)",
+    "이미지 재생성/대체 후 Publisher 재실행",
+    "정부 공식 자료(korea.kr) 최종 검증"
+  ],
+  
+  "desk_agent": "editor-desk (Hailey)",
+  "next_check": "2026-03-06T11:02:00+09:00 (30분 후)"
+}

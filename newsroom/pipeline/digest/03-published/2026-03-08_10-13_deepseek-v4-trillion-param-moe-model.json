@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "DeepSeek V4: Trillion-Parameter MoE Model with Native Multimodal and 1M Context Window",
+    "url": "https://awesomeagents.ai/models/deepseek-v4/",
+    "source_name": "Awesome Agents",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "DeepSeek V4 is an upcoming trillion-parameter MoE model with ~32B active parameters, native multimodal capabilities (text, image, video, audio), and a 1M-token context window. Optimized for Huawei Ascend chips rather than Nvidia, it represents a significant shift in AI hardware dependencies. Expected open-weight release in early March 2026.",
+    "published_date": "2026-03-01",
+    "collected_at": "2026-03-08T10:13:00+09:00"
+  },
+  "digest": {
+    "headline": "딥시크 V4, 1조 파라미터 MoE 모델로 '네이티브 멀티모달·100만 토큰' 시대 개막",
+    "lead": "중국 AI 기업 딥시크(DeepSeek)가 1조 개 파라미터 규모의 차세대 오픈소스 모델 V4를 공개할 예정이다. 텍스트·이미지·영상·오디오를 처음부터 통합 학습한 네이티브 멀티모달 구조에 100만 토큰 컨텍스트 윈도우를 탑재했으며, 엔비디아 대신 화웨이 어센드 칩에 최적화해 미·중 AI 하드웨어 패권 경쟁에도 새 변수를 던졌다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">중국 AI 기업 딥시크(DeepSeek)가 1조 개 파라미터 규모의 차세대 오픈소스 모델 V4를 공개할 예정이다. 텍스트·이미지·영상·오디오를 처음부터 통합 학습한 네이티브 멀티모달 구조에 100만 토큰 컨텍스트 윈도우를 탑재했으며, 엔비디아 대신 화웨이 어센드 칩에 최적화해 미·중 AI 하드웨어 패권 경쟁에도 새 변수를 던졌다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">딥시크 V4는 전작 V3.2 대비 총 파라미터 수를 50% 이상 늘리면서도, 토큰당 활성 파라미터는 약 320억 개로 오히려 줄여 효율성을 높인 MoE(Mixture-of-Experts) 아키텍처를 채택했다. 핵심 기술로는 1조 파라미터 규모에서도 안정적 학습을 가능하게 하는 'Manifold-Constrained Hyper-Connections', 100만 토큰 문맥에서 효율적 검색을 지원하는 'Engram Conditional Memory', 그리고 고속 전처리를 위한 'Lightning Indexer'가 포함된다. 유출된 벤치마크에 따르면 코딩 태스크에서 클로드 Opus 4.6, GPT-5.3 Codex와 대등한 수준의 성능이 확인되었다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">V4의 가장 큰 화제는 하드웨어 전략이다. 딥시크는 사전 최적화 단계에서 엔비디아와 AMD를 의도적으로 배제하고 화웨이 어센드·캠브리콘 칩 중심으로 추론 스택을 구축했다. 이는 프론티어 모델이 미국산 반도체 없이도 경쟁력을 갖출 수 있음을 보여주는 첫 사례로, 미국 수출 통제 정책의 실효성에 의문을 제기한다. MIT 또는 Apache 2.0 라이선스의 오픈웨이트 공개가 예상되어, 출시 후 글로벌 AI 생태계에 상당한 파급 효과가 전망된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">100만 토큰 컨텍스트 윈도우는 교과서 전체를 한 번에 입력해 맞춤형 학습 자료를 생성하거나, 장시간 강의 영상·오디오를 네이티브로 처리해 자동 요약·퀴즈를 생성하는 등 에듀테크 활용 가능성을 크게 확장한다. 오픈웨이트 공개 시 스타트업이 자체 서버에서 멀티모달 교육 AI를 구축할 수 있어, 고가의 상용 API 의존도를 낮추고 교육 데이터 프라이버시 확보에도 유리하다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://awesomeagents.ai/models/deepseek-v4/\" style=\"color:#FF6B35;text-decoration:none;\">Awesome Agents</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "deepseek",
+      "open-source"
+    ],
+    "meta_title": "딥시크 V4, 1조 파라미터 MoE 모델로 네이티브 멀티모달·100만 토큰 시대 개막",
+    "meta_description": "딥시크가 1조 파라미터 MoE 모델 V4를 공개 예정. 네이티브 멀티모달, 100만 토큰 컨텍스트, 화웨이 칩 최적화로 AI 하드웨어 판도 변화 예고. 에듀테크 활용 가능성도 주목.",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-08T10:13:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-08T10:44:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T13:55:39.567Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ad7fdbff4fbf0001ab74f6",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ad7fdbff4fbf0001ab74f6",
+    "public_url": "https://insight.ubion.global/dibsikeu-v4-1jo-paramiteo-moe-modelro-neitibeu-meoltimodal-100man-tokeun-sidae-gaemag/",
+    "status": "published",
+    "published_at": "2026-03-08T13:55:39.000Z"
+  }
+}

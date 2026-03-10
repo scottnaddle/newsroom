@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🏢 UBION 관제센터 v2</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: 'Noto Sans KR', system-ui, sans-serif;
+      background: #f3f4f6;
+      padding: 0;
+      margin: 0;
+    }
+    
+    #dashboard-container {
+      width: 100%;
+      min-height: 100vh;
+    }
+    
+    .loading {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    }
+    
+    .spinner {
+      width: 50px;
+      height: 50px;
+      border: 4px solid rgba(255,255,255,0.3);
+      border-top: 4px solid white;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+    }
+    
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body>
+  <div id="dashboard-container" class="loading">
+    <div class="spinner"></div>
+  </div>
+  
+  <script>
+    // 1분마다 대시보드 로드
+    async function loadDashboard() {
+      try {
+        const response = await fetch('./main.html', {
+          method: 'GET',
+          cache: 'no-cache'
+        });
+        
+        if (!response.ok) throw new Error('HTTP ' + response.status);
+        
+        const html = await response.text();
+        
+        // body 태그 내용만 추출
+        const bodyMatch = html.match(/<body[^>]*>([\s\S]*)<\/body>/i);
+        const content = bodyMatch ? bodyMatch[1] : html;
+        
+        document.getElementById('dashboard-container').innerHTML = content;
+        document.getElementById('dashboard-container').classList.remove('loading');
+        
+        // 스타일 적용
+        const styles = content.match(/<style[^>]*>([\s\S]*?)<\/style>/g) || [];
+        styles.forEach(style => {
+          const styleEl = document.createElement('style');
+          styleEl.textContent = style.replace(/<\/?style[^>]*>/g, '');
+          document.head.appendChild(styleEl);
+        });
+        
+        // 스크립트 실행
+        const scripts = content.match(/<script[^>]*>([\s\S]*?)<\/script>/g) || [];
+        scripts.forEach((script, idx) => {
+          const code = script.replace(/<\/?script[^>]*>/g, '');
+          try {
+            eval(code);
+          } catch (e) {
+            console.warn(`스크립트 ${idx} 실행 오류:`, e.message);
+          }
+        });
+      } catch (error) {
+        document.getElementById('dashboard-container').innerHTML = `
+          <div style="
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            font-family: system-ui, sans-serif;
+          ">
+            <div style="
+              background: white;
+              border-radius: 12px;
+              padding: 40px;
+              text-align: center;
+              box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+              max-width: 400px;
+            ">
+              <p style="font-size: 48px; margin-bottom: 16px;">⚠️</p>
+              <p style="font-size: 20px; font-weight: 700; color: #1f2937; margin-bottom: 12px;">대시보드 로드 실패</p>
+              <p style="font-size: 14px; color: #6b7280; margin-bottom: 20px;">\${error.message}</p>
+              <p style="font-size: 12px; color: #9ca3af; margin-bottom: 24px;">
+                Port 3848에서 대시보드 서버가 실행 중인지 확인하세요.
+              </p>
+              <button onclick="loadDashboard()" style="
+                padding: 12px 24px;
+                background: #667eea;
+                color: white;
+                border: none;
+                border-radius: 6px;
+                cursor: pointer;
+                font-weight: 600;
+                font-size: 14px;
+              ">재시도</button>
+            </div>
+          </div>
+        `;
+      }
+    }
+    
+    // 초기 로드
+    loadDashboard();
+    
+    // 1분마다 자동 갱신
+    setInterval(loadDashboard, 60 * 1000);
+  </script>
+</body>
+</html>

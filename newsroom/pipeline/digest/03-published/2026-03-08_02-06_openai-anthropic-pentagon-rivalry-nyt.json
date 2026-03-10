@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "For OpenAI and Anthropic, the Competition Is Deeply Personal",
+    "url": "https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html",
+    "source_name": "The New York Times",
+    "language": "en",
+    "relevance_score": 92,
+    "summary": "The New York Times examines how OpenAI and Anthropic's rivalry has become deeply personal, centered on Pentagon contracts. The article explores how the leaders of Silicon Valley's two most important AI startups are feuding over the future of the tech industry and defense AI partnerships.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-07T17:06:00+09:00"
+  },
+  "digest": {
+    "headline": "OpenAI·Anthropic, 펜타곤 계약 놓고 전면전 — 실리콘밸리 AI 패권 경쟁 격화",
+    "lead": "실리콘밸리 양대 AI 기업인 OpenAI와 Anthropic의 경쟁이 국방부(펜타곤) 계약을 둘러싸고 한층 격화되고 있다. 뉴욕타임스는 양사 리더십 간 갈등이 기술 노선 차이를 넘어 개인적 대립으로 번지고 있다고 보도했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">실리콘밸리 양대 AI 기업인 OpenAI와 Anthropic의 경쟁이 국방부(펜타곤) 계약을 둘러싸고 한층 격화되고 있다. 뉴욕타임스는 양사 리더십 간 갈등이 기술 노선 차이를 넘어 개인적 대립으로 번지고 있다고 보도했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">OpenAI와 Anthropic은 공동 창립자 출신의 분열에서 탄생한 경쟁 관계다. 최근 미 국방부가 AI 도입을 본격화하면서 양사는 방위 산업이라는 새로운 시장에서 정면 충돌하고 있다. Anthropic은 AI 안전을 강조하며 정부 신뢰를 구축하는 전략을 취해온 반면, OpenAI는 범용 AI 플랫폼으로서의 확장성을 무기로 국방 계약 수주에 나서고 있다. 뉴욕타임스에 따르면 이 경쟁은 단순한 비즈니스 분쟁을 넘어, 샘 올트먼과 다리오 아모데이 간의 개인적 반목으로까지 확대된 양상이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">펜타곤 AI 계약은 단순한 매출 이상의 의미를 지닌다. 국방 분야 레퍼런스는 기업·공공 시장 전체의 신뢰도를 좌우하며, 향후 규제 논의에서 발언권까지 확보할 수 있기 때문이다. 양사의 전면전은 AI 산업 전체의 판도를 바꿀 변수로, 안전 우선 vs. 확장 우선이라는 노선 대립이 미국 AI 정책의 방향성에도 영향을 미칠 전망이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">OpenAI와 Anthropic 모두 교육 분야 API의 핵심 공급자다. 양사의 전략 변화는 에듀테크 기업이 의존하는 AI 모델의 가격, 정책, 안전 기준에 직접적 영향을 준다. 특히 방위 산업 진출로 안전 기준이 강화될 경우, 교육용 AI에도 더 엄격한 콘텐츠 필터링과 감사 요건이 요구될 수 있어 에듀테크 개발사의 선제적 대응이 필요하다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html\" style=\"color:#FF6B35;text-decoration:none;\">The New York Times</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "openai",
+      "technology"
+    ],
+    "meta_title": "OpenAI vs Anthropic 펜타곤 계약 경쟁 — 실리콘밸리 AI 패권전 분석",
+    "meta_description": "OpenAI와 Anthropic이 미 국방부 AI 계약을 놓고 전면 경쟁에 돌입했습니다. 양사 리더십의 개인적 대립과 AI 산업 판도에 미치는 영향을 분석합니다.",
+    "word_count": 530
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T17:06:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-08T02:19:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T17:43:59.140Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ac63deff4fbf0001ab7400",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ac63deff4fbf0001ab7400",
+    "public_url": "https://insight.ubion.global/openai-anthropic-pentagon-gyeyag-nohgo-jeonmyeonjeon-silrikonbaelri-ai-paegweon-gyeongjaeng-gyeoghwa/",
+    "status": "published",
+    "published_at": "2026-03-07T17:43:58.000Z"
+  }
+}

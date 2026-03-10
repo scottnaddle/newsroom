@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "GPT-5.4 Released: The Dawn of Autonomous AI and Digital Agents",
+    "url": "https://news.quantosei.com/2026/03/06/29270/",
+    "source_name": "QuantoSei News",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "OpenAI released GPT-5.4 on March 5, 2026, marking a shift toward autonomous digital agents. The model moves beyond conversational AI to execute complex, multi-stage professional workflows. GPT-5.4 features a unified architecture blending coding and reasoning capabilities into a single powerful agent.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-07T16:48:00+09:00"
+  },
+  "digest": {
+    "headline": "GPT-5.4, 자율형 AI 에이전트 시대 본격 개막",
+    "lead": "오픈AI가 3월 5일 공개한 GPT-5.4는 단순한 대화형 AI를 넘어 복잡한 다단계 워크플로우를 독립적으로 수행하는 자율형 디지털 에이전트로 진화했다. 컴퓨터 운영체제를 직접 제어하고 전문직 수준의 과제를 수행하는 능력을 갖춘 이 모델은 '생각하는 AI'의 새로운 지평을 열었다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">오픈AI가 3월 5일 공개한 GPT-5.4는 단순한 대화형 AI를 넘어 복잡한 다단계 워크플로우를 독립적으로 수행하는 자율형 디지털 에이전트로 진화했다. OSWorld-Verified 벤치마크에서 75%의 성공률을 기록하며 인간 평균인 72.4%를 넘어섰다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">GPT-5.4의 핵심 혁신은 '통합 아키텍처'다. 기존에는 코딩 특화 모델과 추론 특화 모델이 분리되어 있었으나, GPT-5.4는 이를 단일 시스템으로 통합했다. 또한 'System 2 사고'를 도입해 빠른 텍스트 생성보다 정확성과 전략적 계획을 우선시한다. 사용자는 'GPT-5.4 Thinking' 기능을 통해 모델의 사고 과정을 실시간으로 확인하고 중간에 조정할 수 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">가장 혁신적인 기능은 '네이티브 컴퓨터 제어'다. GPT-5.4는 스크린샷을 실시간으로 해석하고 마우스·키보드 명령을 직접 실행해 일반 데스크톱 애플리케이션을 조작할 수 있다. OSWorld-Verified 벤치마크에서 75% 성공률로 인간 평균 72.4%를 능가했다. 전문직 벤치마크 GDPval에서도 83%를 달성해 44개 직종에서 인간 전문가와 동등 이상의 성과를 보였다. 다만 '추론 세금(Reasoning Tax)'으로 불리는 막대한 연산 비용 증가는 인프라 비용 상승 요인이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">자율형 AI 에이전트는 교육 현장에서도 패러다임 변화를 예고한다. 학생들이 코딩이나 소프트웨어 사용법을 배우는 방식 자체가 바뀔 수 있으며, 교사용 행정 업무 자동화, 개인 맞춤형 학습 경로 생성 등에서 즉각적인 활용이 가능하다. 반면 AI에 과도하게 의존하는 학습 환경의 부작용에 대한 논의도 시급해졌다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://news.quantosei.com/2026/03/06/29270/\" style=\"color:#FF6B35;text-decoration:none;\">QuantoSei News</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "openai",
+      "gpt"
+    ],
+    "meta_title": "GPT-5.4, 자율형 AI 에이전트 시대 본격 개막",
+    "meta_description": "오픈AI GPT-5.4가 자율형 디지털 에이전트로 진화했다. OS 제어, 전문직 벤치마크 인간 능가. 에듀테크 시사점 분석.",
+    "word_count": 620
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T16:48:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T18:45:57+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T10:27:13.031Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69abfd80ff4fbf0001ab7357",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69abfd80ff4fbf0001ab7357",
+    "public_url": "https://insight.ubion.global/gpt-5-4-jayulhyeong-ai-eijeonteu-sidae-bongyeog-gaemag/",
+    "status": "published",
+    "published_at": "2026-03-07T10:27:12.000Z"
+  }
+}

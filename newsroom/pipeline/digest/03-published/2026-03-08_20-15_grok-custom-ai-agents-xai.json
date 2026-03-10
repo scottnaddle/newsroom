@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Grok Now Lets You Design Custom AI Agents: What to Know",
+    "url": "https://www.basenor.com/blogs/news/grok-now-lets-you-design-custom-ai-agents-what-to-know",
+    "source_name": "Basenor",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "xAI quietly rolled out a Custom Agents capability for Grok on March 4, 2026, with Elon Musk publicly announcing the feature on March 8. The feature allows users to design personalized AI agents rather than using a one-size-fits-all chatbot. This positions xAI's Grok as a competitor in the emerging custom AI agents space alongside OpenAI's GPTs and other platforms.",
+    "published_date": "2026-03-08",
+    "collected_at": "2026-03-08T20:15:00+09:00"
+  },
+  "digest": {
+    "headline": "xAI Grok, 사용자 맞춤형 AI 에이전트 기능 공개",
+    "lead": "일론 머스크의 xAI가 Grok에 '커스텀 에이전트' 기능을 도입했다. 사용자가 최대 4개의 전용 AI 에이전트를 직접 설계할 수 있어, 범용 챗봇을 넘어 목적별 AI 비서 시대의 경쟁이 본격화되고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">일론 머스크의 xAI가 Grok에 '커스텀 에이전트' 기능을 도입했다. 사용자가 최대 4개의 전용 AI 에이전트를 직접 설계할 수 있어, 범용 챗봇을 넘어 목적별 AI 비서 시대의 경쟁이 본격화되고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">xAI는 3월 4일 커스텀 에이전트 기능을 조용히 출시한 뒤, 머스크가 3월 8일 X(구 트위터)에서 공식 발표했다. 사용자는 Grok 내 'Your Agents' 화면에서 최대 4개의 에이전트를 생성하고, 각각에 고유한 성격·전문 분야·지시문을 설정할 수 있다. 이 기능은 Grok 4.20 모델의 4개 서브에이전트 병렬 처리 아키텍처를 기반으로 구현된 것으로 보인다. 다만 기존 '딥 리서치' 모드와 '페르소나' 드롭다운은 제거되었고, 커스텀 지시문 글자 수도 12,000자에서 4,000자로 축소되었다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">OpenAI의 GPTs, 구글 Gems에 이어 xAI도 맞춤형 에이전트 경쟁에 합류하면서 '에이전트 플랫폼' 시장이 삼파전으로 확대되었다. 사용자가 직접 AI의 역할과 전문성을 정의하는 모델은 범용 챗봇 대비 특정 업무의 생산성을 크게 높일 수 있다. 다만 에이전트 수 제한(4개)과 지시문 축소는 파워유저에게 제약이 될 수 있으며, 생태계 확장성에서 OpenAI GPT Store와의 경쟁이 관건이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">맞춤형 AI 에이전트 기능은 교육 분야에서 '과목별 AI 튜터' 설계를 가능하게 한다. 교사가 수학 풀이 전용, 영작문 피드백 전용, 프로그래밍 코치 등 역할별 에이전트를 미리 구성해 학생에게 제공할 수 있는 구조로, Grok을 포함한 에이전트 플랫폼 경쟁이 에듀테크 도구의 개인화 수준을 한 단계 끌어올릴 것으로 보인다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.basenor.com/blogs/news/grok-now-lets-you-design-custom-ai-agents-what-to-know\" style=\"color:#FF6B35;text-decoration:none;\">Basenor</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "xAI Grok, 사용자 맞춤형 AI 에이전트 기능 공개",
+    "meta_description": "Grok에 커스텀 에이전트 기능 도입. 최대 4개 전용 AI 비서를 직접 설계할 수 있어 OpenAI GPTs와의 에이전트 플랫폼 경쟁이 본격화된다.",
+    "word_count": 530
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-08T20:15:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-08T22:14:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T13:55:42.952Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ad7fdeff4fbf0001ab750e",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ad7fdeff4fbf0001ab750e",
+    "public_url": "https://insight.ubion.global/xai-grok-sayongja-majcumhyeong-ai-eijeonteu-gineung-gonggae/",
+    "status": "published",
+    "published_at": "2026-03-08T13:55:42.000Z"
+  }
+}

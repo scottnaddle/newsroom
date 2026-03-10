@@ -1,0 +1,158 @@
+{
+  "timestamp": "2026-03-05T21:59:30Z",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 1,
+      "assigned": 0,
+      "queued": 1,
+      "rejected": 0,
+      "files": ["2026-03-05_21-36_catholic-university-ai-learning (관련성 68점→queue)"]
+    },
+    "02_assigned": {
+      "total": 0,
+      "note": "이전 기사들이 처리 완료됨"
+    },
+    "03_reported": {
+      "total": 0,
+      "note": "이전 기사들이 처리 완료됨"
+    },
+    "04_drafted": {
+      "total": 2,
+      "status": "WAITING",
+      "files": ["2026-03-05_21-36_seoul-education-ai-guideline.json", "2026-03-05_21-36_university-ai-ethics-guideline.json"]
+    },
+    "05_fact_checked": {
+      "total": 0,
+      "note": "2개 파일 모두 처리됨 (06-desk-approved로 이동)"
+    },
+    "06_desk_approved": {
+      "total": 0,
+      "note": "2개 파일 모두 07-copy-edited로 이동"
+    },
+    "07_copy_edited": {
+      "total": 2,
+      "status": "IN_PROGRESS",
+      "files": ["2026-03-05_21-06_mandatory-ai-education-k12.json (에디터 승인 93점)", "2026-03-05_21-06_university-ai-education-expansion.json (에디터 승인 98점)"],
+      "note": "교열기자 처리 대기 중"
+    },
+    "08_published": {
+      "total": 52,
+      "note": "누적 발행 기사"
+    }
+  },
+  "routing_summary": {
+    "05_fact_checked_routing": {
+      "신뢰도_90plus": 0,
+      "신뢰도_80_89_PASS": 2,
+      "신뢰도_75_79_FLAG": 0,
+      "신뢰도_below_75_REJECT": 0,
+      "total_processed": 2
+    },
+    "detail": [
+      {
+        "id": "1741271193-joins-mandatory",
+        "title": "정부 '의무 AI 교육' 선언...기초학문과의 균형이 과제",
+        "confidence_score": 81.4,
+        "verdict": "FLAG→에디터검토→93점 APPROVE",
+        "destination": "07-copy-edited"
+      },
+      {
+        "id": "1741271193-unn-expansion",
+        "title": "대학 'AI 강사' 도입 확대...교육 효율 vs 인력 감축 우려",
+        "confidence_score": 85.2,
+        "verdict": "PASS→에디터검토→98점 APPROVE",
+        "destination": "07-copy-edited"
+      }
+    ]
+  },
+  "queue_status": {
+    "sourced_queue": {
+      "total": 4,
+      "items": [
+        {
+          "id": "1772710577-001",
+          "title": "Hwang Hyuna of Korea University of Technology and Education Publishes AI Career Counseling Paper",
+          "relevance_score": 68
+        },
+        {
+          "id": "1741271193-clg-consortium",
+          "title": "South Korean Universities Form Asia AI Research Consortium",
+          "relevance_score": 68
+        },
+        {
+          "id": "1741271193-politico-love",
+          "title": "The Country That's Madly in Love With AI",
+          "relevance_score": 62
+        },
+        {
+          "id": "1741352160-002",
+          "title": "2026학년도 AI기반 기초과목 진단 및 맞춤형 학습 프로그램",
+          "relevance_score": 68
+        }
+      ]
+    }
+  },
+  "bottleneck_analysis": {
+    "critical": {
+      "stage": "04_drafted",
+      "count": 2,
+      "issue": "Writer 병목 - 초안 작성 완료 대기",
+      "note": "2026-03-05_21-36 타임스탬프의 2개 파일 미완료"
+    },
+    "action_required": "Writer 우선 실행 - 04-drafted 파일 팩트체킹 진행"
+  },
+  "daily_metrics": {
+    "new_sourced": 1,
+    "assigned_today": 0,
+    "reported_today": 0,
+    "drafted_today": 0,
+    "fact_checked_today": 2,
+    "approved_today": 2,
+    "published_today": 0
+  },
+  "editor_desk_actions": {
+    "timestamp": "2026-03-05T21:59:30Z",
+    "actions": [
+      {
+        "step": "STEP 1: 01-sourced 라우팅",
+        "result": "1개 파일 대기 큐로 이동 (관련성 68점)",
+        "status": "COMPLETE"
+      },
+      {
+        "step": "STEP 2: 05-fact-checked 자동 라우팅",
+        "result": "2개 파일 에디터 체크리스트 실행 → 모두 APPROVE",
+        "detail": [
+          "mandatory-ai-education: 81.4→체크리스트 93점→06-desk-approved",
+          "university-ai-education: 85.2→체크리스트 98점→06-desk-approved"
+        ],
+        "status": "COMPLETE"
+      },
+      {
+        "step": "STEP 3: 06-desk-approved 이동",
+        "result": "2개 파일을 07-copy-edited로 이동",
+        "status": "COMPLETE"
+      },
+      {
+        "step": "STEP 4: 07-copy-edited 이동",
+        "result": "교열 진행 중 (완료 파일 없음)",
+        "status": "IN_PROGRESS"
+      },
+      {
+        "step": "STEP 5: 파이프라인 통계",
+        "result": "통계 리포트 생성",
+        "status": "COMPLETE"
+      }
+    ]
+  },
+  "recommendations": [
+    "✅ 신뢰도 낮은 기사 2개의 에디터 검토 완료 및 승인",
+    "⏳ 07-copy-edited 파일 2개 교열기자 처리 대기 중",
+    "🔴 04-drafted 파일 2개 작성자 처리 필요 (우선순위)",
+    "📊 sourced queue 4개 파일 있음 - 신뢰도 50-79 범위, 차순위 배정 고려"
+  ],
+  "next_steps": [
+    "1. 교열기자(copy-editor)에게 2개 파일 처리 요청",
+    "2. 작성자(writer)에게 04-drafted 2개 파일 우선 처리 요청",
+    "3. sourced queue의 신뢰도 68점 파일 계속 모니터링"
+  ]
+}

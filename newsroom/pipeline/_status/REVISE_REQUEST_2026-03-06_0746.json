@@ -1,0 +1,95 @@
+{
+  "timestamp": "2026-03-06T07:46:00+09:00",
+  "source_agent": "editor-desk",
+  "target_agent": "writer",
+  "action": "request-revision",
+  "status": "pending",
+  "priority": "high",
+  
+  "articles": [
+    {
+      "filename": "2026-03-03_17-17_nyt-ai-literacy-newark-school.json",
+      "article_id": "nyt-ai-literacy-newark-school",
+      "headline": "미국 고교생 절반, 대입 탐색에 AI 활용",
+      "priority": "high",
+      "reason": "팩트체크 신뢰도 낮음 (78점 = FLAG) + 이미지 미설정",
+      
+      "issues": [
+        {
+          "type": "factcheck_score",
+          "severity": "high",
+          "description": "신뢰도 78점 (FLAG 상태, 80점 이상 필요)",
+          "current_value": 78,
+          "required_value": 80,
+          "action": "재검증 필요"
+        },
+        {
+          "type": "missing_image",
+          "severity": "high",
+          "description": "feature_image 없음",
+          "field": "draft.feature_image",
+          "current_value": null,
+          "action": "이미지 선택 및 추가"
+        },
+        {
+          "type": "missing_og_image",
+          "severity": "high",
+          "description": "og_image 없음",
+          "field": "draft.og_image",
+          "current_value": null,
+          "action": "og_image URL 확인/추가"
+        }
+      ],
+      
+      "required_changes": [
+        "팩트체크 재검증 (신뢰도 80점 이상 달성)",
+        "feature_image 선택 및 추가 (Unsplash 또는 제공 이미지)",
+        "og_image URL 확인/생성",
+        "meta_title, meta_description 저장 확인"
+      ],
+      
+      "deadline": "2026-03-06T09:00:00+09:00",
+      "deadline_minutes": 75
+    },
+    
+    {
+      "filename": "2026-03-04_18-52_ai-korea-innovation-strategy.json",
+      "article_id": "ai-korea-innovation-strategy",
+      "headline": "한국 AI 혁신 전략",
+      "priority": "medium",
+      "reason": "이미지 미설정 (신뢰도 83점은 양호하나 이미지 필수)",
+      
+      "issues": [
+        {
+          "type": "missing_image",
+          "severity": "high",
+          "description": "feature_image 없음",
+          "field": "draft.feature_image",
+          "current_value": null,
+          "action": "이미지 선택 및 추가"
+        },
+        {
+          "type": "missing_og_image",
+          "severity": "high",
+          "description": "og_image 없음",
+          "field": "draft.og_image",
+          "current_value": null,
+          "action": "og_image URL 확인/추가"
+        }
+      ],
+      
+      "required_changes": [
+        "feature_image 선택 및 추가 (한국 AI 정책/혁신 관련 이미지)",
+        "og_image URL 확인/생성",
+        "meta_title, meta_description 검증"
+      ],
+      
+      "deadline": "2026-03-06T08:30:00+09:00",
+      "deadline_minutes": 45
+    }
+  ],
+  
+  "editorial_notes": "SOUL.md 체크리스트 #2 (이미지 링크 유효성) 불통과로 인한 REVISE 요청. 두 기사 모두 이미지 선택이 빠졌습니다. 나머지 팩트체크는 양호합니다.",
+  
+  "approval_status": "대기 중 — Writer의 수정 완료 후 재검증"
+}

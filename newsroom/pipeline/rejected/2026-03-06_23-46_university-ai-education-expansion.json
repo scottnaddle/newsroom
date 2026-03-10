@@ -1,0 +1,45 @@
+{
+  "id": "20260306234601-uni-ai-expansion",
+  "stage": "rejected",
+  "created_at": "2026-03-06T23:46:00+09:00",
+  "priority": 2,
+  "source": {
+    "title": "대학 'AI 교육' 도입 확산… 효율 높인다 vs 강사·조교 인력 축소?",
+    "url": "https://news.unn.net/news/articleView.html?idxno=590453",
+    "source_name": "한국대학신문",
+    "relevance_score": 80,
+    "summary": "대학에 AI 기술이 도입되면서 비용 절감으로 강사 규모 축소 우려가 제기된다. 반면 교육 정책 전문가들은 운영 방식이 중요하며 도입 자체는 문제가 아니라고 주장한다.",
+    "tags": [
+      "policy",
+      "university",
+      "debate"
+    ],
+    "collected_via": "brave_search"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector",
+      "action": "collected",
+      "timestamp": "2026-03-06T23:46:00+09:00",
+      "note": "관련성 80점 - 대학 AI 교육 도입 논쟁"
+    }
+  ],
+  "rejected_at": "2026-03-07T01:25:00+09:00",
+  "rejected_by": "editor-desk",
+  "rejection_reason": "중복 기사 - 이미 발행된 기사와 동일 주제",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

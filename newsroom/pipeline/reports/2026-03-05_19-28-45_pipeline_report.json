@@ -1,0 +1,89 @@
+{
+  "timestamp": "2026-03-05T19:28:45Z",
+  "timezone": "Asia/Seoul",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "assigned": 0,
+      "queued": 0,
+      "rejected": 0
+    },
+    "02_assigned": {
+      "total": 0
+    },
+    "03_reported": {
+      "total": 0
+    },
+    "04_drafted": {
+      "total": 1,
+      "revision_1": 1,
+      "revision_2_plus": 0,
+      "files": [
+        "2026-03-05_university-ai-education.json (revision 1: 출처 수정 필요)"
+      ]
+    },
+    "05_fact_checked": {
+      "total": 0,
+      "pass_90plus": 0,
+      "pass_80_89": 0,
+      "flag_75_79": 0,
+      "fail_below_75": 0
+    },
+    "06_desk_approved": {
+      "total": 0
+    },
+    "07_copy_edited": {
+      "total": 0
+    },
+    "08_published": {
+      "total": 52,
+      "note": "최근 발행: 확인 필요"
+    }
+  },
+  "actions_taken": [
+    {
+      "step": 1,
+      "status": "COMPLETE",
+      "files_processed": 0,
+      "note": "01-sourced/ 비어 있음"
+    },
+    {
+      "step": 2,
+      "status": "COMPLETE",
+      "files_processed": 1,
+      "actions": [
+        {
+          "file": "2026-03-05_university-ai-education.json",
+          "score": 88,
+          "action": "REVISE",
+          "routed_to": "04-drafted",
+          "revision_count": 1,
+          "editor_issues": [
+            "수도권 15개 대학 비율(55.4%) 출처 확인 필요",
+            "KAIST VTA 공식 출처 명시",
+            "ASU/옥스퍼드 사례 구체적 출처 추가",
+            "원본 기사(한국대학신문) 재검증 권장"
+          ]
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "status": "COMPLETE",
+      "files_processed": 0,
+      "note": "06-desk-approved/ 비어 있음"
+    },
+    {
+      "step": 4,
+      "status": "COMPLETE",
+      "files_processed": 0,
+      "note": "07-copy-edited/ 비어 있음"
+    }
+  ],
+  "bottleneck": "04_drafted (1개) — writer 수정 후 재제출 대기 중",
+  "action_needed": "현재 진행 중인 기사의 출처 수정 및 팩트체크 재검증",
+  "pipeline_health": {
+    "overall_status": "GREEN",
+    "message": "파이프라인 정상 작동. 1개 기사가 수정 단계. 새로운 기사 수집 대기 중."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "arxiv_id": "2603.05462v1",
+  "title": "NCTB-QA: A Large-Scale Bangla Educational Question Answering Dataset and Benchmarking Performance",
+  "summary": "Reading comprehension systems for low-resource languages face significant challenges in handling unanswerable questions. These systems tend to produce unreliable responses when correct answers are absent from context. To solve this problem, we introduce NCTB-QA, a large-scale Bangla question answering dataset comprising 87,805 question-answer pairs extracted from 50 textbooks published by Bangladesh's National Curriculum and Textbook Board. Unlike existing Bangla datasets, NCTB-QA maintains a balanced distribution of answerable (57.25%) and unanswerable (42.75%) questions. NCTB-QA also includes adversarially designed instances containing plausible distractors. We benchmark three transformer-based models (BERT, RoBERTa, ELECTRA) and demonstrate substantial improvements through fine-tuning. BERT achieves 313% relative improvement in F1 score (0.150 to 0.620). Semantic answer quality measured by BERTScore also increases significantly across all models. Our results establish NCTB-QA as a challenging benchmark for Bangla educational question answering. This study demonstrates that domain-specific fine-tuning is critical for robust performance in low-resource settings.",
+  "authors": [
+    "Abrar Eyasir",
+    "Tahsin Ahmed",
+    "Muhammad Ibrahim"
+  ],
+  "categories": [
+    "cs.CL",
+    "cs.CL"
+  ],
+  "published": "2026-03-05T18:35:03Z",
+  "updated": "2026-03-05T18:35:03Z",
+  "pdf_url": "https://arxiv.org/pdf/2603.05462v1",
+  "abs_url": "https://arxiv.org/abs/2603.05462v1",
+  "relevance_score": 73,
+  "source_query": "ai education learning",
+  "collected_at": "2026-03-06T22:47:06.766Z",
+  "stage": "published",
+  "audit_log": [
+    {
+      "agent": "paper-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T22:47:09.799Z",
+      "source": "arxiv"
+    },
+    {
+      "agent": "paper-summarizer",
+      "action": "summarized",
+      "timestamp": "2026-03-06T22:47:21.731Z"
+    },
+    {
+      "agent": "paper-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T22:47:39.265Z"
+    }
+  ],
+  "korean_title": "NCTB-QA: 방글라데시 국가 교과서 위원회 교육 질의응답 대규모 데이터셋 및 벤치마크 성능",
+  "korean_summary": "이 연구에서는 방글라데시 국가 교과서 위원회(NCTB)에서 발간된 50개 교과서에서 추출된 87,805개의 질의응답 쌍으로 구성된 대규모 방글라데시어 교육 질의응답 데이터셋인 NCTB-QA를 소개합니다. 기존 데이터셋과 달리 NCTB-QA는 답변 가능(57.25%)과 불가능(42.75%)한 질문을 균형 있게 포함하며, 세 개의 트랜스포머 모델을 벤치마킹하여 미세 조정을 통해 성능을 크게 개선할 수 있음을 입증했습니다.",
+  "key_findings": [
+    "NCTB-QA 데이터셋은 답변 가능과 불가능한 질문을 57.25%와 42.75%로 균형 있게 포함하는 독특한 구조를 가집니다.",
+    "BERT 모델은 미세 조정을 통해 F1 점수에서 313% 상대적 개선을 이루며, 다른 모델들도 모두 성능이 크게 향상되었습니다.",
+    "도메인 특화 미세 조정은 저자원 언어 교육 질의응답 시스템의 강건한 성능을 달성하는 데 결정적인 역할을 합니다."
+  ],
+  "implications": "이 연구는 특정 교육 도메인에 맞춰 AI 모델을 훈련시키는 것이 학습 자료의 질 향상과 학습자 경험 개선에 필적할 수 있음을 시사합니다. 또한, 답변 불가능한 질문을 처리하는 능력은 학생들의 오해를 줄이고 비판적 사고 능력을 기르는 데 기여할 수 있습니다.",
+  "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>NCTB-QA: 방글라데시 국가 교과서 위원회 교육 질의응답 대규모 데이터셋 및 벤치마크 성능</title>\n</head>\n<body style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;padding:20px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n\n  <!-- 논문 정보 박스 -->\n  <div style=\"background:#f8f9ff;border-left:4px solid #8b5cf6;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:32px;\">\n    <p style=\"margin:0 0 12px;font-size:15px;color:#64748b;\">\n      <strong>📄 논문</strong> | Abrar Eyasir, Tahsin Ahmed, Muhammad Ibrahim\n    </p>\n    <p style=\"margin:0 0 8px;font-size:14px;color:#64748b;\">\n      <strong>게재일:</strong> 2026. 3. 6. | \n      <strong>arXiv:</strong> <a href=\"https://arxiv.org/abs/2603.05462v1\" style=\"color:#8b5cf6;\">2603.05462v1</a>\n    </p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">\n      <a href=\"https://arxiv.org/pdf/2603.05462v1\" style=\"color:#8b5cf6;margin-right:16px;\">📥 PDF 다운로드</a>\n      <a href=\"https://arxiv.org/abs/2603.05462v1\" style=\"color:#8b5cf6;\">🔗 원문 보기</a>\n    </p>\n  </div>\n\n  <!-- 한국어 요약 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📝 한국어 요약</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">이 연구에서는 방글라데시 국가 교과서 위원회(NCTB)에서 발간된 50개 교과서에서 추출된 87,805개의 질의응답 쌍으로 구성된 대규모 방글라데시어 교육 질의응답 데이터셋인 NCTB-QA를 소개합니다. 기존 데이터셋과 달리 NCTB-QA는 답변 가능(57.25%)과 불가능(42.75%)한 질문을 균형 있게 포함하며, 세 개의 트랜스포머 모델을 벤치마킹하여 미세 조정을 통해 성능을 크게 개선할 수 있음을 입증했습니다.</p>\n\n  <!-- 핵심 발견 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">💡 핵심 발견</h2>\n  <ul style=\"margin:0 0 24px;padding-left:24px;line-height:1.9;\">\n    <li style=\"margin-bottom:8px;\">NCTB-QA 데이터셋은 답변 가능과 불가능한 질문을 57.25%와 42.75%로 균형 있게 포함하는 독특한 구조를 가집니다.</li>\n    <li style=\"margin-bottom:8px;\">BERT 모델은 미세 조정을 통해 F1 점수에서 313% 상대적 개선을 이루며, 다른 모델들도 모두 성능이 크게 향상되었습니다.</li>\n    <li style=\"margin-bottom:8px;\">도메인 특화 미세 조정은 저자원 언어 교육 질의응답 시스템의 강건한 성능을 달성하는 데 결정적인 역할을 합니다.</li>\n  </ul>\n\n  <!-- 교육적 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">🎓 교육적 시사점</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">이 연구는 특정 교육 도메인에 맞춰 AI 모델을 훈련시키는 것이 학습 자료의 질 향상과 학습자 경험 개선에 필적할 수 있음을 시사합니다. 또한, 답변 불가능한 질문을 처리하는 능력은 학생들의 오해를 줄이고 비판적 사고 능력을 기르는 데 기여할 수 있습니다.</p>\n\n  <!-- 한국어 초록 (원문 번역) -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📖 초록 (한국어 번역)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;background:#fefce8;padding:16px 20px;border-radius:8px;\">저자원 언어를 위한 독해 이해 시스템은 답변 불가능한 질문을 처리하는 데 상당한 어려움을 겪습니다. 이 시스템들은 문맥에 올바른 답변이 없을 때 신뢰할 수 없는 응답을 생성하는 경향이 있습니다. 이 문제를 해결하기 위해, 우리는 방글라데시 국가 교육과정 및 교과서 위원회에서 발간된 50개 교과서에서 추출된 87,805개의 질의응답 쌍으로 구성된 대규모 방글라데시어 질의응답 데이터셋인 NCTB-QA를 소개합니다. 기존 방글라데시어 데이터셋과 달리 NCTB-QA는 답변 가능한 질문(57.25%)과 답변 불가능한 질문(42.75%)을 균형 있게 유지합니다. NCTB-QA에는 타당한 오답을 포함한 적대적으로 설계된 인스턴스도 포함되어 있습니다. 우리는 세 개의 트랜스포머 기반 모델(BERT, RoBERTa, ELECTRA)을 벤치마킹하고 미세 조정을 통해 상당한 개선을 이루었습니다. BERT는 F1 점수에서 313% 상대적 개선(0.150에서 0.620)을 달성했습니다. BERTScore로 측정된 의미적 답변 품질도 모든 모델에서 크게 증가했습니다. 우리의 결과는 NCTB-QA를 방글라데시어 교육 질의응답을 위한 도전적인 벤치마크로 확립합니다. 이 연구는 도메인 특화 미세 조정이 저자원 환경에서 강력한 성능을 위한 핵심임을 보여줍니다.</p>\n\n  <!-- 원문 초록 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📋 원문 초록 (Abstract)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.8;font-style:italic;color:#374151;background:#f8f9ff;padding:16px 20px;border-radius:8px;\">Reading comprehension systems for low-resource languages face significant challenges in handling unanswerable questions. These systems tend to produce unreliable responses when correct answers are absent from context. To solve this problem, we introduce NCTB-QA, a large-scale Bangla question answering dataset comprising 87,805 question-answer pairs extracted from 50 textbooks published by Bangladesh's National Curriculum and Textbook Board. Unlike existing Bangla datasets, NCTB-QA maintains a balanced distribution of answerable (57.25%) and unanswerable (42.75%) questions. NCTB-QA also includes adversarially designed instances containing plausible distractors. We benchmark three transformer-based models (BERT, RoBERTa, ELECTRA) and demonstrate substantial improvements through fine-tuning. BERT achieves 313% relative improvement in F1 score (0.150 to 0.620). Semantic answer quality measured by BERTScore also increases significantly across all models. Our results establish NCTB-QA as a challenging benchmark for Bangla educational question answering. This study demonstrates that domain-specific fine-tuning is critical for robust performance in low-resource settings.</p>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">\n    본 요약은 AI가 작성했습니다. 원문은 위의 링크에서 확인하세요.\n  </p>\n\n</body>\n</html>",
+  "ghost": {
+    "headline": "[논문] NCTB-QA: A Large-Scale Bangla Educational Question Answering Dataset and Benchmarking Performance",
+    "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>NCTB-QA: A Large-Scale Bangla Educational Question Answering Dataset and Benchmarking Performance</title>\n</head>\n<body style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;padding:20px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n\n  <!-- 논문 정보 박스 -->\n  <div style=\"background:#f8f9ff;border-left:4px solid #059669;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:32px;\">\n    <p style=\"margin:0 0 12px;font-size:15px;color:#64748b;\">\n      <strong>📄 논문</strong> | Abrar Eyasir, Tahsin Ahmed, Muhammad Ibrahim\n    </p>\n    <p style=\"margin:0 0 8px;font-size:14px;color:#64748b;\">\n      <strong>게재일:</strong> 2026. 3. 6. | \n      <strong>arXiv:</strong> <a href=\"https://arxiv.org/abs/2603.05462v1\" style=\"color:#059669;\">2603.05462v1</a>\n    </p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">\n      <a href=\"https://arxiv.org/pdf/2603.05462v1\" style=\"color:#059669;margin-right:16px;\">📥 PDF 다운로드</a>\n      <a href=\"https://arxiv.org/abs/2603.05462v1\" style=\"color:#059669;\">🔗 원문 보기</a>\n    </p>\n  </div>\n\n  <!-- 한국어 요약 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📝 한국어 요약</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">[요약 예정] Reading comprehension systems for low-resource languages face significant challenges in handling unanswerable questions. These systems tend to produce unreliable responses when correct answers are absent from context. To solve this problem, we introduce NCTB-QA, a large-scale Bangla question answeri...</p>\n\n  <!-- 핵심 발견 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">💡 핵심 발견</h2>\n  <ul style=\"margin:0 0 24px;padding-left:24px;line-height:1.9;\">\n    <li style=\"margin-bottom:8px;\">이 논문은 AI 교육 분야의 새로운 접근법을 제시합니다.</li>\n    <li style=\"margin-bottom:8px;\">실험 결과 교육 현장에서의 AI 활용 가능성을 보여줍니다.</li>\n    <li style=\"margin-bottom:8px;\">향후 연구 방향과 실제 적용 방안을 논의합니다.</li>\n  </ul>\n\n  <!-- 교육적 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">🎓 교육적 시사점</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">이 연구는 AI 기술의 교육 현장 도입에 있어 중요한 시사점을 제공합니다. 교사와 학생 모두에게 긍정적인 영향을 미칠 수 있으나, 신중한 적용이 필요합니다.</p>\n\n  <!-- 원문 초록 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📋 원문 초록 (Abstract)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.8;font-style:italic;color:#374151;background:#f8f9ff;padding:16px 20px;border-radius:8px;\">Reading comprehension systems for low-resource languages face significant challenges in handling unanswerable questions. These systems tend to produce unreliable responses when correct answers are absent from context. To solve this problem, we introduce NCTB-QA, a large-scale Bangla question answering dataset comprising 87,805 question-answer pairs extracted from 50 textbooks published by Bangladesh's National Curriculum and Textbook Board. Unlike existing Bangla datasets, NCTB-QA maintains a balanced distribution of answerable (57.25%) and unanswerable (42.75%) questions. NCTB-QA also includes adversarially designed instances containing plausible distractors. We benchmark three transformer-based models (BERT, RoBERTa, ELECTRA) and demonstrate substantial improvements through fine-tuning. BERT achieves 313% relative improvement in F1 score (0.150 to 0.620). Semantic answer quality measured by BERTScore also increases significantly across all models. Our results establish NCTB-QA as a challenging benchmark for Bangla educational question answering. This study demonstrates that domain-specific fine-tuning is critical for robust performance in low-resource settings.</p>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">\n    본 요약은 AI가 작성했습니다. 원문은 위의 링크에서 확인하세요.\n  </p>\n\n</body>\n</html>",
+    "ghost_tags": [
+      "ai-papers",
+      "arxiv"
+    ],
+    "meta_title": "NCTB-QA: A Large-Scale Bangla Educational Question Answering Dataset and Benchmarking Performance | AI 교육 논문",
+    "meta_description": "[요약 예정] Reading comprehension systems for low-resource languages face significant challenges in handling unanswerable questions. These systems tend to",
+    "feature_image_alt": "AI 교육 논문"
+  },
+  "publish_result": {
+    "ghost_post_id": "69ab598bff4fbf0001ab7149",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ab598bff4fbf0001ab7149",
+    "public_url": "https://ubion.ghost.io/nonmun-nctb-qa-a-large-scale-bangla-educational-question-answering-dataset-and-benchmarking-performance/",
+    "status": "published",
+    "published_at": "2026-03-06T22:47:39.000Z"
+  }
+}

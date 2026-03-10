@@ -1,0 +1,89 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960284&call_from=rsslink",
+    "title": "국내 첫 사내대학원 'LG AI대학원' 개원…산업 밀착형 인재 양성",
+    "snippet": "교육부 인가 국내 첫 사내대학원. 교육부 고등평생정책실장 참석. LG그룹 임직원 석박사 과정 운영.",
+    "published_date": "2026-03-05"
+  },
+  "relevance_score": 78,
+  "tags": [
+    "university",
+    "corporate",
+    "talent",
+    "policy"
+  ],
+  "collected_at": "2026-03-08T00:16:46.903Z",
+  "editor_note": "LG AI대학원 개원 - 국내 첫 사내대학원. 6개 관련 소스 중 가장 종합적인 정책브리핑 기사 선택.",
+  "reporting_brief": {
+    "who": "LG경영개발원 AI연구원, 교육부(이해숙 고등평생정책실장), 산업통상부(박동일 산업정책실장), 구광모 LG 대표. 초대 대학원장 이홍락 박사(LG AI연구원 공동연구원장).",
+    "what": "국내 최초 교육부 인가 사내대학원 'LG AI대학원' 3월 4일 개원. '첨단산업 인재혁신 특별법' 제4조에 따라 설립. 석사(입학정원 25명)·박사(5명) 과정 운영. 졸업 시 일반 대학원과 동등한 학력·학위 인정.",
+    "why": "기업이 직접 석박사급 AI 인재를 양성하는 새로운 모델 제시. 제조업 AI 전환(M.AX)이 필수 과제로 부상하는 가운데, 산업 현장 밀착형 인재 양성 시스템 필요성 증대.",
+    "when": "2026년 3월 4일 개원식. 2025년 8월 교육부 인가 취득, 2025년 9월 신입생 모집, 2026년 3월 첫 입학.",
+    "context": "'첨단산업 인재혁신 특별법'은 기업 사내대학원의 법적 근거를 제공하며, LG가 첫 사례. 교육부는 이를 성공 선례로 확산시키려는 구상.",
+    "sources": [
+      {
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960284",
+        "name": "정책브리핑 - LG AI대학원 개원 (교육부·산업부 공식)",
+        "reliability": "최상"
+      },
+      {
+        "url": "https://www.lg.co.kr/media/release/29286",
+        "name": "LG 공식 보도자료",
+        "reliability": "최상 (당사자 발표)"
+      },
+      {
+        "url": "https://www.mk.co.kr/news/business/11401323",
+        "name": "매일경제 - LG AI대학원 출범 (배경 상세)",
+        "reliability": "상"
+      },
+      {
+        "url": "https://www.kpinews.kr/newsView/1065576240179159",
+        "name": "KPI뉴스 - LG AI대학원 마곡 캠퍼스 개원",
+        "reliability": "중"
+      }
+    ],
+    "perspectives": {
+      "정부": "교육부는 사내대학원을 첨단분야 고급인재 양성의 새로운 경로로 기대.",
+      "교육계": "기업 내 학위 과정이 기존 대학원 교육과 어떤 차별성을 갖는지, 학문적 독립성과 연구 자율성 확보가 관건.",
+      "기업": "LG는 도메인 지식+AI 역량을 갖춘 인재 양성을 목표로 1년(석사)~3년(박사) 파견 교육 과정 운영."
+    },
+    "suggested_angle": "국내 첫 사내대학원이 갖는 제도적 의의와 파급력에 초점."
+  },
+  "draft": {
+    "headline": "LG AI대학원 개원, 국내 첫 사내대학원이 여는 인재 양성의 새 길",
+    "subheadline": "'첨단산업 인재혁신 특별법' 첫 적용 사례… 석·박사 30명 첫 입학, 기업 주도 고급 AI 인재 양성 시대 개막",
+    "html": "<div style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;font-size:17px;line-height:1.9;color:#1a202c\">\n\n<div style=\"border-left:4px solid #4338ca;background:#f8f9ff;padding:18px 22px;margin-bottom:32px;border-radius:0 8px 8px 0\">\n<strong style=\"font-size:19px\">기업이 직접 석·박사를 키운다.</strong><br>LG그룹이 국내 최초로 교육부 인가를 받은 사내대학원 'LG AI대학원'을 개원했다. '첨단산업 인재혁신 특별법' 시행 이후 첫 사례로, 기업 주도 고급 인재 양성이라는 새로운 경로가 공식적으로 열렸다.\n</div>\n\n<figure class=\"kg-card kg-image-card kg-width-full\">\n<img src=\"https://images.unsplash.com/photo-1677442136019-21780ecad995?w=960&q=80\" alt=\"AI 연구 환경\" style=\"width:100%;border-radius:8px\">\n<figcaption style=\"text-align:center;font-size:14px;color:#94a3b8;margin-top:8px\">사진: Unsplash</figcaption>\n</figure>\n\n<h2 style=\"font-size:19px;border-bottom:1px solid #e2e8f0;padding-bottom:12px;margin-top:36px\">'첨단산업 인재혁신 특별법'이 만든 첫 번째 대학원</h2>\n<p>LG AI대학원은 3월 4일 서울 마곡 LG사이언스파크에서 공식 개원했다. 2025년 1월 시행된 '첨단산업 인재혁신 특별법' 제4조에 근거해 설립된 국내 최초의 교육부 인가 사내대학원이다. 석사과정 입학정원 25명, 박사과정 5명으로 출발하며, 졸업 시 일반 대학원과 동등한 학위를 받는다.</p>\n<p>초대 대학원장에는 이홍락 박사(LG AI연구원 공동연구원장)가 취임했고, 교수진은 국내외 연구기관 출신 전임교원과 LG AI연구원 실무진이 겸임교원으로 참여하는 산학 융합형 구조다. 개원식에는 이해숙 교육부 고등평생정책실장과 박동일 산업통상자원부 산업정책실장이 참석해 정부의 관심을 보여줬다.</p>\n\n<h2 style=\"font-size:19px;border-bottom:1px solid #e2e8f0;padding-bottom:12px;margin-top:36px\">비인가에서 공식 학위까지, 4년의 여정</h2>\n<p>LG AI대학원의 역사는 2022년으로 거슬러 올라간다. 당시 비인가 형태로 운영을 시작한 LG의 사내 AI 교육 프로그램이 특별법 제정과 함께 공식 학위 수여가 가능한 사내대학원으로 전환된 것이다. 2025년 8월 교육부 인가를 취득하고, 같은 해 9월 첫 신입생을 모집해 올해 3월 공식 입학에 이르렀다.</p>\n<p>박사 졸업요건에는 SCI(E)급 논문 게재 또는 세계 정상급 학술대회 발표가 포함되어 있어, 기업 내 교육이면서도 학술적 엄격성을 유지하려는 의도가 엿보인다. LG는 석사 1년, 박사 3년의 파견 교육 방식을 통해 임직원이 업무와 학업을 병행할 수 있는 구조를 설계했다.</p>\n\n<h2 style=\"font-size:19px;border-bottom:1px solid #e2e8f0;padding-bottom:12px;margin-top:36px\">기업 주도 인재 양성, 확산될까</h2>\n<p>이번 개원이 주목받는 이유는 단순히 LG 한 곳의 일이 아니기 때문이다. 교육부는 LG AI대학원을 '성공 선례'로 삼아 다른 기업으로의 확산을 구상하고 있다. 제조업 AI 전환(M.AX)이 산업 전반의 필수 과제로 떠오른 가운데, 도메인 지식과 AI 역량을 동시에 갖춘 고급 인재에 대한 수요는 갈수록 커지고 있다.</p>\n<p>다만 과제도 있다. 기업이 운영하는 대학원에서 학문적 독립성과 연구 자율성이 충분히 보장될 수 있는지는 지켜봐야 할 부분이다. 연구 주제가 기업의 사업 방향에 종속되지 않으면서도 실무 밀착형 인재를 양성할 수 있는 균형점을 찾는 것이 관건이 될 전망이다. 삼성, SK 등 다른 대기업이 후속 사내대학원 설립에 나설지도 업계의 관심사다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0;margin-top:36px;padding-top:20px\">\n<strong>참고자료</strong>\n<ol style=\"font-size:15px;color:#475569\">\n<li><a href=\"https://www.korea.kr/news/policyNewsView.do?newsId=148960284\">정책브리핑 – LG AI대학원 개원 (교육부·산업부 공식)</a></li>\n<li><a href=\"https://www.lg.co.kr/media/release/29286\">LG 공식 보도자료</a></li>\n<li><a href=\"https://www.mk.co.kr/news/business/11401323\">매일경제 – LG AI대학원 출범</a></li>\n</ol>\n</div>\n\n<p style=\"font-size:13px;color:#cbd5e1;margin-top:24px\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>",
+    "ghost_tags": [
+      "AI",
+      "LG",
+      "사내대학원",
+      "인재양성",
+      "교육정책"
+    ],
+    "references": [
+      "https://www.korea.kr/news/policyNewsView.do?newsId=148960284",
+      "https://www.lg.co.kr/media/release/29286",
+      "https://www.mk.co.kr/news/business/11401323"
+    ],
+    "word_count": 680,
+    "category": "policy"
+  },
+  "rejected_at": "2026-03-08T00:50:32.870Z",
+  "rejection_reason": "중복: LG AI대학원 기사 이미 2건 발행됨 (joongang-lg-ai-graduate, lg-launches-south-koreas-first-corporate)",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "본문 1330자 (1600자 미만)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "1741244400-asiae-universities-bootcamp",
+  "stage": "rejected",
+  "created_at": "2026-03-06T08:10:00+09:00",
+  "priority": 2,
+  "source": {
+    "title": "41 Universities Selected for 'Advanced Bootcamp' to Foster AI, Future Vehicle, and Robotics Talent",
+    "url": "https://www.asiae.co.kr/en/article/2026030313532075930",
+    "source_name": "Asia Business Daily",
+    "relevance_score": 82,
+    "summary": "교육부와 기술산업진흥원(KIAT)이 발표한 '2026 첨단산업 인재양성 부트캠프' 선발 결과. AI 분야 37개 대학, 지역별로 서울권 7개·지방 30개 선정. 한국의 AI 인력 양성 정책 강화를 보여주는 국가 차원의 교육 이니셔티브.",
+    "tags": [
+      "policy",
+      "university",
+      "ai-talent",
+      "bootcamp"
+    ],
+    "collected_via": "brave_search"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector",
+      "action": "collected",
+      "timestamp": "2026-03-06T08:10:00+09:00",
+      "note": "관련성 82점 - 한국 교육부 AI 인재양성 정책 발표"
+    }
+  ],
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

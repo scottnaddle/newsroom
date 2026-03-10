@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Stripe wants to turn your AI costs into a profit center",
+    "url": "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/",
+    "source_name": "TechCrunch",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "Stripe released a preview of a token-based billing feature that lets AI startups pass through and mark up underlying LLM token costs to their customers automatically. The tool tracks API prices across AI model providers (OpenAI, Google, Anthropic), records customer token usage, and applies customizable profit margins. Stripe also introduced its own AI gateway for multi-model access.",
+    "published_date": "2026-03-02",
+    "collected_at": "2026-03-09T13:00:00+09:00"
+  },
+  "digest": {
+    "headline": "스트라이프, AI 토큰 비용을 수익으로 전환하는 빌링 도구 출시",
+    "lead": "스트라이프가 AI 스타트업이 LLM 토큰 비용을 고객에게 자동 전가하고 마진까지 붙일 수 있는 토큰 기반 빌링 기능을 프리뷰 출시했다. 오픈AI·구글·앤트로픽 등 주요 모델 제공사의 API 가격을 추적하고, 고객별 사용량에 맞춤 이윤을 자동 적용한다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">스트라이프가 AI 스타트업이 LLM 토큰 비용을 고객에게 자동 전가하고 마진까지 붙일 수 있는 토큰 기반 빌링 기능을 프리뷰 출시했다. 오픈AI·구글·앤트로픽 등 주요 모델 제공사의 API 가격을 추적하고, 고객별 사용량에 맞춤 이윤을 자동 적용한다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">AI 스타트업의 가장 큰 경영 과제 중 하나는 LLM 토큰 비용 관리다. 사용량이 늘수록 모델 제공사에 지불하는 비용이 급증하지만, 정액제 구독 모델로는 이를 감당하기 어렵다. 커서(Cursor) 같은 기업도 지난해 무제한 요금제에서 사용량 기반 과금으로 전환한 바 있다. 스트라이프의 새 빌링 도구는 예를 들어 '원가 대비 30% 마진'을 설정하면, 어떤 모델을 쓰든 자동으로 마진이 적용된 요금을 고객에게 청구한다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">스트라이프는 자체 AI 게이트웨이도 함께 출시해 멀티 모델 접근을 지원하며, 버셀(Vercel)·오픈라우터(OpenRouter) 등 서드파티 게이트웨이와도 호환된다. 현재 대기자 명단 기반 프리뷰 단계이며, 스트라이프는 게이트웨이에 별도 마크업을 부과하지 않고 있다. AI 에이전트 시대에 사용량 기반 과금이 업계 표준으로 자리 잡을 가능성이 높아졌다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 튜터나 자동 채점 시스템을 운영하는 에듀테크 기업에게 토큰 비용은 핵심 원가 요인이다. 스트라이프의 토큰 빌링 도구를 활용하면, 학교·학원별 AI 사용량에 비례한 유연한 요금 체계를 손쉽게 구축할 수 있어 에듀테크 SaaS의 비즈니스 모델 설계에 실질적 도움이 된다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/\" style=\"color:#FF6B35;text-decoration:none;\">TechCrunch</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "스트라이프, AI 토큰 비용 자동 빌링 도구 프리뷰 출시 | AI Digest",
+    "meta_description": "스트라이프가 AI 스타트업용 토큰 기반 빌링 기능을 출시했다. LLM 토큰 원가 추적부터 마진 적용, 고객 청구까지 자동화한다.",
+    "word_count": 540
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T13:00:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T13:15:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T04:30:58.226Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae4d02ff4fbf0001ab77c5",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae4d02ff4fbf0001ab77c5",
+    "public_url": "https://insight.ubion.global/seuteuraipeu-ai-tokeun-biyongeul-suigeuro-jeonhwanhaneun-bilring-dogu-culsi/",
+    "status": "published",
+    "published_at": "2026-03-09T04:30:58.000Z"
+  }
+}

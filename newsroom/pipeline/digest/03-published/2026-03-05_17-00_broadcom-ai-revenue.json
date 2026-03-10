@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Broadcom beats on earnings and guidance as AI revenue doubles",
+    "url": "https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html",
+    "source_name": "CNBC",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Broadcom reported better-than-expected earnings and issued strong guidance, with CEO Hock Tan announcing the chipmaker has line of sight to achieve AI revenue exceeding $100 billion in 2027 and has secured the supply chain to support this growth. Revenue jumped 29% year-over-year as the company continues to benefit from the AI boom.",
+    "published_date": "2026-03-04",
+    "collected_at": "2026-03-05T17:00:00Z"
+  },
+  "digest": {
+    "headline": "브로드컴 AI 칩 수익 2배 증가, 2027년 1000억 달러 목표 선언",
+    "lead": "브로드컴이 분기별 순매출 29% 증가, AI 칩 수익 106% 증가를 기록했다. CEO 호크 탠은 2027년 AI 칩 매출만 1000억 달러를 초과할 수 있다는 전망을 제시했으며, 이를 뒷받침할 공급망을 확보했다고 밝혔다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">브로드컴이 분기별 순매출 29% 증가, AI 칩 수익 106% 증가를 기록했다. CEO 호크 탠은 2027년 AI 칩 매출만 1000억 달러를 초과할 수 있다는 전망을 제시했으며, 이를 뒷받침할 공급망을 확보했다고 밝혔다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">브로드컴은 칩 설계를 실제 반도체로 변환하는 반도체 솔루션을 제공하는 기업이다. 최근 아마존, 구글, 메타, 마이크로소프트 등 대형 기술 기업들이 AI 서비스에 맞춘 맞춤형 칩을 직접 설계하면서, 브로드컴의 지재권과 백엔드 기술에 대한 수요가 급증했다. 이번 분기 AI 칩 매출은 84억 달러로 전년 대비 106% 증가했으며, AI 네트워킹과 커스텀 AI 가속기에 대한 강한 수요가 주된 원인이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">브로드컴의 강력한 실적과 적극적인 가이던스는 향후 AI 칩 수요의 지속적 성장을 시사한다. CEO가 \"2027년 AI 칩 매출 1000억 달러 초과\"와 \"공급망 확보\" 두 가지를 함께 언급한 것은 단순한 낙관이 아닌 실질적 준비가 완료되었음을 의미한다. 이는 글로벌 AI 인프라 투자가 초기 단계를 넘어 본격적인 확장 국면에 진입했다는 신호다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 칩 공급 안정화는 에듀테크 스타트업과 기관들에게 직결된 기회를 제공한다. 지금까지 AI 모델 학습과 배포에 필요한 고성능 칩은 희소자원이었으나, 브로드컴 같은 공급자의 대규모 확장으로 접근성과 가격 경쟁력이 개선될 가능성이 높다. 이는 개인화 학습, 실시간 튜터링, 다국어 교육 플랫폼 같은 AI 기반 에듀테크 서비스의 개발 속도와 채산성을 크게 향상시킬 것으로 예상된다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html\" style=\"color:#FF6B35;text-decoration:none;\">CNBC</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "infrastructure"
+    ],
+    "meta_title": "브로드컴 AI 칩 수익 2배 성장, 2027년 1000억 달러 목표",
+    "meta_description": "브로드컴 Q1 실적: AI 칩 수익 106% 증가, 2027년 1000억 달러 매출 목표 선언. 글로벌 AI 인프라 투자의 본격 확장 신호.",
+    "word_count": 542
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-05T17:00:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T20:01:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T08:27:14.730Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a93e5ce2eb440001d55d6e",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a93e5ce2eb440001d55d6e",
+    "public_url": "https://insight.ubion.global/beurodeukeom-ai-cib-suig-2bae-jeungga-2027nyeon-1000eog-dalreo-mogpyo-seoneon/",
+    "status": "published",
+    "published_at": "2026-03-05T08:27:08.000Z"
+  }
+}

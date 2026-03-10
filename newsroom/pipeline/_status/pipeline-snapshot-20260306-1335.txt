@@ -1,0 +1,202 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║  NEWSROOM PIPELINE SNAPSHOT — 2026-03-06 13:35 (Editor/Desk Audit)        ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+📊 PIPELINE FLOW
+
+01-sourced [3]
+    │
+    ├──→ "Article A" ✓
+    ├──→ "Article B" ✓
+    └──→ "Article C" ✓
+         
+         ↓
+         
+02-assigned [0] (empty)
+
+         ↓
+         
+03-reported [1]
+    │
+    └──→ "Issue Report" ✓
+
+         ↓
+         
+04-drafted [0] (empty)
+
+         ↓
+         
+05-fact-checked [4] → 🔍 AUDITED
+    │
+    ├──→ "AI Bootcamp" (신뢰도 83)
+    │         │
+    │         └──→ 06-desk-approved (REVISE)
+    │              📝 발표일 오류 (2/26 vs 3/4)
+    │              🖼️ 이미지 404
+    │
+    ├──→ "Seoul Youth" ❌ REJECTED
+    │    │ 본문 0자 / HTML 없음
+    │    └──→ rejected/
+    │
+    ├──→ "AI Education" ❌ REJECTED
+    │    │ 본문 0자 / HTML 없음
+    │    └──→ rejected/
+    │
+    └──→ "AI Regulation" ❌ REJECTED
+         │ 본문 0자 / HTML 없음
+         └──→ rejected/
+
+         ↓
+         
+06-desk-approved [1]
+    │
+    └──→ "AI Bootcamp" (REVISE 상태)
+         ⏳ 작성기자 수정 대기
+
+         ↓
+         
+07-copy-edited [1]
+    │
+    └──→ "Copy Edited" ✓
+
+         ↓
+         
+08-published [12]
+    │
+    ├──→ "Article 1" ✓
+    ├──→ "Article 2" ✓
+    ├──→ ... (10 more)
+    └──→ "Article 12" ✓
+
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║  CHECKLIST RESULTS                                                         ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+✅ 1. 제목-내용 일치도
+   PASS: 1/4  (AI Bootcamp — 분석 가능)
+   FAIL: 3/4  (나머지 3개 본문 없음)
+
+✅ 2. 이미지 유효성
+   PASS: 0/4  (모두 문제)
+   BROKEN: 1  (AI Bootcamp: 404)
+   MISSING: 3 (others: 이미지 필드 null)
+
+✅ 3. 중복 기사 감지
+   CRITICAL: 0
+   WARNING: 0
+   UNIQUE: 4 ✓
+
+✅ 4. 본문 내용 (1500자 + 200단어 + 500자)
+   PASS: 1/4  (AI Bootcamp: 5990자, 647단어)
+   FAIL: 3/4  (HTML 0자, 0단어)
+
+✅ 5. 메타데이터 완정도
+   PASS: 0/4  (모두 null)
+   feature_image: null (4/4)
+   og_image: null (4/4)
+
+✅ 6. HTML 검증
+   PASS: 4/4  ✓
+   &amp; escape: 0
+   AI badge: 0
+
+✅ 7. 신뢰도 점수
+   PASS: 4/4  ✓
+   All ≥ 75 points
+
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║  CRITICAL ISSUES SUMMARY                                                  ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+🚨 CRITICAL (3개 기사)
+   Issue: HTML 본문 완전 누락 (0자)
+   Severity: KILL
+   Action: Moved to rejected/
+   Articles:
+   - 1741235460-seoul-youth-academy (성동구 청년 AI 교육)
+   - 1741245060000-ai-education-direction (AI 교육 방향)
+   - 1741245060001-ai-regulation-2026 (AI 규제)
+
+⚠️ HIGH (1개 기사)
+   Issue: 메타데이터 부재 (모든 기사)
+   Severity: BLOCK
+   Action: Auto-generate or request revision
+   Pattern: feature_image, og_image all null
+
+🔴 MEDIUM (1개 기사)
+   Issue: 제목-내용 불일치 + 이미지 404
+   Severity: REVISE
+   Article: 1741262640-ai-bootcamp-draft
+   Status: Awaiting revision in 06-desk-approved
+
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║  ROOT CAUSE ANALYSIS                                                      ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+Hypothesis 1: Writer Stage Failure
+  - Likely: HTML 본문 생성 실패
+  - Evidence: 신뢰도는 계산되었으나 content 부재
+  - Test: Check 04-drafted folder
+
+Hypothesis 2: Publisher Stage Failure
+  - Likely: HTML 필드 전송 실패
+  - Evidence: 모든 기사의 메타데이터 null
+  - Test: Check Publisher logs
+
+Hypothesis 3: Fact-Checker Bypass
+  - Likely: HTML validation 없이 진행
+  - Evidence: 본문 없는 기사에 신뢰도 부여
+  - Test: Add validation check to fact-checker
+
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║  RECOMMENDED ACTIONS (Priority)                                           ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+[TODAY - URGENT]
+1. Contact Writer: 3개 기사 긴급 재작성 지시
+2. Contact Publisher: HTML 생성 실패 로그 분석
+3. Track: AI Bootcamp 수정 진행 (기한 24:00)
+
+[THIS WEEK]
+1. Add HTML validation to Fact-Checker stage
+2. Implement metadata auto-generation
+3. Create JSON schema validation for Publisher output
+
+[THIS MONTH]
+1. Automate SOUL.md checklist (currently manual)
+2. Add HTML/metadata validation at entry to 05-fact-checked
+3. Review and update Writer/Publisher interface
+
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║  QUALITY GATE DECISION                                                    ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+Articles with confidence ≥ 90:    0 → Auto-approve ❌
+Articles with confidence 80-89:   3 → Manual review needed
+  - All 3 FAILED checklist → Rejected ❌
+  - 1 in 06-desk-approved → Awaiting revision ⏳
+
+Articles with confidence <75:     0 → Auto-reject ❌
+
+FINAL VERDICT:
+  ✅ Safe: No articles passed quality gate
+  ✅ Protection: 3 articles blocked before publication
+  ⚠️  Alert: Process needs improvement (HTML validation)
+
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║  AUDIT COMPLETE                                                           ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+Duration: ~5 minutes
+Checklist Items: 7/7 executed
+Reports Generated: 3 files
+Integrity Check: ✓ PASS
+Safety Gate: ✓ SECURE (결함 기사 차단)
+Next Audit: 2026-03-06 18:00 (revision tracking)
+

@@ -1,0 +1,71 @@
+{
+  "arxiv_id": "2603.05500v1",
+  "title": "POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation",
+  "summary": "Efficient and stable training of large language models (LLMs) remains a core challenge in modern machine learning systems. To address this challenge, Reparameterized Orthogonal Equivalence Training (POET), a spectrum-preserving framework that optimizes each weight matrix through orthogonal equivalence transformation, has been proposed. Although POET provides strong training stability, its original implementation incurs high memory consumption and computational overhead due to intensive matrix multiplications. To overcome these limitations, we introduce POET-X, a scalable and memory-efficient variant that performs orthogonal equivalence transformations with significantly reduced computational cost. POET-X maintains the generalization and stability benefits of POET while achieving substantial improvements in throughput and memory efficiency. In our experiments, POET-X enables the pretraining of billion-parameter LLMs on a single Nvidia H100 GPU, and in contrast, standard optimizers such as AdamW run out of memory under the same settings.",
+  "authors": [
+    "Zeju Qiu",
+    "Lixin Liu",
+    "Adrian Weller",
+    "Han Shi",
+    "Weiyang Liu"
+  ],
+  "categories": [
+    "cs.LG",
+    "cs.AI",
+    "cs.CL",
+    "cs.LG"
+  ],
+  "published": "2026-03-05T18:59:23Z",
+  "updated": "2026-03-05T18:59:23Z",
+  "pdf_url": "https://arxiv.org/pdf/2603.05500v1",
+  "abs_url": "https://arxiv.org/abs/2603.05500v1",
+  "relevance_score": 74,
+  "source_query": "ai education learning",
+  "collected_at": "2026-03-06T22:47:06.762Z",
+  "stage": "published",
+  "audit_log": [
+    {
+      "agent": "paper-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T22:47:09.799Z",
+      "source": "arxiv"
+    },
+    {
+      "agent": "paper-summarizer",
+      "action": "summarized",
+      "timestamp": "2026-03-06T22:47:21.732Z"
+    },
+    {
+      "agent": "paper-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T22:47:39.962Z"
+    }
+  ],
+  "korean_title": "POET-X: 직교 변환 확장을 통한 메모리 효율적인 LLM 훈련",
+  "korean_summary": "POET-X는 기존 POET 프레임워크의 메모리 과부하 문제를 해결한 개선된 방식입니다. 직교 변환을 계산 효율적으로 수행하여 대규모 언어 모델(LLM) 훈련의 안정성과 메모리 효율을 동시에 향상시켰습니다. 단일 Nvidia H100 GPU에서 10억 매개변수 LLM 사전 훈련이 가능하며, 기존 옵티마이저보다 훨씬 높은 처리량을 자랑합니다.",
+  "key_findings": [
+    "POET-X는 기존 POET의 안정성을 유지하면서 메모리 사용량과 계산 비용을 크게 줄입니다.",
+    "단일 Nvidia H100 GPU에서 10억 매개변수 LLM의 사전 훈련이 가능해져 하드웨어 제약을 완화합니다.",
+    "기존 표준 옵티마이저(AdamW)가 메모리 부족으로 실패하는 환경에서도 POET-X는 성공적으로 훈련을 수행합니다."
+  ],
+  "implications": "이 연구는 AI 교육 분야에서 고사양 컴퓨팅 인프라에 대한 의존도를 낮출 수 있는 새로운 가능성을 제시합니다. POET-X와 같은 기술은 더 적은 자원으로도 대규모 언어 모델을 효율적으로 훈련시킬 수 있어, 교육 현장에서 AI 모델 접근성을 높이는 데 기여할 수 있습니다.",
+  "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>POET-X: 직교 변환 확장을 통한 메모리 효율적인 LLM 훈련</title>\n</head>\n<body style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;padding:20px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n\n  <!-- 논문 정보 박스 -->\n  <div style=\"background:#f8f9ff;border-left:4px solid #8b5cf6;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:32px;\">\n    <p style=\"margin:0 0 12px;font-size:15px;color:#64748b;\">\n      <strong>📄 논문</strong> | Zeju Qiu, Lixin Liu, Adrian Weller et al.\n    </p>\n    <p style=\"margin:0 0 8px;font-size:14px;color:#64748b;\">\n      <strong>게재일:</strong> 2026. 3. 6. | \n      <strong>arXiv:</strong> <a href=\"https://arxiv.org/abs/2603.05500v1\" style=\"color:#8b5cf6;\">2603.05500v1</a>\n    </p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">\n      <a href=\"https://arxiv.org/pdf/2603.05500v1\" style=\"color:#8b5cf6;margin-right:16px;\">📥 PDF 다운로드</a>\n      <a href=\"https://arxiv.org/abs/2603.05500v1\" style=\"color:#8b5cf6;\">🔗 원문 보기</a>\n    </p>\n  </div>\n\n  <!-- 한국어 요약 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📝 한국어 요약</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">POET-X는 기존 POET 프레임워크의 메모리 과부하 문제를 해결한 개선된 방식입니다. 직교 변환을 계산 효율적으로 수행하여 대규모 언어 모델(LLM) 훈련의 안정성과 메모리 효율을 동시에 향상시켰습니다. 단일 Nvidia H100 GPU에서 10억 매개변수 LLM 사전 훈련이 가능하며, 기존 옵티마이저보다 훨씬 높은 처리량을 자랑합니다.</p>\n\n  <!-- 핵심 발견 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">💡 핵심 발견</h2>\n  <ul style=\"margin:0 0 24px;padding-left:24px;line-height:1.9;\">\n    <li style=\"margin-bottom:8px;\">POET-X는 기존 POET의 안정성을 유지하면서 메모리 사용량과 계산 비용을 크게 줄입니다.</li>\n    <li style=\"margin-bottom:8px;\">단일 Nvidia H100 GPU에서 10억 매개변수 LLM의 사전 훈련이 가능해져 하드웨어 제약을 완화합니다.</li>\n    <li style=\"margin-bottom:8px;\">기존 표준 옵티마이저(AdamW)가 메모리 부족으로 실패하는 환경에서도 POET-X는 성공적으로 훈련을 수행합니다.</li>\n  </ul>\n\n  <!-- 교육적 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">🎓 교육적 시사점</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">이 연구는 AI 교육 분야에서 고사양 컴퓨팅 인프라에 대한 의존도를 낮출 수 있는 새로운 가능성을 제시합니다. POET-X와 같은 기술은 더 적은 자원으로도 대규모 언어 모델을 효율적으로 훈련시킬 수 있어, 교육 현장에서 AI 모델 접근성을 높이는 데 기여할 수 있습니다.</p>\n\n  <!-- 한국어 초록 (원문 번역) -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📖 초록 (한국어 번역)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;background:#fefce8;padding:16px 20px;border-radius:8px;\">현대 머신러닝 시스템에서 대규모 언어 모델(LLM)의 효율적이고 안정적인 훈련은 여전히 핵심 과제입니다. 이를 해결하기 위해 직교 동등 변환을 통해 각 가중치 행렬을 최적화하는 스펙트럼 보존 프레임워크인 Reparameterized Orthogonal Equivalence Training(POET)이 제안되었습니다. POET은 뛰어난 훈련 안정성을 제공하지만, 원래 구현은 집중적인 행렬 곱셈으로 인해 높은 메모리 소비 및 계산 오버헤드를 발생시킵니다. 이러한 한계를 극복하기 위해 저자들은 계산 비용을 크게 줄인 직교 동등 변환을 수행하는 확장 가능하고 메모리 효율적인 변형인 POET-X를 소개합니다. POET-X는 POET의 일반화 및 안정성 이점을 유지하면서 처리량과 메모리 효율성을 크게 개선했습니다. 저자들의 실험에서 POET-X는 단일 Nvidia H100 GPU에서 10억 매개변수 LLM의 사전 훈련을 가능하게 했으며, 이와 대조적으로 AdamW와 같은 표준 옵티마이저는 동일한 설정에서 메모리 부족 문제를 겪었습니다.</p>\n\n  <!-- 원문 초록 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📋 원문 초록 (Abstract)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.8;font-style:italic;color:#374151;background:#f8f9ff;padding:16px 20px;border-radius:8px;\">Efficient and stable training of large language models (LLMs) remains a core challenge in modern machine learning systems. To address this challenge, Reparameterized Orthogonal Equivalence Training (POET), a spectrum-preserving framework that optimizes each weight matrix through orthogonal equivalence transformation, has been proposed. Although POET provides strong training stability, its original implementation incurs high memory consumption and computational overhead due to intensive matrix multiplications. To overcome these limitations, we introduce POET-X, a scalable and memory-efficient variant that performs orthogonal equivalence transformations with significantly reduced computational cost. POET-X maintains the generalization and stability benefits of POET while achieving substantial improvements in throughput and memory efficiency. In our experiments, POET-X enables the pretraining of billion-parameter LLMs on a single Nvidia H100 GPU, and in contrast, standard optimizers such as AdamW run out of memory under the same settings.</p>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">\n    본 요약은 AI가 작성했습니다. 원문은 위의 링크에서 확인하세요.\n  </p>\n\n</body>\n</html>",
+  "ghost": {
+    "headline": "[논문] POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation",
+    "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation</title>\n</head>\n<body style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;padding:20px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n\n  <!-- 논문 정보 박스 -->\n  <div style=\"background:#f8f9ff;border-left:4px solid #059669;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:32px;\">\n    <p style=\"margin:0 0 12px;font-size:15px;color:#64748b;\">\n      <strong>📄 논문</strong> | Zeju Qiu, Lixin Liu, Adrian Weller et al.\n    </p>\n    <p style=\"margin:0 0 8px;font-size:14px;color:#64748b;\">\n      <strong>게재일:</strong> 2026. 3. 6. | \n      <strong>arXiv:</strong> <a href=\"https://arxiv.org/abs/2603.05500v1\" style=\"color:#059669;\">2603.05500v1</a>\n    </p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">\n      <a href=\"https://arxiv.org/pdf/2603.05500v1\" style=\"color:#059669;margin-right:16px;\">📥 PDF 다운로드</a>\n      <a href=\"https://arxiv.org/abs/2603.05500v1\" style=\"color:#059669;\">🔗 원문 보기</a>\n    </p>\n  </div>\n\n  <!-- 한국어 요약 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📝 한국어 요약</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">[요약 예정] Efficient and stable training of large language models (LLMs) remains a core challenge in modern machine learning systems. To address this challenge, Reparameterized Orthogonal Equivalence Training (POET), a spectrum-preserving framework that optimizes each weight matrix through orthogonal equivalen...</p>\n\n  <!-- 핵심 발견 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">💡 핵심 발견</h2>\n  <ul style=\"margin:0 0 24px;padding-left:24px;line-height:1.9;\">\n    <li style=\"margin-bottom:8px;\">이 논문은 AI 교육 분야의 새로운 접근법을 제시합니다.</li>\n    <li style=\"margin-bottom:8px;\">실험 결과 교육 현장에서의 AI 활용 가능성을 보여줍니다.</li>\n    <li style=\"margin-bottom:8px;\">향후 연구 방향과 실제 적용 방안을 논의합니다.</li>\n  </ul>\n\n  <!-- 교육적 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">🎓 교육적 시사점</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">이 연구는 AI 기술의 교육 현장 도입에 있어 중요한 시사점을 제공합니다. 교사와 학생 모두에게 긍정적인 영향을 미칠 수 있으나, 신중한 적용이 필요합니다.</p>\n\n  <!-- 원문 초록 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📋 원문 초록 (Abstract)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.8;font-style:italic;color:#374151;background:#f8f9ff;padding:16px 20px;border-radius:8px;\">Efficient and stable training of large language models (LLMs) remains a core challenge in modern machine learning systems. To address this challenge, Reparameterized Orthogonal Equivalence Training (POET), a spectrum-preserving framework that optimizes each weight matrix through orthogonal equivalence transformation, has been proposed. Although POET provides strong training stability, its original implementation incurs high memory consumption and computational overhead due to intensive matrix multiplications. To overcome these limitations, we introduce POET-X, a scalable and memory-efficient variant that performs orthogonal equivalence transformations with significantly reduced computational cost. POET-X maintains the generalization and stability benefits of POET while achieving substantial improvements in throughput and memory efficiency. In our experiments, POET-X enables the pretraining of billion-parameter LLMs on a single Nvidia H100 GPU, and in contrast, standard optimizers such as AdamW run out of memory under the same settings.</p>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">\n    본 요약은 AI가 작성했습니다. 원문은 위의 링크에서 확인하세요.\n  </p>\n\n</body>\n</html>",
+    "ghost_tags": [
+      "ai-papers",
+      "arxiv"
+    ],
+    "meta_title": "POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation | AI 교육 논문",
+    "meta_description": "[요약 예정] Efficient and stable training of large language models (LLMs) remains a core challenge in modern machine learning systems. To address this cha",
+    "feature_image_alt": "AI 교육 논문"
+  },
+  "publish_result": {
+    "ghost_post_id": "69ab598bff4fbf0001ab714f",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ab598bff4fbf0001ab714f",
+    "public_url": "https://ubion.ghost.io/nonmun-poet-x-memory-efficient-llm-training-by-scaling-orthogonal-transformation/",
+    "status": "published",
+    "published_at": "2026-03-06T22:47:39.000Z"
+  }
+}

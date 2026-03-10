@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Salesforce CEO Marc Benioff Dismisses Block Layoffs as AI-Driven Industry Trend",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-on-thousands-of-layoffs-at-jack-dorseys-block-we-all-know-that-company-has-/articleshow/129249970.cms",
+    "source_name": "Times of India",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Salesforce CEO Marc Benioff pushed back against claims that Block's 40% workforce reduction under Jack Dorsey represents an AI-driven jobs apocalypse. Benioff argued that Block's layoffs are company-specific issues rather than an industry-wide trend, even as Salesforce itself has cut thousands of jobs while claiming AI handles 50% of work at the company.",
+    "published_date": "2026-03-08",
+    "collected_at": "2026-03-09T07:16:00+09:00"
+  },
+  "digest": {
+    "headline": "세일즈포스 베니오프 CEO, Block 감원은 \"AI 위기 아닌 개별 기업 문제\" 일축",
+    "lead": "세일즈포스(Salesforce) CEO 마크 베니오프가 Block의 40% 대규모 감원이 AI로 인한 산업 전반의 일자리 위기를 의미하지 않는다고 반박했다. 그러나 세일즈포스 자체도 지난 1년간 수천 명을 감원한 상황이어서, 테크 업계의 AI-고용 논쟁이 더욱 복잡한 양상을 보이고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">세일즈포스(Salesforce) CEO 마크 베니오프가 Block의 40% 대규모 감원이 AI로 인한 산업 전반의 일자리 위기를 의미하지 않는다고 반박했다. 그러나 세일즈포스 자체도 지난 1년간 수천 명을 감원한 상황이어서, 테크 업계의 AI-고용 논쟁이 더욱 복잡한 양상을 보이고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">베니오프는 CNBC 인터뷰에서 \"Block은 고유한 문제가 있는 회사\"라며 \"대규모 화이트칼라 해고의 시대가 온다는 선언은 동의할 수 없다\"고 말했다. 세일즈포스는 12% 성장률에 매출 500억 달러에 근접하는 실적을 근거로, AI를 활용하면서도 대규모 구조조정 없이 성장할 수 있다고 주장했다. 그러나 세일즈포스도 작년 AI 고객지원 도구 도입 후 약 4,000명을 감원했고, 2월에도 1,000명 미만의 추가 감축을 단행해 '내로남불' 논란이 일고 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 논쟁은 AI와 고용 관계에 대한 테크 업계 내부의 시각차를 드러낸다. Block의 도시는 AI를 감원의 정당한 이유로 내세웠고, 베니오프는 AI가 효율화 도구이지 대량 해고의 원인은 아니라고 구분했다. 아마존 CEO 앤디 재시는 AI가 산업 전반의 인력을 줄이겠지만 새 일자리도 생길 것이라는 중립적 입장을 보였다. 결국 AI가 고용에 미치는 실질적 영향은 기업의 전략적 선택에 달려 있다는 점이 부각된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">세일즈포스가 AI로 고객지원 인력을 대체한 사례는 교육 기관의 학습 지원·행정 업무에도 유사하게 적용될 수 있다. 에듀테크 기업은 AI 챗봇이나 자동화 도구를 도입할 때, 인력 대체가 아닌 교수·학습 품질 향상이라는 프레임으로 접근해야 교육 현장의 수용성을 높일 수 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-on-thousands-of-layoffs-at-jack-dorseys-block-we-all-know-that-company-has-/articleshow/129249970.cms\" style=\"color:#FF6B35;text-decoration:none;\">Times of India</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "베니오프, Block 감원은 AI 위기 아닌 개별 문제라 일축",
+    "meta_description": "세일즈포스 CEO 베니오프가 Block의 40% 감원이 AI 일자리 위기를 의미하지 않는다고 반박. 그러나 세일즈포스도 AI 도입 후 수천 명 감원해 논란.",
+    "word_count": 550,
+    "feature_image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T07:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T07:45:54+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T22:56:30.133Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69adfe9eff4fbf0001ab7665",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69adfe9eff4fbf0001ab7665",
+    "public_url": "https://insight.ubion.global/seiljeuposeu-beniopeu-ceo-block-gamweoneun-ai-wigi-anin-gaebyeol-gieob-munje-ilcug/",
+    "status": "published",
+    "published_at": "2026-03-08T22:56:30.000Z"
+  }
+}

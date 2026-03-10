@@ -1,0 +1,71 @@
+{
+  "arxiv_id": "2603.05437v1",
+  "title": "SAIL: Similarity-Aware Guidance and Inter-Caption Augmentation-based Learning for Weakly-Supervised Dense Video Captioning",
+  "summary": "Weakly-Supervised Dense Video Captioning aims to localize and describe events in videos trained only on caption annotations, without temporal boundaries. Prior work introduced an implicit supervision paradigm based on Gaussian masking and complementary captioning. However, existing method focuses merely on generating non-overlapping masks without considering their semantic relationship to corresponding events, resulting in simplistic, uniformly distributed masks that fail to capture semantically meaningful regions. Moreover, relying solely on ground-truth captions leads to sub-optimal performance due to the inherent sparsity of existing datasets. In this work, we propose SAIL, which constructs semantically-aware masks through cross-modal alignment. Our similarity aware training objective guides masks to emphasize video regions with high similarity to their corresponding event captions. Furthermore, to guide more accurate mask generation under sparse annotation settings, we introduce an LLM-based augmentation strategy that generates synthetic captions to provide additional alignment signals. These synthetic captions are incorporated through an inter-mask mechanism, providing auxiliary guidance for precise temporal localization without degrading the main objective. Experiments on ActivityNet Captions and YouCook2 demonstrate state-of-the-art performance on both captioning and localization metrics.",
+  "authors": [
+    "Ye-Chan Kim",
+    "SeungJu Cha",
+    "Si-Woo Kim",
+    "Minju Jeon",
+    "Hyungee Kim",
+    "Dong-Jin Kim"
+  ],
+  "categories": [
+    "cs.CV",
+    "cs.AI",
+    "cs.CV"
+  ],
+  "published": "2026-03-05T17:59:58Z",
+  "updated": "2026-03-05T17:59:58Z",
+  "pdf_url": "https://arxiv.org/pdf/2603.05437v1",
+  "abs_url": "https://arxiv.org/abs/2603.05437v1",
+  "relevance_score": 71,
+  "source_query": "ai education learning",
+  "collected_at": "2026-03-06T22:47:06.766Z",
+  "stage": "published",
+  "audit_log": [
+    {
+      "agent": "paper-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T22:47:09.800Z",
+      "source": "arxiv"
+    },
+    {
+      "agent": "paper-summarizer",
+      "action": "summarized",
+      "timestamp": "2026-03-06T22:47:21.731Z"
+    },
+    {
+      "agent": "paper-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T22:47:38.592Z"
+    }
+  ],
+  "korean_title": "SAIL: 유사성 인식 기반 안내 및 캡션 간 증강 학습을 이용한 약지도 밀집 비디오 캡셔닝",
+  "korean_summary": "본 연구에서는 SAIL라는 새로운 프레임워크를 제안합니다. SAIL은 크로스-모달 정렬을 통해 의미론적으로 인지 가능한 마스크를 구축하고, 유사성 인식 학습 목표를 통해 이벤트 캡션과 높은 유사성을 보이는 비디오 영역을 강조합니다. 또한, LLM 기반 증전략을 통해 합성 캡션을 생성하여 데이터의 희소성 문제를 해결하고, 정밀한 시간적 위치 지정을 위한 보조 신호를 제공합니다.",
+  "key_findings": [
+    "기존 방법은 이벤트와의 의미론적 관계를 무시하고 단순한 마스크를 생성하여 유의미한 영역을 포착하지 못합니다.",
+    "데이터셋의 캡션이 너무 희소하여 학습에 한계가 있습니다.",
+    "크로스-모달 정렬과 LLM 기반 합성 캡션을 활용하여 마스크 생성의 정확성을 크게 향상시킬 수 있습니다."
+  ],
+  "implications": "이 연구는 AI 교육에서 자료의 질과 양의 중요성을 시사하며, 특히 비디오와 같은 복잡한 데이터 분석 시 의미론적 연결을 강조하는 것이 효과적인 학습을 이끌어낼 수 있음을 보여줍니다. 또한, 생성 AI를 활용하여 인위적으로 데이터를 보강하는 방식은 데이터가 부족한 교육 환경에서도 AI 모델의 성능을 극대화할 수 있는 실질적인 해결책이 될 수 있습니다.",
+  "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>SAIL: 유사성 인식 기반 안내 및 캡션 간 증강 학습을 이용한 약지도 밀집 비디오 캡셔닝</title>\n</head>\n<body style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;padding:20px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n\n  <!-- 논문 정보 박스 -->\n  <div style=\"background:#f8f9ff;border-left:4px solid #8b5cf6;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:32px;\">\n    <p style=\"margin:0 0 12px;font-size:15px;color:#64748b;\">\n      <strong>📄 논문</strong> | Ye-Chan Kim, SeungJu Cha, Si-Woo Kim et al.\n    </p>\n    <p style=\"margin:0 0 8px;font-size:14px;color:#64748b;\">\n      <strong>게재일:</strong> 2026. 3. 6. | \n      <strong>arXiv:</strong> <a href=\"https://arxiv.org/abs/2603.05437v1\" style=\"color:#8b5cf6;\">2603.05437v1</a>\n    </p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">\n      <a href=\"https://arxiv.org/pdf/2603.05437v1\" style=\"color:#8b5cf6;margin-right:16px;\">📥 PDF 다운로드</a>\n      <a href=\"https://arxiv.org/abs/2603.05437v1\" style=\"color:#8b5cf6;\">🔗 원문 보기</a>\n    </p>\n  </div>\n\n  <!-- 한국어 요약 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📝 한국어 요약</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">본 연구에서는 SAIL라는 새로운 프레임워크를 제안합니다. SAIL은 크로스-모달 정렬을 통해 의미론적으로 인지 가능한 마스크를 구축하고, 유사성 인식 학습 목표를 통해 이벤트 캡션과 높은 유사성을 보이는 비디오 영역을 강조합니다. 또한, LLM 기반 증전략을 통해 합성 캡션을 생성하여 데이터의 희소성 문제를 해결하고, 정밀한 시간적 위치 지정을 위한 보조 신호를 제공합니다.</p>\n\n  <!-- 핵심 발견 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">💡 핵심 발견</h2>\n  <ul style=\"margin:0 0 24px;padding-left:24px;line-height:1.9;\">\n    <li style=\"margin-bottom:8px;\">기존 방법은 이벤트와의 의미론적 관계를 무시하고 단순한 마스크를 생성하여 유의미한 영역을 포착하지 못합니다.</li>\n    <li style=\"margin-bottom:8px;\">데이터셋의 캡션이 너무 희소하여 학습에 한계가 있습니다.</li>\n    <li style=\"margin-bottom:8px;\">크로스-모달 정렬과 LLM 기반 합성 캡션을 활용하여 마스크 생성의 정확성을 크게 향상시킬 수 있습니다.</li>\n  </ul>\n\n  <!-- 교육적 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">🎓 교육적 시사점</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">이 연구는 AI 교육에서 자료의 질과 양의 중요성을 시사하며, 특히 비디오와 같은 복잡한 데이터 분석 시 의미론적 연결을 강조하는 것이 효과적인 학습을 이끌어낼 수 있음을 보여줍니다. 또한, 생성 AI를 활용하여 인위적으로 데이터를 보강하는 방식은 데이터가 부족한 교육 환경에서도 AI 모델의 성능을 극대화할 수 있는 실질적인 해결책이 될 수 있습니다.</p>\n\n  <!-- 한국어 초록 (원문 번역) -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📖 초록 (한국어 번역)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;background:#fefce8;padding:16px 20px;border-radius:8px;\">약지도 밀집 비디오 캡셔닝은 시간적 경계 정보 없이 캡션 주석만으로 학습하여 비디오 내의 이벤트를 위치 지정하고 설명하는 것을 목표로 합니다. 기존 연구는 가우시안 마스킹과 보완적 캡셔닝 기반의 암시적 지도 패러다임을 도입했지만, 기존 방법은 해당 이벤트와의 의미론적 관계를 고려하지 않고 비중첩 마스크만 생성하여 의미론적으로 유의미한 영역을 포착하지 못하는 단순하고 균일하게 분포된 마스크를 만들었습니다. 또한, 기존 데이터셋의 내재적인 희소성으로 인해 실제 캡션에만 의존하는 것은 최적의 성능을 내기 어렵습니다. 본 연구에서는 크로스-모달 정렬을 통해 의미론적으로 인지 가능한 마스크를 구축하는 SAIL을 제안합니다. 우리의 유사성 인식 학습 목표는 마스크가 해당 이벤트 캡션과 높은 유사성을 보이는 비디오 영역을 강조하도록 안내합니다. 또한, 희소한 주석 설정에서 더 정확한 마스크 생성을 안내하기 위해, 추가적인 정렬 신호를 제공하는 합성 캡션을 생성하는 LLM 기반 증전략을 도입합니다. 이러한 합성 캡션은 인터-마스크 메커니즘을 통해 통합되어, 주요 목적을 저해하지 않으면서 정밀한 시간적 위치 지정을 위한 보조 안내를 제공합니다. ActivityNet Captions 및 YouCook2에서의 실험은 캡셔닝 및 위치 지정 지표 모두에서 최고 수준의 성능을 보여줍니다.</p>\n\n  <!-- 원문 초록 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📋 원문 초록 (Abstract)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.8;font-style:italic;color:#374151;background:#f8f9ff;padding:16px 20px;border-radius:8px;\">Weakly-Supervised Dense Video Captioning aims to localize and describe events in videos trained only on caption annotations, without temporal boundaries. Prior work introduced an implicit supervision paradigm based on Gaussian masking and complementary captioning. However, existing method focuses merely on generating non-overlapping masks without considering their semantic relationship to corresponding events, resulting in simplistic, uniformly distributed masks that fail to capture semantically meaningful regions. Moreover, relying solely on ground-truth captions leads to sub-optimal performance due to the inherent sparsity of existing datasets. In this work, we propose SAIL, which constructs semantically-aware masks through cross-modal alignment. Our similarity aware training objective guides masks to emphasize video regions with high similarity to their corresponding event captions. Furthermore, to guide more accurate mask generation under sparse annotation settings, we introduce an LLM-based augmentation strategy that generates synthetic captions to provide additional alignment signals. These synthetic captions are incorporated through an inter-mask mechanism, providing auxiliary guidance for precise temporal localization without degrading the main objective. Experiments on ActivityNet Captions and YouCook2 demonstrate state-of-the-art performance on both captioning and localization metrics.</p>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">\n    본 요약은 AI가 작성했습니다. 원문은 위의 링크에서 확인하세요.\n  </p>\n\n</body>\n</html>",
+  "ghost": {
+    "headline": "[논문] SAIL: Similarity-Aware Guidance and Inter-Caption Augmentation-based Learning for Weakly-Supervised Dense Video Captioning",
+    "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>SAIL: Similarity-Aware Guidance and Inter-Caption Augmentation-based Learning for Weakly-Supervised Dense Video Captioning</title>\n</head>\n<body style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;padding:20px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n\n  <!-- 논문 정보 박스 -->\n  <div style=\"background:#f8f9ff;border-left:4px solid #059669;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:32px;\">\n    <p style=\"margin:0 0 12px;font-size:15px;color:#64748b;\">\n      <strong>📄 논문</strong> | Ye-Chan Kim, SeungJu Cha, Si-Woo Kim et al.\n    </p>\n    <p style=\"margin:0 0 8px;font-size:14px;color:#64748b;\">\n      <strong>게재일:</strong> 2026. 3. 6. | \n      <strong>arXiv:</strong> <a href=\"https://arxiv.org/abs/2603.05437v1\" style=\"color:#059669;\">2603.05437v1</a>\n    </p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">\n      <a href=\"https://arxiv.org/pdf/2603.05437v1\" style=\"color:#059669;margin-right:16px;\">📥 PDF 다운로드</a>\n      <a href=\"https://arxiv.org/abs/2603.05437v1\" style=\"color:#059669;\">🔗 원문 보기</a>\n    </p>\n  </div>\n\n  <!-- 한국어 요약 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📝 한국어 요약</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">[요약 예정] Weakly-Supervised Dense Video Captioning aims to localize and describe events in videos trained only on caption annotations, without temporal boundaries. Prior work introduced an implicit supervision paradigm based on Gaussian masking and complementary captioning. However, existing method focuses me...</p>\n\n  <!-- 핵심 발견 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">💡 핵심 발견</h2>\n  <ul style=\"margin:0 0 24px;padding-left:24px;line-height:1.9;\">\n    <li style=\"margin-bottom:8px;\">이 논문은 AI 교육 분야의 새로운 접근법을 제시합니다.</li>\n    <li style=\"margin-bottom:8px;\">실험 결과 교육 현장에서의 AI 활용 가능성을 보여줍니다.</li>\n    <li style=\"margin-bottom:8px;\">향후 연구 방향과 실제 적용 방안을 논의합니다.</li>\n  </ul>\n\n  <!-- 교육적 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">🎓 교육적 시사점</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">이 연구는 AI 기술의 교육 현장 도입에 있어 중요한 시사점을 제공합니다. 교사와 학생 모두에게 긍정적인 영향을 미칠 수 있으나, 신중한 적용이 필요합니다.</p>\n\n  <!-- 원문 초록 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📋 원문 초록 (Abstract)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.8;font-style:italic;color:#374151;background:#f8f9ff;padding:16px 20px;border-radius:8px;\">Weakly-Supervised Dense Video Captioning aims to localize and describe events in videos trained only on caption annotations, without temporal boundaries. Prior work introduced an implicit supervision paradigm based on Gaussian masking and complementary captioning. However, existing method focuses merely on generating non-overlapping masks without considering their semantic relationship to corresponding events, resulting in simplistic, uniformly distributed masks that fail to capture semantically meaningful regions. Moreover, relying solely on ground-truth captions leads to sub-optimal performance due to the inherent sparsity of existing datasets. In this work, we propose SAIL, which constructs semantically-aware masks through cross-modal alignment. Our similarity aware training objective guides masks to emphasize video regions with high similarity to their corresponding event captions. Furthermore, to guide more accurate mask generation under sparse annotation settings, we introduce an LLM-based augmentation strategy that generates synthetic captions to provide additional alignment signals. These synthetic captions are incorporated through an inter-mask mechanism, providing auxiliary guidance for precise temporal localization without degrading the main objective. Experiments on ActivityNet Captions and YouCook2 demonstrate state-of-the-art performance on both captioning and localization metrics.</p>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">\n    본 요약은 AI가 작성했습니다. 원문은 위의 링크에서 확인하세요.\n  </p>\n\n</body>\n</html>",
+    "ghost_tags": [
+      "ai-papers",
+      "arxiv"
+    ],
+    "meta_title": "SAIL: Similarity-Aware Guidance and Inter-Caption Augmentation-based Learning for Weakly-Supervised Dense Video Captioning | AI 교육 논문",
+    "meta_description": "[요약 예정] Weakly-Supervised Dense Video Captioning aims to localize and describe events in videos trained only on caption annotations, without temporal ",
+    "feature_image_alt": "AI 교육 논문"
+  },
+  "publish_result": {
+    "ghost_post_id": "69ab598aff4fbf0001ab7143",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ab598aff4fbf0001ab7143",
+    "public_url": "https://ubion.ghost.io/nonmun-sail-similarity-aware-guidance-and-inter-caption-augmentation-based-learning-for-weakly-supervised-dense-video-captioning/",
+    "status": "published",
+    "published_at": "2026-03-06T22:47:38.000Z"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Anthropic vows legal fight against Pentagon sanction in AI feud",
+    "url": "https://www.latimes.com/business/story/2026-03-06/anthropic-vows-legal-fight-against-pentagon-sanction-in-ai-feud",
+    "source_name": "Los Angeles Times",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Anthropic CEO Dario Amodei announced plans to legally challenge the Pentagon's supply-chain risk designation, calling it legally unsound. The designation — normally reserved for foreign adversaries — risks Anthropic's $200M classified AI contract and bars partnerships with defense contractors including Palantir. Microsoft confirmed it can still work with Anthropic on non-defense projects.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-09T05:16:00+09:00"
+  },
+  "digest": {
+    "headline": "앤트로픽, 펜타곤 '공급망 위험' 지정에 법적 대응 선언",
+    "lead": "앤트로픽(Anthropic) CEO 다리오 아모데이가 미 국방부의 '공급망 위험 업체' 지정에 대해 법적 대응을 선언했다. 외국 적대 세력에 주로 적용되던 이 조치는 앤트로픽의 2억 달러 규모 기밀 AI 계약과 팔란티어 등 방산업체와의 협력을 차단하며, AI 안전 가드레일을 둘러싼 빅테크와 정부 간 갈등이 전면전으로 확대되고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">앤트로픽(Anthropic) CEO 다리오 아모데이가 미 국방부의 '공급망 위험 업체' 지정에 대해 법적 대응을 선언했다. 외국 적대 세력에 주로 적용되던 이 조치는 앤트로픽의 2억 달러 규모 기밀 AI 계약과 팔란티어 등 방산업체와의 협력을 차단하며, AI 안전 가드레일을 둘러싼 빅테크와 정부 간 갈등이 전면전으로 확대되고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">앤트로픽은 자사 AI가 미국 시민 대상 대규모 감시나 자율무기에 사용되지 않을 것을 보장해 달라고 국방부에 요구했으나 협상이 결렬됐다. 피트 헥세스 국방장관은 이에 대해 공급망 위험 지정으로 맞대응했고, 이 조치는 미 군사법 제3252조에 근거한다. 앤트로픽의 Claude Gov는 국방부 기밀 클라우드에서 운용되는 유일한 AI 시스템이었으며, 팔란티어의 메이븐 스마트 시스템에도 통합되어 이란 작전에 활용돼 왔다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 조치는 AI 안전 원칙을 고수하는 기업에 대해 정부가 사실상 보복적 제재를 가한 첫 사례로 주목받고 있다. 조지타운대 CSET의 로렌 칸 연구원은 앤트로픽 시스템 제거가 \"모든 관계자에게 고통스러울 것\"이라고 평가했다. 마이크로소프트는 비방위 프로젝트에서는 앤트로픽과 계속 협력 가능하다고 밝혔지만, 재무부·GSA 등 민간 기관까지 앤트로픽 계약을 중단하면서 파급 범위가 넓어지고 있다. 6개월 전환 기간이 설정됐으나 실제 대체 AI 시스템 구축에는 더 오랜 시간이 걸릴 전망이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">이번 사태는 AI 기업이 정부와의 관계에서 윤리적 가드레일을 유지할 때 어떤 비용을 치를 수 있는지를 보여준다. 교육 분야에서도 학생 데이터 보호, AI 튜터의 편향 방지 등 안전 기준을 둘러싼 갈등이 커질 수 있다. 에듀테크 기업과 학교는 AI 공급업체 선정 시 해당 기업의 정부 관계 리스크까지 고려하는 공급망 다변화 전략이 필요하다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.latimes.com/business/story/2026-03-06/anthropic-vows-legal-fight-against-pentagon-sanction-in-ai-feud\" style=\"color:#FF6B35;text-decoration:none;\">Los Angeles Times</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "anthropic"
+    ],
+    "meta_title": "앤트로픽, 펜타곤 공급망 위험 지정에 법적 대응 선언",
+    "meta_description": "앤트로픽 CEO가 미 국방부의 공급망 위험 업체 지정에 법적 대응을 선언했다. 2억 달러 기밀 AI 계약이 위험에 처하며 AI 안전 원칙과 정부 간 갈등이 격화되고 있다.",
+    "word_count": 620
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T05:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T05:43:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T20:55:33.602Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ade245ff4fbf0001ab7626",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ade245ff4fbf0001ab7626",
+    "public_url": "https://insight.ubion.global/aenteuropig-pentagon-gonggeubmang-wiheom-jijeonge-beobjeog-daeeung-seoneon/",
+    "status": "published",
+    "published_at": "2026-03-08T20:55:33.000Z"
+  }
+}

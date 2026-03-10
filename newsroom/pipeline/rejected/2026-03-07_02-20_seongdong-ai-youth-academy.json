@@ -1,0 +1,43 @@
+{
+  "id": "src-202603070220-seongdong-ai",
+  "stage": "rejected",
+  "created_at": "2026-03-07T02:20:00+09:00",
+  "priority": 3,
+  "source": {
+    "title": "성동구, 청년 대상 '한반도 미래전략 아카데미' 운영… AI·경제·진로 중심 실전 교육",
+    "url": "https://www.koreayouthdaily.com/news/471559",
+    "source_name": "대한청년일보",
+    "relevance_score": 58,
+    "summary": "성동구가 청년들을 대상으로 AI 기반 미래 전략, 남북 경협 및 공동성장 전략 등 8단계 커리큘럼으로 구성된 '한반도 미래전략 아카데미'를 운영한다. 지역 청년 대상 실전 교육 프로그램으로 AI 교육 접근성 확대 사례.",
+    "tags": [
+      "local-education",
+      "youth",
+      "ai-training"
+    ],
+    "collected_via": "brave_search"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector",
+      "action": "collected",
+      "timestamp": "2026-03-07T02:20:00+09:00",
+      "note": "관련성 58점 - 지역 청년 AI 교육 프로그램"
+    }
+  ],
+  "rejection_reason": "중복 기사 - 2026-03-07 발행된 성동구 아카데미 기사와 동일",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

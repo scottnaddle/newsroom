@@ -1,0 +1,63 @@
+{
+  "timestamp": "2026-03-05T20:00:00Z",
+  "crn_job": "30분 에디터/데스크 점검",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "status": "empty"
+    },
+    "02_assigned": {
+      "total": 0,
+      "status": "empty"
+    },
+    "03_reported": {
+      "total": 0,
+      "status": "empty"
+    },
+    "04_drafted": {
+      "total": 0,
+      "status": "empty"
+    },
+    "05_fact_checked": {
+      "total": 0,
+      "status": "empty"
+    },
+    "06_desk_approved": {
+      "total": 0,
+      "status": "empty"
+    },
+    "07_copy_edited": {
+      "total": 0,
+      "status": "empty",
+      "note": "1개 파일(university-ai-education)을 08-published로 이동"
+    },
+    "08_published": {
+      "total": 72,
+      "last_added": "2026-03-05_university-ai-education.json",
+      "status": "active"
+    },
+    "rejected": {
+      "total": 7,
+      "status": "quarantine"
+    }
+  },
+  "summary": {
+    "processing_status": "유휴 상태 - 새 제안 없음",
+    "bottleneck": "없음 (모든 단계 정상)",
+    "action_needed": "모니터링 대기",
+    "last_processed_article": {
+      "title": "대학 'AI 교육' 도입 확산… 효율 높인다 vs 강사·조교 인력 축소?",
+      "stage": "published",
+      "confidence": 88,
+      "headline": "KAIST 정원 100명 지원자 6명, AI 교육 정책 현장과 괴리",
+      "timestamp": "2026-03-05T20:00:00Z"
+    }
+  },
+  "status_details": {
+    "sourced_queue_status": "empty (memory/queue.json 확인)",
+    "active_writers": "none",
+    "active_fact_checkers": "none",
+    "active_copy_editors": "none",
+    "next_cron_execution": "2026-03-05T20:30:00Z (30분 주기)"
+  }
+}

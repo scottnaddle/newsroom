@@ -1,0 +1,33 @@
+[Unit]
+Description=UBION Dashboard Server v2
+Documentation=https://ubion.global/dashboard
+After=network.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/.openclaw/workspace/newsroom/dashboard
+ExecStart=/root/.nvm/versions/node/v24.14.0/bin/node server.js
+
+# 자동 재시작
+Restart=on-failure
+RestartSec=10
+StartLimitInterval=60
+StartLimitBurst=3
+
+# 로깅
+StandardOutput=append:/var/log/ubion-dashboard.log
+StandardError=append:/var/log/ubion-dashboard.log
+
+# 프로세스 관리
+KillMode=mixed
+KillSignal=SIGTERM
+TimeoutStopSec=30
+
+# 리소스 제한
+MemoryLimit=512M
+CPUQuota=50%
+
+[Install]
+WantedBy=multi-user.target

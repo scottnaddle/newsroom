@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "The AI Conference 2026 | San Francisco",
+    "url": "https://aiconference.com/",
+    "source_name": "AI Conference",
+    "language": "en",
+    "relevance_score": 72,
+    "summary": "The AI Conference 2026 is hosted at Pier 48 in San Francisco, focusing on enterprise AI adoption with governance, risk management, capability building, ROI frameworks, and culture change. Targeted at executives, strategists, and transformation owners.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-06T18:31:00+09:00"
+  },
+  "digest": {
+    "headline": "샌프란시스코 AI 컨퍼런스 2026, 5500명 규모로 9월 개최",
+    "lead": "샌프란시스코 피어 48에서 열리는 'The AI Conference 2026'이 9월 29일부터 10월 1일까지 개최된다. 구글 딥마인드 알파고 핵심 설계자와 앤스로픽 연구원 등 AI 최전선 전문가들이 연사로 나선다. 기업 AI 채택과 거버넌스, 실제 구현 사례를 집중적으로 다룬다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">샌프란시스코 피어 48에서 열리는 'The AI Conference 2026'이 9월 29일부터 10월 1일까지 개최된다. 구글 딥마인드 알파고 핵심 설계자와 앤스로픽 연구원 등 AI 최전선 전문가들이 연사로 나선다. 기업 AI 채택과 거버넌스, 실제 구현 사례를 집중적으로 다룬다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">이번 컨퍼런스는 5,500명 이상의 개발자, 연구자, 경영진이 참석하는 대규모 행사다. 5개 트랙으로 구성된 프로그램은 실무 중심의 기술 심화, 인프라, 제품, 리더십 분야를 아우른다. 스탠포드 HAI의 피터 노빅, 앤스로픽의 해석가능성 연구원 엠마뉘엘 아메이센, 알파고와 알파제로의 핵심 설계자 요안니스 안토노글루가 기조 연사로 확정됐다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">개회 전날인 9월 29일 'Day ZERØ'는 300명 제한의 집중 워크샵으로, 기술 트랙과 리더십 트랙으로 나뉘어 심도 있는 세션이 진행된다. 스타트업 쇼다운과 이노베이션 허브에서는 신흥 AI 기업들이 투자자 및 파트너들과 직접 연결된다. 참가자들은 연구에서 프로덕션까지 이어지는 실제 구현 아키텍처와 운영 노하우를 얻을 수 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">교육 분야 AI 도입을 고려하는 기관과 에듀테크 기업은 리더십 트랙의 거버넌스·조직 변화 세션에서 실질적인 로드맵을 얻을 수 있다. 특히 AI 교육 플랫폼 개발자들에게는 RAG, 에이전트, 평가 등 실무 세션이 직접적인 도움이 될 것이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://aiconference.com/\" style=\"color:#FF6B35;text-decoration:none;\">AI Conference</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "conference"
+    ],
+    "meta_title": "샌프란시스코 AI 컨퍼런스 2026, 5500명 규모로 9월 개최",
+    "meta_description": "AI Conference 2026이 샌프란시스코에서 개최된다. 알파고 설계자와 앤스로픽 연구원이 연사로 나서며 기업 AI 채택과 실제 구현 사례를 다룬다.",
+    "word_count": 485
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T18:31:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T18:56:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T10:57:45.372Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aab329ff4fbf0001ab6f32",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aab329ff4fbf0001ab6f32",
+    "public_url": "https://ubion.ghost.io/saenpeuransiseuko-ai-keonpeoreonseu-2026-5500myeong-gyumoro-9weol-gaecoe/",
+    "status": "published",
+    "published_at": "2026-03-06T10:57:45.000Z"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Pentagon official recalls 'whoa moment' when defense leaders realized how much they need Anthropic",
+    "url": "https://fortune.com/2026/03/07/pentagon-emil-michael-anthropic-claude-defense-ai-openai-iran-war-palantir/",
+    "source_name": "Fortune",
+    "language": "en",
+    "relevance_score": 92,
+    "summary": "Pentagon Under Secretary Emil Michael detailed on the All-In podcast how the military's reliance on Anthropic's Claude became a shocking realization after the Venezuela operation. The incident led Defense Secretary Hegseth to designate Anthropic a supply-chain risk, as Claude was the only AI model authorized in classified settings.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-09T11:17:00+09:00"
+  },
+  "digest": {
+    "headline": "펜타곤, 앤트로픽 의존도에 '충격'… AI 다변화 급선회",
+    "lead": "미 국방부 차관 에밀 마이클이 올인(All-In) 팟캐스트에서 군의 앤트로픽 클로드 의존도를 깨달은 '충격의 순간'을 회고했다. 베네수엘라 작전 이후 단일 AI 모델 의존의 위험성을 인식한 펜타곤은 OpenAI·xAI 등으로 급속히 다변화에 나서고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미 국방부 차관 에밀 마이클이 올인(All-In) 팟캐스트에서 군의 앤트로픽 클로드 의존도를 깨달은 '충격의 순간'을 회고했다. 베네수엘라 작전 이후 단일 AI 모델 의존의 위험성을 인식한 펜타곤은 OpenAI·xAI 등으로 급속히 다변화에 나서고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">올해 1월 미군의 베네수엘라 작전 직후, 앤트로픽이 팔란티어에 클로드의 작전 투입 여부를 문의한 것이 도화선이 됐다. 에밀 마이클 차관은 \"가드레일이 작동하거나 거부가 발생하면 다음 전투에서 우리 병사가 위험에 처할 수 있다\"며 헤그세스 국방장관에게 보고했다. 당시 클로드는 기밀 환경에서 인가된 유일한 AI 모델이었고, 이 '단일 의존' 리스크가 공급망 리스크 지정의 직접적 계기가 됐다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">펜타곤은 이후 OpenAI와 유사 계약을 체결하고 xAI를 기밀 환경에 편입시키는 한편, 구글 AI의 기밀 인가도 추진 중이다. 마이클 차관은 \"편향 없이 모든 업체에 동일한 조건을 주고 싶다. 중복성이 필요하다\"고 밝혔다. 한편 OpenAI 로보틱스 리더 케이틀린 칼리노스키가 같은 윤리적 우려를 이유로 사임하면서, AI 군사 활용을 둘러싼 실리콘밸리 내부 갈등도 심화되고 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">단일 AI 벤더 의존의 위험성은 교육 분야에도 그대로 적용된다. 대학·교육청이 특정 AI 플랫폼에 커리큘럼과 평가 시스템을 깊이 통합한 상태에서 갑작스러운 서비스 중단이나 정책 변경이 발생할 수 있다. 에듀테크 도입 시 멀티 모델 아키텍처와 벤더 전환 계획(exit strategy) 수립이 필수적이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://fortune.com/2026/03/07/pentagon-emil-michael-anthropic-claude-defense-ai-openai-iran-war-palantir/\" style=\"color:#FF6B35;text-decoration:none;\">Fortune</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "anthropic",
+      "openai"
+    ],
+    "meta_title": "펜타곤, 앤트로픽 AI 의존도에 충격… 다중 벤더 전략으로 전환",
+    "meta_description": "미 국방부 차관이 앤트로픽 클로드에 대한 군의 단일 의존도를 깨달은 순간을 공개했다. 펜타곤은 OpenAI·xAI로 AI 공급원을 다변화하며, AI 군사 활용의 윤리 논쟁도 격화되고 있다.",
+    "word_count": 550,
+    "feature_image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T11:17:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T02:45:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T03:31:06.706Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae3efaff4fbf0001ab7786",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae3efaff4fbf0001ab7786",
+    "public_url": "https://insight.ubion.global/pentagon-aenteuropig-yijondoe-cunggyeog-ai-dabyeonhwa-geubseonhoe/",
+    "status": "published",
+    "published_at": "2026-03-09T03:31:06.000Z"
+  }
+}

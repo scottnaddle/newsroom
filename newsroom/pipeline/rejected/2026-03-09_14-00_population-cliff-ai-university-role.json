@@ -1,0 +1,97 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.educhang.co.kr/news/articleView.html?idxno=8552",
+    "title": "2040년, '사람 귀한 세상'이 온다 — 인구 절벽과 AI 전환기 대학의 역할",
+    "snippet": "저출생과 AI 혁명이라는 두 거대한 변화 속에서 대학과 연구자들의 역할 논의.",
+    "published_date": "2026-03-05"
+  },
+  "relevance_score": 70,
+  "tags": [
+    "demographics",
+    "university",
+    "ai-transition",
+    "korea"
+  ],
+  "collected_at": "2026-03-09T05:00:00.000Z",
+  "editor_note": "인구절벽과 대학의 AI 전환기 역할. 한국 사회 이슈 연결. 분석 기사.",
+  "priority": "medium",
+  "assigned_at": "2026-03-09T05:37:48.516367Z",
+  "reported_at": "2026-03-09T05:41:00.000Z",
+  "reporting_brief": {
+    "who": "한민정 한림대 교수(교육정책디자인연구소), WEF, McKinsey, 루먼 초두리(Humane Intelligence CEO), UNESCO/DQ연구소",
+    "what": "합계출생률 0.6명대의 인구절벽과 AI 혁명이라는 이중 전환기에서 대학 역할 재정의 필요.",
+    "why": "인구감소 시대에 한 명 한 명의 무게가 무거워지는 만큼 교육의 질적 전환이 불가피.",
+    "when": "2026년 3월 5일 발표",
+    "context": "WEF 'Future of Jobs 2025': AI·빅데이터 전문가와 케어이코노미 종사자 동시 성장. McKinsey: 공감·신뢰 기반 대인 직무가 자동화 위험 최저.",
+    "sources": [
+      {
+        "url": "https://www.educhang.co.kr/news/articleView.html?idxno=8552",
+        "type": "primary",
+        "reliability": "medium-high"
+      },
+      {
+        "url": "https://www.weforum.org/publications/the-future-of-jobs-report-2025/",
+        "type": "data",
+        "reliability": "high"
+      },
+      {
+        "url": "https://rptel.apsce.net/index.php/RPTEL/article/view/2026-21019",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "perspectives": {
+      "academia": "대학은 양적 배출에서 질적 가치 전환 필요.",
+      "demographics": "2040년 65세+ 인구 1/3. 실버이코노미 25조 달러 시장.",
+      "social_justice": "AI가 '평균 사용자' 기준 설계로 다양성 반영 실패.",
+      "regional": "지방대학: 입학자원 고갈이 아닌 '로컬 혁신 거점'으로 재정의."
+    },
+    "suggested_angle": "인구절벽 × AI 이중 전환기 — 한국 대학의 생존 방정식."
+  },
+  "drafted_at": "2026-03-09T06:45:00.000Z",
+  "draft": {
+    "headline": "인구절벽 × AI 혁명 — 한국 대학이 풀어야 할 이중 방정식",
+    "subheadline": "출생률 0.6명대, 2040년 국민 1/3이 고령자… '사람 귀한 세상'에서 대학의 역할은",
+    "html": "<div style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;font-size:17px;line-height:1.9;color:#1a202c\">\n\n<div style=\"border-left:4px solid #059669;background:#f8f9ff;padding:20px 24px;margin-bottom:32px;border-radius:0 8px 8px 0\">\n<p style=\"font-size:18px;margin:0;color:#065f46\">합계출생률 0.6명대. 2040년이면 국민 3명 중 1명이 65세 이상이 된다. 동시에 AI 혁명은 직업의 지형을 근본적으로 바꾸고 있다. 인구절벽과 AI라는 두 거대한 파도가 동시에 밀려오는 시대, 한국 대학은 어떤 역할을 해야 하는가. 한림대 한민정 교수의 분석이 하나의 답을 제시한다.</p>\n</div>\n\n<figure class=\"kg-card kg-image-card kg-width-full\">\n<img src=\"https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80\" alt=\"대학교 졸업식 장면\" style=\"width:100%;border-radius:8px\">\n<figcaption style=\"text-align:center;font-size:14px;color:#94a3b8;margin-top:8px\">양적 배출의 시대가 끝나고 질적 가치의 시대가 열리고 있다 | Unsplash</figcaption>\n</figure>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">AI가 효율을 극대화할수록, '사람다움'의 가치는 올라간다</h2>\n<p>한림대 교육정책디자인연구소 한민정 교수는 에듀창 칼럼에서 역설적 전망을 내놓았다. AI가 효율을 극대화하는 세상일수록 감정을 읽고, 맥락을 판단하고, 공감으로 관계를 맺는 '인간 고유의 능력'이 오히려 시장가치가 높아진다는 것이다.</p>\n<p>세계경제포럼(WEF)의 'Future of Jobs 2025' 보고서가 이를 뒷받침한다. 가장 빠르게 성장할 직군으로 'AI·빅데이터 전문가'와 '케어이코노미 종사자(간호·복지·상담)'가 나란히 선정됐다. 맥킨지도 2023년 보고서에서 공감과 신뢰를 기반으로 한 대인 직무가 자동화 위험이 가장 낮다고 분석한 바 있다.</p>\n<p>한 교수는 \"대학이 졸업생을 양적으로 배출하는 시대는 끝났다\"며 \"AI와 파트너십을 이루면서 한 명이 더 넓은 영역에서 가치를 창출하는 질적 전환이 필요하다\"고 강조했다. 성적 중심 평가에서 성장 기반 평가로의 전환도 제안했다.</p>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">25조 달러 실버이코노미 — 고령사회가 만드는 새로운 직업 지형</h2>\n<p>2040년 한국 인구의 약 3분의 1이 65세 이상이 된다. 이 숫자가 만들어내는 시장은 거대하다. 글로벌 실버이코노미 시장 규모는 25조 달러에 달할 것으로 추산된다. 낙상감지 AI, AI 말벗 서비스, 인지저하 조기탐지 등 에이지테크(AgeTech) 분야가 빠르게 성장하고 있다.</p>\n<p>한 교수는 이를 대학의 기회로 봤다. \"인구가 줄어드는 것이 아니라 인구 구조가 바뀌는 것이다. 대학은 이 변화에 맞는 인재를 양성해야 한다.\" 케어이코노미와 에이지테크를 결합한 융합 인재, AI를 활용해 노인 돌봄의 질을 높이는 전문가가 미래 대학이 배출해야 할 인재상이라는 분석이다.</p>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">지방대학의 생존 — '로컬 혁신 거점'이라는 새 정체성</h2>\n<p>인구절벽의 충격은 지방대학에 가장 먼저, 가장 강하게 온다. 입학자원이 고갈되는 지방대학이 살아남으려면 정체성 자체를 바꿔야 한다. 한 교수는 일본 지방 국립대학의 산학협력 생존 모델을 참조하며 \"지방대학이 입학자원 고갈의 피해자가 아니라 '로컬 혁신 거점'으로 재정의되어야 한다\"고 제안했다.</p>\n<p>지역 산업체와 AI 기반 공동 연구를 수행하고, 지역 사회의 고령화 문제를 해결하는 허브 역할을 하며, 평생교육 플랫폼으로 전환하는 것이다. 대학의 존재 이유가 '18세 학생을 받아 졸업시키는 것'에서 '지역 사회의 혁신 엔진'으로 확장되는 셈이다.</p>\n<p>Humane Intelligence CEO 루먼 초두리가 경고한 대로, AI가 '평균 사용자' 기준으로 설계되어 다양성을 반영하지 못하는 문제도 대학이 풀어야 할 과제다. DQ연구소에 따르면 디지털 리터러시가 낮은 집단은 AI 허위정보에 대한 노출 위험이 3배 높다. 비판적 AI 리터러시 교육은 기술 역량이 아닌 시민의 교육적 권리다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0;margin-top:40px;padding-top:20px\">\n<p style=\"font-size:15px;font-weight:600;color:#059669;margin-bottom:12px\">📎 참고자료</p>\n<ol style=\"font-size:15px;color:#475569;padding-left:20px\">\n<li><a href=\"https://www.educhang.co.kr/news/articleView.html?idxno=8552\" style=\"color:#059669\">에듀창 — 2040년, '사람 귀한 세상'이 온다</a></li>\n<li><a href=\"https://www.weforum.org/publications/the-future-of-jobs-report-2025/\" style=\"color:#059669\">WEF — Future of Jobs Report 2025</a></li>\n<li><a href=\"https://rptel.apsce.net/index.php/RPTEL/article/view/2026-21019\" style=\"color:#059669\">RPTEL — AI 고등교육의 윤리적 고려와 사회적 가치</a></li>\n</ol>\n</div>\n\n<p style=\"font-size:13px;color:#cbd5e1;margin-top:32px;text-align:center\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>",
+    "ghost_tags": [
+      "인구절벽",
+      "AI교육",
+      "고등교육",
+      "실버이코노미",
+      "지방대학"
+    ],
+    "references": [
+      "https://www.educhang.co.kr/news/articleView.html?idxno=8552",
+      "https://www.weforum.org/publications/the-future-of-jobs-report-2025/",
+      "https://rptel.apsce.net/index.php/RPTEL/article/view/2026-21019"
+    ],
+    "word_count": 880,
+    "category": "research",
+    "meta_title": "인구절벽 × AI 혁명 — 한국 대학이 풀어야 할 이중 방정식",
+    "meta_description": "합계출생률 0.6명대. 2040년이면 국민 3명 중 1명이 65세 이상이 된다. 동시에 AI 혁명은 직업의 지형을 근본적으로 바꾸고 있다. 인구절벽과 AI라는 두 거대한 파도가 동시에 밀려오는 시대, 한국 대학은 어떤 역할을 해야 하는가. 한림대 한민정 교수의 분석이 "
+  },
+  "fact_checked_at": "2026-03-09T06:54:34.267Z",
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 1689자, 팩트점수 96, 중복 25.0%",
+    "meta_title": "인구절벽 × AI 혁명 — 한국 대학이 풀어야 할 이중 방정식",
+    "meta_description": "합계출생률 0.6명대. 2040년이면 국민 3명 중 1명이 65세 이상이 된다. 동시에 AI 혁명은 직업의 지형을 근본적으로 바꾸고 있다. 인구절벽과 AI라는 두 거대한 파도가 동시에 밀려오는 시대, 한국 대학은 어떤 역할을 해야 하는가. 한림대 한민정 교수의 분석이 ",
+    "decided_at": "2026-03-09T13:33:54.302Z"
+  },
+  "copy_edit": {
+    "verdict": "FAIL",
+    "reason": "본문 1526자 미만"
+  },
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  }
+}

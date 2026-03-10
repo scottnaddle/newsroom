@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Call Notes: Quarterly Semiconductor Update (March 2026)",
+    "url": "https://nand-research.com/call-notes-quarterly-semiconductor-update-march-2026/",
+    "source_name": "NAND Research",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Quarterly semiconductor update reveals Anthropic has access to as many as 1 million Google TPUs, expected to bring over a gigawatt of new AI compute capacity online in 2026. Anthropic has committed $21 billion to custom chip orders via Broadcom.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-06T16:25:00+09:00"
+  },
+  "digest": {
+    "headline": "앤스로픽, 구글 TPU 100만 개 확보…브로드컴에 210억 달러 칩 주문",
+    "lead": "AI 스타트업 앤스로픽이 구글 TPU v7p 100만 개에 접근권을 확보하며 2026년에만 1기가와트 이상의 AI 컴퓨팅 인프라를 구축한다. 브로드컴을 통한 커스텀 칩 주문만 210억 달러에 달하는 등 초대형 AI 인프라 투자가 속출하고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">AI 스타트업 앤스로픽이 구글 TPU v7p 100만 개에 접근권을 확보하며 2026년에만 1기가와트 이상의 AI 컴퓨팅 인프라를 구축한다. 브로드컴을 통한 커스텀 칩 주문만 210억 달러에 달하는 등 초대형 AI 인프라 투자가 속출하고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">NAND Research의 2026년 1분기 반도체 업데이트에 따르면, 앤스로픽은 구글 TPU v7p 약 100만 개를 2026년 말까지 인도받기로 했다. 이는 브로드컴을 통한 210억 달러 규모의 커스텀 칩 주문의 일환이다. 구글은 자체 TPU 생산량이 2026년에 310~320만 개에 달할 것으로 예상되며, 이는 처음으로 범용 GPU 출하량을 추월하는 규모다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 발표는 AI 인프라 경쟁이 칩 확보전으로 치닫고 있음을 보여준다. 메타는 AMD와 1,000억 달러 규모의 6기가와트 GPU 공급 계약을 체결했고, 오픈AI도 브로드컴과 협력해 자체 칩 '타이탄'을 개발 중이다. 엔비디아의 독주 속에서 하이퍼스케일러들이 커스텀 실리콘으로 탈출구를 모색하는 흐름이 가속화되고 있다. 구글 TPU의 총소유비용(TCO)은 엔비디아 GB200 대비 30~44% 낮은 것으로 분석된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 기반 교육 서비스 기업들도 GPU 가격 상승과 공급 부족 압박을 체감하고 있다. 구글 TPU 같은 비용 효율적 대안이 확대되면 에듀테크 스타트업들도 클라우드 기반 AI 추론 비용을 낮출 수 있다. 교육용 LLM 개발사들은 구글 클라우드의 TPU 접근성이 높아짐에 따라 엔비디아 의존도를 낮추는 전략을 고려할 시점이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://nand-research.com/call-notes-quarterly-semiconductor-update-march-2026/\" style=\"color:#FF6B35;text-decoration:none;\">NAND Research</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "anthropic",
+      "google",
+      "반도체"
+    ],
+    "meta_title": "앤스로픽 구글 TPU 100만개, 브로드컴 210억달러 주문",
+    "meta_description": "앤스로픽이 구글 TPU 100만 개 확보와 브로드컴 210억 달러 주문으로 초대형 AI 인프라를 구축한다. 에듀테크 기업의 TPU 활용 가능성도 주목된다.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T16:25:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T16:30:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T07:37:14.294Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aa83d5ff4fbf0001ab6e77",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aa83d5ff4fbf0001ab6e77",
+    "public_url": "https://insight.ubion.global/aenseuropig-gugeul-tpu-100man-gae-hwagbo-beurodeukeome-210eog-dalreo-cib-jumun/",
+    "status": "published",
+    "published_at": "2026-03-06T07:37:14.294Z"
+  }
+}

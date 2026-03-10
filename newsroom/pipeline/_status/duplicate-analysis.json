@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-03-06T00:10:20.254Z",
+  "totalArticles": 19,
+  "duplicateGroups": 1,
+  "articlesToMove": 1,
+  "groups": [
+    {
+      "groupId": 1,
+      "keep": {
+        "id": "20260302-1123-edweek-teachers-guardrails",
+        "filename": "2026-03-02_11-23_edweek-teachers-guardrails.json",
+        "headline": "미 의회, 교사용 AI 연방 가이드라인 촉구",
+        "createdAt": "2026-03-02T11:23:00+01:00"
+      },
+      "moveToDraft": [
+        {
+          "filename": "2026-03-04_02_u-s-schools-are-betting-big-on-a-i-will-.json",
+          "headline": "뉴욕시, 미국 최대 학군의 AI 도입 결정권 손에 쥐다"
+        }
+      ]
+    }
+  ]
+}

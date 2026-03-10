@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Broadcom Shares Soar as AI Chip Revenue Jumps 74%, CEO Signals Massive Infrastructure Expansion",
+    "url": "https://markets.financialcontent.com/stocks/article/marketminute-2026-3-6-broadcom-shares-soar-as-ai-chip-revenue-jumps-74-ceo-signals-massive-infrastructure-expansion",
+    "source_name": "FinancialContent",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Broadcom revealed a staggering 74% year-over-year surge in AI chip revenue, underscoring the industry's aggressive transition from general-purpose computing to specialized AI infrastructure.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-07T09:44:00+09:00"
+  },
+  "digest": {
+    "headline": "브로드컴 AI 칩 매출 74% 급증…2027년 AI 매출 1000억 달러 목표",
+    "lead": "브로드컴이 2026 회계연도 1분기 AI 칩 매출이 전년 동기 대비 74% 급증한 84억 달러를 기록했다. 구글 TPU 7세대와 메타 MTIA 아키텍처 물량 증가가 주효했으며, CEO 혹 탄은 2027 회계연도까지 AI 매출 1000억 달러 달성을 예상했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">브로드컴이 2026 회계연도 1분기 AI 칩 매출이 전년 동기 대비 74% 급증한 84억 달러를 기록했다. 구글 TPU 7세대와 메타 MTIA 아키텍처 물량 증가가 주효했으며, CEO 혹 탄은 2027 회계연도까지 AI 매출 1000억 달러 달성을 예상했다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">브로드컴은 이번 분기 총 매출 193억 1000만 달러를 기록해 전년 대비 29% 성장했다. AI 관련 매출 84억 달러가 핵심 성장동력이었으며, 커스텀 AI 가속기(XPU)와 고속 네트워킹 장비 수요가 폭증했다. 특히 TSMC로부터 선단 웨이퍼 용량과 HBM 메모리 공급을 2028년까지 확보하며 공급망 병목 현상을 완화했다. 네트워킹 부문은 '토마호크 6' 스위치 수요로 전년 대비 60% 성장했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">브로드컴의 실적은 AI 인프라 투자가 일시적 유행이 아닌 구조적 흐름임을 입증한다. 오픈AI가 새로운 커스텀 칩 고객으로 합류하며, 구글·메타·마이크로소프트·아마존에 이어 6번째 주요 파트너가 됐다. CEO는 \"백만 XPU 규모 클러스터\" 시대를 언급하며 2027년 토마호크 7 스위치와 1.6T 광 인터커넥트 출시를 예고했다. 다만 중국 시장 의존도(약 20%)와 미국 수출 통제는 지속적 부담요인이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 칩 수요 폭증은 에듀테크 기업들의 AI 서비스 구축 비용과 속도에 직접적 영향을 미친다. 대형 빅테크들이 커스텀 칩으로 전환하며 GPU 수급난이 완화될 수 있으나, 교육 분야 특화 AI 모델 개발사는 여전히 고가 인프라 비용에 직면할 가능성이 크다. 장기적으로는 전용 AI 칩 가격 안정화가 에듀테크 스타트업의 AI 도입 진입장벽을 낮출 것으로 기대된다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://markets.financialcontent.com/stocks/article/marketminute-2026-3-6-broadcom-shares-soar-as-ai-chip-revenue-jumps-74-ceo-signals-massive-infrastructure-expansion\" style=\"color:#FF6B35;text-decoration:none;\">FinancialContent</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "semiconductor",
+      "broadcom"
+    ],
+    "meta_title": "브로드컴 AI 칩 매출 74% 급증, 2027년 1000억 달러 목표",
+    "meta_description": "브로드컴이 2026 회계연도 1분기 AI 칩 매출 84억 달러로 전년 대비 74% 성장했다. 구글·메타 커스텀 칩 수요 폭증과 오픈AI 신규 파트너십이 성장을 견인한다.",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T09:44:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T09:47:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T01:01:08.023Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ab78d3ff4fbf0001ab71d3",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ab78d3ff4fbf0001ab71d3",
+    "public_url": "https://ubion.ghost.io/beurodeukeom-ai-cib-maecul-74-geubjeung-2027nyeon-ai-maecul-1000eog-dalreo-mogpyo/",
+    "status": "published",
+    "published_at": "2026-03-07T01:01:08.022Z"
+  }
+}

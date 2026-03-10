@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Agent Theater - 로딩 테스트</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { 
+      font-family: 'Noto Sans KR', Arial, sans-serif;
+      background: #1a1a2e;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      color: #fff;
+    }
+    .container {
+      text-align: center;
+      max-width: 400px;
+    }
+    h1 { font-size: 32px; margin-bottom: 20px; }
+    .status {
+      background: #16a34a;
+      padding: 20px;
+      border-radius: 8px;
+      margin: 20px 0;
+      font-size: 18px;
+      font-weight: bold;
+    }
+    .status.error { background: #dc2626; }
+    .info {
+      background: #1e293b;
+      padding: 16px;
+      border-radius: 8px;
+      margin: 16px 0;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+    code {
+      background: #0f172a;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-family: 'Courier New', monospace;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🤖 Agent Theater</h1>
+    
+    <div class="status" id="status">
+      ✅ 서버 정상 작동
+    </div>
+    
+    <div class="info">
+      <strong>파일 로드 상태:</strong><br>
+      • index.html: <span id="html-status">✓</span><br>
+      • index-D8G3i1Yg.js: <span id="js-status">로딩 중...</span><br>
+      • CSS: <span id="css-status">로딩 중...</span>
+    </div>
+
+    <div class="info">
+      <strong>브라우저 콘솔 (F12)을 확인하세요</strong><br>
+      에러 메시지가 있으면 스크린샷으로 공유해 주세요!
+    </div>
+  </div>
+
+  <script>
+    console.log('✅ loading-test.html 로드됨');
+    
+    // CSS 로드 확인
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = './assets/index-CDgABIYG.css';
+    link.onload = () => {
+      console.log('✅ CSS 로드됨');
+      document.getElementById('css-status').textContent = '✓';
+    };
+    link.onerror = (e) => {
+      console.error('❌ CSS 로드 실패:', e);
+      document.getElementById('css-status').textContent = '✗ 실패';
+      document.getElementById('status').textContent = '❌ CSS 로드 실패';
+      document.getElementById('status').className = 'status error';
+    };
+    document.head.appendChild(link);
+    
+    // JS 로드 확인 (defer 속성 추가해서 로드)
+    const script = document.createElement('script');
+    script.type = 'module';
+    script.src = './assets/index-D8G3i1Yg.js';
+    script.onload = () => {
+      console.log('✅ JS 로드됨 (완료)');
+      document.getElementById('js-status').textContent = '✓';
+    };
+    script.onerror = (e) => {
+      console.error('❌ JS 로드 실패:', e);
+      document.getElementById('js-status').textContent = '✗ 실패';
+      document.getElementById('status').textContent = '❌ JS 로드 실패';
+      document.getElementById('status').className = 'status error';
+    };
+    
+    console.log('📄 index-D8G3i1Yg.js 로드 시작...');
+    document.body.appendChild(script);
+    
+    // 타임아웃 체크
+    setTimeout(() => {
+      if (document.getElementById('js-status').textContent === '로딩 중...') {
+        console.warn('⚠️ 30초 이상 로딩 중... 네트워크 문제 가능성');
+      }
+    }, 30000);
+  </script>
+</body>
+</html>

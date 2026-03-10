@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-03-05T16:10:32.700105+09:00",
+  "pipeline_status": {
+    "01-sourced": 1,
+    "02-assigned": 0,
+    "03-reported": 0,
+    "04-drafted": 6,
+    "05-fact-checked": 0,
+    "06-desk-approved": 0,
+    "07-copy-edited": 0,
+    "08-published": 58
+  },
+  "rejected_total": 35,
+  "bottleneck": "08-published (58개)",
+  "actions_taken": {
+    "05-fact-checked_processed": 2,
+    "rejected_auto": 1,
+    "revise_to_draft": 1,
+    "copy_to_publish": 3,
+    "total_promoted": 3
+  },
+  "summary": "\n✅ 파이프라인 점검 완료 (2026-03-05 16:10 KST)\n\n📊 현황:\n  - 01-sourced: 1개 (대기)\n  - 04-drafted: 6개 ⚠️ 병목\n  - 05-fact-checked: 0개 (완료)\n  - 07-copy-edited: 0개 \n  - 08-published: 58개 (누적)\n  - rejected: 35개 (누적)\n\n🔄 처리 결과:\n  ✅ 05-fact-checked 2개 처리\n    - MDPI 논문 (신뢰도 71) → rejected (출처 무효)\n    - CCC 라이선싱 (신뢰도 85) → 04-drafted 반환 (REVISE: 헤드라인 + 균형성)\n  \n  ✅ 07-copy-edited 3개 → 08-published 승격\n    - Teacher v chatbot (신뢰도 87)\n    - Kazakhstan ChatGPT Edu (신뢰도 88)\n    - Virginia AI guardrails (신뢰도 86)\n\n🎯 병목 분석:\n  - 04-drafted: 6개 파일 정체\n  → writer 우선 처리 필요 (2-3일 내 완료 권장)\n\n📋 다음 단계:\n  1. 01-sourced 1개 (점수 72) → queue.json 저장 (대기)\n  2. 04-drafted 5개 writer 우선 처리\n  3. CCC 기사 (REVISE) → 대학 측 인터뷰 추가 취재 필요\n"
+}

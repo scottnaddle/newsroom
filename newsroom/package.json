@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@napi-rs/canvas": "^0.1.95",
-    "canvas": "^3.2.1"
+    "canvas": "^3.2.1",
+    "jsonwebtoken": "^9.0.3"
   }
 }

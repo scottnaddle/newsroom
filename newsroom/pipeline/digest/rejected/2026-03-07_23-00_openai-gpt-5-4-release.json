@@ -1,0 +1,46 @@
+{
+  "stage": "rejected",
+  "pipeline": "digest",
+  "source": {
+    "title": "Introducing GPT-5.4 — OpenAI's Most Capable Model with Native Computer-Use",
+    "url": "https://openai.com/index/introducing-gpt-5-4/",
+    "source_name": "OpenAI",
+    "language": "en",
+    "relevance_score": 95,
+    "summary": "OpenAI released GPT-5.4 on March 5, 2026, its most capable frontier model combining reasoning, coding, and agentic workflows. The model features native computer-use capabilities (75% OSWorld, surpassing human baselines), a 1M token context window, real-time mid-response steering, and 47% token efficiency gains over GPT-5.2. GPT-5.4 also outperforms human professionals on the GDPval test at 83%, up from 70.9%.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-07T23:00:00+09:00"
+  },
+  "digest": {
+    "headline": "OpenAI GPT-5.4 공개, 컴퓨터 자율 조작·100만 토큰 컨텍스트 시대 개막",
+    "lead": "OpenAI가 3월 5일 최신 프론티어 모델 GPT-5.4를 공개했다. 추론·코딩·에이전트 워크플로를 통합한 이 모델은 네이티브 컴퓨터 사용 기능을 갖춘 최초의 범용 모델로, 100만 토큰 컨텍스트 윈도를 지원하며 전문직 업무 벤치마크에서 인간을 능가하는 성과를 기록했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">OpenAI가 3월 5일 최신 프론티어 모델 GPT-5.4를 공개했다. 추론·코딩·에이전트 워크플로를 통합한 이 모델은 네이티브 컴퓨터 사용 기능을 갖춘 최초의 범용 모델로, 100만 토큰 컨텍스트 윈도를 지원하며 전문직 업무 벤치마크에서 인간을 능가하는 성과를 기록했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">GPT-5.4는 GPT-5.3-Codex의 코딩 역량과 GPT-5.2의 추론 능력을 결합한 통합 모델이다. 특히 OSWorld 벤치마크에서 75%를 기록해 인간 기준선을 넘어섰으며, 스프레드시트·프레젠테이션·문서 작업에서 대폭 개선된 성능을 보여준다. 응답 중간에 사용자가 방향을 수정할 수 있는 '실시간 스티어링' 기능도 도입됐다. 전작 대비 토큰 효율이 47% 향상되어 비용 절감과 속도 개선을 동시에 달성했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">44개 직종의 실무 업무를 평가하는 GDPval에서 GPT-5.4는 83%의 일치·우위율을 달성해, 70.9%였던 GPT-5.2를 크게 앞질렀다. 네이티브 컴퓨터 조작 기능은 AI 에이전트가 여러 애플리케이션을 넘나들며 복합 워크플로를 자율 수행하는 시대를 열었다. AI가 '도구'에서 '동료'로 전환되는 속도가 한층 빨라지고 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">100만 토큰 컨텍스트와 컴퓨터 자율 조작 기능은 AI 튜터링 플랫폼의 가능성을 근본적으로 확장한다. 학습자의 장기간 학습 이력을 한 번에 참조하며, LMS와 문서 편집기를 직접 조작해 과제를 지원하는 '완전 자율형 학습 어시스턴트'가 현실화될 수 있다. 에듀테크 기업은 토큰 효율 향상에 따른 운영 비용 절감 효과에도 주목할 필요가 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://openai.com/index/introducing-gpt-5-4/\" style=\"color:#FF6B35;text-decoration:none;\">OpenAI</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "openai",
+      "technology"
+    ],
+    "meta_title": "OpenAI GPT-5.4 공개 — 컴퓨터 자율 조작·100만 토큰 시대 개막",
+    "meta_description": "OpenAI가 GPT-5.4를 공개했다. 네이티브 컴퓨터 사용, 100만 토큰 컨텍스트, GDPval 83% 달성 등 전문직 업무 자동화의 새 기준을 제시한다.",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T23:00:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T23:17:00+09:00"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "rejected",
+      "timestamp": "2026-03-07T23:26:00+09:00",
+      "note": "중복 기사 — GPT-5.4 이미 03-published에 발행됨 (2026-03-07_16-48_gpt-54-agentic-ai.json). 같은 뉴스 이벤트, 각도 차이 불충분."
+    }
+  ]
+}

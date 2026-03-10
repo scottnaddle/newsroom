@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Anthropic's and OpenAI's Dance With the Pentagon: What to Know",
+    "url": "https://www.nytimes.com/2026/03/07/technology/anthropic-openai-pentagon-dario-amodei-sam-altman.html",
+    "source_name": "The New York Times",
+    "language": "en",
+    "relevance_score": 95,
+    "summary": "Anthropic's AI technology is being used as U.S. military forces engage in a widening war against Iran, according to sources familiar with the technology. Google, OpenAI, and Elon Musk's xAI are also part of the pilot program but are not yet used on classified systems. The article examines the evolving relationship between AI companies and the Pentagon.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-08T01:04:00+09:00"
+  },
+  "digest": {
+    "headline": "앤트로픽·오픈AI, 펜타곤 군사 AI 파일럿에 본격 참여",
+    "lead": "앤트로픽의 AI 기술이 미군의 이란 관련 군사 작전에 실제 활용되고 있는 것으로 알려졌다. 구글, 오픈AI, xAI도 파일럿 프로그램에 참여 중이나 아직 기밀 시스템에는 적용되지 않은 상태다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">앤트로픽의 AI 기술이 미군의 이란 관련 군사 작전에 실제 활용되고 있는 것으로 알려졌다. 구글, 오픈AI, xAI도 파일럿 프로그램에 참여 중이나 아직 기밀 시스템에는 적용되지 않은 상태다. 실리콘밸리 AI 기업들과 미국 국방부의 관계가 새로운 국면에 접어들고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">뉴욕타임스 보도에 따르면, 앤트로픽의 클로드 AI가 미국의 대이란 군사 작전을 지원하는 데 활용되고 있다. 과거 구글 직원들의 '프로젝트 메이븐' 반발 이후 실리콘밸리와 국방부의 관계는 냉각됐으나, 생성형 AI 시대를 맞아 주요 기업들이 다시 군사 분야 협력에 나서고 있다. 오픈AI의 샘 알트만과 앤트로픽의 다리오 아모데이 모두 국방 분야 진출을 적극적으로 추진하는 것으로 전해진다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">AI 안전을 핵심 가치로 내세웠던 앤트로픽이 군사 분야에 참여한다는 점은 업계에 상당한 파장을 불러올 수 있다. 기밀 시스템 적용 여부가 다음 분기점이 될 전망이며, AI 기업들의 윤리 정책과 정부 계약 사이의 긴장 관계가 더욱 부각될 것으로 보인다. 향후 미국 외 동맹국으로의 군사 AI 확산 가능성도 주목할 부분이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 기업들의 군사 계약 확대는 안전·윤리 가이드라인의 재정립을 촉발할 수 있으며, 이는 교육용 AI 서비스에도 새로운 규제 기준으로 파급될 가능성이 있다. 특히 '이중 용도'(dual-use) AI 기술에 대한 정부 감시가 강화될 경우, 에듀테크 기업들도 AI 모델 활용 범위에 대한 투명성 요구에 대비해야 할 것이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.nytimes.com/2026/03/07/technology/anthropic-openai-pentagon-dario-amodei-sam-altman.html\" style=\"color:#FF6B35;text-decoration:none;\">The New York Times</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "openai"
+    ],
+    "meta_title": "앤트로픽·오픈AI, 펜타곤 군사 AI 파일럿 본격 참여",
+    "meta_description": "앤트로픽 AI가 미군 이란 작전에 실제 활용되고 있으며, 구글·오픈AI·xAI도 파일럿 참여 중. 실리콘밸리와 국방부 관계의 새 국면을 분석한다.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-08T01:04:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-08T01:19:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T16:42:14.868Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ac555cff4fbf0001ab73eb",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ac555cff4fbf0001ab73eb",
+    "public_url": "https://insight.ubion.global/aenteuropig-opeunai-pentagon-gunsa-ai-pailreose-bongyeog-camyeo/",
+    "status": "published",
+    "published_at": "2026-03-07T16:42:04.000Z"
+  }
+}

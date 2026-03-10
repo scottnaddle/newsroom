@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Tech stocks today: Nvidia stops H200 chip production, Anthropic restarts talks with Pentagon",
+    "url": "https://finance.yahoo.com/news/live/tech-stocks-today-nvidia-stops-h200-chip-production-anthropic-restarts-talks-with-pentagon-135928945.html",
+    "source_name": "Yahoo Finance",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Nvidia is shifting H200 chip output as it transitions to newer architectures, Anthropic is restarting talks with the US military after the Pentagon's supply chain risk label dispute, and Apple is releasing new consumer gadgets. The article covers major tech stock movements driven by AI industry developments.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-08T01:04:00+09:00"
+  },
+  "digest": {
+    "headline": "엔비디아, H200 생산 중단하고 차세대 아키텍처 전환 본격화",
+    "lead": "엔비디아가 H200 GPU 칩 생산을 중단하고 차세대 아키텍처로의 전환을 본격화했다. AI 인프라 수요가 급증하는 가운데, 이번 전환은 데이터센터 시장과 AI 개발 생태계 전반에 영향을 미칠 전망이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">엔비디아가 H200 GPU 칩 생산을 중단하고 차세대 아키텍처로의 전환을 본격화했다. AI 인프라 수요가 급증하는 가운데, 이번 전환은 데이터센터 시장과 AI 개발 생태계 전반에 영향을 미칠 전망이다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">엔비디아의 H200은 H100의 후속 모델로, 대규모 언어모델(LLM) 훈련과 추론에 널리 사용돼 왔다. 그러나 엔비디아는 블랙웰(Blackwell) 등 차세대 아키텍처의 양산을 앞두고 H200 생산 라인을 전환하기로 결정했다. 이는 AI 반도체 시장의 세대 교체가 예상보다 빠르게 진행되고 있음을 보여준다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">H200 생산 중단으로 단기적으로는 중고 시장에서의 가격 변동과 일부 기업들의 조달 전략 수정이 불가피할 것으로 보인다. 차세대 칩이 성능 대비 비용 효율을 크게 개선한다면, AI 스타트업과 중소 기업의 고성능 컴퓨팅 접근성이 오히려 높아질 수 있다. 한편 클라우드 서비스 기업들의 인프라 투자 방향에도 영향을 줄 전망이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">차세대 GPU의 성능·효율 개선은 에듀테크 스타트업이 자체 AI 모델을 훈련하거나 맞춤형 교육 AI를 구축하는 비용을 낮출 수 있다. 특히 소규모 교육 기관에서도 로컬 AI 추론 인프라를 도입할 수 있는 가능성이 열리며, 클라우드 의존도를 줄인 개인화 학습 시스템 구축이 현실적인 선택지가 될 전망이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://finance.yahoo.com/news/live/tech-stocks-today-nvidia-stops-h200-chip-production-anthropic-restarts-talks-with-pentagon-135928945.html\" style=\"color:#FF6B35;text-decoration:none;\">Yahoo Finance</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "엔비디아 H200 생산 중단, 차세대 아키텍처 전환 본격화",
+    "meta_description": "엔비디아가 H200 GPU 칩 생산을 중단하고 블랙웰 등 차세대 아키텍처 전환을 본격화. AI 인프라 시장과 에듀테크 분야에 미치는 영향을 분석한다.",
+    "word_count": 530
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-08T01:04:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-08T01:19:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T16:42:14.868Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ac555dff4fbf0001ab73f1",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ac555dff4fbf0001ab73f1",
+    "public_url": "https://insight.ubion.global/enbidia-h200-saengsan-jungdanhago-casedae-akitegceo-jeonhwan-bongyeoghwa/",
+    "status": "published",
+    "published_at": "2026-03-07T16:42:05.000Z"
+  }
+}

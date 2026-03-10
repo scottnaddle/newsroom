@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "OpenAI Raises $110 Billion Amid Speculation on AI Bubble and Musk's Legal Battle",
+    "url": "https://quasa.io/media/openai-raises-110-billion-amid-speculation-on-ai-bubble-and-musk-s-legal-battle",
+    "source_name": "Quasa.io",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "OpenAI secured a historic $110 billion investment at a $730 billion pre-money valuation from Amazon ($50B), Nvidia ($30B), and SoftBank ($30B). Amazon gains exclusive third-party cloud distribution rights for OpenAI's Frontier models via AWS, with a $100 billion cloud contract. Musk's trial is set for April 2026.",
+    "published_date": "2026-03-08",
+    "collected_at": "2026-03-09T10:16:00+09:00"
+  },
+  "digest": {
+    "headline": "OpenAI, 1100억 달러 사상 최대 투자 유치… 기업가치 8400억 달러 돌파",
+    "lead": "OpenAI가 아마존(500억 달러), 엔비디아(300억 달러), 소프트뱅크(300억 달러)로부터 총 1100억 달러의 역대 최대 규모 투자를 유치했다. 기업가치는 8400억 달러에 달하며, 아마존은 AWS를 통한 OpenAI 프론티어 모델 독점 배포권과 1000억 달러 규모 클라우드 계약을 확보했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">OpenAI가 아마존(500억 달러), 엔비디아(300억 달러), 소프트뱅크(300억 달러)로부터 총 1100억 달러의 역대 최대 규모 투자를 유치했다. 기업가치는 8400억 달러에 달하며, 아마존은 AWS를 통한 OpenAI 프론티어 모델 독점 배포권과 1000억 달러 규모 클라우드 계약을 확보했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">이번 투자는 단순한 현금 출자가 아니라 상당 부분이 컴퓨팅 리소스로 구성되어 있다. 아마존은 초기 150억 달러를 투입하고, 나머지 350억 달러는 OpenAI가 AGI 달성 또는 IPO를 완료하는 조건으로 집행된다. 엔비디아 역시 차세대 루빈(Rubin) 아키텍처에 5GW 규모의 컴퓨팅 파워 배치를 약속받았으며, 이는 약 500만 가구에 전력을 공급할 수 있는 수준이다. 한편 기존 최대 후원사였던 마이크로소프트는 이번 라운드에 불참해 양사 간 긴장 관계가 부각되고 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">OpenAI는 2030년까지 6000억 달러 규모의 컴퓨팅 투자를 목표로 하고 있어, AI 인프라 경쟁이 본격적인 '에너지 전쟁' 양상으로 전환되고 있다. 동시에 공동창업자 일론 머스크가 비영리 설립 취지 위반을 주장하며 최대 1345억 달러의 손해배상을 청구한 소송이 2026년 4월 재판을 앞두고 있어, 사상 최대 투자 유치의 이면에 법적 리스크가 공존하는 상황이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">아마존이 AWS를 통한 OpenAI 모델 독점 배포권을 확보하면서, 교육 기관과 에듀테크 기업들이 최신 AI 모델에 접근하는 경로가 AWS 중심으로 재편될 가능성이 높다. 클라우드 인프라 비용 구조 변화는 AI 기반 학습 플랫폼의 운영 비용에 직접적 영향을 미치며, 중소 에듀테크 스타트업의 모델 선택지와 비용 전략에 중요한 변수가 될 전망이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://quasa.io/media/openai-raises-110-billion-amid-speculation-on-ai-bubble-and-musk-s-legal-battle\" style=\"color:#FF6B35;text-decoration:none;\">Quasa.io</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "openai",
+      "technology"
+    ],
+    "meta_title": "OpenAI 1100억 달러 사상 최대 투자 유치, 기업가치 8400억 달러",
+    "meta_description": "OpenAI가 아마존·엔비디아·소프트뱅크로부터 1100억 달러를 유치하며 기업가치 8400억 달러를 기록했다. 아마존은 AWS 독점 배포권을 확보하고 마이크로소프트는 불참해 AI 인프라 경쟁 구도가 재편되고 있다.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T10:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T10:45:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T01:58:24.814Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae2940ff4fbf0001ab7751",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae2940ff4fbf0001ab7751",
+    "public_url": "https://insight.ubion.global/openai-1100eog-dalreo-sasang-coedae-tuja-yuci-gieobgaci-8400eog-dalreo-dolpa/",
+    "status": "published",
+    "published_at": "2026-03-09T01:58:24.000Z"
+  }
+}

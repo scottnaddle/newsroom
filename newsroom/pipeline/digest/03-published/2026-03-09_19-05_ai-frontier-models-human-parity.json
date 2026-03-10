@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "When Will AI Beat Humans at Office Work? (The OWCI Index)",
+    "url": "https://www.bionic-ads.com/2026/03/when-will-ai-beat-humans-at-office-work-the-owci-index/",
+    "source_name": "Bionic Ads",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "Analysis of the Office Work Capability Index (OWCI) indicates that frontier AI models are projected to reach human-expert parity by late 2026, with broader frontier models converging toward human capability around 2027. This benchmark tracks AI advancement in professional office tasks.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-09T10:05:40Z"
+  },
+  "digest": {
+    "headline": "AI가 2026년 말 인간 전문가 수준 도달, OWCI 인덱스 분석",
+    "lead": "광고 에이전시 분석 기관이 개발한 '사무실 업무 능력 지수(OWCI)'에 따르면, 최신 AI 모델들이 2026년 말 인간 전문가 수준에 도달할 것으로 예상된다. 2027년에는 더 많은 AI 모델이 이 기준에 도달할 전망이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">광고 에이전시 분석 기관이 개발한 '사무실 업무 능력 지수(OWCI)'에 따르면, 최신 AI 모델들이 2026년 말 인간 전문가 수준에 도달할 것으로 예상된다. 2027년에는 더 많은 AI 모델이 이 기준에 도달할 전망이다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">OWCI는 기존의 GDPval(경제적 가치를 지닌 실무 작업), GAIA(다단계 워크플로우), MMLU(지식 및 추론), SWE-Bench(문제해결) 등 분산된 벤치마크 데이터를 0~100 범위의 단일 지표로 통합한 것이다. 100은 인간 전문가 수준의 사무 업무 능력을 의미한다. 2024년 이후 AI 모델들은 '보조 도구'에서 '신입 지식근로자' 수준으로 도약했고, 2026년 현재는 '유능한 전문가' 수준에 가까워지고 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">OWCI에 따르면 현재 AI 모델들은 이미 사무 업무의 70~80대 수준에서 작동 중이다. 이는 AI가 문서 요약, 메모 작성, 데이터 추출, 스프레드시트 생성, 초안 분석 등 구조화된 업무를 담당할 수 있다는 뜻이다. 향후 12~24개월 동안 '첫 번째 미디어 배치안 작성', '예산 페이싱 분석', '회의 노트 추출' 같은 작업이 자동화될 가능성이 높다. 다만 벤치마크 달성이 실제 경제 전환을 의미하지는 않으며, 현장에서는 여전히 인간과 AI의 협업이 진행될 것으로 예상된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">이 분석은 교육 현장과 에듀테크 영역에도 중요한 시사점을 제시한다. AI가 채점, 과제 피드백, 학습 진도 분석, 교육 자료 정리 등 구조화된 교육 행정 업무에서 전문가 수준의 능력을 갖춰가고 있다는 의미다. 향후 에듀테크 스타트업과 교육기관들은 AI가 자동화할 수 있는 업무(행정, 보조)와 인간 교사가 지켜야 할 영역(학생 상담, 판단, 창의성 지도)을 명확히 구분하고, 이를 교육 시스템에 통합하는 것이 경쟁력의 핵심이 될 것이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.bionic-ads.com/2026/03/when-will-ai-beat-humans-at-office-work-the-owci-index/\" style=\"color:#FF6B35;text-decoration:none;\">Bionic Ads</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "research"
+    ],
+    "meta_title": "AI가 2026년 말 인간 전문가 수준 도달, OWCI 인덱스",
+    "meta_description": "사무실 업무 능력 지수(OWCI) 분석. AI 모델들이 2026년 말 인간 전문가 수준에 도달할 것으로 예상. 에듀테크와 교육 현장에 미치는 영향 분석.",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T10:05:40Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T19:15:30Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T10:32:08.325Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aea1a2ff4fbf0001ab797f",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aea1a2ff4fbf0001ab797f",
+    "public_url": "https://insight.ubion.global/aiga-2026nyeon-mal-ingan-jeonmunga-sujun-dodal-owci-indegseu-bunseog/",
+    "status": "published",
+    "published_at": "2026-03-09T10:32:08.325Z"
+  }
+}

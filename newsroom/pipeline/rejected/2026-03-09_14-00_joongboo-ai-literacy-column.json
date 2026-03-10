@@ -1,0 +1,86 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.joongboo.com/news/articleView.html?idxno=363719009",
+    "title": "[기자메모] 바보상자와 스마트폰, 그리고 인공지능 — AI 리터러시 교육의 필요성",
+    "snippet": "AI 교육과 인재 양성만큼이나 인공지능의 위험성에 대한 리터러시 교육이 필수적이며, 관련 정책적 고민이 시급하다는 칼럼.",
+    "published_date": "2026-03-09"
+  },
+  "relevance_score": 65,
+  "tags": [
+    "opinion",
+    "ai-literacy",
+    "korea",
+    "policy"
+  ],
+  "collected_at": "2026-03-09T05:00:00.000Z",
+  "editor_note": "중부일보 기자메모. AI 리터러시 교육 필요성 칼럼. 오피니언.",
+  "priority": "low",
+  "assigned_at": "2026-03-09T05:37:48.515403Z",
+  "reported_at": "2026-03-09T05:41:00.000Z",
+  "reporting_brief": {
+    "who": "이성관 중부일보 사회부 기자",
+    "what": "TV(바보상자)→스마트폰→AI로 이어지는 기술 전환기에서 AI 리터러시 교육의 사전적 필요성 주장.",
+    "why": "6·3 지방선거를 앞두고 경기도교육감 후보들의 AI 공약 편중 문제 지적.",
+    "when": "2026년 3월 9일",
+    "context": "스마트폰 중독이 도파민 과다분비로 두뇌 발달 저하 — AI도 유사한 위험.",
+    "sources": [
+      {
+        "url": "https://www.joongboo.com/news/articleView.html?idxno=363719009",
+        "type": "primary",
+        "reliability": "medium"
+      },
+      {
+        "url": "https://www.moe.go.kr/upload/filedown/2026_business_plan_press_release.pdf",
+        "type": "official",
+        "reliability": "high"
+      },
+      {
+        "url": "https://www.yna.co.kr/view/AKR20260309049000530",
+        "type": "related",
+        "reliability": "high"
+      }
+    ],
+    "perspectives": {
+      "opinion": "기술 도입 공약과 기술 위험성 교육 공약의 균형 필요.",
+      "government": "교육부 AI 중점학교 정책에 AI 윤리교육 강화 포함되어 있으나 구체화 과제.",
+      "society": "허위정보, 딥페이크, AI 범죄 등 사회적 위험에 대한 사전 교육 부재 우려."
+    },
+    "suggested_angle": "AI 리터러시 교육의 정책 사각지대 — 6·3 교육감 선거 공약 분석."
+  },
+  "drafted_at": "2026-03-09T06:45:00.000Z",
+  "draft": {
+    "headline": "바보상자에서 AI까지 — 교육감 후보들이 외면한 'AI 리터러시'의 사각지대",
+    "subheadline": "6·3 지방선거 앞두고 AI 도입 공약은 넘치는데, AI 위험성 교육 공약은 '제로'",
+    "html": "<div style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;font-size:17px;line-height:1.9;color:#1a202c\">\n\n<div style=\"border-left:4px solid #7c3aed;background:#f8f9ff;padding:20px 24px;margin-bottom:32px;border-radius:0 8px 8px 0\">\n<p style=\"font-size:18px;margin:0;color:#5b21b6\">TV가 '바보상자'라 불리던 시절, 우리는 뒤늦게 미디어 리터러시를 고민했다. 스마트폰이 왔을 때도 중독 대책은 보급 이후에야 나왔다. 이제 AI 시대다. 경기도교육감 후보들의 공약엔 'AI 교육'과 'AI 인재 양성'이 넘쳐나지만, 정작 AI의 위험성을 가르치겠다는 공약은 찾기 어렵다.</p>\n</div>\n\n<figure class=\"kg-card kg-image-card kg-width-full\">\n<img src=\"https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&q=80\" alt=\"교실에서 디지털 기기를 사용하는 학생들\" style=\"width:100%;border-radius:8px\">\n<figcaption style=\"text-align:center;font-size:14px;color:#94a3b8;margin-top:8px\">AI 도입이 빨라질수록 리터러시 교육의 공백도 커지고 있다 | Unsplash</figcaption>\n</figure>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">세 번째 반복되는 실수 — 기술은 먼저, 교육은 나중</h2>\n<p>중부일보 이성관 기자는 오늘(3월 9일) 기자메모를 통해 한국 사회가 기술 전환기마다 반복해온 실수를 지적했다. TV 시대에는 '바보상자'라는 조롱만 있었지 체계적인 미디어 교육은 없었다. 스마트폰이 보급된 뒤에야 청소년 스마트폰 중독이 사회 문제로 떠올랐고, 도파민 과다분비로 인한 두뇌 발달 저하가 보고됐다.</p>\n<p>AI도 같은 경로를 밟고 있다. AI가 허위정보를 생성하고, 딥페이크로 범죄에 가담하고, 부적절한 콘텐츠를 무차별적으로 생산하는 사례가 이미 보고되고 있지만, 이에 대한 사전 교육은 거의 전무하다. 이 기자는 \"기술의 '긍정적 면'만 강조하는 정책 편향이 세 번째로 반복되고 있다\"고 비판했다.</p>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">교육감 공약의 불균형 — 도입은 있고 안전은 없다</h2>\n<p>6·3 지방선거를 앞두고 경기도교육감 후보들은 앞다퉈 AI 관련 공약을 내놓고 있다. AI 교육 확대, AI 인재 양성, AI 교실 구축 등 도입과 활용에 초점을 맞춘 공약이 대부분이다. 하지만 AI의 위험성을 이해하고 비판적으로 활용하는 능력 — 이른바 AI 리터러시 — 을 체계적으로 교육하겠다는 공약은 사실상 부재하다.</p>\n<p>교육부는 2026년 업무계획에서 AI 중점학교 정책에 AI 윤리교육 강화를 포함시켰다. 그러나 '윤리교육 강화'라는 문구와 실제 교실에서 작동하는 리터러시 교육 사이에는 큰 간극이 있다. 구체적인 커리큘럼도, 이를 가르칠 교원의 역량 체계도 아직 마련되지 않은 상태다.</p>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">리터러시는 사후 대책이 아니라 사전 설계여야 한다</h2>\n<p>AI 리터러시는 단순히 AI를 잘 사용하는 기술이 아니다. AI가 생성한 정보를 비판적으로 검증하는 능력, AI의 한계와 편향을 이해하는 능력, AI가 사회에 미치는 영향을 판단하는 능력을 포함한다. 이는 마치 운전면허를 따기 전에 교통법규를 배우는 것과 같다.</p>\n<p>허위정보에 무방비로 노출된 세대, 딥페이크를 분별하지 못하는 시민, AI 출력을 무비판적으로 수용하는 학생 — 이런 미래를 원하는 교육감 후보는 없을 것이다. 그러나 이를 막기 위한 구체적 공약이 없다면, 결과는 바보상자 시대와 다르지 않을 수 있다.</p>\n<p>기술 도입의 속도만큼 리터러시 교육의 밀도도 높아져야 한다. AI 시대의 진짜 교육 공약은 \"AI를 가르치겠다\"가 아니라 \"AI를 제대로 이해하게 하겠다\"가 되어야 한다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0;margin-top:40px;padding-top:20px\">\n<p style=\"font-size:15px;font-weight:600;color:#7c3aed;margin-bottom:12px\">📎 참고자료</p>\n<ol style=\"font-size:15px;color:#475569;padding-left:20px\">\n<li><a href=\"https://www.joongboo.com/news/articleView.html?idxno=363719009\" style=\"color:#7c3aed\">중부일보 — [기자메모] 바보상자와 스마트폰, 그리고 인공지능</a></li>\n<li><a href=\"https://www.moe.go.kr/upload/filedown/2026_business_plan_press_release.pdf\" style=\"color:#7c3aed\">교육부 — 2026 업무계획 보도자료</a></li>\n<li><a href=\"https://www.yna.co.kr/view/AKR20260309049000530\" style=\"color:#7c3aed\">연합뉴스 — 교육부 AI 중점학교 정책</a></li>\n</ol>\n</div>\n\n<p style=\"font-size:13px;color:#cbd5e1;margin-top:32px;text-align:center\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>",
+    "ghost_tags": [
+      "AI리터러시",
+      "교육정책",
+      "교육감선거",
+      "오피니언"
+    ],
+    "references": [
+      "https://www.joongboo.com/news/articleView.html?idxno=363719009",
+      "https://www.moe.go.kr/upload/filedown/2026_business_plan_press_release.pdf",
+      "https://www.yna.co.kr/view/AKR20260309049000530"
+    ],
+    "word_count": 750,
+    "category": "opinion"
+  },
+  "fact_checked_at": "2026-03-09T06:54:34.266Z",
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "본문 1465자 (1600자 미만)"
+  },
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  }
+}

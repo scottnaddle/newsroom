@@ -1,0 +1,74 @@
+{
+  "timestamp": "2026-03-06T04:46:00+09:00",
+  "checkpoint": "editor-desk-cron-run",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "status": "cleared"
+    },
+    "02_assigned": {
+      "total": 4,
+      "high_priority": 3,
+      "normal_priority": 1,
+      "breakdown": [
+        {
+          "id": "2026-03-06_0437_lg-ai-graduate-school",
+          "title": "LG, 교육부 공식 인가 'LG AI대학원' 마곡 캠퍼스 개원",
+          "priority": "high",
+          "relevance_score": 83
+        },
+        {
+          "id": "2026-03-06_0437_moe-ai-ethics-guideline",
+          "title": "교육부 '대학 AI 윤리' 지침",
+          "priority": "high",
+          "relevance_score": 85
+        },
+        {
+          "id": "2026-03-06_0437_moe-ai-ethics-roundtable",
+          "title": "대학 AI 윤리 지침 마련을 위한 간담회",
+          "priority": "normal",
+          "relevance_score": 78
+        },
+        {
+          "id": "2026-03-06_0437_seoul-ai-education-guideline",
+          "title": "서울시교육청 'AI·에듀테크 공교육 도입 및 활용 가이드라인'",
+          "priority": "high",
+          "relevance_score": 88
+        }
+      ]
+    },
+    "03_reported": {
+      "total": 0
+    },
+    "04_drafted": {
+      "total": 0
+    },
+    "05_fact_checked": {
+      "total": 0
+    },
+    "06_desk_approved": {
+      "total": 0
+    },
+    "07_copy_edited": {
+      "total": 0
+    },
+    "08_published": {
+      "total": 88,
+      "recent_7_days": "many"
+    },
+    "rejected": {
+      "total": 51,
+      "recent": "various quality issues"
+    }
+  },
+  "summary": {
+    "status": "healthy",
+    "bottleneck": "02-assigned → 03-reported (writer pickup 대기)",
+    "action_items": [
+      "4개 고우선 기사 → writer 즉시 실행",
+      "교육정책 트렌드: LG AI대학원 + 교육부 윤리 지침 + 서울시 가이드라인 = 3중 정책 발표",
+      "관련성 높은 기사 조합 (연관 취재 기회)"
+    ],
+    "recent_activity": "01-sourced → 02-assigned로 4개 기사 배정 완료"
+  }
+}

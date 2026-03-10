@@ -1,0 +1,31 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://view.asiae.co.kr/en/article/2026030310240827561",
+    "title": "Hwang Hyuna Publishes AI Career Counseling Paper in KCI Journal",
+    "snippet": "Korea University of Technology and Education researcher publishes AI career counseling paper.",
+    "published_date": "2026-03-03"
+  },
+  "relevance_score": 55,
+  "tags": [
+    "research",
+    "edtech"
+  ],
+  "collected_at": "2026-03-08T00:16:46.903Z",
+  "reject_reason": "low-value: 점수 55, 개인 연구 논문, 대중 뉴스 가치 부족",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

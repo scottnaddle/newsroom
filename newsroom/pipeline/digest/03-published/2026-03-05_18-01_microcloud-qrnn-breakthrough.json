@@ -1,0 +1,48 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "MicroCloud Hologram Inc. Achieves Breakthrough in Practically Deployable Quantum Recurrent Neural Network (QRNN) Technology Oriented Toward Sequential Learning",
+    "url": "https://www.prnewswire.com/news-releases/microcloud-hologram-inc-achieves-breakthrough-in-practically-deployable-quantum-recurrent-neural-network-qrnn-technology-oriented-toward-sequential-learning-302704102.html",
+    "source_name": "PR Newswire",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "MicroCloud Hologram Inc. announced a significant breakthrough in quantum machine learning technology with a practical quantum recurrent neural network (QRNN) system designed for sequential learning applications. This addresses a long-standing gap in applying quantum computing to real-world sequential data scenarios, with researchers systematically reexamining quantum RNN construction logic to enable practical deployment.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-05T18:01:00Z"
+  },
+  "digest": {
+    "headline": "양자 순환신경망(QRNN) 실용화 기술 공개... 시계열 예측 성능 우수",
+    "lead": "MicroCloud Hologram Inc.가 순차 학습을 위한 실용적인 양자 머신러닝 기술인 양자 순환신경망(QRNN)을 공개했다. 현재 양자 컴퓨팅 하드웨어(NISQ)의 제약을 고려해 설계된 이 기술은 시계열 분류·추세 예측·변화 감지에서 기존 신경망보다 우수한 성능을 입증했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">MicroCloud Hologram Inc.가 순차 학습을 위한 실용적인 양자 머신러닝 기술인 양자 순환신경망(QRNN)을 공개했다. 현재 양자 컴퓨팅 하드웨어의 제약을 고려해 설계된 이 기술은 시계열 분류·추세 예측에서 기존 신경망보다 우수한 성능을 입증했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">양자 신경망은 양자 컴퓨팅과 인공지능을 연결하는 중요한 기술로 평가받아 왔다. 양자의 중첩과 얽힘을 활용하면 제한된 매개변수 규모에서도 더 복잡한 함수 구조를 표현할 수 있다는 장점이 있다. 하지만 시계열 데이터 같은 순차 모델링 분야에서는 '기억'과 '시간 종속성' 같은 핵심 메커니즘을 양자 프레임워크에 효과적으로 적용할 표준화된 방법이 부족했다. 이로 인해 양자 머신러닝의 실제 활용이 제한돼 왔다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">MicroCloud Hologram은 양자 순환 블록(QRB)을 기본 모듈로 설계해 이 문제를 해결했다. QRB는 모듈화·반복성·낮은 코히어런스 시간 소비라는 원칙을 따르며, 현재 초전도 및 이온 트랩 양자 컴퓨팅 플랫폼의 제약을 철저히 고려해 설계됐다. 특히 양자 블록을 시간과 특성 차원에 걸쳐 인터리브 방식으로 중첩하면 회로 깊이를 획기적으로 줄일 수 있다. 전문가들은 양자 하드웨어가 계속 진화할수록 이 기술이 머신러닝 분야에서 양자 우월성을 달성할 첫 모델 중 하나가 될 것으로 기대하고 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">이 기술은 교육 AI 애플리케이션에 중요한 영향을 미칠 수 있다. 학생 학습 궤적 분석, 개별화 학습 추천, 시계열 교육 데이터 패턴 인식 등 순차 학습이 필요한 에듀테크 서비스에 양자 머신러닝을 적용하면, 기존 방식보다 훨씬 정확하고 효율적인 교육 시스템을 구축할 수 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.prnewswire.com/news-releases/microcloud-hologram-inc-achieves-breakthrough-in-practically-deployable-quantum-recurrent-neural-network-qrnn-technology-oriented-toward-sequential-learning-302704102.html\" style=\"color:#FF6B35;text-decoration:none;\">PR Newswire</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": ["ai-digest", "ai", "technology", "research"],
+    "meta_title": "양자 순환신경망 기술 공개... 에듀테크 적용 가능성 높아",
+    "meta_description": "MicroCloud가 양자 머신러닝 기술 QRNN 공개. 시계열 예측에서 기존 신경망 능가. 학생 학습 분석·개별화 추천 등 에듀테크 활용 전망.",
+    "word_count": 498
+  },
+  "publish_result": {
+    "ghost_post_id": "69a94c7ae2eb440001d55f9e",
+    "ghost_editor_url": "https://ubion.ghost.io/ghost/#/editor/post/69a94c7ae2eb440001d55f9e",
+    "public_url": "https://insight.ubion.global/yangja-sunhwansingyeongmang-qrnn-silyonghwa-gisul-gonggae-sigyeyeol-yeceug-seongneung-usu/",
+    "status": "published",
+    "published_at": "2026-03-05T09:27:22.000Z",
+    "feature_image": "https://images.unsplash.com/photo-1576671081837-49000212a370?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-05T18:01:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T21:02:46Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T09:27:22Z"
+    }
+  ]
+}

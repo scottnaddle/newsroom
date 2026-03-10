@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Global chip sales rise at start of 2026",
+    "url": "https://www.scitechtimes.com/global-chip-sales-rise-at-start-of-2026/",
+    "source_name": "Science and Technology Times",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "Global semiconductor sales reached $82.5 billion in January 2026, up 3.7% from December and 46.1% year-over-year from $56.5B in January 2025, according to SIA data. Asia Pacific and China were key contributors. Industry forecasts suggest the global chip market could approach $1 trillion in 2026, driven by demand for AI accelerators, data centers, and automotive systems.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-09T12:01:00+09:00"
+  },
+  "digest": {
+    "headline": "2026년 글로벌 반도체 매출 825억 달러로 출발, 전년비 46% 급증",
+    "lead": "2026년 1월 글로벌 반도체 매출이 825억 달러를 기록하며 전년 동기 대비 46.1% 증가했다. 반도체산업협회(SIA) 데이터에 따르면 아시아태평양과 중국이 성장을 주도했으며, 업계는 올해 반도체 시장이 1조 달러에 근접할 것으로 전망한다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">2026년 1월 글로벌 반도체 매출이 825억 달러를 기록하며 전월 대비 3.7%, 전년 동기 대비 46.1% 증가했다. 아시아태평양(82.4% 증가)과 중국(47% 증가)이 성장을 주도했으며, 업계는 올해 전체 반도체 시장 규모가 1조 달러에 근접할 것으로 내다보고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">반도체산업협회(SIA)가 발표한 세계반도체무역통계기구(WSTS) 데이터에 따르면 2026년 1월 글로벌 칩 매출은 825억 달러로 2025년 말의 성장세를 이어갔다. 지역별로는 아시아태평양이 전년비 82.4%로 가장 높은 성장률을 보였고, 중국 47%, 미주 34.9%, 유럽 26.1% 순이었다. 반면 일본은 6.2% 감소해 유일하게 역성장을 기록했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">SIA 존 뉴퍼(John Neuffer) 회장은 2025년 기록적 실적에 이어 올해도 강세가 이어질 것으로 전망했다. AI 가속기, 데이터센터, 자동차 시스템에 대한 수요가 시장을 견인하고 있다. 다만 글로벌 수요 변동과 지정학적 리스크, 공급망 안정성이 연간 실적을 좌우할 변수로 남아있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">반도체 시장의 급성장은 AI 칩 공급 확대와 직결되며, 이는 교육용 AI 서비스의 인프라 비용 하락으로 이어질 수 있다. 특히 아시아 중심의 칩 생산 확대는 국내 에듀테크 기업이 AI 하드웨어에 접근하는 비용과 속도에 긍정적 영향을 줄 전망이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.scitechtimes.com/global-chip-sales-rise-at-start-of-2026/\" style=\"color:#FF6B35;text-decoration:none;\">Science and Technology Times</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "글로벌 반도체 매출 825억 달러, 전년비 46% 급증으로 2026년 출발",
+    "meta_description": "2026년 1월 글로벌 반도체 매출 825억 달러 기록, 전년비 46.1% 증가. 아시아태평양·중국 주도, 연간 시장 1조 달러 근접 전망.",
+    "word_count": 510,
+    "feature_image": "https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T12:01:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T12:15:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T03:31:10.251Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae3efeff4fbf0001ab77a2",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae3efeff4fbf0001ab77a2",
+    "public_url": "https://insight.ubion.global/2026nyeon-geulrobeol-bandoce-maecul-825eog-dalreoro-culbal-jeonnyeonbi-46-geubjeung/",
+    "status": "published",
+    "published_at": "2026-03-09T03:31:10.000Z"
+  }
+}

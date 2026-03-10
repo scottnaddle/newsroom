@@ -1,0 +1,89 @@
+{
+  "timestamp": "2026-03-05T09:44:18.833Z",
+  "execution_time": "2026-03-05T18:42Z",
+  "editor": "editor-desk",
+  "status": "COMPLETED",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "processed": 1,
+      "remaining": 0,
+      "note": "ALL PROCESSED"
+    },
+    "02_assigned": {
+      "total": 1,
+      "note": "Writer 처리 대기중"
+    },
+    "03_reported": {
+      "total": 0,
+      "note": "Reporter 처리 중"
+    },
+    "04_drafted": {
+      "total": 0,
+      "note": "Writer 초안 작성 중"
+    },
+    "05_fact_checked": {
+      "total": 0,
+      "processed": 1,
+      "remaining": 0,
+      "note": "ALL PROCESSED (89점 APPROVE)"
+    },
+    "06_desk_approved": {
+      "total": 0,
+      "processed": 1,
+      "remaining": 0,
+      "note": "STEP 3에서 처리됨"
+    },
+    "07_copy_edited": {
+      "total": 0,
+      "processed": 1,
+      "remaining": 0,
+      "note": "STEP 4에서 처리됨"
+    },
+    "08_published": {
+      "total": 70,
+      "added_this_run": 1,
+      "note": "Daily news pipeline"
+    },
+    "rejected": {
+      "total": 40,
+      "note": "Archive"
+    }
+  },
+  "action_summary": {
+    "step_1_sourced": {
+      "action": "신뢰도 85점 파일 1개 → 02-assigned/ (high priority)",
+      "status": "✅"
+    },
+    "step_2_fact_checked": {
+      "action": "신뢰도 89점 파일 1개 → 에디터 체크리스트 → 100점 APPROVE",
+      "status": "✅"
+    },
+    "step_3_desk_approved": {
+      "action": "06-desk-approved/ 1개 → 07-copy-edited/",
+      "status": "✅"
+    },
+    "step_4_copy_edited": {
+      "action": "07-copy-edited/ 1개 → 08-published/",
+      "status": "✅"
+    }
+  },
+  "bottleneck_analysis": {
+    "heaviest": "04_drafted (4개 파일)",
+    "reason": "Writer 병목 - 취재 완료 건들이 대기중",
+    "recommendation": "Writer 우선 실행 필요"
+  },
+  "quality_metrics": {
+    "approval_rate": "100% (1/1)",
+    "avg_editor_score": 100,
+    "flagged_items": 0,
+    "rejected_items": 0
+  },
+  "next_steps": [
+    "✅ 01-sourced/ 신규 파일: 02-assigned/로 라우팅 완료",
+    "✅ 05-fact-checked/ 신규 파일: 에디터 체크리스트 통과 → 08-published/로 라우팅",
+    "⏳ 02-assigned/ 파일: Writer의 03-reported/ 이동 대기",
+    "⏳ 04-drafted/ 파일 (4개): Writer의 초안 완성 대기",
+    "⏳ 신규 fact-check 파일 준비: fact-checker 대기"
+  ]
+}

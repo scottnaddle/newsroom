@@ -1,0 +1,65 @@
+{
+  "timestamp": "2026-03-05T18:12:00+09:00",
+  "report_type": "editor-desk-30min",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "status": "정리됨"
+    },
+    "02_assigned": {
+      "total": 1,
+      "status": "신규 배정 1개"
+    },
+    "03_reported": {
+      "total": 0,
+      "status": "정상"
+    },
+    "04_drafted": {
+      "total": 0,
+      "status": "정상"
+    },
+    "05_fact_checked": {
+      "total": 0,
+      "status": "정상"
+    },
+    "06_desk_approved": {
+      "total": 0,
+      "status": "대기 중"
+    },
+    "07_copy_edited": {
+      "total": 1,
+      "status": "신규 진입 1개 (패스트트랙)"
+    },
+    "08_published": {
+      "total": 68,
+      "status": "정상"
+    }
+  },
+  "actions_taken": {
+    "step1_sourced_routing": {
+      "action": "01-sourced 신뢰도 검사 → 02-assigned",
+      "files_processed": 1,
+      "result": "신뢰도 88점 기사 배정"
+    },
+    "step2_fact_checked_routing": {
+      "action": "05-fact-checked 신뢰도 검사 → 자동 라우팅",
+      "files_processed": 1,
+      "result": "신뢰도 93점 패스트트랙 → 07-copy-edited 직접 이동 (교열 스킵)"
+    },
+    "step3_desk_approved_promotion": {
+      "action": "06-desk-approved → 07-copy-edited",
+      "files_processed": 0,
+      "result": "대기 중"
+    },
+    "step4_copy_edited_promotion": {
+      "action": "07-copy-edited 완료파일 → 08-published",
+      "files_processed": 0,
+      "result": "진행 중"
+    }
+  },
+  "pipeline_health": {
+    "bottleneck": null,
+    "alert": "없음",
+    "notes": "파이프라인 정상 운영 중"
+  }
+}

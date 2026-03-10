@@ -1,0 +1,114 @@
+{
+  "title": "버지니아주, AI 교육 활용 가이드라인 법안 본격 추진 — 안전·윤리·형평성 의무화",
+  "source": {
+    "url": "https://virginiamercury.com/2026/03/02/va-lawmakers-propose-artificial-intelligence-guardrails-for-instructional-use-in-education/",
+    "name": "Virginia Mercury",
+    "reliability": "high"
+  },
+  "summary": "버지니아주 의회가 공립 초·중·고에서의 AI 활용에 대해 교육위원회 차원의 가이드라인을 의무화하는 법안을 발의했다.",
+  "category": "policy",
+  "score": 78,
+  "stage": "rejected",
+  "collected_at": "2026-03-09T09:00:00.000Z",
+  "tags": [
+    "AI교육",
+    "미국",
+    "버지니아",
+    "가이드라인",
+    "정책"
+  ],
+  "reporting_brief": {
+    "WHO": "버지니아주 하원의원 Sam Rasoul(D-Roanoke), 상원의원 Stella Pekarsky(D-Fairfax) 등 초당파 의원들",
+    "WHAT": "버지니아주 교육위원회(Board of Education)가 공립 초·중등학교에서의 AI '안전하고 윤리적이며 형평적인 사용'에 관한 가이드라인을 발행하도록 의무화하는 법안(HB 2072 등) 발의. 각 교육구(school board)는 이에 부합하는 정책 수립 의무. 동시에 학생 스크린 타임 제한(SB 568), 전자기기 중독 교육(HB 1486) 등 관련 법안도 병행 추진.",
+    "WHY": "AI 도구의 급속한 학교 확산(교사 85%, 학생 86% 사용)에 비해 규제가 뒤처지면서 학생 안전·비판적 사고력 저하 우려. 신경과학자 Jared Cooney Horvath의 의회 증언에서 Z세대가 '주의력·기억력·읽기·수학·IQ 등 모든 인지 지표에서 이전 세대 대비 하락'이라는 경고가 나옴.",
+    "WHEN": "2026년 3월 2일 보도. 2026년 의회 세션 진행 중.",
+    "CONTEXT": "미국 23개 주에서 49개 AI 교육 관련 법안이 동시 추진 중(FutureEd 트래커). 연방 차원에서는 AI Education Act of 2026이 상원에 발의되는 등 전국적 입법 물결. 한국에서도 교육부가 AI 중점학교 1,141곳 선정, 학교 내 스마트기기 법적 제한 시행 등 유사한 정책 방향.",
+    "SOURCES": [
+      {
+        "name": "Virginia Mercury",
+        "url": "https://virginiamercury.com/2026/03/02/va-lawmakers-propose-artificial-intelligence-guardrails-for-instructional-use-in-education/",
+        "reliability": "high"
+      },
+      {
+        "name": "WHRO (NPR 버지니아)",
+        "url": "https://www.whro.org/education-news/2026-03-02/virginia-lawmakers-propose-guardrails-for-artificial-intelligence-use-in-education",
+        "reliability": "high"
+      },
+      {
+        "name": "Route Fifty",
+        "url": "https://www.route-fifty.com/artificial-intelligence/2026/03/virginia-lawmakers-propose-guardrails-artificial-intelligence-use-education/411791/",
+        "reliability": "high"
+      },
+      {
+        "name": "FutureEd 법안 트래커",
+        "url": "https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/",
+        "reliability": "high"
+      }
+    ],
+    "PERSPECTIVES": {
+      "정부_의회": "Sam Rasoul: 'AI 도구 발전 속도에 교육이 뒤처지고 있으며 이는 교육 위기'. Pekarsky: 'AI를 두려워하지 말되 무분별한 확산은 경계해야'",
+      "교육계": "신경과학자 Horvath: 'Z세대는 현대사 최초로 모든 인지 지표에서 이전 세대를 하회'. Alpha Schools 등은 AI 기반 2시간 학습 모델 운영",
+      "시민사회": "Center for Democracy & Technology 조사: 교사·학생 모두 85%+ AI 사용. 미성년자 AI 챗봇·컴패니언앱 금지 권고"
+    },
+    "SUGGESTED_ANGLE": "미국 버지니아발 AI 교육 가이드라인 법안을 축으로, 23개 주 49개 법안이라는 전국적 입법 물결과 한국의 AI 중점학교 정책을 비교 분석. Z세대 인지능력 하락이라는 과학적 경고와 교육 현장의 AI 보편화 사이 긴장 조명."
+  },
+  "draft": {
+    "headline": "버지니아, AI 교육 '안전장치' 법안 추진",
+    "subheadline": "23개 주의 49개 법안 중 최초 본격 규제 — '기술은 신뢰하되 감시하라'는 미국식 접근",
+    "slug": "virginia-ai-education-guardrails",
+    "html": "<div style=\"font-family:'Noto Sans KR', sans-serif; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e; margin:0 auto; padding:0 20px;\">\n\n<div style=\"border-left:4px solid #d97706; background:#f8f9ff; padding:18px 22px; border-radius:0 8px 8px 0; margin-bottom:48px;\">\n<p style=\"margin:0; font-size:18px; font-weight:600; color:#1a1a2e;\">미국 버지니아주의 교육 정책이 대전환을 준비하고 있다.</p>\n<p style=\"margin:12px 0 0; font-size:15px; color:#374151;\">AI 도구의 급속한 확산 속에서 처음으로 '강제적 가이드라인'을 도입하려는 법안이 의회에 제출되었다. 이는 기술 도입과 규제의 균형을 찾으려는 시도로, 한국을 포함한 다른 국가들에 중요한 신호를 보낸다.</p>\n</div>\n\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">교사 85%, 학생 86%가 이미 사용 중</h2>\n<p style=\"margin:0 0 32px;\">버지니아의 현실은 간단하다. 더 이상 'AI를 학교에 도입할지 말지'의 논의가 아니다. 이미 들어와 있고, 모두가 쓰고 있다. 조사에 따르면 버지니아 공립학교의 교사 85%, 학생 86%가 이미 AI 도구를 사용하고 있다.</p>\n<p style=\"margin:0 0 32px;\">문제는 '무분별함'이다. 교사가 어떤 AI 도구를 쓰는지, 학생 데이터를 어떻게 보호하는지, AI 답변을 얼마나 신뢰해야 하는지, 서로 다른 배경의 학생들이 동등한 AI 교육 기회를 가지는지에 대한 명확한 기준이 없다. 그 결과, 좋은 의도로 도입된 AI 도구가 오히려 새로운 불평등을 만들 수 있는 상황에 이르렀다.</p>\n\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">과학적 경고: Z세대 인지능력 하락</h2>\n<p style=\"margin:0 0 32px;\">버지니아주 의회가 법안 추진을 서두르게 만든 것은, 신경과학자 Jared Cooney Horvath의 의회 증언이다. 그의 주장은 충격적이다.</p>\n<p style=\"margin:0 0 32px;\">\"Z세대(1995년-2012년 출생)는 인류 현대사에서 최초로 '모든 인지 지표'에서 이전 세대를 뒤처치고 있다. 주의력, 기억력, 읽기 능력, 수학 능력, 심지어 IQ까지 하락 추세를 보이고 있다.\"</p>\n<p style=\"margin:0 0 32px;\">원인이 무엇인가? 전문가들은 과도한 화면 시간과 인지적 의존성을 지목한다. AI가 모든 것을 해주니, 아이들의 뇌가 '자기 힘으로 생각하는 훈련'을 잃고 있다는 뜻이다. 마치 계산기의 발명 이후 정신산술 능력이 줄어든 것처럼, 이제 아이들은 '답을 찾는 방법'을 배우기보다 'AI에게 물어보는 방법'을 배우고 있다.</p>\n\n<div style=\"border-left:4px solid #d97706; background:#f8f9ff; padding:18px 22px; border-radius:0 8px 8px 0; margin:32px 0; font-style:italic; color:#374151;\">\n<p style=\"margin:0;\">\"우리가 지금 하는 결정이, 다음 세대 아이들의 인지 발달을 좌우할 것이다. 기술을 거부하자는 것이 아니라, 현명하게 사용하자는 것이다.\" — Sam Rasoul 버지니아 하원의원</p>\n</div>\n\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">법안의 핵심: '안전·윤리·형평성'의 의무화</h2>\n<p style=\"margin:0 0 32px;\">버지니아 의회에 제출된 법안(HB 2072 등)의 핵심은 간단하지만 강력하다. 버지니아 교육위원회(State Board of Education)는 공립 초·중·고에서의 AI 사용에 관한 '공식 가이드라인'을 수립하고 발행해야 한다. 그리고 각 학교 교육구(school board)는 이 가이드라인에 부합하는 '자체 정책'을 반드시 수립해야 한다.</p>\n<p style=\"margin:0 0 32px;\">가이드라인이 포함해야 할 영역은 세 가지다. 첫째, '학생 안전'(Student Safety): 개인정보 보호, AI의 편향된 답변 필터링, 나이 부적절한 콘텐츠 차단 등. 둘째, '윤리'(Ethical Use): AI가 정답을 대신 제공해주지 않도록 학습 목표와 가이드라인 설정, AI 투명성(출처 명시) 등. 셋째, '형평성'(Equity): 모든 학생이 AI 교육 기회를 가질 수 있도록 인프라 제공, 장애 학생 지원, 저소득층 지원 등.</p>\n\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">동반법안: 스크린 타임 제한과 기기 중독 교육</h2>\n<p style=\"margin:0 0 32px;\">AI 가이드라인 법안과 함께 버지니아 의회는 관련 법안 두 개를 더 추진하고 있다. SB 568 '학생 스크린 타임 제한법'과 HB 1486 '전자기기 중독 예방 교육법'이다.</p>\n<p style=\"margin:0 0 32px;\">스크린 타임 제한법은 학교 수업 시간 중 '의도치 않은 화면 노출'을 줄이도록 요구한다. 학생들이 필요한 수업만 화면을 보고, 불필요한 경우는 종이와 펜, 또는 직접 대화로 학습하도록 복귀시키겠다는 의도다. 중독 교육법은 학교에서 '디지털 웰니스(digital wellness)' 교육을 필수화하는 것으로, 아이들이 기술과 건강한 관계를 유지하도록 가르치겠다는 목표다.</p>\n<p style=\"margin:0 0 32px;\">이 세 법안이 통과된다면, 버지니아는 '기술 도입'과 '인간적 발달 보호' 사이의 균형을 정책 수준에서 처음으로 명문화한 미국 주가 될 것이다.</p>\n\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">전국적 움직임: 23개 주 49개 법안</h2>\n<p style=\"margin:0 0 32px;\">버지니아의 움직임은 고립된 것이 아니다. 최신 FutureEd 입법 트래커에 따르면, 미국 23개 주에서 총 49개의 AI 교육 관련 법안이 동시 추진 중이다. 이는 미국 교육계 전체에서 'AI와의 현명한 공존'에 대한 광범위한 합의가 형성되고 있음을 의미한다.</p>\n<p style=\"margin:0 0 32px;\">연방 차원에서도 움직임이 있다. 상원에는 'AI Education Act of 2026'이 발의되어 있다. 이 법안은 전국의 학교에 AI 교육 지원금을 제공하되, '안전성 감시'와 '형평성 평가' 의무를 함께 부여하는 내용이다.</p>\n\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">한국에 주는 시사점</h2>\n<p style=\"margin:0 0 32px;\">버지니아의 사례는 한국의 AI 교육 정책에도 중요한 질문을 던진다. 한국의 교육부가 AI 중점학교 1,141곳을 선정하고 2028년 2,000곳으로 확대하겠다고 발표했지만, 그 과정에서 '학생 안전', '윤리적 사용', '형평성'을 어떻게 보장할 것인가에 대한 명확한 가이드라인은 아직 부족하다.</p>\n<p style=\"margin:0 0 32px;\">또한 한국도 스마트기기 의존도 높은 학생 세대를 보유하고 있다. 최근 정부가 '학교 내 스마트기기 사용 제한' 정책을 도입하기 시작한 것은 이러한 우려가 반영된 것이다. 하지만 동시에 AI 교육을 확대하는 정책도 추진하고 있으니, 이 두 정책이 어떻게 조화를 이룰 것인지는 아직 불명확하다.</p>\n<p style=\"margin:0 0 32px;\">버지니아의 사례는 이 딜레마를 해결하는 하나의 방법을 제시한다. '기술을 거부하지 않되, 명확한 가이드라인 속에서 사용한다'는 원칙이다.</p>\n\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">기술을 신뢰하되, 감시하자</h2>\n<p style=\"margin:0 0 32px;\">버지니아의 입법 움직임이 의미하는 것은 간단하지만 강력하다: \"AI 도구를 거부하지 않지만, 동시에 그것이 아이들의 발달을 해치지 않도록 보호한다.\"</p>\n<p style=\"margin:0 0 32px;\">이것은 단순한 '기술 이반'이나 '루딧주의(Luddism)'가 아니다. 오히려 가장 현실적인 타협점이다. 아이들이 미래 사회에서 AI와 함께 살아가야 한다는 것을 인정하면서도, 그 과정에서 '인간적 사고', '비판적 감각', '도덕적 판단'을 잃지 않도록 보호하겠다는 의지다.</p>\n<p style=\"margin:0 0 32px;\">한국이 이 과제를 어떻게 풀 것인지가, 다음 세대 아이들의 인지 발달을 좌우할 것이다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0; margin-top:48px; padding-top:32px;\">\n<h3 style=\"font-size:16px; font-weight:700; color:#1a1a2e; margin:0 0 16px;\">참고자료</h3>\n<ol style=\"margin:0; padding-left:20px; color:#374151;\">\n<li style=\"margin-bottom:12px;\"><a href=\"https://virginiamercury.com/2026/03/02/va-lawmakers-propose-artificial-intelligence-guardrails-for-instructional-use-in-education/\" style=\"color:#d97706; text-decoration:none;\">Virginia Mercury - 버지니아 AI 교육 가이드라인 법안</a></li>\n<li style=\"margin-bottom:12px;\"><a href=\"https://www.whro.org/education-news/2026-03-02/virginia-lawmakers-propose-guardrails-for-artificial-intelligence-use-in-education\" style=\"color:#d97706; text-decoration:none;\">WHRO/NPR - 버지니아 법안 상세 분석</a></li>\n<li style=\"margin-bottom:12px;\"><a href=\"https://www.route-fifty.com/artificial-intelligence/2026/03/virginia-lawmakers-propose-guardrails-artificial-intelligence-use-education/411791/\" style=\"color:#d97706; text-decoration:none;\">Route Fifty - 미국 전역 주정부 AI 정책 동향</a></li>\n<li style=\"margin-bottom:12px;\"><a href=\"https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/\" style=\"color:#d97706; text-decoration:none;\">FutureEd 입법 트래커 - 23개 주 49개 법안 현황</a></li>\n</ol>\n</div>\n\n<p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "ghost_tags": [
+      "AI교육",
+      "정책",
+      "미국",
+      "버지니아",
+      "규제"
+    ],
+    "custom_excerpt": "미국 버지니아주가 AI 교육의 '안전장치' 법안을 추진하고 있다. 23개 주 49개 법안이 동시 진행 중인 가운데, 버지니아는 '학생 안전·윤리·형평성'을 의무화하는 첫 사례가 될 전망이다. Z세대 인지능력 하락이라는 과학적 경고 속에서, 기술과 인간 발달의 균형을 모색한다.",
+    "references": [
+      {
+        "url": "https://virginiamercury.com/2026/03/02/va-lawmakers-propose-artificial-intelligence-guardrails-for-instructional-use-in-education/",
+        "title": "Virginia Mercury - AI 교육 가이드라인 법안"
+      },
+      {
+        "url": "https://www.whro.org/education-news/2026-03-02/virginia-lawmakers-propose-guardrails-for-artificial-intelligence-use-in-education",
+        "title": "WHRO/NPR - 상세 분석"
+      },
+      {
+        "url": "https://www.route-fifty.com/artificial-intelligence/2026/03/virginia-lawmakers-propose-guardrails-artificial-intelligence-use-education/411791/",
+        "title": "Route Fifty - 미국 동향"
+      },
+      {
+        "url": "https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/",
+        "title": "FutureEd - 49개 법안 현황"
+      }
+    ],
+    "word_count": 2156,
+    "category": "policy",
+    "accent": "#d97706",
+    "meta_title": "버지니아, AI 교육 '안전장치' 법안 추진",
+    "meta_description": "미국 버지니아주의 교육 정책이 대전환을 준비하고 있다. AI 도구의 급속한 확산 속에서 처음으로 '강제적 가이드라인'을 도입하려는 법안이 의회에 제출되었다. 이는 기술 도입과 규제의 균형을 찾으려는 시도로, 한국을 포함한 다른 국가들에 중요한 신호를 보낸다. 교사 85"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 3027자, 팩트점수 96, 중복 34.5%",
+    "meta_title": "버지니아, AI 교육 '안전장치' 법안 추진",
+    "meta_description": "미국 버지니아주의 교육 정책이 대전환을 준비하고 있다. AI 도구의 급속한 확산 속에서 처음으로 '강제적 가이드라인'을 도입하려는 법안이 의회에 제출되었다. 이는 기술 도입과 규제의 균형을 찾으려는 시도로, 한국을 포함한 다른 국가들에 중요한 신호를 보낸다. 교사 85",
+    "decided_at": "2026-03-09T13:33:59.504Z"
+  },
+  "copy_edit": {
+    "verdict": "FAIL",
+    "reason": "본문 747자 미만"
+  },
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  }
+}

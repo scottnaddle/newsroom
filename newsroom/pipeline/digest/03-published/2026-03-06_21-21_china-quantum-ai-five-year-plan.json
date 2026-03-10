@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "China's New Five-Year Plan Specifically Targets Quantum Leadership And AI Expansion",
+    "url": "https://thequantuminsider.com/2026/03/05/chinas-new-five-year-plan-specifically-targets-quantum-leadership-and-ai-expansion/",
+    "source_name": "The Quantum Insider",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "China's new five-year policy blueprint prioritizes artificial intelligence and quantum computing as central technologies for economic growth, scientific leadership, and strategic competition. The plan emphasizes technological self-reliance and aggressive AI adoption throughout the economy.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-06T21:21:00+09:00"
+  },
+  "digest": {
+    "headline": "중국, 양자컴퓨팅·AI '기술 패권' 선언…우주-지상 양자통신망 구축 추진",
+    "lead": "중국이 새 5개년 국가발전 전략에서 양자컴퓨팅과 인공지능을 핵심 기술로 명시하며 글로벌 기술 패권 선점에 나선다. 정부는 확장 가능한 양자컴퓨터 개발 확대와 우주-지상 통합 양자통신망 구축을 추진하겠다고 밝혔다. 미국과의 기술 경쟁 속 자립형 첨단 기술 생태계 구축이 핵심 목표다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">중국이 새 5개년 국가발전 전략에서 양자컴퓨팅과 인공지능을 핵심 기술로 명시하며 글로벌 기술 패권 선점에 나선다. 정부는 확장 가능한 양자컴퓨터 개발 확대와 우주-지상 통합 양자통신망 구축을 추진하겠다고 밝혔다. 미국과의 기술 경쟁 속 자립형 첨단 기술 생태계 구축이 핵심 목표다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">전국인민대표대회에서 공개된 5개년 정책 청사진은 양자컴퓨팅, 휴머노이드 로봇, 6G 통신, 뇌-기계 인터페이스를 우선 투자 분야로 명시했다. 특히 정부는 대규모 컴퓨팅 인프라를 구축해 고급 AI 시스템을 지원하고, 확장 가능한 양자컴퓨터에 대한 투자를 늘리며, 우주와 지상을 연결하는 통합 양자통신망 건설을 추진하겠다고 밝혔다. 중국은 이미 양자통신망과 위성 기반 실험에 대규모 투자를 진행해온 바, 이를 대규모 네트워크로 확장할 경우 상당한 기술적 이정표가 될 전망이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">분석가들은 이번 계획을 양자 기술과 AI가 국가 안보와 경제 목표를 촉진할 잠재력을 강조하는 동시에, 첨단 기술에서 중국이 '단독 행보'를 선택하겠다는 강력한 신호로 해석하고 있다. 계획에는 핵융합 기술 돌파구, 재사용 대형 로켓 개발, 달 연구기지 건설 등 장기 과학 프로젝트도 포함됐다. 미국의 반도체 수출 규제와 중국의 희토류 수출 제한 등 지정학적 긴장 속에서, 북경은 컴퓨팅·반도체 등 전략 기술 분야에서 자국 역량 개발 의지를 재확인했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">양자컴퓨팅은 차세대 보안·암호 기술의 핵심으로, 향후 교육 플랫폼의 데이터 보안과 개인정보 보호에 직접적 영향을 미칠 수 있다. 중국의 양자통신망 구축은 온라인 교육 환경의 보안 패러다임 변화를 예고하며, 에듀테크 기업들은 양자 내성 암호(quantum-resistant cryptography) 도입을 장기적 관점에서 검토해야 한다. 또한 양자 기초 교육 콘텐츠 수요 증가에 대비한 선제적 대응이 필요하다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://thequantuminsider.com/2026/03/05/chinas-new-five-year-plan-specifically-targets-quantum-leadership-and-ai-expansion/\" style=\"color:#FF6B35;text-decoration:none;\">The Quantum Insider</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "quantum",
+      "china"
+    ],
+    "meta_title": "중국, 양자컴퓨팅·AI 기술 패권 선언…우주-지상 양자통신망 추진",
+    "meta_description": "중국 5개년 계획에서 양자컴퓨팅과 AI를 핵심 기술로 명시. 확장 가능한 양자컴퓨터 개발, 우주-지상 통합 양자통신망 구축 추진하며 글로벌 기술 패권 선점 나서.",
+    "word_count": 540
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T21:21:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T21:23:45+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T12:27:13.812Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aac821ff4fbf0001ab6f8c",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aac821ff4fbf0001ab6f8c",
+    "public_url": "https://ubion.ghost.io/junggug-yangjakeompyutingai-gisul-paegweon-seoneonuju-jisang-yangjatongsinmang-gucug-cujin/",
+    "status": "published",
+    "published_at": "2026-03-06T12:27:13.812Z"
+  }
+}

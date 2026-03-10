@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "OpenAI on Surveillance and Autonomous Killings: You're Going to Have to Trust Us",
+    "url": "https://theintercept.com/2026/03/08/openai-anthropic-military-contract-ethics-surveillance/",
+    "source_name": "The Intercept",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "OpenAI claims its Pentagon contract includes prohibitions on domestic mass surveillance and autonomous weapons, but refuses to release the contract text. The Intercept reports that without verifiable language, Altman's assurances amount to 'trust me' — raising questions about accountability as the company fills the vacuum left by Anthropic's rejected deal.",
+    "published_date": "2026-03-08",
+    "collected_at": "2026-03-09T05:16:00+09:00"
+  },
+  "digest": {
+    "headline": "OpenAI 펜타곤 계약서 비공개 논란… \"믿어달라\"는 올트먼에 전문가들 의구심",
+    "lead": "OpenAI는 펜타곤 계약에 대규모 국내 감시와 자율 무기 금지 조항이 포함돼 있다고 주장하지만, 계약서 원문 공개를 거부하고 있다. 전직 국방부 관료와 법률 전문가들은 검증 불가능한 '신뢰해 달라'는 접근 방식에 심각한 우려를 표명했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">OpenAI는 펜타곤 계약에 대규모 국내 감시와 자율 무기 금지 조항이 포함돼 있다고 주장하지만, 계약서 원문 공개를 거부하고 있다. 전직 국방부 관료와 법률 전문가들은 검증 불가능한 '신뢰해 달라'는 접근 방식에 심각한 우려를 표명했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">앤트로픽이 자율 무기·대규모 감시 금지를 계약에 명문화하지 못해 펜타곤 계약을 거부한 뒤, OpenAI가 이를 대체하며 계약을 체결했다. 올트먼 CEO는 X를 통해 \"국내 대규모 감시 금지\"와 \"무력 사용에 대한 인간 책임\" 원칙이 계약에 반영됐다고 밝혔다. 그러나 계약 원문은 공개되지 않았고, 국가안보 담당 카트리나 멀리건은 \"계약 문구를 공유할 의무가 없다\"고 선을 그었다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">전직 국방부 차관 브래드 카슨은 \"NSA 등 정보기관 사용 차단 조항이 실제로 계약에 있다고 믿지 않는다\"고 밝혔고, 전직 법무부 국가안보과 변호사 앨런 로젠슈테인은 \"계약서를 공개하지 않는 한 해명이 불가능하다\"며 OpenAI의 대응을 \"지속 불가능하고 기이하다\"고 평가했다. 특히 '의도적' 감시만을 금지하는 문구가 사실상 면책 조항 역할을 할 수 있다는 지적도 나왔다. AI 기업의 군사 계약 투명성이 업계 전반의 핵심 거버넌스 이슈로 부상하고 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 기업의 데이터 활용 범위와 계약 투명성 논란은 교육 현장에도 직접적 시사점을 준다. 학생 데이터를 다루는 에듀테크 플랫폼이 OpenAI API를 사용할 경우, 데이터가 군사·정보기관 목적으로 활용될 가능성에 대한 학부모·교육기관의 우려가 커질 수 있다. 교육용 AI 도입 시 공급사의 데이터 거버넌스 정책과 계약 투명성을 면밀히 검토하는 것이 필수적이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://theintercept.com/2026/03/08/openai-anthropic-military-contract-ethics-surveillance/\" style=\"color:#FF6B35;text-decoration:none;\">The Intercept</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "openai",
+      "regulation"
+    ],
+    "meta_title": "OpenAI 펜타곤 계약서 비공개 논란, 전문가들 '신뢰 불가' 지적",
+    "meta_description": "OpenAI가 펜타곤 계약에 감시·자율무기 금지 조항이 있다고 주장하면서도 계약서 공개를 거부해, 전직 국방부 관료와 법률 전문가들의 비판이 거세지고 있다.",
+    "word_count": 600,
+    "feature_image": "https://images.unsplash.com/photo-1538688525198-9b88f6f53126?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T05:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T06:13:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T21:25:28.710Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ade948ff4fbf0001ab764a",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ade948ff4fbf0001ab764a",
+    "public_url": "https://insight.ubion.global/openai-pentagon-gyeyagseo-bigonggae-nonran-mideodalra-neun-olteumeone-jeonmungadeul-yigusim/",
+    "status": "published",
+    "published_at": "2026-03-08T21:25:28.000Z"
+  }
+}

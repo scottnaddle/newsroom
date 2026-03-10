@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Broadcom Projects Higher Revenue as AI Chip Demand Surges",
+    "url": "https://www.finedayradio.com/news/tv-delmarva-channel-33/broadcom-projects-higher-revenue-as-ai-chip-demand-surges/",
+    "source_name": "Fine Day Radio",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Broadcom's Q2 revenue projections exceed Wall Street expectations, driven by AI chip demand. CEO Hock Tan expects AI semiconductor revenue to reach $10.7B in Q2 as Alphabet, Microsoft, Amazon, and Meta are projected to invest $630B+ in AI infrastructure this year. Broadcom also announced a $10B stock buyback and plans to sell 1M+ chips by 2027 using its stacked chip design technology.",
+    "published_date": "2026-03-08",
+    "collected_at": "2026-03-08T22:16:00+09:00"
+  },
+  "digest": {
+    "headline": "Broadcom, AI 칩 수요 폭증에 2분기 매출 전망 월가 기대치 상회… AI 반도체 매출 107억 달러 예상",
+    "lead": "반도체 설계 기업 Broadcom이 AI 칩 수요 급증에 힘입어 2분기 매출 전망치를 약 220억 달러로 제시하며 월가 예상치(205.6억 달러)를 크게 넘어섰다. CEO 혹 탄은 AI 반도체 매출만 107억 달러에 달할 것으로 전망했으며, 빅테크 기업들의 올해 AI 인프라 투자 규모는 6,300억 달러 이상으로 추산된다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">반도체 설계 기업 Broadcom이 AI 칩 수요 급증에 힘입어 2분기 매출 전망치를 약 220억 달러로 제시하며 월가 예상치를 크게 넘어섰다. CEO 혹 탄은 AI 반도체 매출만 107억 달러에 달할 것으로 전망했으며, 빅테크 기업들의 올해 AI 인프라 투자 규모는 6,300억 달러 이상으로 추산된다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Alphabet, Microsoft, Amazon, Meta 등 글로벌 빅테크 기업들이 올해 최소 6,300억 달러를 AI 인프라에 투자할 것으로 예상되면서, 데이터센터용 AI 칩 수요가 폭발적으로 증가하고 있다. Broadcom은 이 흐름의 핵심 수혜 기업으로, AI 가속기·네트워킹 장비·스토리지 시스템 등을 공급한다. 지난달에는 혁신적인 칩 스태킹(적층) 기술을 활용해 2027년까지 최소 100만 개 이상의 칩을 판매하겠다는 목표도 제시했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">Broadcom의 실적 전망은 AI 인프라 투자가 여전히 강력한 상승세에 있음을 확인시켜준다. 특히 칩 스태킹 기술은 성능은 높이면서 전력 소비는 줄여, AI 연산의 효율성을 크게 개선할 수 있다. 다만 인프라 소프트웨어 부문 성장률이 약 1%로 둔화된 점과, AI 과잉투자 우려로 반도체 업종 전반에 투자 심리가 위축된 점은 변수다. Broadcom은 100억 달러 규모의 자사주 매입 프로그램도 발표하며 주주 환원에 나섰다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 칩 공급 확대와 가격 경쟁력 개선은 에듀테크 기업의 AI 서비스 운영 비용을 장기적으로 낮출 수 있다. 칩 스태킹 같은 고효율 기술이 보급되면, 소규모 교육 스타트업도 고성능 AI 모델을 보다 저렴하게 구동할 수 있는 환경이 마련될 전망이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.finedayradio.com/news/tv-delmarva-channel-33/broadcom-projects-higher-revenue-as-ai-chip-demand-surges/\" style=\"color:#FF6B35;text-decoration:none;\">Fine Day Radio</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "broadcom"
+    ],
+    "meta_title": "Broadcom AI 칩 매출 107억 달러 전망, 월가 기대치 상회",
+    "meta_description": "Broadcom이 AI 칩 수요 급증으로 2분기 매출 전망 220억 달러를 제시하며 월가 예상을 넘어섰다. 빅테크의 6,300억 달러 AI 인프라 투자와 칩 스태킹 기술이 핵심 동력이다.",
+    "word_count": 550
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-08T22:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-08T22:44:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T13:56:37.499Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ad8015ff4fbf0001ab7527",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ad8015ff4fbf0001ab7527",
+    "public_url": "https://insight.ubion.global/broadcom-ai-cib-suyo-pogjeunge-2bungi-maecul-jeonmang-weolga-gidaeci-sanghoe-ai-bandoce-maecul-107eog-dalreo-yesang/",
+    "status": "published",
+    "published_at": "2026-03-08T13:56:37.000Z"
+  }
+}

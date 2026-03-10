@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "AI Washing: When Layoffs Wear a Tech Halo",
+    "url": "https://www.calcalistech.com/ctechnews/article/m3iu9pgyk",
+    "source_name": "Calcalist Tech",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "Analysis of the growing trend of 'AI washing' in corporate layoffs, where companies like Block, Salesforce, and HP cite AI as the catalyst for workforce reductions. The piece contrasts this with Amazon's approach of explicitly denying AI-driven layoffs, and examines how the AI narrative may be used strategically to boost market sentiment during restructuring.",
+    "published_date": "2026-03-08",
+    "collected_at": "2026-03-09T07:16:00+09:00"
+  },
+  "digest": {
+    "headline": "'AI 워싱' — 기업 구조조정에 AI를 방패로 내세우는 관행 확산",
+    "lead": "핀테크 기업 Block이 직원 4,200명(전체의 40%)을 감원하면서 AI를 이유로 내세웠으나, 분석가들은 팬데믹 과잉 채용의 구조조정이라는 본질을 AI로 포장하는 'AI 워싱'이라고 비판하고 있다. AI가 진짜 감원 원인인지, 경영 실패를 감추는 구실인지 논란이 커지고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">핀테크 기업 Block이 직원 4,200명(전체의 40%)을 감원하면서 AI를 이유로 내세웠으나, 분석가들은 팬데믹 과잉 채용의 구조조정을 AI로 포장하는 'AI 워싱'이라고 비판하고 있다. AI가 진짜 감원 원인인지, 경영 실패를 감추는 구실인지 논란이 커지고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">잭 도시(Jack Dorsey)가 창업한 Block은 2019년 3,835명이던 직원이 2023년 약 13,000명까지 급증했다. 팬데믹 시기 공격적 채용과 290억 달러 규모의 애프터페이(Afterpay) 인수가 비용 구조를 키웠고, 2025년 매출 241.9억 달러에 순이익은 13억 달러에 불과했다. 도시는 \"회사가 어려워서가 아니라 AI 도구가 더 적은 인원으로 일할 수 있게 해주기 때문\"이라고 설명했으나, 미즈호(Mizuho) 분석가 댄 돌레브는 \"감원 대부분은 AI 때문이 아닐 것\"이라고 반박했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">Block의 사례는 이른바 'AI 워싱(AI Washing)' 현상의 대표적 사례로 떠올랐다. 기업이 구조조정의 실질적 원인인 과잉 채용·비용 비효율을 가리고, AI를 명분으로 내세워 투자자 심리를 끌어올리는 전략이다. 실제 Block 주가는 감원 발표 후 20% 이상 급등했다. 전문가들은 AI가 장기적으로 업무 방식을 바꿀 수 있지만, 현 시점에서 대규모 감원의 진짜 동력인지는 검증이 필요하다고 지적한다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">에듀테크 기업들도 AI 도입을 이유로 인력 감축 압박을 받을 수 있다. 그러나 교육 분야는 교수자의 역할이 AI로 완전히 대체되기 어렵다는 점에서, AI 워싱 논리를 무비판적으로 수용하기보다 AI와 교육 전문가의 협업 모델을 설계하는 것이 더 현실적인 접근이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.calcalistech.com/ctechnews/article/m3iu9pgyk\" style=\"color:#FF6B35;text-decoration:none;\">Calcalist Tech</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "AI 워싱: 기업들이 감원에 AI를 구실로 내세우는 이유",
+    "meta_description": "Block이 4,200명 감원에 AI를 이유로 들었으나 분석가들은 'AI 워싱'이라 비판. 팬데믹 과잉 채용 구조조정의 본질과 에듀테크 시사점을 분석한다.",
+    "word_count": 520,
+    "feature_image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T07:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T07:45:54+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T22:56:29.745Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69adfe9dff4fbf0001ab7659",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69adfe9dff4fbf0001ab7659",
+    "public_url": "https://insight.ubion.global/ai-weosing-gieob-gujojojeonge-aireul-bangpaero-naeseuneun-gwanhaeng-hwagsan/",
+    "status": "published",
+    "published_at": "2026-03-08T22:56:29.000Z"
+  }
+}

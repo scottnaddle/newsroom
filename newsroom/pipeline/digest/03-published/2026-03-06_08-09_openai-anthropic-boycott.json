@@ -1,0 +1,54 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Künstliche Intelligenz: Nutzer boykottieren ChatGPT – und bejubeln Claude",
+    "url": "https://www.zeit.de/digital/internet/2026-03/kuenstliche-intelligenz-openai-chatgpt-anthropic-claude-meta",
+    "source_name": "DIE ZEIT",
+    "language": "de",
+    "relevance_score": 88,
+    "summary": "US-Regierung verbannt Anthropic-Technologie, was zu einer Protestbewegung QuitGPT führte. Meta experimentiert mit KI-Brillen in Kenia, während Google DeepMind sein neues Nano Banana 2 Bildmodell präsentiert. Die Kontroverse zwischen OpenAI und Anthropic spitzt sich zu.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-06T08:09:00Z"
+  },
+  "digest": {
+    "headline": "미국 정부, 연방기관에서 Anthropic 기술 금지... OpenAI 대체 업체로 부상",
+    "lead": "미국 정부가 연방기관 시스템에서 Anthropic의 AI 기술 사용을 금지하기로 결정했다. OpenAI가 즉시 이를 대체할 솔루션으로 자리잡으며, 두 AI 기업 간 경쟁이 더욱 심화되고 있다. 정부의 선택이 민간 기업과 교육기관의 AI 도구 선택 신뢰도에도 영향을 미치는 상황이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 정부가 연방기관 시스템에서 Anthropic의 AI 기술 사용을 금지하기로 결정했다. OpenAI가 즉시 이를 대체할 솔루션으로 자리잡으며, 두 AI 기업 간 경쟁이 더욱 심화되고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">지난주 미국 정부는 연방기관들의 시스템에서 Anthropic의 AI 기술 사용을 공식 금지했다. Anthropic의 CEO 다리오 아모데이(Dario Amodei)와 OpenAI의 CEO 샘 알트만(Sam Altman) 사이의 확대된 경쟁 구도 속에서 이 결정은 정치적 영향력의 변화를 상징한다. 정부의 결정이 발표되자마자 OpenAI는 신속하게 정부의 신뢰받는 AI 솔루션 제공자로 자리를 굳혀가고 있다. 한편 사용자들 사이에서는 OpenAI에 대한 보이콧 운동 'QuitGPT'가 확산되면서, Claude에 대한 호평이 늘어나는 역설적 상황이 벌어지고 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">정부의 선택은 단순한 기술 정책을 넘어 AI 업계 생태계에 깊은 영향을 미친다. 연방기관이 특정 AI 도구를 공식 승인하면, 이것이 민간 기업과 공공기관의 신뢰도 기준으로 작용하기 때문이다. OpenAI의 정부 독점화는 시장 경쟁을 왜곡할 우려가 있지만, 동시에 사용자들의 보이콧 운동은 기업의 투명성과 윤리를 중시하는 시대 변화를 드러낸다. 향후 AI 산업은 기술력뿐 아니라 정부 신뢰도와 사용자 신뢰도 모두를 확보해야 생존할 수 있는 구조로 진화할 것으로 예상된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">한국 교육기관과 에듀테크 기업들은 AI 도구 선택 시 미국 정부의 기술 신뢰도를 중요한 참고 자료로 삼는다. 정부 승인 AI는 보안과 신뢰도 측면에서 '검증된 선택지'로 받아들여지기 때문이다. 이번 Anthropic 기술 금지는 한국의 공교육과 에듀테크 업계가 AI 도구 도입 시 '정부-민간 신뢰도'를 어떻게 평가할지에 대한 새로운 기준을 제시한다. 특히 학생 데이터 보호가 핵심인 교육 현장에서는, 단순 성능 비교를 넘어 '어떤 정부가 신뢰하는지'가 선택 근거가 될 수 있다는 점을 시사한다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.zeit.de/digital/internet/2026-03/kuenstliche-intelligenz-openai-chatgpt-anthropic-claude-meta\" style=\"color:#FF6B35;text-decoration:none;\">DIE ZEIT - Künstliche Intelligenz: Nutzer boykottieren ChatGPT</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "regulation",
+      "openai",
+      "anthropic"
+    ],
+    "meta_title": "미국 정부, Anthropic 기술 금지...OpenAI 대체 업체로 부상",
+    "meta_description": "미국 정부의 Anthropic 기술 금지 결정으로 OpenAI의 독점화가 진행 중. 정부 신뢰도와 사용자 신뢰도의 충돌, 에듀테크 업계의 선택 기준 변화.",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T08:09:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T08:11:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T23:31:31.397Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aa124dff4fbf0001ab6d0b",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aa124dff4fbf0001ab6d0b",
+    "public_url": "https://ubion.ghost.io/migug-jeongbu-yeonbanggigwaneseo-anthropic-gisul-geumji-openai-daece-eobcero-busang/",
+    "status": "published",
+    "published_at": "2026-03-05T23:31:25.000Z"
+  }
+}

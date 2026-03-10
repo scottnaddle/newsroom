@@ -1,0 +1,55 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Trump Secures AI Energy Pledges From Amazon, Microsoft And Other Big Tech, Calls Impact 'Tremendous'",
+    "url": "https://www.yahoo.com/news/articles/trump-secures-ai-energy-pledges-033042002.html",
+    "source_name": "Yahoo News / Benzinga",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "The Trump administration unveiled a voluntary 'Ratepayer Protection Pledge' signed by Microsoft, Amazon, Oracle, Google, Meta, OpenAI, and xAI. Under the agreement, tech companies commit to building or purchasing electricity for their AI data centers and covering grid connection costs, with separate electricity rates from regular consumers. The move comes as U.S. electricity demand grew 2.8% year-over-year, the fastest in 20 years, driven by record data center expansion.",
+    "published_date": "2026-03-08",
+    "collected_at": "2026-03-09T04:16:00+09:00"
+  },
+  "digest": {
+    "headline": "트럼프, 빅테크에 AI 데이터센터 전력비 자체 부담 서약 확보",
+    "lead": "트럼프 행정부가 마이크로소프트·아마존·구글·메타·오라클·오픈AI·xAI 등 주요 빅테크 기업으로부터 '요금 납부자 보호 서약'을 받아냈다. 이들은 AI 데이터센터에 필요한 전력을 자체 확보하고 송전망 연결 비용을 부담하며, 일반 소비자와 별도의 전력 요금을 적용받기로 합의했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">트럼프 행정부가 마이크로소프트·아마존·구글·메타·오라클·오픈AI·xAI 등 주요 빅테크 기업으로부터 '요금 납부자 보호 서약'을 받아냈다. 이들은 AI 데이터센터에 필요한 전력을 자체 확보하고 송전망 연결 비용을 부담하며, 일반 소비자와 별도의 전력 요금을 적용받기로 합의했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">미국의 전력 수요는 전년 대비 2.8% 증가하며 약 20년 만에 가장 빠른 성장률을 기록했다. 2025년에만 10기가와트(GW)의 신규 데이터센터 용량이 가동에 들어갔으며, 12월에는 월간 최대 증설 기록을 세웠다. AI 인프라 확장이 전력 소비를 급격히 끌어올리면서 일반 가정의 전기 요금 인상에 대한 우려가 커진 것이 이번 서약의 배경이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">다만 이 서약은 자발적 합의에 불과하다. 하버드 법대 에너지 정책 전문가는 \"백악관에는 새로운 전력 요금 구조를 강제할 권한이 없다\"고 지적했으며, 실제 집행은 주(州) 단위 규제 기관에 달려 있다. 그럼에도 이번 움직임은 워싱턴과 빅테크 모두 AI 인프라가 가계 전기 요금을 올릴 수 있다는 여론의 우려를 인식하고 있음을 보여주는 신호로 해석된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 데이터센터의 전력비 문제는 클라우드 서비스 가격에 직결되며, 이는 에듀테크 기업의 AI 서비스 운영 비용에 영향을 준다. 빅테크가 전력을 자체 확보하는 구조가 정착되면 클라우드 컴퓨팅 비용이 안정화돼 교육용 AI 플랫폼의 지속 가능한 운영 모델 구축에 도움이 될 수 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.yahoo.com/news/articles/trump-secures-ai-energy-pledges-033042002.html\" style=\"color:#FF6B35;text-decoration:none;\">Yahoo News / Benzinga</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "regulation",
+      "google",
+      "openai"
+    ],
+    "meta_title": "트럼프, 빅테크에 AI 데이터센터 전력비 자체 부담 서약 확보",
+    "meta_description": "트럼프 행정부가 구글·메타·아마존 등 7개 빅테크에서 AI 데이터센터 전력 자체 조달 서약을 확보했다. 미국 전력 수요 20년 만에 최고 성장률 기록.",
+    "word_count": 510
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T04:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T04:44:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T19:55:31.500Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69add433ff4fbf0001ab7609",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69add433ff4fbf0001ab7609",
+    "public_url": "https://insight.ubion.global/teureompeu-bigtekeue-ai-deiteosenteo-jeonryeogbi-jace-budam-seoyag-hwagbo/",
+    "status": "published",
+    "published_at": "2026-03-08T19:55:31.000Z",
+    "feature_image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=630&fit=crop&q=85&auto=format"
+  }
+}

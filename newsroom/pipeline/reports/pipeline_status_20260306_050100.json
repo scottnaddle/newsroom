@@ -1,0 +1,931 @@
+{
+  "timestamp": "2026-03-06T05:01Z",
+  "pipeline_status": {
+    "01-sourced": 0,
+    "02-assigned": 0,
+    "03-reported": 1,
+    "04-drafted": 3,
+    "05-fact-checked": 0,
+    "06-desk-approved": 0,
+    "07-copy-edited": 0,
+    "08-published": 76,
+    "rejected": 48
+  },
+  "files_by_stage": {
+    "01-sourced": [],
+    "02-assigned": [],
+    "03-reported": [
+      {
+        "filename": "2026-03-06_0437_moe-ai-ethics-roundtable.json",
+        "headline": "대학의 윤리적이고 책임있는 인공지능(AI) 활용 방안 모색을 위한 간담회 개최",
+        "priority": "normal",
+        "confidence": null,
+        "created": "2026-03-06"
+      }
+    ],
+    "04-drafted": [
+      {
+        "filename": "2026-03-06_0437_lg-ai-graduate-school.json",
+        "headline": "LG AI대학원, 국내 첫 기업 인가 정규 대학원 개원",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-06"
+      },
+      {
+        "filename": "2026-03-06_0437_moe-ai-ethics-guideline.json",
+        "headline": "교육부, 대학 AI 윤리 가이드라인 발표 '오프라인 시험·내용 공시 의무화'",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-06"
+      },
+      {
+        "filename": "2026-03-06_0437_seoul-ai-education-guideline.json",
+        "headline": "서울교육청, '인간중심 AI 가이드라인' 전 학교에 배포",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-06"
+      }
+    ],
+    "05-fact-checked": [],
+    "06-desk-approved": [],
+    "07-copy-edited": [],
+    "08-published": [
+      {
+        "filename": "2026-03-05_21-06_university-ai-education-expansion.json",
+        "headline": "대학 'AI 강사' 도입 확대...교육 효율 vs 인력 감축 우려",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-05_seoul-edtech-guideline.json",
+        "headline": "\"AI에 종속되지 않기\" - 서울시교육청의 도전",
+        "priority": "normal",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-05_16-34_lg-ai-graduate-school.json",
+        "headline": "\"인간을 위한 기술\" 실천한다, LG AI 대학원 첫 학생",
+        "priority": "normal",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-05_21-06_mandatory-ai-education-k12.json",
+        "headline": "정부 '의무 AI 교육' 선언...기초학문과의 균형이 과제",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-03_16-19_china-parents-ai-homework-nyt.json",
+        "headline": "중국 학부모, AI로 자녀 숙제 외주 급증",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-05_21-36_seoul-education-ai-guideline.json",
+        "headline": "서울시교육청, 인간 중심 AI 교육 가이드라인 배포",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-02_20-03_educating-children-ai-era.json",
+        "headline": "정부 K-12 AI 필수교육 추진…전문가 '사고력 약화' 경고",
+        "priority": 2,
+        "confidence": null,
+        "created": "2026-03-02"
+      },
+      {
+        "filename": "2026-03-04_00-12_k12dive-states-ban-edtech-generative-ai.json",
+        "headline": "미국 5개 주, 학교 생성형 AI 전면 금지 법안 추진",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-02_11-23_edweek-teachers-guardrails.json",
+        "headline": "미 의회, 교사용 AI 연방 가이드라인 촉구",
+        "priority": 2,
+        "confidence": null,
+        "created": "2026-03-02"
+      },
+      {
+        "filename": "2026-03-05_0248_benton-ai-literacy.json",
+        "headline": "미국 노동부, 국가 AI 리터러시 표준 수립 나섰다",
+        "priority": 2,
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-05_21-36_university-ai-ethics-guideline.json",
+        "headline": "교육부, 대학 AI 활용 윤리 가이드라인 초안 발표",
+        "priority": "normal",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-04_04-29_southeast-asia-ai-governance-policies-2026.json",
+        "headline": "동남아 AI 거버넌스, 베트남 선두로 속도전",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-04_05-41_AI-in-Ohio-s-Education.json",
+        "headline": "오하이오, 미국 최초 전 학교 AI 정책 의무화",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-04_03-29_morningstar-80pct-students-ai-improved-only-20pct-unis-policy.json",
+        "headline": "학생 95% AI 사용, 대학 정책은 20%뿐",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-03_19-12_broward-county-microsoft-copilot-ai-schools.json",
+        "headline": "미 6위 학군, MS 코파일럿 전 학구 배포…세계 최대",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-04_14-41_lg-ai-graduate-school-opens.json",
+        "headline": "LG, 국내 첫 교육부 인가 AI 사내 대학원 개원",
+        "priority": 2,
+        "confidence": null,
+        "created": "2026-03-04"
+      },
+      {
+        "filename": "2026-03-05_00_how-states-are-tackling-artificial-intel.json",
+        "headline": "美 각 주 AI 정책, '중앙규제' vs '지역자율'",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-03_17-17_australia-ai-chatbots-interrogate-students.json",
+        "headline": "호주 학교, AI가 학생 과제 심문…표절 탐지 새 패러다임",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-03_1701_seoul-ai-guideline.json",
+        "headline": "서울시교육청, 생성형 AI 7대 위험 가이드라인 배포",
+        "priority": 1,
+        "confidence": null,
+        "created": "2026-03-03"
+      },
+      {
+        "filename": "2026-03-04_04-29_philippine-deped-ai-policy-human-centered.json",
+        "headline": "필리핀 교육부, 동남아 첫 AI 교육 지침 발표",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-02_11-53_kjob-uk-us-ai-governance-korea.json",
+        "headline": "영·미 AI 교육 거버넌스 강화, 한국 선택은",
+        "priority": 2,
+        "confidence": null,
+        "created": "2026-03-02"
+      },
+      {
+        "filename": "2026-03-05_0404_npr-ai-college-rules.json",
+        "headline": "미국 대학들, 3년 후에도 AI 정책 합의 못했다",
+        "priority": 2,
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-05_01_states-responsible-ai-education.json",
+        "headline": "미국 21개 주, AI 교육 법안 53개 추진... 규제 통일 필요",
+        "priority": 1,
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-05_01_kazakhstan-chatgpt-edu-agreement-165-000.json",
+        "headline": "2026-03-05_01_kazakhstan-chatgpt-edu-agreement-165-000.json",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-04_10-58_edweek-1000-districts-ai-readiness-risk.json",
+        "headline": "미 1천개 학군 AI 조사: 사용 급증, 교육 공백",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-03_19-12_virginia-ai-education-safe-ethical-equitable-bill.json",
+        "headline": "버지니아주, 공립학교 AI 안전·윤리·공정 지침 의무화",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-05_02_nea-teacher-ai-integration.json",
+        "headline": "교사들은 AI를 어떻게 쓰고 있나... 現場 사례",
+        "priority": 1,
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-04_07-17_nyc-ai-schools-mamdanihtml.json",
+        "headline": "미국 공교육 AI 도입 신호탄: 플로리다에서 뉴욕으로",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-05_03_ai-model-policy-for-ohio-districts-and-s.json",
+        "headline": "오하이오, 7월 1일까지 학교 AI 정책 채택 의무화",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-05_16-40_ai-ethics-guideline.json",
+        "headline": "AI와 대학 교육의 새로운 약속…5대 원칙, 12대 세부 지침 제시",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-05_university-ai-education.json",
+        "headline": "KAIST 정원 100명 지원자 6명, AI 교육 정책 현장과 괴리",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-04_16-49_lg-ai-graduate-school-opens.json",
+        "headline": "LG, 국내 첫 교육부 인가 사내 AI 대학원 개원",
+        "priority": 2,
+        "confidence": null,
+        "created": "2026-03-04"
+      },
+      {
+        "filename": "2026-03-05_0218_edweek-ai-literacy-survey.json",
+        "headline": "美고교 78%, AI 리터러시 교육 시작... 한국 교육청은?",
+        "priority": 2,
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-03_16-19_california-ai-safeguards-elementary.json",
+        "headline": "캘리포니아, 초등 AI 스캔들 후 교육 안전기준 강화",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-03_22-12_washington-state-ai-student-surveillance-bill.json",
+        "headline": "워싱턴주, AI 학생 감시·징계 금지 법안 추진",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-05_0001_lg-ai-graduate-school.json",
+        "headline": "기업형 대학원 시대 개막: LG AI 대학원 출범의 의미",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-05_0302_keio-generative-ai-guideline.json",
+        "headline": "게이오 대학, 3년의 교훈 담은 AI 사용 지침 발표",
+        "priority": 2,
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-02_11-23_mk-ai-cheating-prevention.json",
+        "headline": "교육부, 대학 AI 윤리 가이드라인 초안 공개",
+        "priority": 1,
+        "confidence": null,
+        "created": "2026-03-02"
+      },
+      {
+        "filename": "2026-03-05_0218_virginia-ai-guardrails.json",
+        "headline": "Virginia lawmakers propose guardrails for artificial intelligence use in education",
+        "priority": 2,
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-05_korean-universities-adopt-ai-required-competency.json",
+        "headline": "AI는 금지에서 필수로…한국 대학가 교육 판도 대전환",
+        "priority": "normal",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-04_03-29_nc-schools-academic-integrity-ai-redesign.json",
+        "headline": "AI 부정행위, 탐지 말고 수업 자체를 바꿔라",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-05_16-39_ethical-ai-implementation.json",
+        "headline": "정부, 대학 AI 윤리 간담회 개최…책임 있는 활용 기준 마련",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-03_01-49_jeonmae-seoul-ai-guideline.json",
+        "headline": "서울교육청, AI 활용 공교육 5대 원칙 가이드라인",
+        "priority": 2,
+        "confidence": null,
+        "created": "2026-03-02"
+      },
+      {
+        "filename": "2026-03-05_0217_edweek-ai-adoption-barriers.json",
+        "headline": "美교사 44%, AI 교육 받지 못해... 도입 장벽은 무엇?",
+        "priority": 2,
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-02_12-53_edu-ai-bootcamp-41-schools.json",
+        "headline": "교육부, AI 인재 부트캠프 41개교 선정",
+        "priority": 1,
+        "confidence": null,
+        "created": "2026-03-02"
+      },
+      {
+        "filename": "2026-03-02_11-23_74m-google-ai-teachers.json",
+        "headline": "구글, 미국 교원 600만 명 AI 훈련 3년 계획 발표",
+        "priority": 2,
+        "confidence": null,
+        "created": "2026-03-02"
+      },
+      {
+        "filename": "2026-03-05_16-36_mandatory-ai-courses.json",
+        "headline": "\"모든 대학생이 AI 배운다\", 교육부 필수과정 도입",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-03_16-19_singapore-ai-impact-student-learning.json",
+        "headline": "싱가포르 교육부, AI 과의존이 인지 발달 해친다 — 연구 착수",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-03_16-19_india-ai-grade3-curriculum-2026.json",
+        "headline": "인도, 3학년부터 AI 교육 전면 의무화",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-02_11-23_koreatimes-korea-univ-ai.json",
+        "headline": "고려대, 2026년 'AI 통합 교육과정' 전면 도입",
+        "priority": 2,
+        "confidence": null,
+        "created": "2026-03-02"
+      },
+      {
+        "filename": "2026-03-03_09-46_moe-ai-ethics-guideline.json",
+        "headline": "교육부, 대학 AI 윤리 가이드라인 시안 공개…4~5월 전국 배포",
+        "priority": 1,
+        "confidence": null,
+        "created": "2026-03-03"
+      },
+      {
+        "filename": "2026-03-05_16-38_ai-curriculum-development.json",
+        "headline": "교육부, AI 기본교육과정 개발에 20개 대학 선정",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-04_01-12_edweek-teens-ai-college-research.json",
+        "headline": "미국 고교생 절반, 대입 탐색에 AI 활용",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-03_16-19_singapore-all-institutes-ai-courses-alumni.json",
+        "headline": "싱가포르 Budget 2026, AI 재교육 3대 패키지 가동",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-03_1701_ai-ethics-guideline.json",
+        "headline": "교육부, 대학 AI 활용 윤리 가이드라인 초안 공개",
+        "priority": 1,
+        "confidence": null,
+        "created": "2026-03-03"
+      },
+      {
+        "filename": "2026-03-02_11-23_joongang-mandatory-ai-courses.json",
+        "headline": "교육부, 20개 대학 AI 필수과목에 60억 투자",
+        "priority": 1,
+        "confidence": null,
+        "created": "2026-03-02"
+      },
+      {
+        "filename": "2026-03-02_11-23_aitimes-ai-action-plan.json",
+        "headline": "AI기본법 첫 법정계획 확정…교육·인재 분과 신설",
+        "priority": 1,
+        "confidence": null,
+        "created": "2026-03-02"
+      },
+      {
+        "filename": "2026-03-02_14-56_sky-universities-asia-ai-consortium.json",
+        "headline": "국가AI연구거점 출범…AI 3대 강국 2030 전략 시동",
+        "priority": 2,
+        "confidence": null,
+        "created": "2026-03-02"
+      },
+      {
+        "filename": "2026-03-04_05-41_teaching-in-the-ai-age.json",
+        "headline": "MS·구글, 같은 주에 교사 AI 교육 이니셔티브 경쟁 발표",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-04_01_teacher-v-chatbot-my-journey-into-the-cl.json",
+        "headline": "2026-03-04_01_teacher-v-chatbot-my-journey-into-the-cl.json",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-03_05-40_ai-innovation-korea-edu-future.json",
+        "headline": "교육부 AI 인재 양성 재출발, 디지털교과서 실패 교훈 담겼나",
+        "priority": 2,
+        "confidence": null,
+        "created": "2026-03-03"
+      },
+      {
+        "filename": "2026-03-05_16-33_ai-education-strategy.json",
+        "headline": "세계가 앞질렀다, AI 교육 현장 글로벌 경쟁 현황",
+        "priority": "normal",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-04_00_ai-in-schools-what-1-000-districts-revea.json",
+        "headline": "미국 학군 1,000개, AI 준비도 편차 드러내다",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-02_11-23_herald-ai-regulation-80pct.json",
+        "headline": "국내 대학 80%, 생성형 AI 가이드라인 도입·검토",
+        "priority": 1,
+        "confidence": null,
+        "created": "2026-03-02"
+      },
+      {
+        "filename": "2026-03-05_0248_benton-ai-literacy-REVISE.json",
+        "headline": "미국 노동부, 국가 AI 리터러시 표준 수립 나섰다",
+        "priority": 2,
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-04_07-17_alpha-school-replaces-teachers-ai.json",
+        "headline": "AI 교사 도입 학교의 명암: 정부 지지 vs 부모 탈출",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-04_05-59_uae-ai-schools-age-restrictions-assessments.json",
+        "headline": "UAE, 학교 AI 이중 전략…규제·의무교육 동시 발표",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-02_18-00_inews365-kttu-ai-bootcamp.json",
+        "headline": "교육부 AI 부트캠프, 전국 41개교 신규 선정",
+        "priority": 2,
+        "confidence": null,
+        "created": "2026-03-02"
+      },
+      {
+        "filename": "2026-03-03_21-12_ets-adapt-ai-teacher-certification.json",
+        "headline": "ETS, 교사용 AI 리터러시 평가 출시 — 자격 요건화 예고",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-02_11-23_hani-ai-ethics-guideline.json",
+        "headline": "교육부, 대학 AI 활용 윤리 가이드라인 시안 공개",
+        "priority": 1,
+        "confidence": null,
+        "created": "2026-03-02"
+      },
+      {
+        "filename": "2026-03-03_16-19_nyc-schools-ai-bet-2026.json",
+        "headline": "미국 K-12 AI 도입 경쟁…뉴욕시만 홀로 '신중'",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-02_12-53_joongang-ai-ethics-guideline.json",
+        "headline": "교육부, 대학 AI 윤리 가이드라인 시안 공개",
+        "priority": 1,
+        "confidence": null,
+        "created": "2026-03-02"
+      },
+      {
+        "filename": "2026-03-05_unn590453.json",
+        "headline": "AI 조교 '매력'의 뒤쪽, 강사 15만명의 불안",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-03_22-12_uk-schools-white-paper-ai-safety-taskforce.json",
+        "headline": "영국, AI 튜터링 무상 제공 로드맵 발표 — DeepMind·OpenAI 참여",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-02_14-56_seoul-ai-edtech-guideline-detail.json",
+        "headline": "서울시교육청, 생성형 AI 전용 공교육 가이드라인 배부",
+        "priority": 2,
+        "confidence": null,
+        "created": "2026-03-02"
+      },
+      {
+        "filename": "2026-03-05_16-35_education-ministry-ai-ethics.json",
+        "headline": "\"AI로 과제 내면 써낸 과정 밝혀야\", 교육부 윤리 지침",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-05"
+      }
+    ],
+    "rejected": [
+      {
+        "filename": "2026-03-04_00-14_south-korea-ai-politico.json",
+        "headline": "세계가 주목하는 한국의 AI 열풍, 그 이면",
+        "priority": 2,
+        "confidence": null,
+        "created": "2026-03-04"
+      },
+      {
+        "filename": "2026-03-03_17-17_nyt-ai-literacy-newark-school.json",
+        "headline": "AI 리터러시를 운전면허처럼 — 뉴어크 고교의 실험",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-05_21-06_university-ai-education-expansion.json",
+        "headline": "대학 'AI 강사' 도입 확대...교육 효율 vs 인력 감축 우려",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-03_10-47_chonnam-national-univ-ai-training.json",
+        "headline": "전남대, 신입생 117명에 입학 전 AI 교육…'선도대학' 시동",
+        "priority": 2,
+        "confidence": null,
+        "created": "2026-03-03"
+      },
+      {
+        "filename": "2026-03-04_19-54_ai-혁신-교육-환경-전략.json",
+        "headline": "한국 AI 교육, '전면화'에서 '내실화'로 선회",
+        "priority": 2,
+        "confidence": null,
+        "created": "2026-03-04"
+      },
+      {
+        "filename": "2026-03-05_21-06_mandatory-ai-education-k12.json",
+        "headline": "정부 '의무 AI 교육' 선언...기초학문과의 균형이 과제",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-05_21-06_ai-ethics-policy-universities.json",
+        "headline": "AI 윤리 정책 개발 시급…프라이버시 침해·편향성 문제 불거져",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-04_15-47_lg-ai-graduate-school-opens.json",
+        "headline": "국내 최초 사내대학원 'LG AI대학원' 개원…실무형 인재 양성 기대",
+        "priority": 2,
+        "confidence": null,
+        "created": "2026-03-04"
+      },
+      {
+        "filename": "2026-03-05_16-37_human-centered-ai-guidelines.json",
+        "headline": "서울시교육청, 인간 중심 AI 교육 실현을 위한 'AI·에듀테크 공교육 도입 및 활용 가이드라인' 배부",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-05_00_edweek-ai-in-schools-what-1-000-district.json",
+        "headline": "2026-03-05_00_edweek-ai-in-schools-what-1-000-district.json",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-04_18-52_ai-korea-innovation-strategy.json",
+        "headline": "LG AI대학원 개원, 기업이 대학원이 되는 시대",
+        "priority": 2,
+        "confidence": null,
+        "created": "2026-03-04"
+      },
+      {
+        "filename": "2026-03-04_15-47_lg-ai-graduate-school-kpinews.json",
+        "headline": "LG, 교육부 공식 인가 'LG AI대학원' 마곡 캠퍼스 개원",
+        "priority": 2,
+        "confidence": null,
+        "created": "2026-03-04"
+      },
+      {
+        "filename": "2026-03-05_01_kazakhstan-chatgpt-edu-agreement-165-000.json",
+        "headline": "2026-03-05_01_kazakhstan-chatgpt-edu-agreement-165-000.json",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-04_02-12_scottsdale-ai-school-parents-survey.json",
+        "headline": "알파스쿨 성취도 주장 논란…학부모 64% 기초학력 우려",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-06_0207_ai-basic-curriculum.json",
+        "headline": "법대생도 배우는 AI...대학 기본교육 표준화 시작",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-06"
+      },
+      {
+        "filename": "2026-03-05_16-40_ai-ethics-guideline.json",
+        "headline": "AI와 대학 교육의 새로운 약속…5대 원칙, 12대 세부 지침 제시",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-05_0248_mdpi-ai-learning-poverty-REJECTED.json",
+        "headline": "Leveraging AI to Mitigate Learning Poverty in the Digital Era: The Impacts of Integrated AI Educational Tools on Students' Literacy Skills",
+        "priority": 2,
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-02_20-03_2026-ai-regulation-tipping.json",
+        "headline": "AI 기본법 40일, 스타트업 62% '비용 부담'",
+        "priority": 3,
+        "confidence": null,
+        "created": "2026-03-02"
+      },
+      {
+        "filename": "2026-03-04_02_u-s-schools-are-betting-big-on-a-i-will-.json",
+        "headline": "뉴욕시, 미국 최대 학군의 AI 도입 결정권 손에 쥐다",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-03_20-12_trump-state-of-union-ai-education.json",
+        "headline": "트럼프, AI 경진대회 홍보하며 STEM 보조금 400개 삭감",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-05_mt2026030313051850252.json",
+        "headline": "AI 금지에서 필수까지, 대학 교육 2년 만에 역전",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-04_21-57_lg-ai-university-joongang.json",
+        "headline": "신입생 전원에 최신 노트북…'국내 첫 사내대학원' LG AI대학원 출범",
+        "priority": 2,
+        "confidence": null,
+        "created": "2026-03-04"
+      },
+      {
+        "filename": "2026-03-04_04-29_openai-higher-education-campuses-2026.json",
+        "headline": "OpenAI, 글로벌 대학 AI 표준 선점 나섰다",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-05_0217_school-network-ai-enhance-learning_KILLED.json",
+        "headline": "AI in the classroom: Can it enhance learning without replacing it?",
+        "priority": 2,
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-02_11-53_jeju-ai-edu-blueprint-2026.json",
+        "headline": "제주교육청, AI 교수학습 플랫폼 '바당' 신학기 운영 시작",
+        "priority": 2,
+        "confidence": null,
+        "created": "2026-03-02"
+      },
+      {
+        "filename": "2026-03-05_0218_virginia-ai-guardrails.json",
+        "headline": "Virginia lawmakers propose guardrails for artificial intelligence use in education",
+        "priority": 2,
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-03_16-19_nyt-teachers-ai-reshaping-classroom.json",
+        "headline": "미 고교 교사 70%, AI가 비판적 사고 약화 우려",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-03_17-17_virginia-ai-education-guardrails-bill.json",
+        "headline": "버지니아주, 교육 AI 활용 가드레일 법안 추진",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-05_21-06_ai-changes-korean-education-2026.json",
+        "headline": "맞춤형 학습 시대 열린 2026년 한국 교육, AI 인프라 강화 시급",
+        "priority": "normal",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-05_21-06_ai-essential-competency-universities.json",
+        "headline": "AI '금지에서 필수'로…대학가 교육·평가 혁신 시작",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-03_16-19_deloitte-higher-ed-trends-2026.json",
+        "headline": "딜로이트 \"AI·재정 삭감·등록 감소, 고등교육 뒤흔든다\"",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-03_16-19_china-sichuan-vocational-ai-training-gap.json",
+        "headline": "중국 쓰촨성 교사 70% AI 사용하지만 9%만 정식 훈련받아",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-05_21-06_ai-innovation-korea-strategy.json",
+        "headline": "글로벌 AI 경쟁 심화, 한국의 '추격자' 위치 재정의 필요",
+        "priority": "normal",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-05_02_building-an-ai-ready-america_KILLED.json",
+        "headline": "美 교사 80%, AI 이미 사용 중... 신뢰도는 65%",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-04_08-59_sussex-ai-education-spotlight-jan-feb-2026.json",
+        "headline": "유럽 대학, AI 교육 제도화 본격화…EU법 8월 발효",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-03_16-19_us-house-hearing-ai-teacher-training.json",
+        "headline": "미 하원 \"AI 교사 연수 의무화\" 합의…빅테크가 연방 공백 채워",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-03_17-17_alpha-school-ai-replaces-teachers.json",
+        "headline": "교사 없는 '알파 스쿨'…AI 수업에 연 1억 원",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-03_08-45_korea-univ-ai-ethics-roundtable.json",
+        "headline": "교육부, 대학 AI 윤리 가이드라인 4~5월 배포 예고",
+        "priority": 1,
+        "confidence": null,
+        "created": "2026-03-03"
+      },
+      {
+        "filename": "2026-03-03_17-37_philippines-deped-ai-guidelines-facial-ban.json",
+        "headline": "필리핀 교육부, AI 가이드라인서 안면인식 전면 금지",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-04_01_teacher-v-chatbot-my-journey-into-the-cl.json",
+        "headline": "2026-03-04_01_teacher-v-chatbot-my-journey-into-the-cl.json",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-03_17-37_microsoft-ai-ready-america-teaching.json",
+        "headline": "마이크로소프트, 미 의회서 AI 교육 3원칙 제시",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-05_0215_guardian-ai-teacher-perspective.json",
+        "headline": "2026-03-05_0215_guardian-ai-teacher-perspective.json",
+        "priority": 2,
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-05_21-06_lg-ai-graduate-school-masters-doctoral.json",
+        "headline": "LG AI 대학원, 정부 인가 첫 사내 석·박사 과정 출범",
+        "priority": "high",
+        "confidence": null,
+        "created": "2026-03-05"
+      },
+      {
+        "filename": "2026-03-04_08-59_npr-college-students-professors-ai-rules-disagree.json",
+        "headline": "교수도 학생도 AI 규칙은 각자…대학 정책 공백 논란",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-05_0250_ccc-ai-reuse-rights-higher-ed.json",
+        "headline": "CCC launches internal-only AI re-use rights for higher education",
+        "priority": 2,
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-03_22-12_fortune-edtech-silicon-valley-lie-scores.json",
+        "headline": "에듀테크 20년, Z세대는 부모보다 인지능력 낮아졌다",
+        "priority": "normal",
+        "confidence": null,
+        "created": "N/A"
+      },
+      {
+        "filename": "2026-03-06_0207_lg-ai-university.json",
+        "headline": "\"LG 직원도 이제 대학원생\"...기업이 석박사를 준다",
+        "priority": "normal",
+        "confidence": null,
+        "created": "2026-03-06"
+      },
+      {
+        "filename": "2026-03-03_1701_mandatory-ai-curriculum.json",
+        "headline": "초중고 의무 AI 교육 확대…인지 발달 우려도",
+        "priority": 1,
+        "confidence": null,
+        "created": "2026-03-03"
+      }
+    ]
+  },
+  "waiting_queue": 7,
+  "bottleneck": {
+    "stage": "08-published",
+    "count": 76,
+    "analysis": "08-published (76 files) is the current bottleneck. Action needed: Process these files to keep pipeline flowing."
+  }
+}

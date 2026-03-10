@@ -1,0 +1,193 @@
+# 🚨 Editor/Desk Quality Check — 2026-03-06 08:00 KST
+
+## Status
+
+**Time**: 2026-03-06 08:00 (Asia/Seoul)
+**Pipeline Stage**: 05-fact-checked
+**Articles Awaiting Review**: 11
+
+---
+
+## Summary
+
+| Status | Count |
+|--------|-------|
+| ✅ Approved | 0 |
+| ⚠️ Flagged (Needs Revision) | 11 |
+| ❌ Rejected (Auto-Kill) | 0 |
+| **Total** | **11** |
+
+---
+
+## Critical Issues Found
+
+### 🚨 Blocking Issue: Missing Trust Scores
+
+**All 11 articles** are missing `fact_checker_score`. This is a **fact-checker responsibility** — they should have set confidence scores before routing to desk.
+
+```
+Expected: fact_check_report.confidence_score (75-100)
+Actual: undefined
+```
+
+**Consequence**: Cannot proceed with desk approval without scores.
+
+---
+
+## Detailed Issues by Article
+
+### 1. `2026-03-02_11-23_hani-ai-ethics-guideline.json`
+- **Headline**: "교육부, 대학 AI 활용 윤리 가이드라인 시안 공개"
+- **Issues**:
+  - ❌ Title-content mismatch (headline not found in first 200 chars of HTML)
+  - ⚠️ Missing trust score
+
+---
+
+### 2. `2026-03-02_11-23_mk-ai-cheating-prevention.json`
+- **Headline**: "교육부, 대학 AI 윤리 가이드라인 초안 공개"
+- **Issues**:
+  - ❌ Title-content mismatch
+  - ⚠️ Missing trust score
+  - **Note**: Likely duplicate of article #1 (same event, similar headline)
+
+---
+
+### 3. `2026-03-02_11-53_kjob-uk-us-ai-governance-korea.json`
+- **Headline**: "영·미 AI 교육 거버넌스 강화, 한국 선택은"
+- **Issues**:
+  - ❌ Title-content mismatch
+  - ⚠️ Missing trust score
+
+---
+
+### 4. `2026-03-02_18-00_inews365-kttu-ai-bootcamp.json`
+- **Headline**: "교육부 AI 부트캠프, 전국 41개교 신규 선정"
+- **Issues**:
+  - ❌ Title-content mismatch
+  - ⚠️ Missing trust score
+
+---
+
+### 5. `2026-03-03_09-46_moe-ai-ethics-guideline.json`
+- **Headline**: "교육부, 대학 AI 윤리 가이드라인 시안 공개…4~5월 전국 배포"
+- **Issues**:
+  - ❌ Title-content mismatch
+  - ⚠️ Missing trust score
+  - **Note**: Duplicate of articles #1 & #2 (same government announcement)
+
+---
+
+### 6. `2026-03-03_17-17_nyt-ai-literacy-newark-school.json`
+- **Headline**: "AI 리터러시를 운전면허처럼 — 뉴어크 고교의 실험"
+- **Issues**:
+  - ❌ Title-content mismatch
+  - ❌ **feature_image**: Missing (CRITICAL)
+  - ❌ **og_image**: Missing (CRITICAL)
+  - ⚠️ Missing trust score
+  - **Action**: Need image generation before approval
+
+---
+
+### 7. `2026-03-03_1701_ai-ethics-guideline.json`
+- **Headline**: "교육부, 대학 AI 활용 윤리 가이드라인 초안 공개"
+- **Issues**:
+  - ❌ Title-content mismatch
+  - ⚠️ Missing trust score
+  - **Note**: Duplicate of #1, #2, #5
+
+---
+
+### 8. `2026-03-04_16-49_lg-ai-graduate-school-opens.json`
+- **Headline**: "LG, 국내 첫 교육부 인가 사내 AI 대학원 개원"
+- **Issues**:
+  - ❌ Title-content mismatch
+  - ⚠️ Missing trust score
+
+---
+
+### 9. `2026-03-04_18-52_ai-korea-innovation-strategy.json`
+- **Headline**: "LG AI대학원 개원, 기업이 대학원이 되는 시대"
+- **Issues**:
+  - ❌ Title-content mismatch
+  - ❌ **feature_image**: Missing (CRITICAL)
+  - ❌ **og_image**: Missing (CRITICAL)
+  - ⚠️ Missing trust score
+  - **Note**: Likely duplicate of #8 (same LG announcement)
+
+---
+
+### 10. `2026-03-05_0001_lg-ai-graduate-school.json`
+- **Headline**: "기업형 대학원 시대 개막: LG AI 대학원 출범의 의미"
+- **Issues**:
+  - ❌ Title-content mismatch
+  - ⚠️ Missing ghost_tags (Ghost CMS tags)
+  - ⚠️ Missing trust score
+  - **Note**: Duplicate of #8, #9 (same event, different angle)
+
+---
+
+### 11. `2026-03-05_02_nea-teacher-ai-integration.json`
+- **Headline**: "교사들은 AI를 어떻게 쓰고 있나... 現場 사례"
+- **Issues**:
+  - ❌ Title-content mismatch
+  - ⚠️ Missing ghost_tags
+  - ⚠️ Missing trust score
+
+---
+
+## Duplicate Articles Detected
+
+| Event | Articles | Action |
+|-------|----------|--------|
+| **교육부 AI 윤리 가이드라인** | #1, #2, #5, #7 (4개) | Keep #1, KILL #2, #5, #7 |
+| **LG AI 대학원 개원** | #8, #9, #10 (3개) | Keep #8, KILL #9, #10 |
+
+---
+
+## Recommendations for Scott
+
+### 🔴 IMMEDIATE ACTION REQUIRED
+
+1. **Fact-Checker Failure**: 
+   - All 11 articles missing confidence_score
+   - Check fact-checker agent status
+   - May need to re-run fact-check stage
+
+2. **Duplicate Articles**:
+   - 7 out of 11 are duplicates of existing published articles or each other
+   - Recommend: Move duplicates to `rejected/` with reason "duplicate"
+   - Keep unique angles only
+
+3. **Missing Images**:
+   - 2 articles (#6, #9) have no feature_image / og_image
+   - Publisher agent should have generated these
+   - Need regeneration before approval
+
+4. **Title-Content Mismatch**:
+   - All 11 articles have headline-body mismatches
+   - This suggests writer may not be verifying headlines match final content
+   - Recommend: Writer training or headline-check script
+
+---
+
+## Decision
+
+**STATUS**: 🔴 **BLOCKED** — Cannot proceed to desk approval
+
+**Why**:
+- Fact-checker did not set confidence scores
+- This is blocking all downstream decisions
+- Per SOUL.md: `confidence_score < 75 → auto-KILL`
+- `confidence_score undefined` → can't proceed
+
+**Action**: 
+1. Investigate fact-checker stage
+2. Re-run or manually set scores
+3. Return to 05-fact-checked
+4. Resume desk check
+
+---
+
+**Generated by**: Editor/Desk Agent  
+**Report Path**: `/root/.openclaw/workspace/newsroom/pipeline/DESK_CHECK_REPORT_20260306_0800.md`

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agent Control Center | AskedTech</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="dashboard">
+        <!-- Header -->
+        <header class="header">
+            <h1>🤖 Agent Control Center</h1>
+            <div class="header-meta">
+                <span class="last-update">마지막 업데이트: <span id="lastUpdate">-</span></span>
+                <span class="connection-status" id="connectionStatus">🔴 연결 중...</span>
+            </div>
+        </header>
+
+        <!-- Pipeline Flow -->
+        <section class="pipeline-flow">
+            <h2>📊 파이프라인 흐름</h2>
+            <div class="flow-diagram" id="flowDiagram">
+                <!-- JavaScript로 동적 생성 -->
+            </div>
+        </section>
+
+        <!-- Agent Cards -->
+        <section class="agents-grid">
+            <h2>🤖 에이전트 상태</h2>
+            <div class="grid" id="agentGrid">
+                <!-- JavaScript로 동적 생성 -->
+            </div>
+        </section>
+
+        <!-- Metrics -->
+        <section class="metrics-section">
+            <h2>📈 성능 메트릭</h2>
+            <div class="metrics-grid">
+                <div class="metric-card">
+                    <div class="metric-value" id="totalProcessed">0</div>
+                    <div class="metric-label">총 처리 기사</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value" id="successRate">0%</div>
+                    <div class="metric-label">성공률</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value" id="avgProcessingTime">0분</div>
+                    <div class="metric-label">평균 처리 시간</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value" id="activeAgents">0</div>
+                    <div class="metric-label">활성 에이전트</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Alerts -->
+        <section class="alerts-section">
+            <h2>⚠️ 알림</h2>
+            <div class="alerts-list" id="alertsList">
+                <div class="no-alerts">알림 없음</div>
+            </div>
+        </section>
+    </div>
+
+    <script src="app.js?v=20260307-4"></script>
+</body>
+</html>

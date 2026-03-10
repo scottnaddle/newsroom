@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-03-05T21:45:54.270053+09:00",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 1,
+      "assigned": 2,
+      "queued": 1,
+      "rejected": 0
+    },
+    "02_assigned": 2,
+    "03_reported": 2,
+    "04_drafted": 0,
+    "05_fact_checked": {
+      "total": 5,
+      "pass_90plus": 2,
+      "pass_80_89": 0,
+      "flag_75_79": 0,
+      "fail_below_75": 3
+    },
+    "06_desk_approved": 0,
+    "07_copy_edited": 2,
+    "08_published": 71,
+    "rejected": 43
+  },
+  "summary": {
+    "total_articles_in_pipeline": 50,
+    "completed_articles": 71,
+    "rejected_articles": 43
+  },
+  "bottleneck": "04-drafted (파일 수 확인 필요) — writer 병목 가능성",
+  "action_items": [
+    "✅ STEP 1: 01-sourced 2개 배정 (우선/표준), 1개 대기",
+    "✅ STEP 2: 05-fact-checked 2개 FAST PASS (90점) → 07-copy-edited, 3개 거부",
+    "⏳ STEP 3-4: 교열 중 (07-copy-edited 2개 준비됨)",
+    "📌 주의: 거부된 3개 기사는 AI공개/균형/법적 출처 개선 필요"
+  ],
+  "next_execution": "표준 주기 (30분)"
+}

@@ -1,0 +1,32 @@
+{
+  "timestamp": "2026-03-09T09:39:54.964Z",
+  "mode": "orchestrator",
+  "branches": {
+    "education": {
+      "01-sourced": 0,
+      "03-reported": 0,
+      "04-drafted": 0,
+      "05-fact-checked": 0,
+      "06-desk-approved": 0,
+      "07-copy-edited": 0,
+      "08-published": 38
+    },
+    "digest": {
+      "digest/01-sourced": 1,
+      "digest/02-drafted": 0,
+      "digest/03-published": 219
+    }
+  },
+  "papers": 0,
+  "rejected": 85,
+  "totalPublished": 257,
+  "alerts": [
+    {
+      "level": "info",
+      "branch": "education",
+      "message": "발행 완료: 38개 (누적)",
+      "count": 38
+    }
+  ],
+  "lastRunnerLog": "[2026-03-09T09:33:52.093Z] [INFO] [Stage5:교열] 2026-03-09_18-00_virginia-ai-education-guardrails-bill.json | [2026-03-09T09:33:52.093Z] [WARN] [Stage5] 본문 747자 미만 -> rejected: 2026-03-09_18-00_virginia-ai-education-guardrails-bill.json | [2026-03-09T09:33:52.093Z] [INFO] === Pipeline Runner 완료 === | [2026-03-09T09:33:52.093Z] [INFO] Published: 1, Rejected: 3, Error: 0 | [2026-03-09T09:33:52.093Z] [INFO] Ghost URLs: https://insight.ubion.global/p/1b54b758-2852-44e9-bdcc-23a065d5a2ca/"
+}

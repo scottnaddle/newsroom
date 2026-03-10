@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🏢 UBION AI 뉴스룸 관제센터 v3</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1/dist/chart.min.js"></script>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: 'Noto Sans KR', system-ui, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: #1a1a2e;
+      min-height: 100vh;
+      padding: 20px;
+    }
+    
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+    
+    header {
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      margin-bottom: 24px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    
+    h1 {
+      font-size: 28px;
+      font-weight: 800;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    
+    .status-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: #10b981;
+      color: white;
+      padding: 8px 16px;
+      border-radius: 8px;
+      font-size: 14px;
+      font-weight: 600;
+    }
+    
+    .status-badge.pulse::before {
+      content: '';
+      width: 8px;
+      height: 8px;
+      background: white;
+      border-radius: 50%;
+      animation: pulse 2s infinite;
+    }
+    
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+    
+    .timestamp {
+      font-size: 12px;
+      color: #6b7280;
+      margin-top: 4px;
+    }
+    
+    /* Grid Layout */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 20px;
+      margin-bottom: 30px;
+    }
+    
+    .card {
+      background: white;
+      border-radius: 12px;
+      padding: 24px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    
+    .card h2 {
+      font-size: 16px;
+      font-weight: 700;
+      margin-bottom: 16px;
+      color: #374151;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    
+    .stat {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 0;
+      border-bottom: 1px solid #f3f4f6;
+    }
+    
+    .stat:last-child {
+      border-bottom: none;
+    }
+    
+    .stat-label {
+      font-size: 14px;
+      color: #6b7280;
+    }
+    
+    .stat-value {
+      font-size: 20px;
+      font-weight: 800;
+      color: #1f2937;
+    }
+    
+    .stat-value.small {
+      font-size: 16px;
+    }
+    
+    /* Branch Selector */
+    .branch-selector {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 24px;
+      background: white;
+      padding: 16px;
+      border-radius: 12px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    
+    .branch-btn {
+      padding: 10px 20px;
+      border: 2px solid #e5e7eb;
+      background: white;
+      border-radius: 8px;
+      cursor: pointer;
+      font-weight: 600;
+      transition: all 0.3s;
+      font-size: 14px;
+    }
+    
+    .branch-btn:hover {
+      border-color: #3b82f6;
+      color: #3b82f6;
+    }
+    
+    .branch-btn.active {
+      background: #3b82f6;
+      color: white;
+      border-color: #3b82f6;
+    }
+    
+    /* Alerts */
+    .alerts {
+      background: white;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 24px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    
+    .alert-item {
+      padding: 12px;
+      margin-bottom: 8px;
+      border-radius: 8px;
+      font-size: 14px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    
+    .alert-item.info {
+      background: #dbeafe;
+      color: #1e40af;
+      border-left: 4px solid #3b82f6;
+    }
+    
+    .alert-item.warning {
+      background: #fef3c7;
+      color: #92400e;
+      border-left: 4px solid #f59e0b;
+    }
+    
+    .alert-item.critical {
+      background: #fee2e2;
+      color: #991b1b;
+      border-left: 4px solid #dc2626;
+    }
+    
+    /* Chart Container */
+    .chart-container {
+      background: white;
+      border-radius: 12px;
+      padding: 24px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      position: relative;
+      height: 400px;
+      margin-bottom: 24px;
+    }
+    
+    .chart-container h3 {
+      font-size: 16px;
+      font-weight: 700;
+      margin-bottom: 16px;
+      color: #374151;
+    }
+    
+    /* Footer */
+    footer {
+      text-align: center;
+      color: white;
+      font-size: 12px;
+      margin-top: 40px;
+    }
+    
+    /* Responsive */
+    @media (max-width: 768px) {
+      .grid {
+        grid-template-columns: 1fr;
+      }
+      
+      header {
+        flex-direction: column;
+        gap: 16px;
+        align-items: flex-start;
+      }
+      
+      h1 {
+        font-size: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <header>
+      <div>
+        <h1>🏢 UBION AI 뉴스룸 관제센터 v3</h1>
+        <div class="timestamp">마지막 갱신: <span id="lastUpdate">--</span></div>
+      </div>
+      <div class="status-badge pulse">● 실시간 모니터링</div>
+    </header>
+    
+    <!-- Branch Selector -->
+    <div class="branch-selector">
+      <button class="branch-btn active" onclick="showBranch('all')">📊 전체</button>
+      <button class="branch-btn" onclick="showBranch('education')">📚 AI 교육</button>
+      <button class="branch-btn" onclick="showBranch('digest')">⚡ AI Digest</button>
+    </div>
+    
+    <!-- Alerts -->
+    <div class="alerts" id="alertsContainer">
+      <h3>🚨 알림</h3>
+      <div id="alertsList"></div>
+    </div>
+    
+    <!-- Stats Grid -->
+    <div class="grid" id="statsGrid">
+      <!-- JavaScript로 동적 생성 -->
+    </div>
+    
+    <!-- Chart -->
+    <div class="chart-container">
+      <h3>📈 시간대별 발행 현황 (지난 24시간)</h3>
+      <canvas id="publishChart"></canvas>
+    </div>
+  </div>
+  
+  <footer>
+    <p>🔄 1분마다 자동 갱신 | 로그 보관: 7일</p>
+  </footer>
+  
+  <script>
+    let currentBranch = 'all';
+    let chartInstance = null;
+    
+    /**
+     * 데이터 로드 및 UI 갱신
+     */
+    async function loadData() {
+      try {
+        // 상태 조회
+        const statusRes = await fetch('/api/status');
+        const status = await statusRes.json();
+        
+        // 분석 데이터 조회
+        const analyticsRes = await fetch('/api/analytics?hours=24');
+        const analytics = await analyticsRes.json();
+        
+        // UI 갱신
+        updateStats(status);
+        updateAlerts(status);
+        updateChart(analytics);
+        updateTimestamp(status.timestamp);
+      } catch (e) {
+        console.error('데이터 로드 오류:', e);
+      }
+    }
+    
+    /**
+     * 통계 업데이트
+     */
+    function updateStats(status) {
+      const education = status.branches.education;
+      const digest = status.branches.digest;
+      
+      let html = '';
+      
+      if (currentBranch === 'all' || currentBranch === 'education') {
+        const pending = (education['01-sourced'] || 0) + (education['03-reported'] || 0) + 
+                       (education['04-drafted'] || 0) + (education['05-fact-checked'] || 0) + 
+                       (education['06-desk-approved'] || 0) + (education['07-copy-edited'] || 0);
+        html += `
+          <div class="card">
+            <h2>📚 AI 교육 파이프라인 <span style="font-size:11px;color:#6b7280;font-weight:400;">(오케스트레이터 모드)</span></h2>
+            <div class="stat">
+              <span class="stat-label">📡 수집 대기</span>
+              <span class="stat-value small">${education['01-sourced'] || 0}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">📝 취재 완료</span>
+              <span class="stat-value small">${education['03-reported'] || 0}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">✍️ 초안 작성</span>
+              <span class="stat-value small">${education['04-drafted'] || 0}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">✅ 팩트체크</span>
+              <span class="stat-value small">${education['05-fact-checked'] || 0}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">👔 데스크 승인</span>
+              <span class="stat-value small">${education['06-desk-approved'] || 0}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">🔎 교열 완료</span>
+              <span class="stat-value small">${education['07-copy-edited'] || 0}</span>
+            </div>
+            <div class="stat" style="border-top:2px solid #e5e7eb;margin-top:4px;padding-top:12px;">
+              <span class="stat-label" style="font-weight:700;">🚀 발행 (누적)</span>
+              <span class="stat-value">${education['08-published'] || 0}</span>
+            </div>
+            <div style="margin-top:12px;padding:10px;background:${pending > 0 ? '#fef3c7' : '#d1fae5'};border-radius:8px;font-size:12px;text-align:center;">
+              ${pending > 0 ? '⏳ 처리 대기: ' + pending + '개' : '✅ 모든 기사 처리 완료'}
+            </div>
+          </div>
+        `;
+      }
+      
+      if (currentBranch === 'all' || currentBranch === 'digest') {
+        html += `
+          <div class="card">
+            <h2>⚡ AI Digest</h2>
+            <div class="stat">
+              <span class="stat-label">📡 수집 대기</span>
+              <span class="stat-value small">${digest['digest/01-sourced'] || 0}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">📝 초안</span>
+              <span class="stat-value small">${digest['digest/02-drafted'] || 0}</span>
+            </div>
+            <div class="stat" style="border-top:2px solid #e5e7eb;margin-top:4px;padding-top:12px;">
+              <span class="stat-label" style="font-weight:700;">🚀 발행 (누적)</span>
+              <span class="stat-value">${digest['digest/03-published'] || 0}</span>
+            </div>
+          </div>
+        `;
+      }
+      
+      if (currentBranch === 'all') {
+        const agents = status.agents || {};
+        html += `
+          <div class="card">
+            <h2>📊 통합 통계</h2>
+            <div class="stat">
+              <span class="stat-label">📚 교육 기사</span>
+              <span class="stat-value small">${education['08-published'] || 0}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">⚡ Digest</span>
+              <span class="stat-value small">${digest['digest/03-published'] || 0}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">📄 학술논문</span>
+              <span class="stat-value small">${status.papers || 0}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">🎨 만평</span>
+              <span class="stat-value small">${agents.cartoon?.count || 0}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">💬 Colloquy</span>
+              <span class="stat-value small">${agents.colloquy?.count || 0}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">📊 인사이트</span>
+              <span class="stat-value small">${agents.insight?.count || 0}</span>
+            </div>
+            <div class="stat" style="border-top:2px solid #e5e7eb;margin-top:4px;padding-top:12px;">
+              <span class="stat-label" style="font-weight:700;">총 발행</span>
+              <span class="stat-value">${status.totalPublished}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">❌ 거부됨</span>
+              <span class="stat-value small">${status.rejected}</span>
+            </div>
+          </div>
+        `;
+      }
+      
+      document.getElementById('statsGrid').innerHTML = html;
+    }
+    
+    /**
+     * 알림 업데이트
+     */
+    function updateAlerts(status) {
+      const alerts = status.alerts || [];
+      
+      if (alerts.length === 0) {
+        document.getElementById('alertsList').innerHTML = '<p style="color: #6b7280; font-size: 14px;">🟢 모든 작업이 정상입니다</p>';
+        return;
+      }
+      
+      let html = alerts.map(alert => {
+        const levelClass = alert.level === 'warning' ? 'warning' : alert.level === 'critical' ? 'critical' : 'info';
+        return `<div class="alert-item ${levelClass}">
+          <span style="font-weight: 600;">●</span>
+          ${alert.message}
+        </div>`;
+      }).join('');
+      
+      document.getElementById('alertsList').innerHTML = html;
+    }
+    
+    /**
+     * 차트 업데이트 (막대그래프)
+     */
+    function updateChart(analytics) {
+      const ctx = document.getElementById('publishChart').getContext('2d');
+      
+      if (chartInstance) {
+        chartInstance.destroy();
+      }
+      
+      chartInstance = new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: analytics.labels,
+          datasets: [
+            {
+              label: analytics.datasets[0].label,
+              data: analytics.datasets[0].data,
+              backgroundColor: analytics.datasets[0].backgroundColor,
+              borderColor: analytics.datasets[0].borderColor,
+              borderWidth: 1
+            },
+            {
+              label: analytics.datasets[1].label,
+              data: analytics.datasets[1].data,
+              backgroundColor: analytics.datasets[1].backgroundColor,
+              borderColor: analytics.datasets[1].borderColor,
+              borderWidth: 1
+            }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: {
+              position: 'top',
+              labels: { font: { size: 12 }, usePointStyle: true, padding: 15 }
+            }
+          },
+          scales: {
+            y: {
+              beginAtZero: true,
+              ticks: { font: { size: 11 } }
+            },
+            x: {
+              ticks: { font: { size: 11 } }
+            }
+          }
+        }
+      });
+    }
+    
+    /**
+     * 타임스탐프 업데이트
+     */
+    function updateTimestamp(timestamp) {
+      const date = new Date(timestamp);
+      const formatted = date.toLocaleString('ko-KR', { 
+        year: 'numeric', month: '2-digit', day: '2-digit',
+        hour: '2-digit', minute: '2-digit', second: '2-digit'
+      });
+      document.getElementById('lastUpdate').textContent = formatted;
+    }
+    
+    /**
+     * 브랜치 필터
+     */
+    function showBranch(branch) {
+      currentBranch = branch;
+      document.querySelectorAll('.branch-btn').forEach(btn => btn.classList.remove('active'));
+      event.target.classList.add('active');
+      loadData();
+    }
+    
+    /**
+     * 초기 로드 + 1분마다 폴링
+     */
+    loadData();
+    setInterval(loadData, 60 * 1000); // 1분마다
+  </script>
+</body>
+</html>

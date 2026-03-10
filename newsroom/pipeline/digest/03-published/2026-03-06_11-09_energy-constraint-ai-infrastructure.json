@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "The Hidden Constraint Behind AI's Next Chapter: Why Energy Infrastructure Matters More Than Computing Power",
+    "url": "https://markets.financialcontent.com/stocks/article/accwirecq-2026-3-5-neel-somani-on-the-hidden-constraint-behind-ais-next-chapter-why-energy-infrastructure-matters-more-than-computing-power",
+    "source_name": "Financial Content / ACCESS Newswire",
+    "language": "en",
+    "relevance_score": 82,
+    "summary": "Neel Somani analyzes how electrical infrastructure has become the critical bottleneck for AI development, surpassing GPU scarcity. Energy availability is reshaping where AI research occurs, driving investment in regions with renewable power and forcing a rethinking of data center architecture and efficiency optimization across the industry.",
+    "published_date": "2026-03-04",
+    "collected_at": "2026-03-06T11:09:00Z"
+  },
+  "digest": {
+    "headline": "AI의 미래를 결정하는 것은 GPU가 아니라 전력 인프라",
+    "lead": "AI 개발의 병목은 이제 컴퓨팅 파워에서 전기 인프라로 옮겨갔다. 재생에너지가 풍부한 지역으로 AI 연구 투자가 집중되면서 데이터센터 건설과 효율화 전략이 산업 판도를 좌우하게 되고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">AI 개발의 병목은 이제 컴퓨팅 파워에서 전기 인프라로 옮겨갔다. 재생에너지가 풍부한 지역으로 AI 연구 투자가 집중되면서 데이터센터 건설과 효율화 전략이 산업 판도를 좌우하게 되고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">지난 몇 년간 AI 개발자들은 GPU 부족으로 고심했다. 하지만 2026년 현재 산업 분석가들은 진짜 문제는 따로 있다고 지적한다. 대규모 AI 모델 학습과 배포에 필요한 전기 에너지가 희귀한 자원이 되었다는 것이다. 같은 수의 GPU를 보유해도 전기를 공급할 수 없으면 무용지물이 되는 상황이 벌어지고 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 변화는 AI 산업의 지정학을 재편하고 있다. 재생에너지가 풍부한 지역에 데이터센터와 AI 연구소가 몰려가고, 기존의 GPU 중심 전략은 효율화와 최적화 기술로 전환되고 있다. 향후 AI 리더십은 단순히 칩 개발 능력뿐 아니라 에너지 인프라 확보 능력으로도 결정될 것으로 예상된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">에듀테크 스타트업이 AI를 활용한 교육 솔루션을 개발할 때는 인프라 비용이 큰 장애물이 된다. 에너지 효율성이 높은 AI 모델과 경량 모델의 중요성이 높아지면서, 오픈소스 LLM과 로컬 배포 기술이 교실 수준의 AI 도입을 가능하게 할 것으로 보인다. 재생에너지 기반의 공동 데이터센터 인프라도 교육 서비스 공급자들에게 새로운 기회가 될 수 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://markets.financialcontent.com/stocks/article/accwirecq-2026-3-5-neel-somani-on-the-hidden-constraint-behind-ais-next-chapter-why-energy-infrastructure-matters-more-than-computing-power\" style=\"color:#FF6B35;text-decoration:none;\">Financial Content / ACCESS Newswire</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "infrastructure"
+    ],
+    "meta_title": "AI 개발의 미래를 결정하는 전력 인프라",
+    "meta_description": "GPU 부족에서 전기 인프라로 옮겨간 AI 개발의 병목. 재생에너지 기반 데이터센터 투자와 효율화 기술이 향후 산업 판도를 좌우할 전망.",
+    "word_count": 587
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T11:09:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T11:12:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T02:37:43.637Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aa3df2ff4fbf0001ab6dd2",
+    "ghost_url": "https://insight.ubion.global/aiyi-miraereul-gyeoljeonghaneun-geoseun-gpuga-anira-jeonryeog-inpeura/",
+    "public_url": "https://insight.ubion.global/aiyi-miraereul-gyeoljeonghaneun-geoseun-gpuga-anira-jeonryeog-inpeura/",
+    "status": "published",
+    "published_at": "2026-03-06T02:37:38.000Z"
+  }
+}

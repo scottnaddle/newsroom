@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-03-05T12:15:12.986106+00:00",
+  "report_type": "pipeline_status",
+  "pipeline_status": {
+    "01_sourced": 0,
+    "02_assigned": 7,
+    "03_reported": 0,
+    "04_drafted": 0,
+    "05_fact_checked": {
+      "total": 0,
+      "pass_90plus": 0,
+      "pass_80_89": 0,
+      "flag_75_79": 0,
+      "fail_below_75": 0
+    },
+    "06_desk_approved": 0,
+    "07_copy_edited": 0,
+    "08_published": 71
+  },
+  "queue_waiting": 3,
+  "rejected_total": 40,
+  "bottleneck": "02_assigned",
+  "bottleneck_count": 7,
+  "action_needed": "02_assigned 처리 필요 (7개)"
+}

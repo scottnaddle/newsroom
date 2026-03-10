@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Tech stocks today: Nvidia stops H200 chip production, Anthropic rejects defense demands, OpenAI raises $110 billion",
+    "url": "https://finance.yahoo.com/news/live/tech-stocks-today-anthropic-rejects-defense-department-ai-demands-openai-raises-110-billion-143452606.html",
+    "source_name": "Yahoo Finance",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Nvidia CEO Jensen Huang announced the company's strategic shift to focus on the Vera Rubin platform while signaling that multibillion-dollar investments in OpenAI and Anthropic may be the last before these AI startups go public. The move reflects major developments in the competitive AI landscape with major players shifting production priorities and funding strategies.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-06T04:09:00Z"
+  },
+  "digest": {
+    "headline": "오픈AI 1,100억 달러 펀딩 확정, 엔비디아는 칩 전략 전환",
+    "lead": "오픈AI가 1,100억 달러 규모의 대규모 펀딩을 확보하면서 AI 산업의 자금 경쟁이 가열되고 있다. 동시에 엔비디아의 젠슨 황 CEO는 차세대 베라 루빈 플랫폼으로의 전략 전환을 선언하며, 오픈AI와 앤스로픽 같은 스타트업에 대한 투자가 최후일 수 있다고 시사했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">오픈AI가 1,100억 달러 규모의 대규모 펀딩을 확보하면서 AI 산업의 자금 경쟁이 가열되고 있다. 동시에 엔비디아의 젠슨 황 CEO는 차세대 베라 루빈 플랫폼으로의 전략 전환을 선언하며, 오픈AI와 앤스로픽 같은 스타트업에 대한 투자가 최후일 수 있다고 시사했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">글로벌 AI 경쟁에서 선도 기업들은 막대한 자본을 투입하고 있다. 오픈AI의 1,100억 달러 펀딩은 기업용 AI 개발에 필요한 인프라 구축, 인재 확보, 연구개발에 투입될 예정이다. 한편 엔비디아는 H200 칩 생산을 중단하고 베라 루빈 플랫폼으로 집중하면서 차세대 AI 칩 시장 선점을 노린다. 앤스로픽의 국방부 AI 수요 거부는 기술 윤리 논의와 정책 방향성을 반영한다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">오픈AI의 대규모 펀딩은 생성형 AI 기업의 IPO 추진 신호로 해석된다. 엔비디아의 발언은 AI 칩 기술이 H200에서 베라 루빈으로 빠르게 진화하고 있음을 의미하며, 이는 AI 인프라 투자의 가파른 성장을 보여준다. 한국 AI 스타트업들도 이같은 국제적 자금·기술 트렌드를 따라잡기 위해 더욱 빠른 혁신 속도가 필요한 시점이다.</p>\n\n  <!-- 에듀테크 시사점 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">오픈AI의 펀딩과 엔비디아의 칩 기술 진화는 에듀테크 스타트업의 AI 모델 접근 비용과 시간에 직결된다. 고도화된 칩 기술은 더 효율적인 AI 추론 환경을 만들고, 투자 자본의 증가는 API 가격 경쟁을 유발해 교육 AI 서비스의 확산 속도를 높일 수 있다. 특히 한국 에듀테크 기업들도 글로벌 수준의 AI 인프라에 더 접근성 높게 활용할 기회가 생긴다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://finance.yahoo.com/news/live/tech-stocks-today-anthropic-rejects-defense-department-ai-demands-openai-raises-110-billion-143452606.html\" style=\"color:#FF6B35;text-decoration:none;\">Yahoo Finance</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "openai"
+    ],
+    "meta_title": "오픈AI 1,100억 달러 펀딩 확정, 엔비디아 칩 전략 전환",
+    "meta_description": "오픈AI 1,100억 달러 펀딩과 엔비디아의 베라 루빈 플랫폼 전환이 AI 산업에 미치는 영향을 분석합니다.",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T04:09:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T13:12:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T04:42:39.441Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aa5b3fff4fbf0001ab6df8",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aa5b3fff4fbf0001ab6df8",
+    "public_url": "https://ubion.ghost.io/opeunai-1-100eog-dalreo-peonding-hwagjeong-enbidianeun-cib-jeonryag-jeonhwan/",
+    "status": "published",
+    "published_at": "2026-03-06T04:42:39.000Z"
+  }
+}

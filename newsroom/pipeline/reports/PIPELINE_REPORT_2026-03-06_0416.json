@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-03-06T04:16:00Z",
+  "timezone": "Asia/Seoul",
+  "pipeline_check": "editor-desk (매 30분 점검)",
+  "check_duration_minutes": 30,
+  
+  "current_status": {
+    "summary": "✅ 파이프라인 상태 양호 — 병목 지점: 04-drafted (writer)",
+    "queued_articles": 22,
+    "active_pipeline": "12개 기사 진행 중"
+  },
+  
+  "stage_breakdown": {
+    "01_sourced": {
+      "count": 0,
+      "status": "✅ 비어있음",
+      "action": "신규 소싱 대기"
+    },
+    "02_assigned": {
+      "count": 3,
+      "status": "⏳ 취재기자 처리 중",
+      "note": "Reporter 에이전트 처리 진행 중"
+    },
+    "03_reported": {
+      "count": 2,
+      "status": "⏳ 원고 작성 중",
+      "note": "Reporter 에이전트 처리 진행 중"
+    },
+    "04_drafted": {
+      "count": 4,
+      "status": "🚨 병목 (PRIORITY)",
+      "bottleneck_reason": "Writer 에이전트 우선 실행 필요",
+      "impact": "교열 및 팩트체크 대기"
+    },
+    "05_fact_checked": {
+      "count": 0,
+      "status": "✅ 처리 완료 (최근)"
+    },
+    "06_desk_approved": {
+      "count": 0,
+      "status": "✅ 처리 완료 → 07로 승격"
+    },
+    "07_copy_edited": {
+      "count": 0,
+      "status": "✅ 처리 완료 → 08로 승격"
+    },
+    "08_published": {
+      "count": 53,
+      "status": "⏳ Ghost CMS 발행 대기",
+      "note": "Publisher 에이전트 실행 필요"
+    },
+    "rejected": {
+      "count": 1,
+      "status": "최근: MT 기사 (날짜 오류)"
+    },
+    "queue_memory": {
+      "count": 22,
+      "score_range": "55-72점",
+      "status": "50-74 범위 → 대기 중",
+      "oldest": "2026-03-02 (4일 전)"
+    }
+  },
+  
+  "editor_decisions_this_cycle": {
+    "cycle_items": 0,
+    "reason": "05-fact-checked/ 현재 비어있음",
+    "note": "지난 사이클 처리: 2개 기사 (승인 1, 거부 1)"
+  },
+  
+  "workflow_health": {
+    "normal_flow": {
+      "01_sourced_to_02": "✅ 정상",
+      "02_to_03": "⏳ Reporter 진행 중",
+      "03_to_04": "⏳ Writer 진행 중",
+      "04_to_05": "⏳ Fact-checker 준비 대기",
+      "05_to_06_07": "✅ 자동 라우팅 작동",
+      "07_to_08": "✅ 자동 승격 작동",
+      "08_to_publish": "⏳ Publisher 진행 필요"
+    }
+  },
+  
+  "action_items": {
+    "immediate": [
+      {
+        "priority": "🔴 CRITICAL",
+        "action": "Writer 에이전트 실행",
+        "target": "04-drafted/ (4개 기사)",
+        "purpose": "원고 다듬기 → 팩트체크로 진행",
+        "deadline": "지금 (병목 해소)"
+      },
+      {
+        "priority": "🔴 CRITICAL",
+        "action": "Publisher 에이전트 실행",
+        "target": "08-published/ (53개 기사)",
+        "purpose": "Ghost CMS 일괄 발행",
+        "deadline": "업무 시간 내"
+      }
+    ],
+    "queue_management": {
+      "note": "22개 기사 대기 중 (queue.json)",
+      "action": "01-sourced/로 이동 검토 필요",
+      "criteria": "4일 이상 대기 시 우선순위 점검"
+    }
+  },
+  
+  "key_metrics": {
+    "total_in_pipeline": 12,
+    "total_queued": 22,
+    "total_published": 53,
+    "pass_rate_recent": "50% (1 APPROVE / 2)",
+    "rejection_rate_recent": "50% (1 KILL)",
+    "avg_cycle_time": "~2-3 days (02 → 08)"
+  },
+  
+  "notes": {
+    "queue_aging": "⚠️ 22개 기사 중 일부는 4일 이상 대기 (2026-03-02 소싱)",
+    "bottleneck_cause": "Writer 에이전트 병목 — 04-drafted에 4개 기사 축적",
+    "editor_review": "✅ 지난 사이클 2개 기사 처리 완료 (신뢰도 80-89 범위)",
+    "publish_queue": "53개 기사 발행 준비 완료, Publisher 대기 중"
+  },
+  
+  "recommendations": {
+    "next_30_minutes": [
+      "1️⃣ Writer 실행: 04-drafted/ 4개 처리",
+      "2️⃣ Queue 우선순위 재평가 (4일+ 기사)",
+      "3️⃣ 신규 sourced 기사 확인"
+    ],
+    "next_2_hours": [
+      "Publisher 실행: 08-published/ 53개 발행",
+      "pipeline 다시 점검"
+    ]
+  },
+  
+  "system_status": "✅ 정상 작동 — 에이전트 동기화 필요"
+}

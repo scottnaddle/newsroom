@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
+    "url": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+    "source_name": "TechCrunch",
+    "language": "en",
+    "relevance_score": 95,
+    "summary": "Caitlin Kalinowski, OpenAI's head of robotics and former Meta AR hardware lead, resigned over OpenAI's Pentagon deal. She said the company rushed the announcement 'without the guardrails defined' and that surveillance of Americans without judicial oversight and lethal autonomy without human authorization 'deserved more deliberation.' OpenAI confirmed her departure.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-08T23:16:00+09:00"
+  },
+  "digest": {
+    "headline": "오픈AI 로보틱스 총괄, 국방부 계약 항의하며 사임",
+    "lead": "오픈AI의 로보틱스 부문 책임자 케이틀린 칼리노프스키가 국방부 계약에 항의하며 사임했다. 메타 AR 하드웨어 책임자 출신인 그는 '사법부 감독 없는 미국인 감시와 인간 승인 없는 치명적 자율성은 더 충분한 숙의가 필요했다'고 밝혔다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">오픈AI의 로보틱스 부문 책임자 케이틀린 칼리노프스키가 국방부 계약에 항의하며 사임했다. 메타 AR 하드웨어 책임자 출신인 그는 '사법부 감독 없는 미국인 감시와 인간 승인 없는 치명적 자율성은 더 충분한 숙의가 필요했다'고 밝혔다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">칼리노프스키는 2024년 11월 메타에서 오픈AI로 합류해 로보틱스 팀을 이끌어왔다. 그는 링크드인을 통해 사임을 알리며 \"AI가 국가 안보에서 중요한 역할을 한다는 점은 인정하지만, 이번 발표는 가드레일이 정의되지 않은 채 성급하게 이뤄졌다\"고 지적했다. 그는 \"원칙의 문제이지 사람의 문제가 아니다\"라며 샘 올트먼 CEO와 오픈AI 팀에 대한 존경은 유지한다고 덧붙였다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 사임은 오픈AI 내부에서도 국방부 계약에 대한 불만이 상당하다는 것을 보여주는 상징적 사건이다. 오픈AI는 성명에서 \"국내 감시 금지와 자율무기 금지라는 레드 라인을 명확히 했다\"고 해명했지만, 챗GPT 삭제율 295% 급증과 함께 핵심 인재 이탈까지 겹치며 기업 이미지에 적지 않은 타격을 받고 있다. AI 업계 전반에 걸쳐 군사 활용의 윤리적 경계를 어디에 설정할 것인가를 둘러싼 논쟁이 본격화하는 양상이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 기업의 군사 활용 논란은 교육 현장의 AI 도입 결정에도 영향을 미친다. 학교와 교육 기관은 AI 플랫폼 선택 시 해당 기업의 데이터 활용 정책과 윤리적 입장을 점검해야 하며, 특히 학생 데이터가 관여되는 만큼 '가드레일 없는 성급한 도입'에 대한 경계심이 더욱 높아질 전망이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/\" style=\"color:#FF6B35;text-decoration:none;\">TechCrunch</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "openai",
+      "regulation"
+    ],
+    "meta_title": "오픈AI 로보틱스 책임자, 국방부 계약에 항의하며 사임 — 내부 균열 심화",
+    "meta_description": "오픈AI 로보틱스 총괄 케이틀린 칼리노프스키가 국방부 계약에 항의해 사임했다. '가드레일 없는 성급한 발표'를 비판하며, AI 군사 활용의 윤리적 경계 논쟁이 격화되고 있다.",
+    "word_count": 530
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-08T23:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-08T23:44:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T14:55:39.767Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ad8ddeff4fbf0001ab7555",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ad8ddeff4fbf0001ab7555",
+    "public_url": "https://insight.ubion.global/opeunai-robotigseu-conggwal-gugbangbu-gyeyag-hangyihamyeo-saim/",
+    "status": "published",
+    "published_at": "2026-03-08T14:55:26.000Z"
+  }
+}

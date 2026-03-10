@@ -1,0 +1,91 @@
+{
+  "stage": "published",
+  "source": {
+    "url": "https://news.unn.net/news/articleView.html?idxno=590415",
+    "title": "AI 일상화에… \"윤리교육·리터러시 정책 마련 필요\"",
+    "snippet": "현 정책 추진 방향에서 AI 윤리나 리터러시 정책의 비중이 약해질 가능성. 전 국민 대상 AI 윤리교육 실효성 위해 디지털 리터러시 체계 필요.",
+    "published_date": "2026-03-03"
+  },
+  "relevance_score": 85,
+  "tags": [
+    "policy",
+    "ethics",
+    "literacy"
+  ],
+  "collected_at": "2026-03-07T22:13:14.911Z",
+  "assigned_at": "2026-03-08T07:37:00+09:00",
+  "reported_at": "2026-03-08T07:48:00+09:00",
+  "reporting_brief": {
+    "who": "국가평생교육진흥원 연구진. 보고서: 'AI윤리와 AI 리터러시 함양을 위한 평생교육의 과제'. 관련 기관: 한국지능정보사회진흥원(NIA), 정보통신정책연구원(KISDI), 교육부.",
+    "what": "정부의 AI 정책 49개 국정과제 중 산업 진흥·인재 양성에 편중되어 있으며, AI 윤리교육과 디지털 리터러시 정책의 비중이 상대적으로 약하다는 분석. 전 국민 대상 평생교육 차원의 AI 윤리·리터러시 교육 체계 구축을 제안.",
+    "why": "AI 일상화로 허위정보, 책임 공백 등 부작용 증가. 기술 확산 속도에 비해 윤리적 대응 체계가 부족. 해외(미국 AI4ALL, MIT Moral Machine, 독일 AI 학습플랫폼, 싱가포르 LearnAI)는 AI 윤리를 국가 전략 일부로 인식하는 반면, 한국은 정부 산하기관 중심의 제한적 운영에 그침.",
+    "when": "2026년 3월 3일 보고서 기반 보도. 정부 AI 3강 도약 목표 및 'AI for All: 모두를 위한 AI 인재양성방안' 발표 이후 시점.",
+    "context": "정부는 2026년 2월 5일 국가AI전략위-국교위 공동 'AI 전환 시대 교육정책 협력 포럼'에서 AI 보조교사 도입, 초중고 전학년 AI 교육 의무화, AI 윤리 교육 전학년 포함 등을 논의. 이 보고서는 산업 진흥 일변도 정책에 대한 보완 요구로서 시의성 높음.",
+    "sources": [
+      {
+        "url": "https://news.unn.net/news/articleView.html?idxno=590415",
+        "title": "한국대학신문 - AI 윤리교육·리터러시 정책 마련 필요",
+        "reliability": "높음 (1차 보도)"
+      },
+      {
+        "url": "https://nsp.nanet.go.kr/plan/subject/detail.do?nationalPlanControlNo=PLAN0000049488",
+        "title": "국회입법조사처 - 국내외 AI 윤리교육 사례 분석과 시사점",
+        "reliability": "높음 (정부 연구자료)"
+      },
+      {
+        "url": "https://ai.kisdi.re.kr/aieth/main/contents.do?menuNo=400039",
+        "title": "KISDI AI 윤리 소통채널 - AI 윤리교육 필요성",
+        "reliability": "높음 (정부 산하기관)"
+      },
+      {
+        "url": "https://www.edupress.kr/news/articleView.html?idxno=21727",
+        "title": "에듀프레스 - 정부 AI 보조교사 도입·AI 교육 의무화 검토",
+        "reliability": "중상 (교육 전문매체)"
+      }
+    ],
+    "perspectives": {
+      "government": "AI 3강 도약 목표 하에 산업 진흥 중심 정책 추진. 교육부 'AI for All' 방안 발표. 최근 AI 윤리 교육 전학년 포함 검토로 방향 보완 시도.",
+      "education": "국가평생교육진흥원은 디지털 리터러시 큰 틀 아래 윤리교육 통합 필요성 주장. 해외 사례(미국 자율확산형, 유럽 제도중심형) 대비 한국은 체계 미비.",
+      "industry": "산업계는 AI 인재 양성 확대 환영하나, 윤리·리터러시는 기업 자체 가이드라인으로 대응하는 경향. 정책 차원의 표준화 요구 증가."
+    },
+    "suggested_angle": "한국의 AI 정책이 '만드는 것'에 집중하는 사이, '쓰는 법'에 대한 교육은 뒷전 — 국가평생교육진흥원 보고서가 제기하는 윤리·리터러시 정책 공백과 해외 사례 비교를 통한 개선 방향."
+  },
+  "draft": {
+    "headline": "AI는 만들었는데 '쓰는 법'은 안 가르친다 — 윤리·리터러시 정책의 빈자리",
+    "subheadline": "국가평생교육진흥원 보고서, 49개 국정과제 중 AI 윤리 비중 '미미'… 해외는 국가 전략으로 접근",
+    "html": "<div style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;font-size:17px;line-height:1.9;color:#1a202c\">\n\n<div style=\"border-left:4px solid #4338ca;background:#f8f9ff;padding:20px 24px;margin-bottom:32px;border-radius:0 8px 8px 0\">\n<p style=\"margin:0;font-size:18px;font-weight:600;color:#4338ca\">정부의 AI 국정과제 49개 중 윤리·리터러시 관련 정책은 손에 꼽힌다. 국가평생교육진흥원은 AI를 '만드는 것'에 편중된 정책 구조를 지적하며, 전 국민 대상 윤리·리터러시 교육 체계 구축을 촉구했다.</p>\n</div>\n\n<figure class=\"kg-card kg-image-card kg-width-full\">\n<img src=\"https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200\" alt=\"디지털 리터러시와 AI 윤리 교육\" style=\"width:100%;border-radius:8px\" />\n<figcaption style=\"text-align:center;font-size:14px;color:#94a3b8;margin-top:8px\">AI 기술 확산 속도에 비해 윤리적 대응 체계는 아직 걸음마 단계다. (Unsplash)</figcaption>\n</figure>\n\n<h2 style=\"font-size:19px;margin-top:36px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">49개 국정과제, 윤리는 어디에</h2>\n<p>국가평생교육진흥원이 최근 발표한 보고서 'AI윤리와 AI 리터러시 함양을 위한 평생교육의 과제'는 불편한 사실을 수치로 보여준다. 정부가 추진 중인 AI 관련 49개 국정과제를 분석한 결과, 대다수가 산업 진흥과 인재 양성에 집중되어 있었다. AI 윤리교육이나 디지털 리터러시에 직접적으로 배정된 정책 비중은 상대적으로 미미했다.</p>\n<p>AI가 일상의 도구가 된 시대다. 챗봇으로 보고서를 쓰고, 생성형 AI로 이미지를 만들며, AI가 추천하는 뉴스를 읽는다. 그런데 이 도구를 '어떻게' 써야 하는지, 어디까지 믿어도 되는지에 대한 교육은 체계적으로 이뤄지지 않고 있다. 허위정보 확산, AI 결과물의 책임 소재 공백, 알고리즘 편향 같은 부작용이 늘어나는 배경이다.</p>\n\n<h2 style=\"font-size:19px;margin-top:36px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">해외는 국가 전략, 한국은 산하기관 위탁</h2>\n<p>보고서가 특히 주목한 것은 해외 사례와의 격차다. 미국은 AI4ALL을 통해 청소년 대상 AI 윤리 프로그램을 확산하고, MIT는 Moral Machine 프로젝트로 AI 의사결정의 윤리적 딜레마를 시민 참여형으로 연구하고 있다. 독일은 국가 AI 전략에 윤리 학습 플랫폼을 포함시켰고, 싱가포르는 LearnAI를 통해 전 국민 대상 AI 리터러시 교육을 운영 중이다.</p>\n<p>반면 한국의 AI 윤리 교육은 한국지능정보사회진흥원(NIA)이나 정보통신정책연구원(KISDI) 같은 정부 산하기관이 개별적으로 운영하는 수준에 머물러 있다. 국가 전략의 핵심 축이 아니라, 부수적 사업으로 다뤄지는 셈이다. 미국이 '자율 확산형', 유럽이 '제도 중심형'이라면, 한국은 아직 유형조차 정립되지 않았다는 평가가 나온다.</p>\n\n<h2 style=\"font-size:19px;margin-top:36px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">'만드는 교육'과 '쓰는 교육'의 균형점</h2>\n<p>정부도 변화의 조짐은 보이고 있다. 2026년 2월 5일 국가AI전략위원회와 국가교육위원회는 공동으로 'AI 전환 시대 교육정책 협력 포럼'을 열어 AI 윤리 교육의 전학년 포함을 검토했다. 초중고 전 학년에 AI 교육을 의무화하고, AI 보조교사 도입을 추진하는 과정에서 윤리 교육도 함께 다루겠다는 방향이다.</p>\n<p>그러나 이 보고서가 지적하는 핵심은 '포함 검토'만으로는 부족하다는 것이다. 평생교육 차원에서 전 국민을 대상으로 한 디지털 리터러시 체계를 구축하고, 그 안에 AI 윤리 교육을 통합해야 한다고 제안한다. AI를 개발하는 인재 양성도 중요하지만, AI를 사용하는 시민의 역량을 키우는 일이 병행되어야 기술의 혜택이 부작용 없이 사회 전체로 퍼질 수 있다는 논리다.</p>\n<p>산업계에서도 비슷한 목소리가 나온다. 기업들은 자체 AI 윤리 가이드라인을 만들어 대응하고 있지만, 업종과 규모에 따라 편차가 크다. 정책 차원의 표준화된 기준이 필요하다는 요구가 커지고 있다. 기술을 만드는 속도에 쓰는 법을 가르치는 속도가 따라가지 못한다면, 그 간극이 사회적 비용으로 돌아올 수밖에 없다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0;margin-top:36px;padding-top:20px\">\n<p style=\"font-size:15px;font-weight:600;margin-bottom:12px\">📎 참고자료</p>\n<ol style=\"font-size:15px;color:#475569;padding-left:20px\">\n<li><a href=\"https://news.unn.net/news/articleView.html?idxno=590415\" style=\"color:#4338ca\">한국대학신문 — AI 윤리교육·리터러시 정책 마련 필요</a></li>\n<li><a href=\"https://nsp.nanet.go.kr/plan/subject/detail.do?nationalPlanControlNo=PLAN0000049488\" style=\"color:#4338ca\">국회입법조사처 — 국내외 AI 윤리교육 사례 분석과 시사점</a></li>\n<li><a href=\"https://ai.kisdi.re.kr/aieth/main/contents.do?menuNo=400039\" style=\"color:#4338ca\">KISDI AI 윤리 소통채널 — AI 윤리교육 필요성</a></li>\n<li><a href=\"https://www.edupress.kr/news/articleView.html?idxno=21727\" style=\"color:#4338ca\">에듀프레스 — 정부 AI 보조교사 도입·AI 교육 의무화 검토</a></li>\n</ol>\n</div>\n\n<p style=\"font-size:13px;color:#cbd5e1;margin-top:32px\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>",
+    "ghost_tags": [
+      "AI 정책",
+      "AI 윤리",
+      "디지털 리터러시",
+      "평생교육",
+      "국가평생교육진흥원"
+    ],
+    "references": [
+      "https://news.unn.net/news/articleView.html?idxno=590415",
+      "https://nsp.nanet.go.kr/plan/subject/detail.do?nationalPlanControlNo=PLAN0000049488",
+      "https://ai.kisdi.re.kr/aieth/main/contents.do?menuNo=400039",
+      "https://www.edupress.kr/news/articleView.html?idxno=21727"
+    ],
+    "word_count": 820,
+    "category": "policy",
+    "meta_title": "AI는 만들었는데 '쓰는 법'은 안 가르친다 — 윤리·리터러시 정책의 빈자리",
+    "meta_description": "국가평생교육진흥원 보고서에 따르면 정부 AI 49개 국정과제 중 윤리·리터러시 비중은 미미하다. 해외는 국가 전략으로 접근하는 반면, 한국은 산하기관 위탁 수준에 머물러 있다."
+  },
+  "fact_check": {
+    "score": 92,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "국가평생교육진흥원 보고서 존재 확인 — 한국대학신문 원문 기사 일치",
+      "AI 국정과제 49개 언급 — 원문 보도 확인",
+      "AI4ALL, MIT Moral Machine, 싱가포르 AI 리터러시 교육 — 해외 프로그램 존재 및 운영 확인",
+      "2026년 2월 5일 AI 전환 시대 교육정책 협력 포럼 개최 — ZDNet 등 다수 매체 보도 확인"
+    ]
+  },
+  "desk_approved_at": "2026-03-08T09:00:29.018811+09:00",
+  "copy_edited_at": "2026-03-08T09:01:00+09:00",
+  "ghost_id": "69acbe39ff4fbf0001ab7448",
+  "ghost_url": "https://insight.ubion.global/p/78d5d299-f65e-4e99-9e2c-2bc028e5d7a7/",
+  "published_at": "2026-03-08T00:09:30.031Z"
+}

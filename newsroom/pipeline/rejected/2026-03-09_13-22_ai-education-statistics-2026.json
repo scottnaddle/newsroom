@@ -1,0 +1,33 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.engageli.com/blog/ai-in-education-statistics",
+    "title": "25 AI in Education Statistics to Guide Your Learning Strategy in 2026",
+    "snippet": "Comprehensive collection of AI in education statistics including that most US public schools lack AI policies for students. Data from DemandSage, Child Trends, and U.S. Department of Education.",
+    "published_date": "2026-03-04"
+  },
+  "relevance_score": 65,
+  "tags": [
+    "statistics",
+    "research",
+    "education"
+  ],
+  "collected_at": "2026-03-09T04:22:00.000Z",
+  "rejected_at": "2026-03-09T04:35:00.000Z",
+  "reject_reason": "통계 목록 글, 기사 소재로 약함",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

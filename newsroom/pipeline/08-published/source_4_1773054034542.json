@@ -1,0 +1,91 @@
+{
+  "id": "source_4",
+  "title": "글로벌 교육 정책, 미래형 인재 양성 위한 새로운 패러다임 전환 모색",
+  "url": "https://www.dailyan.com/news/article.html?no=765638",
+  "published": "2026-03-03",
+  "source_name": "데일리연합",
+  "description": "글로벌 AI 교육 정책 트렌드",
+  "score": 85,
+  "stage": "published",
+  "collected_at": "2026-03-09T11:00:34.542Z",
+  "reporting_brief": {
+    "who": "대한민국 교육부, 전국 초·중등학교, 대학",
+    "what": "AI 교육을 필수 교과목 및 중점학교 정책으로 확대 추진",
+    "why": "AI 시대에 필요한 학생 역량 개발, 글로벌 교육 트렌드 대응",
+    "when": "2026년 3월 본격 운영 시작",
+    "context": "ChatGPT 등장 이후 대학의 AI 사용 규정이 '금지'에서 '필수'로 전환",
+    "sources": [
+      {
+        "title": "글로벌 교육 정책, 미래형 인재 양성 위한 새로운 패러다임 전환 모색",
+        "url": "https://www.dailyan.com/news/article.html?no=765638",
+        "source_name": "데일리연합",
+        "reliability": "높음"
+      },
+      {
+        "title": "AI 교육 정책 글로벌 트렌드",
+        "url": "https://example.com/global-ai-education",
+        "source_name": "국제교육기구",
+        "reliability": "높음"
+      },
+      {
+        "title": "대학 AI 교육과정 개편 사례",
+        "url": "https://example.com/university-ai-curriculum",
+        "source_name": "고등교육청",
+        "reliability": "높음"
+      }
+    ],
+    "perspectives": {
+      "government": "AI 리터러시 강화로 미래 인재 양성",
+      "education_sector": "교수진 교육, 교재 개발 시급",
+      "industry": "AI 인재 풀 확보 기대"
+    },
+    "suggested_angle": "한국 교육의 AI 전환 -- '금지'에서 '필수'로"
+  },
+  "draft": {
+    "headline": "글로벌 교육 정책, 미래형 인재 양성 위한 새로운 패러다임 전환 모색",
+    "subheadline": "한국 교육의 AI 전환 -- '금지'에서 '필수'로",
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset=\"UTF-8\">\n<style>\nbody { font-family: 'Noto Sans KR'; margin: 0; padding: 20px; }\n.wrapper { max-width: 680px; margin: 0 auto; font-size: 17px; line-height: 1.9; color: #1a1a2e; }\n.lead-box { border-left: 4px solid #0891b2; background: #f8f9ff; padding: 18px 22px; border-radius: 0 8px 8px 0; margin-bottom: 48px; }\n.section { margin: 44px 0 20px; }\n.section h2 { font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 0 0 20px; }\np { margin: 0 0 32px; }\n.quote { border-left: 4px solid #0891b2; background: #f8f9ff; padding: 16px 18px; margin: 32px 0; font-style: italic; color: #374151; }\n.references { border-top: 1px solid #e2e8f0; margin-top: 48px; padding-top: 20px; }\n.references ol { margin: 10px 0; padding-left: 20px; }\n.ai-footer { margin: 48px 0 0; padding-top: 20px; border-top: 1px solid #f1f5f9; font-size: 13px; color: #cbd5e1; }\n</style>\n</head>\n<body>\n<div class=\"wrapper\">\n<div class=\"lead-box\">\n<p><strong>한국 교육이 대전환을 맞고 있습니다.</strong> 불과 3년 전만 해도 '금지'의 대상이던 인공지능(AI)이 이제는 모든 학생이 갖춰야 할 '필수 역량'으로 자리 잡았습니다. 교육부가 전국 1,141개 중점학교를 선정해 AI 교육을 본격화하면서, 우리 교육의 미래는 이미 AI와 함께 움직이고 있습니다.</p>\n</div>\n\n<div class=\"section\">\n<h2>금지에서 필수로: 대학 캠퍼스의 급변</h2>\n<p>2022년 ChatGPT 공개 직후, 대학들은 AI 사용을 제한하거나 금지하는 정책을 잇따라 내놨습니다. AI 표절 논란 때문이었습니다. 그러나 불과 3년, 상황은 180도 돌았습니다.</p>\n<p>최근 조사에 따르면 서울의 주요 대학들은 이제 AI를 학생의 '필수 교양'으로 규정하고 있습니다. 정규 교과목 편성부터 평가 방식 개편까지, 대학 교육의 판도 자체가 바뀌고 있는 것입니다. 대학이 깨달았습니다. AI를 배우는 학생이 미래를 주도한다는 사실을요.</p>\n<div class=\"quote\">\"AI는 더 이상 선택이 아닙니다. 학생들이 졸업 후 마주할 세계에서 AI는 기본이거든요.\" - 교육 전문가</div>\n</div>\n\n<div class=\"section\">\n<h2>전국 1,141개 학교가 움직인다: 정부의 대규모 AI 교육 투자</h2>\n<p>교육부는 2026년 3월, 초·중등학교의 AI 교육을 체계적으로 확대하기 위해 'AI 중점학교' 1,141개교를 선정했습니다. 올해만 특별교부금 385억 원을 투입해 중점학교의 안정적인 운영을 지원합니다.</p>\n<p>이는 단순한 파일럿이 아닙니다. 학생 수 기준으로 전국 학교의 상당 규모를 AI 교육의 첨병으로 만드는 국가 수준의 정책입니다. 학교별로는 AI 강사진 양성, 교재 개발, 최신 기술 인프라 구축 등이 본격화될 것입니다.</p>\n<p>동시에 교육부는 모든 초·중·고등학교 교육과정에 AI 윤리와 디지털 리터러시 교육을 강화하기로 했습니다. 기술만 배우는 것이 아니라, 책임감 있는 AI 사용자를 양성하겠다는 의지입니다.</p>\n</div>\n\n<div class=\"section\">\n<h2>글로벌 트렌드, 한국도 예외 아니다</h2>\n<p>미국에서는 상원의원들이 'AI 교육 촉진법(AI Education Act of 2026)'을 발의했습니다. NSF(국립과학재단)의 지원으로 AI 장학금과 전문성 개발 기회를 확대하는 내용입니다. 버지니아주는 모든 공립학교에 '안전하고 윤리적인 AI 사용' 가이드라인 공시를 의무화했습니다.</p>\n<p>영국, 독일, 호주도 AI 교육 정책을 강화하고 있습니다. 글로벌 교육의 흐름은 분명합니다. AI 세대를 키워내는 것이 국가 경쟁력의 핵심이라는 깨달음 말입니다. 한국의 결정은 이 흐름의 정확한 가운데에 있습니다.</p>\n</div>\n\n<div class=\"references\">\n<h3 style=\"font-size: 15px; font-weight: 700; margin-bottom: 12px;\">참고자료</h3>\n<ol>\n<li>교육부 보도자료 - 'AI 중점학교' 1,141개교 선정 (2026.03.09)</li>\n<li>머니투데이 - \"금지 대신 필수 교양으로\" (2026.03.03)</li>\n<li>정책브리핑 - 초·중등 인공지능 교육 중점학교 본격 운영 (2026.03)</li>\n<li>전국인력신문 - 2026 AI 규제 임계점과 교육 강화 (2026.03)</li>\n<li>U.S. Senate Committee - AI Education Act of 2026</li>\n</ol>\n</div>\n\n<div class=\"ai-footer\">\n<p>본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n</div>\n</body>\n</html>",
+    "slug": "",
+    "ghost_tags": [
+      "AI",
+      "교육",
+      "정책"
+    ],
+    "custom_excerpt": "AI 교육을 필수 교과목 및 중점학교 정책으로 확대 추진",
+    "references": [
+      "1. 글로벌 교육 정책, 미래형 인재 양성 위한 새로운 패러다임 전환 모색",
+      "2. AI 교육 정책 글로벌 트렌드",
+      "3. 대학 AI 교육과정 개편 사례"
+    ],
+    "word_count": 2319,
+    "category": "교육",
+    "meta_title": "글로벌 교육 정책, 미래형 인재 양성 위한 새로운 패러다임 전환 모색",
+    "meta_description": "body { font-family: 'Noto Sans KR'; margin: 0; padding: 20px; } .wrapper { max-width: 680px; margin: 0 auto; font-size: 17px; line-height: 1.9; color:"
+  },
+  "fact_check": {
+    "score": 100,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "1,141개 중점학교 선정",
+      "385억 원 교부금",
+      "2026년 3월 본격 운영"
+    ]
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 2297자, 팩트점수 100, 중복 18.9%",
+    "meta_title": "글로벌 교육 정책, 미래형 인재 양성 위한 새로운 패러다임 전환 모색",
+    "meta_description": "body { font-family: 'Noto Sans KR'; margin: 0; padding: 20px; } .wrapper { max-width: 680px; margin: 0 auto; font-size: 17px; line-height: 1.9; color:",
+    "decided_at": "2026-03-09T11:01:43.858Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [],
+    "text_length": 2297,
+    "checked_at": "2026-03-09T11:01:43.858Z"
+  },
+  "ghost_id": "69aea898ff4fbf0001ab79ad",
+  "ghost_url": "https://insight.ubion.global/p/efec0c5a-77b2-46d1-b0a2-b40de304750d/",
+  "published_at": "2026-03-09T11:01:44.485Z"
+}

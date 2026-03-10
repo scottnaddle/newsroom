@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Why the US government labelled Anthropic a 'supply chain risk': A timeline",
+    "url": "https://economictimes.indiatimes.com/tech/technology/why-the-us-government-labelled-anthropic-a-supply-chain-risk-a-timeline/articleshow/129215707.cms",
+    "source_name": "Economic Times",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Comprehensive timeline of the Anthropic-Pentagon dispute from July 2024 Palantir partnership through the March 2026 supply-chain risk designation. Key milestones include the $200M defense contract, David Sacks' 'woke AI' criticism, Anthropic's $100M drone swarm proposal, and the Pentagon's demand for 'any lawful use' of AI models.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-09T14:02:00+09:00"
+  },
+  "digest": {
+    "headline": "앤트로픽 '공급망 위험' 지정까지, 미 국방부와의 20개월 충돌 전말",
+    "lead": "미국 국방부가 AI 기업 앤트로픽을 '공급망 위험'으로 지정하면서 군 계약업체의 클로드(Claude) 사용이 전면 차단됐다. 팰런티어와의 첫 협력(2024년 7월)부터 트럼프 대통령의 직접 경고(2026년 2월)까지, 약 20개월에 걸친 분쟁의 핵심 경과를 정리한다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 국방부가 AI 기업 앤트로픽을 '공급망 위험'으로 지정하면서 군 계약업체의 클로드(Claude) 사용이 전면 차단됐다. 팰런티어와의 첫 협력(2024년 7월)부터 트럼프 대통령의 직접 경고(2026년 2월)까지, 약 20개월에 걸친 분쟁의 핵심 경과를 정리한다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">앤트로픽은 2024년 7월 팰런티어와 손잡고 미 정보·국방 기관에 클로드 AI를 공급하기 시작했다. 2025년 7월에는 국방부와 최대 2억 달러 규모의 계약을 체결했지만, 자사 이용약관상 '자율 살상 무기'와 '대규모 국내 감시'에 대한 제한 조항을 유지했다. 트럼프 행정부의 AI·암호화폐 자문관 데이비드 색스는 이를 '웨이크(woke) AI 정책'이라 비판하며 앤트로픽에 대한 정치적 압박을 강화했다. 2026년 1월 앤트로픽이 1억 달러 규모의 음성 제어 드론 군집 기술 제안서를 국방부에 제출하면서 양측의 기술적 협력 가능성이 열리는 듯했으나, 같은 달 헤그세스 국방장관이 군용 AI에 '모든 합법적 용도(any lawful use)' 허용을 요구하는 메모를 발표하며 갈등이 본격화됐다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">2026년 2월 말 트럼프 대통령이 \"대통령의 모든 권한을 동원해 (앤트로픽을) 따르게 하겠다\"고 직접 경고한 뒤, 재무부까지 앤트로픽 제품 사용 중단을 선언했다. 이 사태는 화웨이 등 외국 기업에나 적용되던 '공급망 위험' 딱지를 미국 자국 AI 기업에 처음 붙인 전례로, AI 윤리 가이드라인과 국가 안보 요구 사이의 근본적 긴장을 드러낸다. 앤트로픽은 법적 대응을 예고했으며, OpenAI가 빈자리를 빠르게 차지하면서 미 정부 AI 시장의 경쟁 구도가 재편되고 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">앤트로픽 클로드는 미국 교육 기관에서도 학습 보조·연구 도구로 널리 쓰이고 있다. 정부 조달 프로그램(OneGov)에서의 퇴출은 공교육 현장의 AI 도구 선택지에도 영향을 줄 수 있으며, AI 기업의 윤리 정책이 정부 계약과 충돌할 때 교육용 서비스까지 연쇄적으로 제한될 수 있음을 보여준다. 에듀테크 기업들은 정부 조달 요건 변화를 면밀히 모니터링할 필요가 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://economictimes.indiatimes.com/tech/technology/why-the-us-government-labelled-anthropic-a-supply-chain-risk-a-timeline/articleshow/129215707.cms\" style=\"color:#FF6B35;text-decoration:none;\">Economic Times</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "anthropic"
+    ],
+    "meta_title": "앤트로픽 '공급망 위험' 지정, 미 국방부와 20개월 충돌 타임라인",
+    "meta_description": "미 국방부가 앤트로픽을 공급망 위험으로 지정하기까지의 20개월 분쟁 경과. 팰런티어 협력부터 트럼프 대통령 직접 경고, 재무부 사용 중단까지 핵심 사건 정리.",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T14:02:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T14:17:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T05:30:48.472Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae5b08ff4fbf0001ab77cd",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae5b08ff4fbf0001ab77cd",
+    "public_url": "https://insight.ubion.global/aenteuropig-gonggeubmang-wiheom-jijeongggaji-mi-gugbangbuwayi-20gaeweol-cungdol-jeonmal/",
+    "status": "published",
+    "published_at": "2026-03-09T05:30:48.000Z"
+  }
+}

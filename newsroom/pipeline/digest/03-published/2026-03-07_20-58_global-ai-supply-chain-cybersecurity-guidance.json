@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "US, Japan, South Korea, UK, Canada and others join Australia's AI supply chain cybersecurity guidance",
+    "url": "https://techieray.substack.com/p/ctrlaireg-7-march-2026",
+    "source_name": "Ctrl+AI+Reg (Substack)",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "Cybersecurity agencies from the US, Japan, New Zealand, South Korea, Singapore, UK, and Canada have joined Australia's guidance on AI/ML supply chain risks and mitigations. The guidance addresses data poisoning, model serialization attacks, and AI software vulnerabilities, recommending trusted data sources, secure file formats, and ongoing performance testing.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-07T20:58:00+09:00"
+  },
+  "digest": {
+    "headline": "한국 포함 8개국, AI 공급망 사이버보안 공동 가이드라인 발표",
+    "lead": "미국·일본·한국·영국·캐나다·싱가포르·뉴질랜드가 호주 사이버보안센터(ACSC)의 AI·머신러닝 공급망 보안 가이드라인에 공동 참여했다. 데이터 포이즈닝, 모델 직렬화 공격, AI 소프트웨어 취약점 등 AI 특유의 공급망 위험에 대한 다국적 대응 체계가 본격화되고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국·일본·한국·영국·캐나다·싱가포르·뉴질랜드가 호주 사이버보안센터(ACSC)의 AI·머신러닝 공급망 보안 가이드라인에 공동 참여했다. 데이터 포이즈닝, 모델 직렬화 공격, AI 소프트웨어 취약점 등 AI 특유의 공급망 위험에 대한 다국적 대응 체계가 본격화되고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">이번 가이드라인은 호주 ACSC가 주도하고 캐나다 사이버보안센터가 공동 발표한 것으로, AI 시스템의 공급망 전반에 걸친 보안 위험을 체계적으로 정리했다. 주요 위협으로 학습 데이터를 오염시키는 데이터 포이즈닝, 모델 파일 형식을 악용한 직렬화 공격, 오픈소스 AI 라이브러리의 취약점 등이 지목됐다. 가이드라인은 신뢰할 수 있는 데이터 소스 사용, 안전한 파일 포맷 채택, 지속적인 모델 성능 테스트를 핵심 완화 조치로 권고한다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">한국을 포함한 8개국이 공동 참여했다는 점에서, AI 보안이 개별 국가 차원을 넘어 국제 공조 의제로 격상되고 있음을 보여준다. 특히 오픈소스 모델과 허깅페이스 같은 모델 허브 생태계가 확산되면서, 공급망 보안은 AI를 도입하는 모든 조직의 필수 점검 항목이 되고 있다. 향후 이 가이드라인이 각국의 규제 프레임워크에 반영될 가능성이 높다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">교육 플랫폼들이 외부 AI 모델과 API를 빠르게 도입하는 상황에서, 공급망 보안은 학생 데이터 보호와 직결된다. 에듀테크 기업은 오픈소스 모델 도입 시 데이터 출처 검증, 모델 파일 무결성 확인, 정기적인 성능 모니터링 등 이번 가이드라인의 권고사항을 자체 보안 정책에 반영할 필요가 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://techieray.substack.com/p/ctrlaireg-7-march-2026\" style=\"color:#FF6B35;text-decoration:none;\">Ctrl+AI+Reg (Substack)</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "technology"
+    ],
+    "meta_title": "한국 포함 8개국, AI 공급망 사이버보안 공동 가이드라인 발표",
+    "meta_description": "미국·일본·한국·영국 등 8개국 사이버보안 기관이 호주 주도의 AI 공급망 보안 가이드라인에 공동 참여했다. 데이터 포이즈닝, 모델 공격 등 AI 특유의 위험에 대한 국제 공조가 본격화되고 있다.",
+    "word_count": 540
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T20:58:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T21:17:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T12:35:36.319Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ac1b98ff4fbf0001ab738f",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ac1b98ff4fbf0001ab738f",
+    "public_url": "https://insight.ubion.global/hangug-poham-8gaegug-ai-gonggeubmang-saibeoboan-gongdong-gaideurain-balpyo/",
+    "status": "published",
+    "published_at": "2026-03-07T12:35:36.000Z"
+  }
+}

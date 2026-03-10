@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Americans Are Trying to Stop Data Centers Because They Can't Stop A.I.",
+    "url": "https://www.nytimes.com/2026/03/04/opinion/data-centers-ai-regulation.html",
+    "source_name": "The New York Times",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Opinion piece by Dean Ball, former White House policy adviser who authored the Trump administration's AI strategy, discusses the Pentagon's shift on Anthropic as the first major public debate about government control over frontier AI. Explores data center regulation as an indirect approach to AI governance.",
+    "published_date": "2026-03-04",
+    "collected_at": "2026-03-05T14:47:00Z"
+  },
+  "digest": {
+    "headline": "AI 규제의 우회로? 미국, 데이터센터 통제로 AI 발전 속도 조절",
+    "lead": "미국 정부가 AI 기술 자체보다 인프라인 데이터센터를 규제하려는 움직임이 강해지고 있다. 국방부의 앤스로픽 정책 변화는 AI 규제에 대한 첫 번째 공개 논쟁을 촉발했으며, 데이터센터 규제는 직접적 AI 규제를 우회하는 간접 방식으로 주목받고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 정부가 AI 기술 자체보다 인프라인 데이터센터를 규제하려는 움직임이 강해지고 있다. 국방부의 앤스로픽 정책 변화는 AI 규제에 대한 첫 번째 공개 논쟁을 촉발했으며, 데이터센터 규제는 직접적 AI 규제를 우회하는 간접 방식으로 주목받고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">트럼프 행정부의 AI 전략을 수립했던 딘 볼(Dean Ball) 정책 자문관은 최근 The New York Times 오피니언에서 미국 정부의 AI 규제 전략 변화를 분석했다. 국방부가 AI 안보 우려를 이유로 앤스로픽(Anthropic)에 대한 정책 기조를 변화시킨 것이 AI 정부 통제에 관한 첫 번째 대규모 공개 논쟁이 되었다는 점이 핵심이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">직접적인 AI 모델 규제는 기술적 제약과 정치적 저항이 크기 때문에, 정부는 대신 AI 학습에 필수적인 고성능 데이터센터 규제로 접근하고 있다. 이는 AI 발전 속도를 조절하는 간접적이지만 효과적인 방식으로, 각 국가의 AI 경쟁력 차이와 에너지 정책, 반도체 공급망까지 영향을 미칠 가능성이 높다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 기반 교육 서비스 개발사에게 가장 큰 영향은 인프라 비용 상승이다. 데이터센터 규제가 강화될수록 고성능 컴퓨팅 자원 접근성이 낮아지고 비용이 증가하면, 에듀테크 스타트업의 AI 모델 학습과 배포 비용이 상승하게 된다. 이는 장기적으로 교육 기술의 민간화보다 정부 중심의 공공 AI 인프라 지원 정책을 요구하게 될 것이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.nytimes.com/2026/03/04/opinion/data-centers-ai-regulation.html\" style=\"color:#FF6B35;text-decoration:none;\">The New York Times</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->\n",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "technology"
+    ],
+    "meta_title": "AI 규제의 신전략, 데이터센터 통제로 변화",
+    "meta_description": "미국 정부가 AI 기술 규제에서 데이터센터 인프라 규제로 전환하고 있다. 에듀테크 스타트업과 AI 교육 서비스 발전에 미치는 영향을 분석했다.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-05T14:47:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T14:48:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T06:15:49.162Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a91f8de2eb440001d55c54",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a91f8de2eb440001d55c54",
+    "public_url": "https://insight.ubion.global/ai-gyujeyi-uhoero-migug-deiteosenteo-tongjero-ai-baljeon-sogdo-jojeol/",
+    "status": "published",
+    "published_at": "2026-03-05T06:15:41.000Z"
+  }
+}

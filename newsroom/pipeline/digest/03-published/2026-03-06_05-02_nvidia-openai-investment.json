@@ -1,0 +1,50 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Why Nvidia is calling its $30B OpenAI investment its last",
+    "url": "https://techfundingnews.com/nvidia-30b-openai-investment-ipo/",
+    "source_name": "TechFundingNews",
+    "language": "en",
+    "relevance_score": 86,
+    "summary": "Nvidia CEO Jensen Huang states that the company's $30 billion investment in OpenAI's recent $110 billion funding round (which values OpenAI at $730B pre-money) will likely be its last major private equity bet before OpenAI's planned IPO. Huang indicates that opportunities for further massive equity investments will close once OpenAI goes public.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-06T05:02:00Z"
+  },
+  "digest": {
+    "headline": "엔비디아 $30B OpenAI 투자 '마지막'이라 선언, IPO 앞두고",
+    "lead": "엔비디아의 젠슨 황 CEO가 OpenAI의 $110B 펀딩 라운드(OpenAI 기업가치 $730B)에 $30B를 투자한 것이 마지막이 될 것이라고 밝혔습니다. OpenAI의 IPO 예정으로 인해 추가 대규모 지분 투자의 기회가 사라질 것이라고 지적합니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">엔비디아의 젠슨 황 CEO가 OpenAI의 $110B 펀딩 라운드(OpenAI 기업가치 $730B)에 $30B를 투자한 것이 마지막이 될 것이라고 밝혔습니다. OpenAI의 IPO 예정으로 인해 추가 대규모 지분 투자의 기회가 사라질 것이라고 지적합니다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">OpenAI는 올해 초 $110B 규모의 대형 펀딩 라운드를 진행했으며, 엔비디아는 $30B, 아마존은 $50B, 소프트뱅크는 $30B를 각각 투자했습니다. 이는 엔비디아가 스타트업에 행한 단일 투자로는 최대 규모이며, 기존 앤스로픽 투자(약 $10B 규모)를 크게 넘어섭니다. 이번 라운드 이전 2025년 엔비디아가 OpenAI와 체결한 $100B 규모의 '인프라 방식' 협약과는 직접 지분 투자라는 점에서 구분됩니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">황 CEO의 발언은 두 가지 의미를 담고 있습니다. 첫째, OpenAI IPO로 시장이 공개되면 엔비디아가 누리던 '대규모 지분 투자 기회'는 제한될 것입니다. 둘째, 현재의 $30B 투자는 OpenAI와의 전략적 관계를 공식화하는 '마지막 체크'라는 메시지입니다. 이는 엔비디아가 OpenAI의 성장 경로에 충분히 확보했으며, 앞으로는 하드웨어 공급과 서비스 레벨 협력으로 관계가 전환될 것임을 시사합니다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">OpenAI의 IPO 임박은 에듀테크 업계에 두 가지 파급 효과를 가져올 것 같습니다. (1) 가격 책정 구조 변화: IPO 이후 주주 수익 압박으로 OpenAI API 가격 인상 가능성 높음. 교육 기관의 AI 도입 비용이 상승하고, 비용 효율적인 오픈소스 모델(Llama, Mistral) 선택 압력이 커질 수 있습니다. (2) 생태계 안정화: 엔비디아의 '마지막' 대규모 지분 투자 선언은 OpenAI의 위상을 확정 짓는 신호로, 교육 기관이 장기 파트너로 신뢰할 수 있는 근거를 제공합니다. 따라서 학교와 교육청은 지금이 OpenAI 기반 에듀테크 도입 로드맵을 작성할 적기일 수 있습니다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://techfundingnews.com/nvidia-30b-openai-investment-ipo/\" style=\"color:#FF6B35;text-decoration:none;\">TechFundingNews</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "regulation"
+    ],
+    "meta_title": "엔비디아 $30B OpenAI 투자 '마지막'이라 선언, IPO 앞두고",
+    "meta_description": "엔비디아 황 CEO, OpenAI 지분 투자 종료 예고. IPO 임박으로 에듀테크 생태계 재편 예상.",
+    "word_count": 615
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T05:02:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T05:06:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T20:31:28.236Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "auto-generated",
+    "status": "published",
+    "published_at": "2026-03-05T20:31:28.236Z"
+  }
+}

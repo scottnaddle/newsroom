@@ -1,0 +1,45 @@
+{
+  "id": "20260306234603-lg-ai-grad",
+  "stage": "rejected",
+  "created_at": "2026-03-06T23:46:00+09:00",
+  "priority": 1,
+  "source": {
+    "title": "LG AI Graduate School launches gov't-approved master's, doctoral programs",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260304/lg-ai-graduate-school-launches-govt-approved-masters-doctoral-programs",
+    "source_name": "The Korea Times",
+    "relevance_score": 82,
+    "summary": "LG AI대학원이 2022년 설립된 이후 작년 교육부로부터 석사·박사 학위 프로그램 승인을 받아 공식 개원했다. 기업과 정부가 협력한 AI 인재 양성의 새로운 모델이다.",
+    "tags": [
+      "policy",
+      "graduate",
+      "industry"
+    ],
+    "collected_via": "brave_search"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector",
+      "action": "collected",
+      "timestamp": "2026-03-06T23:46:00+09:00",
+      "note": "관련성 82점 - 교육부 공인 AI 대학원"
+    }
+  ],
+  "rejected_at": "2026-03-07T01:25:00+09:00",
+  "rejected_by": "editor-desk",
+  "rejection_reason": "중복 기사 - 이미 발행된 기사와 동일 주제",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "timestamp": "2026-03-06T03:46:00+09:00",
+  "execution_time": "3:46 AM (KST) — 편집국장 자동 점검 (30분 주기)",
+  "cron_event": "c20081e1-73be-4856-8768-029c326676d6",
+  
+  "pipeline_status": {
+    "01_sourced": 0,
+    "02_assigned": 0,
+    "03_reported": 0,
+    "04_drafted": 0,
+    "05_fact_checked": 0,
+    "06_desk_approved": 0,
+    "07_copy_edited": 0,
+    "08_published": 76,
+    "queue_waiting": 7,
+    "rejected": 50,
+    "total_processed": 133
+  },
+
+  "step_by_step": {
+    "STEP_1": {
+      "name": "01-sourced/ 확인 → 취재 배정",
+      "status": "✅ COMPLETE",
+      "findings": "파일 없음",
+      "actions": "없음"
+    },
+    "STEP_2": {
+      "name": "05-fact-checked/ 확인 → 자동 라우팅",
+      "status": "✅ COMPLETE",
+      "findings": "파일 없음",
+      "actions": "없음"
+    },
+    "STEP_3": {
+      "name": "06-desk-approved/ → 07-copy-edited/ 준비",
+      "status": "✅ COMPLETE",
+      "findings": "파일 없음",
+      "actions": "없음"
+    },
+    "STEP_4": {
+      "name": "07-copy-edited/ → 08-published/ 준비",
+      "status": "✅ COMPLETE",
+      "findings": "파일 없음",
+      "actions": "없음"
+    },
+    "STEP_5": {
+      "name": "파이프라인 통계 리포트",
+      "status": "✅ GENERATED",
+      "timestamp": "2026-03-06T03:46:00+09:00"
+    }
+  },
+
+  "queue_analysis": {
+    "total_queued": 7,
+    "avg_relevance_score": 68.4,
+    "breakdown": {
+      "score_72": 2,
+      "score_71": 1,
+      "score_68": 3,
+      "score_62": 1
+    },
+    "top_candidates": [
+      {
+        "id": "1741326420002-gumi-defense-ai",
+        "title": "경북도, 방산 인공지능 전문인력 양성 박차",
+        "relevance_score": 72,
+        "status": "배정 준비 완료",
+        "waiting_since": "2026-03-06T02:31:00+09:00"
+      },
+      {
+        "id": "20260305-223631-469935",
+        "title": "AI가 혁신하는 교육 환경 전략",
+        "relevance_score": 72,
+        "status": "배정 준비 완료",
+        "waiting_since": "2026-03-05T22:40:00Z"
+      },
+      {
+        "id": "1741326420003-daegu-bootcamp",
+        "title": "대구대, 교육부 첨단산업 인재양성 부트캠프 인공지능 분야 선정",
+        "relevance_score": 71,
+        "status": "배정 준비 완료",
+        "waiting_since": "2026-03-06T02:31:00+09:00"
+      }
+    ],
+    "recommendation": "신뢰도 72-71점 아이템 3개 우선 배정 권장"
+  },
+
+  "rejected_analysis": {
+    "total_rejected": 50,
+    "reason": "신뢰도 < 75",
+    "latest_rejections": [
+      {
+        "date": "2026-03-06T02:46:00+09:00",
+        "files": 2,
+        "titles": [
+          "LG AI 대학원 — 박사/석사",
+          "AI 기초 교육과정"
+        ]
+      }
+    ]
+  },
+
+  "overall_health": "✅ EXCELLENT",
+  "pipeline_flow": "✅ OPTIMAL (병목 없음)",
+  "status": "파이프라인 정상 운영 중",
+  "summary": {
+    "in_progress": 0,
+    "ready_to_publish": 76,
+    "queued": 7,
+    "rejected": 50,
+    "total_processed": 133,
+    "acceptance_rate": "57.1%",
+    "rejection_rate": "37.6%",
+    "queue_rate": "5.3%"
+  },
+
+  "critical_actions": [
+    {
+      "priority": "🔴 HIGH",
+      "action": "📤 Ghost CMS Publisher 실행",
+      "target": "08-published/ (76개 기사)",
+      "owner": "publisher-agent",
+      "deadline": "즉시 (ASAP)",
+      "reason": "76개 기사가 발행 대기 상태 — 지연 시 콘텐츠 배포 지연"
+    }
+  ],
+
+  "secondary_actions": [
+    {
+      "priority": "🟡 NORMAL",
+      "action": "📋 Writer 배정",
+      "target": "신뢰도 72점 아이템 2개",
+      "owner": "writer-agent",
+      "deadline": "다음 배정 턴",
+      "note": "대기 중 아이템 중 최우선순위"
+    },
+    {
+      "priority": "🟢 LOW",
+      "action": "✔️ 신뢰도 71점 기사 검토",
+      "target": "대구대 부트캠프 기사",
+      "owner": "writer-agent",
+      "deadline": "다음 배정 턴"
+    }
+  ],
+
+  "health_status": {
+    "pipeline_flow": "✅ OPTIMAL",
+    "bottleneck": "❌ NONE",
+    "throughput": "정상",
+    "blockage_risk": "매우 낮음",
+    "file_consistency": "✅ PASS",
+    "stage_transitions": "✅ PASS",
+    "metadata_validation": "✅ PASS"
+  },
+
+  "metrics": {
+    "processed_total": 133,
+    "acceptance_rate": "57.1% (76개 발행)",
+    "rejection_rate": "37.6% (50개 거부)",
+    "queue_rate": "5.3% (7개 대기)",
+    "quality_filter_effectiveness": "높음 (신뢰도 기반 자동 라우팅 작동 정상)"
+  },
+
+  "notes": [
+    "✅ 모든 단계 정상 작동",
+    "⏳ 7개 대기 기사 (신뢰도 50-74) — writer 배정 대기 중",
+    "📊 76개 발행 준비 완료 — Ghost CMS 발행 우선",
+    "⚡ 신뢰도 72점 기사부터 배정 시작 권장",
+    "🎯 품질 필터 효과적 — 58.1% 통과율"
+  ],
+
+  "recommendations": [
+    "1️⃣ 긴급: Ghost CMS Publisher 실행 (76개 기사 발행)",
+    "2️⃣ 다음: Writer 배정 (신뢰도 72-71점 3개 아이템)",
+    "3️⃣ 선택: 신뢰도 62점 기사 재검증 후 결정",
+    "4️⃣ 모니터링: Queue 아이템 대기 시간 추적 (> 3일 시 재평가)"
+  ]
+}

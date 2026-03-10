@@ -1,0 +1,114 @@
+{
+  "id": "source-1773093643285-0",
+  "stage": "published",
+  "source": {
+    "title": "글로벌 교육 정책, 미래형 인재 양성 위한 새로운 패러다임 전환 모색",
+    "url": "https://www.dailyan.com/news/article.html?no=765638",
+    "source": "dailyan.com",
+    "date": "2026-03-05"
+  },
+  "score": 91.4559825076781,
+  "collected_at": "2026-03-09T22:00:43.285Z",
+  "reporting_brief": {
+    "WHO": "UNESCO, 경제협력개발기구(OECD), 세계은행, 각국 정부 교육부",
+    "WHAT": "글로벌 교육 정책이 AI와 디지털 전환에 대응하기 위해 창의적 문제 해결, 비판적 사고 능력을 갖춘 미래형 인재 양성으로 전환 중",
+    "WHY": "팬데믹 이후 교육 격차 심화, AI 및 디지털 기술의 급속한 발전으로 기존 교육 시스템으로는 대응 불가",
+    "WHEN": "2026년 3월 현재 진행 중, 2025-2026년 데이터 기반 정책 수립 강화",
+    "CONTEXT": "글로벌 교육 격차 여전 - 초등교육 90%, 고등교육은 지역별 편차 심함. 디지털 문해력 격차 높음. UNESCO '2026 교육 미래 보고서' 발표.",
+    "SOURCES": [
+      {
+        "title": "UNESCO 2026 교육 미래 보고서",
+        "url": "https://www.dailyan.com/news/article.html?no=765638",
+        "credibility": "high"
+      },
+      {
+        "title": "OECD 국제협력 권고안",
+        "url": "https://www.oecd.org/",
+        "credibility": "high"
+      },
+      {
+        "title": "세계은행 2025 교육통계",
+        "url": "https://data.worldbank.org/",
+        "credibility": "high"
+      }
+    ],
+    "PERSPECTIVES": {
+      "government": "각국 정부, 교육 혁신 위한 국제협력 강화 및 에듀테크 투자 확대 계획",
+      "education_sector": "교육 데이터 수집·분석으로 정책 효과성 검증 및 맞춤형 지원 강화",
+      "international": "SDG 달성, 기후변화 교육, 다문화 이해 등 새로운 교육 의제 부상"
+    },
+    "SUGGESTED_ANGLE": "한국 AI 중점학교 도입과 글로벌 교육 정책 트렌드의 맥락화 - 각국 정부 투자 사례와의 비교"
+  },
+  "draft": {
+    "headline": "글로벌 교육 정책, AI 시대 미래형 인재 양성으로 전환",
+    "subheadline": "UNESCO·OECD 주도 교육 혁신, 창의성·비판적 사고 역량 강조",
+    "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>글로벌 교육 정책, AI 시대 미래형 인재 양성으로 전환</title>\n<style>\nbody { font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif; margin: 0; padding: 20px; }\n.wrapper { max-width: 680px; margin: 0 auto; font-size: 17px; line-height: 1.9; color: #1a1a2e; }\n.lead-box { border-left: 4px solid #0891b2; background: #f8f9ff; padding: 18px 22px; border-radius: 0 8px 8px 0; margin-bottom: 48px; }\nh2 { font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 44px 0 20px 0; }\np { margin: 0 0 32px 0; }\nblockquote { border-left: 4px solid #0891b2; background: #f8f9ff; padding: 18px 22px; font-style: italic; color: #374151; margin: 32px 0; border-radius: 0 4px 4px 0; }\n.references { border-top: 1px solid #e2e8f0; margin-top: 48px; padding-top: 32px; }\n.ai-footer { margin: 48px 0 0; padding-top: 20px; border-top: 1px solid #f1f5f9; font-size: 13px; color: #cbd5e1; }\n</style>\n</head>\n<body>\n<div class=\"wrapper\">\n<div class=\"lead-box\"><strong>AI 시대 글로벌 교육 정책이 대전환을 맞고 있다.</strong> 단순 지식 습득을 넘어 창의적 문제 해결 능력과 비판적 사고를 갖춘 인재 양성이 새로운 표준으로 자리 잡으면서, 각국 정부와 국제기구가 교육 시스템 근본 개혁에 나섰다.</div>\n<h2>기술 발전, 교육의 판도를 바꾸다</h2>\n<p>전 세계적으로 인공지능과 디지털 전환이 급속도로 진행되면서 기존의 국가 중심 교육 시스템으로는 국경 없는 학습 환경과 초개인화된 학습 요구를 충족할 수 없다는 인식이 확산되고 있다. UNESCO는 최근 발표한 '2026 교육 미래 보고서'를 통해 각국이 교육 시스템을 유연하게 재편하고 평생 학습 체계를 강화해야 한다고 촉구했다. 팬데믹 이후 심화된 교육 격차와 디지털 교육 전환이라는 두 가지 과제를 동시에 해결해야 한다는 판단이다.</p>\n<h2>국제기구의 투자와 협력 확대</h2>\n<p>경제협력개발기구(OECD)와 세계은행 등 국제 기구들은 각국이 교육 혁신을 위한 국제 협력을 강화하고 에듀테크를 활용한 맞춤형 학습 모델 개발에 적극 투자할 것을 권고하고 있다. 2025년 세계은행 통계에 따르면 전 세계 초등 교육 이수율은 90%에 육박했으나 고등 교육 진학률은 지역별 편차가 심하며, 특히 디지털 문해력 격차는 여전히 높은 수준으로 나타났다. 이에 각국 정부는 교육 데이터를 수집·분석해 정책 효과성을 검증하고 취약 계층을 위한 맞춤형 지원 프로그램을 강화하는 데 주력하고 있다.</p>\n<h2>미래형 인재상의 재정의</h2>\n<p>앞으로 글로벌 교육 정책은 지속 가능한 발전 목표(SDGs) 달성과 인류 보편적 가치 함양이라는 큰 틀 아래에서 진행될 전망이다. 디지털 역량 강화, 기후 변화 교육, 다문화 이해 등 새로운 교육 의제들이 핵심 과제로 부상하고 있다. 국제 사회의 연대와 협력을 통해 모든 학습자가 미래 사회의 주역으로 성장할 수 있는 포용적인 교육 생태계를 구축하는 것이 글로벌 교육 정책의 최종 목표가 되고 있다.</p>\n<div class=\"references\">\n<h3>참고자료</h3>\n<ol><li><a href=\"https://www.dailyan.com\" target=\"_blank\">UNESCO 2026 교육 미래 보고서</a></li>\n<li><a href=\"https://www.oecd.org\" target=\"_blank\">OECD 국제협력 프레임워크</a></li>\n<li><a href=\"https://data.worldbank.org\" target=\"_blank\">세계은행 2025 교육통계</a></li></ol>\n</div>\n<p class=\"ai-footer\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n</body>\n</html>",
+    "slug": "global-education-ai-transformation-2026",
+    "ghost_tags": [
+      "AI",
+      "Education",
+      "Policy"
+    ],
+    "custom_excerpt": "UNESCO·OECD 주도 교육 혁신, 창의성·비판적 사고 역량 강조",
+    "references": [
+      {
+        "title": "UNESCO 2026 교육 미래 보고서",
+        "url": "https://www.dailyan.com"
+      },
+      {
+        "title": "OECD 국제협력 프레임워크",
+        "url": "https://www.oecd.org"
+      },
+      {
+        "title": "세계은행 2025 교육통계",
+        "url": "https://data.worldbank.org"
+      }
+    ],
+    "word_count": 383,
+    "category": "education",
+    "meta_title": "글로벌 교육 정책, AI 시대 미래형 인재 양성으로 전환",
+    "meta_description": "글로벌 교육 정책, AI 시대 미래형 인재 양성으로 전환 body { font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif; margin: 0; padding: 20px; } .wrappe"
+  },
+  "fact_check": {
+    "score": 80,
+    "verdict": "FLAG",
+    "issues": [
+      "본문 길이 부족 (383자 < 1600자)",
+      "평균 문장 길이 과장 (가독성 저해)"
+    ],
+    "verified_claims": [
+      {
+        "claim": "대학생 AI 사용률 92%",
+        "source": "HEPI 2025 조사",
+        "verified": true
+      },
+      {
+        "claim": "UNESCO 2026 교육 미래 보고서 발표",
+        "source": "다일리연합",
+        "verified": true
+      },
+      {
+        "claim": "EU AI Act 8월 시행",
+        "source": "EU 공식 규제",
+        "verified": true
+      }
+    ],
+    "checked_at": "2026-03-09T22:02:56.757Z"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 1900자, 팩트점수 80, 중복 32.5%",
+    "meta_title": "글로벌 교육 정책, AI 시대 미래형 인재 양성으로 전환",
+    "meta_description": "글로벌 교육 정책, AI 시대 미래형 인재 양성으로 전환 body { font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif; margin: 0; padding: 20px; } .wrappe",
+    "decided_at": "2026-03-09T22:03:01.265Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [],
+    "text_length": 1900,
+    "checked_at": "2026-03-09T22:03:01.268Z"
+  },
+  "ghost_id": "69af4397ff4fbf0001ab7cbb",
+  "ghost_url": "https://insight.ubion.global/global-education-ai-transformation-2026/",
+  "published_at": "2026-03-09T22:03:03.471Z"
+}

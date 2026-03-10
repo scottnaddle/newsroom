@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "China warns of global chip shortages as Nexperia dispute escalates again",
+    "url": "https://www.reuters.com/business/autos-transportation/china-warns-global-chip-shortages-nexperia-dispute-escalates-again-2026-03-07/",
+    "source_name": "Reuters",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "China's commerce ministry warned of a potential global semiconductor supply chain crisis due to escalating conflicts between Dutch chipmaker Nexperia and its Chinese subsidiary. The dispute between the Netherlands-based company (owned by China's Wingtech, which is 30% backed by Chinese government interests) threatens to disrupt production of essential automotive chips. This marks another chapter in the geopolitical tug-of-war over semiconductor supply chains between China and Western nations.",
+    "published_date": "2026-03-08",
+    "collected_at": "2026-03-09T00:16:00+09:00"
+  },
+  "digest": {
+    "headline": "중국, 넥스페리아 분쟁 격화에 '글로벌 반도체 부족' 경고",
+    "lead": "중국 상무부가 네덜란드 반도체 기업 넥스페리아(Nexperia)와의 분쟁 격화를 이유로 글로벌 반도체 공급망 위기 가능성을 경고했다. 넥스페리아는 중국 윙텍(Wingtech)이 소유하고 있으며, 이 분쟁은 서방과 중국 간 반도체 패권 경쟁의 새로운 국면을 보여준다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">중국 상무부가 네덜란드 반도체 기업 넥스페리아(Nexperia)와의 분쟁 격화를 이유로 글로벌 반도체 공급망 위기 가능성을 경고했다. 넥스페리아는 중국 윙텍(Wingtech)이 소유하고 있으며, 이 분쟁은 서방과 중국 간 반도체 패권 경쟁의 새로운 국면을 보여준다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">넥스페리아는 네덜란드에 본사를 둔 반도체 기업으로, 중국 윙텍이 소유하고 있다. 윙텍 지분의 약 30%는 중국 정부 관련 자본이 투자한 것으로 알려져 있다. 네덜란드 정부와 중국 측의 입장 차이가 좁혀지지 않으면서 분쟁이 다시 격화되고 있으며, 이는 자동차용 핵심 반도체 생산에 직접적인 영향을 줄 수 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 경고는 미국과 유럽의 대중국 반도체 수출 규제 강화 흐름 속에서 나왔다. 중국이 공급망 위기를 명시적으로 언급한 것은 서방의 규제에 대한 보복 카드를 시사하는 것으로, 글로벌 반도체 시장의 불확실성이 한층 커질 전망이다. 특히 자동차·AI 칩 분야에서 공급 차질이 현실화될 경우 산업 전반에 연쇄적 영향이 불가피하다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">반도체 공급 불안은 AI 학습용 GPU와 추론 서버 가격에 직접적으로 영향을 미친다. 에듀테크 기업이 AI 기반 학습 플랫폼을 운영하거나 확장할 때 인프라 비용 상승 리스크를 사전에 고려해야 하며, 클라우드 기반 경량화 전략의 중요성이 더욱 부각된다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.reuters.com/business/autos-transportation/china-warns-global-chip-shortages-nexperia-dispute-escalates-again-2026-03-07/\" style=\"color:#FF6B35;text-decoration:none;\">Reuters</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "regulation"
+    ],
+    "meta_title": "중국, 넥스페리아 분쟁 격화에 글로벌 반도체 부족 경고",
+    "meta_description": "중국 상무부가 네덜란드 넥스페리아와의 분쟁 격화로 글로벌 반도체 공급망 위기를 경고했다. 자동차·AI 칩 공급 차질 우려가 커지고 있다.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T00:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T00:43:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T16:25:39.946Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ada303ff4fbf0001ab7598",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ada303ff4fbf0001ab7598",
+    "public_url": "https://insight.ubion.global/junggug-negseuperia-bunjaeng-gyeoghwae-geulrobeol-bandoce-bujog-gyeonggo/",
+    "status": "published",
+    "published_at": "2026-03-08T16:25:39.000Z"
+  }
+}

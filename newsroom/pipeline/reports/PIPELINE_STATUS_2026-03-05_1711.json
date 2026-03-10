@@ -1,0 +1,129 @@
+{
+  "timestamp": "2026-03-05T17:11:00+09:00",
+  "editor_session": "editor-desk 30분 점검",
+  "summary": {
+    "total_articles_processed": 5,
+    "killed": 2,
+    "approved": 3,
+    "awaiting_copy_edit": 3
+  },
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "note": "신규 소스 없음"
+    },
+    "02_assigned": {
+      "total": 0,
+      "note": "처리 완료"
+    },
+    "03_reported": {
+      "total": 0,
+      "note": "처리 완료"
+    },
+    "04_drafted": {
+      "total": 0,
+      "note": "처리 완료"
+    },
+    "05_fact_checked": {
+      "total": 0,
+      "processed_this_round": 5,
+      "pass_90plus": 0,
+      "pass_80_89": 3,
+      "flag_75_79": 2,
+      "fail_below_75": 0,
+      "summary": "2개 FLAG (revision_count 2회 초과)→ KILL, 3개 PASS 80+ → 06-desk-approved"
+    },
+    "06_desk_approved": {
+      "total": 0,
+      "note": "모두 07-copy-edited로 이동"
+    },
+    "07_copy_edited": {
+      "total": 3,
+      "files": [
+        "2026-03-05_0250_ccc-ai-reuse-rights-higher-ed.json (신뢰도 85점, editor score 85)",
+        "2026-03-05_16-34_lg-ai-graduate-school.json (신뢰도 88점)",
+        "2026-03-05_16-37_human-centered-ai-guidelines.json (신뢰도 86점, FLAG 2개 주의)"
+      ],
+      "note": "교열기자 처리 대기"
+    },
+    "08_published": {
+      "total": "이전 발행분",
+      "note": "발행 에이전트가 처리"
+    }
+  },
+  "routing_decisions": [
+    {
+      "file": "2026-03-05_0217_school-network-ai-enhance-learning",
+      "confidence_score": 78,
+      "verdict": "KILLED",
+      "reason": "신뢰도 78 (FLAG 범위), revision_count 2회 도달 → 자동 거부",
+      "destination": "rejected/",
+      "moved_at": "2026-03-05T17:08:00+09:00"
+    },
+    {
+      "file": "2026-03-05_0250_ccc-ai-reuse-rights-higher-ed_REVISE",
+      "confidence_score": 85,
+      "verdict": "APPROVED",
+      "reason": "신뢰도 85점 (PASS), editor_score 85점, revision_count 1회",
+      "destination": "07-copy-edited/",
+      "moved_at": "2026-03-05T17:09:00+09:00"
+    },
+    {
+      "file": "2026-03-05_02_building-an-ai-ready-america-teaching-in",
+      "confidence_score": 81,
+      "verdict": "KILLED",
+      "reason": "신뢰도 81 (FLAG 범위), revision_count 2회 도달 → 자동 거부",
+      "destination": "rejected/",
+      "moved_at": "2026-03-05T17:08:00+09:00"
+    },
+    {
+      "file": "2026-03-05_16-34_lg-ai-graduate-school",
+      "confidence_score": 88,
+      "verdict": "APPROVED",
+      "reason": "신뢰도 88점 (PASS, 80-89 범위이지만 에디터 체크 미필요함)",
+      "destination": "07-copy-edited/",
+      "moved_at": "2026-03-05T17:09:00+09:00"
+    },
+    {
+      "file": "2026-03-05_16-37_human-centered-ai-guidelines",
+      "confidence_score": 86,
+      "verdict": "APPROVED (주의)",
+      "reason": "신뢰도 86점 (PASS), 다만 7대 위험 요소 및 초중고 차등 기준의 정확성 FLAG",
+      "destination": "07-copy-edited/",
+      "moved_at": "2026-03-05T17:09:00+09:00",
+      "flags": [
+        "7대 위험 요소의 구체적 정의 미확인",
+        "초중고 발달 단계별 구체적 기준 미확인"
+      ]
+    }
+  ],
+  "bottleneck_analysis": {
+    "status": "정상",
+    "note": "현재 bottleneck 없음. 팩트체커 5개 처리 완료, 교열기자 3개 대기 중."
+  },
+  "action_needed": {
+    "copy_editor": "3개 파일 교열 필수 (CCC, LG, 가이드라인)",
+    "publisher": "이전 발행분 처리"
+  },
+  "killed_articles": {
+    "total": 2,
+    "files": [
+      {
+        "id": "2026-03-05_0217_school-network-ai-enhance-learning",
+        "reason": "신뢰도 78 + revision_count 2회 초과",
+        "timestamp": "2026-03-05T17:08:00+09:00"
+      },
+      {
+        "id": "2026-03-05_02_building-an-ai-ready-america-teaching-in",
+        "reason": "신뢰도 81 + revision_count 2회 초과 (Microsoft 독점 통계 균형 문제 미해결)",
+        "timestamp": "2026-03-05T17:08:00+09:00"
+      }
+    ]
+  },
+  "next_steps": [
+    "✅ 05-fact-checked 5개 파일 라우팅 완료",
+    "✅ 06-desk-approved 3개 파일 07-copy-edited로 이동 완료",
+    "⏳ 교열기자: 07-copy-edited 3개 파일 처리 (파일명 참고)",
+    "⏳ 발행 에이전트: 08-published 준비"
+  ]
+}

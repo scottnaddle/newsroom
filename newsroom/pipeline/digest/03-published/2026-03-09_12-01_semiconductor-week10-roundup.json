@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Week 10, 2026 — Semiconductor Industry Weekly Roundup",
+    "url": "https://thesemiconductornewsletter.substack.com/p/week-10-2026",
+    "source_name": "The Semiconductor Newsletter (Substack)",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Week 10 of 2026 highlights continued expansion of global semiconductor markets and acceleration of AI infrastructure investment. Key stories include Ayar Labs raising $500M for optical interconnect tech, NVIDIA partnering with Lumentum and Coherent on optical technologies for AI systems, Broadcom and Marvell reporting strong AI semiconductor growth, and ASML expanding its technology roadmap to serve AI chip manufacturing.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-09T12:01:00+09:00"
+  },
+  "digest": {
+    "headline": "AI 반도체 투자 가속화… 광 인터커넥트·패키징이 새 병목으로 부상",
+    "lead": "2026년 10주차 글로벌 반도체 시장은 AI 인프라 투자 확대에 힘입어 성장세를 이어갔다. Ayar Labs가 광 인터커넥트 양산을 위해 5억 달러를 조달하고, 엔비디아가 Lumentum·Coherent와 광학 기술 동맹을 맺는 등 AI 데이터센터의 '빛의 전쟁'이 본격화되고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">2026년 10주차 글로벌 반도체 시장은 AI 인프라 투자 확대에 힘입어 성장세를 이어갔다. Ayar Labs가 광 인터커넥트 양산을 위해 5억 달러를 조달하고, 엔비디아가 Lumentum·Coherent와 광학 기술 동맹을 맺는 등 AI 데이터센터의 '빛의 전쟁'이 본격화되고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">AI 모델의 규모가 급격히 커지면서 GPU 간 데이터 전송 속도가 학습 효율의 핵심 변수가 됐다. 기존 전기 신호 기반 인터커넥트로는 한계가 뚜렷해지자, 엔비디아는 Lumentum 및 Coherent와 전략적 제휴를 맺고 광학 연결 기술 개발에 나섰다. Ayar Labs의 5억 달러 투자 유치는 이 분야의 상업화가 임박했음을 보여준다. 한편 Broadcom과 Marvell은 AI 반도체 매출 호조를 기록했고, ASML은 리소그래피를 넘어 AI 칩 제조 전반을 지원하는 기술 로드맵 확대를 발표했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">AI 서버 공급망에서 메모리와 고급 패키징이 새로운 병목으로 떠올랐다. 일본은 2040년 반도체 매출 목표를 설정하고 Rapidus가 2나노 공정 고객 확보에 나서는 등 각국의 반도체 주권 경쟁도 치열해지고 있다. 인도 역시 반도체 조립 역량 확충을 승인하고 네덜란드와 협력을 강화하며 글로벌 공급망 재편에 참여하고 있다. AI 인프라 투자가 하드웨어 전 영역으로 확산되면서, 반도체 산업의 성장 사이클은 당분간 지속될 전망이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 반도체 인프라 투자 확대는 클라우드 기반 AI 서비스의 성능 향상과 비용 하락으로 이어진다. 에듀테크 기업들이 대규모 언어모델이나 실시간 AI 튜터링을 구현할 때 필요한 컴퓨팅 접근성이 개선될 수 있으며, 특히 광 인터커넥트 기술의 상용화는 지연시간(latency)에 민감한 실시간 교육 AI 서비스의 품질을 한 단계 끌어올릴 핵심 인프라가 될 전망이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://thesemiconductornewsletter.substack.com/p/week-10-2026\" style=\"color:#FF6B35;text-decoration:none;\">The Semiconductor Newsletter (Substack)</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "nvidia",
+      "semiconductor"
+    ],
+    "meta_title": "AI 반도체 투자 가속화, 광 인터커넥트가 새 병목으로 부상",
+    "meta_description": "2026년 10주차 반도체 시장 동향. Ayar Labs 5억 달러 조달, 엔비디아 광학 기술 동맹, Broadcom·Marvell AI 매출 호조 등 AI 인프라 투자가 반도체 산업 전반을 견인하고 있다.",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T12:01:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T12:45:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T04:30:57.333Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae4d01ff4fbf0001ab77aa",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae4d01ff4fbf0001ab77aa",
+    "public_url": "https://insight.ubion.global/ai-bandoce-tuja-gasoghwa-gwang-inteokeonegteu-paekijingi-sae-byeongmogeuro-busang/",
+    "status": "published",
+    "published_at": "2026-03-09T04:30:57.000Z"
+  }
+}

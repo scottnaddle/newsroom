@@ -1,0 +1,32 @@
+{
+  "action": "reject",
+  "timestamp": "2026-03-06T13:35:00+09:00",
+  "source_file": "2026-03-06_10-11_seoul-youth-academy-ai.json",
+  "reason": "본문 HTML 비어있음 (1500자 미만 + 단어 200개 미만)",
+  "severity": "critical",
+  "details": {
+    "issue": "Publisher 또는 Writer에서 생성한 HTML이 누락됨",
+    "html_length": "0자",
+    "word_count": "0단어",
+    "minimum_required": "1500자 이상의 HTML + 200단어 이상"
+  },
+  "action_required": "Writer가 기사를 완전히 다시 작성해야 함",
+  "desk": "editor-desk",
+  "reject_time": "2026-03-06T13:35:00+09:00",
+  "stage": "rejected",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

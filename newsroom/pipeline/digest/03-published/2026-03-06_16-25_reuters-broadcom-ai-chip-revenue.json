@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Broadcom sees over $100 billion in AI chip sales by 2027 on robust custom chip demand",
+    "url": "https://www.reuters.com/technology/broadcom-forecasts-second-quarter-revenue-above-estimates-2026-03-04/",
+    "source_name": "Reuters",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Chip designer Broadcom projected its artificial intelligence chip revenue would exceed $100 billion next year, signaling surging demand for custom chips in a market dominated by Nvidia.",
+    "published_date": "2026-03-04",
+    "collected_at": "2026-03-06T16:25:00+09:00"
+  },
+  "digest": {
+    "headline": "브로드컴, 2027년 AI 칩 매출 1000억 달러 돌파 전망…커스텀칩 수요 폭증",
+    "lead": "반도체 설계 기업 브로드컴이 내년 AI 칩 매출이 1,000억 달러를 넘을 것으로 전망했다. 엔비디아가 주도하는 시장에서 구글, 메타, 앤스로픽 등 빅테크의 커스텀 칩 수요가 폭증하며 브로드컴이 핵심 수혜 기업으로 부상하고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">반도체 설계 기업 브로드컴이 내년 AI 칩 매출이 1,000억 달러를 넘을 것으로 전망했다. 엔비디아가 주도하는 시장에서 구글, 메타, 앤스로픽 등 빅테크의 커스텀 칩 수요가 폭증하며 브로드컴이 핵심 수혜 기업으로 부상하고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">브로드컴은 최근 실적 발표에서 AI 반도체 매출이 전년 대비 두 배 이상 증가해 2026 회계연도 1분기에만 84억 달러를 기록했다고 밝혔다. 전체 매출은 193억 달러로 29% 성장했다. 회사는 현재 6개 주요 AI 칩 고객을 보유하고 있으며, 구글, 마이크로소프트, 아마존, 메타, 앤스로픽, 오픈AI 등이 포함된 것으로 알려졌다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">브로드컴의 약진은 하이퍼스케일러들이 엔비디아 의존도를 낮추려는 전략과 맞물려 있다. 구글 TPU, 메타 MTIA, 앤스로픽 커스텀 칩 등 자체 AI 가속기를 개발하는 기업들이 브로드컴의 설계 역량을 활용하고 있다. 2027년까지 AI 칩 매출 1,000억 달러는 엔비디아의 독점적 지위에 대한 실질적인 도전이자 AI 칩 시장의 양극화를 의미한다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">커스텀 AI 칩 생태계 확대는 에듀테크 기업에도 기회다. 엔비디아 GPU 가격 인상 압박 속에서 구글 클라우드 TPU나 AWS Trainium 같은 대안적 AI 인프라 활용이 유리해진다. 특히 대규모 언어 모델 기반 교육 서비스는 추론 비용 절감을 위해 다양한 칩 아키텍처를 지원하는 전략이 필요하다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.reuters.com/technology/broadcom-forecasts-second-quarter-revenue-above-estimates-2026-03-04/\" style=\"color:#FF6B35;text-decoration:none;\">Reuters</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "broadcom",
+      "반도체",
+      "커스텀칩"
+    ],
+    "meta_title": "브로드컴 2027년 AI칩 매출 1000억달러 전망, 커스텀칩 수요 폭증",
+    "meta_description": "브로드컴이 2027년 AI 칩 매출 1000억 달러 돌파를 전망했다. 구글, 메타, 앤스로픽의 커스텀 칩 수요 폭증으로 엔비디아 독주에 도전장을 내밀었다.",
+    "word_count": 480
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T16:25:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T16:30:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T07:37:14.294Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aa83f3ff4fbf0001ab6e86",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aa83f3ff4fbf0001ab6e86",
+    "public_url": "https://insight.ubion.global/beurodeukeom-2027nyeon-ai-cib-maecul-1000eog-dalreo-dolpa-jeonmang-keoseuteomcib-suyo-pogjeung/",
+    "status": "published",
+    "published_at": "2026-03-06T07:37:14.294Z"
+  }
+}

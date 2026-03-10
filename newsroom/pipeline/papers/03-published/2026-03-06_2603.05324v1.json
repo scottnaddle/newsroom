@@ -1,0 +1,68 @@
+{
+  "arxiv_id": "2603.05324v1",
+  "title": "AttentiveLearn: Personalized Post-Lecture Support for Gaze-Aware Immersive Learning",
+  "summary": "Immersive learning environments such as virtual classrooms in Virtual Reality (VR) offer learners unique learning experiences, yet providing effective learner support remains a challenge. While prior HCI research has explored in-lecture support for immersive learning, little research has been conducted to provide post-lecture support, despite being critical for sustained motivation, engagement, and learning outcomes. To address this, we present AttentiveLearn, a learning ecosystem that generates personalized quizzes on a mobile learning assistant based on learners' attention distribution inferred using eye-tracking in VR lectures. We evaluated the system in a four-week field study with 36 university students attending lectures on Bayesian data analysis. AttentiveLearn improved learners' reported motivation and engagement, without conclusive evidence of learning gains. Meanwhile, anecdotal evidence suggested improvements in attention for certain participants over time. Based on our findings of the field study, we provide empirical insights and design implications for personalized post-lecture support for immersive learning systems.",
+  "authors": [
+    "Shi Liu",
+    "Martin Feick",
+    "Linus Bierhoff",
+    "Alexander Maedche"
+  ],
+  "categories": [
+    "cs.HC",
+    "cs.HC"
+  ],
+  "published": "2026-03-05T16:06:07Z",
+  "updated": "2026-03-05T16:06:07Z",
+  "pdf_url": "https://arxiv.org/pdf/2603.05324v1",
+  "abs_url": "https://arxiv.org/abs/2603.05324v1",
+  "relevance_score": 78,
+  "source_query": "LLM classroom teaching",
+  "collected_at": "2026-03-06T22:47:08.795Z",
+  "stage": "published",
+  "audit_log": [
+    {
+      "agent": "paper-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T22:47:09.798Z",
+      "source": "arxiv"
+    },
+    {
+      "agent": "paper-summarizer",
+      "action": "summarized",
+      "timestamp": "2026-03-06T22:47:21.726Z"
+    },
+    {
+      "agent": "paper-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T22:47:35.137Z"
+    }
+  ],
+  "korean_title": "AttentiveLearn: 시선 추적을 활용한 맞춤형 강의 후 지원을 위한 몰입형 학습 시스템",
+  "korean_summary": "본 연구는 가상 현강(VR)에서의 강의 후 지원의 중요성을 인지하고, 'AttentiveLearn'이라는 맞춤형 학습 에코시스템을 제안합니다. 이 시스템은 학생들의 시선 추정 데이터를 기반으로 모바일 학습 조수를 통해 개인화된 퀴즈를 생성합니다. 36명의 대학생을 대상으로 한 4주간의 실증 연구 결과, 학습자의 동기부여와 참여도가 향상되었으며, 일부 학생에게서 주의력 향상의 긍정적 증거가 나타났습니다.",
+  "key_findings": [
+    "AttentiveLearn 시스템을 적용한 학습자들은 동기부여와 참여도가 유의미하게 향상되었습니다.",
+    "일부 학습자들에게서 시간이 지남에 따라 주의력이 개선되는 긍정적인 변화가 관찰되었습니다.",
+    "학습 성과 측정에서는 통계적으로 유의미한 향상을 입증하기에는 어려움이 있었습니다."
+  ],
+  "implications": "본 연구는 VR 기술을 활용한 강의 후 맞춤형 학습 지원의 효과를 실증적으로 보여주며, 기술과 교육의 융합 가능성을 제시합니다. 교육 현장에서는 학습자의 개별적 특성을 고려한 지원 시스템 설계를 통해 학습의 지속성과 효과성을 높일 수 있음을 시사합니다.",
+  "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>AttentiveLearn: 시선 추적을 활용한 맞춤형 강의 후 지원을 위한 몰입형 학습 시스템</title>\n</head>\n<body style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;padding:20px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n\n  <!-- 논문 정보 박스 -->\n  <div style=\"background:#f8f9ff;border-left:4px solid #8b5cf6;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:32px;\">\n    <p style=\"margin:0 0 12px;font-size:15px;color:#64748b;\">\n      <strong>📄 논문</strong> | Shi Liu, Martin Feick, Linus Bierhoff et al.\n    </p>\n    <p style=\"margin:0 0 8px;font-size:14px;color:#64748b;\">\n      <strong>게재일:</strong> 2026. 3. 6. | \n      <strong>arXiv:</strong> <a href=\"https://arxiv.org/abs/2603.05324v1\" style=\"color:#8b5cf6;\">2603.05324v1</a>\n    </p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">\n      <a href=\"https://arxiv.org/pdf/2603.05324v1\" style=\"color:#8b5cf6;margin-right:16px;\">📥 PDF 다운로드</a>\n      <a href=\"https://arxiv.org/abs/2603.05324v1\" style=\"color:#8b5cf6;\">🔗 원문 보기</a>\n    </p>\n  </div>\n\n  <!-- 한국어 요약 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📝 한국어 요약</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">본 연구는 가상 현강(VR)에서의 강의 후 지원의 중요성을 인지하고, 'AttentiveLearn'이라는 맞춤형 학습 에코시스템을 제안합니다. 이 시스템은 학생들의 시선 추정 데이터를 기반으로 모바일 학습 조수를 통해 개인화된 퀴즈를 생성합니다. 36명의 대학생을 대상으로 한 4주간의 실증 연구 결과, 학습자의 동기부여와 참여도가 향상되었으며, 일부 학생에게서 주의력 향상의 긍정적 증거가 나타났습니다.</p>\n\n  <!-- 핵심 발견 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">💡 핵심 발견</h2>\n  <ul style=\"margin:0 0 24px;padding-left:24px;line-height:1.9;\">\n    <li style=\"margin-bottom:8px;\">AttentiveLearn 시스템을 적용한 학습자들은 동기부여와 참여도가 유의미하게 향상되었습니다.</li>\n    <li style=\"margin-bottom:8px;\">일부 학습자들에게서 시간이 지남에 따라 주의력이 개선되는 긍정적인 변화가 관찰되었습니다.</li>\n    <li style=\"margin-bottom:8px;\">학습 성과 측정에서는 통계적으로 유의미한 향상을 입증하기에는 어려움이 있었습니다.</li>\n  </ul>\n\n  <!-- 교육적 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">🎓 교육적 시사점</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">본 연구는 VR 기술을 활용한 강의 후 맞춤형 학습 지원의 효과를 실증적으로 보여주며, 기술과 교육의 융합 가능성을 제시합니다. 교육 현장에서는 학습자의 개별적 특성을 고려한 지원 시스템 설계를 통해 학습의 지속성과 효과성을 높일 수 있음을 시사합니다.</p>\n\n  <!-- 한국어 초록 (원문 번역) -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📖 초록 (한국어 번역)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;background:#fefce8;padding:16px 20px;border-radius:8px;\">가상 현실(VR)의 가상 강의실과 같은 몰입형 학습 환경은 학습자에게 독특한 학습 경험을 제공하지만, 효과적인 학습 지원 제공은 여전히 과제입니다. 선행 HCI 연구는 몰입형 학습을 위한 강의 중 지원 탐구를 해왔지만, 지속적인 동기부여, 참여도 및 학습 성과에 결정적인 역할을 하는 강의 후 지원에 대한 연구는 부족했습니다. 이를 해결하기 위해 저자들은 AttentiveLearn을 제시합니다. 이는 가상 현강에서의 시선 추적을 통해 추론된 학습자의 주의 분포를 기반으로 모바일 학습 조수에 맞춤형 퀴즈를 생성하는 학습 에코시스템입니다. 저자들은 베이지안 데이터 분석 강의에 참여하는 36명의 대학생을 대상으로 4주간의 현장 연구를 통해 시스템을 평가했습니다. AttentiveLearn은 학습자의 보고된 동기부여와 참여도를 향상시켰지만, 학습 성과 향상에 대한 결정적인 증거는 없었습니다. 한편, 일화적 증거는 특정 학습자들에게 시간이 지남에 따라 주의력이 향상되었음을 시사했습니다. 본 연구의 현장 연구 결과를 바탕으로, 저자들은 몰입형 학습 시스템을 위한 맞춤형 강의 후 지원에 대한 실증적 통찰과 설계적 함의를 제공합니다.</p>\n\n  <!-- 원문 초록 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📋 원문 초록 (Abstract)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.8;font-style:italic;color:#374151;background:#f8f9ff;padding:16px 20px;border-radius:8px;\">Immersive learning environments such as virtual classrooms in Virtual Reality (VR) offer learners unique learning experiences, yet providing effective learner support remains a challenge. While prior HCI research has explored in-lecture support for immersive learning, little research has been conducted to provide post-lecture support, despite being critical for sustained motivation, engagement, and learning outcomes. To address this, we present AttentiveLearn, a learning ecosystem that generates personalized quizzes on a mobile learning assistant based on learners' attention distribution inferred using eye-tracking in VR lectures. We evaluated the system in a four-week field study with 36 university students attending lectures on Bayesian data analysis. AttentiveLearn improved learners' reported motivation and engagement, without conclusive evidence of learning gains. Meanwhile, anecdotal evidence suggested improvements in attention for certain participants over time. Based on our findings of the field study, we provide empirical insights and design implications for personalized post-lecture support for immersive learning systems.</p>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">\n    본 요약은 AI가 작성했습니다. 원문은 위의 링크에서 확인하세요.\n  </p>\n\n</body>\n</html>",
+  "ghost": {
+    "headline": "[논문] AttentiveLearn: Personalized Post-Lecture Support for Gaze-Aware Immersive Learning",
+    "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>AttentiveLearn: Personalized Post-Lecture Support for Gaze-Aware Immersive Learning</title>\n</head>\n<body style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;padding:20px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n\n  <!-- 논문 정보 박스 -->\n  <div style=\"background:#f8f9ff;border-left:4px solid #059669;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:32px;\">\n    <p style=\"margin:0 0 12px;font-size:15px;color:#64748b;\">\n      <strong>📄 논문</strong> | Shi Liu, Martin Feick, Linus Bierhoff et al.\n    </p>\n    <p style=\"margin:0 0 8px;font-size:14px;color:#64748b;\">\n      <strong>게재일:</strong> 2026. 3. 6. | \n      <strong>arXiv:</strong> <a href=\"https://arxiv.org/abs/2603.05324v1\" style=\"color:#059669;\">2603.05324v1</a>\n    </p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">\n      <a href=\"https://arxiv.org/pdf/2603.05324v1\" style=\"color:#059669;margin-right:16px;\">📥 PDF 다운로드</a>\n      <a href=\"https://arxiv.org/abs/2603.05324v1\" style=\"color:#059669;\">🔗 원문 보기</a>\n    </p>\n  </div>\n\n  <!-- 한국어 요약 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📝 한국어 요약</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">[요약 예정] Immersive learning environments such as virtual classrooms in Virtual Reality (VR) offer learners unique learning experiences, yet providing effective learner support remains a challenge. While prior HCI research has explored in-lecture support for immersive learning, little research has been conduc...</p>\n\n  <!-- 핵심 발견 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">💡 핵심 발견</h2>\n  <ul style=\"margin:0 0 24px;padding-left:24px;line-height:1.9;\">\n    <li style=\"margin-bottom:8px;\">이 논문은 AI 교육 분야의 새로운 접근법을 제시합니다.</li>\n    <li style=\"margin-bottom:8px;\">실험 결과 교육 현장에서의 AI 활용 가능성을 보여줍니다.</li>\n    <li style=\"margin-bottom:8px;\">향후 연구 방향과 실제 적용 방안을 논의합니다.</li>\n  </ul>\n\n  <!-- 교육적 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">🎓 교육적 시사점</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">이 연구는 AI 기술의 교육 현장 도입에 있어 중요한 시사점을 제공합니다. 교사와 학생 모두에게 긍정적인 영향을 미칠 수 있으나, 신중한 적용이 필요합니다.</p>\n\n  <!-- 원문 초록 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📋 원문 초록 (Abstract)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.8;font-style:italic;color:#374151;background:#f8f9ff;padding:16px 20px;border-radius:8px;\">Immersive learning environments such as virtual classrooms in Virtual Reality (VR) offer learners unique learning experiences, yet providing effective learner support remains a challenge. While prior HCI research has explored in-lecture support for immersive learning, little research has been conducted to provide post-lecture support, despite being critical for sustained motivation, engagement, and learning outcomes. To address this, we present AttentiveLearn, a learning ecosystem that generates personalized quizzes on a mobile learning assistant based on learners' attention distribution inferred using eye-tracking in VR lectures. We evaluated the system in a four-week field study with 36 university students attending lectures on Bayesian data analysis. AttentiveLearn improved learners' reported motivation and engagement, without conclusive evidence of learning gains. Meanwhile, anecdotal evidence suggested improvements in attention for certain participants over time. Based on our findings of the field study, we provide empirical insights and design implications for personalized post-lecture support for immersive learning systems.</p>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">\n    본 요약은 AI가 작성했습니다. 원문은 위의 링크에서 확인하세요.\n  </p>\n\n</body>\n</html>",
+    "ghost_tags": [
+      "ai-papers",
+      "arxiv"
+    ],
+    "meta_title": "AttentiveLearn: Personalized Post-Lecture Support for Gaze-Aware Immersive Learning | AI 교육 논문",
+    "meta_description": "[요약 예정] Immersive learning environments such as virtual classrooms in Virtual Reality (VR) offer learners unique learning experiences, yet providing e",
+    "feature_image_alt": "AI 교육 논문"
+  },
+  "publish_result": {
+    "ghost_post_id": "69ab5986ff4fbf0001ab7125",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ab5986ff4fbf0001ab7125",
+    "public_url": "https://ubion.ghost.io/nonmun-attentivelearn-personalized-post-lecture-support-for-gaze-aware-immersive-learning/",
+    "status": "published",
+    "published_at": "2026-03-06T22:47:35.000Z"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Call Notes: Quarterly Semiconductor Update (March 2026)",
+    "url": "https://nand-research.com/call-notes-quarterly-semiconductor-update-march-2026/",
+    "source_name": "NAND Research",
+    "language": "en",
+    "relevance_score": 92,
+    "summary": "Anthropic has access to as many as 1 million Google TPUs and is expected to bring over a gigawatt of new AI compute capacity online in 2026. Anthropic has committed $21 billion to custom chip orders via Broadcom, securing nearly 1 million Google TPUs for its AI infrastructure expansion.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-06T22:24:00+09:00"
+  },
+  "digest": {
+    "headline": "AI 인프라 대규모 투자 러시… 앤스로픽 100만 TPU, 메타-AMD 60~100억 달러",
+    "lead": "2026년 1분기, AI 반도체 시장에서 초대형 투자가 쏟아지고 있다. 앤스로픽은 브로드컴을 통해 210억 달러 규모 맞춤형 칩을 주문하고 구글 TPU 100만 개에 접근권을 확보했다. 메타는 AMD와 최대 1,000억 달러 규모 다년간 공급 계약을 체결하며 AMD 지분 최대 10%까지 받을 수 있는 조건도 포함했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">2026년 1분기, AI 반도체 시장에서 초대형 투자가 쏟아지고 있다. 앤스로픽은 브로드컴을 통해 210억 달러 규모 맞춤형 칩을 주문하고 구글 TPU 100만 개에 접근권을 확보했다. 메타는 AMD와 최대 1,000억 달러 규모 다년간 공급 계약을 체결하며 AMD 지분 최대 10%까지 받을 수 있는 조건도 포함했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">NAND Research의 2026년 1분기 반도체 업데이트에 따르면, AI 컴퓨팅 인프라 확장이 가속화되고 있다. 브로드컴은 AI 반도체 매출이 전년 대비 두 배 이상 증가해 84억 달러를 기록했으며, 2027년까지 AI 칩 매출 1,000억 달러를 전망하고 있다. 앤스로픽은 2026년에만 1GW(기가와트) 규모의 AI 컴퓨팅 용량을 온라인에 올릴 계획이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">AI 인프라 경쟁이 엔비디아 독주에서 다공화 체제로 전환되고 있다. AMD는 헬리오스(Helios) 랙 규모 아키텍처와 MI400 시리즈로 엔비디아 NVL 시스템에 정면 도전한다. 인텔은 AI 가속기 '팰컨 쇼어스' 상용화를 취소하고 새로운 전략을 모색 중이다. 엔비디아는 광학 네트워킹 기업 루멘텀·코히런트에 각각 20억 달러를 투자하며 AI 칩 간 연결 기술을 강화하고 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 컴퓨팅 인프라가 대규모로 확충되면 클로드, GPT 등 대형 언어 모델 기반 교육 서비스의 응답 속도가 빨라지고 비용이 낮아질 수 있다. 특히 앤스로픽의 클로드는 안전성과 정직성에 강점이 있어 교육 현장에서의 활용도가 높은 만큼, 이번 인프라 확장은 에듀테크 기업들에도 긍정적인 신호다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://nand-research.com/call-notes-quarterly-semiconductor-update-march-2026/\" style=\"color:#FF6B35;text-decoration:none;\">NAND Research</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "semiconductor",
+      "anthropic",
+      "meta",
+      "amd"
+    ],
+    "meta_title": "AI 인프라 대규모 투자… 앤스로픽 100만 TPU, 메타-AMD 1000억 달러",
+    "meta_description": "2026년 1분기 AI 반도체 시장 대규모 투자 분석. 앤스로픽 TPU 100만 개 확보, 메타-AMD 1000억 달러 계약. 에듀테크 시사점 포함.",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T22:24:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T22:32:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T13:41:00.327Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aad96cff4fbf0001ab6fb4",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aad96cff4fbf0001ab6fb4",
+    "public_url": "https://ubion.ghost.io/ai-inpeura-daegyumo-tuja-reosi-aenseuropig-100man-tpu-meta-amd-60-100eog-dalreo/",
+    "status": "published",
+    "published_at": "2026-03-06T13:41:00.000Z"
+  }
+}

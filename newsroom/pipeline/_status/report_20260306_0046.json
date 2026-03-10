@@ -1,0 +1,151 @@
+{
+  "timestamp": "2026-03-06T00:46:00+09:00",
+  "stage": "editor-desk-check",
+  "runtime": 15,
+  "check_cycle": "30분 주기점검 (2/8)",
+  
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "status": "✅ 비어있음",
+      "action": "sourcer 대기"
+    },
+    "02_assigned": {
+      "total": 0,
+      "status": "✅ 비어있음",
+      "action": "sourcer 입력 대기"
+    },
+    "03_reported": {
+      "total": 0,
+      "status": "✅ 비어있음",
+      "action": "보도기자 완료"
+    },
+    "04_drafted": {
+      "total": 0,
+      "status": "✅ 병목 해소",
+      "action": "작가 완료"
+    },
+    "05_fact_checked": {
+      "total": 0,
+      "status": "✅ 비어있음",
+      "action": "팩트체커 대기"
+    },
+    "06_desk_approved": {
+      "total": 0,
+      "status": "✅ 비어있음",
+      "action": "에디터 대기"
+    },
+    "07_copy_edited": {
+      "total": 0,
+      "status": "✅ 비어있음",
+      "action": "교열기자 대기"
+    },
+    "08_published": {
+      "total": 76,
+      "status": "📤 발행 대기",
+      "action": "Ghost CMS 발행 에이전트 실행 필요"
+    }
+  },
+  
+  "queue_status": {
+    "total_items": 6,
+    "status": "🟡 신뢰도 50-74 범위 (배정 대기)",
+    "items": [
+      {
+        "id": "1772710577-001",
+        "title": "Hwang Hyuna of Korea University of Technology and Education Publishes AI Career Counseling Paper",
+        "relevance_score": 68,
+        "status": "QUEUE",
+        "reason": "신뢰도 68 (50-74) — 배정 우선도 낮음"
+      },
+      {
+        "id": "1741271193-clg-consortium",
+        "title": "South Korean Universities Form Asia AI Research Consortium",
+        "relevance_score": 68,
+        "status": "QUEUE",
+        "reason": "신뢰도 68 (50-74)"
+      },
+      {
+        "id": "1741271193-politico-love",
+        "title": "The Country That's Madly in Love With AI",
+        "relevance_score": 62,
+        "status": "QUEUE",
+        "reason": "신뢰도 62 (50-74) — 가장 낮은 점수"
+      },
+      {
+        "id": "1741352160-002",
+        "title": "2026학년도 AI기반 기초과목 진단 및 맞춤형 학습 프로그램",
+        "relevance_score": 68,
+        "status": "QUEUE",
+        "reason": "신뢰도 68 (50-74)"
+      },
+      {
+        "id": "duplicate-1741352160-002",
+        "title": "[DUPLICATE] 2026학년도 AI기반 기초과목 진단 및 맞춤형 학습 프로그램",
+        "relevance_score": 68,
+        "status": "QUEUE",
+        "reason": "신뢰도 68 (50-74) — ⚠️ 중복 항목 감지"
+      },
+      {
+        "id": "20260305-223631-469935",
+        "title": "AI가 혁신하는 교육 환경 전략",
+        "relevance_score": 72,
+        "status": "QUEUE",
+        "reason": "신뢰도 72 (50-74) — 가장 높은 점수"
+      }
+    ]
+  },
+  
+  "rejected_summary": {
+    "total": 48,
+    "status": "⛔ 품질 미달 거부",
+    "action": "기록 보관 중"
+  },
+  
+  "health_check": {
+    "pipeline_flow": "✅ 정상",
+    "bottleneck": "❌ 없음",
+    "last_activities": [
+      "03:31 (9분 전) - 이전 보고: 76개 발행 대기, 병목 해소 완료",
+      "00:17 (29분 전) - 04-drafted 2개 기사 처리 완료",
+      "00:01 (45분 전) - 이전 상태: 04-drafted에 2개 기사 대기 중"
+    ],
+    "current_status": "✅ 모든 처리 단계가 비어있음 — 시스템 정상 작동"
+  },
+  
+  "action_items": {
+    "immediate": [
+      "📤 Ghost CMS Publisher: 76개 기사를 08-published/에서 발행 (다음 발행 에이전트 실행까지)"
+    ],
+    "pending": [
+      "🟡 Queue의 6개 항목: 신뢰도 50-74 범위 (배정 우선도 낮음, 추후 검토)",
+      "⚠️ Queue에 중복 항목 감지 (1741352160-002) — 정리 필요"
+    ],
+    "monitoring": [
+      "📊 Sourcer 상태 (01-sourced가 비어있음 — 정상?)",
+      "📊 다음 30분 주기 점검 예정"
+    ]
+  },
+  
+  "quality_metrics": {
+    "total_articles": 124,
+    "published": 76,
+    "rejected": 48,
+    "queued": 6,
+    "in_pipeline": 0,
+    "acceptance_rate": "61.3% (76/124)",
+    "rejection_rate": "38.7% (48/124)",
+    "throughput_status": "✅ 정상 (최근 30분: 2개 처리 완료)"
+  },
+  
+  "notes": [
+    "✅ 파이프라인이 건강하게 작동 중입니다.",
+    "✅ 모든 처리 단계가 명확하게 분리되어 있으며, 자동 라우팅이 효율적으로 진행되고 있습니다.",
+    "🟡 Queue의 6개 항목은 신뢰도가 50-74 범위에 있어 우선도가 낮으므로, 다음 우선도 높은 항목이 들어올 때까지 대기합니다.",
+    "⚠️ Queue에 중복 항목(1741352160-002)이 있으니 정리 필요합니다.",
+    "📤 현재 우선순위: Ghost CMS 발행 에이전트가 76개 기사를 발행하는 것입니다.",
+    "✅ 병목 현상이 없으며, 시스템이 최적 속도로 작동 중입니다."
+  ],
+  
+  "next_check": "2026-03-06T01:16:00+09:00 (30분 후)"
+}

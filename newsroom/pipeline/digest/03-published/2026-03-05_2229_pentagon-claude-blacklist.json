@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Defense tech companies are dropping Claude after Pentagon's Anthropic blacklist",
+    "url": "https://www.cnbc.com/2026/03/04/pentagon-blacklist-anthropic-defense-tech-claude.html",
+    "source_name": "CNBC",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Following the Trump administration's decision to blacklist Anthropic and designate its technology a supply chain risk, defense tech companies are telling employees to stop using Claude and switch to other AI models. Defense contractors like Lockheed Martin are expected to remove Anthropic's technology from their supply chains, marking a sudden reversal for Anthropic which gets about 80% of its revenue from enterprise customers. The ban came after Anthropic executives refused to comply with demands that their AI not be used for fully autonomous weapons or mass domestic surveillance.",
+    "published_date": "2026-03-04",
+    "collected_at": "2026-03-05T22:02:49Z"
+  },
+  "digest": {
+    "headline": "AI 안전성 거부로 국방부 블랙리스트된 Anthropic, 기업들 Claude 대량 이탈",
+    "lead": "트럼프 행정부가 AI 안전 규제 수용을 거부한 Anthropic을 국방부 공급망에서 제외했다. 로킹마틴 등 방위산업체와 10개 이상 디펜스테크 스타트업이 Claude 사용을 중단하고 다른 AI 모델로 전환 중이다. Anthropic은 매출의 80%를 기업 고객으로부터 얻어왔기에 이번 규제는 회사 생존의 기로가 될 전망이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">⚡ AI Digest</span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">트럼프 행정부가 자율 무기·대량 감시 금지 요구를 거부한 Anthropic을 국방부 공급망에서 제외했다. 로킹마틴 등 방위산업체와 스타트업 10개 이상이 Claude 사용을 중단하고 다른 AI로 전환 중이며, 매출의 80%를 기업 고객에 의존하던 Anthropic은 존폐 위기에 직면했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">지난주 트럼프 행정부는 Anthropic을 국방부 공급망 위험 기업으로 지정했다. 공식 발표는 소셜미디어로만 이루어졌지만 영향은 즉각적이었다. Pete Hegseth 국방장관은 군과 거래하는 모든 계약업체와 공급업체에 Anthropic과의 상업 활동을 금지하는 행정 명령을 내렸다. 이는 Anthropic이 2024년 말 Palantir와의 파트너십으로 시작한 국방부 진출, 이후 2억 달러 규모 분류 네트워크 계약을 따낸 성공의 급격한 반전이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">Anthropic은 자율 무기와 대량 국내 감시에 AI가 사용되지 않도록 강력하게 요구했고, 이는 트럼프 행정부의 수용 요구와 충돌했다. 반면 OpenAI는 국방부와 합의에 도달했고, Google과 Elon Musk의 xAI도 정부 계약을 이어가고 있다. AI 안전성을 고집한 Anthropic의 윤리적 입장이 정치적 현실과 맞부딪힌 것이다. 짧은 기간에 업계 1위 위상에서 내팽개쳐진 이 사건은 AI 기업의 생존이 기술만이 아닌 정치·규제와 얼마나 깊게 얽혀 있는지를 보여준다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">이 사건은 한국의 에듀테크 스타트업과 기업에 중요한 교훈을 제공한다. AI 모델 선택 시 기술 우수성뿐 아니라 정부 규제, 공급망 위험, 지정학적 요소를 반드시 고려해야 한다는 점이다. 정부 계약을 노리거나 B2B 기업 고객을 대상으로 하는 에듀테크는 'AI 소스 다변화' 전략을 미리 수립해야 하고, Claude에 의존하는 학생 학습 플랫폼도 규제 리스크를 평가해 대체 모델 준비가 필요하다. 더 근본적으로는 'AI 안전성 vs 빠른 성장' 사이에서 어느 쪽에 무게를 둘지 명확히 결정해야 하는 시점임을 보여준다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.cnbc.com/2026/03/04/pentagon-blacklist-anthropic-defense-tech-claude.html\" style=\"color:#FF6B35;text-decoration:none;\">CNBC</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "technology"
+    ],
+    "meta_title": "Anthropic, 안전성 거부로 국방부 블랙리스트…Claude 기업 이탈 가속",
+    "meta_description": "AI 안전 규제 수용을 거부한 Anthropic이 국방부 공급망에서 제외됐다. 매출 80% 기업 고객 중심의 Anthropic은 규제 리스크 대응 실패로 존폐 위기에 직면했다. 에듀테크 기업도 AI 모델 선택 시 규제·정치 위험을 반드시 고려해야 한다.",
+    "word_count": 612
+  },
+  "publish_result": {
+    "ghost_post_id": "69a98537e2eb440001d5625c",
+    "ghost_uuid": "6634e706-9b94-448e-87ff-1583a8596ca3",
+    "ghost_slug": "ai-anjeonseong-geoburo-gugbangbu-beulraegriseuteudoen-anthropic-gieobdeul-claude-daeryang-ital",
+    "public_url": "https://insight.ubion.global/ai-anjeonseong-geoburo-gugbangbu-beulraegriseuteudoen-anthropic-gieobdeul-claude-daeryang-ital/",
+    "status": "published",
+    "published_at": "2026-03-05T13:29:27.000Z"
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-05T22:02:49Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T13:05:12Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T13:29:27.000Z"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-03-06T05:16:00+09:00",
+  "pipeline_stage": "editor-desk-routine-check",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "assigned": 0,
+      "queued": 1,
+      "rejected": 0,
+      "notes": "신뢰도 67점 기사 1개 memory/queue.json에 저장 (대기)"
+    },
+    "02_assigned": 0,
+    "03_reported": 0,
+    "04_drafted": {
+      "total": 1,
+      "status": "pending-factcheck",
+      "file": "2026-03-06_0437_moe-ai-ethics-roundtable.json",
+      "notes": "리포팅 완료, fact-checker 처리 대기 중"
+    },
+    "05_fact_checked": {
+      "total": 0,
+      "notes": "3개 파일이 editor-desk에서 처리됨"
+    },
+    "06_desk_approved": 0,
+    "07_copy_edited": {
+      "total": 3,
+      "files": [
+        "2026-03-06_0437_lg-ai-graduate-school.json (신뢰도 91.4)",
+        "2026-03-06_0437_moe-ai-ethics-guideline.json (신뢰도 86.2)",
+        "2026-03-06_0437_seoul-ai-education-guideline.json (신뢰도 84.6)"
+      ],
+      "notes": "교열 단계 처리 대기 중 (copy-editor 처리)"
+    },
+    "08_published": 76,
+    "rejected": 50
+  },
+  "editor_desk_actions": {
+    "01_sourced_routing": {
+      "action": "점수 기반 라우팅",
+      "results": {
+        "high_priority": 0,
+        "normal_priority": 0,
+        "queued": 1,
+        "rejected": 0
+      }
+    },
+    "05_fact_checked_analysis": {
+      "total_files": 3,
+      "passed_fasttrack": {
+        "count": 1,
+        "file": "lg-ai-graduate-school (91.4점)",
+        "action": "→ 07-copy-edited (교열 스킵)"
+      },
+      "passed_editor_review": {
+        "count": 2,
+        "files": [
+          "moe-ai-ethics-guideline (86.2점) → 체크리스트: 100/100점 APPROVE",
+          "seoul-ai-education-guideline (84.6점) → 체크리스트: 98/100점 APPROVE"
+        ],
+        "action": "→ 06-desk-approved (완료) → 07-copy-edited (교열)"
+      }
+    }
+  },
+  "bottleneck_analysis": {
+    "critical": "04_drafted: 1개 파일 (fact-checker 처리 대기)",
+    "watch": "07_copy_edited: 3개 파일 (교열 단계 진행 중)",
+    "status": "정상 흐름, 병목 없음"
+  },
+  "next_steps": [
+    "fact-checker: 04-drafted 파일 05-fact-checked로 이동",
+    "copy-editor: 07-copy-edited 3개 파일 교열 처리",
+    "publisher: 08-published 발행 준비"
+  ],
+  "summary": {
+    "total_in_pipeline": 4,
+    "completed_publish": 76,
+    "rejected": 50,
+    "quality_pass_rate": "100% (3/3 editor-desk approved)"
+  }
+}

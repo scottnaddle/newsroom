@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Semiconductors & AI Chips Weekly Briefing – March 6, 2026",
+    "url": "https://www.distillintelligence.com/briefings/semiconductors-ai-chips-2026-03-06",
+    "source_name": "Distill Intelligence",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Nvidia halts production of chips intended for the Chinese market due to regulatory barriers, invests $2B each in Lumentum and Coherent for AI optics infrastructure, and commits to 6G development with telecom leaders. AMD expands AI chip partnerships with Meta. ASML announces High NA EUV technology readiness for high-volume AI chip manufacturing after exposing 500,000+ customer wafers.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-07T21:59:00+09:00"
+  },
+  "digest": {
+    "headline": "AI 반도체 주간 동향: 엔비디아 중국 수출 차단·AI 광학에 40억 달러 투자, AMD-메타 협력 확대",
+    "lead": "엔비디아가 규제 장벽으로 중국 시장용 칩 생산을 중단하고, AI 데이터센터 광학 인프라에 총 40억 달러를 투자했다. AMD는 메타와 AI 칩 파트너십을 확대하고, ASML은 차세대 High NA EUV 장비의 양산 준비 완료를 선언했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">엔비디아가 규제 장벽으로 중국 시장용 칩 생산을 중단하고, AI 데이터센터 광학 인프라에 총 40억 달러를 투자했다. AMD는 메타와 AI 칩 파트너십을 확대하고, ASML은 차세대 High NA EUV 장비의 양산 준비 완료를 선언했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">미국의 대중국 AI 칩 수출 규제가 갈수록 강화되면서, 엔비디아는 중국 시장용 칩 생산 라인을 사실상 중단했다. 동시에 AI 데이터센터의 병목이 되고 있는 광학 인터커넥트 분야에 루멘텀과 코히런트에 각 20억 달러씩 투자하며 인프라 다변화를 추진 중이다. 통신 업계와 6G 공동 개발에도 나서 AI 네트워크 인프라 전체를 장악하려는 전략이 뚜렷하다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">AMD가 메타와 다년간 AI 칩 파트너십을 체결하면서 엔비디아 독주 체제에 균열이 생기고 있다. ASML의 High NA EUV 양산 선언은 향후 2나노급 이하 공정 기반 AI 칩이 본격 등장할 것임을 예고한다. AI 반도체 공급망이 미국 중심으로 재편되는 가운데, 글로벌 AI 인프라 비용과 접근성에 구조적 변화가 예상된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 칩 경쟁 심화와 차세대 반도체 기술의 양산은 클라우드 AI 서비스의 연산 비용을 중장기적으로 낮출 수 있다. 이는 교육 플랫폼이 AI 개인화 학습, 실시간 피드백 등 연산 집약적 기능을 더 낮은 비용으로 제공할 수 있는 환경을 만든다. 다만 수출 규제 강화는 아시아 지역 에듀테크 기업의 AI 인프라 확보 전략에도 영향을 줄 수 있어 주시가 필요하다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.distillintelligence.com/briefings/semiconductors-ai-chips-2026-03-06\" style=\"color:#FF6B35;text-decoration:none;\">Distill Intelligence</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "nvidia",
+      "amd"
+    ],
+    "meta_title": "AI 반도체 주간 동향: 엔비디아 중국 차단, 광학 40억 달러 투자, AMD-메타 협력",
+    "meta_description": "엔비디아가 중국용 칩 생산을 중단하고 AI 광학 인프라에 40억 달러를 투자했다. AMD-메타 파트너십 확대, ASML High NA EUV 양산 준비 등 AI 반도체 업계 주요 동향 정리.",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T21:59:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T22:17:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T13:35:40.888Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ac29acff4fbf0001ab73bc",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ac29acff4fbf0001ab73bc",
+    "public_url": "https://insight.ubion.global/ai-bandoce-jugan-donghyang-enbidia-junggug-sucul-cadan-ai-gwanghage-40eog-dalreo-tuja-amd-meta-hyeobryeog-hwagdae/",
+    "status": "published",
+    "published_at": "2026-03-07T13:35:40.000Z"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "timestamp": "2026-03-05T19:44:00Z",
+  "report_type": "editor-desk-checkpoint",
+  "timezone": "Asia/Seoul",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "assigned": 0,
+      "queued": 0,
+      "rejected": 0
+    },
+    "02_assigned": {
+      "total": 0
+    },
+    "03_reported": {
+      "total": 0
+    },
+    "04_drafted": {
+      "total": 0
+    },
+    "05_fact_checked": {
+      "total": 1,
+      "pass_90plus": 0,
+      "pass_80_89": 1,
+      "flag_75_79": 0,
+      "fail_below_75": 0
+    },
+    "06_desk_approved": {
+      "total": 1,
+      "approved": 1
+    },
+    "07_copy_edited": {
+      "total": 1,
+      "in_progress": 1
+    },
+    "08_published": {
+      "total": 0
+    },
+    "rejected": {
+      "total": 44
+    }
+  },
+  "actions_taken": [
+    {
+      "timestamp": "2026-03-05T19:44:00Z",
+      "action": "fact-checked → desk-approved",
+      "file": "2026-03-05_university-ai-education.json",
+      "confidence_score": 88,
+      "editor_verdict": "APPROVE (100점)",
+      "reason": "신뢰도 88점 (80-89 구간) → 에디터 체크리스트 전체 통과 (100/100)"
+    },
+    {
+      "timestamp": "2026-03-05T19:44:15Z",
+      "action": "desk-approved → copy-edited",
+      "file": "2026-03-05_university-ai-education.json",
+      "status": "교열기자 처리 대기"
+    }
+  ],
+  "bottleneck_analysis": {
+    "status": "NORMAL",
+    "details": "파이프라인 대기 중. 07-copy-edited 1건 교열 진행 중."
+  },
+  "next_steps": [
+    "07-copy-edited 교열 완료 대기",
+    "08-published 발행 준비"
+  ],
+  "editor_notes": "KAIST AI 교육 기사 (신뢰도 88점) 에디터 검토 완료 → 모든 점검 통과 (뉴스가치/정확성/균형/법적/AI공개/스타일 모두 만점). 교열기자 처리 준비 완료."
+}

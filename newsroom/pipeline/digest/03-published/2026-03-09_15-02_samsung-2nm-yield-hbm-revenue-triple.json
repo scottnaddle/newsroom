@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Samsung reports faster-than-expected 2nm yield gains, aims to triple HBM revenue",
+    "url": "https://www.digitimes.com/news/a20260306PD223/samsung-2nm-hbm-revenue-growth.html",
+    "source_name": "DigiTimes Asia",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "Samsung Electronics announced its 2nm process yield is improving faster than expected, signaling strong progress in advanced semiconductor manufacturing. The company also revealed plans for wafer production at its Texas Taylor foundry and reaffirmed confidence in the HBM business with plans to triple HBM revenue, positioning itself to compete with SK Hynix in the AI memory chip market.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-09T15:02:00+09:00"
+  },
+  "digest": {
+    "headline": "삼성전자, 2nm 수율 예상 초과 달성…HBM 매출 3배 확대 선언",
+    "lead": "삼성전자가 2nm 공정 수율이 예상보다 빠르게 개선되고 있다고 발표하며 첨단 반도체 제조 경쟁력에 자신감을 보였다. 텍사스 테일러 파운드리에서의 웨이퍼 생산 계획과 함께 HBM 매출 3배 확대 목표를 재확인하며, AI 메모리 칩 시장에서 SK하이닉스와의 경쟁에 본격 나섰다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">삼성전자가 2nm 공정 수율이 예상보다 빠르게 개선되고 있다고 발표하며 첨단 반도체 제조 경쟁력에 자신감을 보였다. 텍사스 테일러 파운드리에서의 웨이퍼 생산 계획과 함께 HBM 매출 3배 확대 목표를 재확인하며, AI 메모리 칩 시장에서 SK하이닉스와의 경쟁에 본격 나섰다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">삼성전자는 2nm GAA(Gate-All-Around) 공정에서 수율이 예상 일정보다 빠르게 향상되고 있다고 밝혔다. 이는 TSMC와의 첨단 파운드리 격차를 줄이려는 삼성의 핵심 전략이다. 동시에 미국 텍사스주 테일러에 건설 중인 파운드리에서 웨이퍼 양산 계획을 공개하며 미국 내 반도체 공급망 강화에도 속도를 내고 있다. HBM 사업에서는 SK하이닉스가 선두를 달리고 있지만, 삼성은 매출 3배 확대를 목표로 공격적인 투자에 나섰다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">2nm 수율 개선은 삼성 파운드리 사업의 턴어라운드 신호로 읽힌다. AI 가속기 칩 수요가 급증하는 가운데, 첨단 공정 역량과 HBM 공급 능력을 동시에 확보하면 AI 반도체 생태계에서의 입지가 크게 강화될 수 있다. 글로벌 파운드리 매출 상위 10개사 중 중국 기업 4곳이 진입한 점도 경쟁 구도 변화를 예고한다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">삼성의 HBM 공급 확대는 AI 칩 가격 안정화에 기여할 수 있어, 에듀테크 기업의 AI 인프라 접근성 개선으로 이어질 전망이다. 특히 2nm 공정의 성숙은 온디바이스 AI 칩의 성능 향상을 가속화해, 학생용 태블릿·노트북에서의 로컬 AI 학습 보조 기능 구현을 앞당길 수 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.digitimes.com/news/a20260306PD223/samsung-2nm-hbm-revenue-growth.html\" style=\"color:#FF6B35;text-decoration:none;\">DigiTimes Asia</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "samsung"
+    ],
+    "meta_title": "삼성전자 2nm 수율 예상 초과 달성, HBM 매출 3배 확대 목표",
+    "meta_description": "삼성전자가 2nm 공정 수율이 예상보다 빠르게 개선되고 있다고 발표했다. 텍사스 파운드리 양산과 HBM 매출 3배 확대로 AI 반도체 경쟁에 본격 나선다.",
+    "word_count": 530
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T15:02:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T15:15:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T06:30:59.833Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae6923ff4fbf0001ab7860",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae6923ff4fbf0001ab7860",
+    "public_url": "https://insight.ubion.global/samseongjeonja-2nm-suyul-yesang-cogwa-dalseong-hbm-maecul-3bae-hwagdae-seoneon/",
+    "status": "published",
+    "published_at": "2026-03-09T06:30:59.000Z"
+  }
+}

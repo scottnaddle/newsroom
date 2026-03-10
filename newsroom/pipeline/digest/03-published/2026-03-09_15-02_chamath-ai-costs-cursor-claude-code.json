@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Chamath Palihapitiya's Firm Shifts from Cursor to Cut Token Costs",
+    "url": "https://www.filmogaz.com/183575",
+    "source_name": "FilmoGaz",
+    "language": "en",
+    "relevance_score": 86,
+    "summary": "Venture capitalist Chamath Palihapitiya revealed on the All-In Podcast that AI expenses at his startup 8090 have tripled since November 2025, potentially reaching $10M annually. He criticized Cursor's high token costs and 'Ralph loops' that inflate bills, recommending a switch to Anthropic's Claude Code as a more cost-effective alternative. The discussion highlights broader concerns about AI's financial sustainability for startups.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-09T15:02:00+09:00"
+  },
+  "digest": {
+    "headline": "차마스 팔리하피티야, AI 비용 3배 폭증에 Cursor 버리고 Claude Code로 전환",
+    "lead": "실리콘밸리 대표 벤처투자자 차마스 팔리하피티야가 자신의 스타트업 8090에서 AI 비용이 2025년 11월 대비 3배로 급증해 연간 1,000만 달러에 달할 수 있다고 밝혔다. 그는 AI 코딩 도구 Cursor의 높은 토큰 비용을 비판하며, 보다 비용 효율적인 대안으로 Anthropic의 Claude Code를 추천했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">실리콘밸리 대표 벤처투자자 차마스 팔리하피티야가 자신의 스타트업 8090에서 AI 비용이 2025년 11월 대비 3배로 급증해 연간 1,000만 달러에 달할 수 있다고 밝혔다. 그는 AI 코딩 도구 Cursor의 높은 토큰 비용을 비판하며, 보다 비용 효율적인 대안으로 Anthropic의 Claude Code를 추천했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">팔리하피티야는 All-In Podcast에서 8090의 AI 비용 구조를 공개했다. AWS 추론 비용, Cursor 구독료, Anthropic 파트너십 등이 주요 지출원이며, 특히 같은 프롬프트를 반복 입력하는 이른바 '랄프 루프(Ralph Loop)' 현상이 비용을 불필요하게 부풀리고 있다고 지적했다. 그는 \"비용은 3개월마다 3배씩 늘어나는데 매출은 이를 따라가지 못한다\"며 현재의 AI 소비 모델이 초기 우버의 저가 전략과 유사한 구조적 문제를 안고 있다고 경고했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 발언은 AI 도구의 비용 효율성이 스타트업 생존에 직결된다는 현실을 보여준다. Cursor에서 Claude Code로의 전환 사례는 AI 코딩 도구 시장에서 가격 경쟁력이 새로운 차별화 요소가 되고 있음을 시사한다. 또한 Anthropic의 최근 미 국방부와의 갈등 사례를 언급하며, 특정 AI 벤더에 종속되지 않는 모델 유연성 확보가 기업 전략의 핵심이 될 것이라고 팔리하피티야는 강조했다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 코딩 교육 플랫폼과 에듀테크 스타트업들도 동일한 토큰 비용 문제에 직면해 있다. 학생 수천 명이 동시에 AI 코딩 도구를 사용하는 환경에서는 비용 폭증이 서비스 지속 가능성을 위협할 수 있으며, Claude Code처럼 비용 효율적인 대안을 적극 검토할 필요가 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.filmogaz.com/183575\" style=\"color:#FF6B35;text-decoration:none;\">FilmoGaz</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "anthropic"
+    ],
+    "meta_title": "차마스 팔리하피티야, AI 비용 폭증에 Cursor 대신 Claude Code 선택",
+    "meta_description": "벤처투자자 차마스 팔리하피티야가 스타트업 8090의 AI 비용이 연간 1,000만 달러로 급증했다고 밝히며, Cursor 대신 Anthropic Claude Code로 전환을 추천했다.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T15:02:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T15:15:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T06:30:59.386Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae6923ff4fbf0001ab784e",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae6923ff4fbf0001ab784e",
+    "public_url": "https://insight.ubion.global/camaseu-palrihapitiya-ai-biyong-3bae-pogjeunge-cursor-beorigo-claude-codero-jeonhwan/",
+    "status": "published",
+    "published_at": "2026-03-09T06:30:59.000Z"
+  }
+}

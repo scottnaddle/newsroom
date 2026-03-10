@@ -1,0 +1,448 @@
+{
+  "timestamp": "2026-03-05T21:08:17.716Z",
+  "total_posts": 100,
+  "summary": {
+    "ok": 87,
+    "no_image": 1,
+    "invalid_url": 0,
+    "http_404": 12,
+    "escaped_html": 0,
+    "timeout": 0
+  },
+  "issues": {
+    "no_image": [
+      {
+        "id": "69a9ede1ff4fbf0001ab6b90",
+        "title": "만평: \"AI 쓰나미 앞 뒤처진 교육 행정\"",
+        "url": "https://insight.ubion.global/cartoon-2026-03-05/"
+      }
+    ],
+    "invalid_url": [],
+    "http_404": [
+      {
+        "id": "69a916cde2eb440001d558ef",
+        "title": "Untitled Article",
+        "url": "https://insight.ubion.global/p/e00c0b53-826e-4431-9bb5-29c4aca7ed92/",
+        "image_url": "https://images.unsplash.com/photo-1526374965328-7f5ae4e8290f?w=1200&h=630&fit=crop&q=85&auto=format"
+      },
+      {
+        "id": "69a8ea83e2eb440001d55883",
+        "title": "미국 학군 1,000개, AI 준비도 편차 드러내다",
+        "url": "https://insight.ubion.global/p/ecdbb5d0-59cd-4c38-9a46-f9e56ac91342/",
+        "image_url": "https://images.unsplash.com/photo-1551532336-56ac348a0f7e?w=1200&h=630&fit=crop&q=85&auto=format"
+      },
+      {
+        "id": "69a916efe2eb440001d559e2",
+        "title": "미국 고교생 절반, 대입 탐색에 AI 활용",
+        "url": "https://insight.ubion.global/p/53e225e1-eb56-4d16-9dea-0890a4014d9c/",
+        "image_url": "https://images.unsplash.com/photo-1580485944550-73107b027a9f?w=1200&h=630&fit=crop&q=85&auto=format"
+      },
+      {
+        "id": "69a916ede2eb440001d559a6",
+        "title": "교육부, 대학 AI 활용 윤리 가이드라인 초안 공개",
+        "url": "https://insight.ubion.global/p/7007efaf-3c83-4638-8862-0860d2d056cb/",
+        "image_url": "https://images.unsplash.com/photo-1526374965328-7f5ae4e8290f?w=1200&h=630&fit=crop&q=85&auto=format"
+      },
+      {
+        "id": "69a916cee2eb440001d558fb",
+        "title": "Untitled Article",
+        "url": "https://insight.ubion.global/p/a6f36a1b-3bc3-4fb2-93f9-2f7bffe6ae4d/",
+        "image_url": "https://images.unsplash.com/photo-1526374965328-7f5ae4e8290f?w=1200&h=630&fit=crop&q=85&auto=format"
+      },
+      {
+        "id": "69a8f9d0e2eb440001d5589b",
+        "title": "AI 교사 도입 학교의 명암: 정부 지지 vs 부모 탈출",
+        "url": "https://insight.ubion.global/p/833483b5-b8b7-48d9-a76f-9a2d0860669e/",
+        "image_url": "https://images.unsplash.com/photo-1551532336-56ac348a0f7e?w=1200&h=630&fit=crop&q=85&auto=format"
+      },
+      {
+        "id": "69a916f1e2eb440001d55a22",
+        "title": "미국 공교육 AI 도입 신호탄: 플로리다에서 뉴욕으로",
+        "url": "https://insight.ubion.global/p/22d95288-3b1e-4428-a585-f2184a94a1b8/",
+        "image_url": "https://images.unsplash.com/photo-1580485944550-73107b027a9f?w=1200&h=630&fit=crop&q=85&auto=format"
+      },
+      {
+        "id": "69a92744e2eb440001d55c72",
+        "title": "AI가 '학습 빈곤'을 해소한다... 단, 교사는 필수",
+        "url": "https://insight.ubion.global/p/007997f1-2b7f-400c-8803-fa206aa1428b/",
+        "image_url": "https://images.unsplash.com/photo-1526374965328-7f5ae4e8290f?w=1200&h=630&fit=crop&q=85&auto=format"
+      },
+      {
+        "id": "69a916f0e2eb440001d55a16",
+        "title": "UAE, 학교 AI 이중 전략…규제·의무교육 동시 발표",
+        "url": "https://insight.ubion.global/p/49da9de2-0e8b-48c9-87a2-f48f12b11fc8/",
+        "image_url": "https://images.unsplash.com/photo-1551532336-56ac348a0f7e?w=1200&h=630&fit=crop&q=85&auto=format"
+      },
+      {
+        "id": "69a98537e2eb440001d5625c",
+        "title": "AI 안전성 거부로 국방부 블랙리스트된 Anthropic, 기업들 Claude 대량 이탈",
+        "url": "https://insight.ubion.global/ai-anjeonseong-geoburo-gugbangbu-beulraegriseuteudoen-anthropic-gieobdeul-claude-daeryang-ital/",
+        "image_url": "https://images.unsplash.com/photo-1526374965328-7f5ae4e8290f?w=1200&h=630&fit=crop&q=85&auto=format"
+      },
+      {
+        "id": "69a98092e2eb440001d56051",
+        "title": "대학 'AI 강사' 도입 확대...교육 효율 vs 인력 감축 우려",
+        "url": "https://insight.ubion.global/21-06_university-ai-education-expansion/",
+        "image_url": "https://images.unsplash.com/photo-1551532336-56ac348a0f7e?w=1200&h=630&fit=crop&q=85&auto=format"
+      },
+      {
+        "id": "69a916f0e2eb440001d55a10",
+        "title": "MS·구글, 같은 주에 교사 AI 교육 이니셔티브 경쟁 발표",
+        "url": "https://insight.ubion.global/teaching-in-the-ai-age-2/",
+        "image_url": "https://images.unsplash.com/photo-1580485944550-73107b027a9f?w=1200&h=630&fit=crop&q=85&auto=format"
+      }
+    ],
+    "escaped_html": [],
+    "timeout": [],
+    "ok": [
+      {
+        "id": "69a94ac9e2eb440001d55f6e",
+        "title": "\"AI에 종속되지 않기\" - 서울시교육청의 도전"
+      },
+      {
+        "id": "69a982c3e2eb440001d561d4",
+        "title": "교육부, 대학 AI 활용 윤리 가이드라인 초안 발표"
+      },
+      {
+        "id": "69a982c3e2eb440001d561c7",
+        "title": "서울시교육청, 인간 중심 AI 교육 가이드라인 배포"
+      },
+      {
+        "id": "69a940c4e2eb440001d55d9b",
+        "title": "정부, 대학 AI 윤리 간담회 개최…책임 있는 활용 기준 마련"
+      },
+      {
+        "id": "69a940c4e2eb440001d55d95",
+        "title": "교육부, AI 기본교육과정 개발에 20개 대학 선정"
+      },
+      {
+        "id": "69a940c4e2eb440001d55d8f",
+        "title": "\"모든 대학생이 AI 배운다\", 교육부 필수과정 도입"
+      },
+      {
+        "id": "69a940c4e2eb440001d55d89",
+        "title": "\"AI로 과제 내면 써낸 과정 밝혀야\", 교육부 윤리 지침"
+      },
+      {
+        "id": "69a92b90e2eb440001d55c80",
+        "title": "미국 대학들, 3년 후에도 AI 정책 합의 못했다"
+      },
+      {
+        "id": "69a8f9d1e2eb440001d558be",
+        "title": "오하이오, 7월 1일까지 학교 AI 정책 채택 의무화"
+      },
+      {
+        "id": "69a916f2e2eb440001d55a5c",
+        "title": "교사들은 AI를 어떻게 쓰고 있나... 現場 사례"
+      },
+      {
+        "id": "69a916f2e2eb440001d55a4c",
+        "title": "美교사 44%, AI 교육 받지 못해... 도입 장벽은 무엇?"
+      },
+      {
+        "id": "69a916f2e2eb440001d55a46",
+        "title": "미국 21개 주, AI 교육 법안 53개 추진... 규제 통일 필요"
+      },
+      {
+        "id": "69a8f9d1e2eb440001d558b8",
+        "title": "美 각 주 AI 정책, '중앙규제' vs '지역자율'"
+      },
+      {
+        "id": "69a916f1e2eb440001d55a3f",
+        "title": "기업형 대학원 시대 개막: LG AI 대학원 출범의 의미"
+      },
+      {
+        "id": "69a916eae2eb440001d5592b",
+        "title": "교육부, 대학 AI 윤리 가이드라인 초안 공개"
+      },
+      {
+        "id": "69a916eae2eb440001d5591f",
+        "title": "교육부, 20개 대학 AI 필수과목에 60억 투자"
+      },
+      {
+        "id": "69a916ebe2eb440001d5595a",
+        "title": "정부 K-12 AI 필수교육 추진…전문가 '사고력 약화' 경고"
+      },
+      {
+        "id": "69a916ebe2eb440001d55943",
+        "title": "서울시교육청, 생성형 AI 전용 공교육 가이드라인 배부"
+      },
+      {
+        "id": "69a916ebe2eb440001d5593d",
+        "title": "교육부, 대학 AI 윤리 가이드라인 시안 공개"
+      },
+      {
+        "id": "69a916ece2eb440001d55966",
+        "title": "교육부 AI 인재 양성 재출발, 디지털교과서 실패 교훈 담겼나"
+      },
+      {
+        "id": "69a916ede2eb440001d559a0",
+        "title": "호주 학교, AI가 학생 과제 심문…표절 탐지 새 패러다임"
+      },
+      {
+        "id": "69a916ece2eb440001d55972",
+        "title": "캘리포니아, 초등 AI 스캔들 후 교육 안전기준 강화"
+      },
+      {
+        "id": "69a916eee2eb440001d559ca",
+        "title": "워싱턴주, AI 학생 감시·징계 금지 법안 추진"
+      },
+      {
+        "id": "69a916eee2eb440001d559b8",
+        "title": "버지니아주, 공립학교 AI 안전·윤리·공정 지침 의무화"
+      },
+      {
+        "id": "69a916f0e2eb440001d55a06",
+        "title": "오하이오, 미국 최초 전 학교 AI 정책 의무화"
+      },
+      {
+        "id": "69a916efe2eb440001d559e8",
+        "title": "학생 95% AI 사용, 대학 정책은 20%뿐"
+      },
+      {
+        "id": "69a916ede2eb440001d55984",
+        "title": "미국 K-12 AI 도입 경쟁…뉴욕시만 홀로 '신중'"
+      },
+      {
+        "id": "69a916ede2eb440001d5597e",
+        "title": "인도, 3학년부터 AI 교육 전면 의무화"
+      },
+      {
+        "id": "69a94377e2eb440001d55e01",
+        "title": "테스트 기사"
+      },
+      {
+        "id": "69a916efe2eb440001d559dc",
+        "title": "미국 학군 1,000개, AI 준비도 편차 드러내다"
+      },
+      {
+        "id": "69a916f0e2eb440001d55a00",
+        "title": "동남아 AI 거버넌스, 베트남 선두로 속도전"
+      },
+      {
+        "id": "69a916cde2eb440001d558f5",
+        "title": "Untitled Article"
+      },
+      {
+        "id": "69a916b8e2eb440001d558e3",
+        "title": "美고교 78%, AI 리터러시 교육 시작... 한국 교육청은?"
+      },
+      {
+        "id": "69a8f9d0e2eb440001d558a1",
+        "title": "미국 공교육 AI 도입 신호탄: 플로리다에서 뉴욕으로"
+      },
+      {
+        "id": "69a916efe2eb440001d559f4",
+        "title": "필리핀 교육부, 동남아 첫 AI 교육 지침 발표"
+      },
+      {
+        "id": "69a8f9d0e2eb440001d558a7",
+        "title": "기업형 대학원 시대 개막: LG AI 대학원 출범의 의미"
+      },
+      {
+        "id": "69a916f1e2eb440001d55a39",
+        "title": "LG, 국내 첫 교육부 인가 사내 AI 대학원 개원"
+      },
+      {
+        "id": "69a916f1e2eb440001d55a28",
+        "title": "미 1천개 학군 AI 조사: 사용 급증, 교육 공백"
+      },
+      {
+        "id": "69a916f1e2eb440001d55a1c",
+        "title": "AI 교사 도입 학교의 명암: 정부 지지 vs 부모 탈출"
+      },
+      {
+        "id": "69a9ebd2ff4fbf0001ab6b4b",
+        "title": "\"LG 직원도 이제 대학원생\"...기업이 석박사를 준다"
+      },
+      {
+        "id": "69a9ebd2ff4fbf0001ab6b3d",
+        "title": "법대생도 배우는 AI...대학 기본교육 표준화 시작"
+      },
+      {
+        "id": "69a9e81b1e4e8000016eb422",
+        "title": "엔비디아 $30B OpenAI 투자 '마지막'이라 선언, IPO 앞두고"
+      },
+      {
+        "id": "69a9e81b1e4e8000016eb419",
+        "title": "AI 모델 261개 추적, 추론·멀티모달 능력 표준화 가속"
+      },
+      {
+        "id": "69a9e6e71e4e8000016eb40a",
+        "title": "서울교육청, '인간중심 AI 가이드라인' 전 학교에 배포"
+      },
+      {
+        "id": "69a9e6e51e4e8000016eb3ff",
+        "title": "교육부, 대학 AI 윤리 가이드라인 발표 '오프라인 시험·내용 공시 의무화'"
+      },
+      {
+        "id": "69a9e6e21e4e8000016eb3f0",
+        "title": "LG AI대학원, 국내 첫 기업 인가 정규 대학원 개원"
+      },
+      {
+        "id": "69a9e6c11e4e8000016eb3e6",
+        "title": "대학 'AI 강사' 도입 확대...교육 효율 vs 인력 감축 우려"
+      },
+      {
+        "id": "69a9e6be1e4e8000016eb3dc",
+        "title": "정부 '의무 AI 교육' 선언...기초학문과의 균형이 과제"
+      },
+      {
+        "id": "69a9e6bc1e4e8000016eb3ce",
+        "title": "LG AI 대학원, 정부 인가 첫 사내 석·박사 과정 출범"
+      },
+      {
+        "id": "69a9e6b91e4e8000016eb3c0",
+        "title": "글로벌 AI 경쟁 심화, 한국의 '추격자' 위치 재정의 필요"
+      },
+      {
+        "id": "69a9e6b71e4e8000016eb3b2",
+        "title": "AI 윤리 정책 개발 시급…프라이버시 침해·편향성 문제 불거져"
+      },
+      {
+        "id": "69a9e6b51e4e8000016eb3a2",
+        "title": "AI '금지에서 필수'로…대학가 교육·평가 혁신 시작"
+      },
+      {
+        "id": "69a9e6b21e4e8000016eb394",
+        "title": "맞춤형 학습 시대 열린 2026년 한국 교육, AI 인프라 강화 시급"
+      },
+      {
+        "id": "69a9e6b01e4e8000016eb38b",
+        "title": "AI와 대학 교육의 새로운 약속…5대 원칙, 12대 세부 지침 제시"
+      },
+      {
+        "id": "69a9cbe11e4e8000016eb37e",
+        "title": "캐나다의 AI 거버넌스 6원칙, 교육 현장 신뢰 확보의 핵심"
+      },
+      {
+        "id": "69a9bdba1e4e8000016eb375",
+        "title": "Anthropic CEO, OpenAI의 펜타곤 계약 맹비판 \"AI 안전은 극장일 뿐\""
+      },
+      {
+        "id": "69a9a1991e4e8000016eb362",
+        "title": "OpenAI 연간 매출 250억 달러 돌파, AI 시장 독점 심화"
+      },
+      {
+        "id": "69a9a1991e4e8000016eb359",
+        "title": "AI 스타트업의 새로운 펀딩 구조, 멀티 티어 밸류에이션 라운드 확산"
+      },
+      {
+        "id": "69a9934b1e4e8000016eb34d",
+        "title": "빛으로 AI 연산하는 칩 개발, 에너지 효율 100배 향상"
+      },
+      {
+        "id": "69a9934a1e4e8000016eb345",
+        "title": "뇌구조 모방 AI, 학습 데이터 없이도 뇌 활동 패턴 재현"
+      },
+      {
+        "id": "69a9934a1e4e8000016eb33d",
+        "title": "AI 병목 현상 해결한 3D 칩 개발, 국내 반도체 기술 자립화 가능성 확대"
+      },
+      {
+        "id": "69a98091e2eb440001d56045",
+        "title": "정부 '의무 AI 교육' 선언...기초학문과의 균형이 과제"
+      },
+      {
+        "id": "69a97727e2eb440001d55fda",
+        "title": "구글 Gemini, 심리질환 이용자와 로맨스 대화 후 자살 사건으로 송사"
+      },
+      {
+        "id": "69a96892e2eb440001d55fd1",
+        "title": "브로드컴 커스텀 AI칩 사업 호조, 매출 106% 급증"
+      },
+      {
+        "id": "69a96891e2eb440001d55fc6",
+        "title": "Broadcom, 2027년 AI칩 매출 100억 달러 돌파 전망"
+      },
+      {
+        "id": "69a96891e2eb440001d55fbb",
+        "title": "아시아 반도체 3사, 2026년 AI칩·HBM 투자 136억 달러로 급증"
+      },
+      {
+        "id": "69a96286e2eb440001d55fb4",
+        "title": "에듀테크 인사이트: AI는 \"금지\"에서 \"필수\"로"
+      },
+      {
+        "id": "69a960c3e2eb440001d55fa7",
+        "title": "KAIST 정원 100명 지원자 6명, AI 교육 정책 현장과 괴리"
+      },
+      {
+        "id": "69a94c7ae2eb440001d55f9e",
+        "title": "양자 순환신경망(QRNN) 실용화 기술 공개... 시계열 예측 성능 우수"
+      },
+      {
+        "id": "69a9438ee2eb440001d55e06",
+        "title": "AI와 대학 교육의 새로운 약속…5대 원칙, 12대 세부 지침 제시"
+      },
+      {
+        "id": "69a940c3e2eb440001d55d7d",
+        "title": "세계가 앞질렀다, AI 교육 현장 글로벌 경쟁 현황"
+      },
+      {
+        "id": "69a940c3e2eb440001d55d74",
+        "title": "미국 노동부, 국가 AI 리터러시 표준 수립 나섰다"
+      },
+      {
+        "id": "69a93e5ce2eb440001d55d6e",
+        "title": "브로드컴 AI 칩 수익 2배 증가, 2027년 1000억 달러 목표 선언"
+      },
+      {
+        "id": "69a93bf5e2eb440001d55d68",
+        "title": "\"인간을 위한 기술\" 실천한다, LG AI 대학원 첫 학생"
+      },
+      {
+        "id": "69a9372ae2eb440001d55d38",
+        "title": "미국 노동부, 국가 AI 리터러시 표준 수립 나섰다"
+      },
+      {
+        "id": "69a93041e2eb440001d55c98",
+        "title": "게이오 대학, 3년의 교훈 담은 AI 사용 지침 발표"
+      },
+      {
+        "id": "69a92da7e2eb440001d55c89",
+        "title": "AI 열풍, 스타트업 펀딩 사상 최대 기록—2월 $189B 투자"
+      },
+      {
+        "id": "69a91f8de2eb440001d55c54",
+        "title": "AI 규제의 우회로? 미국, 데이터센터 통제로 AI 발전 속도 조절"
+      },
+      {
+        "id": "69a916f2e2eb440001d55a52",
+        "title": "美고교 78%, AI 리터러시 교육 시작... 한국 교육청은?"
+      },
+      {
+        "id": "69a916f1e2eb440001d55a33",
+        "title": "LG, 국내 첫 교육부 인가 AI 사내 대학원 개원"
+      },
+      {
+        "id": "69a916efe2eb440001d559ee",
+        "title": "AI 부정행위, 탐지 말고 수업 자체를 바꿔라"
+      },
+      {
+        "id": "69a916efe2eb440001d559d6",
+        "title": "미국 5개 주, 학교 생성형 AI 전면 금지 법안 추진"
+      },
+      {
+        "id": "69a916eee2eb440001d559c4",
+        "title": "영국, AI 튜터링 무상 제공 로드맵 발표 — DeepMind·OpenAI 참여"
+      },
+      {
+        "id": "69a916eee2eb440001d559be",
+        "title": "ETS, 교사용 AI 리터러시 평가 출시 — 자격 요건화 예고"
+      },
+      {
+        "id": "69a916eee2eb440001d559b2",
+        "title": "미 6위 학군, MS 코파일럿 전 학구 배포…세계 최대"
+      },
+      {
+        "id": "69a916eee2eb440001d559ac",
+        "title": "서울시교육청, 생성형 AI 7대 위험 가이드라인 배포"
+      },
+      {
+        "id": "69a916ede2eb440001d5598a",
+        "title": "싱가포르 교육부, AI 과의존이 인지 발달 해친다 — 연구 착수"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Künstliche Intelligenz: Nutzer boykottieren ChatGPT – und bejubeln Claude",
+    "url": "https://www.zeit.de/digital/internet/2026-03/kuenstliche-intelligenz-openai-chatgpt-anthropic-claude-meta",
+    "source_name": "DIE ZEIT",
+    "language": "de",
+    "relevance_score": 88,
+    "summary": "OpenAI vs. Anthropic: US government restricts OpenAI technology, QuitGPT boycott movement goes viral. Meta's AI glasses raise privacy concerns in Kenya. Google DeepMind presents Nano Banana 2, realistic AI image models.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-06T07:09:00Z"
+  },
+  "digest": {
+    "headline": "AI 기업 윤리 논쟁, 사용자 신뢰와 프라이버시가 판단 기준",
+    "lead": "국방부 AI 계약을 둘러싼 OpenAI와 Anthropic의 갈등이 일반 사용자로까지 확산되고 있다. ChatGPT 설치 제거가 295% 급증한 반면 Claude는 51% 증가했으며, Meta AI 안경의 개인정보 처리 문제까지 논란이 되고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">⚡ AI Digest</span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미 정부의 OpenAI 기술 제한과 국방부 계약 논쟁이 사용자 선택으로 이어지고 있다. QuitGPT 보이콧이 소셜 미디어에서 급속 확산되며 일반인들의 AI 기업 윤리 평가가 기업 선택을 결정하는 시대가 도래했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Anthropic이 국방부의 AI 기술 무제한 사용 요청을 거부하자 미 정부는 $200만 규모의 계약을 포기하고 OpenAI와 새 거래를 체결했다. 이를 계기로 \"QuitGPT\" 보이콧 운동이 소셜 미디어에서 바이럴화되었다. 또한 Meta의 AI 안경 사용자 데이터가 케냐로 송출되는 개인정보 처리 문제도 부각되면서 AI 기업에 대한 신뢰 문제가 전방위적으로 확대되고 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 사건은 기술 성능만으로는 사용자 신뢰를 확보할 수 없다는 중요한 신호다. Claude 다운로드 51% 증가는 단순 성능 비교를 넘어 기업의 윤리와 투명성이 구매 결정의 핵심 요소임을 보여준다. 또한 생성형 AI 기술이 국방, 감시, 개인정보 등 민감한 영역과 연루되면서 규제 강화는 피할 수 없을 전망이다.</p>\n\n  <!-- 에듀테크 시사점 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">교육용 AI 도구 도입 시 기업의 윤리 기준과 데이터 보안이 최우선 선택 요소가 되어야 한다. 학생 데이터를 다루는 에듀테크는 학부모와 교사의 신뢰를 잃으면 기술이 아무리 우수해도 채택될 수 없다. 학교들은 AI 도구 평가 기준에 '기업의 개인정보 보호 정책', '감시 목적 사용 금지', '데이터 저장 위치 및 처리 투명성' 등을 포함해야 한다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.zeit.de/digital/internet/2026-03/kuenstliche-intelligenz-openai-chatgpt-anthropic-claude-meta\" style=\"color:#FF6B35;text-decoration:none;\">DIE ZEIT</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "openai",
+      "anthropic",
+      "privacy"
+    ],
+    "meta_title": "ChatGPT 보이콧 급증, AI 기업 윤리가 사용자 선택을 결정한다",
+    "meta_description": "QuitGPT 운동 확산, Claude 인기 증가, Meta 안경 개인정보 문제까지. AI 신뢰도와 윤리가 비즈니스 성패를 좌우한다.",
+    "word_count": 470
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T07:09:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T07:11:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T22:31:28.159Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aa043fff4fbf0001ab6c98",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aa043fff4fbf0001ab6c98",
+    "public_url": "https://ubion.ghost.io/ai-gieob-yunri-nonjaeng-sayongja-sinroewa-peuraibeosiga-pandan-gijun/",
+    "status": "published",
+    "published_at": "2026-03-05T22:31:27.000Z",
+    "feature_image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop&q=85&auto=format"
+  }
+}

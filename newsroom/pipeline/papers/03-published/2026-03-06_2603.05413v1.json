@@ -1,0 +1,78 @@
+{
+  "arxiv_id": "2603.05413v1",
+  "title": "Building Enterprise Realtime Voice Agents from Scratch: A Technical Tutorial",
+  "summary": "We present a technical tutorial for building enterprise-grade realtime voice agents from first principles. While over 25 open-source speech-to-speech models and numerous voice agent frameworks exist, no single resource explains the complete pipeline from individual components to a working streaming voice agent with function calling capabilities. Through systematic investigation, we find that (1) native speech-to-speech models like Qwen2.5-Omni, while capable of high-quality audio generation, are too slow for realtime interaction ($\\sim$13s time-to-first-audio); (2) the industry-standard approach uses a cascaded streaming pipeline: STT $\\rightarrow$ LLM $\\rightarrow$ TTS, where each component streams its output to the next; and (3) the key to ``realtime'' is not any single fast model but rather \\textit{streaming and pipelining} across components. We build a complete voice agent using Deepgram (streaming STT), vLLM-served LLMs with function calling (streaming text generation), and ElevenLabs (streaming TTS), achieving a measured P50 time-to-first-audio of 947ms (best case 729ms) with cloud LLM APIs, and comparable latency with self-hosted vLLM on NVIDIA A10G GPU. We release the full codebase as a tutorial with working, tested code for every component.",
+  "authors": [
+    "Jielin Qiu",
+    "Zixiang Chen",
+    "Liangwei Yang",
+    "Ming Zhu",
+    "Zhiwei Liu",
+    "Juntao Tan",
+    "Wenting Zhao",
+    "Rithesh Murthy",
+    "Roshan Ram",
+    "Akshara Prabhakar",
+    "Shelby Heinecke",
+    "Caiming Xiong",
+    "Silvio Savarese",
+    "Huan Wang"
+  ],
+  "categories": [
+    "cs.SD",
+    "cs.SD"
+  ],
+  "published": "2026-03-05T17:35:59Z",
+  "updated": "2026-03-05T17:35:59Z",
+  "pdf_url": "https://arxiv.org/pdf/2603.05413v1",
+  "abs_url": "https://arxiv.org/abs/2603.05413v1",
+  "relevance_score": 71,
+  "source_query": "LLM classroom teaching",
+  "collected_at": "2026-03-06T22:47:08.795Z",
+  "stage": "published",
+  "audit_log": [
+    {
+      "agent": "paper-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T22:47:09.800Z",
+      "source": "arxiv"
+    },
+    {
+      "agent": "paper-summarizer",
+      "action": "summarized",
+      "timestamp": "2026-03-06T22:47:21.727Z"
+    },
+    {
+      "agent": "paper-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T22:47:37.240Z"
+    }
+  ],
+  "korean_title": "기업용 실시간 음성 에이전트를 처음부터 구축하기: 기술 튜토리얼",
+  "korean_summary": "본 연구는 기업 수준의 실시간 음성 에이전트를 처음부터 구축하는 방법을 단계별로 설명하는 기술 튜토리얼입니다. 저자들은 단일 음성-음성 모델이 아닌, STT→LLM→TTS의 파이프라인 구조가 실시간 상호작용에 더 적합함을 밝혔습니다. 이를 통해 947ms의 낮은 지연 시간을 달성하는 완전한 코드베이스를 공개하여 실무자들이 실시간 음성 에이전트를 직접 구축할 수 있도록 돕습니다.",
+  "key_findings": [
+    "네이티브 음성-음성 모델은 고품질 오디오 생성이 가능하지만 실시간 상호작용에는 너무 느립니다(첫 오디오 생성 시간 약 13초).",
+    "업계 표준 접근 방식은 STT→LLM→TTS의 계단식 스트리밍 파이프라인을 사용합니다.",
+    "'실시간'의 핵심은 단일 빠른 모델이 아니라 구성 요소 간의 스트리밍과 파이프라이닝입니다."
+  ],
+  "implications": "이 연구는 복잡한 AI 시스템을 구축하는 데 있어 단순히 강력한 모델을 선택하는 것뿐만 아니라, 구성 요소 간의 효율적인 파이프라인 설계가 얼마나 중요한지 보여줍니다. 또한 실제로 구동 가능한 완전한 코드베이스를 공개함으로써 이론을 넘어 실제 구현에 도움을 주어 AI 교육의 실용성을 높이는 데 기여할 것입니다.",
+  "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>기업용 실시간 음성 에이전트를 처음부터 구축하기: 기술 튜토리얼</title>\n</head>\n<body style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;padding:20px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n\n  <!-- 논문 정보 박스 -->\n  <div style=\"background:#f8f9ff;border-left:4px solid #8b5cf6;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:32px;\">\n    <p style=\"margin:0 0 12px;font-size:15px;color:#64748b;\">\n      <strong>📄 논문</strong> | Jielin Qiu, Zixiang Chen, Liangwei Yang et al.\n    </p>\n    <p style=\"margin:0 0 8px;font-size:14px;color:#64748b;\">\n      <strong>게재일:</strong> 2026. 3. 6. | \n      <strong>arXiv:</strong> <a href=\"https://arxiv.org/abs/2603.05413v1\" style=\"color:#8b5cf6;\">2603.05413v1</a>\n    </p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">\n      <a href=\"https://arxiv.org/pdf/2603.05413v1\" style=\"color:#8b5cf6;margin-right:16px;\">📥 PDF 다운로드</a>\n      <a href=\"https://arxiv.org/abs/2603.05413v1\" style=\"color:#8b5cf6;\">🔗 원문 보기</a>\n    </p>\n  </div>\n\n  <!-- 한국어 요약 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📝 한국어 요약</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">본 연구는 기업 수준의 실시간 음성 에이전트를 처음부터 구축하는 방법을 단계별로 설명하는 기술 튜토리얼입니다. 저자들은 단일 음성-음성 모델이 아닌, STT→LLM→TTS의 파이프라인 구조가 실시간 상호작용에 더 적합함을 밝혔습니다. 이를 통해 947ms의 낮은 지연 시간을 달성하는 완전한 코드베이스를 공개하여 실무자들이 실시간 음성 에이전트를 직접 구축할 수 있도록 돕습니다.</p>\n\n  <!-- 핵심 발견 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">💡 핵심 발견</h2>\n  <ul style=\"margin:0 0 24px;padding-left:24px;line-height:1.9;\">\n    <li style=\"margin-bottom:8px;\">네이티브 음성-음성 모델은 고품질 오디오 생성이 가능하지만 실시간 상호작용에는 너무 느립니다(첫 오디오 생성 시간 약 13초).</li>\n    <li style=\"margin-bottom:8px;\">업계 표준 접근 방식은 STT→LLM→TTS의 계단식 스트리밍 파이프라인을 사용합니다.</li>\n    <li style=\"margin-bottom:8px;\">'실시간'의 핵심은 단일 빠른 모델이 아니라 구성 요소 간의 스트리밍과 파이프라이닝입니다.</li>\n  </ul>\n\n  <!-- 교육적 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">🎓 교육적 시사점</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">이 연구는 복잡한 AI 시스템을 구축하는 데 있어 단순히 강력한 모델을 선택하는 것뿐만 아니라, 구성 요소 간의 효율적인 파이프라인 설계가 얼마나 중요한지 보여줍니다. 또한 실제로 구동 가능한 완전한 코드베이스를 공개함으로써 이론을 넘어 실제 구현에 도움을 주어 AI 교육의 실용성을 높이는 데 기여할 것입니다.</p>\n\n  <!-- 한국어 초록 (원문 번역) -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📖 초록 (한국어 번역)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;background:#fefce8;padding:16px 20px;border-radius:8px;\">저희는 기본 원칙에서 출발하여 기업 수준의 실시간 음성 에이전트를 구축하는 기술 튜토리얼을 제시합니다. 25개가 넘는 오픈소스 음성-음성 모델과 수많은 음성 에이전트 프레임워크가 존재하지만, 개별 구성 요소부터 작동하는 스트리밍 음성 에이전트에 이르기까지 전체 파이프라인을 설명하는 단일 자원은 없었습니다. 체계적인 조사를 통해 다음과 같은 사실을 발견했습니다. (1) Qwen2.5-Omni와 같은 네이티브 음성-음성 모델은 고품질 오디오 생성이 가능하지만 실시간 상호작용에는 너무 느립니다(첫 오디오 생성 시간 약 13초); (2) 업계 표준 접근 방식은 STT→LLM→TTS의 계단식 스트리밍 파이프라인을 사용하며, 각 구성 요소가 출력을 다음 구성 요소로 스트리밍합니다; (3) '실시간'의 핵심은 단일 빠른 모델이 아니라 구성 요소 간의 스트리밍과 파이프라이닝입니다. 저희는 Deepgram(스트리밍 STT), 함수 호출 기능이 있는 vLLM으로 제공되는 LLM(스트리밍 텍스트 생성), ElevenLabs(스트리밍 TTS)를 사용하여 완전한 음성 에이전트를 구축했으며, 클라우드 LLM API를 사용한 측정 결과 P50 첫 오디오 생성 시간이 947ms(최적의 경우 729ms)이며, NVIDIA A10G GPU에서 자체 호스팅되는 vLLM을 사용할 때도 유사한 지연 시간을 달성했습니다. 저희는 모든 구성 요소에 대해 작동하는 테스트된 코드가 포함된 튜토리얼로 전체 코드베이스를 공개합니다.</p>\n\n  <!-- 원문 초록 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📋 원문 초록 (Abstract)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.8;font-style:italic;color:#374151;background:#f8f9ff;padding:16px 20px;border-radius:8px;\">We present a technical tutorial for building enterprise-grade realtime voice agents from first principles. While over 25 open-source speech-to-speech models and numerous voice agent frameworks exist, no single resource explains the complete pipeline from individual components to a working streaming voice agent with function calling capabilities. Through systematic investigation, we find that (1) native speech-to-speech models like Qwen2.5-Omni, while capable of high-quality audio generation, are too slow for realtime interaction ($\\sim$13s time-to-first-audio); (2) the industry-standard approach uses a cascaded streaming pipeline: STT $\\rightarrow$ LLM $\\rightarrow$ TTS, where each component streams its output to the next; and (3) the key to ``realtime'' is not any single fast model but rather \\textit{streaming and pipelining} across components. We build a complete voice agent using Deepgram (streaming STT), vLLM-served LLMs with function calling (streaming text generation), and ElevenLabs (streaming TTS), achieving a measured P50 time-to-first-audio of 947ms (best case 729ms) with cloud LLM APIs, and comparable latency with self-hosted vLLM on NVIDIA A10G GPU. We release the full codebase as a tutorial with working, tested code for every component.</p>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">\n    본 요약은 AI가 작성했습니다. 원문은 위의 링크에서 확인하세요.\n  </p>\n\n</body>\n</html>",
+  "ghost": {
+    "headline": "[논문] Building Enterprise Realtime Voice Agents from Scratch: A Technical Tutorial",
+    "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Building Enterprise Realtime Voice Agents from Scratch: A Technical Tutorial</title>\n</head>\n<body style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;padding:20px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n\n  <!-- 논문 정보 박스 -->\n  <div style=\"background:#f8f9ff;border-left:4px solid #059669;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:32px;\">\n    <p style=\"margin:0 0 12px;font-size:15px;color:#64748b;\">\n      <strong>📄 논문</strong> | Jielin Qiu, Zixiang Chen, Liangwei Yang et al.\n    </p>\n    <p style=\"margin:0 0 8px;font-size:14px;color:#64748b;\">\n      <strong>게재일:</strong> 2026. 3. 6. | \n      <strong>arXiv:</strong> <a href=\"https://arxiv.org/abs/2603.05413v1\" style=\"color:#059669;\">2603.05413v1</a>\n    </p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">\n      <a href=\"https://arxiv.org/pdf/2603.05413v1\" style=\"color:#059669;margin-right:16px;\">📥 PDF 다운로드</a>\n      <a href=\"https://arxiv.org/abs/2603.05413v1\" style=\"color:#059669;\">🔗 원문 보기</a>\n    </p>\n  </div>\n\n  <!-- 한국어 요약 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📝 한국어 요약</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">[요약 예정] We present a technical tutorial for building enterprise-grade realtime voice agents from first principles. While over 25 open-source speech-to-speech models and numerous voice agent frameworks exist, no single resource explains the complete pipeline from individual components to a working streaming ...</p>\n\n  <!-- 핵심 발견 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">💡 핵심 발견</h2>\n  <ul style=\"margin:0 0 24px;padding-left:24px;line-height:1.9;\">\n    <li style=\"margin-bottom:8px;\">이 논문은 AI 교육 분야의 새로운 접근법을 제시합니다.</li>\n    <li style=\"margin-bottom:8px;\">실험 결과 교육 현장에서의 AI 활용 가능성을 보여줍니다.</li>\n    <li style=\"margin-bottom:8px;\">향후 연구 방향과 실제 적용 방안을 논의합니다.</li>\n  </ul>\n\n  <!-- 교육적 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">🎓 교육적 시사점</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">이 연구는 AI 기술의 교육 현장 도입에 있어 중요한 시사점을 제공합니다. 교사와 학생 모두에게 긍정적인 영향을 미칠 수 있으나, 신중한 적용이 필요합니다.</p>\n\n  <!-- 원문 초록 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📋 원문 초록 (Abstract)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.8;font-style:italic;color:#374151;background:#f8f9ff;padding:16px 20px;border-radius:8px;\">We present a technical tutorial for building enterprise-grade realtime voice agents from first principles. While over 25 open-source speech-to-speech models and numerous voice agent frameworks exist, no single resource explains the complete pipeline from individual components to a working streaming voice agent with function calling capabilities. Through systematic investigation, we find that (1) native speech-to-speech models like Qwen2.5-Omni, while capable of high-quality audio generation, are too slow for realtime interaction ($\\sim$13s time-to-first-audio); (2) the industry-standard approach uses a cascaded streaming pipeline: STT $\\rightarrow$ LLM $\\rightarrow$ TTS, where each component streams its output to the next; and (3) the key to ``realtime'' is not any single fast model but rather \\textit{streaming and pipelining} across components. We build a complete voice agent using Deepgram (streaming STT), vLLM-served LLMs with function calling (streaming text generation), and ElevenLabs (streaming TTS), achieving a measured P50 time-to-first-audio of 947ms (best case 729ms) with cloud LLM APIs, and comparable latency with self-hosted vLLM on NVIDIA A10G GPU. We release the full codebase as a tutorial with working, tested code for every component.</p>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">\n    본 요약은 AI가 작성했습니다. 원문은 위의 링크에서 확인하세요.\n  </p>\n\n</body>\n</html>",
+    "ghost_tags": [
+      "ai-papers",
+      "arxiv"
+    ],
+    "meta_title": "Building Enterprise Realtime Voice Agents from Scratch: A Technical Tutorial | AI 교육 논문",
+    "meta_description": "[요약 예정] We present a technical tutorial for building enterprise-grade realtime voice agents from first principles. While over 25 open-source speech-to",
+    "feature_image_alt": "AI 교육 논문"
+  },
+  "publish_result": {
+    "ghost_post_id": "69ab5989ff4fbf0001ab7137",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ab5989ff4fbf0001ab7137",
+    "public_url": "https://ubion.ghost.io/nonmun-building-enterprise-realtime-voice-agents-from-scratch-a-technical-tutorial/",
+    "status": "published",
+    "published_at": "2026-03-06T22:47:37.000Z"
+  }
+}

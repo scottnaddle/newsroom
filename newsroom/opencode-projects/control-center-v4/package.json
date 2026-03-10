@@ -1,0 +1,15 @@
+{
+  "name": "ubion-control-center-v4",
+  "version": "4.0.0",
+  "description": "UBION Control Center - AI News Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"Tests located in backend/tests\""
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}

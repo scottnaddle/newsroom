@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Klarna and Stripe Prepare Flexible Payments for AI Agents",
+    "url": "https://www.pymnts.com/digital-payments/2026/klarna-and-stripe-prepare-flexible-payments-for-ai-agents/",
+    "source_name": "PYMNTS",
+    "language": "en",
+    "relevance_score": 86,
+    "summary": "Klarna integrated with Stripe's new Shared Payment Tokens (SPTs), enabling AI agents to use customers' preferred payment methods including buy-now-pay-later options. The integration lets merchants that already offer Klarna through Stripe support agentic purchases without additional work. This follows Klarna's broader push into agentic commerce with Google's Agent Payments Protocol and Universal Commerce Protocol.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-09T13:00:00+09:00"
+  },
+  "digest": {
+    "headline": "클라르나·스트라이프, AI 에이전트 결제에 후불결제 옵션 도입",
+    "lead": "클라르나가 스트라이프의 '공유 결제 토큰(SPT)'에 통합되며, AI 에이전트가 소비자 대신 결제할 때 후불결제(BNPL) 옵션까지 사용할 수 있게 된다. 이미 스트라이프를 통해 클라르나를 제공하는 미국 가맹점은 별도 개발 없이 AI 에이전트 거래를 지원할 수 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">클라르나가 스트라이프의 '공유 결제 토큰(SPT)'에 통합되며, AI 에이전트가 소비자 대신 결제할 때 후불결제(BNPL) 옵션까지 사용할 수 있게 된다. 이미 스트라이프를 통해 클라르나를 제공하는 미국 가맹점은 별도 개발 없이 AI 에이전트 거래를 지원할 수 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">스트라이프가 지난해 10월 도입한 공유 결제 토큰(SPT)은 AI 에이전트가 소비자의 민감한 결제 정보를 직접 다루지 않고도, 사전 승인된 결제 수단으로 구매를 완료할 수 있게 해주는 표준이다. 클라르나는 여기에 자사의 후불결제 옵션을 추가했다. 이와 별도로 클라르나는 구글의 에이전트 결제 프로토콜(AP2), 에이전틱 프로덕트 프로토콜, 유니버설 커머스 프로토콜(UCP)에도 참여하며 AI 에이전트 커머스 생태계를 적극 구축하고 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">AI 에이전트가 단순 검색·추천을 넘어 실제 결제까지 수행하는 '에이전틱 커머스' 시대가 빠르게 다가오고 있다. 결제 인프라 기업들이 AI 에이전트 전용 표준을 경쟁적으로 내놓고 있어, 2026년 하반기에는 AI 비서가 사용자 대신 쇼핑하고 결제하는 경험이 본격화될 전망이다. 어펌(Affirm)도 같은 날 스트라이프 SPT 통합을 발표해, BNPL 업계 전반이 에이전트 결제 대응에 나섰다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 에이전트 결제 표준이 확립되면, 교육 플랫폼에서도 AI 튜터가 학습자에게 필요한 강의·교재를 추천하고 즉시 결제까지 완료하는 원스톱 학습 구매 경험이 가능해진다. 에듀테크 기업은 SPT 같은 에이전트 결제 인프라를 선제적으로 검토할 필요가 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.pymnts.com/digital-payments/2026/klarna-and-stripe-prepare-flexible-payments-for-ai-agents/\" style=\"color:#FF6B35;text-decoration:none;\">PYMNTS</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "클라르나·스트라이프, AI 에이전트 결제에 후불결제 도입 | AI Digest",
+    "meta_description": "클라르나가 스트라이프 공유 결제 토큰(SPT)에 통합되며, AI 에이전트가 후불결제 옵션으로 소비자 대신 구매할 수 있게 됐다.",
+    "word_count": 560
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T13:00:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T13:15:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T04:30:58.020Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae4d01ff4fbf0001ab77bd",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae4d01ff4fbf0001ab77bd",
+    "public_url": "https://insight.ubion.global/keulrareuna-seuteuraipeu-ai-eijeonteu-gyeoljee-hubulgyeolje-obsyeon-doib/",
+    "status": "published",
+    "published_at": "2026-03-09T04:30:57.000Z"
+  }
+}

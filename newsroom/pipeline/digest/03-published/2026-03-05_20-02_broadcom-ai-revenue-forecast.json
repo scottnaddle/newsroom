@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Broadcom CEO Hock Tan sees AI chip revenue 'significantly' above $100 billion next year",
+    "url": "https://www.cnbc.com/2026/03/04/broadcom-sees-ai-chip-sales-significantly-over-100-billion-in-2027.html",
+    "source_name": "CNBC",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Broadcom CEO projects AI chip revenue will reach over $100 billion in 2027, with Q1 2026 AI semiconductor revenue expected at $10.2 billion. Strong demand from Google, Meta, Anthropic, and OpenAI drives the forecast.",
+    "published_date": "2026-03-04",
+    "collected_at": "2026-03-05T20:02:43Z"
+  },
+  "digest": {
+    "headline": "Broadcom, 2027년 AI칩 매출 100억 달러 돌파 전망",
+    "lead": "브로드컴 CEO 혹 탠이 회사의 AI칩 매출이 2027년 100억 달러를 '훨씬 초과할' 것으로 전망했다. 2026년 1분기 AI 반도체 매출도 102억 달러에 이를 것으로 예측됐으며, 구글·메타·앤쓰로픽·OpenAI 등 거대 기술 기업들의 수요가 주도적 역할을 하고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">브로드컴 CEO 혹 탠이 회사의 AI칩 매출이 2027년 100억 달러를 '훨씬 초과할' 것으로 전망했다. 2026년 1분기 AI 반도체 매출도 102억 달러에 이를 것으로 예측됐으며, 구글·메타·앤쓰로픽·OpenAI 등 거대 기술 기업들의 수요가 주도적 역할을 하고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">브로드컴은 데이터센터 인프라와 AI 시스템에 필수적인 고성능 반도체를 공급하는 핵심 업체다. 생성형 AI 서비스의 확산에 따라 대형 기술 회사들이 자체 AI 모델 개발과 배포에 필요한 첨단 칩 수요가 폭증하면서 브로드컴의 매출도 급증하고 있다. 특히 맞춤형 AI 칩 비즈니스가 고성장 동력으로 작용하고 있으며, 경쟁사와의 차별화된 기술력이 지속적인 수주 확보로 이어지고 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">AI칩 100억 달러 매출 달성은 전 산업 AI 도입이 초기 단계에서 본격 운영 단계로 진입했음을 시사한다. 대형 기술사들의 지속적인 AI 투자 확대가 장기화될 것으로 보이며, 이는 반도체 공급 안정화와 원가 절감으로도 이어질 수 있다. 다만 경쟁 심화와 과잉 투자 우려도 있어 향후 시장 조정 가능성도 배제할 수 없다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">구글, 메타, OpenAI 등 대형 기술 기업들의 AI 투자 확대는 교육 분야 AI 도입 가속화로 직결된다. 이들이 교육 플랫폼과 학습 서비스에 AI 기능을 탑재하기 위해 고성능 칩 투자를 계속하면서, 맞춤형 학습·AI 튜터링·자동 평가 등 혁신적 교육 기술 개발이 가속될 것으로 예상된다. 에듀테크 기업들도 이러한 인프라 투자 트렌드를 따라 AI 기반 교육 서비스 개발에 더욱 집중할 계기가 될 것이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.cnbc.com/2026/03/04/broadcom-sees-ai-chip-sales-significantly-over-100-billion-in-2027.html\" style=\"color:#FF6B35;text-decoration:none;\">CNBC</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "broadcom"
+    ],
+    "meta_title": "Broadcom, 2027년 AI칩 매출 100억 달러 돌파 전망",
+    "meta_description": "브로드컴 CEO가 2027년 AI칩 매출 100억 달러 초과 전망. Q1 2026 102억 달러 예상으로 기술 대기업의 AI 투자 가속화 반영.",
+    "word_count": 568
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-05T20:02:43Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T20:03:01Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T11:27:14.000Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a96891e2eb440001d55fc6",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a96891e2eb440001d55fc6",
+    "public_url": "https://ubion.ghost.io/broadcom-2027nyeon-aicib-maecul-100eog-dalreo-dolpa-jeonmang/",
+    "status": "published",
+    "published_at": "2026-03-05T11:27:13.000Z"
+  }
+}

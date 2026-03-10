@@ -1,0 +1,43 @@
+{
+  "id": "source_007",
+  "stage": "reported",
+  "source": {
+    "url": "https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education",
+    "title": "Cantwell, Moran Introduce Bill to Boost AI Education",
+    "published": "2026-03-01T00:00:00Z",
+    "domain": "commerce.senate.gov"
+  },
+  "reporting_brief": {
+    "WHO": "미국 상원의원 Cantwell, Moran, 미국 국립과학재단 (NSF), 미 하원 교육·노동 소위원회",
+    "WHAT": "미 상원, 2026 AI 교육 촉진법 발의. NSF 지원으로 AI 학습 장학금 및 전문성 개발 기회 확대 추진. 교사 AI 리터러시 강화 정책",
+    "WHY": "AI 시대 인재 양성을 위한 교육 인프라 고도화. 기술 격차 해소 필요",
+    "WHEN": "2026년 3월 발의",
+    "CONTEXT": "미국이 글로벌 AI 교육 경쟁에서 선도권 유지를 위한 정책적 노력",
+    "SOURCES": [
+      {
+        "url": "https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education",
+        "title": "Cantwell, Moran Introduce Bill to Boost AI Education",
+        "trust": "high",
+        "type": "official_policy"
+      },
+      {
+        "url": "https://www.engageli.com/blog/ai-in-education-statistics",
+        "title": "25 AI in Education Statistics to Guide Your Learning Strategy",
+        "trust": "medium",
+        "type": "research_analysis"
+      },
+      {
+        "url": "https://excelinedinaction.org/2026/03/04/february-2026-state-actions-update-k-12-education-policies-progress/",
+        "title": "February 2026 State Actions Update: K-12 Education Policies",
+        "trust": "medium",
+        "type": "policy_update"
+      }
+    ],
+    "PERSPECTIVES": {
+      "us_government": "AI 장학금 및 전문성 개발로 교육격차 해소. NSF 기금 투입으로 생태계 강화",
+      "education_sector": "교사 역량 강화가 AI 교육 성공의 핵심",
+      "policy_makers": "연방·주 차원의 조율된 K-12 AI 정책 프레임워크 필요"
+    },
+    "SUGGESTED_ANGLE": "미국의 'AI 교육 투자 확대'…2026년 전략적 인재 양성의 신호탄"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Amazon, Google, Microsoft urged by 700,000 US tech workers to reject Pentagon push to remove AI safety guardrails",
+    "url": "https://www.storyboard18.com/digital/amazon-google-microsoft-urged-by-700000-us-tech-workers-to-reject-pentagon-push-to-remove-ai-safety-guardrails-91548.htm",
+    "source_name": "Storyboard18",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Technology worker organizations representing roughly 700,000 US employees have jointly called on Amazon, Google, and Microsoft to resist Pentagon pressure to loosen AI safety restrictions. The statement, published by No Tech For Apartheid, raises concerns about removing guardrails that prevent AI use in large-scale domestic surveillance and fully autonomous lethal systems.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-09T16:04:00+09:00"
+  },
+  "digest": {
+    "headline": "미국 테크 워커 70만 명, Pentagon의 AI 안전장치 해제 요구에 반발",
+    "lead": "아마존, 구글, 마이크로소프트의 임직원 70만 명으로 구성된 기술자 단체들이 펜타곤의 AI 안전 규제 완화 압력에 공동으로 저항하고 있습니다. No Tech For Apartheid 연합은 AI를 광범위한 국내 감시 및 완전 자동화된 살상 무기 체계에 사용하는 것을 방지하는 안전장치 제거를 반대하고 있습니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">아마존, 구글, 마이크로소프트의 임직원 70만 명으로 구성된 기술자 단체들이 펜타곤의 AI 안전 규제 완화 압력에 공동으로 저항하고 있습니다. No Tech For Apartheid 연합은 AI를 광범위한 국내 감시 및 완전 자동화된 살상 무기 체계에 사용하는 것을 방지하는 안전장치 제거를 반대하고 있습니다.</p>\n  </div>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">미국 국방부가 AI 안전 규제를 완화하도록 주요 기술 기업들에 압력을 가하면서 업계 내 갈등이 심화되고 있습니다. 기술자 연합들은 이러한 압력이 대규모 감시 시스템과 자율 무기 개발로 이어질 수 있다고 우려하고 있으며, 기업들이 안전 기준을 유지해야 한다고 주장하고 있습니다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이는 AI 개발의 자유도와 안전성 사이의 근본적인 긴장을 드러냅니다. 정부의 국방 목표와 기술자들의 윤리적 우려가 충돌하면서, 향후 AI 정책과 기업 규제 간의 조정이 필요해 보입니다. 미국 내 기술 정책의 방향성이 국제 경쟁과 내부 윤리 사이에서 재정의될 가능성이 높습니다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 안전 규제의 강화 또는 완화는 교육 현장의 AI 도구 도입에 직접 영향을 미칩니다. 학생 감시, 학습 데이터 수집, AI 기반 평가 시스템 등이 안전장치를 필요로 하기 때문에, 기업들이 준수해야 할 윤리 기준과 안전 가이드라인이 교육용 AI 솔루션의 신뢰도와 채택률을 좌우할 것입니다.</p>\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.storyboard18.com/digital/amazon-google-microsoft-urged-by-700000-us-tech-workers-to-reject-pentagon-push-to-remove-ai-safety-guardrails-91548.htm\" style=\"color:#FF6B35;text-decoration:none;\">Storyboard18</a></p>\n  </div>\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "technology"
+    ],
+    "meta_title": "70만 테크 워커, Pentagon AI 안전장치 해제 반발",
+    "meta_description": "아마존, 구글, 마이크로소프트 임직원 70만 명이 펜타곤의 AI 안전 규제 완화 요구에 공동 반발. 감시 시스템과 자율 무기 개발 우려",
+    "word_count": 485
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T16:04:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T18:15:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T09:34:45.164Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae9435ff4fbf0001ab795d",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae9435ff4fbf0001ab795d/",
+    "public_url": "https://ubion.ghost.io/migug-tekeu-weokeo-70man-myeong-pentagonyi-ai-anjeonjangci-haeje-yogue-banbal/",
+    "status": "published",
+    "published_at": "2026-03-09T09:34:45.164Z"
+  }
+}

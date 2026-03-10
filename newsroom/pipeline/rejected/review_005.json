@@ -1,0 +1,38 @@
+{
+  "id": "source_007",
+  "stage": "rejected",
+  "draft": {
+    "headline": "미국, 'AI 교육 투자 확대 법안' 발의…NSF 기금으로 인재 양성 가속화"
+  },
+  "fact_check": {
+    "score": 88,
+    "verdict": "PASS",
+    "verified_claims": [
+      {
+        "claim": "상원의원 Cantwell, Moran이 2026 AI 교육 촉진법 발의",
+        "source": "commerce.senate.gov",
+        "status": "verified"
+      },
+      {
+        "claim": "NSF 지원으로 장학금 및 전문성 개발 확대",
+        "source": "commerce.senate.gov",
+        "status": "verified"
+      },
+      {
+        "claim": "2026년 3월 발의",
+        "source": "commerce.senate.gov",
+        "status": "verified"
+      }
+    ],
+    "issues": [],
+    "quality_score": {
+      "structure": "pass",
+      "readability": "pass",
+      "completeness": "pass"
+    }
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

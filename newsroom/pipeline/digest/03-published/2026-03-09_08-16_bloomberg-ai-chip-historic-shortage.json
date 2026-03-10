@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "AI Chip Manufacturing Demand Creates Historic Shortage",
+    "url": "https://www.bloomberg.com/graphics/2026-ai-boom-memory-chip-shortage/",
+    "source_name": "Bloomberg",
+    "language": "en",
+    "relevance_score": 92,
+    "summary": "AI demand is triggering a historic memory-chip shortage. Bloomberg reports that meeting the exponential demand for chips will be extremely expensive and potentially impossible, as AI infrastructure buildout strains global semiconductor supply chains.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-09T08:16:00+09:00"
+  },
+  "digest": {
+    "headline": "AI 수요 폭증으로 메모리 반도체 역대급 공급난 현실화",
+    "lead": "AI 인프라 구축에 따른 반도체 수요가 기하급수적으로 증가하면서 글로벌 메모리칩 시장이 사상 초유의 공급 부족 사태에 직면했다. 블룸버그는 현재의 수요를 충족시키는 것이 '극도로 비싸고, 사실상 불가능에 가까울 수 있다'고 진단했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">AI 인프라 구축에 따른 반도체 수요가 기하급수적으로 증가하면서 글로벌 메모리칩 시장이 사상 초유의 공급 부족 사태에 직면했다. 블룸버그는 현재의 수요를 충족시키는 것이 '극도로 비싸고, 사실상 불가능에 가까울 수 있다'고 진단했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">대형 언어모델(LLM) 훈련과 추론에 필요한 GPU·HBM(고대역폭 메모리) 수요가 폭발하면서 반도체 공급망 전체가 병목에 빠졌다. 엔비디아, AMD 등 주요 칩 설계사의 주문이 TSMC·삼성전자 등 파운드리 생산 능력을 넘어서고 있으며, HBM을 생산하는 SK하이닉스·삼성전자·마이크론 역시 풀가동에도 수요를 따라잡지 못하는 상황이다. 블룸버그에 따르면 이번 부족은 2020~2021년 코로나 팬데믹 당시 칩 부족보다 구조적으로 더 심각한 양상을 보인다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">AI 반도체 공급난은 단기적으로 GPU 및 서버 가격 상승을 초래하고, 중장기적으로는 AI 서비스 비용 전반의 인상 압력으로 작용할 전망이다. 빅테크 기업들은 자체 칩 개발(구글 TPU, 아마존 트레이니움 등)을 가속화하고 있으며, 각국 정부도 반도체 자국 생산 확대 정책을 강화하고 있다. 공급 확대까지 최소 2~3년이 소요될 것으로 보여, 당분간 AI 칩 확보 경쟁은 더욱 치열해질 것으로 전망된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 칩 부족은 에듀테크 스타트업의 AI 인프라 접근 비용을 직접적으로 끌어올린다. 클라우드 GPU 사용료 인상이 이어질 경우, AI 튜터·적응형 학습 플랫폼 등을 개발하는 교육 기업들의 운영 비용 부담이 커질 수 있다. 경량 모델 최적화와 온디바이스 추론 전략이 에듀테크 분야에서도 필수 역량으로 부상할 전망이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.bloomberg.com/graphics/2026-ai-boom-memory-chip-shortage/\" style=\"color:#FF6B35;text-decoration:none;\">Bloomberg</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "semiconductor"
+    ],
+    "meta_title": "AI 수요 폭증으로 메모리 반도체 역대급 공급난 현실화",
+    "meta_description": "AI 인프라 구축에 따른 반도체 수요 폭발로 글로벌 메모리칩 시장이 사상 초유의 공급 부족에 직면했다. 블룸버그는 수요 충족이 사실상 불가능에 가까울 수 있다고 진단했다.",
+    "word_count": 520,
+    "feature_image": "https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T08:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T08:45:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T23:58:24.144Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae0d20ff4fbf0001ab769b",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae0d20ff4fbf0001ab769b",
+    "public_url": "https://insight.ubion.global/ai-suyo-pogjeungeuro-memori-bandoce-yeogdaegeub-gonggeubnan-hyeonsilhwa/",
+    "status": "published",
+    "published_at": "2026-03-08T23:58:24.000Z"
+  }
+}

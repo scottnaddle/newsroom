@@ -1,0 +1,33 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.politico.com/news/magazine/2026/02/21/south-korea-ai-popular-why-00789618",
+    "title": "The Country That's Madly in Love With AI",
+    "snippet": "South Korea's positive attitude toward AI is deeply embedded in its education system. Resource-scarce country that historically relied on technology as main economic booster.",
+    "published_date": "2026-03-04"
+  },
+  "relevance_score": 76,
+  "tags": [
+    "analysis",
+    "education-system",
+    "culture"
+  ],
+  "collected_at": "2026-03-07T22:13:14.911Z",
+  "rejection_reason": "duplicate: already published",
+  "rejected_at": "2026-03-08T07:37:00+09:00",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

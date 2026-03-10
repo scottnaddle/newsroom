@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Tech giants signed pledge to pay for data center power. But it doesn't apply to 3 Arizona projects",
+    "url": "https://www.kjzz.org/politics/2026-03-08/tech-giants-signed-pledge-to-pay-for-data-center-power-but-it-doesnt-apply-to-3-arizona-projects",
+    "source_name": "KJZZ (NPR)",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Google, Meta, Microsoft, OpenAI, xAI, Oracle and AWS signed Trump's 'ratepayer protection pledge' to prevent AI data center costs from burdening consumers. However, the three largest data center projects in Arizona are being built by companies that didn't sign. Critics note the president cannot enforce the pledge, and real enforcement lies with state regulators.",
+    "published_date": "2026-03-08",
+    "collected_at": "2026-03-09T05:16:00+09:00"
+  },
+  "digest": {
+    "headline": "빅테크 데이터센터 전기료 분담 서약, 애리조나 최대 3곳은 빠져",
+    "lead": "구글·메타·MS·오픈AI 등 7개 빅테크가 트럼프 대통령의 '요금 보호 서약'에 서명해 AI 데이터센터 전력 비용을 소비자에게 전가하지 않겠다고 약속했다. 그러나 애리조나 최대 규모 데이터센터 3곳의 개발사는 서약에 참여하지 않았으며, 대통령에게는 이 서약을 강제할 권한이 없어 실효성 논란이 일고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">구글·메타·MS·오픈AI 등 7개 빅테크가 트럼프 대통령의 '요금 보호 서약'에 서명해 AI 데이터센터 전력 비용을 소비자에게 전가하지 않겠다고 약속했다. 그러나 애리조나 최대 규모 데이터센터 3곳의 개발사는 서약에 참여하지 않았으며, 대통령에게는 이 서약을 강제할 권한이 없어 실효성 논란이 일고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">트럼프 대통령은 2월 국정연설에서 이 서약을 공개했다. 서약 내용은 ▲신규 전력 공급원 확보 ▲전력 인프라 업그레이드 비용 부담 ▲사용 여부와 관계없이 확보 전력 비용 지불 ▲지역 일자리 투자 ▲전력망 복원력 기여 등 5개 항목이다. 그러나 애리조나 최대 데이터센터를 개발 중인 버마랜드(Vermaland), 트랙트(Tract), 에지코어(EdgeCore)는 서약에 불참했으며, 3기가와트급 버마랜드 프로젝트는 전력 확장 비용을 부담할 의무가 없는 상태다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">전문가들은 실제 규제 권한이 주 공공사업위원회(ACC)에 있어 연방 서약만으로는 소비자 보호가 어렵다고 지적한다. 애리조나 최대 전력사 APS는 이미 14% 요금 인상을 추진 중이며, 데이터센터 폭증에 따른 인프라 투자 비용이 가정용 요금에 전가될 가능성이 높다. AI 산업의 에너지 소비 문제는 미국 전역으로 확산될 이슈로, 서약의 상징적 의미와 실질적 효과 사이의 괴리가 주목받고 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 데이터센터의 전력 비용 상승은 클라우드 기반 에듀테크 서비스의 운영 비용에 직접 영향을 미친다. 특히 LLM 추론 비용이 인프라 전기료와 연동되는 만큼, AI 튜터·자동 채점 등 컴퓨팅 집약적 교육 서비스의 지속가능한 가격 모델 수립이 중요해지고 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.kjzz.org/politics/2026-03-08/tech-giants-signed-pledge-to-pay-for-data-center-power-but-it-doesnt-apply-to-3-arizona-projects\" style=\"color:#FF6B35;text-decoration:none;\">KJZZ (NPR)</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "regulation"
+    ],
+    "meta_title": "빅테크 데이터센터 전기료 분담 서약, 애리조나 최대 3곳은 빠져",
+    "meta_description": "구글·메타·MS 등 7개 빅테크가 데이터센터 전기료 소비자 전가 방지 서약에 서명했으나, 애리조나 최대 3곳은 불참. 대통령에게 강제 권한이 없어 실효성 논란.",
+    "word_count": 560
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T05:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T05:43:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T20:55:33.881Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ade245ff4fbf0001ab762f",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ade245ff4fbf0001ab762f",
+    "public_url": "https://insight.ubion.global/bigtekeu-deiteosenteo-jeongiryo-bundam-seoyag-aerijona-coedae-3goseun-bbajyeo/",
+    "status": "published",
+    "published_at": "2026-03-08T20:55:33.000Z"
+  }
+}

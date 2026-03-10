@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>에이전트 관제센터 | UBION AI 뉴스룸</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #ffffff;
+            --bg-section: #f9f9fb;
+            --bg-card: #ffffff;
+            --text-primary: #212529;
+            --text-secondary: #6b7280;
+            --text-muted: #9ca3af;
+            --accent: #9021ff;
+            --accent-light: #f1e2ff;
+            --accent-bg: #f8f4ff;
+            --success: #10b981;
+            --success-bg: #ecfdf5;
+            --warning: #f59e0b;
+            --warning-bg: #fffbeb;
+            --danger: #ef4444;
+            --danger-bg: #fef2f2;
+            --blue: #3b82f6;
+            --blue-bg: #eff6ff;
+            --border: #e5e7eb;
+            --border-light: #f3f4f6;
+            --radius: 12px;
+            --radius-sm: 8px;
+            --shadow-sm: 0 1px 2px rgba(0,0,0,0.05);
+            --shadow: 0 1px 3px rgba(0,0,0,0.1), 0 1px 2px rgba(0,0,0,0.06);
+            --font-sans: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
+            --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+        }
+        * { margin:0; padding:0; box-sizing:border-box; }
+        body { font-family:var(--font-sans); background:var(--bg-section); color:var(--text-primary); min-height:100vh; line-height:1.6; -webkit-font-smoothing:antialiased; }
+
+        /* Navbar */
+        .navbar { position:sticky; top:0; z-index:50; background:var(--bg); border-bottom:1px solid var(--border); box-shadow:var(--shadow-sm); }
+        .navbar-inner { max-width:1200px; margin:0 auto; display:flex; align-items:center; justify-content:space-between; padding:0 1.5rem; height:70px; }
+        .navbar-logo { display:flex; align-items:center; gap:.75rem; text-decoration:none; color:var(--text-primary); }
+        .navbar-logo-text { font-size:1.125rem; font-weight:700; }
+        .navbar-logo-text span { color:var(--accent); font-weight:800; }
+        .navbar-links { display:flex; align-items:center; gap:2rem; }
+        .navbar-links a { text-decoration:none; color:var(--text-primary); font-size:.9375rem; font-weight:500; transition:color 150ms; padding:.625rem 0; border-bottom:2px solid transparent; }
+        .navbar-links a:hover, .navbar-links a.active { color:var(--accent); border-bottom-color:var(--accent); }
+        .status-badge { display:flex; align-items:center; gap:.5rem; padding:.375rem .875rem; background:var(--bg-section); border:1px solid var(--border); border-radius:2rem; font-size:.8125rem; font-weight:500; color:var(--text-secondary); }
+        .status-dot { width:8px; height:8px; border-radius:50%; background:var(--text-muted); transition:all 200ms; }
+        .status-dot.connected { background:var(--success); box-shadow:0 0 6px rgba(16,185,129,.4); }
+
+        /* Container */
+        .container { max-width:1200px; margin:0 auto; padding:2rem 1.5rem; }
+        .page-title { font-size:1.5rem; font-weight:700; margin-bottom:.5rem; }
+        .page-desc { color:var(--text-secondary); font-size:.9375rem; margin-bottom:2rem; }
+
+        /* Stats */
+        .stats-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:1rem; margin-bottom:2rem; }
+        .stat-card { background:var(--bg-card); border:1px solid var(--border); border-radius:var(--radius); padding:1.5rem; box-shadow:var(--shadow-sm); }
+        .stat-label { font-size:.8125rem; color:var(--text-secondary); font-weight:500; margin-bottom:.5rem; }
+        .stat-value { font-size:2rem; font-weight:700; font-family:var(--font-mono); color:var(--accent); }
+        .stat-sub { font-size:.75rem; color:var(--text-muted); margin-top:.25rem; }
+
+        /* Section */
+        .section { background:var(--bg-card); border:1px solid var(--border); border-radius:var(--radius); padding:1.5rem; margin-bottom:1.5rem; box-shadow:var(--shadow-sm); }
+        .section-header { display:flex; justify-content:space-between; align-items:center; margin-bottom:1.25rem; padding-bottom:.75rem; border-bottom:1px solid var(--border-light); }
+        .section-title { font-size:1rem; font-weight:600; display:flex; align-items:center; gap:.5rem; }
+        .section-badge { font-size:.6875rem; font-weight:600; padding:.125rem .5rem; border-radius:1rem; }
+
+        /* Pipeline Flow */
+        .pipeline-flow { display:flex; align-items:center; justify-content:space-between; gap:.375rem; overflow-x:auto; padding:.5rem 0; }
+        .pipeline-stage { flex:1; min-width:70px; padding:.875rem .5rem; background:var(--bg-section); border:1px solid var(--border-light); border-radius:var(--radius-sm); text-align:center; transition:all 200ms; }
+        .pipeline-stage.has-items { background:var(--accent-bg); border-color:var(--accent); }
+        .pipeline-stage.bottleneck { background:var(--warning-bg); border-color:var(--warning); }
+        .stage-name { font-size:.625rem; color:var(--text-muted); font-weight:500; text-transform:uppercase; letter-spacing:.03em; margin-bottom:.125rem; }
+        .stage-count { font-size:1.125rem; font-weight:700; font-family:var(--font-mono); color:var(--text-primary); }
+        .pipeline-stage.has-items .stage-count { color:var(--accent); }
+        .pipeline-arrow { color:var(--text-muted); font-size:.75rem; flex-shrink:0; }
+
+        /* Agent Grid */
+        .agent-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr)); gap:.875rem; }
+        .agent-card { background:var(--bg-section); border:1px solid var(--border-light); border-radius:var(--radius); padding:1.125rem; transition:all 200ms; cursor:pointer; position:relative; }
+        .agent-card:hover { border-color:var(--accent); box-shadow:var(--shadow); transform:translateY(-1px); }
+        .agent-card.active { border-color:var(--success); background:var(--success-bg); }
+        .agent-card.idle { border-color:var(--border-light); }
+        .agent-card.error { border-color:var(--danger); background:var(--danger-bg); }
+        .agent-top { display:flex; align-items:center; gap:.625rem; margin-bottom:.875rem; }
+        .agent-avatar { width:40px; height:40px; border-radius:10px; display:flex; align-items:center; justify-content:center; font-size:1.125rem; flex-shrink:0; position:relative; }
+        .agent-avatar.active { background:var(--success-bg); }
+        .agent-avatar.idle { background:var(--border-light); }
+        @keyframes walk { 0%,100%{transform:translateY(0)} 25%{transform:translateY(-3px) rotate(-2deg)} 75%{transform:translateY(-3px) rotate(2deg)} }
+        @keyframes breathe { 0%,100%{transform:scale(1)} 50%{transform:scale(1.05)} }
+        .agent-card.active .agent-avatar { animation:walk .8s ease-in-out infinite; }
+        .agent-card.idle .agent-avatar { animation:breathe 3s ease-in-out infinite; }
+        .live-dot { position:absolute; top:-2px; right:-2px; width:9px; height:9px; border-radius:50%; background:var(--success); border:2px solid var(--bg-card); }
+        @keyframes live-pulse { 0%,100%{box-shadow:0 0 0 0 rgba(16,185,129,.4)} 50%{box-shadow:0 0 0 4px rgba(16,185,129,0)} }
+        .agent-card.active .live-dot { animation:live-pulse 1.5s ease-in-out infinite; }
+        .agent-card.idle .live-dot { background:var(--warning); }
+        .agent-name { font-size:.875rem; font-weight:600; }
+        .agent-desc { font-size:.6875rem; color:var(--text-muted); }
+        .agent-bottom { display:grid; grid-template-columns:1fr 1fr; gap:.375rem; }
+        .agent-metric { background:var(--bg-card); border-radius:var(--radius-sm); padding:.5rem; text-align:center; }
+        .agent-metric-value { font-size:1rem; font-weight:700; font-family:var(--font-mono); color:var(--text-primary); }
+        .agent-metric-label { font-size:.625rem; color:var(--text-muted); font-weight:500; }
+        .status-tag { font-size:.625rem; font-weight:600; padding:.125rem .4rem; border-radius:1rem; display:inline-block; white-space:nowrap; }
+        .status-tag.active { background:var(--success-bg); color:var(--success); }
+        .status-tag.idle { background:var(--warning-bg); color:var(--warning); }
+        .status-tag.error { background:var(--danger-bg); color:var(--danger); }
+
+        /* Agent Group Card */
+        .agent-group { background:var(--bg-card); border:1px solid var(--border); border-radius:var(--radius); padding:1.25rem; margin-bottom:1rem; box-shadow:var(--shadow-sm); }
+        .agent-group-header { display:flex; align-items:center; gap:.625rem; margin-bottom:1rem; padding-bottom:.75rem; border-bottom:2px solid var(--border-light); }
+        .agent-group-icon { width:36px; height:36px; border-radius:10px; display:flex; align-items:center; justify-content:center; font-size:1.125rem; flex-shrink:0; }
+        .agent-group-title { font-size:.9375rem; font-weight:700; }
+        .agent-group-sub { font-size:.6875rem; color:var(--text-muted); font-weight:500; }
+        .agent-group-badge { margin-left:auto; font-size:.6875rem; font-weight:600; padding:.25rem .625rem; border-radius:1rem; }
+        .group-news .agent-group-header { border-bottom-color:var(--accent); }
+        .group-news .agent-group-icon { background:var(--accent-bg); }
+        .group-news .agent-group-badge { background:var(--accent-bg); color:var(--accent); }
+        .group-digest .agent-group-header { border-bottom-color:var(--blue); }
+        .group-digest .agent-group-icon { background:var(--blue-bg); }
+        .group-digest .agent-group-badge { background:var(--blue-bg); color:var(--blue); }
+        .group-papers .agent-group-header { border-bottom-color:var(--success); }
+        .group-papers .agent-group-icon { background:var(--success-bg); }
+        .group-papers .agent-group-badge { background:var(--success-bg); color:var(--success); }
+        .group-ops .agent-group-header { border-bottom-color:#94a3b8; }
+        .group-ops .agent-group-icon { background:#f1f5f9; }
+        .group-ops .agent-group-badge { background:#f1f5f9; color:#64748b; }
+
+        /* Alerts */
+        .alert-list { max-height:240px; overflow-y:auto; }
+        .alert-item { padding:.75rem 1rem; border-radius:var(--radius-sm); margin-bottom:.5rem; font-size:.875rem; display:flex; align-items:center; gap:.625rem; }
+        .alert-item.info { background:var(--accent-bg); border-left:3px solid var(--accent); }
+        .alert-item.warning { background:var(--warning-bg); border-left:3px solid var(--warning); }
+        .alert-item.bottleneck { background:var(--danger-bg); border-left:3px solid var(--danger); }
+        .no-alerts { text-align:center; color:var(--text-muted); padding:2rem; font-size:.9375rem; }
+
+        /* Responsive */
+        @media (max-width:768px) { .navbar-links{display:none} .stats-grid{grid-template-columns:repeat(2,1fr)} .agent-grid{grid-template-columns:1fr} .pipeline-flow{gap:.25rem} .pipeline-stage{min-width:55px;padding:.625rem .375rem} .container{padding:1rem} }
+        ::-webkit-scrollbar { width:5px; height:5px; }
+        ::-webkit-scrollbar-track { background:transparent; }
+        ::-webkit-scrollbar-thumb { background:#ccc; border-radius:4px; }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-inner">
+            <a href="https://insight.ubion.global" class="navbar-logo">
+                <div class="navbar-logo-text">UBION <span>AI</span> 뉴스룸</div>
+            </a>
+            <div class="navbar-links">
+                <a href="https://insight.ubion.global">뉴스룸</a>
+                <a href="/visual.html" class="active">관제센터</a>
+            </div>
+            <div class="status-badge">
+                <div class="status-dot" id="statusDot"></div>
+                <span id="statusText">연결 중...</span>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h1 class="page-title">🤖 에이전트 관제센터</h1>
+        <p class="page-desc">UBION AI 뉴스룸 에이전트 파이프라인을 실시간으로 모니터링합니다</p>
+
+        <!-- Stats -->
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-label">총 처리 기사</div>
+                <div class="stat-value" id="totalProcessed">0</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">발행 완료</div>
+                <div class="stat-value" id="publishedCount">0</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">활성 에이전트</div>
+                <div class="stat-value" id="activeAgents">0</div>
+                <div class="stat-sub" id="totalAgentsSub">/ 18 에이전트</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">마지막 업데이트</div>
+                <div class="stat-value" id="lastUpdate" style="font-size:1.25rem;">-</div>
+            </div>
+        </div>
+
+        <!-- AI 교육 뉴스 파이프라인 -->
+        <div class="section">
+            <div class="section-header">
+                <h2 class="section-title">📰 AI 교육 뉴스 파이프라인</h2>
+                <span class="section-badge" style="background:var(--accent-bg);color:var(--accent);">메인</span>
+            </div>
+            <div class="pipeline-flow" id="mainPipeline"></div>
+        </div>
+
+        <!-- AI Digest 파이프라인 -->
+        <div class="section">
+            <div class="section-header">
+                <h2 class="section-title">⚡ AI Digest 파이프라인</h2>
+                <span class="section-badge" style="background:var(--blue-bg);color:var(--blue);">글로벌</span>
+            </div>
+            <div class="pipeline-flow" id="digestPipeline"></div>
+        </div>
+
+        <!-- 논문 파이프라인 -->
+        <div class="section">
+            <div class="section-header">
+                <h2 class="section-title">📚 논문 파이프라인</h2>
+                <span class="section-badge" style="background:var(--success-bg);color:var(--success);">학술</span>
+            </div>
+            <div class="pipeline-flow" id="papersPipeline"></div>
+        </div>
+
+        <!-- 에이전트 오피스 -->
+        <div style="margin-bottom:1.5rem">
+            <h2 style="font-size:1rem;font-weight:700;margin-bottom:1rem;display:flex;align-items:center;gap:.5rem;">🤖 에이전트 오피스</h2>
+            <div id="agentGrid"></div>
+        </div>
+
+        <!-- 토큰 사용량 모니터링 -->
+        <div class="section">
+            <div class="section-header">
+                <h2 class="section-title">💰 토큰 사용량 (24시간)</h2>
+            </div>
+            <div class="stats-grid" style="margin-bottom:16px;">
+                <div class="stat-card">
+                    <div class="stat-value" id="totalTokens">-</div>
+                    <div class="stat-label">총 토큰</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="totalRuns">-</div>
+                    <div class="stat-label">총 실행</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="skippedRuns" style="color:var(--success)">-</div>
+                    <div class="stat-label">스킵 (절감)</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="avgTokens">-</div>
+                    <div class="stat-label">실행당 평균</div>
+                </div>
+            </div>
+            <!-- 에이전트별 토큰 차트 -->
+            <div id="tokenAgentList" style="display:flex;flex-direction:column;gap:8px;"></div>
+            <!-- 시간별 그래프 -->
+            <div style="margin-top:16px;">
+                <h3 style="font-size:0.85rem;font-weight:600;color:var(--text-secondary);margin:0 0 8px;">시간별 토큰 사용량</h3>
+                <div id="tokenHourlyChart" style="display:flex;align-items:flex-end;gap:2px;height:80px;"></div>
+            </div>
+            <!-- 모델별 사용량 -->
+            <div style="margin-top:16px;">
+                <h3 style="font-size:0.85rem;font-weight:600;color:var(--text-secondary);margin:0 0 8px;">모델별 사용량</h3>
+                <div id="tokenModelList" style="display:flex;flex-wrap:wrap;gap:8px;"></div>
+            </div>
+        </div>
+
+        <!-- 알림 -->
+        <div class="section">
+            <div class="section-header">
+                <h2 class="section-title">⚠️ 알림</h2>
+            </div>
+            <div class="alert-list" id="alertList">
+                <div class="no-alerts">알림 없음 ✨</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // ===== 에이전트 그룹 정의 =====
+        const AGENT_GROUPS = [
+            {
+                label: 'AI 교육 뉴스',
+                icon: '📰',
+                cls: 'group-news',
+                sub: '7개 에이전트 · 8단계 파이프라인',
+                agents: [
+                    { id:'source-collector', name:'소스수집기', emoji:'📡', stage:'01-sourced', desc:'AI 교육 뉴스 자동 수집', schedule:'매 30분' },
+                    { id:'reporter', name:'취재기자', emoji:'🔍', stage:'03-reported', desc:'뉴스 소스 심층 취재', schedule:'매 15분' },
+                    { id:'writer', name:'작성기자', emoji:'✍️', stage:'04-drafted', desc:'기사 초안 작성', schedule:'매 10분' },
+                    { id:'fact-checker', name:'팩트체커', emoji:'✅', stage:'05-fact-checked', desc:'사실 검증 및 신뢰도 평가', schedule:'매 15분' },
+                    { id:'editor-desk', name:'에디터/데스크', emoji:'📋', stage:'06-desk-approved', desc:'품질 심사 및 발행 승인', schedule:'매 15분' },
+                    { id:'copy-editor', name:'교열기자', emoji:'📖', stage:'07-copy-edited', desc:'맞춤법·문체·HTML 교정', schedule:'매 10분' },
+                    { id:'publisher', name:'발행에이전트', emoji:'🚀', stage:'08-published', desc:'Ghost CMS 자동 발행', schedule:'매 10분' },
+                ]
+            },
+            {
+                label: 'AI Digest',
+                icon: '⚡',
+                cls: 'group-digest',
+                sub: '3개 에이전트 · 글로벌 AI 뉴스',
+                agents: [
+                    { id:'digest-collector', name:'수집기', emoji:'🔎', type:'cron', desc:'글로벌 AI 뉴스 수집', schedule:'매 1시간' },
+                    { id:'digest-writer', name:'작성기', emoji:'✏️', type:'cron', desc:'AI 뉴스 한국어 요약', schedule:'매 30분' },
+                    { id:'digest-publisher', name:'발행기', emoji:'📤', type:'cron', desc:'Ghost 자동 발행', schedule:'매 30분' },
+                ]
+            },
+            {
+                label: '논문 & 학술',
+                icon: '📚',
+                cls: 'group-papers',
+                sub: '2개 에이전트 · AI 교육 논문',
+                agents: [
+                    { id:'paper-collector', name:'논문 수집기', emoji:'📚', type:'cron', desc:'AI 교육 논문 자동 수집', schedule:'매일 03:00' },
+                    { id:'paper-processor', name:'논문 처리기', emoji:'📝', type:'cron', desc:'논문 요약 및 Ghost 발행', schedule:'매 1시간' },
+                ]
+            },
+            {
+                label: '콘텐츠 & 운영',
+                icon: '⚙️',
+                cls: 'group-ops',
+                sub: '6개 에이전트 · 만평, 논설, 모니터링',
+                agents: [
+                    { id:'cartoon-agent', name:'만평 에이전트', emoji:'🎨', type:'cron', desc:'AI 교육 일일 만평 생성', schedule:'매일 12:00' },
+                    { id:'colloquy', name:'AI Colloquy', emoji:'🎭', type:'cron', desc:'AI 패널 토의 생성', schedule:'매일 10:00' },
+                    { id:'analyst', name:'인사이트 논설', emoji:'💡', type:'cron', desc:'에듀테크 논설 작성', schedule:'매일 20:00' },
+                    { id:'daily-briefing', name:'일일 브리핑', emoji:'📋', type:'cron', desc:'뉴스룸 현황 보고', schedule:'매일 00:00' },
+                    { id:'weekly-review', name:'주간 리뷰', emoji:'📊', type:'cron', desc:'서비스 리뷰 및 개선 제안', schedule:'매주 월요일' },
+                    { id:'system-architect', name:'시스템 아키텍트', emoji:'🏗️', type:'cron', desc:'파이프라인 품질 감시', schedule:'09:00 / 18:00' },
+                ]
+            }
+        ];
+
+        // 파이프라인 정의
+        const MAIN_STAGES = [
+            { id:'01-sourced', name:'수집' }, { id:'02-assigned', name:'할당' },
+            { id:'03-reported', name:'취재' }, { id:'04-drafted', name:'작성' },
+            { id:'05-fact-checked', name:'체크' }, { id:'06-desk-approved', name:'데스크' },
+            { id:'07-copy-edited', name:'교열' }, { id:'08-published', name:'발행' }
+        ];
+        const DIGEST_STAGES = [
+            { id:'digest/01-sourced', name:'수집' }, { id:'digest/02-drafted', name:'작성' },
+            { id:'digest/03-published', name:'발행' }
+        ];
+        const PAPERS_STAGES = [
+            { id:'papers/01-sourced', name:'수집' }, { id:'papers/02-summarized', name:'요약' },
+            { id:'papers/03-published', name:'발행' }
+        ];
+
+        let ws = null, state = {};
+
+        function connectWebSocket() {
+            const proto = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            ws = new WebSocket(`${proto}//${location.host}`);
+            ws.onopen = () => { document.getElementById('statusDot').classList.add('connected'); document.getElementById('statusText').textContent = '실시간 연결됨'; };
+            ws.onmessage = e => { const d = JSON.parse(e.data); state = d.type && d.data ? d.data : d; render(); };
+            ws.onclose = () => { document.getElementById('statusDot').classList.remove('connected'); document.getElementById('statusText').textContent = '연결 끊김'; setTimeout(connectWebSocket, 3000); };
+        }
+
+        function renderPipelineFlow(containerId, stages, prefix) {
+            const el = document.getElementById(containerId);
+            el.innerHTML = '';
+            stages.forEach((s, i) => {
+                const key = prefix ? `${prefix}/${s.id.split('/').pop()}` : s.id;
+                const count = state.pipeline?.[key] || 0;
+                const div = document.createElement('div');
+                div.className = 'pipeline-stage';
+                if (count > 5) div.classList.add('bottleneck');
+                else if (count > 0) div.classList.add('has-items');
+                div.innerHTML = `<div class="stage-name">${s.name}</div><div class="stage-count">${count}</div>`;
+                el.appendChild(div);
+                if (i < stages.length - 1) { const a = document.createElement('div'); a.className = 'pipeline-arrow'; a.textContent = '→'; el.appendChild(a); }
+            });
+        }
+
+        function renderAgents() {
+            const container = document.getElementById('agentGrid');
+            container.innerHTML = '';
+
+            AGENT_GROUPS.forEach(group => {
+                const groupEl = document.createElement('div');
+                groupEl.className = `agent-group ${group.cls}`;
+
+                const activeCount = group.agents.filter(a => (state.agents?.[a.id]?.status) === 'active').length;
+
+                groupEl.innerHTML = `
+                    <div class="agent-group-header">
+                        <div class="agent-group-icon">${group.icon}</div>
+                        <div>
+                            <div class="agent-group-title">${group.label}</div>
+                            <div class="agent-group-sub">${group.sub}</div>
+                        </div>
+                        <span class="agent-group-badge">${activeCount > 0 ? `${activeCount}개 활성` : '대기 중'}</span>
+                    </div>
+                `;
+
+                const grid = document.createElement('div');
+                grid.className = 'agent-grid';
+
+                group.agents.forEach(agent => {
+                    const a = state.agents?.[agent.id] || {};
+                    const status = a.status || 'idle';
+                    const count = a.count || 0;
+                    const card = document.createElement('div');
+                    card.className = `agent-card ${status}`;
+                    card.innerHTML = `
+                        <div class="agent-top">
+                            <div class="agent-avatar ${status}">${agent.emoji}<div class="live-dot"></div></div>
+                            <div style="flex:1;min-width:0">
+                                <div class="agent-name">${agent.name}</div>
+                                <div class="agent-desc">${agent.desc}</div>
+                            </div>
+                            <span class="status-tag ${status}">${status === 'active' ? '● 활성' : status === 'error' ? '✕ 에러' : '○ 대기'}</span>
+                        </div>
+                        <div class="agent-bottom">
+                            <div class="agent-metric">
+                                <div class="agent-metric-value">${agent.schedule}</div>
+                                <div class="agent-metric-label">스케줄</div>
+                            </div>
+                            <div class="agent-metric">
+                                <div class="agent-metric-value">${a.lastTime ? formatTime(a.lastTime) : '-'}</div>
+                                <div class="agent-metric-label">마지막 실행</div>
+                            </div>
+                        </div>
+                    `;
+                    grid.appendChild(card);
+                });
+                groupEl.appendChild(grid);
+                container.appendChild(groupEl);
+            });
+        }
+
+        function renderStats() {
+            const m = state.metrics || {};
+            const published = (state.pipeline?.['08-published'] || 0);
+            const digestPub = state.pipeline?.['digest/03-published'] || 0;
+            const papersPub = state.pipeline?.['papers/03-published'] || 0;
+            document.getElementById('totalProcessed').textContent = m.totalProcessed || 0;
+            document.getElementById('publishedCount').textContent = published + digestPub + papersPub;
+            const allAgents = AGENT_GROUPS.flatMap(g => g.agents);
+            const active = allAgents.filter(a => (state.agents?.[a.id]?.status) === 'active').length;
+            document.getElementById('activeAgents').textContent = active;
+            document.getElementById('totalAgentsSub').textContent = `/ ${allAgents.length} 에이전트`;
+            if (state.lastUpdate) document.getElementById('lastUpdate').textContent = new Date(state.lastUpdate).toLocaleTimeString('ko-KR');
+        }
+
+        function renderAlerts() {
+            const list = document.getElementById('alertList');
+            const alerts = state.alerts || [];
+            if (!alerts.length) { list.innerHTML = '<div class="no-alerts">알림 없음 ✨</div>'; return; }
+            const icons = { info:'💡', warning:'⚠️', bottleneck:'🚨' };
+            list.innerHTML = alerts.slice(0,10).map(a => `<div class="alert-item ${a.type}"><span>${icons[a.type]||'📌'}</span><span><strong>${a.agent||''}</strong> ${a.message}</span></div>`).join('');
+        }
+
+        function formatTime(iso) {
+            const diff = Math.floor((Date.now() - new Date(iso)) / 1000);
+            if (diff < 60) return '방금';
+            if (diff < 3600) return `${Math.floor(diff/60)}분 전`;
+            if (diff < 86400) return `${Math.floor(diff/3600)}시간 전`;
+            return new Date(iso).toLocaleDateString('ko-KR',{month:'short',day:'numeric'});
+        }
+
+        function render() {
+            renderPipelineFlow('mainPipeline', MAIN_STAGES);
+            renderPipelineFlow('digestPipeline', DIGEST_STAGES, 'digest');
+            renderPipelineFlow('papersPipeline', PAPERS_STAGES, 'papers');
+            renderAgents();
+            renderStats();
+            renderAlerts();
+        }
+
+        // ===== 토큰 모니터링 =====
+        function formatTokens(n) {
+            if (n >= 1000000) return (n/1000000).toFixed(1) + 'M';
+            if (n >= 1000) return (n/1000).toFixed(1) + 'K';
+            return n.toString();
+        }
+
+        async function loadTokenData() {
+            try {
+                const data = await (await fetch('/api/tokens?hours=24')).json();
+                
+                // 요약 카드
+                document.getElementById('totalTokens').textContent = formatTokens(data.summary.totalTokens);
+                document.getElementById('totalRuns').textContent = data.summary.totalRuns;
+                document.getElementById('skippedRuns').textContent = data.summary.skippedRuns;
+                document.getElementById('avgTokens').textContent = formatTokens(data.summary.avgTokensPerRun);
+                
+                // 에이전트별 바 차트
+                const agentList = document.getElementById('tokenAgentList');
+                const agents = Object.entries(data.agents);
+                const maxTokens = agents.length > 0 ? agents[0][1].total : 1;
+                
+                agentList.innerHTML = agents.slice(0, 10).map(([name, info]) => {
+                    const pct = Math.max(2, Math.round(info.total / maxTokens * 100));
+                    const errBadge = info.errors > 0 ? `<span style="color:var(--danger);font-size:0.7rem;margin-left:4px;">⚠${info.errors}</span>` : '';
+                    const skipBadge = info.skipped > 0 ? `<span style="color:var(--success);font-size:0.7rem;margin-left:4px;">⏭${info.skipped}</span>` : '';
+                    return `<div style="display:flex;align-items:center;gap:8px;font-size:0.8rem;">
+                        <div style="width:140px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:var(--text-secondary);flex-shrink:0;" title="${name}">${name}</div>
+                        <div style="flex:1;background:var(--border-light);border-radius:4px;height:18px;overflow:hidden;">
+                            <div style="width:${pct}%;height:100%;background:linear-gradient(90deg,var(--accent),var(--accent-light));border-radius:4px;transition:width .5s;"></div>
+                        </div>
+                        <div style="width:60px;text-align:right;font-family:'JetBrains Mono';font-size:0.75rem;color:var(--text-primary);flex-shrink:0;">${formatTokens(info.total)}</div>
+                        <div style="width:40px;text-align:right;font-size:0.7rem;color:var(--text-muted);flex-shrink:0;">${info.runs}회${errBadge}${skipBadge}</div>
+                    </div>`;
+                }).join('');
+                
+                // 시간별 차트
+                const hourlyChart = document.getElementById('tokenHourlyChart');
+                const hourly = Object.entries(data.hourly).sort((a,b) => a[0].localeCompare(b[0]));
+                const maxHourly = Math.max(...hourly.map(h => h[1]), 1);
+                
+                hourlyChart.innerHTML = hourly.map(([hour, tokens]) => {
+                    const h = parseInt(hour.slice(11, 13));
+                    const pct = Math.max(2, Math.round(tokens / maxHourly * 100));
+                    const kstH = (h + 9) % 24;
+                    return `<div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;" title="${kstH}시: ${formatTokens(tokens)}">
+                        <div style="width:100%;max-width:20px;height:${pct}%;background:var(--accent);border-radius:3px 3px 0 0;min-height:2px;opacity:0.7;"></div>
+                        <div style="font-size:0.55rem;color:var(--text-muted);${kstH%3===0?'':'visibility:hidden'}">${kstH}</div>
+                    </div>`;
+                }).join('');
+                
+                // 모델별 사용량
+                const modelList = document.getElementById('tokenModelList');
+                const models = Object.entries(data.models).sort((a,b) => b[1].tokens - a[1].tokens);
+                const modelColors = { 'glm-5': 'var(--accent)', 'claude-opus-4-6': '#f59e0b', 'kimi-k2.5': 'var(--blue)' };
+                
+                modelList.innerHTML = models.map(([model, info]) => {
+                    const color = modelColors[model] || 'var(--text-muted)';
+                    return `<div style="display:flex;align-items:center;gap:6px;padding:6px 12px;background:var(--bg-section);border-radius:8px;font-size:0.8rem;">
+                        <div style="width:8px;height:8px;border-radius:50%;background:${color};"></div>
+                        <span style="font-weight:500;">${model}</span>
+                        <span style="color:var(--text-muted);font-family:'JetBrains Mono';font-size:0.75rem;">${formatTokens(info.tokens)} · ${info.runs}회</span>
+                    </div>`;
+                }).join('');
+                
+            } catch(e) { console.error('Token data load failed:', e); }
+        }
+
+        async function loadInitialData() {
+            try { state = await (await fetch('/api/status')).json(); render(); } catch(e) { console.error('Load failed:', e); }
+            loadTokenData();
+        }
+
+        loadInitialData();
+        connectWebSocket();
+        setInterval(loadInitialData, 60000);
+    </script>
+</body>
+</html>

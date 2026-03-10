@@ -1,0 +1,47 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "February 2026: Record $189B Startup Funding, OpenAI/Anthropic Lead",
+    "url": "https://news.crunchbase.com/venture/record-setting-global-funding-february-2026-openai-anthropic/",
+    "source_name": "Crunchbase",
+    "language": "en",
+    "relevance_score": 77,
+    "summary": "Crunchbase data shows February 2026 was the biggest startup funding month in history, with OpenAI, Anthropic, and Waymo absorbing $156 billion of a record $189 billion total...",
+    "published_date": "Mar-5",
+    "collected_at": "2026-03-05T06:53:36.375Z"
+  },
+  "digest": {
+    "headline": "AI 열풍, 스타트업 펀딩 사상 최대 기록—2월 $189B 투자",
+    "lead": "2026년 2월 글로벌 스타트업 펀딩이 역사상 최고치인 1,890억 달러에 도달했습니다. AI 스타트업이 전체의 90%를 차지한 가운데 오픈AI는 단독으로 1,100억 달러를 모금했으며, 오픈AI·앤쓰로픽·웨이모 3사가 전체 투자의 83%를 독점했습니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- AI Digest 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">2026년 2월 글로벌 스타트업 펀딩이 역사상 최고치인 1,890억 달러에 도달했습니다. AI 스타트업이 전체의 90%를 차지한 가운데 오픈AI는 단독으로 1,100억 달러를 모금했으며, 오픈AI·앤쓰로픽·웨이모 3사가 전체 투자의 83%를 독점했습니다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">오픈AI의 1,100억 달러 펀딩은 민간 벤처 기업의 역대 최대 규모 투자입니다. 앤쓰로픽은 2번째로 300억 달러를 모금했으며, 알파벳의 자율주행 부문인 웨이모가 160억 달러를 받았습니다. 이 외 래피더스, 웨이브, 월드랩스, 세레브래스 등 4개 기업이 각각 10억 달러 이상을 조달하며 AI와 반도체 중심의 자금 흐름을 보여줍니다. 2025년 2월 펀딩액 215억 달러 대비 780% 증가한 수치입니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 현상은 글로벌 자본이 AI 기술 개발과 컴퓨팅 인프라에 집중되고 있음을 의미합니다. 상위 3개 회사가 전체의 83%를 흡수한 사실은 자금의 극도의 집중화를 시사하며, 일반 스타트업의 펀딩 기회는 축소될 수 있습니다. 한편 AI 역량을 갖춘 기업과 그렇지 않은 기업 간 기술 격차가 더욱 벌어질 전망입니다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 모델 개발 비용이 급증하는 상황에서 에듀테크 스타트업이 고급 AI를 교육 서비스에 통합하기는 더욱 어려워질 것으로 예상됩니다. 다만 오픈AI·앤쓰로픽 같은 대형 AI 회사들의 API 서비스 확대가 계속된다면, 소규모 에듀테크 개발사도 최신 AI 모델에 접근 가능한 길이 열릴 수 있습니다. 교육 현장의 AI 도입 속도는 인프라 비용 감소 여부에 달려 있습니다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://news.crunchbase.com/venture/record-setting-global-funding-february-2026-openai-anthropic/\" style=\"color:#FF6B35;text-decoration:none;\">Crunchbase News</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": ["ai-digest", "ai", "technology", "openai"],
+    "meta_title": "2월 AI 펀딩 기록 경신, 오픈AI·앤쓰로픽 독주",
+    "meta_description": "2026년 2월 글로벌 스타트업 펀딩 1,890억 달러 기록 경신. AI 투자가 전체 90% 차지, 오픈AI·앤쓰로픽·웨이모 3사가 83% 독점.",
+    "word_count": 580
+  },
+  "publish_result": {
+    "ghost_post_id": "69a92da7e2eb440001d55c89",
+    "ghost_slug": "ai-yeolpung-seutateueob-peonding-sasang-coedae-girog-2weol-189b-tuja",
+    "public_url": "https://insight.ubion.global/ai-yeolpung-seutateueob-peonding-sasang-coedae-girog-2weol-189b-tuja/",
+    "status": "published",
+    "published_at": "2026-03-05T07:15:51.000Z"
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-05T06:53:36.375Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-05T15:53:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T07:15:51.000Z"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "arxiv_id": "2508.20244v1",
+  "title": "Do Students Rely on AI? Analysis of Student-ChatGPT Conversations from a Field Study",
+  "summary": "This study explores how college students interact with generative AI (ChatGPT-4) during educational quizzes, focusing on reliance and predictors of AI adoption. Conducted at the early stages of ChatGPT implementation, when students had limited familiarity with the tool, this field study analyzed 315 student-AI conversations during a brief, quiz-based scenario across various STEM courses. A novel four-stage reliance taxonomy was introduced to capture students' reliance patterns, distinguishing AI competence, relevance, adoption, and students' final answer correctness. Three findings emerged. First, students exhibited overall low reliance on AI and many of them could not effectively use AI for learning. Second, negative reliance patterns often persisted across interactions, highlighting students' difficulty in effectively shifting strategies after unsuccessful initial experiences. Third, certain behavioral metrics strongly predicted AI reliance, highlighting potential behavioral mechanisms to explain AI adoption. The study's findings underline critical implications for ethical AI integration in education and the broader field. It emphasizes the need for enhanced onboarding processes to improve student's familiarity and effective use of AI tools. Furthermore, AI interfaces should be designed with reliance-calibration mechanisms to enhance appropriate reliance. Ultimately, this research advances understanding of AI reliance dynamics, providing foundational insights for ethically sound and cognitively enriching AI practices.",
+  "authors": [
+    "Jiayu Zheng",
+    "Lingxin Hao",
+    "Kelun Lu",
+    "Ashi Garg",
+    "Mike Reese",
+    "Melo-Jean Yap",
+    "I-Jeng Wang",
+    "Xingyun Wu",
+    "Wenrui Huang",
+    "Jenna Hoffman",
+    "Ariane Kelly",
+    "My Le",
+    "Ryan Zhang",
+    "Yanyu Lin",
+    "Muhammad Faayez",
+    "Anqi Liu"
+  ],
+  "categories": [
+    "cs.AI",
+    "cs.AI"
+  ],
+  "published": "2025-08-27T20:00:27Z",
+  "updated": "2025-08-27T20:00:27Z",
+  "pdf_url": "https://arxiv.org/pdf/2508.20244v1",
+  "abs_url": "https://arxiv.org/abs/2508.20244v1",
+  "source": "arxiv",
+  "relevance_score": 82,
+  "source_query": "ti:chatgpt AND (student OR classroom OR school)",
+  "collected_at": "2026-03-07T18:01:11.629Z",
+  "stage": "published",
+  "audit_log": [
+    {
+      "agent": "paper-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T18:01:23.537Z",
+      "source": "arxiv",
+      "relevance_score": 82
+    },
+    {
+      "agent": "paper-summarizer",
+      "action": "summarized",
+      "timestamp": "2026-03-07T22:05:21.508Z",
+      "model": "glm-4-plus"
+    },
+    {
+      "agent": "paper-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T15:03:51.564Z"
+    }
+  ],
+  "korean_title": "학생들은 AI에 의존하는가? 교육 퀴즈 상황에서의 학생-ChatGPT 대화 분석",
+  "korean_summary": "이 연구는 STEM 과목 퀴즈에서 학생들이 ChatGPT와 어떻게 상호작용하는지 분석했습니다. 학생들의 AI 도구에 대한 경험이 부족한 초기 단계에서 진행된 이 연구는, 학생들이 전반적으로 AI에 대한 의존도가 낮고 AI를 효과적으로 활용하지 못하는 경향을 발견했습니다. 또한, 초기 실패 경험 이후 전략을 효과적으로 바꾸지 못하는 등의 문제점을 확인하며, AI 교육을 위한 체계적인 안내와 적절한 의존도 조장 기능이 필요함을 강조합니다.",
+  "key_findings": [
+    "학생들은 전반적으로 AI에 대한 의존도가 낮았으며, 많은 학생들이 AI를 학습에 효과적으로 활용하지 못했습니다.",
+    "초기 상호작용에서 부정적인 패턴이 나타나면, 이후에도 학생들이 전략을 효과적으로 바꾸지 못하는 경향이 있었습니다.",
+    "특정 행동 지표가 AI 의존도를 예측하는 데 중요한 역할을 하여, AI 도입의 행동적 메커니즘을 설명할 수 있었습니다."
+  ],
+  "implications": "학생들이 AI 도구를 효과적으로 사용하고 적절한 수준으로 의존할 수 있도록, 초기 단계에서 체계적인 안내 과정을 강화해야 합니다. 또한, 학생들이 스스로 AI에 대한 의존도를 조절할 수 있도록 설계된 '의존도 보정' 메커니즘이 탑재된 AI 인터페이스 개발이 필요합니다.",
+  "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>학생들은 AI에 의존하는가? 교육 퀴즈 상황에서의 학생-ChatGPT 대화 분석</title>\n</head>\n<body style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;padding:20px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n\n  <!-- 논문 정보 박스 -->\n  <div style=\"background:#f8f9ff;border-left:4px solid #8b5cf6;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:32px;\">\n    <p style=\"margin:0 0 12px;font-size:15px;color:#64748b;\">\n      <strong>📄 논문</strong> | Jiayu Zheng, Lingxin Hao, Kelun Lu et al.\n    </p>\n    <p style=\"margin:0 0 8px;font-size:14px;color:#64748b;\">\n      <strong>게재일:</strong> 2025. 8. 28. | \n      <strong>arXiv:</strong> <a href=\"https://arxiv.org/abs/2508.20244v1\" style=\"color:#8b5cf6;\">2508.20244v1</a>\n    </p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">\n      <a href=\"https://arxiv.org/pdf/2508.20244v1\" style=\"color:#8b5cf6;margin-right:16px;\">📥 PDF 다운로드</a>\n      <a href=\"https://arxiv.org/abs/2508.20244v1\" style=\"color:#8b5cf6;\">🔗 원문 보기</a>\n    </p>\n  </div>\n\n  <!-- 한국어 요약 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📝 한국어 요약</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">이 연구는 STEM 과목 퀴즈에서 학생들이 ChatGPT와 어떻게 상호작용하는지 분석했습니다. 학생들의 AI 도구에 대한 경험이 부족한 초기 단계에서 진행된 이 연구는, 학생들이 전반적으로 AI에 대한 의존도가 낮고 AI를 효과적으로 활용하지 못하는 경향을 발견했습니다. 또한, 초기 실패 경험 이후 전략을 효과적으로 바꾸지 못하는 등의 문제점을 확인하며, AI 교육을 위한 체계적인 안내와 적절한 의존도 조장 기능이 필요함을 강조합니다.</p>\n\n  <!-- 핵심 발견 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">💡 핵심 발견</h2>\n  <ul style=\"margin:0 0 24px;padding-left:24px;line-height:1.9;\">\n    <li style=\"margin-bottom:8px;\">학생들은 전반적으로 AI에 대한 의존도가 낮았으며, 많은 학생들이 AI를 학습에 효과적으로 활용하지 못했습니다.</li>\n    <li style=\"margin-bottom:8px;\">초기 상호작용에서 부정적인 패턴이 나타나면, 이후에도 학생들이 전략을 효과적으로 바꾸지 못하는 경향이 있었습니다.</li>\n    <li style=\"margin-bottom:8px;\">특정 행동 지표가 AI 의존도를 예측하는 데 중요한 역할을 하여, AI 도입의 행동적 메커니즘을 설명할 수 있었습니다.</li>\n  </ul>\n\n  <!-- 교육적 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">🎓 교육적 시사점</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">학생들이 AI 도구를 효과적으로 사용하고 적절한 수준으로 의존할 수 있도록, 초기 단계에서 체계적인 안내 과정을 강화해야 합니다. 또한, 학생들이 스스로 AI에 대한 의존도를 조절할 수 있도록 설계된 '의존도 보정' 메커니즘이 탑재된 AI 인터페이스 개발이 필요합니다.</p>\n\n  <!-- 원문 초록 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📋 원문 초록 (Abstract)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.8;font-style:italic;color:#374151;background:#f8f9ff;padding:16px 20px;border-radius:8px;\">This study explores how college students interact with generative AI (ChatGPT-4) during educational quizzes, focusing on reliance and predictors of AI adoption. Conducted at the early stages of ChatGPT implementation, when students had limited familiarity with the tool, this field study analyzed 315 student-AI conversations during a brief, quiz-based scenario across various STEM courses. A novel four-stage reliance taxonomy was introduced to capture students' reliance patterns, distinguishing AI competence, relevance, adoption, and students' final answer correctness. Three findings emerged. First, students exhibited overall low reliance on AI and many of them could not effectively use AI for learning. Second, negative reliance patterns often persisted across interactions, highlighting students' difficulty in effectively shifting strategies after unsuccessful initial experiences. Third, certain behavioral metrics strongly predicted AI reliance, highlighting potential behavioral mechanisms to explain AI adoption. The study's findings underline critical implications for ethical AI integration in education and the broader field. It emphasizes the need for enhanced onboarding processes to improve student's familiarity and effective use of AI tools. Furthermore, AI interfaces should be designed with reliance-calibration mechanisms to enhance appropriate reliance. Ultimately, this research advances understanding of AI reliance dynamics, providing foundational insights for ethically sound and cognitively enriching AI practices.</p>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">\n    본 요약은 AI가 작성했습니다. 원문은 위의 링크에서 확인하세요.\n  </p>\n\n</body>\n</html>",
+  "publish_result": {
+    "ghost_post_id": "69ad8fd7ff4fbf0001ab755e",
+    "public_url": "https://ubion.ghost.io/nonmun-hagsaengdeuleun-aie-yijonhaneunga-gyoyug-kwijeu-sanghwangeseoyi-hagsaeng-chatgpt-daehwa-bunseog/",
+    "status": "published",
+    "published_at": "2026-03-08T15:03:51.564Z"
+  }
+}

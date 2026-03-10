@@ -1,0 +1,26 @@
+[2026-03-05 03:40:00 UTC] AI Digest Collector Run
+
+Queries Executed:
+  1. "AI news today latest" - 5 results (completed)
+  2. "artificial intelligence industry update 2026" - 5 results (completed)
+  3. "OpenAI Google Anthropic Meta AI news" - RATE LIMITED (429)
+
+Results Processing:
+  Total retrieved: 10 results
+  Evaluated for relevance: 10
+  Duplicates (already in recent-urls): 8
+  Low relevance (<85 score): 1
+  New articles sourced (≥85 score): 1
+
+Articles Sourced:
+  ✓ 2026-03-05_03-40_trump-ai-energy-pledge.json
+    - Title: Trump Announces A.I. Industry Pledge to Pay for Power
+    - Source: The New York Times
+    - Relevance: 90/100
+    - URL: https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html
+
+Database Updated:
+  - recent-urls.json: +1 new URL, deduplicated to 44 entries
+  - Dedup window: 48 hours (URLs before 2026-03-03 03:40 would be auto-purged if exceeding 100)
+
+Status: ✓ Completed with minor rate-limiting

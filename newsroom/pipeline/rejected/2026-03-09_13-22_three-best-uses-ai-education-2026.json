@@ -1,0 +1,33 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://etcjournal.com/2026/03/02/three-best-uses-of-ai-in-education-in-2026/",
+    "title": "Three Best Uses of AI in Education in 2026",
+    "snippet": "Each use must appear across multiple high-quality syntheses between 2024 and early 2026—such as systematic reviews of AI in education, scoping reviews of generative AI in higher education, or major policy research by bodies like UNESCO.",
+    "published_date": "2026-03-02"
+  },
+  "relevance_score": 65,
+  "tags": [
+    "research",
+    "best-practices",
+    "education"
+  ],
+  "collected_at": "2026-03-09T04:22:00.000Z",
+  "rejected_at": "2026-03-09T04:35:00.000Z",
+  "reject_reason": "리뷰/오피니언, 뉴스성 낮음",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

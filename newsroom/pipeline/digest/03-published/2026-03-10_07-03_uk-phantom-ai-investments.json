@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Revealed: UK's multibillion AI drive is built on 'phantom investments'",
+    "url": "https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments",
+    "source_name": "The Guardian",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "A Guardian investigation reveals the UK's multibillion-pound AI drive is riddled with phantom investments and shaky accounting. Companies like Nscale and CoreWeave are touting massive deals to build datacenters and create thousands of jobs, but the money often isn't real—the datacenters may not be new and the jobs are unaccounted for. The government acknowledged limitations to its oversight, with no contracts in place for a £1.9bn investment.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-10T07:03:42Z"
+  },
+  "digest": {
+    "headline": "영국 AI 투자, 수십억 파운드 규모의 '유령 투자' 적발",
+    "lead": "영국 정부가 대규모로 홍보해온 AI 인프라 투자가 실제로는 존재하지 않는 것으로 드러났다. 엔비디아 계열사 NScale, CoreWeave 등이 새로 건설한다며 발표한 데이터센터는 실제로 2002년, 2015년 건설된 기존 시설일 뿐이며, 정부는 £1.9억 투자에 대한 계약 서류도 갖추지 못한 것으로 확인됐다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">영국 정부가 대규모로 홍보해온 AI 인프라 투자가 실제로는 존재하지 않는 것으로 드러났다. 엔비디아 계열사 NScale, CoreWeave 등이 새로 건설한다며 발표한 데이터센터는 실제로 2002년, 2015년 건설된 기존 시설일 뿐이며, 정부는 £1.9억 투자에 대한 계약 서류도 갖추지 못한 것으로 확인됐다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">2024년 이후 보수당과 노동당 정부는 영국을 'AI 강국'으로 만들겠다며 수십억 파운드 규모의 투자를 잇달아 발표했다. 정부는 이를 통해 새로운 데이터센터, 수천 개의 일자리, 슈퍼컴퓨터 건설 계획을 내세웠다. 가디언의 조사 결과, 런던 근교 롯톤에 짓기로 했던 슈퍼컴퓨터 부지는 2월 현재도 비계장으로 사용 중이었으며, CoreWeave가 새로 건설했다고 주장한 두 개의 데이터센터 중 실제로 새로 지어진 곳은 하나도 없었다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 조사는 전 세계적으로 발표되는 대규모 AI 투자의 신뢰성에 의문을 제기한다. 기업들이 기존 시설 임차나 장비 구입을 '투자'로 홍보하고, 정부는 충분한 감시 없이 이를 경제 성장의 증거로 활용하는 구조가 문제다. 영국 정부는 NScale의 $2.5억 투자가 '정식 계약'이 아닌 '자본 투입 의도'일 수 있다고 인정했으며, CoreWeave의 투자에 대해서도 감시 체계가 없다고 밝혔다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 인프라 투자의 실적 부족은 에듀테크 스타트업들에게 중요한 교훈을 준다. 정부 지원이나 대형 투자 발표가 실제 인프라 확충으로 이어지지 않을 수 있다는 점이다. 교육 현장에 AI 도구 도입을 계획 중인 학교나 에듀테크 기업들은 인프라 약속의 실현 가능성을 신중하게 검토해야 하며, 정부의 AI 정책 추진도 투명한 감시 체계 구축이 필수적임을 시사한다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments\" style=\"color:#FF6B35;text-decoration:none;\">The Guardian</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "technology"
+    ],
+    "meta_title": "영국 AI 투자, 수십억 파운드 규모의 '유령 투자' 적발",
+    "meta_description": "영국 정부가 발표한 대규모 AI 인프라 투자가 실제로는 존재하지 않는 것으로 드러났다. 정부 감시 체계 부족으로 인한 '유령 투자' 사태를 살펴본다.",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T07:03:42Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T07:45:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T23:36:36.649Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69af5984ff4fbf0001ab7d27",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69af5984ff4fbf0001ab7d27",
+    "public_url": "https://ubion.ghost.io/yeonggug-ai-tuja-susibeog-paundeu-gyumoyi-yuryeong-tuja-jeogbal/",
+    "status": "published",
+    "published_at": "2026-03-09T23:36:36.648Z"
+  }
+}

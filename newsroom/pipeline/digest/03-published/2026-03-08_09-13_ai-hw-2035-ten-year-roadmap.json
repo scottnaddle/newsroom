@@ -1,0 +1,54 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "AI+HW 2035: 10-Year Roadmap for AI Hardware Co-Design (UIUC, UCLA, Stanford, Nvidia, Google)",
+    "url": "https://semiengineering.com/10-year-roadmap-for-ai-hardware-uiuc-ucla-stanford-et-al/",
+    "source_name": "Semiconductor Engineering",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Researchers from UIUC, UCLA, Stanford, Nvidia, and Google published a 10-year roadmap for AI and hardware co-design. The paper targets a 1000x improvement in AI training/inference efficiency by 2035, emphasizing energy-aware self-optimizing systems spanning cloud, edge, and physical AI. It calls for coordinated national initiatives and cross-layer optimization across algorithms, architectures, and systems.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-08T09:13:00+09:00"
+  },
+  "digest": {
+    "headline": "UIUC·스탠퍼드·엔비디아·구글, AI 하드웨어 공동설계 10년 로드맵 발표",
+    "lead": "일리노이대(UIUC), UCLA, 스탠퍼드, 엔비디아, 구글 등 주요 대학·기업 연구진이 'AI+HW 2035' 로드맵을 공개했다. 2035년까지 AI 학습·추론 효율을 1,000배 향상시키는 것을 목표로, 알고리즘-아키텍처-시스템 전 계층에 걸친 공동설계 전략을 제시했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">일리노이대(UIUC), UCLA, 스탠퍼드, 엔비디아, 구글 등 주요 대학·기업 연구진이 'AI+HW 2035' 로드맵을 공개했다. 2035년까지 AI 학습·추론 효율을 1,000배 향상시키는 것을 목표로, 알고리즘-아키텍처-시스템 전 계층에 걸친 공동설계 전략을 제시했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">AI 모델의 규모가 기하급수적으로 커지면서 전력 소비와 연산 비용이 지속 불가능한 수준에 도달하고 있다. 이번 로드맵은 단순히 컴퓨팅 성능을 늘리는 것이 아니라 '줄당 지능(intelligence per joule)'을 극대화하는 방향으로 패러다임을 전환해야 한다고 강조한다. 클라우드, 에지, 물리적 AI를 아우르는 에너지 인식 자기 최적화 시스템이 핵심 비전이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">논문은 학계·산업계·정부의 조율된 국가적 이니셔티브, 공유 인프라 구축, 인력 양성, 공공-민간 파트너십을 구체적 행동 과제로 제시했다. 특히 AI 인프라의 민주화—소수 대기업을 넘어 더 많은 기관이 첨단 AI에 접근할 수 있는 환경—를 10년 후 성공의 핵심 지표로 정의한 점이 주목할 만하다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 학습·추론 효율이 1,000배 향상되면 소규모 에듀테크 스타트업도 고성능 AI 튜터나 맞춤형 학습 모델을 합리적인 비용으로 운영할 수 있게 된다. 에지 AI 기술이 발전하면 인터넷이 불안정한 교실 환경에서도 온디바이스 AI 학습 도구 구현이 가능해져, 교육 접근성 격차 해소에 기여할 수 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://semiengineering.com/10-year-roadmap-for-ai-hardware-uiuc-ucla-stanford-et-al/\" style=\"color:#FF6B35;text-decoration:none;\">Semiconductor Engineering</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "research",
+      "nvidia",
+      "google"
+    ],
+    "meta_title": "AI+HW 2035: 주요 대학·기업 공동 AI 하드웨어 10년 로드맵 발표",
+    "meta_description": "UIUC, 스탠퍼드, 엔비디아, 구글 연구진이 2035년까지 AI 효율 1,000배 향상을 목표로 한 AI-하드웨어 공동설계 로드맵을 공개했다.",
+    "word_count": 500
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-08T09:13:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-08T00:40:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T00:54:11.173Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69acc89cff4fbf0001ab7488",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69acc89cff4fbf0001ab7488",
+    "public_url": "https://insight.ubion.global/uiuc-seutaenpeodeu-enbidia-gugeul-ai-hadeuweeo-gongdongseolgye-10nyeon-rodeumaeb-balpyo/",
+    "status": "published",
+    "published_at": "2026-03-08T00:53:48.000Z"
+  }
+}

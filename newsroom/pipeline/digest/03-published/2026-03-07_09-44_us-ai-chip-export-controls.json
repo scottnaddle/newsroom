@@ -1,0 +1,54 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Nvidia, AMD Global AI Chip Sales Would Need US Permit Under Draft Rule",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-05/us-drafts-rules-for-sweeping-power-over-nvidia-s-global-sales",
+    "source_name": "Bloomberg",
+    "language": "en",
+    "relevance_score": 92,
+    "summary": "US Commerce Department drafted regulations that would restrict AI chip shipments to anywhere in the world without American approval, giving Washington broad control over whether other countries can build AI facilities.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-07T09:44:00+09:00"
+  },
+  "digest": {
+    "headline": "미, 엔비디아·AMD 전 세계 AI 칩 판매에 '사전 허가제' 도입 검토",
+    "lead": "미국 상무부가 엔비디아와 AMD의 AI 칩을 전 세계 어디로든 수출하려면 미국 정부 승인을 받도록 하는 규정 초안을 마련했다. 워싱턴이 타국의 AI 시설 구축 여부에 대한 광범위한 통제권을 확보하려는 시도로 풀이된다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 상무부가 엔비디아와 AMD의 AI 칩을 전 세계 어디로든 수출하려면 미국 정부 승인을 받도록 하는 규정 초안을 마련했다. 워싱턴이 타국의 AI 시설 구축 여부에 대한 광범위한 통제권을 확보하려는 시도로 풀이된다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">이번 규정 초안은 기존 대중국 수출 제한을 넘어 전 세계 모든 국가로의 AI 칩 수출에 미국 정부의 사전 허가를 요구하는 내용을 담고 있다. 트럼프 행정부가 국가안보 차원에서 AI 기술 유출을 방지하려는 의도로 해석된다. 엔비디아는 이미 중국 시장용 칩 생산을 중단하고 TSMC 생산 능력을 다른 지역으로 재조정한 상태다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 규정이 시행되면 미국은 사실상 전 세계 AI 인프라 구축의 '게이트키퍼' 역할을 하게 된다. 특정 국가가 AI 데이터센터를 건설하려면 미국의 승인을 받아야 한다는 의미다. 엔비디아는 이에 대응해 AI 광학 분야에 40억 달러를 투자하며 루멘텀·코히어런트와 전략적 파트너십을 체결했다. 글로벌 AI 기업들은 공급망 다변화와 지역별 생산 기지 확보에 나설 것으로 예상된다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">미국의 AI 칩 수출 통제 강화는 한국을 포함한 해외 에듀테크 기업들의 AI 인프라 확보에 변수가 될 수 있다. 특히 국내 AI 교육 플랫폼들이 최신 GPU를 적시에 도입하지 못할 경우 서비스 경쟁력 저하 우려가 있다. 반면 국산 AI 칩 개발 가속화나 클라우드 기반 AI 서비스 활용 확대로 이어질 가능성도 있다. 규제 동향 모니터링이 필수적이다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.bloomberg.com/news/articles/2026-03-05/us-drafts-rules-for-sweeping-power-over-nvidia-s-global-sales\" style=\"color:#FF6B35;text-decoration:none;\">Bloomberg</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "nvidia",
+      "amd",
+      "export-controls"
+    ],
+    "meta_title": "미국, 엔비디아·AMD AI칩 전 세계 판매에 사전 허가제 검토",
+    "meta_description": "미 상무부가 엔비디아·AMD의 전 세계 AI 칩 수출에 미국 정부 승인을 요구하는 규정 초안을 마련했다. 글로벌 AI 인프라 통제권 확보 움직임.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T09:44:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T09:47:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T01:01:10.412Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ab78d6ff4fbf0001ab71ec",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ab78d6ff4fbf0001ab71ec",
+    "public_url": "https://ubion.ghost.io/mi-enbidia-amd-jeon-segye-ai-cib-panmaee-sajeon-heogaje-doib-geomto/",
+    "status": "published",
+    "published_at": "2026-03-07T01:01:10.412Z"
+  }
+}

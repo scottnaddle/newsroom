@@ -1,0 +1,155 @@
+{
+  "timestamp": "2026-03-06T04:01:00+09:00",
+  "cron_job": "editor-desk-30min",
+  "status": "healthy",
+  "execution": {
+    "step_1_sourced": "✅ 완료 — 01-sourced/ 확인 (파일 없음)",
+    "step_2_fact_checked": "✅ 완료 — 05-fact-checked/ 확인 (파일 없음)",
+    "step_3_desk_approved": "✅ 완료 — 06-desk-approved/ 확인 (파일 없음)",
+    "step_4_copy_edited": "✅ 완료 — 07-copy-edited/ 확인 (파일 없음)",
+    "step_5_report": "✅ 완료 — 파이프라인 통계 리포트 생성"
+  },
+  "pipeline_status": {
+    "01_sourced": {
+      "count": 0,
+      "action": "—"
+    },
+    "02_assigned": {
+      "count": 0,
+      "action": "—"
+    },
+    "03_reported": {
+      "count": 0,
+      "action": "—"
+    },
+    "04_drafted": {
+      "count": 0,
+      "action": "—"
+    },
+    "05_fact_checked": {
+      "count": 0,
+      "action": "—"
+    },
+    "06_desk_approved": {
+      "count": 0,
+      "action": "—"
+    },
+    "07_copy_edited": {
+      "count": 0,
+      "action": "—"
+    },
+    "08_published": {
+      "count": 76,
+      "action": "✅ 발행 준비 완료"
+    }
+  },
+  "queue_status": {
+    "waiting_in_queue": 7,
+    "items": [
+      {
+        "id": "1741326420002-gumi-defense-ai",
+        "title": "경북도, 방산 인공지능 전문인력 양성 박차",
+        "relevance_score": 72,
+        "status": "우선 배정 대기",
+        "days_waiting": "1일",
+        "priority": "high"
+      },
+      {
+        "id": "20260305-223631-469935",
+        "title": "AI가 혁신하는 교육 환경 전략",
+        "relevance_score": 72,
+        "status": "우선 배정 대기",
+        "days_waiting": "1일",
+        "priority": "high"
+      },
+      {
+        "id": "1741326420003-daegu-bootcamp",
+        "title": "대구대, 교육부 첨단산업 인재양성 부트캠프 인공지능 분야 선정",
+        "relevance_score": 71,
+        "status": "우선 배정 대기",
+        "days_waiting": "1일",
+        "priority": "high"
+      },
+      {
+        "id": "1772710577-001",
+        "title": "Hwang Hyuna of Korea University of Technology and Education Publishes AI Career Counseling Paper",
+        "relevance_score": 68,
+        "status": "표준 배정 대기",
+        "days_waiting": "1일"
+      },
+      {
+        "id": "1741271193-clg-consortium",
+        "title": "South Korean Universities Form Asia AI Research Consortium",
+        "relevance_score": 68,
+        "status": "표준 배정 대기",
+        "days_waiting": "1일"
+      },
+      {
+        "id": "1741352160-002",
+        "title": "2026학년도 AI기반 기초과목 진단 및 맞춤형 학습 프로그램",
+        "relevance_score": 68,
+        "status": "표준 배정 대기",
+        "days_waiting": "1일"
+      },
+      {
+        "id": "1741271193-politico-love",
+        "title": "The Country That's Madly in Love With AI",
+        "relevance_score": 62,
+        "status": "표준 배정 대기",
+        "days_waiting": "1일",
+        "note": "신뢰도 낮음 — 추가 검증 권장"
+      }
+    ],
+    "reason": "신뢰도 50-74점 범위 — 우선순위 기반 배정"
+  },
+  "bottleneck": "none",
+  "action_needed": "publisher-agent 실행 (76개 기사 발행)",
+  "summary": {
+    "pipeline_flow": "✅ OPTIMAL",
+    "in_progress": "0개 (병목 없음)",
+    "ready_to_publish": "76개",
+    "queued_awaiting_assignment": "7개",
+    "rejected": "50개",
+    "total_processed": "133개"
+  },
+  "notes": [
+    "✅ 파이프라인 정상 가동 (병목 없음)",
+    "⏳ 7개 대기 기사 (신뢰도 50-74)",
+    "📊 76개 발행 준비 완료 → Ghost CMS Publisher 실행 필요",
+    "⭐ 신뢰도 72점 기사 2개 우선 배정 권장 (1일 대기)"
+  ],
+  "next_actions": [
+    {
+      "priority": "HIGH",
+      "action": "📤 Ghost CMS Publisher 실행",
+      "target": "08-published/ (76개 기사)",
+      "owner": "publisher-agent",
+      "deadline": "ASAP",
+      "expected_impact": "AskedTech 메인 기사 대량 발행"
+    },
+    {
+      "priority": "HIGH",
+      "action": "📋 우선 배정 (신뢰도 72점)",
+      "target": "gumi-defense-ai, ai-education-strategy",
+      "owner": "writer-agent",
+      "deadline": "다음 배정 턴",
+      "note": "1일 대기 → 즉시 취재 시작"
+    },
+    {
+      "priority": "NORMAL",
+      "action": "📋 표준 배정 (신뢰도 68점)",
+      "target": "3개 기사 (대학 교육 사례)",
+      "owner": "writer-agent",
+      "deadline": "Writer 리소스 확보 시"
+    }
+  ],
+  "health_check": "✅ ALL PASS",
+  "recommendations": [
+    "✅ 파이프라인 정상 — 현재 진행 중인 기사 없음 (병목 0개)",
+    "⚠️ 76개 발행 준비 → Publisher 실행 우선 (게재 지연 방지)",
+    "📝 우선 배정 큐 2개 (72점) → 1일 초과 대기",
+    "💡 신뢰도 72점 기사는 가치 높음 — Writer 가용 시 즉시 배정"
+  ],
+  "warnings": [],
+  "ok_status": true
+}

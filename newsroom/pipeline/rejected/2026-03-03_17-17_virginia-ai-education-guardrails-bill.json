@@ -149,7 +149,28 @@
       "action": "killed",
       "timestamp": "2026-03-04T12:23:00+01:00",
       "note": "KILL — 최대 수정 횟수 초과 (revision_count=2). 2개 플래그 미수정: (1) 블록인용문 '이는 교육적 위기다' (confidence 55, UNVERIFIABLE) — Rasoul 원문에 없음. (2) 학생 86% vs CDT 50% 수치 출처 혼재 (confidence 62). 3차 수정 불가."
+    },
+    {
+      "agent": "editor-desk",
+      "action": "published",
+      "timestamp": "2026-03-06T05:32:35.714424Z",
+      "note": "copy-edited 완료, 발행 준비"
     }
   ],
-  "revision_count": 2
+  "revision_count": 2,
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "본문 1263자 (1600자 미만)"
+  }
 }

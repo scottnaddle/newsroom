@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Broadcom Reportedly Eyes $100B AI Chip Revenue in 2027, Backed by 6 Key Clients Like Google",
+    "url": "https://www.trendforce.com/news/2026/03/05/news-broadcom-reportedly-eyes-100b-ai-chip-revenue-in-2027-backed-by-six-key-clients-including-google-meta/",
+    "source_name": "TrendForce",
+    "language": "en",
+    "relevance_score": 82,
+    "summary": "Broadcom projects AI chip revenue exceeding $100 billion in 2027, backed by major tech firms including Google, Meta, Anthropic, and OpenAI. The company plans to deliver 1 gigawatt of TPUs to Anthropic in 2026 and OpenAI's first custom AI chip in 2027, positioning Broadcom as a key beneficiary of the AI infrastructure expansion.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-06T00:09:00Z"
+  },
+  "digest": {
+    "headline": "브로드컴, 2027년 AI칩 매출 1000억 달러 목표…구글·메타·앤스로픽 등이 주요 수주처",
+    "lead": "칩 제조사 브로드컴(Broadcom)이 2027년 AI칩 매출이 1000억 달러를 넘을 것으로 전망했다. 구글, 메타, 앤스로픽, OpenAI 등 빅테크 기업들이 주요 수주처가 되면서 브로드컴이 AI 인프라 경쟁의 최대 수혜자로 떠오르고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">⚡ AI Digest</span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">칩 제조사 브로드컴(Broadcom)이 2027년 AI칩 매출이 1000억 달러를 넘을 것으로 전망했다. 구글, 메타, 앤스로픽, OpenAI 등 빅테크 기업들이 주요 수주처가 되면서 브로드컴이 AI 인프라 경쟁의 최대 수혜자로 떠오르고 있다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">AI 기업들의 인프라 투자가 폭발적으로 늘어나면서 AI칩 시장도 급속도로 커지고 있다. 브로드컴은 구글에 대규모 AI칩을 공급하고, 2026년 중으로 앤스로픽에 1기가와트급 AI칩(TPU)을 배송할 계획이다. 또한 2027년에는 OpenAI의 첫 커스텀 AI칩을 납품할 예정이다. 이런 거대 프로젝트들이 모여 브로드컴의 AI칩 사업이 전 세계 반도체 시장에서 핵심 축이 되고 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이는 AI 인프라가 차세대 경제의 핵심이 되었음을 의미한다. 브로드컴 같은 칩 공급사는 빅테크 기업들의 성장에 직결되어 있고, 이들의 수익성도 AI 산업의 확장과 비례한다. 특히 중국의 반도체 수출 제한으로 한정된 칩 공급 환경에서 브로드컴의 위상은 더욱 강화될 것으로 보인다. AI 기술 싸움이 곧 '누가 칩을 더 빨리, 싸게 확보하느냐'의 싸움이 되었다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI칩 가격의 하락과 가용성 확대는 교육 AI 스타트업에 직접적인 영향을 미친다. 인프라 비용이 낮아질수록 더 많은 에듀테크 기업이 고급 AI 기능을 저렴하게 제공할 수 있게 된다. 다만 현재는 빅테크 기업들이 칩을 대량 독점하는 상황이므로, 중소 스타트업이 경쟁력 있는 AI 인프라를 확보하기까지는 여전히 시간이 필요하다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.trendforce.com/news/2026/03/05/news-broadcom-reportedly-eyes-100b-ai-chip-revenue-in-2027-backed-by-six-key-clients-including-google-meta/\" style=\"color:#FF6B35;text-decoration:none;\">TrendForce</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "브로드컴 AI칩 매출 1000억 달러 목표, 2027년 달성 가능",
+    "meta_description": "AI 인프라 경쟁 가열. 브로드컴이 구글·메타·OpenAI와 맺은 거대 계약의 의미는?",
+    "word_count": 558
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T00:09:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T09:12:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T00:31:34.237Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aa2066ff4fbf0001ab6d84",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aa2066ff4fbf0001ab6d84",
+    "public_url": "https://ubion.ghost.io/beurodeukeom-2027nyeon-aicib-maecul-1000eog-dalreo-mogpyo-gugeul-meta-aenseuropig-deungi-juyo-sujuceo/",
+    "status": "published",
+    "published_at": "2026-03-06T00:31:34.000Z"
+  }
+}

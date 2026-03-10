@@ -23,5 +23,20 @@
     "title": "윤건영 교육감·김창규 제천시장, 'AI 시대 학부모와 IB교육 정책 간담회'",
     "queued_at": "2026-03-04T23:07:04Z",
     "note": "지역 교육정책, 중복성 검토 필요"
+  },
+  "anthropic-ai-learning-2026-03-05": {
+    "score": 72,
+    "file": "01-sourced/2026-03-05_16-03_anthropic-launches-free-ai.json",
+    "title": "Anthropic Launches Free AI Learning Platform With Courses On Claude, AI Fluency And Developer Tools",
+    "queued_at": "2026-03-05T07:24:58.248Z",
+    "note": "Relevance 72점: 대기 중 (50-74 범위)"
+  },
+  "catholic-ai-learning-2026-03-05": {
+    "score": 68,
+    "file": "01-sourced/2026-03-05_21-36_catholic-university-ai-learning.json",
+    "title": "2026학년도 AI기반 기초과목 진단 및 맞춤형 학습 프로그램",
+    "source_name": "가톨릭대학교",
+    "queued_at": "2026-03-05T21:36:00+09:00",
+    "note": "신뢰도 68점 (50-74 대기)"
   }
 }

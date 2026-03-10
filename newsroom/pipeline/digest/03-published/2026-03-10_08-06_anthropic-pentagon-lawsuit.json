@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Anthropic files lawsuit to block Pentagon from national security blacklist",
+    "url": "https://www.reuters.com/technology/",
+    "source_name": "Reuters",
+    "language": "en",
+    "relevance_score": 89,
+    "summary": "Anthropic escalates its legal battle with the U.S. Department of Defense by filing a lawsuit to prevent its placement on a national security blacklist. The case highlights ongoing tensions between AI companies and government security concerns regarding AI development and deployment policies.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-10T08:06:00Z"
+  },
+  "digest": {
+    "headline": "Anthropic, 미국 국방부의 국가안보 블랙리스트 포함 저지 소송 제기",
+    "lead": "AI 안전 연구 회사 Anthropic이 미국 국방부의 국가안보 블랙리스트 포함을 막기 위해 소송을 제기했다. 이는 AI 기업과 정부 간 보안 정책을 둘러싼 긴장 관계의 심화를 드러낸다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">AI 안전 연구 회사 Anthropic이 미국 국방부의 국가안보 블랙리스트 포함을 막기 위해 소송을 제기했다. 이는 AI 기업과 정부 간 보안 정책을 둘러싼 긴장 관계의 심화를 드러낸다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Anthropic은 Claude 등 안전 중심의 AI 모델 개발로 알려진 회사다. 미국 국방부가 보안 우려를 이유로 블랙리스트 포함을 추진하자, 이를 부당하다고 판단해 법적 대응에 나섰다. AI 기술의 국방 및 보안 활용을 둘러싼 정부와 산업계의 의견 차이가 법정 분쟁으로 확대되는 상황이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 사건은 AI 규제의 다층화를 예고한다. 기술 혁신과 국가안보 우려 사이의 균형 문제가 미국뿐 아니라 전 세계 AI 정책에 영향을 미칠 것으로 보인다. 향후 AI 기업들의 정부 계약, 국제 협력, 기술 공개 범위 등이 더욱 엄격히 심사될 가능성이 높다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">교육용 AI 솔루션을 제공하는 에듀테크 스타트업들은 향후 정부 규제 및 국가안보 심사 강화에 대비해야 한다. 특히 학생 데이터 보호, AI 모델의 국가 기술 규제 대상 여부, 국제 교육 협력 시 정부 승인 절차 등이 더욱 복잡해질 것으로 예상된다. 투명한 개발 과정과 보안 기준의 선제적 구축이 필수다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.reuters.com/technology/\" style=\"color:#FF6B35;text-decoration:none;\">Reuters</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "anthropic"
+    ],
+    "meta_title": "Anthropic, 국방부 블랙리스트 소송 제기",
+    "meta_description": "Anthropic이 미국 국방부 국가안보 블랙리스트 포함을 막기 위해 소송을 제기. AI 규제와 국가안보 정책의 갈등 심화.",
+    "word_count": 570
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T08:06:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T08:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T23:36:37.048Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69af5984ff4fbf0001ab7d39",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69af5984ff4fbf0001ab7d39",
+    "public_url": "https://ubion.ghost.io/anthropic-migug-gugbangbuyi-guggaanbo-beulraegriseuteu-poham-jeoji-sosong-jegi/",
+    "status": "published",
+    "published_at": "2026-03-09T23:36:37.048Z"
+  }
+}

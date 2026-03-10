@@ -1,0 +1,33 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.joongang.co.kr/article/25409088",
+    "title": "신입생 전원에 최신 노트북…'국내 첫 사내대학원' LG AI대학원 출범",
+    "snippet": "교육부 공식 인가 받은 LG AI대학원에 LG그룹 임직원 17명이 1기로 입학. 국내 최초 사내대학원.",
+    "published_date": "2026-03-04"
+  },
+  "relevance_score": 70,
+  "tags": [
+    "university",
+    "corporate",
+    "LG"
+  ],
+  "collected_at": "2026-03-07T22:13:14.911Z",
+  "rejection_reason": "duplicate: already published",
+  "rejected_at": "2026-03-08T07:37:00+09:00",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

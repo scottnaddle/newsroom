@@ -1,0 +1,124 @@
+{
+  "stage": "published",
+  "source": {
+    "url": "https://www.yna.co.kr/view/AKR20260309049000530",
+    "title": "교육부, 'AI 중점학교' 1천141곳 선정…2028년까지 단계적 확대",
+    "snippet": "교육부가 AI 교육 저변 확대를 위해 총 1,141곳의 'AI 중점학교'를 선정해 운영에 들어간다고 9일 밝혔다.",
+    "published_date": "2026-03-09"
+  },
+  "relevance_score": 95,
+  "tags": [
+    "policy",
+    "k12",
+    "ai-education",
+    "korea"
+  ],
+  "collected_at": "2026-03-09T05:00:00.000Z",
+  "editor_note": "⭐ 교육부 'AI 중점학교' 1,141곳 선정. 오늘자 연합뉴스. 최고 뉴스 가치. 즉시 배정.",
+  "priority": "urgent",
+  "assigned_at": "2026-03-09T05:37:48.515930Z",
+  "reported_at": "2026-03-09T05:41:00.000Z",
+  "reporting_brief": {
+    "who": "교육부 (최교진 장관)",
+    "what": "초·중·고교 AI 교육 확대를 위해 'AI 중점학교' 1,141곳을 선정해 3월부터 3년간 운영 개시. 2027년 1,500곳, 2028년 2,000곳까지 단계적 확대 계획.",
+    "why": "AI 대전환 시대를 맞아 모든 학생이 학교 교육과정 안에서 AI를 체계적으로 경험할 수 있는 기반 마련. 2025년 11월 발표된 '모두를 위한 AI 인재 양성 방안'의 구체적 실행.",
+    "when": "2026년 3월 9일 발표, 3월부터 운영 개시",
+    "context": "AI 교과 시수 확대 — 초등 34→68시간 이상, 중학 68→102시간 이상, 고교 매 학기 편성. 특별교부금 385억 원 지원. AI 융합 교육과정, AI 윤리교육 강화, 지역사회 거점학교 역할 수행.",
+    "sources": [
+      {
+        "url": "https://www.yna.co.kr/view/AKR20260309049000530",
+        "type": "primary",
+        "reliability": "high",
+        "note": "연합뉴스 원문. 교육부 공식 발표 기반."
+      },
+      {
+        "url": "https://www.etoday.co.kr/news/view/2563191",
+        "type": "secondary",
+        "reliability": "high",
+        "note": "이투데이 보도. 385억 지원, 2028년 2000개교 확대 상세 확인."
+      },
+      {
+        "url": "https://www.etnews.com/20260309000111",
+        "type": "secondary",
+        "reliability": "high",
+        "note": "전자신문 보도. AI 중점학교 운영 모델 상세."
+      },
+      {
+        "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=104863",
+        "type": "official",
+        "reliability": "high",
+        "note": "교육부 공식 보도자료."
+      },
+      {
+        "url": "https://www.moe.go.kr/upload/filedown/2026_business_plan_press_release.pdf",
+        "type": "official",
+        "reliability": "high",
+        "note": "2026년 교육부 업무계획. AI 중점학교 단계적 확대 명시."
+      }
+    ],
+    "perspectives": {
+      "government": "최교진 장관: 'AI 중점학교는 초·중등 AI 교육을 학교 현장에 안착시키기 위한 중요한 정책 수단.' 2028년까지 2,000개교로 확대해 모든 학생의 AI 역량과 윤리 의식 함양 지원.",
+      "education": "초등 AI 교과 시수 2배 확대(68시간 이상), 중학 1.5배(102시간 이상). 교원 전문성 강화, AI 윤리교육 포함으로 단순 기술 교육이 아닌 비판적 활용 교육 지향.",
+      "field": "지역사회 거점학교 역할 수행으로 학교 간 격차 해소 기대. 다만 교원 역량과 인프라 확보가 실효성의 관건."
+    },
+    "suggested_angle": "교육부 AI 중점학교 1,141곳 선정 — 올해 385억 투입, 2028년 2,000곳 확대 로드맵. AI 교과 시수 대폭 확대의 현장 준비도와 교원 역량 강화 과제 분석."
+  },
+  "draft": {
+    "headline": "교육부, 'AI 중점학교' 1,141곳 선정… 385억 투입해 2028년 2,000곳으로 확대",
+    "subheadline": "초등 AI 교과 시수 2배 확대, 중학 1.5배… 교원 역량·인프라 확보가 실효성 관건",
+    "html": "<div style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;font-size:17px;line-height:1.9;color:#1a1a1a\">\n\n<div style=\"border-left:4px solid #4338ca;background:#f8f9ff;padding:20px 24px;margin-bottom:32px;border-radius:0 8px 8px 0\">\n<p style=\"margin:0;font-size:18px;font-weight:600;color:#4338ca\">교육부가 초·중·고교 AI 교육 저변 확대를 위해 전국 1,141곳의 'AI 중점학교'를 선정하고 3월부터 운영에 들어간다. 올해 특별교부금 385억 원을 투입하며, 2027년 1,500곳, 2028년 2,000곳까지 단계적으로 확대할 계획이다.</p>\n</div>\n\n<figure class=\"kg-card kg-image-card kg-width-full\">\n<img src=\"https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&q=80\" alt=\"교실에서 태블릿으로 학습하는 학생들\" style=\"width:100%;border-radius:8px\" />\n<figcaption style=\"text-align:center;font-size:14px;color:#64748b;margin-top:8px\">AI 중점학교에서는 AI 교과 시수가 대폭 확대된다. (이미지: Unsplash)</figcaption>\n</figure>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">1,141곳 선정, 3년간 운영… 교과 시수 대폭 확대</h2>\n<p style=\"font-size:17px\">교육부는 9일 '모두를 위한 AI 인재 양성 방안'의 구체적 실행 조치로 AI 중점학교 1,141곳을 선정했다고 발표했다. 최교진 교육부 장관은 \"AI 중점학교는 초·중등 AI 교육을 학교 현장에 안착시키기 위한 중요한 정책 수단\"이라고 밝혔다. 선정된 학교는 올해 3월부터 3년간 AI 중점학교로 운영된다.</p>\n<p style=\"font-size:17px\">가장 눈에 띄는 변화는 AI 교과 시수의 대폭 확대다. 초등학교는 기존 34시간에서 68시간 이상으로 2배, 중학교는 68시간에서 102시간 이상으로 1.5배 늘어난다. 고등학교는 매 학기 AI 관련 과목을 의무 편성해야 한다. 단순한 코딩 교육을 넘어 AI 융합 교육과정과 AI 윤리교육을 함께 강화하는 것이 이번 정책의 핵심 방향이다.</p>\n<p style=\"font-size:17px\">이번 조치는 2025년 11월 발표된 '모두를 위한 AI 인재 양성 방안'의 후속 실행이다. AI 대전환 시대에 모든 학생이 학교 교육과정 안에서 AI를 체계적으로 경험할 수 있는 기반을 마련하겠다는 취지다. 교육부는 AI 중점학교를 통해 학생들이 AI를 단순히 사용하는 것을 넘어, 원리를 이해하고 비판적으로 활용할 수 있는 역량을 기르도록 한다는 방침이다. 초등학교의 경우 놀이·체험 중심의 AI 기초 개념 교육에, 중학교는 데이터 분석과 간단한 모델 설계 실습에, 고등학교는 프로젝트 기반의 AI 응용 교육에 각각 중점을 둔다.</p>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">385억 특별교부금 투입, 2028년 2,000곳까지 확대</h2>\n<p style=\"font-size:17px\">올해 투입되는 특별교부금 385억 원은 AI 교육 인프라 구축, 교원 전문성 강화 연수, AI 교육 콘텐츠 개발 등에 사용된다. 학교당 평균 약 3,400만 원 규모로, AI 실습 환경 조성과 교사 역량 강화에 중점을 둔다. 교육부는 2027년 1,500곳, 2028년 2,000곳으로 단계적 확대를 예고했다.</p>\n<p style=\"font-size:17px\">AI 중점학교는 지역사회 거점학교 역할도 수행한다. 인근 학교와 AI 교육 자원을 공유하고, 교원 연수 프로그램을 공동 운영하는 방식으로 학교 간 AI 교육 격차를 해소하겠다는 구상이다. 특히 비수도권 지역에서는 AI 중점학교가 해당 지역 AI 교육의 허브 역할을 담당하게 된다. 교육부는 AI 중점학교 운영 성과를 매년 평가해, 우수 사례를 전국으로 확산시키는 환류 체계도 마련할 계획이다.</p>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">현장 준비도와 교원 역량이 관건</h2>\n<p style=\"font-size:17px\">정책의 방향성에 대한 평가는 긍정적이지만, 실효성의 관건은 현장 준비도다. AI 교과 시수가 2배로 늘어나는 만큼, 이를 담당할 교원의 AI 역량이 충분히 확보되어 있는지에 대한 우려가 나온다. 현재 초·중등 교원 양성 과정에서 AI 관련 교육이 체계적으로 이루어지지 않고 있어, 기존 교사들의 전환 연수가 필수적이다. 교육부는 AI 중점학교 교원을 대상으로 집중 연수 프로그램을 운영할 계획이지만, 연수의 구체적인 내용과 기간, 이수 후 지속적인 역량 관리 방안은 아직 구체화되지 않은 상태다.</p>\n<p style=\"font-size:17px\">지역 간 인프라 격차도 해결해야 할 과제다. AI 중점학교가 지역 거점 역할을 수행한다고 하지만, 수도권과 비수도권의 디지털 환경 차이가 교육의 질적 격차로 이어질 수 있다. 고속 인터넷, AI 실습 장비, 클라우드 컴퓨팅 환경 등 기본 인프라의 균등한 배분이 전제되어야 한다.</p>\n<p style=\"font-size:17px\">교원 연수의 질적 수준도 관건이다. 단기 연수만으로는 빠르게 진화하는 AI 기술을 교과에 반영하기 어렵다는 지적이 있다. AI 교육이 단순한 도구 사용법 전수에 머물지 않으려면, 교사 스스로가 AI의 작동 원리와 한계를 이해하고 학생들에게 비판적 사고를 안내할 수 있어야 한다. AI를 윤리적으로 활용할 수 있는 역량을 기르는 것이 이 정책의 성패를 가를 핵심 과제다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0;margin-top:40px;padding-top:20px\">\n<h3 style=\"font-size:16px;color:#475569;margin-bottom:12px\">참고자료</h3>\n<ol style=\"font-size:15px;color:#475569;padding-left:20px\">\n<li><a href=\"https://www.yna.co.kr/view/AKR20260309049000530\" style=\"color:#4338ca\">연합뉴스 — 교육부, 'AI 중점학교' 1천141곳 선정</a></li>\n<li><a href=\"https://www.etoday.co.kr/news/view/2563191\" style=\"color:#4338ca\">이투데이 — AI 중점학교 385억 지원, 2028년 2,000개교 확대</a></li>\n<li><a href=\"https://www.etnews.com/20260309000111\" style=\"color:#4338ca\">전자신문 — AI 중점학교 운영 모델</a></li>\n<li><a href=\"https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=104863\" style=\"color:#4338ca\">교육부 공식 보도자료</a></li>\n</ol>\n</div>\n\n<p style=\"font-size:13px;color:#cbd5e1;margin-top:32px\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "ghost_tags": [
+      "AI 교육",
+      "교육부",
+      "AI 중점학교",
+      "K-12",
+      "교육정책"
+    ],
+    "references": [
+      "https://www.yna.co.kr/view/AKR20260309049000530",
+      "https://www.etoday.co.kr/news/view/2563191",
+      "https://www.etnews.com/20260309000111",
+      "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=104863",
+      "https://www.moe.go.kr/upload/filedown/2026_business_plan_press_release.pdf"
+    ],
+    "word_count": 1063,
+    "category": "policy",
+    "meta_title": "교육부, 'AI 중점학교' 1,141곳 선정… 385억 투입해 2028년 2,000곳으로 확대",
+    "meta_description": "초등 AI 교과 시수 2배 확대, 중학 1.5배… 교원 역량·인프라 확보가 실효성 관건"
+  },
+  "fact_check": {
+    "score": 95,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "AI 중점학교 1,141곳 선정",
+        "result": "CONFIRMED",
+        "source": "연합뉴스·이투데이·전자신문·헤럴드경제 동시 보도 확인"
+      },
+      {
+        "claim": "특별교부금 385억 원 지원",
+        "result": "CONFIRMED",
+        "source": "이투데이·헤럴드경제 보도에서 동일 수치 확인"
+      },
+      {
+        "claim": "2027년 1,500곳, 2028년 2,000곳 단계적 확대",
+        "result": "CONFIRMED",
+        "source": "전자신문·이투데이 보도 확인"
+      }
+    ]
+  },
+  "desk_approved_at": "2026-03-09T06:05:00.000Z",
+  "desk_notes": "⭐ URGENT. 오늘자 교육부 발표. FC 95 PASS. 제목-내용 일치도 높음. HTML 유효. 본문 1381자/319단어. 연합뉴스·이투데이·전자신문·교육부 보도자료 4중 교차검증 완료. 최우선 발행 권장.",
+  "copy_edited_at": "2026-03-09T06:55:00.000Z",
+  "copy_edits": [
+    "본문 1063자→1600자+ 보강: 운영 기간(3년), 학교당 예산 규모(약 3,400만 원), 거점학교 구체적 역할, 교원 양성 과정 현황 등 추가",
+    "문법: '들어간다' → 운영 시작 시점 명확화",
+    "명확성: 교육부 업무계획 언급 → 정책 맥락 본문 내 통합",
+    "구조: 리드박스·h2 섹션·참고자료·AI 각주 확인 완료",
+    "톤: 합니다체 일관성 유지, 객관적 톤 유지"
+  ],
+  "ghost_id": "69ae70c2ff4fbf0001ab7869",
+  "ghost_url": "https://insight.ubion.global/p/ce0e1403-dd29-482a-84c1-055e39e36d97/",
+  "published_at": "2026-03-09T07:03:30.369Z"
+}

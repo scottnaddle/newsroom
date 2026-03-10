@@ -1,0 +1,33 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://iowacapitaldispatch.com/briefs/university-of-northern-iowa-adds-two-new-artificial-intelligence-majors/",
+    "title": "University of Northern Iowa adds two new artificial intelligence majors",
+    "snippet": "UNI adds AI majors preparing students for graduate study and industries including technology, finance, health care, manufacturing, business and government.",
+    "published_date": "2026-03-07"
+  },
+  "relevance_score": 66,
+  "tags": [
+    "higher-education",
+    "AI-major",
+    "US"
+  ],
+  "collected_at": "2026-03-09T06:00:00.000Z",
+  "rejection_reason": "미국 소규모 대학 AI 전공 신설. 한국 독자 관심도 낮고, 이미 유사 주제(한국 대학 AI 단과대) 파이프라인에 존재.",
+  "rejected_at": "2026-03-09T06:05:00.000Z",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Ben Affleck sells his AI postproduction startup InterPositive to Netflix",
+    "url": "https://www.theguardian.com/technology/2026/mar/06/ben-affleck-sells-ai-postproduction-startup-interpositive-to-netflix",
+    "source_name": "The Guardian",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Netflix has acquired Ben Affleck's AI postproduction startup InterPositive for an undisclosed sum. The company builds AI tools trained on a production's own footage to handle tasks like reframing shots, adjusting lighting, and removing stunt wires — not generative AI from text prompts. The deal signals Hollywood's growing embrace of AI for production workflows.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-07T20:58:00+09:00"
+  },
+  "digest": {
+    "headline": "넷플릭스, 벤 애플렉의 AI 후반작업 스타트업 '인터포지티브' 인수",
+    "lead": "넷플릭스가 배우이자 감독인 벤 애플렉이 설립한 AI 후반작업 스타트업 인터포지티브(InterPositive)를 인수했다. 이 회사는 촬영 원본 영상을 학습해 화면 리프레이밍, 조명 보정, 스턴트 와이어 제거 등 후반작업을 자동화하는 도구를 개발해왔다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">넷플릭스가 배우이자 감독인 벤 애플렉이 설립한 AI 후반작업 스타트업 인터포지티브(InterPositive)를 인수했다. 이 회사는 촬영 원본 영상을 학습해 화면 리프레이밍, 조명 보정, 스턴트 와이어 제거 등 후반작업을 자동화하는 도구를 개발해왔다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">애플렉은 2022년 인터포지티브를 설립하며 '시각적 논리와 편집 일관성을 이해하는 AI 모델'을 구축했다. 이 도구는 텍스트 프롬프트로 영상을 생성하는 방식이 아니라, 실제 촬영 소스를 기반으로 후반작업의 기술적 문제를 해결하는 데 초점을 맞춘다. 애플렉 본인도 \"AI가 처음엔 정말 무서웠지만, 지금은 의미 있는 혁신으로 본다\"고 밝혔다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">할리우드는 AI가 창작 일자리를 위협한다는 우려에서 점차 실용적 활용으로 전환하고 있다. 디즈니가 오픈AI의 소라에 자사 캐릭터 사용을 허용한 데 이어, 넷플릭스도 AI 후반작업 역량을 내재화했다. 넷플릭스 최고콘텐츠책임자 벨라 바자리아는 \"새로운 도구가 창작의 자유를 확장해야지, 작가·감독·배우의 작업을 대체해선 안 된다\"고 강조했다. 애플렉은 이번 인수의 일환으로 넷플릭스의 시니어 어드바이저로 합류한다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">인터포지티브의 '자체 촬영 소스 기반 AI 학습' 방식은 에듀테크 영상 제작에도 시사점을 준다. 교육 콘텐츠 제작사가 기존 강의 영상을 AI로 리프레이밍·보정해 다양한 포맷(모바일, 숏폼)으로 빠르게 재가공할 수 있는 가능성을 열어준다. 영상 기반 학습 플랫폼의 제작 비용과 시간을 크게 줄일 수 있는 기술적 토대가 마련되고 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.theguardian.com/technology/2026/mar/06/ben-affleck-sells-ai-postproduction-startup-interpositive-to-netflix\" style=\"color:#FF6B35;text-decoration:none;\">The Guardian</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "netflix"
+    ],
+    "meta_title": "넷플릭스, 벤 애플렉 AI 후반작업 스타트업 인터포지티브 인수",
+    "meta_description": "넷플릭스가 벤 애플렉의 AI 후반작업 스타트업 인터포지티브를 인수했다. 촬영 원본 기반 리프레이밍·조명 보정 AI 도구를 내재화하며 할리우드의 AI 실용화 흐름이 가속화되고 있다.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T20:58:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T21:17:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T12:35:36.556Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ac1b98ff4fbf0001ab7395",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ac1b98ff4fbf0001ab7395",
+    "public_url": "https://insight.ubion.global/nespeulrigseu-ben-aepeulregyi-ai-hubanjageob-seutateueob-inteopojitibeu-insu/",
+    "status": "published",
+    "published_at": "2026-03-07T12:35:36.000Z"
+  }
+}

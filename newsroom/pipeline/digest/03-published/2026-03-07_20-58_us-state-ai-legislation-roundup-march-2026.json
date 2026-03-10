@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "AI Legislative Update: March 6, 2026 — Oregon passes chatbot safety bill, Florida AI Bill of Rights advances",
+    "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-march6-2026",
+    "source_name": "Transparency Coalition",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Major US state AI legislation roundup: Oregon's chatbot safety bill SB 1546 won final approval and heads to the governor. Utah passed online age verification and deepfake bills. Washington's AI disclosure and health insurance AI bills near completion. Florida's DeSantis-backed AI Bill of Rights passed the Senate 35-2.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-07T20:58:00+09:00"
+  },
+  "digest": {
+    "headline": "미국 각 주 AI 입법 러시 — 오레곤 챗봇 안전법 통과, 플로리다 'AI 권리장전' 상원 가결",
+    "lead": "미국 주 의회들이 회기 마감을 앞두고 AI 관련 법안을 잇따라 처리하고 있다. 오레곤주는 챗봇 안전법(SB 1546)을 최종 통과시켜 주지사에게 보냈고, 플로리다주에서는 드산티스 주지사가 추진한 'AI 권리장전'이 상원을 35대 2로 통과했다. 유타·워싱턴 등에서도 딥페이크 규제와 AI 공개 의무 법안이 속속 마무리되고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 주 의회들이 회기 마감을 앞두고 AI 관련 법안을 잇따라 처리하고 있다. 오레곤주는 챗봇 안전법(SB 1546)을 최종 통과시켜 주지사에게 보냈고, 플로리다주에서는 드산티스 주지사가 추진한 'AI 권리장전'이 상원을 35대 2로 통과했다. 유타·워싱턴 등에서도 딥페이크 규제와 AI 공개 의무 법안이 속속 마무리되고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">오레곤의 SB 1546은 챗봇 운영사에 미성년자 보호를 위한 강화된 안전조치를 의무화하는 법안으로, 3월 9일 회기 종료를 앞두고 최종 승인됐다. 플로리다의 'AI 권리장전'(SB 482)은 아이들이 AI 챗봇과 상호작용할 때의 안전성에 초점을 맞추고 있으며, 드산티스 주지사가 학부모·전문가 라운드테이블을 열어 추진력을 높였다. 다만 하원 지도부는 연방 차원 규제를 선호해 최종 통과 여부는 불투명하다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">유타주는 온라인 연령 인증법(SB 73)과 딥페이크 규제법(HB 276)을 통과시켰고, 워싱턴주도 딥페이크 규제(SB 5105), AI 공개 의무(HB 1170), 의료보험 AI 활용 규제(SB 5395) 법안을 마무리 중이다. 연방 차원의 포괄적 AI 규제가 부재한 상황에서, 주 단위 입법이 사실상 미국 AI 규제의 최전선이 되고 있다. 캘리포니아에서도 디지털 복제물 보호, 챗봇 아동 안전, 건강 관련 AI 허위광고 등 다수의 법안이 위원회에 배정되며 후속 입법 준비가 진행 중이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">오레곤과 플로리다의 법안은 모두 AI 챗봇과 미성년자의 상호작용 안전성을 핵심 의제로 삼고 있다. AI 튜터, 학습 챗봇 등을 개발·운영하는 에듀테크 기업은 미국 시장 진출 시 주별로 상이한 미성년자 보호 규정을 반드시 점검해야 한다. 특히 연령 인증, AI 사용 공개 의무, 유해 콘텐츠 차단 등이 공통적으로 요구되는 방향이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.transparencycoalition.ai/news/ai-legislative-update-march6-2026\" style=\"color:#FF6B35;text-decoration:none;\">Transparency Coalition</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation"
+    ],
+    "meta_title": "미국 각 주 AI 입법 러시 — 오레곤 챗봇 안전법, 플로리다 AI 권리장전 가결",
+    "meta_description": "오레곤 챗봇 안전법 최종 통과, 플로리다 AI 권리장전 상원 가결, 유타·워싱턴도 딥페이크·AI 공개 법안 처리 중. 미국 주 단위 AI 입법이 가속화되고 있다.",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T20:58:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T21:17:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T12:35:36.837Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ac1b98ff4fbf0001ab739b",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ac1b98ff4fbf0001ab739b",
+    "public_url": "https://insight.ubion.global/migug-gag-ju-ai-ibbeob-reosi-oregon-caesbos-anjeonbeob-tonggwa-peulrorida-ai-gweonrijangjeon-sangweon-gagyeol/",
+    "status": "published",
+    "published_at": "2026-03-07T12:35:36.000Z"
+  }
+}

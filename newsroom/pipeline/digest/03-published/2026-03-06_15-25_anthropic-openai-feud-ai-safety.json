@@ -1,0 +1,54 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "The Anthropic–OpenAI Feud and Their Pentagon Dispute Expose a Deeper Problem with AI Safety",
+    "url": "https://fortune.com/2026/03/05/anthropic-openai-feud-pentagon-dispute-ai-safety-dilemma-personalities/",
+    "source_name": "Fortune",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Analysis of the escalating feud between Anthropic and OpenAI over Pentagon contracts and AI safety principles. Major tech companies including OpenAI, Microsoft, Google, Amazon, Meta, and Oracle have pledged to cover energy and infrastructure costs for their AI data centers to protect consumers from rising utility bills.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-06T15:25:00+09:00"
+  },
+  "digest": {
+    "headline": "앤스로픽-오픈AI 펜타곤 분쟁, AI 안전의 구조적 문제 드러내",
+    "lead": "미 국방부와의 계약을 둘러싼 앤스로픽과 오픈AI의 갈등이 심화되며 AI 안전 거버넌스의 근본적 한계가 드러났다. 소수 기업과 정부 관료에게 AI 미래가 집중된 '산업적 포획' 우려가 현실화하고 있다는 평가다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미 국방부와의 계약을 둘러싼 앤스로픽과 오픈AI의 갈등이 심화되며 AI 안전 거버넌스의 근본적 한계가 드러났다. 소수 기업과 정부 관료에게 AI 미래가 집중된 '산업적 포획' 우려가 현실화하고 있다는 평가다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">오픈AI가 펜타곤과 AI 제공 계약을 체결한 가운데, 미 국방장관 피트 헤그세스가 앤스로픽을 \"공급망 리스크\"로 분류하며 논란이 촉발됐다. 앤스로픽 CEO 다리오 아모데이는 내부 메모에서 오픈AI의 행보를 \"기만적\" \"안전 극장\"이라 비판하고 샘 알트먼의 발언을 \"노골적인 거짓말\" \"가스라이팅\"이라 표현했다. 알트먼 역시 앤스로픽의 슈퍼볼 캠페인을 \"명백히 부정직하다\"고 맞비난했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">요슈아 벤지오 연구자가 지적한 '소수 기업에 의한 AI 부문 통제' 위험이 현실화하고 있다. 경쟁 압박으로 양사 모두 안전 정책을 완화하는 방향으로 움직이고 있다. 앤스로픽은 모델 개발 보류 기준을 수정했고, 오픈AI는 군사 사용 금지 조항을 삭제한 바 있다. 업계 리더 간 협력 부재는 자율 규제 체계의 근본적 한계를 보여준다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">교육용 AI 도구의 안전성도 결국 이들 빅테크 기업의 자율 규제와 경쟁 역학에 좌우될 위험이 크다. 교육 현장에서 클로드나 GPT를 도입하는 기관들은 공급사 간 갈등과 정책 변화가 서비스 안정성에 미칠 영향을 모니터링해야 한다. 교육 분야 AI 표준과 가이드라인이 시급한 이유다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://fortune.com/2026/03/05/anthropic-openai-feud-pentagon-dispute-ai-safety-dilemma-personalities/\" style=\"color:#FF6B35;text-decoration:none;\">Fortune</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "anthropic",
+      "openai",
+      "regulation"
+    ],
+    "meta_title": "앤스로픽-오픈AI 펜타곤 분쟁, AI 안전 거버넌스 한계 드러나",
+    "meta_description": "앤스로픽과 오픈AI의 펜타곤 계약 분쟁이 AI 안전의 구조적 문제를 드러냈다. 소수 기업에 의한 AI 통제 우려와 자율 규제의 한계를 분석한다.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T15:25:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T15:26:30+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T06:31:54.999Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aa74daff4fbf0001ab6e63",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aa74daff4fbf0001ab6e63",
+    "public_url": "https://ubion.ghost.io/aenseuropig-opeunai-pentagon-bunjaeng-ai-anjeonyi-gujojeog-munje-deureonae/",
+    "status": "published",
+    "published_at": "2026-03-06T06:31:54.999Z",
+    "feature_image": "https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?w=1200&h=630&fit=crop&q=85&auto=format"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "2026 Global Data Center Outlook",
+    "url": "https://www.jll.com/en-us/insights/market-outlook/data-center-outlook",
+    "source_name": "JLL",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Navigating AI demand, power constraints and global opportunities in 2026. The report covers how data centers are adapting to meet the explosive growth in AI computing needs while facing power and infrastructure challenges.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-06T18:31:00+09:00"
+  },
+  "digest": {
+    "headline": "2030년까지 AI 워크로드 절반 차지…글로벌 데이터 센터 용량 2배 확장",
+    "lead": "부동산 컨설팅 firm JLL의 2026년 글로벌 데이터 센터 전망 보고서에 따르면 2026년부터 2030년까지 약 100 GW의 새로운 데이터 센터가 추가돼 글로벌 용량이 두 배로 늘어난다. 2030년에는 AI가 전체 워크로드의 절반을 차지하며, 2027년부터는 추론 작업이 학습을 앞설 것으로 전망된다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">부동산 컨설팅 firm JLL의 2026년 글로벌 데이터 센터 전망 보고서에 따르면 2026년부터 2030년까지 약 100 GW의 새로운 데이터 센터가 추가돼 글로벌 용량이 두 배로 늘어난다. 2030년에는 AI가 전체 워크로드의 절반을 차지하며, 2027년부터는 추론 작업이 학습을 앞설 것으로 전망된다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">보고서는 글로벌 데이터 센터 부문이 2030년까지 연평균 14% 성장할 것으로 예측한다. 2025년 약 103 GW였던 글로벌 용량은 2030년 200 GW에 도달한다. 아메리카가 전체 용량의 50%를 차지하며 연 17% 성장률로 가장 빠르게 확장하고, 아시아태평양은 32 GW에서 57 GW로, 유럽중동아프리카는 10% 성장률을 기록한다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">섹터는 2030년까지 최대 3조 달러 규모의 인프라 투자 수퍼사이클에 진입한다. 100 GW 신규 용량은 1.2조 달러의 부동산 자산 가치 창출과 함께 테넌트들의 IT 장비 투자 1~2조 달러가 추가된다. 하이퍼스케일러들이 임대와 자체 건설을 병행하는 이중 전략으로 성장을 주도한다. 전력 제약 해소를 위한 에너지 혁신이 필수적이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 기반 교육 서비스가 확산될수록 클라우드 비용과 인프라 접근성이 에듀테크 스타트업의 핵심 과제로 부상한다. 특히 추론 작업 비중이 커지는 2027년 이후 실시간 개인화 학습, AI 튜터링 서비스의 운영 비용 구조가 크게 변할 수 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.jll.com/en-us/insights/market-outlook/data-center-outlook\" style=\"color:#FF6B35;text-decoration:none;\">JLL</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "infrastructure"
+    ],
+    "meta_title": "2030년까지 AI 워크로드 절반 차지…글로벌 데이터 센터 용량 2배 확장",
+    "meta_description": "JLL 보고서에 따르면 2030년까지 글로벌 데이터 센터 용량이 두 배로 늘어나며 AI가 전체 워크로드의 절반을 차지한다. 최대 3조 달러 투자가 예상된다.",
+    "word_count": 512
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T18:31:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T18:56:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T10:57:45.654Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aab329ff4fbf0001ab6f3d",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aab329ff4fbf0001ab6f3d",
+    "public_url": "https://ubion.ghost.io/2030nyeonggaji-ai-weokeurodeu-jeolban-caji-geulrobeol-deiteo-senteo-yongryang-2bae-hwagjang-2/",
+    "status": "published",
+    "published_at": "2026-03-06T10:57:45.000Z"
+  }
+}

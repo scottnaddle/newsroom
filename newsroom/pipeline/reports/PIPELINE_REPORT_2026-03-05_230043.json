@@ -1,0 +1,92 @@
+{
+  "timestamp": "2026-03-05T23:00:00+09:00",
+  "checkpoint": "editor-desk-auto-check",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "assigned": 0,
+      "queued": 0,
+      "rejected": 0,
+      "notes": "✅ 모든 파일 처리 완료"
+    },
+    "02_assigned": {
+      "total": 0,
+      "notes": "✅ 취재기자 할당 대기 중"
+    },
+    "03_reported": {
+      "total": 0,
+      "notes": "✅ 제출 대기"
+    },
+    "04_drafted": {
+      "total": 0,
+      "notes": "✅ 팩트체킹 대기"
+    },
+    "05_fact_checked": {
+      "total": 0,
+      "pass_90plus": 0,
+      "pass_80_89": 0,
+      "flag_75_79": 0,
+      "fail_below_75": 0,
+      "notes": "✅ 자동 라우팅 대상 없음"
+    },
+    "06_desk_approved": {
+      "total": 0,
+      "notes": "✅ 교열 단계 입장 대기"
+    },
+    "07_copy_edited": {
+      "total": 0,
+      "notes": "✅ 발행 대기"
+    },
+    "08_published": {
+      "total": 75,
+      "notes": "✅ 누적 발행 기사"
+    }
+  },
+  "queue_status": {
+    "waiting": 5,
+    "items": [
+      {
+        "id": "1772710577-001",
+        "title": "Hwang Hyuna of Korea University of Technology and Education Publishes AI Career Counseling Paper in KCI-Listed Journal",
+        "relevance_score": 68,
+        "status": "waiting"
+      },
+      {
+        "id": "1741271193-clg-consortium",
+        "title": "South Korean Universities Form Asia AI Research Consortium",
+        "relevance_score": 68,
+        "status": "waiting"
+      },
+      {
+        "id": "1741271193-politico-love",
+        "title": "The Country That's Madly in Love With AI",
+        "relevance_score": 62,
+        "status": "waiting"
+      },
+      {
+        "id": "1741352160-002",
+        "title": "2026학년도 AI기반 기초과목 진단 및 맞춤형 학습 프로그램",
+        "relevance_score": 68,
+        "status": "waiting"
+      },
+      {
+        "id": "20260305-223631-469935",
+        "title": "AI가 혁신하는 교육 환경 전략",
+        "relevance_score": 72,
+        "status": "waiting"
+      }
+    ]
+  },
+  "summary": {
+    "pipeline_health": "🟢 정상 (IDLE)",
+    "bottleneck": "없음 - 모든 단계 완료 대기",
+    "action_needed": "WRITER 에이전트 활성화 (02-assigned → 03-reported)",
+    "next_check": "30분 후"
+  },
+  "diagnostics": {
+    "last_published": "2026-03-05 22:18:00",
+    "queue_score": "72점 평균 (50-74 범위)",
+    "rejected_count": "41개 (누적)",
+    "healthy": true
+  }
+}

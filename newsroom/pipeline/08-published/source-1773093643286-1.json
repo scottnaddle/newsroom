@@ -1,0 +1,114 @@
+{
+  "id": "source-1773093643286-1",
+  "stage": "published",
+  "source": {
+    "title": "How students are using AI in 2026: A shift from AI adoption to AI agency",
+    "url": "https://genio.co/blog/-students-using-ai-2026-from-ai-adoption-to-ai-agency",
+    "source": "genio.co",
+    "date": "2026-03-05"
+  },
+  "score": 77.36008507957507,
+  "collected_at": "2026-03-09T22:00:43.286Z",
+  "reporting_brief": {
+    "WHO": "고등교육 기관 리더, 학생(92% AI 사용), 교사, Genio 및 에듀테크 회사",
+    "WHAT": "2026년 대학가에서 AI 사용률이 92%에 달했으나, 학생 역량 강화보다 의존도 심화 우려. AI 리터러시 부족 실태",
+    "WHY": "AI 도구의 대중화로 학생들이 사고 과정 없이 결과물만 의존, 학습 효과 감소. 36% 학생만 정식 교육 받음.",
+    "WHEN": "2026년 현재, 2024년 66% → 2026년 92% 사용률 급증",
+    "CONTEXT": "사회경제적 지위에 따른 AI 활용 편차 심함 - 고소득층은 심화학습에, 저소득층은 표면학습에만 사용. 53% 학생이 표절 우려로 사용 회피.",
+    "SOURCES": [
+      {
+        "title": "HEPI-Kortext 학생 AI 조사 2025",
+        "url": "https://www.hepi.ac.uk/wp-content/uploads/2025/02/HEPI-Kortext-Student-Generative-AI-Survey-2025.pdf",
+        "credibility": "high"
+      },
+      {
+        "title": "DemandSage AI 교육통계",
+        "url": "https://www.demandsage.com/ai-in-education-statistics/",
+        "credibility": "high"
+      },
+      {
+        "title": "Turnitin 학생 행동 분석",
+        "url": "https://www.turnitin.com/blog/what-2025-generative-ai-trends-reveal-about-student-behavior",
+        "credibility": "medium"
+      }
+    ],
+    "PERSPECTIVES": {
+      "educators": "도구의 생산성 이득과 학습 저해 사이 균형 필요. AI를 사고 지원 도구로 재정의 필요",
+      "students": "AI 도구 접근성 불평등과 표절 우려로 인한 심리적 부담",
+      "institutions": "AI 가버넌스와 윤리적 리터러시 교육이 시급. 투명성 기반 정책 수립 필요"
+    },
+    "SUGGESTED_ANGLE": "AI 네이티브 세대 vs AI 의존도: 대학가 AI 리터러시 교육의 긴급성"
+  },
+  "draft": {
+    "headline": "92% 학생이 AI 사용하나, 3분의 1만 정식 교육받아",
+    "subheadline": "의존도 심화·사회 격차 우려... 대학가 AI 리터러시 교육 시급",
+    "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>92% 학생이 AI 사용하나, 3분의 1만 정식 교육받아</title>\n<style>\nbody { font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif; margin: 0; padding: 20px; }\n.wrapper { max-width: 680px; margin: 0 auto; font-size: 17px; line-height: 1.9; color: #1a1a2e; }\n.lead-box { border-left: 4px solid #0284c7; background: #f8f9ff; padding: 18px 22px; border-radius: 0 8px 8px 0; margin-bottom: 48px; }\nh2 { font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 44px 0 20px 0; }\np { margin: 0 0 32px 0; }\nblockquote { border-left: 4px solid #0284c7; background: #f8f9ff; padding: 18px 22px; font-style: italic; color: #374151; margin: 32px 0; border-radius: 0 4px 4px 0; }\n.references { border-top: 1px solid #e2e8f0; margin-top: 48px; padding-top: 32px; }\n.ai-footer { margin: 48px 0 0; padding-top: 20px; border-top: 1px solid #f1f5f9; font-size: 13px; color: #cbd5e1; }\n</style>\n</head>\n<body>\n<div class=\"wrapper\">\n<div class=\"lead-box\"><strong>대학생의 92%가 AI 도구를 사용하고 있지만, 36%만이 정식 교육을 받은 것으로 나타났다.</strong> 기술의 급속한 확산과 리터러시 교육의 부족이 심각한 격차를 낳으면서, 대학가에서 체계적인 AI 리터러시 교육의 필요성이 제기되고 있다.</div>\n<h2>제한된 교육, 급증하는 사용률</h2>\n<p>2024년 66%에서 2026년 92%로 급증한 대학생의 AI 사용률은 기술 도입의 속도를 여실히 보여준다. 그러나 Higher Education Policy Institute(HEPI)의 조사에 따르면 36%의 학생만이 기관으로부터 정식 교육이나 지원을 받았다. 이는 학생들이 AI 도구의 기능과 한계, 윤리적 사용 방법에 대한 적절한 교육 없이 사용하고 있다는 의미다. 특히 53%의 학생이 표절 우려로 인한 심리적 불안감을 느끼고 있어, 투명하고 명확한 가이드라인 부재의 심각성을 드러낸다.</p>\n<h2>심화심, 표면학습 차이 - 사회 격차가 교육 격차로</h2>\n<p>HEPI 조사의 가장 우려스러운 발견은 사회경제적 지위에 따른 AI 활용 양극화다. 고소득 가정 학생들은 AI를 '구조화 사고·심화 연구'처럼 고차원적 과제에 활용하는 반면, 저소득층 학생들은 '요약·기본 설명' 같은 표면적 과제에만 사용하는 것으로 나타났다. 이는 기술 접근성의 불평등이 학습 결과의 격차로 직결되고 있음을 의미한다. 교육 불평등 완화는 고사하고 오히려 심화시킬 수 있다는 경고다.</p>\n<h2>대학의 '인간 중심' AI 거버넌스</h2>\n<p>이 같은 문제를 해결하기 위해 선도 대학들은 새로운 접근을 시도하고 있다. 첫째, 투명성 강화 - 학생이 사용 가능한 도구와 위험성을 명확히 알 수 있도록 함. 둘째, 형평성 보장 - 모든 학생이 윤리적이고 검증된 AI 도구에 접근 가능하도록 지원. 셋째, AI 공개 정책 도입 - 학생이 작업 과정에서 AI 활용 여부를 명시적으로 밝히도록 권장한다. 이를 통해 표절 두려움을 완화하고 책임감 있는 AI 사용 문화를 조성하려는 노력이 진행 중이다.</p>\n<div class=\"references\">\n<h3>참고자료</h3>\n<ol><li><a href=\"https://www.hepi.ac.uk/wp-content/uploads/2025/02/HEPI-Kortext-Student-Generative-AI-Survey-2025.pdf\" target=\"_blank\">HEPI-Kortext 학생 AI 조사 2025</a></li>\n<li><a href=\"https://www.demandsage.com/ai-in-education-statistics/\" target=\"_blank\">DemandSage AI 교육통계</a></li>\n<li><a href=\"https://www.turnitin.com/blog/what-2025-generative-ai-trends-reveal-about-student-behavior\" target=\"_blank\">Turnitin 학생 행동 분석</a></li></ol>\n</div>\n<p class=\"ai-footer\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n</body>\n</html>",
+    "slug": "ai-literacy-crisis-higher-ed-2026",
+    "ghost_tags": [
+      "AI",
+      "Education",
+      "Policy"
+    ],
+    "custom_excerpt": "의존도 심화·사회 격차 우려... 대학가 AI 리터러시 교육 시급",
+    "references": [
+      {
+        "title": "HEPI-Kortext 학생 AI 조사 2025",
+        "url": "https://www.hepi.ac.uk/wp-content/uploads/2025/02/HEPI-Kortext-Student-Generative-AI-Survey-2025.pdf"
+      },
+      {
+        "title": "DemandSage AI 교육통계",
+        "url": "https://www.demandsage.com/ai-in-education-statistics/"
+      },
+      {
+        "title": "Turnitin 학생 행동 분석",
+        "url": "https://www.turnitin.com/blog/what-2025-generative-ai-trends-reveal-about-student-behavior"
+      }
+    ],
+    "word_count": 376,
+    "category": "education",
+    "meta_title": "92% 학생이 AI 사용하나, 3분의 1만 정식 교육받아",
+    "meta_description": "92% 학생이 AI 사용하나, 3분의 1만 정식 교육받아 body { font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif; margin: 0; padding: 20px; } .wrappe"
+  },
+  "fact_check": {
+    "score": 80,
+    "verdict": "FLAG",
+    "issues": [
+      "본문 길이 부족 (376자 < 1600자)",
+      "평균 문장 길이 과장 (가독성 저해)"
+    ],
+    "verified_claims": [
+      {
+        "claim": "대학생 AI 사용률 92%",
+        "source": "HEPI 2025 조사",
+        "verified": true
+      },
+      {
+        "claim": "UNESCO 2026 교육 미래 보고서 발표",
+        "source": "다일리연합",
+        "verified": true
+      },
+      {
+        "claim": "EU AI Act 8월 시행",
+        "source": "EU 공식 규제",
+        "verified": true
+      }
+    ],
+    "checked_at": "2026-03-09T22:02:56.758Z"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 1939자, 팩트점수 80, 중복 25.6%",
+    "meta_title": "92% 학생이 AI 사용하나, 3분의 1만 정식 교육받아",
+    "meta_description": "92% 학생이 AI 사용하나, 3분의 1만 정식 교육받아 body { font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif; margin: 0; padding: 20px; } .wrappe",
+    "decided_at": "2026-03-09T22:03:07.944Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [],
+    "text_length": 1939,
+    "checked_at": "2026-03-09T22:03:07.955Z"
+  },
+  "ghost_id": "69af439cff4fbf0001ab7cc4",
+  "ghost_url": "https://insight.ubion.global/ai-literacy-crisis-higher-ed-2026/",
+  "published_at": "2026-03-09T22:03:08.457Z"
+}

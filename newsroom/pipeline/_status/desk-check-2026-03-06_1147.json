@@ -1,0 +1,56 @@
+{
+  "timestamp": "2026-03-06T11:47:00+09:00",
+  "agent": "editor-desk",
+  "pipeline_status": {
+    "01_sourced": { "count": 1, "status": "pending" },
+    "02_assigned": { "count": 0, "status": "empty" },
+    "03_reported": { "count": 0, "status": "empty" },
+    "04_drafted": { "count": 0, "status": "empty" },
+    "05_fact_checked": { "count": 1, "status": "flagged", "trust_score": 70 },
+    "06_desk_approved": { "count": 1, "status": "revise", "note": "에디터 기존 검토 완료" },
+    "07_copy_edited": { "count": 0, "status": "waiting" },
+    "08_published": { "count": 12, "status": "completed" }
+  },
+  "checked_articles": [
+    {
+      "id": "1741262640-ai-bootcamp-draft",
+      "headline": "교육부, AI 인재양성 37개 대학 신규 선정",
+      "stage": "05-fact-checked",
+      "verification_results": {
+        "headline_content_match": "95% ✓ PASS",
+        "image_validity": "1개 유효 ✓ PASS",
+        "body_length": "1247단어, 5990자, 3023자 ✓ PASS",
+        "metadata_completeness": "92% ✓ PASS",
+        "html_validation": "0개 &amp; ✓ PASS",
+        "duplicate_check": "0개 중복 ✓ PASS",
+        "fact_check_trust": "70점 ❌ FLAG"
+      },
+      "verdict": "REVISE (KILL 자동 규칙 예외: 에디터 권고)",
+      "critical_issues": [
+        "발표일: 3월 4일 → 2월 26일 (필수)",
+        "정책시작: 2024년 → 2023년 (필수)",
+        "예산수치: 재대조 필요"
+      ],
+      "report_file": "/root/.openclaw/workspace/newsroom/pipeline/EDITOR_DESK_REPORT_2026-03-06_1147.md"
+    }
+  ],
+  "quality_metrics": {
+    "technical_completeness": "92% (매우 높음)",
+    "fact_check_reliability": "70점 (기준 미달)",
+    "duplicate_rate": "0%",
+    "bottleneck_stage": "05-06 팩트체크 → REVISE"
+  },
+  "next_actions": [
+    "Writer 에이전트: 3개 항목 수정 (발표일, 정책시작, 예산)",
+    "기사 재제출: 05-fact-checked로",
+    "Fact-Checker: 재팩트체크 실행",
+    "목표: 신뢰도 80점 이상"
+  ],
+  "routing_decision": {
+    "article_id": "1741262640-ai-bootcamp-draft",
+    "path": "REVISE → 작성기자 수정 → 05-fact-checked 재진행",
+    "rationale": "신뢰도 70 < 75 자동 KILL이지만, 에디터 기존 판단(REVISE) 존중. 기사 가치 높음.",
+    "priority": "high",
+    "deadline": "2026-03-07T11:47:00+09:00"
+  }
+}

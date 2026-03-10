@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "ChatGPT 5.4: What the Sudden Release Means for Work, Safety, and the Pentagon Fight",
+    "url": "https://www.revolutioninai.com/2026/03/chatgpt-5-4-review-gdpval-benchmark-computer-use-pentagon-anthropic.html",
+    "source_name": "Revolution in AI",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "OpenAI shipped ChatGPT 5.4 just 48 hours after GPT 5.3 Instant, achieving a 70.8% win rate against human first attempts across 44 white-collar job types on the GDPVal benchmark. The article analyzes the model's improvements in computer use, hallucination reduction, and the ongoing Pentagon-Anthropic conflict backdrop.",
+    "published_date": "2026-03-08",
+    "collected_at": "2026-03-09T09:16:00+09:00"
+  },
+  "digest": {
+    "headline": "ChatGPT 5.4, GPT 5.3 출시 48시간 만에 공개 — 화이트칼라 직무 44개 분야서 인간 초회 시도 대비 70.8% 승률",
+    "lead": "OpenAI가 GPT 5.3 Instant 공개 불과 48시간 만에 ChatGPT 5.4를 출시했다. 새 모델은 44개 화이트칼라 직종을 대상으로 한 GDPVal 벤치마크에서 인간 초회 시도 대비 70.8% 승률(동점 포함 시 83%)을 기록했으며, 컴퓨터 사용 능력과 자기 검증 기능에서 의미 있는 진전을 보였다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">OpenAI가 GPT 5.3 Instant 공개 불과 48시간 만에 ChatGPT 5.4를 출시했다. 새 모델은 44개 화이트칼라 직종을 대상으로 한 GDPVal 벤치마크에서 인간 초회 시도 대비 70.8% 승률(동점 포함 시 83%)을 기록했으며, 컴퓨터 사용 능력과 자기 검증 기능에서 의미 있는 진전을 보였다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">OpenAI는 '모두를 위한 Codex'를 지향하며, 개발자뿐 아니라 일반 지식 근로자도 문서 작성, 스프레드시트, 프레젠테이션, 코드, 리서치, 기획까지 하나의 모델로 처리할 수 있는 환경을 구축하고 있다. GPT 5.4의 핵심 진전은 컴퓨터 화면을 인식하고 직접 클릭·조작하는 '컴퓨터 사용' 능력으로, 모델이 자신의 출력을 스스로 검증하는 자기 점검 루프를 거의 완성하고 있다는 점이다. 다만 환각(hallucination) 문제는 정확도가 올라갔음에도 '자신감 있게 틀리는' 패턴이 여전히 남아 있어 주의가 필요하다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">48시간 간격의 연속 출시는 AI 모델 경쟁이 전례 없는 속도전에 진입했음을 보여준다. GDPVal 70.8% 승률이라는 수치는 인상적이지만, 벤치마크 과제가 실제 직무의 복잡성을 온전히 반영하지 못한다는 한계도 있다. 특히 GPT 5.4 Pro가 일반 버전보다 낮은 점수를 기록한 역설적 결과는 '더 크면 더 좋다'는 통념에 의문을 제기한다. 한편 Anthropic의 국방부 계약 논란이 배경에 깔려 있어, AI 기업 간 경쟁이 기술뿐 아니라 윤리·정치 영역으로도 확장되고 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI가 44개 직종에서 인간 초회 시도를 넘어서는 수준에 도달하면서, 교육 현장에서 'AI 시대의 역량'을 어떻게 정의하고 가르칠지가 더욱 시급한 과제가 됐다. 컴퓨터 사용 및 자기 검증 기능의 발전은 AI 튜터가 학습자의 과제를 직접 실행·점검하는 자율적 학습 지원 시나리오를 현실에 한 걸음 더 가깝게 만든다. 다만 '자신감 있는 오류' 문제가 해결되지 않은 만큼, 교육용 AI 활용 시 팩트체크 습관을 함께 기르는 것이 필수적이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.revolutioninai.com/2026/03/chatgpt-5-4-review-gdpval-benchmark-computer-use-pentagon-anthropic.html\" style=\"color:#FF6B35;text-decoration:none;\">Revolution in AI</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "openai",
+      "chatgpt",
+      "technology"
+    ],
+    "meta_title": "ChatGPT 5.4, 48시간 만에 깜짝 출시 — 화이트칼라 44개 직종서 인간 능가",
+    "meta_description": "OpenAI가 GPT 5.3 출시 48시간 만에 ChatGPT 5.4를 공개했다. GDPVal 벤치마크에서 44개 화이트칼라 직종 인간 초회 시도 대비 70.8% 승률을 기록하며, 컴퓨터 사용 및 자기 검증 능력에서 주목할 진전을 보였다.",
+    "word_count": 620
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T09:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T00:45:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T00:58:32.610Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae1b2aff4fbf0001ab7737",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae1b2aff4fbf0001ab7737",
+    "public_url": "https://insight.ubion.global/chatgpt-5-4-gpt-5-3-culsi-48sigan-mane-gonggae-hwaiteukalra-jigmu-44gae-bunyaseo-ingan-cohoe-sido-daebi-70-8-seungryul/",
+    "status": "published",
+    "published_at": "2026-03-09T00:58:18.000Z"
+  }
+}

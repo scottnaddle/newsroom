@@ -1,0 +1,33 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://genio.co/blog/-students-using-ai-2026-from-ai-adoption-to-ai-agency",
+    "title": "How students are using AI in 2026: A shift from AI adoption to AI agency",
+    "snippet": "Provides starting point for creating clear, actionable guidelines that protect both faculty and learners. The 2026 graduate enters a workforce that moves faster than any before it.",
+    "published_date": "2026-03-02"
+  },
+  "relevance_score": 67,
+  "tags": [
+    "students",
+    "higher-education",
+    "ai-agency"
+  ],
+  "collected_at": "2026-03-09T04:22:00.000Z",
+  "rejected_at": "2026-03-09T04:35:00.000Z",
+  "reject_reason": "블로그 포스트, 원본 데이터 부족",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

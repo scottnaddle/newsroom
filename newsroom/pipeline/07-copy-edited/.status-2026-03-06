@@ -1,0 +1,20 @@
+=== 교열기자 점검 결과 (2026-03-06 11:16) ===
+
+입력 경로: /root/.openclaw/workspace/newsroom/pipeline/06-desk-approved/
+
+상태:
+- 처리 가능한 기사: 0건
+- REVISE 플래그: 1건 (REVISE_1741262640-ai-bootcamp-draft.json)
+
+발견:
+이 리비전 파일은 팩트체크 단계(05-fact-checked)에서 돌아온 것으로,
+아직 에디터 검토(desk-approved)를 완료하지 않았습니다.
+
+에디터 액션 필요:
+1. "1741262640-ai-bootcamp-draft" 원본 기사 수정
+   - 발표일: 3월 4일 → 2월 26일 (우선도 1)
+   - 예산 수치 재확인 (우선도 2)
+   - 이미지 URL 교체 (우선도 3)
+2. 수정 후 다시 06-desk-approved로 올리기
+
+교열기자는 대기 중입니다.

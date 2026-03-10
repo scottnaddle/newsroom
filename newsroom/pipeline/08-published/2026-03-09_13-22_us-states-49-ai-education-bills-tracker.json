@@ -1,0 +1,112 @@
+{
+  "stage": "published",
+  "source": {
+    "url": "https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/",
+    "title": "Legislative Tracker: 2026 State AI in Education Bills — 49 Bills Across 23 States",
+    "snippet": "During the 2026 legislative session, FutureEd is tracking 49 bills across 23 states that address artificial intelligence in classroom instruction. States are moving quickly to define how schools should respond.",
+    "published_date": "2026-03-06"
+  },
+  "relevance_score": 85,
+  "tags": [
+    "legislation",
+    "us",
+    "k12",
+    "policy"
+  ],
+  "collected_at": "2026-03-09T04:22:00.000Z",
+  "assigned_at": "2026-03-09T04:35:00.000Z",
+  "reported_at": "2026-03-09T04:40:00.000Z",
+  "editor_note": "23개 주 49개 AI 교육 법안 트래커. 데이터 풍부, 정책 동향 분석 기사로 적합.",
+  "priority": "high",
+  "reporting_brief": {
+    "who": "미국 23개 주 의회. FutureEd(조지타운대 McCourt School of Public Policy 부설)가 트래킹. 트럼프 행정부(AI 리터러시 행정명령 EO 14277), 미 교육부(AI 교육 보조금 우선순위 지정).",
+    "what": "2026 회기 기준 23개 주에서 49개 AI 교육 관련 법안 발의. 주요 유형: ① AI 리터러시·교육과정 의무화(졸업 요건 포함) ② AI 교사 연수·자격 요건 ③ 학교 내 AI 사용 가이드라인·안전장치. 아이오와(3개 법안), 일리노이(HB 4411: 9학년부터 1년 필수), 오하이오(HB 594), 앨라배마(HB 329), 미주리(HB 3139), 하와이(SB 2212: 6주 AI 리터러시 과정 + $500만 보조금), 유타(HB 273) 등이 대표적.",
+    "why": "2029 PISA에서 AI 리터러시가 처음 평가 예정 → 국제 경쟁력 압박. 생성형 AI 도구가 K-12 교실에 급속 확산되며 학술 윤리, 데이터 프라이버시, 알고리즘 편향, 교사 역할 변화 등 우려 부상. 연방 행정부 AI 교육 정책 신호(행정명령, 교육부 우선순위)가 주 차원 입법 촉진.",
+    "when": "2026년 회기 진행 중 (2026년 3월 6일 FutureEd 트래커 발표)",
+    "context": "2025년 4월 기준 최소 28개 주가 K-12 AI 가이던스 발표(Education Commission of the States). 대부분 법안이 기존 졸업 학점 총량 증가 없이 AI 교과를 수학·과학·CTE·외국어·선택 과목 학점으로 편입하는 방식. 연방 차원 NSF AI Education Act(Cantwell-Moran)와 동시 진행.",
+    "sources": [
+      {
+        "url": "https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/",
+        "type": "primary",
+        "reliability": "high",
+        "note": "FutureEd 2026 AI 교육 법안 트래커 (조지타운대)"
+      },
+      {
+        "url": "https://excelinedinaction.org/2026/03/04/february-2026-state-actions-update-k-12-education-policies-progress/",
+        "type": "secondary",
+        "reliability": "high",
+        "note": "ExcelinEd 2026년 2월 주별 K-12 정책 업데이트"
+      },
+      {
+        "url": "https://www.future-ed.org/legislative-tracker-2026-state-tutoring-bills/",
+        "type": "secondary",
+        "reliability": "high",
+        "note": "FutureEd AI 튜터링 법안 트래커 (버지니아 SB 394, 웨스트버지니아 SB 250 등)"
+      },
+      {
+        "url": "https://www.ecs.org/artificial-intelligence-ai-education-task-forces/",
+        "type": "reference",
+        "reliability": "high",
+        "note": "Education Commission of the States: 28개 주 AI 교육 가이던스 현황"
+      },
+      {
+        "url": "https://excelinedinaction.org/2026/02/09/january-2026-state-actions-update-tracking-student-centered-k-12-education-legislation-across-39-states/",
+        "type": "reference",
+        "reliability": "high",
+        "note": "ExcelinEd 2026년 1월 39개 주 교육 법안 추적"
+      }
+    ],
+    "perspectives": {
+      "government": "초당적·초주당적 움직임. 주지사 교서(State of the State)에서 AI 교육 직접 언급 증가. AI 리터러시를 핵심 역량으로 제도화하려는 정치적 합의 형성 중.",
+      "education": "교사 연수·자격 요건 강화 필요성 공감. 일부 주(아이오와, 일리노이)는 교사 준비 요건도 법안에 포함. 기존 과목 내 AI 통합 vs 독립 과목 신설 논쟁. 하와이 모델(6주 집중 과정)이 독특한 접근.",
+      "industry": "에듀테크 기업에게 대규모 시장 기회. AI 교육과정·교재·평가도구 수요 폭증 예상. 데이터 프라이버시·학생 보호 규제와 혁신 사이 균형 과제."
+    },
+    "suggested_angle": "'AI 리터러시, 미국에서 읽기·쓰기처럼 필수과목 되나' — 23개 주 49개 법안의 패턴 분석. 졸업 요건 편입 방식, 교사 연수 모델, 2029 PISA AI 리터러시 평가 대비 관점에서 한국 AI 디지털 교과서 정책과 비교."
+  },
+  "draft": {
+    "headline": "미국 23개 주에서 AI 교육 법안 49개 쏟아진다… '읽기·쓰기'처럼 필수과목 되나",
+    "subheadline": "일리노이 9학년 필수, 하와이 500만 달러 투자… 2029 PISA AI 리터러시 평가 앞두고 입법 러시",
+    "html": "<div style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;font-size:17px;line-height:1.9;color:#1a202c\">\n\n<div style=\"border-left:4px solid #4338ca;background:#f8f9ff;padding:18px 22px;margin-bottom:28px;border-radius:0 8px 8px 0\">\n<p style=\"margin:0;font-size:18px;font-weight:600;color:#4338ca\">2026년 미국에서 AI 교육 입법 전쟁이 벌어지고 있다. 조지타운대 FutureEd의 트래커에 따르면 올해 회기에만 23개 주에서 49개의 AI 교육 관련 법안이 발의됐다. AI 리터러시를 졸업 요건에 넣고, 교사 연수를 의무화하며, 교실 내 AI 사용 가이드라인을 법으로 정하려는 움직임이다. 2029년 PISA에서 AI 리터러시가 처음 평가되는 것이 이 흐름의 결정적 촉매다.</p>\n</div>\n\n<figure class=\"kg-card kg-image-card kg-width-full\">\n<img src=\"https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&q=80\" alt=\"미국 학교 교실\" style=\"width:100%;border-radius:8px\" />\n<figcaption style=\"text-align:center;font-size:14px;color:#94a3b8;margin-top:8px\">미국 각 주가 AI를 교실의 필수 요소로 법제화하고 있다 (Unsplash)</figcaption>\n</figure>\n\n<h2 style=\"font-size:19px;margin-top:36px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">49개 법안, 세 가지 패턴</h2>\n<p style=\"font-size:17px\">FutureEd가 추적하는 49개 법안은 크게 세 가지 유형으로 분류된다. 가장 많은 것은 AI 리터러시·교육과정 의무화다. 일리노이주의 HB 4411은 9학년부터 1년간 AI를 필수과목으로 이수하도록 규정한다. 오하이오(HB 594), 앨라배마(HB 329), 미주리(HB 3139)도 유사한 교육과정 법안을 추진 중이다. 대부분은 졸업 학점 총량을 늘리지 않고 수학·과학·CTE·선택 과목 학점에 AI 교과를 편입하는 방식을 택한다.</p>\n<p style=\"font-size:17px\">두 번째 유형은 교사 연수·자격 요건 강화다. 아이오와주는 이 주제로만 3개 법안을 발의했다. 교사 양성 과정에 AI를 포함시키고, 현직 교사의 전문성 개발 프로그램을 의무화하는 내용이다. 세 번째는 학교 내 AI 사용 가이드라인과 안전장치를 법으로 정하는 유형이다. 생성형 AI가 교실에 급속히 확산되면서 학술 윤리, 데이터 프라이버시, 알고리즘 편향에 대한 우려가 법안으로 구체화되고 있다.</p>\n\n<h2 style=\"font-size:19px;margin-top:36px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">하와이 모델: 6주 집중 과정과 500만 달러</h2>\n<p style=\"font-size:17px\">49개 법안 중 가장 독특한 접근은 하와이주의 SB 2212다. 하와이는 기존 교육과정에 AI를 편입하는 대신, 6주짜리 AI 리터러시 집중 과정을 별도로 설계하고 500만 달러의 보조금을 배정했다. 짧은 기간에 핵심 역량을 압축적으로 가르치겠다는 전략이다.</p>\n<p style=\"font-size:17px\">유타주(HB 273)는 또 다른 모델을 보여준다. AI 교육과정을 주 교육위원회가 중앙에서 설계해 전체 학군에 일관되게 배포하는 하향식 접근이다. 각 주의 인구 규모, 교육 인프라, 재정 여건에 따라 AI 교육의 구현 방식이 제각각이라는 점은 한국의 AI 디지털 교과서 정책에도 시사점을 준다. 중앙정부 주도의 일괄 도입이 효율적인지, 지역별 맞춤형이 효과적인지의 문제다.</p>\n\n<h2 style=\"font-size:19px;margin-top:36px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">2029 PISA가 만든 시간표</h2>\n<p style=\"font-size:17px\">이 모든 움직임의 배경에는 OECD의 결정이 있다. 2029년 PISA 평가에서 AI 리터러시가 처음으로 국제 학력 평가 항목에 포함된다. 읽기·수학·과학에 이어 AI가 글로벌 교육 역량의 네 번째 기둥으로 자리잡는 것이다. Education Commission of the States에 따르면 2025년 4월 기준 이미 28개 주가 K-12 AI 가이던스를 발표했지만, 가이던스와 법률 사이에는 큰 차이가 있다.</p>\n<p style=\"font-size:17px\">연방 차원에서도 Cantwell-Moran의 'NSF AI Education Act'가 발의되면서 주 정부와 연방 정부가 동시에 AI 교육 법제화에 나선 형국이다. 한국은 2025년부터 AI 디지털 교과서를 도입하며 선제적으로 움직였지만, 미국 23개 주의 실험이 보여주는 다양한 모델—필수과목화, 집중 과정, 교사 연수 의무화—은 한국의 다음 단계 정책 설계에 참고할 만한 사례들이다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0;margin-top:36px;padding-top:20px\">\n<h3 style=\"font-size:16px;color:#64748b;margin-bottom:12px\">📎 참고자료</h3>\n<ol style=\"font-size:15px;color:#475569;padding-left:20px\">\n<li><a href=\"https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/\" style=\"color:#4338ca\">FutureEd 2026 AI 교육 법안 트래커 (조지타운대)</a></li>\n<li><a href=\"https://excelinedinaction.org/2026/03/04/february-2026-state-actions-update-k-12-education-policies-progress/\" style=\"color:#4338ca\">ExcelinEd 2026년 2월 주별 K-12 정책 업데이트</a></li>\n<li><a href=\"https://www.future-ed.org/legislative-tracker-2026-state-tutoring-bills/\" style=\"color:#4338ca\">FutureEd AI 튜터링 법안 트래커</a></li>\n<li><a href=\"https://www.ecs.org/artificial-intelligence-ai-education-task-forces/\" style=\"color:#4338ca\">Education Commission of the States: 28개 주 AI 가이던스</a></li>\n<li><a href=\"https://excelinedinaction.org/2026/02/09/january-2026-state-actions-update-tracking-student-centered-k-12-education-legislation-across-39-states/\" style=\"color:#4338ca\">ExcelinEd 2026년 1월 39개 주 교육 법안 추적</a></li>\n</ol>\n</div>\n\n<p style=\"font-size:13px;color:#cbd5e1;margin-top:32px\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>",
+    "ghost_tags": [
+      "AI 교육",
+      "AI 리터러시",
+      "미국 정책",
+      "K-12",
+      "PISA"
+    ],
+    "references": [
+      "https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/",
+      "https://excelinedinaction.org/2026/03/04/february-2026-state-actions-update-k-12-education-policies-progress/",
+      "https://www.future-ed.org/legislative-tracker-2026-state-tutoring-bills/",
+      "https://www.ecs.org/artificial-intelligence-ai-education-task-forces/",
+      "https://excelinedinaction.org/2026/02/09/january-2026-state-actions-update-tracking-student-centered-k-12-education-legislation-across-39-states/"
+    ],
+    "word_count": 880,
+    "category": "policy"
+  },
+  "fact_check": {
+    "score": 93,
+    "verdict": "PASS",
+    "issues": [
+      "기사에서 하와이 SB 2212를 \"6주 AI 리터러시 집중 과정과 500만 달러 보조금\"으로 설명. FutureEd 트래커 원문 확인 결과 SB 2212에 6주 과정과 $5M AI Education Grant Pilot Program 모두 포함되어 있어 정확함."
+    ],
+    "verified_claims": [
+      "23개 주 49개 AI 교육 법안 — FutureEd(조지타운대) 2026 트래커 원문 확인",
+      "일리노이 HB 4411: 9학년부터 1년간 CS+AI 필수 — FutureEd 트래커 원문 확인 (2028-29학년도 입학생부터)",
+      "하와이 SB 2212: 6주 AI 리터러시 과정 + $5M 보조금 — FutureEd 트래커 원문 확인",
+      "아이오와 3개 법안(H.S.B. 610, H.F. 2540, S.F. 2094) — FutureEd 트래커 원문 확인",
+      "오하이오 HB 594, 앨라배마 HB 329, 미주리 HB 3139 — FutureEd 트래커 원문 확인",
+      "유타 HB 273 — FutureEd 트래커 원문 확인",
+      "2029 PISA AI 리터러시 첫 평가 — OECD 공식 사이트(PISA 2029 MAIL) 확인",
+      "28개 주 K-12 AI 가이던스(2025년 4월) — Education Commission of the States 확인",
+      "대부분 졸업학점 총량 불변, 기존 과목 학점으로 편입 — FutureEd 트래커 원문 확인"
+    ]
+  },
+  "meta_title": "미국 23개 주에서 AI 교육 법안 49개 쏟아진다… '읽기·쓰기'처럼 필수과목 되나",
+  "meta_description": "일리노이 9학년 필수, 하와이 500만 달러 투자… 2029 PISA AI 리터러시 평가 앞두고 입법 러시",
+  "desk_approved_at": "2026-03-09T05:37:48.507663Z",
+  "copy_edited_at": "2026-03-09T05:57:18.285Z",
+  "ghost_id": "69ae68bcff4fbf0001ab7828",
+  "ghost_url": "https://insight.ubion.global/p/58ac3173-d47e-431b-863e-6238526abcc8/",
+  "published_at": "2026-03-09T06:29:16.873Z"
+}

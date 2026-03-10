@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Anthropic Report Says It's Too Early for AI to Affect Jobs",
+    "url": "https://aibusiness.com/generative-ai/anthropic-report-says-early-for-ai-to-affect-jobs",
+    "source_name": "AI Business",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Anthropic publishes a new report arguing it is still too early for AI to significantly affect employment, despite growing concerns about AI coding platforms like Claude Code and OpenAI's Codex threatening coding-based jobs. The report highlights the gap between AI capability and actual workforce displacement.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-07T21:59:00+09:00"
+  },
+  "digest": {
+    "headline": "앤트로픽 보고서 \"AI가 일자리에 영향 미치기엔 아직 이르다\"",
+    "lead": "앤트로픽이 AI가 고용 시장에 본격적인 영향을 미치기에는 아직 이르다는 내용의 보고서를 발표했다. 클로드 코드, 오픈AI 코덱스 등 AI 코딩 플랫폼이 개발자 일자리를 위협한다는 우려가 커지는 가운데, AI 기술 역량과 실제 노동력 대체 사이에는 여전히 상당한 격차가 존재한다는 분석이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">앤트로픽이 AI가 고용 시장에 본격적인 영향을 미치기에는 아직 이르다는 내용의 보고서를 발표했다. 클로드 코드, 오픈AI 코덱스 등 AI 코딩 플랫폼이 개발자 일자리를 위협한다는 우려가 커지는 가운데, AI 기술 역량과 실제 노동력 대체 사이에는 여전히 상당한 격차가 존재한다는 분석이다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">최근 AI 코딩 도구의 급속한 발전으로 소프트웨어 개발자를 비롯한 지식 노동자의 일자리 대체 우려가 확산되고 있다. 앤트로픽의 클로드 코드와 오픈AI의 코덱스는 코드 작성, 디버깅, 리뷰 등을 자동화하며 업계의 주목을 받아왔다. 이런 분위기 속에서 앤트로픽이 직접 보고서를 내어 \"현재 AI 수준으로는 대규모 고용 변동을 일으키기 어렵다\"고 진단한 점이 눈길을 끈다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 보고서는 AI 기업이 스스로 자사 기술의 한계를 인정한 드문 사례로 읽힌다. AI가 특정 작업의 생산성을 높이는 것과 해당 직무를 완전히 대체하는 것 사이에는 조직 구조, 규제, 업무 복잡성 등 다층적 장벽이 존재한다는 시각이다. 다만 AI 역량이 빠르게 진화하고 있어 이 격차가 얼마나 오래 유지될지는 불확실하며, 기업과 정부 모두 선제적 대비가 필요하다는 메시지도 담고 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI가 당장 일자리를 대체하지 않더라도, 교육 현장에서는 AI 도구 활용 역량을 키우는 커리큘럼 전환이 시급하다. 코딩 교육 플랫폼은 AI 코딩 보조도구와의 협업 방식을 가르치는 방향으로 진화해야 하며, \"AI 시대의 직무 역량\"을 재정의하는 에듀테크 콘텐츠 수요가 커질 전망이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://aibusiness.com/generative-ai/anthropic-report-says-early-for-ai-to-affect-jobs\" style=\"color:#FF6B35;text-decoration:none;\">AI Business</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "research",
+      "anthropic"
+    ],
+    "meta_title": "앤트로픽 \"AI 일자리 영향 아직 이르다\" 보고서 발표",
+    "meta_description": "앤트로픽이 AI가 고용 시장에 본격적 영향을 미치기엔 이르다는 보고서를 발표했다. AI 코딩 도구의 발전에도 실제 일자리 대체까지는 상당한 격차가 존재한다는 분석.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T21:59:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T22:17:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T13:35:40.470Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ac29acff4fbf0001ab73a7",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ac29acff4fbf0001ab73a7",
+    "public_url": "https://insight.ubion.global/aenteuropig-bogoseo-aiga-iljarie-yeonghyang-micigien-ajig-ireuda/",
+    "status": "published",
+    "published_at": "2026-03-07T13:35:40.000Z"
+  }
+}

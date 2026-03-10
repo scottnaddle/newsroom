@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Loop Capital thinks this chip manufacturer could more than double on an AI 'super cycle'",
+    "url": "https://www.cnbc.com/2026/03/05/loop-capital-thinks-this-chip-manufacturer-could-more-than-double-on-an-ai-super-cycle.html",
+    "source_name": "CNBC",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "Loop Capital analyst Ananda Baruah designated Astera Labs as a key AI silicon pure play company positioned to capitalize on the ongoing AI 'super cycle.' Despite a 32% decline this year, the semiconductor stock remains 66% higher over the past 12 months, reflecting strong investor confidence in AI chip demand.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-06T04:09:00Z"
+  },
+  "digest": {
+    "headline": "AI 칩 전문기업 아스테라 랩스, '슈퍼사이클' 최대 수혜주로 평가",
+    "lead": "루프 캐피털 분석가가 아스테라 랩스를 AI 칩 시장의 핵심 순수 수혜 기업으로 지목했다. 올해 32% 하락했음에도 12개월 기준 66% 상승한 주가는 AI 칩 수요에 대한 강한 시장 신뢰를 반영한다. 전문가들은 향후 추가 상승 여력이 충분하다고 전망한다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">루프 캐피털 분석가가 아스테라 랩스를 AI 칩 시장의 핵심 순수 수혜 기업으로 지목했다. 올해 32% 하락했음에도 12개월 기준 66% 상승한 주가는 AI 칩 수요에 대한 강한 시장 신뢰를 반영한다. 전문가들은 향후 추가 상승 여력이 충분하다고 전망한다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">AI 칩은 생성형 AI 확산의 핵심 기반 기술이다. 엔비디아 독점에서 벗어나 아스테라 랩스, 세모어(Cerebras), 그래프코어 같은 전문 기업들이 경쟁하고 있다. 아스테라 랩스는 특히 데이터센터 인터커넥트 칩 분야 선도 업체로, AI 인프라 수요의 급증으로 혜택을 받고 있다. 루프 캐피털의 분석은 AI '슈퍼사이클'이 여전히 초반이라는 시장 평가를 반영한다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">아스테라 랩스 같은 칩 기업의 성장은 AI 인프라 투자의 가속화를 의미한다. 현재 주가 변동성에도 불구하고 장기 수요는 확실한 상황이다. 전 산업의 AI 도입 확대, 특히 클라우드 서비스와 엣지 AI 확산이 고성능 칩 수요를 계속 견인할 것으로 예상된다. 이는 글로벌 반도체 산업 구도 재편의 신호이기도 하다.</p>\n\n  <!-- 에듀테크 시사점 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">고성능 AI 칩 기술의 고도화는 에듀테크 기업들의 AI 모델 학습과 추론 비용을 획기적으로 낮춘다. 특히 오픈 표준 기반의 인터커넥트 칩은 엔비디아 독점에서 벗어나 더 저렴한 AI 인프라 선택지를 제공한다. 이는 한국 스타트업이 글로벌 수준의 AI 기반 교육 서비스를 더 빠르고 저비용으로 구축할 수 있게 만든다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.cnbc.com/2026/03/05/loop-capital-thinks-this-chip-manufacturer-could-more-than-double-on-an-ai-super-cycle.html\" style=\"color:#FF6B35;text-decoration:none;\">CNBC</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "technology",
+      "research"
+    ],
+    "meta_title": "AI 칩 전문기업 아스테라 랩스, 슈퍼사이클 최대 수혜주로 평가",
+    "meta_description": "AI 인프라 투자 확대 속에서 아스테라 랩스 같은 칩 기업의 성장과 에듀테크 시사점을 분석합니다.",
+    "word_count": 550
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T04:09:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T13:12:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T04:42:39.208Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aa5b3fff4fbf0001ab6df0",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aa5b3fff4fbf0001ab6df0",
+    "public_url": "https://ubion.ghost.io/ai-cib-jeonmungieob-aseutera-raebseu-syupeosaikeul-coedae-suhyejuro-pyeongga/",
+    "status": "published",
+    "published_at": "2026-03-06T04:42:39.000Z"
+  }
+}

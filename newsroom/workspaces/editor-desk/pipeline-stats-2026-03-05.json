@@ -1,0 +1,114 @@
+{
+  "timestamp": "2026-03-05T15:54:00+09:00",
+  "timezone": "Asia/Seoul",
+  "editor": "헤일리 (Hailey)",
+  "session_duration_minutes": 30,
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "assigned": 0,
+      "queued": 0,
+      "rejected": 0
+    },
+    "02_assigned": 0,
+    "03_reported": 0,
+    "04_drafted": {
+      "total": 7,
+      "revise_pending": 1,
+      "notes": "WRITER 병목 — 빠른 처리 필요"
+    },
+    "05_fact_checked": {
+      "total": 0,
+      "notes": "STEP 2 완료: 모든 파일 라우팅됨"
+    },
+    "06_desk_approved": {
+      "total": 1,
+      "notes": "NPR College Rules (신뢰도 89, 에디터 100점)"
+    },
+    "07_copy_edited": {
+      "total": 3,
+      "notes": "교열 대기 중 (LG AI Graduate 포함)"
+    },
+    "08_published": {
+      "total": 54,
+      "notes": "발행 완료"
+    },
+    "rejected": {
+      "total": 31,
+      "today_added": 1,
+      "notes": "Korean Education (신뢰도 79, 에디터 65점) 추가"
+    }
+  },
+  "routing_summary": {
+    "05_fact_checked_processed": 4,
+    "fasttrack_90plus": {
+      "count": 1,
+      "files": [
+        {
+          "id": "2026-03-05T14-12-lg-ai-graduate-school",
+          "title": "LG AI Graduate School",
+          "confidence": 91,
+          "route": "07-copy-edited",
+          "reason": "신뢰도 90+ — 교열 스킵"
+        }
+      ]
+    },
+    "approved_80_89": {
+      "count": 1,
+      "files": [
+        {
+          "id": "2026-03-05-npr-ai-college-rules",
+          "title": "NPR College Rules",
+          "confidence": 89,
+          "editor_checklist_score": 100,
+          "route": "06-desk-approved",
+          "reason": "에디터 체크 100점 APPROVE"
+        }
+      ]
+    },
+    "revise_75_79": {
+      "count": 1,
+      "files": [
+        {
+          "id": "2026-03-05-benton-ai-literacy",
+          "title": "Benton AI Literacy",
+          "confidence": 86,
+          "editor_checklist_score": 80,
+          "route": "04-drafted",
+          "reason": "REVISE: 출처 부족 (1개 → 3개 필요)",
+          "revision_count": 1
+        }
+      ]
+    },
+    "rejected_below_75": {
+      "count": 1,
+      "files": [
+        {
+          "id": "2026-03-05-korean-education",
+          "title": "AI Transforming Korean Education",
+          "confidence": 79,
+          "editor_checklist_score": 65,
+          "route": "rejected",
+          "reason": "KILL: 정확성 부족 (팩트체크 72점), 법적 안전성 미달"
+        }
+      ]
+    }
+  },
+  "bottleneck": {
+    "primary": "04_drafted (7파일)",
+    "reason": "WRITER 단계 병목",
+    "impact": "05→06→07→08 체인 지연",
+    "action_required": "WRITER 우선 실행"
+  },
+  "quality_metrics": {
+    "processed": 4,
+    "pass_rate_percent": 50,
+    "details": {
+      "fasttrack": 1,
+      "approved": 1,
+      "revise": 1,
+      "killed": 1
+    }
+  },
+  "notes": "STEP 1-5 완료. 05-fact-checked 파일 모두 처리됨. 병목: 04-drafted → WRITER 우선 필요. 다음 에디터/데스크 점검 권장 시간: 2026-03-06 (또는 04-drafted 파일 3개 이상 진행 시)"
+}

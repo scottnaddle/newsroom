@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-03-06T16:40:00+09:00",
+  "stage_counts": {
+    "01-sourced": 0,
+    "02-assigned": 6,
+    "03-reported": 0,
+    "04-drafted": 0,
+    "05-fact-checked": 0,
+    "06-desk-approved": 0,
+    "07-copy-edited": 0,
+    "08-published": 12,
+    "rejected": 24
+  },
+  "bottleneck": "resolved",
+  "action_taken": "01-sourced → 02-assigned 수동 배정 (6개)",
+  "root_cause": "Assignment 에이전트/스크립트 누락",
+  "recommendation": "Assignment 에이전트 cron 추가 필요",
+  "next_check": "2026-03-06T17:10:00+09:00"
+}

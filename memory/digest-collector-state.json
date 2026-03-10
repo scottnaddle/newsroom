@@ -1,0 +1,10 @@
+{
+  "lastRun": "2026-03-06T10:09:00+09:00",
+  "queriesSuccessful": 2,
+  "queriesFailed": 1,
+  "urlsReturned": 15,
+  "newArticlesSourced": 0,
+  "duplicatesSkipped": 15,
+  "status": "active",
+  "notes": "Brave API rate limit encountered on 3rd query. Mostly aggregator results. No new articles meeting 85+ relevance threshold."
+}

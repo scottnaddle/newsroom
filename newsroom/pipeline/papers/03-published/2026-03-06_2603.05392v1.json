@@ -1,0 +1,66 @@
+{
+  "arxiv_id": "2603.05392v1",
+  "title": "Legal interpretation and AI: from expert systems to argumentation and LLMs",
+  "summary": "AI and Law research has encountered legal interpretation in different ways, in the context of its evolving approaches and methodologies. Research on expert system has focused on legal knowledge engineering, with the goal of ensuring that human-generated interpretations can be precisely transferred into knowledge-bases, to be consistently applied. Research on argumentation has aimed at representing the structure of interpretive arguments, as well as their dialectical interactions, to assess of the acceptability of interpretive claims within argumentation frameworks. Research on machine learning has focused on the automated generation of interpretive suggestions and arguments, through general and specialised language models, now being increasingly deployed in legal practice.",
+  "authors": [
+    "Václav Janeček",
+    "Giovanni Sartor"
+  ],
+  "categories": [
+    "cs.AI",
+    "cs.AI"
+  ],
+  "published": "2026-03-05T17:22:56Z",
+  "updated": "2026-03-05T17:22:56Z",
+  "pdf_url": "https://arxiv.org/pdf/2603.05392v1",
+  "abs_url": "https://arxiv.org/abs/2603.05392v1",
+  "relevance_score": 74,
+  "source_query": "LLM classroom teaching",
+  "collected_at": "2026-03-06T22:47:08.795Z",
+  "stage": "published",
+  "audit_log": [
+    {
+      "agent": "paper-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T22:47:09.799Z",
+      "source": "arxiv"
+    },
+    {
+      "agent": "paper-summarizer",
+      "action": "summarized",
+      "timestamp": "2026-03-06T22:47:21.726Z"
+    },
+    {
+      "agent": "paper-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T22:47:35.850Z"
+    }
+  ],
+  "korean_title": "법 해석과 AI: 전문가 시스템부터 논증 및 거대 언어 모델까지",
+  "korean_summary": "이 논문은 AI와 법 분야에서 법 해석을 다루는 연구가 어떻게 발전해왔는지를 조명합니다. 초기 전문가 시스템 시절부터 최근의 거대 언어 모델(LLM)까지, 각 시대별로 연구의 초점과 방법론이 어떻게 변화해왔는지를 분석합니다. 연구는 인간의 해석을 지식 베이스로 전환하는 것부터, 해석 논증의 구조를 모델링하고, 최근에는 자동으로 해석을 생성하는 AI 개발까지 광범위하게 다룹니다.",
+  "key_findings": [
+    "법 해석과 AI 연구는 전문가 시스템, 논론, 거대 언어 모델(LLM)의 세 가지 주요 패러다임을 거쳐 발전해왔다.",
+    "초기 연구는 인간의 해석을 체계화하는 데 집중했으나, 최근 연구는 AI가 해석을 자동으로 생성하고 평가하는 능력에 초점을 맞추고 있다.",
+    "법률 실무에서는 점차적으로 LLM을 활용하여 해석 제안과 논증을 생성하는 AI 도구가 도입되고 있다."
+  ],
+  "implications": "법 해석과 AI의 융합은 법학 교육에 새로운 패러다임을 요구합니다. 향후 법률가들은 AI 도구의 활용 능력뿐만 아니라, AI가 생성하는 해석의 타당성을 비판적으로 분석하고 평가할 수 있는 역량을 갖추는 것이 중요해질 것입니다.",
+  "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>법 해석과 AI: 전문가 시스템부터 논증 및 거대 언어 모델까지</title>\n</head>\n<body style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;padding:20px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n\n  <!-- 논문 정보 박스 -->\n  <div style=\"background:#f8f9ff;border-left:4px solid #8b5cf6;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:32px;\">\n    <p style=\"margin:0 0 12px;font-size:15px;color:#64748b;\">\n      <strong>📄 논문</strong> | Václav Janeček, Giovanni Sartor\n    </p>\n    <p style=\"margin:0 0 8px;font-size:14px;color:#64748b;\">\n      <strong>게재일:</strong> 2026. 3. 6. | \n      <strong>arXiv:</strong> <a href=\"https://arxiv.org/abs/2603.05392v1\" style=\"color:#8b5cf6;\">2603.05392v1</a>\n    </p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">\n      <a href=\"https://arxiv.org/pdf/2603.05392v1\" style=\"color:#8b5cf6;margin-right:16px;\">📥 PDF 다운로드</a>\n      <a href=\"https://arxiv.org/abs/2603.05392v1\" style=\"color:#8b5cf6;\">🔗 원문 보기</a>\n    </p>\n  </div>\n\n  <!-- 한국어 요약 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📝 한국어 요약</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">이 논문은 AI와 법 분야에서 법 해석을 다루는 연구가 어떻게 발전해왔는지를 조명합니다. 초기 전문가 시스템 시절부터 최근의 거대 언어 모델(LLM)까지, 각 시대별로 연구의 초점과 방법론이 어떻게 변화해왔는지를 분석합니다. 연구는 인간의 해석을 지식 베이스로 전환하는 것부터, 해석 논증의 구조를 모델링하고, 최근에는 자동으로 해석을 생성하는 AI 개발까지 광범위하게 다룹니다.</p>\n\n  <!-- 핵심 발견 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">💡 핵심 발견</h2>\n  <ul style=\"margin:0 0 24px;padding-left:24px;line-height:1.9;\">\n    <li style=\"margin-bottom:8px;\">법 해석과 AI 연구는 전문가 시스템, 논론, 거대 언어 모델(LLM)의 세 가지 주요 패러다임을 거쳐 발전해왔다.</li>\n    <li style=\"margin-bottom:8px;\">초기 연구는 인간의 해석을 체계화하는 데 집중했으나, 최근 연구는 AI가 해석을 자동으로 생성하고 평가하는 능력에 초점을 맞추고 있다.</li>\n    <li style=\"margin-bottom:8px;\">법률 실무에서는 점차적으로 LLM을 활용하여 해석 제안과 논증을 생성하는 AI 도구가 도입되고 있다.</li>\n  </ul>\n\n  <!-- 교육적 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">🎓 교육적 시사점</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">법 해석과 AI의 융합은 법학 교육에 새로운 패러다임을 요구합니다. 향후 법률가들은 AI 도구의 활용 능력뿐만 아니라, AI가 생성하는 해석의 타당성을 비판적으로 분석하고 평가할 수 있는 역량을 갖추는 것이 중요해질 것입니다.</p>\n\n  <!-- 한국어 초록 (원문 번역) -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📖 초록 (한국어 번역)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;background:#fefce8;padding:16px 20px;border-radius:8px;\">AI와 법 연구는 변화하는 접근 방식과 방법론의 맥락 속에서 법 해석을 다양한 방식으로 다루어왔습니다. 전문가 시스템에 관한 연구는 인간이 생성한 해석을 지식 베이스로 정확하게 전환하여 일관되게 적용하는 것을 목표로 하는 법 지식 공학에 중점을 두었습니다. 논증에 관한 연구는 해석 논증의 구조 및 그 변증적 상호작용을 표현하여, 논증 프레임워크 내에서 해석 주장의 타당성을 평가하는 것을 목표로 했습니다. 머신러닝 연구는 일반적이고 전문적인 언어 모델을 통해 해석 제안과 논증을 자동으로 생성하는 데 초점을 맞추고 있으며, 이는 이제 법률 실무에서 점차 활용되고 있습니다.</p>\n\n  <!-- 원문 초록 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📋 원문 초록 (Abstract)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.8;font-style:italic;color:#374151;background:#f8f9ff;padding:16px 20px;border-radius:8px;\">AI and Law research has encountered legal interpretation in different ways, in the context of its evolving approaches and methodologies. Research on expert system has focused on legal knowledge engineering, with the goal of ensuring that human-generated interpretations can be precisely transferred into knowledge-bases, to be consistently applied. Research on argumentation has aimed at representing the structure of interpretive arguments, as well as their dialectical interactions, to assess of the acceptability of interpretive claims within argumentation frameworks. Research on machine learning has focused on the automated generation of interpretive suggestions and arguments, through general and specialised language models, now being increasingly deployed in legal practice.</p>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">\n    본 요약은 AI가 작성했습니다. 원문은 위의 링크에서 확인하세요.\n  </p>\n\n</body>\n</html>",
+  "ghost": {
+    "headline": "[논문] Legal interpretation and AI: from expert systems to argumentation and LLMs",
+    "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Legal interpretation and AI: from expert systems to argumentation and LLMs</title>\n</head>\n<body style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;padding:20px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n\n  <!-- 논문 정보 박스 -->\n  <div style=\"background:#f8f9ff;border-left:4px solid #059669;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:32px;\">\n    <p style=\"margin:0 0 12px;font-size:15px;color:#64748b;\">\n      <strong>📄 논문</strong> | Václav Janeček, Giovanni Sartor\n    </p>\n    <p style=\"margin:0 0 8px;font-size:14px;color:#64748b;\">\n      <strong>게재일:</strong> 2026. 3. 6. | \n      <strong>arXiv:</strong> <a href=\"https://arxiv.org/abs/2603.05392v1\" style=\"color:#059669;\">2603.05392v1</a>\n    </p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">\n      <a href=\"https://arxiv.org/pdf/2603.05392v1\" style=\"color:#059669;margin-right:16px;\">📥 PDF 다운로드</a>\n      <a href=\"https://arxiv.org/abs/2603.05392v1\" style=\"color:#059669;\">🔗 원문 보기</a>\n    </p>\n  </div>\n\n  <!-- 한국어 요약 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📝 한국어 요약</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">[요약 예정] AI and Law research has encountered legal interpretation in different ways, in the context of its evolving approaches and methodologies. Research on expert system has focused on legal knowledge engineering, with the goal of ensuring that human-generated interpretations can be precisely transferred i...</p>\n\n  <!-- 핵심 발견 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">💡 핵심 발견</h2>\n  <ul style=\"margin:0 0 24px;padding-left:24px;line-height:1.9;\">\n    <li style=\"margin-bottom:8px;\">이 논문은 AI 교육 분야의 새로운 접근법을 제시합니다.</li>\n    <li style=\"margin-bottom:8px;\">실험 결과 교육 현장에서의 AI 활용 가능성을 보여줍니다.</li>\n    <li style=\"margin-bottom:8px;\">향후 연구 방향과 실제 적용 방안을 논의합니다.</li>\n  </ul>\n\n  <!-- 교육적 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">🎓 교육적 시사점</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">이 연구는 AI 기술의 교육 현장 도입에 있어 중요한 시사점을 제공합니다. 교사와 학생 모두에게 긍정적인 영향을 미칠 수 있으나, 신중한 적용이 필요합니다.</p>\n\n  <!-- 원문 초록 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📋 원문 초록 (Abstract)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.8;font-style:italic;color:#374151;background:#f8f9ff;padding:16px 20px;border-radius:8px;\">AI and Law research has encountered legal interpretation in different ways, in the context of its evolving approaches and methodologies. Research on expert system has focused on legal knowledge engineering, with the goal of ensuring that human-generated interpretations can be precisely transferred into knowledge-bases, to be consistently applied. Research on argumentation has aimed at representing the structure of interpretive arguments, as well as their dialectical interactions, to assess of the acceptability of interpretive claims within argumentation frameworks. Research on machine learning has focused on the automated generation of interpretive suggestions and arguments, through general and specialised language models, now being increasingly deployed in legal practice.</p>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">\n    본 요약은 AI가 작성했습니다. 원문은 위의 링크에서 확인하세요.\n  </p>\n\n</body>\n</html>",
+    "ghost_tags": [
+      "ai-papers",
+      "arxiv"
+    ],
+    "meta_title": "Legal interpretation and AI: from expert systems to argumentation and LLMs | AI 교육 논문",
+    "meta_description": "[요약 예정] AI and Law research has encountered legal interpretation in different ways, in the context of its evolving approaches and methodologies. Resea",
+    "feature_image_alt": "AI 교육 논문"
+  },
+  "publish_result": {
+    "ghost_post_id": "69ab5987ff4fbf0001ab712b",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ab5987ff4fbf0001ab712b",
+    "public_url": "https://ubion.ghost.io/nonmun-legal-interpretation-and-ai-from-expert-systems-to-argumentation-and-llms/",
+    "status": "published",
+    "published_at": "2026-03-06T22:47:35.000Z"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Google Launches TensorFlow 2.21 And LiteRT: Faster GPU Performance, New NPU Acceleration, And Seamless PyTorch Edge Deployment Upgrades",
+    "url": "https://www.marktechpost.com/2026/03/06/google-launches-tensorflow-2-21-and-litert-faster-gpu-performance-new-npu-acceleration-and-seamless-pytorch-edge-deployment-upgrades/",
+    "source_name": "MarkTechPost",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "Google released TensorFlow 2.21 with LiteRT graduating to production-ready status, replacing TensorFlow Lite. Key improvements include 1.4x faster GPU performance, new NPU acceleration, expanded quantization support (INT2/INT4), and first-class PyTorch and JAX model conversion for on-device deployment.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-09T08:16:00+09:00"
+  },
+  "digest": {
+    "headline": "구글, TensorFlow 2.21 출시…LiteRT로 온디바이스 AI 추론 새 시대 개막",
+    "lead": "구글이 텐서플로 2.21을 공식 출시하며, 온디바이스 추론 프레임워크 LiteRT를 정식 프로덕션 단계로 승격시켰다. 기존 TensorFlow Lite를 공식 대체하는 LiteRT는 GPU 성능 1.4배 향상, NPU 가속 지원, INT2/INT4 양자화 확대, PyTorch·JAX 모델의 원활한 변환 배포를 제공한다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">구글이 텐서플로 2.21을 공식 출시하며, 온디바이스 추론 프레임워크 LiteRT를 정식 프로덕션 단계로 승격시켰다. 기존 TensorFlow Lite를 공식 대체하는 LiteRT는 GPU 성능 1.4배 향상, NPU 가속 지원, INT2/INT4 양자화 확대, PyTorch·JAX 모델의 원활한 변환 배포를 제공한다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">LiteRT는 스마트폰·IoT 기기 등 엣지 디바이스에서 AI 모델을 효율적으로 실행하기 위한 구글의 차세대 추론 프레임워크다. 이번 업데이트에서 프리뷰를 졸업하고 정식 프로덕션으로 전환됐다. 핵심 개선 사항으로는 GPU 추론 속도 1.4배 향상, NPU(신경처리장치) 통합 가속 워크플로, INT2·INT4까지 확대된 양자화 지원이 있다. 특히 PyTorch와 JAX로 훈련한 모델을 텐서플로 재작성 없이 직접 변환·배포할 수 있어, 프레임워크 종속성 문제가 크게 완화됐다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">AI 추론이 클라우드에서 엣지로 이동하는 대세 속에서 LiteRT는 구글의 온디바이스 AI 전략의 핵심 축이다. 구글의 경량 모델 Gemma 등 생성형 AI를 스마트폰에서 직접 구동하는 시나리오를 정식 지원하게 됐다. PyTorch·JAX 호환성 확대는 연구자와 개발자 생태계를 LiteRT로 끌어들이는 전략적 포석으로, 온디바이스 AI 프레임워크 경쟁에서 구글의 입지를 강화할 것으로 보인다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">LiteRT의 정식 출시는 교육용 앱에서 온디바이스 AI 기능 탑재를 크게 앞당길 수 있다. 인터넷 연결 없이도 학생 기기에서 실시간 음성 인식, 필기 분석, 개인화 추천이 가능해져, 오프라인 환경의 학교나 개발도상국 교육 현장에서 AI 학습 도구 보급의 문턱이 낮아진다. INT2/INT4 양자화는 저사양 태블릿에서도 AI 모델 구동을 가능하게 해 교육 디바이스 접근성을 높인다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.marktechpost.com/2026/03/06/google-launches-tensorflow-2-21-and-litert-faster-gpu-performance-new-npu-acceleration-and-seamless-pytorch-edge-deployment-upgrades/\" style=\"color:#FF6B35;text-decoration:none;\">MarkTechPost</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "google"
+    ],
+    "meta_title": "구글 TensorFlow 2.21 출시, LiteRT로 온디바이스 AI 추론 새 시대",
+    "meta_description": "구글이 텐서플로 2.21을 출시하고 LiteRT를 정식 프로덕션으로 승격시켰다. GPU 1.4배 성능 향상, NPU 가속, INT2/INT4 양자화, PyTorch·JAX 변환을 지원하며 온디바이스 AI 시대를 연다.",
+    "word_count": 560,
+    "feature_image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T08:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T08:45:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T23:58:24.545Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae0d20ff4fbf0001ab76ae",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae0d20ff4fbf0001ab76ae",
+    "public_url": "https://insight.ubion.global/gugeul-tensorflow-2-21-culsi-litertro-ondibaiseu-ai-curon-sae-sidae-gaemag/",
+    "status": "published",
+    "published_at": "2026-03-08T23:58:24.000Z"
+  }
+}

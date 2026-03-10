@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Lio Secures $30M Series A to Deploy AI Agents for Enterprise Procurement Automation",
+    "url": "https://theaiinsider.tech/2026/03/06/lio-secures-30m-series-a-to-deploy-ai-agents-for-enterprise-procurement-automation/",
+    "source_name": "The AI Insider",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Lio has raised $30 million in Series A funding to deploy AI agents for enterprise procurement automation. The financing brings the company's total funding to $33 million and will support expansion across the United States while accelerating development of its AI-driven procurement platform.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-07T03:45:00+09:00"
+  },
+  "digest": {
+    "headline": "기업 조달 자동화 스타트업 리오, 300억원 시리즈A 유치",
+    "lead": "엔터프라이즈 조달 자동화 스타트업 리오(Lio)가 안드리센 호로위츠 주도로 3,000만 달러(약 440억원) 시리즈A 투자를 유치했다. 이번 투자로 누적 투자금은 3,300만 달러에 달하며, 미국 시장 확장과 AI 기반 조달 플랫폼 고도화에 활용될 예정이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">엔터프라이즈 조달 자동화 스타트업 리오(Lio)가 안드리센 호로위츠 주도로 3,000만 달러(약 440억원) 시리즈A 투자를 유치했다. 이번 투자로 누적 투자금은 3,300만 달러에 달하며, 미국 시장 확장과 AI 기반 조달 플랫폼 고도화에 활용될 예정이다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">2023년 설립된 리오는 기업의 복잡한 조달 워크플로우를 자동화하는 AI 에이전트를 개발한다. 공급업체 평가, 문서 분석, 컴플라이언스 체크, 계약 협상, 구매 거래 완료까지 전 과정을 자율적으로 수행하는 것이 특징이다. 창업자 블라디미르 카일은 \"전통적인 소프트웨어 워크플로우를 대신해 인간 운영자를 단순히 보조하는 것이 아니라 조달 프로세스를 직접 실행하는 자율 AI 에이전트\"라고 설명했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">기업 조달은 공급업체 검증, 계약 확인, 예산 승인 등 대부분 수작업에 의존해 비효율적이었다. 리오의 AI 에이전트는 이미 수십억 달러 규모의 기업 지출을 관리하며 구매 처리 시간을 획기적으로 단축하고 있다. Y Combinator와 SV Angel 등 유력 벤처캐피털도 참여한 이번 투자는 기업용 AI 자동화 시장의 성장 잠재력을 보여준다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">대학과 교육기관도 연간 수천만~수억 원의 조달 업무를 처리한다. 교재, 기자재, 소프트웨어 구매 등 반복적이고 규정이 복잡한 조달 프로세스에 AI 에이전트를 도입하면 행정 인력 부담을 줄이고 투명성을 높일 수 있다. 에듀테크 기업 역시 B2B 영업 과정에서 이런 조달 자동화 도구를 활용해 고객사의 구매 결정을 가속화하는 전략이 가능하다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://theaiinsider.tech/2026/03/06/lio-secures-30m-series-a-to-deploy-ai-agents-for-enterprise-procurement-automation/\" style=\"color:#FF6B35;text-decoration:none;\">The AI Insider</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "startup",
+      "automation"
+    ],
+    "meta_title": "리오, 300억원 투자 유치...기업 조달 자동화 AI 에이전트 확장",
+    "meta_description": "안드리센 호로위츠 주도로 리오가 3,000만 달러 시리즈A 유치. 기업 조달 워크플로우 자동화 AI 에이전트 개발 가속화.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T03:45:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T04:00:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T19:21:12.163Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ab2917ff4fbf0001ab70de",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ab2917ff4fbf0001ab70de",
+    "public_url": "https://insight.ubion.global/gieob-jodal-jadonghwa-seutateueob-rio-300eogweon-sirijeua-yuci/",
+    "status": "published",
+    "published_at": "2026-03-06T19:20:55.000Z"
+  }
+}

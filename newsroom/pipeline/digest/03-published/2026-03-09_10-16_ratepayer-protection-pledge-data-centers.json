@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Ratepayer Protection Pledge aims to keep energy costs down amid data center boom",
+    "url": "https://www.kunc.org/2026-03-06/ratepayer-protection-pledge-aims-to-keep-energy-costs-down-amid-data-center-boom",
+    "source_name": "KUNC (NPR)",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Amazon, Google, Meta, Microsoft, OpenAI, Oracle and xAI signed a nonbinding Ratepayer Protection Pledge announced by Trump during the State of the Union, promising to pay for energy infrastructure for AI data centers rather than passing costs to households. Critics say the pledge lacks enforcement mechanisms and want mandated protections by law.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-09T10:16:00+09:00"
+  },
+  "digest": {
+    "headline": "美 빅테크 7사, AI 데이터센터 전기료 부담 서약… 실효성 논란",
+    "lead": "아마존·구글·메타·마이크로소프트·OpenAI·오라클·xAI 등 7개 빅테크 기업이 AI 데이터센터 에너지 인프라 비용을 자체 부담하겠다는 '납세자 보호 서약'에 서명했다. 트럼프 대통령이 국정연설에서 발표한 이 서약은 가정 전기료 전가를 방지하겠다는 취지이나, 강제력이 없어 실효성 논란이 일고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">아마존·구글·메타·마이크로소프트·OpenAI·오라클·xAI 등 7개 빅테크 기업이 AI 데이터센터 에너지 인프라 비용을 자체 부담하겠다는 '납세자 보호 서약'에 서명했다. 트럼프 대통령이 국정연설에서 발표한 이 서약은 가정 전기료 전가를 방지하겠다는 취지이나, 강제력이 없어 실효성 논란이 일고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">카네기멜론대·노스캐롤라이나주립대 공동 분석에 따르면, 데이터센터 확장으로 2030년까지 미국 전국 전기료가 평균 8% 상승할 수 있다. 서약에는 데이터센터가 위치한 지역 공공에 추가 에너지 용량을 제공하고, 전력 부족 시 비상 발전기를 공유하겠다는 내용도 포함됐다. 그러나 이 서약은 법적 구속력이 없는 자발적 약속에 불과하다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">생물다양성센터의 진 수(Jean Su) 변호사는 실질적 이행 보장 장치가 없다고 비판하며, 법적 의무화와 데이터센터 탄소 배출 제한을 요구했다. 실제로 미국 각지에서 데이터센터 건설 유예령이 확산되고 있으며, 버니 샌더스 상원의원은 전국적 모라토리엄 법안을 발의한 상태다. 보고서에 따르면 데이터센터의 탄소 배출량은 2035년까지 이탈리아 전체 배출량에 맞먹을 전망이어서, AI 산업의 지속가능성에 대한 근본적 질문이 제기되고 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 데이터센터의 에너지 비용 상승은 클라우드 기반 에듀테크 서비스의 운영 비용에 직접적으로 반영될 수 있다. 특히 대규모 AI 모델을 활용하는 적응형 학습 플랫폼이나 AI 튜터 서비스의 경우, 인프라 비용 증가가 서비스 가격에 영향을 미칠 수 있어 교육 접근성 측면에서 주시할 필요가 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.kunc.org/2026-03-06/ratepayer-protection-pledge-aims-to-keep-energy-costs-down-amid-data-center-boom\" style=\"color:#FF6B35;text-decoration:none;\">KUNC (NPR)</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "regulation"
+    ],
+    "meta_title": "美 빅테크 7사 AI 데이터센터 전기료 자체 부담 서약, 실효성 논란",
+    "meta_description": "아마존·구글·메타 등 7개 빅테크가 AI 데이터센터 에너지 비용 자체 부담을 서약했으나, 법적 구속력이 없어 실효성 논란이 일고 있다. 2030년까지 미국 전기료 8% 상승 전망 속 데이터센터 모라토리엄 확산.",
+    "word_count": 530
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T10:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T10:45:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T01:58:25.018Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae2940ff4fbf0001ab775a",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae2940ff4fbf0001ab775a",
+    "public_url": "https://insight.ubion.global/mei-bigtekeu-7sa-ai-deiteosenteo-jeongiryo-budam-seoyag-silhyoseong-nonran/",
+    "status": "published",
+    "published_at": "2026-03-09T01:58:24.000Z"
+  }
+}

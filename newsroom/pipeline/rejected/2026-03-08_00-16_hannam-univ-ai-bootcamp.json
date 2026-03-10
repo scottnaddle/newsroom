@@ -1,0 +1,32 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=441966",
+    "title": "한남대, 교육부 '첨단산업 인재양성 부트캠프' 선정",
+    "snippet": "한남대학교 교육부-KIAT 주관 2026년 첨단산업 인재양성 부트캠프 AI 분야 운영대학 최종 선정.",
+    "published_date": "2026-03-01"
+  },
+  "relevance_score": 70,
+  "tags": [
+    "university",
+    "bootcamp",
+    "talent"
+  ],
+  "collected_at": "2026-03-08T00:16:46.903Z",
+  "reject_reason": "duplicate-topic: 부트캠프 선정 기사 2개 이미 배정 + 날짜 오래됨(3/1)",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

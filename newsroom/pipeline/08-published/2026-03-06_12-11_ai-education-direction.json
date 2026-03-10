@@ -1,0 +1,182 @@
+{
+  "id": "1741245060000-ai-education-direction",
+  "stage": "published",
+  "created_at": "2026-03-06T12:11:00+09:00",
+  "drafted_at": "2026-03-06T17:01:35+09:00",
+  "fact_checked_at": "2026-03-06T17:09:35+09:00",
+  "priority": 2,
+  "source": {
+    "title": "AI 기본 교육 방향, '생성력'만 가르칠 것인가, '사고력'을 길러낼 것인가?",
+    "url": "https://www.etnews.com/20260304000415",
+    "source_name": "전자신문 (에듀플러스)"
+  },
+  "draft": {
+    "headline": "AI 교육, '프롬프트'만 가르칠 것인가 '사고력'을 길러낼 것인가",
+    "subheadline": "정영식 교수, 활용 중심 교육의 한계 지적하고 AI 사고력 교육 주장",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n  \n  <div style=\"border-left:4px solid #4338ca;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">전주교육대학교 컴퓨터교육과 정영식 교수가 한국의 AI 기본 교육 방향에 대해 비판적 분석을 내놨다. 그는 \"프롬프트 교육이 AI 기본 교육이 될 수 없다\"며 단순 활용 중심 교육의 한계를 지적하고, AI의 원리와 윤리를 이해하는 'AI 사고력' 중심 교육이 필요하다고 주장했다.</p>\n  </div>\n\n  <figure class=\"kg-card kg-image-card kg-width-full\">\n    <img src=\"https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop&q=85&auto=format\" class=\"kg-image\" alt=\"AI 교육\">\n    <figcaption>AI 교육의 방향성에 대한 논의가 뜨겁다 (이미지: Unsplash)</figcaption>\n  </figure>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">ICT 교육의 실패, AI 교육에서 반복할 것인가</h2>\n  <p style=\"margin:0 0 36px;\">정 교수는 1990년대 후반 ICT 교육이 '활용 중심'으로 흘러갔던 우를 지적했다. 당시 PC 보급과 인터넷 연결에 집중하다 보니 '완성된 소프트웨어를 능숙하게 활용하는 능력'은 컸지만 'SW를 만드는 능력'은 약화됐다는 것이다. 그는 \"워드만 빠르게 치면 컴퓨터를 잘하는 줄 알던 시대\"라고 표현하며, 동일한 실수를 AI 교육에서 반복할 위험이 있다고 경고했다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">프롬프트 교육의 한계와 AI 사고력의 필요성</h2>\n  <p style=\"margin:0 0 36px;\">정 교수가 제시한 'AI 사고력'이란 \"AI의 기본 개념과 원리를 이해하고, AI 윤리를 바탕으로 실생활 문제를 창의적으로 해결하는 역량\"을 말한다. 핵심은 AI가 데이터로 학습하고 확률적 답을 만든다는 점을 이해하고, 오류와 편향 가능성을 인식하는 것이다. '정답 찾기'가 아닌 '근거를 들어 판단하기'의 사고방식이 필요하다는 설명이다.</p>\n\n  <blockquote style=\"border-left:4px solid #4338ca;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">\"AI가 왜 그렇게 답하는지, 어떤 한계가 있는지 이해하지 못한 채 '생성 버튼만 누르면 되는 도구'로 인식해서는 안 된다.\"</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— 정영식 전주교육대 컴퓨터교육과 교수</p>\n  </blockquote>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">현행 교육과정의 시수 부족 문제</h2>\n  <p style=\"margin:0 0 36px;\">현행 교육과정에서 AI 교육 시간은 턱없이 부족하다. 초등 정보 교과는 5~6학년군 실과에 17시간만 배정돼 있고 독립 교과도 아니다. 중학교는 필수 교과이지만 대체로 34시간이 편성된다. 고등학교는 선택 교과라 배우지 못하는 학생이 많다. 창의적 체험활동 시간도 안전교육, 학교폭력 예방 등 법정 의무교육으로 인해 AI 교육에 할애하기 어렵다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">교육부 정책과 제언</h2>\n  <p style=\"margin:0 0 36px;\">교육부는 2025년 11월 '모두를 위한 AI 인재양성방안'을 발표하며 2028년까지 AI 중점학교 2,000개교를 확대하겠다고 밝혔다. 정 교수는 이러한 정책의 의지는 인정하되, 초등 저학년부터 체계적 AI 교육이 가능하도록 정보 교과 편성을 검토해야 한다고 제언했다. 또한 최소 주당 1시간 이상 AI 교육이 가능하도록 'AI 교육 운영 지침' 마련이 필요하다고 덧붙였다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">분석과 시사점</h2>\n  <p style=\"margin:0 0 36px;\">정 교수의 분석은 AI 시대 교육이 나아가야 할 방향을 명확히 제시한다. AI를 단순히 '잘 쓰는' 수준에 머물면 AI 의존적 인력만 양성될 수 있다. 반면 AI를 이해하고 설계하는 인력이 실제 AI 시대의 리더가 될 것이다. 교육 현장에서는 제한된 시간 내에서 'AI 사고력'까지 길러주기 어려운 현실적 딜레마도 존재한다. 교원 연수와 교육 자료 지원이 필수적이며, 학교별 AI 교육 편차에 대한 우려도 해소해야 한다.</p>\n\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.etnews.com/20260304000415\" style=\"color:#4338ca;text-decoration:none;\">AI 기본 교육 방향, '생성력'만 가르칠 것인가 (전자신문)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.korea.kr/news/policyNewsView.do?newsId=148954472\" style=\"color:#4338ca;text-decoration:none;\">전 생애주기 인공지능 보편교육 강화 (대한민국 정책브리핑)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=101774\" style=\"color:#4338ca;text-decoration:none;\">AI 인재양성 관련 교육부 정책</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "AI교육",
+      "교육정책",
+      "컴퓨팅사고력",
+      "교육과정"
+    ],
+    "references": [
+      {
+        "url": "https://www.etnews.com/20260304000415",
+        "title": "AI 기본 교육 방향, '생성력'만 가르칠 것인가"
+      },
+      {
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148954472",
+        "title": "전 생애주기 인공지능 보편교육 강화"
+      },
+      {
+        "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=101774",
+        "title": "AI 인재양성 관련 교육부 정책"
+      }
+    ],
+    "word_count": 920,
+    "category": "policy"
+  },
+  "quality_report": {
+    "structure_score": 100,
+    "fact_check_score": 90,
+    "readability_score": 84,
+    "completeness_score": 88,
+    "overall_confidence": 90,
+    "verdict": "PASS",
+    "details": {
+      "structure": {
+        "has_headline": true,
+        "has_lead_box": true,
+        "has_background": true,
+        "section_count": 5,
+        "has_references": true,
+        "has_ai_footer": true,
+        "issues": []
+      },
+      "fact_check": {
+        "claims_checked": 6,
+        "claims": [
+          {
+            "claim": "정영식 교수가 프롬프트 교육 한계 지적",
+            "type": "attribution",
+            "verdict": "SUPPORTED",
+            "confidence": 95,
+            "evidence": "전자신문 원문 확인",
+            "source_url": "https://www.etnews.com/20260304000415",
+            "flagged": false
+          },
+          {
+            "claim": "'AI 사고력' 개념 정의 (AI 원리·윤리 이해)",
+            "type": "definitional",
+            "verdict": "SUPPORTED",
+            "confidence": 90,
+            "evidence": "원문에서 컴퓨팅 사고력 개념 확인",
+            "source_url": "https://www.etnews.com/20260304000415",
+            "flagged": false
+          },
+          {
+            "claim": "초등 정보 교과 5~6학년군 실과 17시간",
+            "type": "statistical",
+            "verdict": "SUPPORTED",
+            "confidence": 85,
+            "evidence": "현행 교육과정 기준",
+            "source_url": "교육부 교육과정 문서",
+            "flagged": false
+          },
+          {
+            "claim": "교육부 2025년 11월 AI 인재양성방안 발표",
+            "type": "temporal",
+            "verdict": "SUPPORTED",
+            "confidence": 85,
+            "evidence": "정책브리핑 링크 확인",
+            "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148954472",
+            "flagged": false
+          },
+          {
+            "claim": "2028년까지 AI 중점학교 2,000개교 확대",
+            "type": "statistical",
+            "verdict": "SUPPORTED",
+            "confidence": 85,
+            "evidence": "교육부 정책 발표",
+            "source_url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=101774",
+            "flagged": false
+          },
+          {
+            "claim": "정영식 교수는 전주교육대 컴퓨터교육과 교수",
+            "type": "attribution",
+            "verdict": "SUPPORTED",
+            "confidence": 95,
+            "evidence": "예스24 작가 파일 및 원문 확인",
+            "source_url": "https://www.yes24.com/24/AuthorFile/Author/327317",
+            "flagged": false
+          }
+        ],
+        "flagged_claims": []
+      },
+      "readability": {
+        "avg_paragraph_length": 300,
+        "avg_sentence_length": 25,
+        "unique_word_ratio": 0.77,
+        "section_structure": "good",
+        "emphasis_usage": "good"
+      },
+      "completeness": {
+        "headline_content_match": 90,
+        "source_count": 3,
+        "perspective_diversity": "good",
+        "who_what_why": "complete"
+      }
+    }
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector",
+      "action": "collected",
+      "timestamp": "2026-03-06T12:11:00+09:00",
+      "note": "관련성 85점 - 한국 교육부 AI 정책 방향 분석"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-06T07:44:17Z",
+      "note": "긴급 배정 - 파이프라인 정체 해소"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-06T16:49:35+09:00",
+      "note": "취재 브리프 작성 완료"
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T17:01:35+09:00",
+      "note": "기사 작성 완료 - 920자"
+    },
+    {
+      "agent": "fact-checker",
+      "action": "verified",
+      "timestamp": "2026-03-06T17:09:35+09:00",
+      "note": "구조 100 | 팩트 90 | 가독성 84 | 완정도 88 → 종합 90점 PASS"
+    },
+    {
+      "agent": "publisher",
+      "action": "published-draft",
+      "timestamp": "2026-03-06T08:25:53.532Z",
+      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69aa8f91ff4fbf0001ab6eaf"
+    },
+    {
+      "agent": "publisher",
+      "action": "published-draft",
+      "timestamp": "2026-03-06T14:08:36.176Z",
+      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69aadfe3ff4fbf0001ab6fd7"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aadfe3ff4fbf0001ab6fd7",
+    "ghost_draft_url": "https://ubion.ghost.io/ghost/#/editor/post/69aadfe3ff4fbf0001ab6fd7",
+    "status": "published",
+    "published_at": "2026-03-06T14:08:36.176Z"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "House of Lords Urges UK Government to Back Licensing Regime for AI Use of Creative Works",
+    "url": "https://www.resultsense.com/news/2026-03-06-lords-committee-uk-arts-ai-copyright",
+    "source_name": "ResultSense",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "The UK House of Lords communications and digital committee called on the government to develop a licensing regime for AI use of creative works and abandon proposals allowing tech firms to use copyrighted material without permission. The committee warned the UK's £146 billion creative sector faces 'clear and present danger' from current proposals, calling the opt-out approach 'a race to the bottom.'",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-07T23:00:00+09:00"
+  },
+  "digest": {
+    "headline": "영국 상원, AI 학습용 저작물 라이선싱 체계 구축 촉구",
+    "lead": "영국 상원 커뮤니케이션·디지털위원회가 정부에 AI의 창작물 활용에 대한 라이선싱 체계를 구축하고, 테크 기업의 무허가 저작물 사용을 허용하는 기존 제안을 철회할 것을 촉구했다. 위원회는 연간 1,460억 파운드 규모의 영국 창작 산업이 '명백하고 현존하는 위험'에 처해 있다고 경고했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">영국 상원 커뮤니케이션·디지털위원회가 정부에 AI의 창작물 활용에 대한 라이선싱 체계를 구축하고, 테크 기업의 무허가 저작물 사용을 허용하는 기존 제안을 철회할 것을 촉구했다. 위원회는 연간 1,460억 파운드 규모의 영국 창작 산업이 '명백하고 현존하는 위험'에 처해 있다고 경고했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">영국 정부는 AI 지적재산권 프레임워크에 대한 공개 협의를 진행 중이며, 3월 18일까지 경제 영향 평가와 진행 상황을 발표할 예정이다. 협의안에는 현행 유지, 라이선스 의무화, 옵트아웃 허용, 옵트아웃 없는 전면 허용 등 4가지 선택지가 제시됐다. 위원장 바바라 킬리는 옵트아웃 방식을 '바닥으로의 경주'라며, 미국 테크 기업 유치를 위해 기존 저작권 보호를 약화시키는 것이라고 비판했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">위원회는 AI 기업에 학습 데이터 공개 의무를 부과하고, 딥페이크에 대한 창작자 법적 보호를 강화할 것을 권고했다. 엘튼 존 등 문화계 인사들도 강하게 반발하고 있어 정치적 압력이 거세지는 양상이다. 3월 18일 발표가 분수령이 될 전망이며, 영국의 결정은 유럽과 아시아의 AI 저작권 논의에도 영향을 미칠 것으로 보인다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 학습 데이터 라이선싱이 의무화되면 교육용 콘텐츠를 활용한 AI 튜터·학습 보조 도구의 개발 비용이 상승할 수 있다. 반면, 교육 출판사와 콘텐츠 제작자에게는 새로운 수익 모델이 열린다. 에듀테크 기업은 학습 데이터의 출처 투명성과 라이선스 관리 체계를 선제적으로 구축해야 할 시점이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.resultsense.com/news/2026-03-06-lords-committee-uk-arts-ai-copyright\" style=\"color:#FF6B35;text-decoration:none;\">ResultSense</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "technology"
+    ],
+    "meta_title": "영국 상원, AI 학습용 저작물 라이선싱 체계 구축 촉구",
+    "meta_description": "영국 상원 위원회가 AI 기업의 무허가 저작물 사용 중단과 라이선싱 체계 구축을 정부에 촉구했다. 1,460억 파운드 창작 산업 보호가 핵심 쟁점이다.",
+    "word_count": 570
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T23:00:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T23:17:00+09:00"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "desk-approved",
+      "timestamp": "2026-03-07T23:27:00+09:00",
+      "note": "데스크 검증 통과: JSON 유효, HTML 2500+자, 중복 없음, &amp; 없음, AI pill 없음, 메타데이터 완비."
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T14:37:50.635Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ac383eff4fbf0001ab73cf",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ac383eff4fbf0001ab73cf",
+    "public_url": "https://insight.ubion.global/yeonggug-sangweon-ai-hagseubyong-jeojagmul-raiseonsing-cegye-gucug-coggu/",
+    "status": "published",
+    "published_at": "2026-03-07T14:37:50.000Z"
+  }
+}

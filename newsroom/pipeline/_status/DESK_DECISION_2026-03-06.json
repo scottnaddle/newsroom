@@ -1,0 +1,73 @@
+{
+  "decision_time": "2026-03-06T11:17:00+09:00",
+  "agent": "editor-desk",
+  "article_id": "1741262640-ai-bootcamp-draft",
+  "article_title": "교육부, AI 인재양성 37개 대학 신규 선정",
+  "stage": "05-fact-checked",
+  "verdict": "REVISE",
+  "confidence": 83,
+  "reason": "팩트체크 신뢰도 75-79 구간: 2개 팩트 오류 발견, 복구 가능",
+  
+  "validation_result": {
+    "checklist_items": 7,
+    "passed": 6,
+    "flagged": 1,
+    "auto_kill_criteria": {
+      "title_mismatch_50_percent": false,
+      "image_404_multiple": false,
+      "complete_duplicate": false,
+      "html_escape_3_plus": false,
+      "ai_badge_top": false
+    }
+  },
+
+  "required_revisions": [
+    {
+      "field": "draft.html",
+      "original": "교육부와 한국산업기술진흥원(KIAT)이 3월 4일 발표한",
+      "corrected": "교육부와 한국산업기술진흥원(KIAT)이 2월 26일(목) 발표한",
+      "reason": "발표일 오류: 3월 4일 ❌ → 2월 26일 ✓",
+      "severity": "HIGH",
+      "source": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156746241"
+    },
+    {
+      "field": "draft.html",
+      "original": "정부는 2024년부터 '첨단산업 부트캠프' 정책을 시작했으며",
+      "corrected": "정부는 2023년부터 '첨단산업 부트캠프' 정책을 시작했으며 (반도체 분야 10개 대학)",
+      "reason": "정책 시작 연도 오류: 2024년 ❌ → 2023년 ✓",
+      "severity": "HIGH",
+      "source": "https://www.unipress.co.kr/news/articleView.html?idxno=13651"
+    }
+  ],
+
+  "action_items": {
+    "writer": {
+      "agent": "writer",
+      "action": "request-revision",
+      "priority": "HIGH",
+      "message": "AI 부트캠프 기사 수정 요청",
+      "details": "2개 팩트 오류 발견. 아래 수정 후 재제출 바랍니다:\n1. 발표일: 3월 4일 → 2월 26일(목)\n2. 정책 시작: 2024년 → 2023년",
+      "deadline": "2026-03-06 12:00",
+      "return_stage": "05-fact-checked"
+    }
+  },
+
+  "desk_commentary": {
+    "overall_quality": "좋음 (83점)",
+    "structure": "탁월함 (제목, 리드, 섹션, 참고자료 모두 완비)",
+    "content_depth": "충분함 (1247단어, HTML 5990자)",
+    "factuality": "대체로 정확하나 2개 오류 발견",
+    "metadata": "완정도 (headline, subheadline, tags, category 모두 완비)",
+    "images": "양호 (Unsplash URL, escape 없음)",
+    "html": "양호 (Ghost kg-card 호환, AI 각주 있음)",
+    "recommendation": "작성기자 수정 후 06-desk-approved로 이동. 추가 검증 불필요."
+  },
+
+  "duplicate_check": {
+    "status": "완료",
+    "result": "중복 기사 없음 (기존 12개 발행 기사와 비교 완료)",
+    "similar_articles": []
+  },
+
+  "next_steps": "작성기자 수정 대기 → 05-fact-checked에서 재검토 → 06-desk-approved 승인"
+}

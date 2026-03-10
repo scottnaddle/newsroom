@@ -1,0 +1,71 @@
+{
+  "timestamp": "2026-03-05T23:30+09:00",
+  "agent": "editor-desk",
+  "check_cycle": "cron:editor-desk",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 0,
+      "details": "수집된 기사 없음"
+    },
+    "02_assigned": {
+      "total": 0,
+      "details": "배정 대기 기사 없음"
+    },
+    "03_reported": {
+      "total": 0,
+      "details": "취재 완료 기사 없음"
+    },
+    "04_drafted": {
+      "total": 0,
+      "details": "작성 중인 기사 없음"
+    },
+    "05_fact_checked": {
+      "total": 0,
+      "details": "팩트체크 완료 기사 없음"
+    },
+    "06_desk_approved": {
+      "total": 0,
+      "details": "데스크 승인 기사 없음"
+    },
+    "07_copy_edited": {
+      "total": 0,
+      "details": "교열 대기 기사 없음"
+    },
+    "08_published": {
+      "total": 75,
+      "details": "발행 완료"
+    },
+    "rejected": {
+      "total": 47,
+      "details": "거부됨 (자동/수동 거부)"
+    },
+    "queue_waiting": {
+      "total": 6,
+      "score_range": "50-74",
+      "details": "신뢰도 낮음 - 재평가 대기"
+    }
+  },
+  "summary": {
+    "total_articles_processed": 128,
+    "published": 75,
+    "rejected": 47,
+    "queued": 6,
+    "in_pipeline": 0,
+    "success_rate": "58.6%"
+  },
+  "bottleneck": "없음 - 모든 단계 비어있음 (정상 상태)",
+  "actions_needed": [
+    {
+      "priority": "normal",
+      "action": "queue.json의 6개 기사 재평가 (신뢰도 50-74)",
+      "reason": "대기 중인 기사 처리",
+      "note": "담당: 에디터 또는 source-collector"
+    }
+  ],
+  "status": "✅ NORMAL",
+  "notes": [
+    "모든 중간 단계 청소 완료",
+    "발행 및 거부 처리 정상 진행",
+    "queue에 대기 중인 기사 6개 있음 - 적절한 조치 필요"
+  ]
+}

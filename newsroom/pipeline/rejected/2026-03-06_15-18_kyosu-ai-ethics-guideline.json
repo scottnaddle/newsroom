@@ -1,0 +1,49 @@
+{
+  "id": "202603061518-kyosu-ethics",
+  "stage": "rejected",
+  "created_at": "2026-03-06T15:18:00+09:00",
+  "priority": 2,
+  "source": {
+    "title": "교육부, 대학 인공지능 활용 윤리 가이드라인 시안 발표",
+    "url": "https://www.kyosu.net/news/articleView.html?idxno=200008",
+    "source_name": "교수신문",
+    "relevance_score": 88,
+    "summary": "교육부가 대학의 AI 활용에 관한 윤리 가이드라인 시안을 발표했다. 대학에서 AI 활용도가 높아졌으나 무분별한 활용으로 우려도 깊어진 상황에서, 각 대학이 자체 지침 수립 시 활용할 수 있도록 전문가와 대학 관계자 의견을 수렴해 '대학 인공지능 활용 윤리 지침'을 마련할 예정이다.",
+    "tags": [
+      "policy",
+      "ethics",
+      "higher-education"
+    ],
+    "collected_via": "brave_search"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector",
+      "action": "collected",
+      "timestamp": "2026-03-06T15:18:00+09:00",
+      "note": "관련성 88점 - 교육부 직접 정책"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-06T07:44:18Z",
+      "note": "긴급 배정 - 파이프라인 정체 해소"
+    }
+  ],
+  "assigned_at": "2026-03-06T07:44:17Z",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

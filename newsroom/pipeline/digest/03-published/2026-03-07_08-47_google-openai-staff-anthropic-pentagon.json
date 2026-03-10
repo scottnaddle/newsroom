@@ -1,0 +1,34 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Google and OpenAI Staff Back Anthropic in Pentagon AI Ethics Standoff",
+    "url": "https://www.aiexpertmagazine.com/google-openai-staff-back-anthropic-pentagon-ai-ethics/",
+    "source_name": "AI Expert Magazine",
+    "language": "en",
+    "relevance_score": 92,
+    "summary": "An open letter published on February 26-27, 2026, gathered signatures from approximately 400 Google workers and over 50 from OpenAI, with about half of Anthropic's staff supporting Anthropic's position in the Pentagon AI ethics dispute. This represents significant mobilization within the AI workforce regarding military AI applications.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-07T08:47:00+09:00"
+  },
+  "digest": {
+    "headline": "구글·오픈AI 직원 450명, 펜타곤 AI 윤리 갈등서 앤스로픽 지지 선언",
+    "lead": "미 국방부가 앤스로픽에 Claude AI의 윤리 가이드라인 삭제를 요구하며 방산법(DPA) 발동까지 위협한 가운데, 구글과 오픈AI 직원 450여 명이 연대 성명을 통해 앤스로픽의 입장을 지지하고 나섰다. 이는 AI 업계 내 윤리와 국가안보의 충돌을 상징하는 사건이다.",
+    "ghost_tags": ["ai-digest", "ai", "regulation", "anthropic", "윤리"],
+    "meta_title": "구글·오픈AI 직원, 펜타곤 AI 윤리 갈등서 앤스로픽 지지",
+    "meta_description": "구글과 오픈AI 직원 450여 명이 앤스로픽의 펜타곤 AI 윤리 고수 입장을 지지했다. AI 기업의 윤리 정책이 교육 시장 신뢰에 미치는 영향과 시사점을 정리한다.",
+    "word_count": 580
+  },
+  "publish_result": {
+    "ghost_post_id": "69ab8001ff4fbf0001ab7234",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ab8001ff4fbf0001ab7234",
+    "public_url": "https://ubion.ghost.io/gugeul-opeunai-jigweon-450myeong-pentagon-ai-yunri-galdeungseo-aenseuropig-jiji-seoneon/",
+    "status": "published",
+    "published_at": "2026-03-07T01:31:45.000Z"
+  },
+  "audit_log": [
+    {"agent": "digest-collector", "action": "sourced", "timestamp": "2026-03-07T08:47:00+09:00"},
+    {"agent": "digest-writer", "action": "drafted", "timestamp": "2026-03-07T10:18:00+09:00"},
+    {"agent": "digest-publisher", "action": "published", "timestamp": "2026-03-07T10:31:45+09:00"}
+  ]
+}

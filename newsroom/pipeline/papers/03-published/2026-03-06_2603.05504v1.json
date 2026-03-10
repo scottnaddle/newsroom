@@ -1,0 +1,76 @@
+{
+  "arxiv_id": "2603.05504v1",
+  "title": "RoboPocket: Improve Robot Policies Instantly with Your Phone",
+  "summary": "Scaling imitation learning is fundamentally constrained by the efficiency of data collection. While handheld interfaces have emerged as a scalable solution for in-the-wild data acquisition, they predominantly operate in an open-loop manner: operators blindly collect demonstrations without knowing the underlying policy's weaknesses, leading to inefficient coverage of critical state distributions. Conversely, interactive methods like DAgger effectively address covariate shift but rely on physical robot execution, which is costly and difficult to scale. To reconcile this trade-off, we introduce RoboPocket, a portable system that enables Robot-Free Instant Policy Iteration using single consumer smartphones. Its core innovation is a Remote Inference framework that visualizes the policy's predicted trajectory via Augmented Reality (AR) Visual Foresight. This immersive feedback allows collectors to proactively identify potential failures and focus data collection on the policy's weak regions without requiring a physical robot. Furthermore, we implement an asynchronous Online Finetuning pipeline that continuously updates the policy with incoming data, effectively closing the learning loop in minutes. Extensive experiments demonstrate that RoboPocket adheres to data scaling laws and doubles the data efficiency compared to offline scaling strategies, overcoming their long-standing efficiency bottleneck. Moreover, our instant iteration loop also boosts sample efficiency by up to 2$\\times$ in distributed environments a small number of interactive corrections per person. Project page and videos: https://robo-pocket.github.io.",
+  "authors": [
+    "Junjie Fang",
+    "Wendi Chen",
+    "Han Xue",
+    "Fangyuan Zhou",
+    "Tian Le",
+    "Yi Wang",
+    "Yuting Zhang",
+    "Jun Lv",
+    "Chuan Wen",
+    "Cewu Lu"
+  ],
+  "categories": [
+    "cs.RO",
+    "cs.AI",
+    "cs.LG",
+    "cs.RO"
+  ],
+  "published": "2026-03-05T18:59:38Z",
+  "updated": "2026-03-05T18:59:38Z",
+  "pdf_url": "https://arxiv.org/pdf/2603.05504v1",
+  "abs_url": "https://arxiv.org/abs/2603.05504v1",
+  "relevance_score": 68,
+  "source_query": "ai education learning",
+  "collected_at": "2026-03-06T22:47:06.762Z",
+  "stage": "published",
+  "audit_log": [
+    {
+      "agent": "paper-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T22:47:09.801Z",
+      "source": "arxiv"
+    },
+    {
+      "agent": "paper-summarizer",
+      "action": "summarized",
+      "timestamp": "2026-03-06T22:47:21.732Z"
+    },
+    {
+      "agent": "paper-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T22:47:40.655Z"
+    }
+  ],
+  "korean_title": "로보포켓: 스마트폰으로 로봇 정책을 즉시 개선하는 방법",
+  "korean_summary": "RoboPocket는 스마트폰 하나로 로봇 없이 정책을 즉시 개선할 수 있는 휴대용 시스템입니다. 증강 현실(AR)을 통해 정책의 예측 경로를 시각화하여 데이터 수집자가 실패 가능성을 사전에 파악하고 취약 영역에 집중할 수 있게 합니다. 이를 통해 데이터 효율을 두 배 높이고, 분산 환경에서는 샘플 효율성을 최대 두 배까지 향상시킵니다.",
+  "key_findings": [
+    "RoboPocket는 증강 현실(AR)을 통해 로봇 정책의 예측 결과를 실시간으로 시각화하여 데이터 수집자가 정책의 취약점을 사전에 파악하고 효율적으로 데이터를 수집할 수 있게 합니다.",
+    "이 시스템은 물리적 로봇 없이도 데이터 수집이 가능하므로 기존의 비용 문제와 확장성 제약을 해결하고, 데이터 효율성을 기존 오프라인 방식보다 두 배 높입니다.",
+    "비동기 온라인 미세조정 파이프라인을 통해 수집된 데이터로 정책을 몇 분 내에 지속적으로 업데이트하며 학습 루프를 빠르게 완료할 수 있습니다."
+  ],
+  "implications": "이 연구는 교육 현장에서도 피드백의 중요성을 보여주며, 학습자가 자신의 약점을 즉각적으로 인지하고 개선할 수 있도록 하는 상호작용형 학습 도구의 잠재력을 시사합니다. 또한, 제한된 자원으로도 효율적으로 학습을 진행할 수 있는 새로운 접근법을 제시하여 개인화된 학습 경험을 설계하는 데 중요한 참고 자료가 될 수 있습니다.",
+  "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>로보포켓: 스마트폰으로 로봇 정책을 즉시 개선하는 방법</title>\n</head>\n<body style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;padding:20px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n\n  <!-- 논문 정보 박스 -->\n  <div style=\"background:#f8f9ff;border-left:4px solid #8b5cf6;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:32px;\">\n    <p style=\"margin:0 0 12px;font-size:15px;color:#64748b;\">\n      <strong>📄 논문</strong> | Junjie Fang, Wendi Chen, Han Xue et al.\n    </p>\n    <p style=\"margin:0 0 8px;font-size:14px;color:#64748b;\">\n      <strong>게재일:</strong> 2026. 3. 6. | \n      <strong>arXiv:</strong> <a href=\"https://arxiv.org/abs/2603.05504v1\" style=\"color:#8b5cf6;\">2603.05504v1</a>\n    </p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">\n      <a href=\"https://arxiv.org/pdf/2603.05504v1\" style=\"color:#8b5cf6;margin-right:16px;\">📥 PDF 다운로드</a>\n      <a href=\"https://arxiv.org/abs/2603.05504v1\" style=\"color:#8b5cf6;\">🔗 원문 보기</a>\n    </p>\n  </div>\n\n  <!-- 한국어 요약 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📝 한국어 요약</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">RoboPocket는 스마트폰 하나로 로봇 없이 정책을 즉시 개선할 수 있는 휴대용 시스템입니다. 증강 현실(AR)을 통해 정책의 예측 경로를 시각화하여 데이터 수집자가 실패 가능성을 사전에 파악하고 취약 영역에 집중할 수 있게 합니다. 이를 통해 데이터 효율을 두 배 높이고, 분산 환경에서는 샘플 효율성을 최대 두 배까지 향상시킵니다.</p>\n\n  <!-- 핵심 발견 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">💡 핵심 발견</h2>\n  <ul style=\"margin:0 0 24px;padding-left:24px;line-height:1.9;\">\n    <li style=\"margin-bottom:8px;\">RoboPocket는 증강 현실(AR)을 통해 로봇 정책의 예측 결과를 실시간으로 시각화하여 데이터 수집자가 정책의 취약점을 사전에 파악하고 효율적으로 데이터를 수집할 수 있게 합니다.</li>\n    <li style=\"margin-bottom:8px;\">이 시스템은 물리적 로봇 없이도 데이터 수집이 가능하므로 기존의 비용 문제와 확장성 제약을 해결하고, 데이터 효율성을 기존 오프라인 방식보다 두 배 높입니다.</li>\n    <li style=\"margin-bottom:8px;\">비동기 온라인 미세조정 파이프라인을 통해 수집된 데이터로 정책을 몇 분 내에 지속적으로 업데이트하며 학습 루프를 빠르게 완료할 수 있습니다.</li>\n  </ul>\n\n  <!-- 교육적 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">🎓 교육적 시사점</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">이 연구는 교육 현장에서도 피드백의 중요성을 보여주며, 학습자가 자신의 약점을 즉각적으로 인지하고 개선할 수 있도록 하는 상호작용형 학습 도구의 잠재력을 시사합니다. 또한, 제한된 자원으로도 효율적으로 학습을 진행할 수 있는 새로운 접근법을 제시하여 개인화된 학습 경험을 설계하는 데 중요한 참고 자료가 될 수 있습니다.</p>\n\n  <!-- 한국어 초록 (원문 번역) -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📖 초록 (한국어 번역)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;background:#fefce8;padding:16px 20px;border-radius:8px;\">모방 학습의 확장은 근본적으로 데이터 수집의 효율성에 의해 제약받습니다. 휴대용 인터페이스는 현장 데이터 수집을 확장할 수 있는 해결책으로 떠올랐지만, 대부분 개루프 방식으로 작동하여 기저 정책의 취약점을 알지 못한 채 데이터를 수집해 중요한 상태 분포를 효율적으로 커버하지 못합니다. 반면, DAgger와 같은 상호작용적 방법은 공변량 이동 문제를 효과적으로 해결하지만, 물리적 로봇 실행에 의존하여 비용이 많이 들고 확장이 어렵습니다. 이러한 절충안을 조화롭게 만들기 위해, 저자들은 단일 소비자용 스마트폰을 사용하여 로봇 없는 즉각적인 정책 반복(Robot-Free Instant Policy Iteration)을 가능하게 하는 휴대용 시스템인 RoboPocket를 소개합니다. 핵심 혁신은 증강 현실(AR) 시각적 예측을 통해 정책의 예측 궤적을 시각화하는 원격 추론(Remote Inference) 프레임워크입니다. 이 몰입형 피드백을 통해 수집자는 물리적 로봇 없이도 잠재적 실패를 능동적으로 식별하고 정책의 취약 영역에 데이터 수집을 집중할 수 있습니다. 또한, 들어오는 데이터로 정책을 지속적으로 업데이트하는 비동기 온라인 미세조정 파이프라인을 구현하여 몇 분 안에 학습 루프를 효과적으로 마무리합니다. 광범위한 실험은 RoboPocket가 데이터 확장 법칙을 따르며, 오프라인 확장 전략에 비해 데이터 효율을 두 배 높여 그 오랜 효율성 병목 현상을 극복함을 입증합니다. 더 나아가, 저자들의 즉각적인 반복 루프는 분산 환경에서 개당 소수의 상호작용적 수정을 통해 샘플 효율성을 최대 2배까지 높입니다. 프로젝트 페이지 및 영상: https://robo-pocket.github.io.</p>\n\n  <!-- 원문 초록 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📋 원문 초록 (Abstract)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.8;font-style:italic;color:#374151;background:#f8f9ff;padding:16px 20px;border-radius:8px;\">Scaling imitation learning is fundamentally constrained by the efficiency of data collection. While handheld interfaces have emerged as a scalable solution for in-the-wild data acquisition, they predominantly operate in an open-loop manner: operators blindly collect demonstrations without knowing the underlying policy's weaknesses, leading to inefficient coverage of critical state distributions. Conversely, interactive methods like DAgger effectively address covariate shift but rely on physical robot execution, which is costly and difficult to scale. To reconcile this trade-off, we introduce RoboPocket, a portable system that enables Robot-Free Instant Policy Iteration using single consumer smartphones. Its core innovation is a Remote Inference framework that visualizes the policy's predicted trajectory via Augmented Reality (AR) Visual Foresight. This immersive feedback allows collectors to proactively identify potential failures and focus data collection on the policy's weak regions without requiring a physical robot. Furthermore, we implement an asynchronous Online Finetuning pipeline that continuously updates the policy with incoming data, effectively closing the learning loop in minutes. Extensive experiments demonstrate that RoboPocket adheres to data scaling laws and doubles the data efficiency compared to offline scaling strategies, overcoming their long-standing efficiency bottleneck. Moreover, our instant iteration loop also boosts sample efficiency by up to 2$\\times$ in distributed environments a small number of interactive corrections per person. Project page and videos: https://robo-pocket.github.io.</p>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">\n    본 요약은 AI가 작성했습니다. 원문은 위의 링크에서 확인하세요.\n  </p>\n\n</body>\n</html>",
+  "ghost": {
+    "headline": "[논문] RoboPocket: Improve Robot Policies Instantly with Your Phone",
+    "html": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>RoboPocket: Improve Robot Policies Instantly with Your Phone</title>\n</head>\n<body style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;padding:20px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n\n  <!-- 논문 정보 박스 -->\n  <div style=\"background:#f8f9ff;border-left:4px solid #059669;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:32px;\">\n    <p style=\"margin:0 0 12px;font-size:15px;color:#64748b;\">\n      <strong>📄 논문</strong> | Junjie Fang, Wendi Chen, Han Xue et al.\n    </p>\n    <p style=\"margin:0 0 8px;font-size:14px;color:#64748b;\">\n      <strong>게재일:</strong> 2026. 3. 6. | \n      <strong>arXiv:</strong> <a href=\"https://arxiv.org/abs/2603.05504v1\" style=\"color:#059669;\">2603.05504v1</a>\n    </p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">\n      <a href=\"https://arxiv.org/pdf/2603.05504v1\" style=\"color:#059669;margin-right:16px;\">📥 PDF 다운로드</a>\n      <a href=\"https://arxiv.org/abs/2603.05504v1\" style=\"color:#059669;\">🔗 원문 보기</a>\n    </p>\n  </div>\n\n  <!-- 한국어 요약 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📝 한국어 요약</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">[요약 예정] Scaling imitation learning is fundamentally constrained by the efficiency of data collection. While handheld interfaces have emerged as a scalable solution for in-the-wild data acquisition, they predominantly operate in an open-loop manner: operators blindly collect demonstrations without knowing th...</p>\n\n  <!-- 핵심 발견 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">💡 핵심 발견</h2>\n  <ul style=\"margin:0 0 24px;padding-left:24px;line-height:1.9;\">\n    <li style=\"margin-bottom:8px;\">이 논문은 AI 교육 분야의 새로운 접근법을 제시합니다.</li>\n    <li style=\"margin-bottom:8px;\">실험 결과 교육 현장에서의 AI 활용 가능성을 보여줍니다.</li>\n    <li style=\"margin-bottom:8px;\">향후 연구 방향과 실제 적용 방안을 논의합니다.</li>\n  </ul>\n\n  <!-- 교육적 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">🎓 교육적 시사점</h2>\n  <p style=\"margin:0 0 24px;line-height:1.9;\">이 연구는 AI 기술의 교육 현장 도입에 있어 중요한 시사점을 제공합니다. 교사와 학생 모두에게 긍정적인 영향을 미칠 수 있으나, 신중한 적용이 필요합니다.</p>\n\n  <!-- 원문 초록 -->\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:32px 0 20px;color:#1a1a2e;\">📋 원문 초록 (Abstract)</h2>\n  <p style=\"margin:0 0 24px;line-height:1.8;font-style:italic;color:#374151;background:#f8f9ff;padding:16px 20px;border-radius:8px;\">Scaling imitation learning is fundamentally constrained by the efficiency of data collection. While handheld interfaces have emerged as a scalable solution for in-the-wild data acquisition, they predominantly operate in an open-loop manner: operators blindly collect demonstrations without knowing the underlying policy's weaknesses, leading to inefficient coverage of critical state distributions. Conversely, interactive methods like DAgger effectively address covariate shift but rely on physical robot execution, which is costly and difficult to scale. To reconcile this trade-off, we introduce RoboPocket, a portable system that enables Robot-Free Instant Policy Iteration using single consumer smartphones. Its core innovation is a Remote Inference framework that visualizes the policy's predicted trajectory via Augmented Reality (AR) Visual Foresight. This immersive feedback allows collectors to proactively identify potential failures and focus data collection on the policy's weak regions without requiring a physical robot. Furthermore, we implement an asynchronous Online Finetuning pipeline that continuously updates the policy with incoming data, effectively closing the learning loop in minutes. Extensive experiments demonstrate that RoboPocket adheres to data scaling laws and doubles the data efficiency compared to offline scaling strategies, overcoming their long-standing efficiency bottleneck. Moreover, our instant iteration loop also boosts sample efficiency by up to 2$\\times$ in distributed environments a small number of interactive corrections per person. Project page and videos: https://robo-pocket.github.io.</p>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">\n    본 요약은 AI가 작성했습니다. 원문은 위의 링크에서 확인하세요.\n  </p>\n\n</body>\n</html>",
+    "ghost_tags": [
+      "ai-papers",
+      "arxiv"
+    ],
+    "meta_title": "RoboPocket: Improve Robot Policies Instantly with Your Phone | AI 교육 논문",
+    "meta_description": "[요약 예정] Scaling imitation learning is fundamentally constrained by the efficiency of data collection. While handheld interfaces have emerged as a scal",
+    "feature_image_alt": "AI 교육 논문"
+  },
+  "publish_result": {
+    "ghost_post_id": "69ab598cff4fbf0001ab7155",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ab598cff4fbf0001ab7155",
+    "public_url": "https://ubion.ghost.io/nonmun-robopocket-improve-robot-policies-instantly-with-your-phone/",
+    "status": "published",
+    "published_at": "2026-03-06T22:47:40.000Z"
+  }
+}

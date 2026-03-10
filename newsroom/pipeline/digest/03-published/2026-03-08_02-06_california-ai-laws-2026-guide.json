@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "California AI Laws 2026: What Businesses Must Know",
+    "url": "https://yaabot.com/40897/california-ai-laws/",
+    "source_name": "Yaabot",
+    "language": "en",
+    "relevance_score": 78,
+    "summary": "Comprehensive overview of California's AI regulation framework taking effect in 2026, including the AB 2013 Training Data Transparency Act and SB 942 AI Transparency Act. Covers compliance requirements for AI content disclosure, decision transparency, training data accountability, and vendor audits.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-07T17:06:00+09:00"
+  },
+  "digest": {
+    "headline": "캘리포니아 AI 규제법 2026년 본격 시행, 기업 의무 준수 시대 개막",
+    "lead": "캘리포니아주가 2026년 1월 1일부터 AI 관련 규제법을 본격 시행에 들어갔다. AB 2013(학습 데이터 투명성법)과 SB 942(AI 투명성법) 등 복수의 법안이 동시에 효력을 발휘하면서, AI 시스템을 개발하거나 운용하는 기업에 광범위한 준수 의무가 부과되고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">캘리포니아주가 2026년 1월 1일부터 AI 관련 규제법을 본격 시행에 들어갔다. AB 2013(학습 데이터 투명성법)과 SB 942(AI 투명성법) 등 복수의 법안이 동시에 효력을 발휘하면서, AI 시스템을 개발하거나 운용하는 기업에 광범위한 준수 의무가 부과되고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">캘리포니아주는 2024~2025년에 걸쳐 AI 알고리즘 책임성을 핵심 축으로 한 입법 작업을 진행해왔다. 연방 차원의 자발적 가이드라인과 달리, 캘리포니아는 구속력 있는 규제를 선택했다. 이번에 시행된 법률은 AI 콘텐츠 표시 의무, 자동화 의사결정 투명성, 학습 데이터 출처 공개, 서드파티 AI 벤더 감사, 기록 보존 등 5개 영역을 포괄한다. 캘리포니아에 연결된 모든 기업이 적용 대상이며, 본사 소재지와 무관하게 의무가 부과된다는 점이 특징이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">캘리포니아의 규제 프레임워크는 EU AI Act과 비교되지만, 리스크 등급 분류보다 투명성과 문서화에 무게를 둔다는 차이가 있다. '고위험 AI'의 정의와 집행 세부사항은 아직 구체화 중이어서 기업들의 불확실성이 남아 있다. 그러나 미국 최대 경제주인 캘리포니아의 움직임은 사실상 연방 수준의 표준을 선도할 가능성이 높으며, 다른 주의 입법에도 연쇄적 영향을 미칠 전망이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 기반 학습 플랫폼과 에듀테크 서비스 기업은 특히 '자동화 의사결정 투명성' 조항에 주목해야 한다. 학생 성적 예측, 적응형 학습 경로 추천, AI 채점 등에 활용되는 알고리즘의 작동 원리를 문서화하고 인간 감독 체계를 갖추어야 하기 때문이다. 글로벌 시장을 겨냥하는 한국 에듀테크 스타트업에도 사전 대비가 필요하다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://yaabot.com/40897/california-ai-laws/\" style=\"color:#FF6B35;text-decoration:none;\">Yaabot</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "technology"
+    ],
+    "meta_title": "캘리포니아 AI 규제법 2026년 시행 — 기업 준수 의무 총정리",
+    "meta_description": "캘리포니아주가 AB 2013, SB 942 등 복수의 AI 규제법을 2026년부터 본격 시행합니다. AI 콘텐츠 표시, 학습 데이터 투명성, 자동화 의사결정 감독 등 기업 의무 사항을 정리합니다.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T17:06:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-08T02:19:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T17:43:58.790Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ac63deff4fbf0001ab73f7",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ac63deff4fbf0001ab73f7",
+    "public_url": "https://insight.ubion.global/kaelriponia-ai-gyujebeob-2026nyeon-bongyeog-sihaeng-gieob-yimu-junsu-sidae-gaemag/",
+    "status": "published",
+    "published_at": "2026-03-07T17:43:58.000Z"
+  }
+}

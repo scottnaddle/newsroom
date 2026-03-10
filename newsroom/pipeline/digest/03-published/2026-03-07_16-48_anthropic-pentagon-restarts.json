@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Anthropic Restarting Talks with Pentagon After Supply Chain Risk Label",
+    "url": "https://finance.yahoo.com/news/live/tech-stocks-today-nvidia-stops-h200-chip-production-anthropic-restarts-talks-with-pentagon-135928945.html",
+    "source_name": "Yahoo Finance",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Anthropic is restarting talks with the US military after being labeled a supply chain risk. Nvidia is shifting H200 chip output, and Apple is releasing new gadgets. The development follows tensions between Anthropic and the Pentagon over AI safety concerns.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-07T16:48:00+09:00"
+  },
+  "digest": {
+    "headline": "앤스로픽, 미 국방부 '공급망 위험' 지정 후 협상 재개",
+    "lead": "AI 안전성을 이유로 미 국방부 계약을 거부했던 앤스로픽이 미 정부로부터 '공급망 위험(supply chain risk)' 기업으로 지정된 후 협상을 재개하고 있다. 이는 AI 기업의 윤리적 결정이 실질적인 비즈니스 제재로 이어진 첫 사례로, AI 기업들의 정부 계약 대응 전략에 중요한 선례가 될 전망이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">AI 안전성을 이유로 미 국방부 계약을 거부했던 앤스로픽이 미 정부로부터 '공급망 위험(supply chain risk)' 기업으로 지정된 후 협상을 재개하고 있다. 이는 AI 기업의 윤리적 결정이 실질적인 비즈니스 제재로 이어진 첫 사례다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">앤스로픽은 자율 무기 시스템과 대규모 감시 활용에 대한 우려를 이유로 미 국방부와의 계약을 거부해왔다. 이에 대해 미 국방부는 앤스로픽을 '공급망 위험' 기업으로 공식 지정했으며, 이는 군사 계약업체들이 앤스로픽과의 거래를 금지당할 수 있음을 의미한다. 반면 오픈AI는 유사한 계약을 체결하며 시장 접근성을 확보했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 사태는 AI 기업의 윤리적 입장 표명이 단순한 PR을 넘어 실제 비즈니스 생존에 영향을 미칠 수 있음을 보여준다. 앤스로픽의 협상 재개는 정부 압박에 대한 현실적 대응일 수 있으며, 향후 AI 기업들의 정부 계약 대응 전략에 중요한 선례가 될 것으로 보인다. 동시에 소비자들은 오픈AI의 국방부 계약에 반발하며 ChatGPT 삭제율이 295% 급증하는 등 시장 반응도 뜨겁다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">교육 분야 AI 도입 논의에서도 'AI의 군사적 활용' 문제는 민감한 이슈다. 교육용 AI 서비스를 개발하는 기업들은 정부 계약 수행 여부가 향후 공공교육 시장 진입에도 영향을 미칠 수 있어, 윤리적 원칙과 비즈니스 현실 사이에서 균형점을 찾아야 하는 딜레마에 직면할 수 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://finance.yahoo.com/news/live/tech-stocks-today-nvidia-stops-h200-chip-production-anthropic-restarts-talks-with-pentagon-135928945.html\" style=\"color:#FF6B35;text-decoration:none;\">Yahoo Finance</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "anthropic"
+    ],
+    "meta_title": "앤스로픽, 미 국방부 '공급망 위험' 지정 후 협상 재개",
+    "meta_description": "AI 안전성을 이유로 국방부 계약을 거부한 앤스로픽이 공급망 위험 기업 지정 후 협상을 재개했다. AI 기업 윤리와 비즈니스 현실의 충돌.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-07T16:48:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T18:45:57+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T10:27:12.808Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69abfd80ff4fbf0001ab734c",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69abfd80ff4fbf0001ab734c",
+    "public_url": "https://insight.ubion.global/aenseuropig-mi-gugbangbu-gonggeubmang-wiheom-jijeong-hu-hyeobsang-jaegae/",
+    "status": "published",
+    "published_at": "2026-03-07T10:27:12.000Z"
+  }
+}

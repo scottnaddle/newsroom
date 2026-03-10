@@ -1,0 +1,23 @@
+{
+  "projectName": "UBION Control Center v4",
+  "description": "AI News Control Center - Rewrite with opencode",
+  "version": "4.0.0",
+  "framework": "full-stack",
+  "backend": {
+    "language": "python",
+    "framework": "fastapi",
+    "port": 8000
+  },
+  "frontend": {
+    "framework": "react",
+    "type": "typescript"
+  },
+  "database": {
+    "type": "sqlite",
+    "location": "./data/control-center.db"
+  },
+  "ai": {
+    "codeGeneration": true,
+    "codeAnalysis": true
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "stage": "published",
+  "source": {
+    "url": "https://source.washu.edu/2026/03/university-introduces-ai-academic-initiative/",
+    "title": "Washington University introduces +AI academic initiative",
+    "snippet": "Led by Provost Mark D. West, WashU introduces a university-wide +AI academic initiative.",
+    "published_date": "2026-03-04"
+  },
+  "relevance_score": 72,
+  "tags": [
+    "university",
+    "ai-initiative",
+    "washu",
+    "us"
+  ],
+  "collected_at": "2026-03-09T05:00:00.000Z",
+  "editor_note": "워싱턴대(세인트루이스) +AI 이니셔티브. 단일 대학 사례.",
+  "priority": "low",
+  "assigned_at": "2026-03-09T05:37:48.516815Z",
+  "reported_at": "2026-03-09T05:41:00.000Z",
+  "reporting_brief": {
+    "who": "워싱턴대학교 세인트루이스(WashU) — Andrew D. Martin(총장), Mark D. West(학무부총장)",
+    "what": "전 대학 차원의 '+AI' 학술 이니셔티브 출범.",
+    "why": "총장 Martin: 'AI가 고등교육에 예측불가한 방식으로 영향·파괴 가능.'",
+    "when": "2026년 3월 4일 발표",
+    "sources": [
+      {
+        "url": "https://source.washu.edu/2026/03/university-introduces-ai-academic-initiative/",
+        "type": "primary",
+        "reliability": "high"
+      },
+      {
+        "url": "https://ai.washu.edu/",
+        "type": "official",
+        "reliability": "high"
+      },
+      {
+        "url": "https://www.forbes.com/sites/avivalegatt/2025/12/26/7-ai-decisions-that-will-define-higher-education-in-2026/",
+        "type": "secondary",
+        "reliability": "high"
+      }
+    ]
+  },
+  "drafted_at": "2026-03-09T06:45:00.000Z",
+  "draft": {
+    "headline": "'+AI' — 워싱턴대가 선택한 AI 통합 모델, 한국의 'AI 단과대'와 무엇이 다른가",
+    "subheadline": "전공에 AI를 더하는 '+AI' 전략… AI 리터러시 모듈·교수 지원 프로그램 동시 가동",
+    "html": "<div style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;font-size:17px;line-height:1.9;color:#1a202c\">\n\n\n\n<figure class=\"kg-card kg-image-card kg-width-full\">\n<img src=\"https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80\" alt=\"대학 캠퍼스 건물\" style=\"width:100%;border-radius:8px\">\n<figcaption style=\"text-align:center;font-size:14px;color:#94a3b8;margin-top:8px\">WashU의 '+AI' 이니셔티브는 AI를 전공이 아닌 기반 역량으로 접근한다 | Unsplash</figcaption>\n</figure>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">'+AI'의 핵심 — AI는 전공이 아니라 접미사다</h2>\n<p>WashU의 '+AI' 이니셔티브는 학무부총장 마크 D. 웨스트(Mark D. West)가 총괄한다. 이름 자체가 철학을 담고 있다. AI를 별도 학과(Department of AI)로 만드는 것이 아니라, 경영학+AI, 의학+AI, 인문학+AI처럼 기존 학문에 AI를 더하는 접근이다.</p>\n<p>구체적으로 네 가지 축이 가동된다. 첫째, 학부생 전체를 대상으로 한 'AI Literacy for the WashU Scholar' 모듈이다. AI의 원리, 한계, 윤리적 이슈를 이해하는 공통 기반을 만드는 것이 목표다. 둘째, Gemini for Education과 NotebookLM 등 AI 도구를 공식 도입했으며, ChatGPT Edu도 추가 도입이 예정되어 있다.</p>\n<p>셋째, 'AI Curriculum Corps'를 출범시켰다. 교수들이 자신의 과목에 AI를 통합하는 과제·커리큘럼을 개발할 수 있도록 대학 차원에서 지원하는 프로그램이다. 제안서 마감은 3월 30일이다. 넷째, 3월 23일부터 '+AI Perspectives Week'를 개최하며, The Atlantic CEO 니콜라스 톰슨(Nicholas Thompson)이 기조연설을 맡는다.</p>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">'목적의식 있는 사용' — 도입이 아닌 방향의 문제</h2>\n<p>디지털전환 부학무부총장 벳시 싱클레어(Betsy Sinclair)는 핵심을 짚었다. \"학생들은 이미 AI를 실험하고 있고, 교수들은 연구에 창의적으로 적용하고 있다. 문제는 대학이 어떻게 목적의식 있게(purposefully) AI 사용을 가이드하느냐이다.\"</p>\n<p>이 발언은 많은 대학이 빠지는 함정을 정확히 지적한다. AI 도구를 도입하는 것과 AI를 교육적으로 의미 있게 활용하는 것은 완전히 다른 차원이다. ChatGPT를 교실에 들이는 것은 쉽지만, 학생이 AI를 비판적으로 활용하고 AI의 한계를 이해하게 하는 것은 교수의 역량과 대학의 시스템이 뒷받침되어야 한다.</p>\n<p>총장 앤드류 D. 마틴(Andrew D. Martin)도 신중한 입장이다. \"AI가 디지털 기술 특유의 예측불가한 방식으로 고등교육에 영향을 미치고 파괴할 수 있다.\" 기술 도입의 속도와 교육적 숙고 사이의 균형이 '+AI' 이니셔티브의 과제이기도 하다.</p>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">한국의 'AI 단과대' vs 미국의 '+AI' — 전략의 분기점</h2>\n<p>WashU의 '+AI' 모델은 Elon University 코니 북 총장의 \"인터넷 전공이 없듯 AI 전공도 불필요하다\"는 철학과 맥을 같이한다. AI를 하나의 독립된 학문 영역이 아니라, 모든 학문의 기반 역량으로 보는 시각이다. 한국에서도 'AI+X 융합 교육'이라는 유사한 개념이 논의되고 있지만, 실행 방식에는 차이가 있다.</p>\n<p>한국 대학 다수는 AI 단과대를 독립적으로 신설하는 경로를 택하고 있다. AI 전공 학생을 집중 양성하는 이 모델은 빠른 인재 공급에는 효과적이지만, 나머지 학과 학생들의 AI 리터러시는 개별 교수의 의지에 맡기는 구조다. WashU 모델은 반대다. 모든 학생에게 AI 리터러시 공통 모듈을 제공하고, 모든 교수가 자기 과목에 AI를 통합할 수 있도록 지원한다.</p>\n<p>Forbes가 분석한 대로, \"AI를 독립 학과로 분리할 것인가, 기존 전공에 통합할 것인가\"는 2026년 고등교육의 가장 핵심적인 전략 분기점이다. WashU는 후자를 택했다. 한국 대학들은 두 모델의 장단점을 냉정하게 비교할 필요가 있다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0;margin-top:40px;padding-top:20px\">\n<p style=\"font-size:15px;font-weight:600;color:#4338ca;margin-bottom:12px\">📎 참고자료</p>\n<ol style=\"font-size:15px;color:#475569;padding-left:20px\">\n<li><a href=\"https://source.washu.edu/2026/03/university-introduces-ai-academic-initiative/\" style=\"color:#4338ca\">WashU — University introduces +AI academic initiative</a></li>\n<li><a href=\"https://ai.washu.edu/\" style=\"color:#4338ca\">WashU +AI 이니셔티브 공식 사이트</a></li>\n<li><a href=\"https://www.forbes.com/sites/avivalegatt/2025/12/26/7-ai-decisions-that-will-define-higher-education-in-2026/\" style=\"color:#4338ca\">Forbes — 2026년 고등교육을 정의할 7가지 AI 결정</a></li>\n</ol>\n</div>\n\n<p style=\"font-size:13px;color:#cbd5e1;margin-top:32px;text-align:center\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>",
+    "ghost_tags": [
+      "AI교육",
+      "고등교육",
+      "WashU",
+      "AI통합",
+      "대학전략"
+    ],
+    "references": [
+      "https://source.washu.edu/2026/03/university-introduces-ai-academic-initiative/",
+      "https://ai.washu.edu/",
+      "https://www.forbes.com/sites/avivalegatt/2025/12/26/7-ai-decisions-that-will-define-higher-education-in-2026/"
+    ],
+    "word_count": 890,
+    "category": "policy",
+    "meta_title": "'+AI' — 워싱턴대가 선택한 AI 통합 모델, 한국의 'AI 단과대'와 무엇이 다른가",
+    "meta_description": "워싱턴대학교 세인트루이스(WashU)가 '+AI'라는 이름의 전 대학 학술 이니셔티브를 출범시켰다. AI를 별도 전공으로 분리하는 대신, 기존 모든 학문에 AI를 더하는(+) 전략이다. 학부생 대상 AI 리터러시 모듈, 교수 지원 프로그램, Gemini·Notebook"
+  },
+  "fact_check": {
+    "score": 91,
+    "verdict": "PASS",
+    "issues": [
+      "+AI Perspectives Week 날짜(3월 23일) — WashU 공식 사이트에서 구체적 날짜 재확인 필요"
+    ],
+    "verified_claims": [
+      "WashU +AI 이니셔티브 출범(2026.3.4) — source.washu.edu 및 Mirage News에서 확인",
+      "Mark D. West Provost 주도 — 확인",
+      "Nicholas Thompson(The Atlantic CEO) 기조연설 — Mirage News에서 확인"
+    ]
+  },
+  "fact_checked_at": "2026-03-09T06:54:34.267Z",
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 2069자, 팩트점수 91, 중복 33.3%",
+    "meta_title": "'+AI' — 워싱턴대가 선택한 AI 통합 모델, 한국의 'AI 단과대'와 무엇이 다른가",
+    "meta_description": "워싱턴대학교 세인트루이스(WashU)가 '+AI'라는 이름의 전 대학 학술 이니셔티브를 출범시켰다. AI를 별도 전공으로 분리하는 대신, 기존 모든 학문에 AI를 더하는(+) 전략이다. 학부생 대상 AI 리터러시 모듈, 교수 지원 프로그램, Gemini·Notebook",
+    "decided_at": "2026-03-09T07:07:09.201Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [
+      "AI 배지 pill 제거"
+    ],
+    "text_length": 1871,
+    "checked_at": "2026-03-09T07:07:09.202Z"
+  },
+  "ghost_id": "69ae719dff4fbf0001ab78d3",
+  "ghost_url": "https://insight.ubion.global/p/de61298a-078e-4016-a4bb-e523ce7229c5/",
+  "published_at": "2026-03-09T07:07:09.765Z"
+}

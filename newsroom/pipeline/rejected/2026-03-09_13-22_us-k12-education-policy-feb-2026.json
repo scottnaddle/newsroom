@@ -1,0 +1,33 @@
+{
+  "stage": "rejected",
+  "source": {
+    "url": "https://excelinedinaction.org/2026/03/04/february-2026-state-actions-update-k-12-education-policies-progress/",
+    "title": "February 2026 State Actions Update: K-12 education policies progress",
+    "snippet": "Call for legislature to pass bell-to-bell phone-free schools policy and legislation requiring age verification and parental consent for minors using AI chatbots. $200 million for CTE funding.",
+    "published_date": "2026-03-04"
+  },
+  "relevance_score": 68,
+  "tags": [
+    "policy",
+    "k12",
+    "us"
+  ],
+  "collected_at": "2026-03-09T04:22:00.000Z",
+  "rejected_at": "2026-03-09T04:35:00.000Z",
+  "reject_reason": "주 정책 트래커와 주제 중복, 전화정책 위주",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

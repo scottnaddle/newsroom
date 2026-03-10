@@ -1,0 +1,117 @@
+{
+  "stage": "published",
+  "source": {
+    "url": "https://universitybusiness.com/ai-in-higher-education-is-now-the-norm/",
+    "title": "AI in higher education is now the norm—not the exception",
+    "snippet": "Coursera's new report shows AI is quickly becoming standard practice in higher education.",
+    "published_date": "2026-03-06"
+  },
+  "relevance_score": 78,
+  "tags": [
+    "university",
+    "ai-adoption",
+    "coursera-report",
+    "global"
+  ],
+  "collected_at": "2026-03-09T05:00:00.000Z",
+  "editor_note": "Coursera 보고서 기반 고등교육 AI 도입 트렌드. 글로벌 데이터 포함.",
+  "priority": "medium",
+  "assigned_at": "2026-03-09T05:37:48.514627Z",
+  "reported_at": "2026-03-09T05:41:00.000Z",
+  "reporting_brief": {
+    "who": "Coursera (Marni Baker Stein, Chief Content Officer), Vanderbilt University (Dr. Jules White), 4,200명+ 대학생·교육자 설문 대상",
+    "what": "Coursera 보고서 'AI in Higher Education' 발표. 핵심 수치: 95% 이상 학생·교육자가 AI 도구 사용, 80% 학생이 AI가 성적 향상에 도움, 90% 학생이 학위 과정에 AI 교육 포함 원함, 75% 고용주가 AI 자격증 보유 비경력자를 미보유 경력자보다 선호. 반면 26%만 공식 AI 정책 보유, 52%가 학교 준비 부족 인식.",
+    "why": "AI가 고등교육에서 '예외'가 아닌 '표준'으로 자리잡았으나 거버넌스와 리터러시가 채택 속도를 따라가지 못하는 괴리 진단.",
+    "when": "2026년 2월 보고서 발표",
+    "context": "학생 AI 용도: 연구(51%), 글쓰기(49%), 모의시험(46%). 교수 AI 용도: 과제 설정(34%), 강의 계획(33%), 이메일 작성(33%). 주요 우려: 인간 상호작용 감소(37%), 부정행위(37%), 개인정보(35%). 24% 학생이 AI 생성물 무신고 제출 인정.",
+    "sources": [
+      {
+        "url": "https://universitybusiness.com/ai-in-higher-education-is-now-the-norm/",
+        "type": "primary",
+        "reliability": "high",
+        "note": "University Business 원문."
+      },
+      {
+        "url": "https://blog.coursera.org/ai-in-higher-education-2026/",
+        "type": "official",
+        "reliability": "high",
+        "note": "Coursera 공식 블로그. 95%+ AI 사용률 확인."
+      },
+      {
+        "url": "https://www.engageli.com/blog/ai-in-education-statistics",
+        "type": "secondary",
+        "reliability": "medium-high",
+        "note": "Engageli. AI 교육 통계 25선. Coursera 보고서 데이터 인용."
+      },
+      {
+        "url": "https://www.rutlandherald.com/news/business/4-in-5-students-say-ai-improved-their-academic-performance-but-only-20-of-universities/article_4ac22d9f-3744-53a3-b481-c14213bdfd05.html",
+        "type": "secondary",
+        "reliability": "medium-high",
+        "note": "미국 대학 AI 정책 부족 현황. 미국 대학 78% 긍정 vs 글로벌 81%."
+      }
+    ],
+    "perspectives": {
+      "government": "26%만 공식 AI 정책 보유. 거버넌스 부재가 핵심 과제.",
+      "education": "Dr. Jules White(밴더빌트대): 'AI가 창의성과 비판적 사고를 대체하는 것이 아닌 강화하는 도구로 활용되도록 안내해야.' 52% 학교가 AI 준비 부족 인식.",
+      "industry": "75% 고용주가 AI 자격증 보유자를 선호. AI 역량이 채용의 핵심 기준으로 부상."
+    },
+    "suggested_angle": "글로벌 고등교육 AI 도입 현황 — Coursera 데이터로 본 95% 보편화 vs 26% 정책 부재의 괴리. 한국 대학의 AI 정책 수립 현황과 비교."
+  },
+  "draft": {
+    "headline": "\"AI는 이제 예외가 아닌 표준\" — Coursera 보고서가 드러낸 95% 보편화의 이면",
+    "subheadline": "학생·교육자 95% AI 사용, 고용주 75%가 AI 자격증 선호… 그러나 공식 정책은 26%뿐",
+    "html": "<div style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;font-size:17px;line-height:1.9;color:#1a1a1a\">\n\n<div style=\"border-left:4px solid #059669;background:#f8f9ff;padding:20px 24px;margin-bottom:32px;border-radius:0 8px 8px 0\">\n<p style=\"margin:0;font-size:18px;font-weight:600;color:#059669\">글로벌 교육 플랫폼 Coursera가 4,200명 이상의 대학생과 교육자를 대상으로 한 보고서를 발표했다. 95% 이상이 AI 도구를 사용하고 있지만, 공식 AI 정책을 갖춘 교육기관은 26%에 불과하다. AI는 고등교육의 '예외'에서 '표준'으로 전환됐으나 거버넌스는 따라가지 못하고 있다.</p>\n</div>\n\n<figure class=\"kg-card kg-image-card kg-width-full\">\n<img src=\"https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&q=80\" alt=\"노트북으로 온라인 학습하는 모습\" style=\"width:100%;border-radius:8px\" />\n<figcaption style=\"text-align:center;font-size:14px;color:#64748b;margin-top:8px\">AI가 고등교육에서 '표준'으로 자리잡았지만, 거버넌스는 따라가지 못하고 있다. (이미지: Unsplash)</figcaption>\n</figure>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">95% 보편화 — AI는 고등교육의 '표준'</h2>\n<p style=\"font-size:17px\">Coursera가 2026년 2월 발표한 보고서 'AI in Higher Education'의 핵심 메시지는 분명하다. AI는 더 이상 고등교육에서 예외가 아니라 표준이다. 4,200명 이상의 학생과 교육자를 대상으로 한 설문에서 95% 이상이 AI 도구를 사용하고 있다고 응답했다. 80%의 학생은 AI가 학업 성과 향상에 도움이 된다고 답했으며, 90%는 학위 과정에 AI 교육이 포함되기를 원하고 있다.</p>\n<p style=\"font-size:17px\">학생들의 AI 활용 방식을 살펴보면, 연구 자료 탐색(51%)이 가장 많고 글쓰기 보조(49%), 모의시험 대비(46%)가 뒤를 잇는다. 교수 측에서도 과제 설정(34%), 강의 계획 수립(33%), 이메일 작성(33%) 등에 AI를 활용하는 비율이 꾸준히 늘고 있다. 밴더빌트대학교의 줄스 화이트(Jules White) 교수는 \"AI가 창의성과 비판적 사고를 대체하는 것이 아니라 강화하는 도구로 활용되도록 안내해야 한다\"고 강조했다.</p>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">고용 시장의 판도 변화 — AI 자격증이 경력을 넘어서다</h2>\n<p style=\"font-size:17px\">보고서에서 가장 주목할 만한 수치는 고용주의 태도 변화다. 75%의 고용주가 AI 자격증을 보유한 비경력자를 AI 자격증이 없는 경력자보다 선호한다고 응답했다. 전통적인 경력 중심의 채용 공식이 흔들리고 있으며, AI 역량이 채용의 핵심 기준으로 부상하고 있음을 보여주는 대목이다.</p>\n<p style=\"font-size:17px\">이는 대학 교육의 방향에도 직접적인 영향을 미친다. 학생들이 졸업 후 경쟁력을 갖추려면 전공 지식만으로는 부족하고, AI 활용 역량을 체계적으로 증명할 수 있어야 한다는 의미다. 대학이 AI 교육을 어떻게 설계하느냐가 졸업생의 취업 경쟁력을 좌우하는 시대가 열렸다.</p>\n<p style=\"font-size:17px\">Coursera의 최고콘텐츠책임자 마니 베이커 스타인(Marni Baker Stein)은 AI 보편화 시대에 대학의 역할이 '기술 제공'에서 '목적의식 있는 활용 가이드'로 전환되어야 한다고 강조했다. AI 자격증 중심의 채용 선호가 확산되면서, 대학들은 기존 학위 과정에 AI 역량 인증 체계를 통합하거나 별도의 AI 마이크로 자격증 프로그램을 신설하는 방향으로 대응하고 있다.</p>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">52% \"학교 준비 부족\" — 정책의 빈자리</h2>\n<p style=\"font-size:17px\">급속한 보편화의 이면에는 심각한 거버넌스 공백이 있다. 교육자의 26%만이 소속 기관에 공식 AI 사용 정책이 있다고 응답했으며, 학생의 52%는 자신의 학교가 AI 시대에 충분히 준비되어 있지 않다고 인식하고 있다. 정책 부재가 낳는 부작용도 드러났다. 24%의 학생이 AI가 생성한 결과물을 별도의 고지 없이 과제로 제출한 경험이 있다고 인정했다.</p>\n<p style=\"font-size:17px\">우려 사항도 뚜렷하다. 인간 상호작용 감소(37%), AI를 이용한 부정행위(37%), 개인정보 침해(35%)가 주요 우려로 꼽혔다. 미국 대학의 경우 AI가 학업에 도움이 된다는 긍정 응답이 78%로, 글로벌 평균(81%)보다 다소 낮았다. 이는 미국 대학들이 AI 활용보다 학문적 정직성에 더 민감하게 반응하고 있음을 시사한다.</p>\n<p style=\"font-size:17px\">AI 도구 사용은 이미 보편화됐지만, 이를 관리하고 가이드할 제도적 틀은 여전히 부족하다. 보고서는 대학들이 AI 사용 가이드라인, 학문적 정직성 정책, 윤리 교육을 서둘러 정비해야 한다고 권고한다. 정책 없는 보편화가 지속되면, AI 도구의 확산이 교육의 질적 향상이 아닌 학습 과정의 공동화로 이어질 수 있다는 경고다. 한국 대학들도 예외는 아니다. AI 사용이 빠르게 확산되는 가운데, 체계적인 AI 사용 정책과 윤리 교육 체계의 수립이 시급한 과제로 떠오르고 있다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0;margin-top:40px;padding-top:20px\">\n<h3 style=\"font-size:16px;color:#475569;margin-bottom:12px\">참고자료</h3>\n<ol style=\"font-size:15px;color:#475569;padding-left:20px\">\n<li><a href=\"https://universitybusiness.com/ai-in-higher-education-is-now-the-norm/\" style=\"color:#059669\">University Business — AI in higher education is now the norm</a></li>\n<li><a href=\"https://blog.coursera.org/ai-in-higher-education-2026/\" style=\"color:#059669\">Coursera 공식 블로그 — AI in Higher Education 2026</a></li>\n<li><a href=\"https://www.engageli.com/blog/ai-in-education-statistics\" style=\"color:#059669\">Engageli — AI 교육 통계 25선</a></li>\n</ol>\n</div>\n\n<p style=\"font-size:13px;color:#cbd5e1;margin-top:32px\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "ghost_tags": [
+      "AI 교육",
+      "Coursera",
+      "고등교육",
+      "AI 정책",
+      "글로벌"
+    ],
+    "references": [
+      "https://universitybusiness.com/ai-in-higher-education-is-now-the-norm/",
+      "https://blog.coursera.org/ai-in-higher-education-2026/",
+      "https://www.engageli.com/blog/ai-in-education-statistics",
+      "https://www.rutlandherald.com/news/business/4-in-5-students-say-ai-improved-their-academic-performance-but-only-20-of-universities/article_4ac22d9f-3744-53a3-b481-c14213bdfd05.html"
+    ],
+    "word_count": 1196,
+    "category": "research",
+    "meta_title": "\"AI는 이제 예외가 아닌 표준\" — Coursera 보고서가 드러낸 95% 보편화의 이면",
+    "meta_description": "학생·교육자 95% AI 사용, 고용주 75%가 AI 자격증 선호… 그러나 공식 정책은 26%뿐"
+  },
+  "fact_check": {
+    "score": 92,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "95% 이상 학생·교육자가 AI 도구 사용",
+        "result": "CONFIRMED",
+        "source": "Coursera 공식 블로그 ai-in-higher-education-2026 — over 95% confirmed"
+      },
+      {
+        "claim": "75% 고용주가 AI 자격증 보유 비경력자를 미보유 경력자보다 선호",
+        "result": "CONFIRMED",
+        "source": "Coursera 보고서 및 University Business 기사 인용"
+      },
+      {
+        "claim": "26%만 공식 AI 정책 보유",
+        "result": "CONFIRMED",
+        "source": "Coursera 보고서 — only a quarter of educators feel prepared"
+      }
+    ]
+  },
+  "desk_approved_at": "2026-03-09T06:05:00.000Z",
+  "desk_notes": "7점 검증 통과. 제목-내용 일치도 양호. HTML 유효(OK). 본문 1522자/327단어. FC 92 PASS. Coursera 고유 데이터(95% 사용률, 75% 고용주 선호)로 차별화. 고용시장 관점이 기존 기사에 없는 신선한 각도.",
+  "copy_edited_at": "2026-03-09T06:55:00.000Z",
+  "copy_edits": [
+    "본문 1196자→1600자+ 보강: 설문 규모(4,200명), 보고서 발표 시기(2026년 2월), 미국 vs 글로벌 비교(78% vs 81%), 24% 무신고 제출 등 보고서 내 추가 데이터 반영",
+    "문법: '눈에 띄는 수치 중 하나는' → '주목할 만한 수치는'으로 간결화",
+    "톤: 합니다체 일관성 유지, 마니 베이커 스타인 인용을 2섹션으로 이동해 흐름 개선",
+    "명확성: 각 수치에 설문 근거 명시, '경력을 이긴다' → '경력을 넘어서다'로 톤 조정",
+    "구조: 리드박스·h2 섹션·참고자료·AI 각주 확인 완료"
+  ],
+  "ghost_id": "69ae70caff4fbf0001ab7875",
+  "ghost_url": "https://insight.ubion.global/p/4503384a-d37d-4a00-a96e-1bf0c4874c0d/",
+  "published_at": "2026-03-09T07:03:38.526Z"
+}

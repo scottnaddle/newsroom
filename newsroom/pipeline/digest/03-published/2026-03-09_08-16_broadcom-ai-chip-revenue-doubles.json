@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Broadcom Stock Surges as AI Chip Revenue More Than Doubles",
+    "url": "https://www.beingshivam.com/rand10283-1759/",
+    "source_name": "Being Shivam",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Broadcom's fiscal Q1 2026 earnings beat expectations with revenue reaching $19.31 billion, up 29% YoY. AI revenue surged 106% to $8.4 billion, with AI ASIC sales up 140% and networking revenue up 60%. The company projects Q2 AI revenue of $14.8 billion and announced a $10 billion share buyback program.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-09T08:16:00+09:00"
+  },
+  "digest": {
+    "headline": "브로드컴, AI 칩 매출 106% 급증…맞춤형 ASIC 시대 가속",
+    "lead": "브로드컴이 2026 회계연도 1분기 실적에서 AI 반도체 매출 84억 달러를 기록하며 전년 대비 106% 성장을 달성했다. 전체 매출 193억 달러로 시장 예상을 상회했으며, 2분기 AI 매출 148억 달러를 전망해 맞춤형 AI 칩 수요의 폭발적 성장세를 확인시켰다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">브로드컴이 2026 회계연도 1분기 실적에서 AI 반도체 매출 84억 달러를 기록하며 전년 대비 106% 성장을 달성했다. 전체 매출 193억 달러로 시장 예상을 상회했으며, 2분기 AI 매출 148억 달러를 전망해 맞춤형 AI 칩 수요의 폭발적 성장세를 확인시켰다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">브로드컴은 구글·메타 등 하이퍼스케일러를 위한 맞춤형 AI ASIC(주문형 반도체) 설계 분야의 선두 기업이다. 이번 분기 AI ASIC 매출은 140%, 네트워킹 매출은 60% 성장했다. 반면 비(非)AI 반도체 매출은 4% 성장에 그쳐, AI가 사실상 성장 엔진 전부를 담당하는 구조가 뚜렷해졌다. 회사는 100억 달러 규모의 자사주 매입 프로그램도 발표하며 경영진의 자신감을 드러냈다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">브로드컴의 실적은 AI 반도체 시장이 GPU 중심에서 맞춤형 ASIC으로 빠르게 다변화되고 있음을 보여준다. 대규모 추론 워크로드에서 비용 효율성이 핵심 과제로 떠오르면서, 하이퍼스케일러들이 엔비디아 GPU 의존도를 줄이고 자체 설계 칩으로 전환하는 흐름이 가속화되고 있다. 애널리스트들은 브로드컴이 토마호크 스위치, SerDes 기술 등 네트워킹 인프라에서도 AI 수혜를 받고 있어 성장 지속성이 높다고 평가했다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">맞춤형 ASIC의 부상과 추론 비용 절감 추세는 에듀테크 기업에 긍정적 신호다. AI 추론 비용이 낮아질수록 실시간 AI 튜터, 자동 채점, 개인화 학습 경로 추천 등 연산 집약적 교육 서비스의 대규모 상용화가 경제적으로 가능해진다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.beingshivam.com/rand10283-1759/\" style=\"color:#FF6B35;text-decoration:none;\">Being Shivam</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "semiconductor"
+    ],
+    "meta_title": "브로드컴, AI 칩 매출 106% 급증…맞춤형 ASIC 시대 가속",
+    "meta_description": "브로드컴 2026 회계연도 1분기 AI 반도체 매출이 84억 달러로 106% 급증했다. 맞춤형 ASIC 수요 폭발과 함께 2분기 AI 매출 148억 달러를 전망하며 성장 가속화 신호를 보냈다.",
+    "word_count": 500,
+    "feature_image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T08:16:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T08:45:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-08T23:58:24.329Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae0d20ff4fbf0001ab76a5",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae0d20ff4fbf0001ab76a5",
+    "public_url": "https://insight.ubion.global/beurodeukeom-ai-cib-maecul-106-geubjeung-majcumhyeong-asic-sidae-gasog/",
+    "status": "published",
+    "published_at": "2026-03-08T23:58:24.000Z"
+  }
+}

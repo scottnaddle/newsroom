@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Opinion: The Future We Feared Is Already Here — AI, Anthropic, and the Pentagon",
+    "url": "https://www.nytimes.com/2026/03/08/opinion/ai-anthropic-claude-pentagon-hegseth-amodei.html",
+    "source_name": "The New York Times",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "A NYT opinion piece examines how negotiations between Anthropic and the Pentagon collapsed over a clause barring Claude's use for analyzing bulk commercial data. The article explores the broader implications of AI companies setting ethical boundaries against government military demands.",
+    "published_date": "2026-03-08",
+    "collected_at": "2026-03-09T11:17:00+09:00"
+  },
+  "digest": {
+    "headline": "앤스로픽-펜타곤 협상 결렬, AI 윤리 경계선 논쟁 본격화",
+    "lead": "앤스로픽과 미 국방부 간 AI 활용 협상이 대량 상업 데이터 분석 금지 조항을 둘러싸고 결렬됐다. 뉴욕타임스 기고문은 AI 기업이 정부 군사적 요구에 윤리적 한계를 설정하는 것의 의미를 조명한다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">앤스로픽(Anthropic)과 미 국방부(펜타곤) 사이의 AI 도입 협상이 핵심 조항을 두고 결렬됐다. 앤스로픽은 자사 AI 클로드(Claude)가 대량 상업 데이터 분석에 활용되는 것을 금지하는 조항을 고수했고, 펜타곤은 이를 수용하지 않았다. 이 사건은 AI 기업의 윤리적 자율성과 국가안보 수요 간 긴장을 단적으로 보여준다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">앤스로픽은 AI 안전성을 핵심 가치로 내세우는 기업으로, 군사적 활용에 대해 엄격한 기준을 유지해왔다. 이번 협상에서 쟁점이 된 것은 클로드를 통해 민간 상업 데이터를 대규모로 분석하는 용도였다. 앤스로픽 측은 이러한 활용이 자사 이용약관과 윤리 원칙에 부합하지 않는다며 계약 조건에서 명시적으로 금지했고, 이에 국방부와의 협상이 교착 상태에 빠졌다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 사례는 AI 기업이 대형 고객의 요구에도 윤리적 경계를 지킬 수 있는지를 시험하는 분수령이다. 구글, 마이크로소프트 등 빅테크가 국방 계약을 적극 추진하는 가운데 앤스로픽의 거부는 업계에 새로운 기준점을 제시한다. 향후 AI 군사 활용에 대한 규제 논의와 기업별 윤리 정책 차별화가 더욱 가속화될 전망이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 기업의 데이터 활용 윤리 기준은 교육 분야에도 직접적 영향을 미친다. 학생 학습 데이터를 처리하는 에듀테크 서비스가 어떤 AI 모델을 채택하느냐에 따라 데이터 보호 수준이 달라질 수 있으며, AI 윤리 정책이 명확한 기업의 모델을 선택하는 것이 교육 현장의 신뢰 확보에 중요해지고 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.nytimes.com/2026/03/08/opinion/ai-anthropic-claude-pentagon-hegseth-amodei.html\" style=\"color:#FF6B35;text-decoration:none;\">The New York Times</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "anthropic"
+    ],
+    "meta_title": "앤스로픽-펜타곤 AI 협상 결렬, 윤리 경계선 논쟁 부각",
+    "meta_description": "앤스로픽이 클로드의 대량 상업 데이터 분석 금지 조항을 고수하며 미 국방부와의 협상이 결렬됐다. AI 기업 윤리와 국가안보 수요 간 갈등이 본격화된다.",
+    "word_count": 520,
+    "feature_image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-09T11:17:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-09T12:15:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-09T03:31:05.451Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ae3ef9ff4fbf0001ab777d",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ae3ef9ff4fbf0001ab777d",
+    "public_url": "https://insight.ubion.global/aenseuropig-pentagon-hyeobsang-gyeolryeol-ai-yunri-gyeonggyeseon-nonjaeng-bongyeoghwa/",
+    "status": "published",
+    "published_at": "2026-03-09T03:31:05.000Z"
+  }
+}

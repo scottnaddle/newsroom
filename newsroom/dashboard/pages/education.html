@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>📚 AI 교육 파이프라인</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: 'Noto Sans KR', system-ui, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: #1a1a2e;
+      min-height: 100vh;
+      padding: 20px;
+    }
+    
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    
+    header {
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      margin-bottom: 24px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    
+    h1 {
+      font-size: 28px;
+      font-weight: 800;
+      margin-bottom: 8px;
+    }
+    
+    .subtitle {
+      font-size: 14px;
+      color: #6b7280;
+    }
+    
+    /* Pipeline Flow */
+    .pipeline-flow {
+      background: white;
+      border-radius: 12px;
+      padding: 30px;
+      margin-bottom: 24px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    
+    .flow-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    
+    .stage {
+      flex: 1;
+      min-width: 120px;
+      text-align: center;
+      padding: 16px;
+      border-radius: 8px;
+      background: #f3f4f6;
+      border: 2px solid #e5e7eb;
+    }
+    
+    .stage.active {
+      background: #dbeafe;
+      border-color: #3b82f6;
+    }
+    
+    .stage.warning {
+      background: #fef3c7;
+      border-color: #f59e0b;
+    }
+    
+    .stage-icon {
+      font-size: 24px;
+      margin-bottom: 8px;
+    }
+    
+    .stage-name {
+      font-size: 12px;
+      font-weight: 600;
+      color: #374151;
+      margin-bottom: 8px;
+    }
+    
+    .stage-count {
+      font-size: 20px;
+      font-weight: 800;
+      color: #1f2937;
+    }
+    
+    .arrow {
+      color: #9ca3af;
+      font-size: 24px;
+      margin: 0 -6px;
+    }
+    
+    /* Stats Grid */
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+    
+    .stat-card {
+      background: white;
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    
+    .stat-card h3 {
+      font-size: 13px;
+      font-weight: 600;
+      color: #6b7280;
+      margin-bottom: 12px;
+    }
+    
+    .stat-card .value {
+      font-size: 32px;
+      font-weight: 800;
+      color: #3b82f6;
+      margin-bottom: 8px;
+    }
+    
+    .stat-card .subtext {
+      font-size: 12px;
+      color: #9ca3af;
+    }
+    
+    /* Bottleneck Alert */
+    .bottleneck {
+      background: #fef3c7;
+      border: 2px solid #f59e0b;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 24px;
+    }
+    
+    .bottleneck h3 {
+      font-size: 14px;
+      font-weight: 700;
+      color: #92400e;
+      margin-bottom: 8px;
+    }
+    
+    .bottleneck p {
+      font-size: 13px;
+      color: #78350f;
+    }
+    
+    /* Footer */
+    footer {
+      text-align: center;
+      color: white;
+      font-size: 12px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>📚 AI 교육 뉴스 파이프라인</h1>
+      <p class="subtitle">오케스트레이터 방식 — 수집→취재→작성→팩트체크→발행 자동 체인</p>
+    </header>
+    
+    <!-- Pipeline Flow -->
+    <div class="pipeline-flow">
+      <h3 style="margin-bottom: 24px; font-size: 16px;">📊 단계별 처리 현황</h3>
+      <div class="flow-container" id="pipelineFlow">
+        <!-- JavaScript로 동적 생성 -->
+      </div>
+    </div>
+    
+    <!-- Stats -->
+    <div class="stats-grid" id="statsGrid">
+      <!-- JavaScript로 동적 생성 -->
+    </div>
+    
+    <!-- Bottleneck Alert -->
+    <div id="bottleneckAlert"></div>
+  </div>
+  
+  <footer>
+    <p>🔄 1분마다 자동 갱신 | AI 교육 뉴스 전담</p>
+  </footer>
+  
+  <script>
+    async function loadData() {
+      try {
+        const res = await fetch('/api/status');
+        const status = await res.json();
+        const education = status.branches.education;
+        
+        // Pipeline Flow 렌더링
+        const stages = [
+          { key: '01-sourced', name: '수집', icon: '📡' },
+          { key: '03-reported', name: '취재', icon: '🔍' },
+          { key: '04-drafted', name: '초안', icon: '✍️' },
+          { key: '05-fact-checked', name: '팩트체크', icon: '✅' },
+          { key: '06-desk-approved', name: '데스크', icon: '👔' },
+          { key: '07-copy-edited', name: '교열', icon: '🔎' },
+          { key: '08-published', name: '발행', icon: '🚀' }
+        ];
+        
+        let flowHtml = '';
+        stages.forEach((stage, i) => {
+          const count = education[stage.key];
+          const isWarning = count >= 5 && stage.key !== '08-published';
+          const stageClass = isWarning ? 'warning' : count > 0 ? 'active' : '';
+          
+          flowHtml += `
+            <div class="stage ${stageClass}">
+              <div class="stage-icon">${stage.icon}</div>
+              <div class="stage-name">${stage.name}</div>
+              <div class="stage-count">${count}</div>
+            </div>
+          `;
+          
+          if (i < stages.length - 1) {
+            flowHtml += '<div class="arrow">→</div>';
+          }
+        });
+        
+        document.getElementById('pipelineFlow').innerHTML = flowHtml;
+        
+        // Stats 렌더링
+        let statsHtml = `
+          <div class="stat-card">
+            <h3>📡 소스 수집</h3>
+            <div class="value">${education['01-sourced']}</div>
+            <p class="subtext">신규 소스 대기</p>
+          </div>
+          <div class="stat-card">
+            <h3>✍️ 초안 작성</h3>
+            <div class="value">${education['04-drafted']}</div>
+            <p class="subtext">작성 중인 기사</p>
+          </div>
+          <div class="stat-card">
+            <h3>🚀 발행 완료</h3>
+            <div class="value">${education['08-published']}</div>
+            <p class="subtext">누적 발행</p>
+          </div>
+        `;
+        
+        document.getElementById('statsGrid').innerHTML = statsHtml;
+        
+        // 병목 감지
+        const bottlenecks = [];
+        stages.forEach(stage => {
+          const count = education[stage.key];
+          if (count >= 5 && stage.key !== '08-published') {
+            bottlenecks.push(`${stage.name} (${count}개)`);
+          }
+        });
+        
+        let bottleneckHtml = '';
+        if (bottlenecks.length > 0) {
+          bottleneckHtml = `
+            <div class="bottleneck">
+              <h3>⚠️ 병목 감지</h3>
+              <p>다음 단계에 기사가 쌓여있습니다: ${bottlenecks.join(', ')}</p>
+            </div>
+          `;
+        }
+        
+        document.getElementById('bottleneckAlert').innerHTML = bottleneckHtml;
+      } catch (e) {
+        console.error('데이터 로드 오류:', e);
+      }
+    }
+    
+    loadData();
+    setInterval(loadData, 60 * 1000);
+  </script>
+</body>
+</html>

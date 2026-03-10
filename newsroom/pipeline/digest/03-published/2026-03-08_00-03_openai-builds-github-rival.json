@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "OpenAI Builds GitHub Rival, Tensions Rise With Microsoft",
+    "url": "https://awesomeagents.ai/news/openai-github-rival-microsoft-tension/",
+    "source_name": "Awesome Agents",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "OpenAI is developing its own code-hosting platform as a direct rival to GitHub after 37 incidents in February 2026 caused major disruptions. The project, still in early stages, could be sold commercially or kept internal, putting OpenAI on a collision course with Microsoft which owns GitHub and holds a 27% equity stake in OpenAI.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-08T00:03:00+09:00"
+  },
+  "digest": {
+    "headline": "OpenAI, 자체 코드 호스팅 플랫폼 개발… GitHub 대항마로 마이크로소프트와 충돌 예고",
+    "lead": "OpenAI가 잦은 장애에 시달리는 GitHub을 대체할 자체 코드 호스팅 플랫폼을 개발 중이다. 2026년 2월 한 달간 GitHub에서 37건의 장애가 발생하자 내부 엔지니어들이 자체 솔루션 구축에 나섰으며, 이는 GitHub 소유사이자 OpenAI 최대 투자자인 마이크로소프트와의 긴장을 고조시키고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">OpenAI가 잦은 장애에 시달리는 GitHub을 대체할 자체 코드 호스팅 플랫폼을 개발 중이다. 2026년 2월 한 달간 GitHub에서 37건의 장애가 발생하자 내부 엔지니어들이 자체 솔루션 구축에 나섰으며, 이는 GitHub 소유사이자 OpenAI 최대 투자자인 마이크로소프트와의 긴장을 고조시키고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">GitHub은 2025년 10월부터 자체 데이터센터에서 마이크로소프트 Azure로 인프라를 이전하고 있으며, 이 과정에서 안정성이 크게 떨어졌다. 2026년 2월에만 37건의 장애가 기록됐고, 전년 대비 23% 증가한 수치다. 특히 2월 9일 대규모 장애 때는 웹 인터페이스가 거의 마비돼 풀 리퀘스트 생성·검토가 불가능했다. OpenAI의 Codex CLI를 비롯해 Cursor 등 AI 코딩 도구들은 GitHub API에 의존하기 때문에 장애 시 개발 루프 전체가 멈추는 문제가 반복됐다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">OpenAI가 구상 중인 플랫폼은 단순한 GitHub 클론이 아니라, AI 에이전트가 '1급 기여자(first-class contributor)'로 참여하는 네이티브 환경을 지향한다. 다만 마이크로소프트는 OpenAI 지분 27%를 보유한 최대 투자자이면서 동시에 GitHub 소유사이고, GitHub Copilot은 OpenAI 모델로 구동된다. 상용화될 경우 양사 관계가 복잡해질 수밖에 없다. 프로젝트는 아직 초기 단계로 완성까지 수개월이 걸릴 전망이며, 내부 전용으로 남을 가능성도 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">코딩 교육 플랫폼과 대학 컴퓨터과학 수업은 GitHub을 사실상 표준 인프라로 사용하고 있다. GitHub 안정성 저하는 학습 환경에 직접적 영향을 미치며, AI 에이전트 네이티브 코드 플랫폼이 등장하면 '사람과 AI가 함께 코딩하는 교실' 환경이 크게 달라질 수 있다. 에듀테크 기업들은 Git 호스팅의 다변화 가능성에 대비해야 한다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://awesomeagents.ai/news/openai-github-rival-microsoft-tension/\" style=\"color:#FF6B35;text-decoration:none;\">Awesome Agents</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "openai"
+    ],
+    "meta_title": "OpenAI, GitHub 대항마 자체 코드 플랫폼 개발 착수",
+    "meta_description": "OpenAI가 GitHub 장애 빈발에 대응해 자체 코드 호스팅 플랫폼을 개발 중이다. AI 에이전트 네이티브 환경을 지향하며, 최대 투자자 마이크로소프트와의 긴장이 고조되고 있다.",
+    "word_count": 620
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-08T00:03:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-08T00:17:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T15:41:37.108Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69ac4730ff4fbf0001ab73e2",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69ac4730ff4fbf0001ab73e2",
+    "public_url": "https://insight.ubion.global/openai-jace-kodeu-hoseuting-peulraespom-gaebal-github-daehangmaro-maikeurosopeuteuwa-cungdol-yego/",
+    "status": "published",
+    "published_at": "2026-03-07T15:41:36.000Z"
+  }
+}

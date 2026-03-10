@@ -1,0 +1,54 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Anthropic CEO Dario Amodei calls OpenAI's messaging around military deal 'straight up lies,' report says",
+    "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+    "source_name": "TechCrunch",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Anthropic CEO Dario Amodei responds to OpenAI's Pentagon military AI deal. Anthropic had previously insisted DoD affirm no use for domestic mass surveillance or autonomous weapons. Pentagon chose OpenAI instead.",
+    "published_date": "2026-03-04",
+    "collected_at": "2026-03-06T07:09:00Z"
+  },
+  "digest": {
+    "headline": "AI 기업의 규제 입장 충돌, 교육 안전 기준 모색 시작",
+    "lead": "Anthropic이 미 국방부와 AI 기술 사용 약속 협상을 거부한 가운데, OpenAI가 계약을 체결했다. AI 윤리와 규제를 바라보는 기업 간 입장 차이가 교육용 AI 개발에도 영향을 미칠 전망이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">⚡ AI Digest</span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">Anthropic은 미 국방부가 AI 기술을 대량 감시와 자율 무기에 사용하지 않는다는 서면 보증을 거부하자 장기 계약을 포기했다. 반면 OpenAI는 유사한 보호 장치가 있다며 계약을 체결했는데, 전문가들은 법 변화에 따른 리스크를 지적하고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Anthropic의 Dario Amodei CEO는 직원들에게 보낸 메모에서 OpenAI의 입장을 \"기만\"이라고 강하게 비판했다. 국방부는 \"모든 적법한 용도\"로의 AI 기술 사용을 원했고, Anthropic은 이를 거부했던 반면 OpenAI는 계약을 수락했다. ChatGPT 앱의 설치 제거가 295% 급증한 반면, Anthropic의 Claude 다운로드는 51% 증가했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 갈등은 단순한 기업 간 경쟁을 넘어 AI 규제와 윤리에 대한 근본적인 입장 차이를 드러낸다. Amodei가 지적한 \"법은 변할 수 있다\"는 우려는 현실적인 규제 위험을 시사한다. 미국 정부의 과감한 규제 움직임은 향후 AI 개발의 방향성과 기업 전략에 장기적 영향을 미칠 것으로 보인다.</p>\n\n  <!-- 에듀테크 시사점 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">교육 현장에서 AI 사용 시 안전성과 윤리가 점점 더 중요해지고 있다. 이 사건은 에듀테크 스타트업들이 AI 기술 선택 시 단순 성능뿐 아니라 기업의 규제 입장, 안전 정책, 투명성을 검토해야 함을 강조한다. 학생 데이터를 다루는 교육용 AI는 특히 감시나 부정적 용도 사용 금지 조항이 필수적이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/\" style=\"color:#FF6B35;text-decoration:none;\">TechCrunch</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "openai",
+      "anthropic"
+    ],
+    "meta_title": "Anthropic vs OpenAI, 국방부 AI 계약 거부 배경은",
+    "meta_description": "Anthropic CEO가 OpenAI의 국방부 계약 메시지를 비판. AI 규제와 교육 안전성의 미래를 살펴본다.",
+    "word_count": 450
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T07:09:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T07:11:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T22:31:27.877Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aa043fff4fbf0001ab6c8e",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aa043fff4fbf0001ab6c8e",
+    "public_url": "https://ubion.ghost.io/ai-gieobyi-gyuje-ibjang-cungdol-gyoyug-anjeon-gijun-mosaeg-sijag/",
+    "status": "published",
+    "published_at": "2026-03-05T22:31:27.000Z",
+    "feature_image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&h=630&fit=crop&q=85&auto=format"
+  }
+}

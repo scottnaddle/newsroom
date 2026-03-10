@@ -1,0 +1,43 @@
+{
+  "id": "source_009",
+  "stage": "rejected",
+  "draft": {
+    "headline": "대학 AI 거버넌스의 '현실과 갭'…섀도우 AI와 규제의 압박"
+  },
+  "fact_check": {
+    "score": 90,
+    "verdict": "PASS",
+    "verified_claims": [
+      {
+        "claim": "EDUCAUSE 조사: 80% 교직원이 AI 사용, 25% 미만 정책 인지",
+        "source": "theeducationmagazine.com (EDUCAUSE 2024 AI Landscape Study)",
+        "status": "verified"
+      },
+      {
+        "claim": "EU AI Act 2024년 8월 발효, 8월 2026 고위험 규정 적용",
+        "source": "theeducationmagazine.com & EC AI Act",
+        "status": "verified"
+      },
+      {
+        "claim": "섀도우 AI의 데이터 유출, FERPA, 사이버보안 위험",
+        "source": "theeducationmagazine.com",
+        "status": "verified"
+      },
+      {
+        "claim": "거버넌스 4가지 기둥: 위원회, 윤리, HITL, 지속 모니터링",
+        "source": "theeducationmagazine.com",
+        "status": "verified"
+      }
+    ],
+    "issues": [],
+    "quality_score": {
+      "structure": "pass",
+      "readability": "pass",
+      "completeness": "pass"
+    }
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

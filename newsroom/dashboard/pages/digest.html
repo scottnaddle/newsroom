@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>⚡ AI Digest</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: 'Noto Sans KR', system-ui, sans-serif;
+      background: linear-gradient(135deg, #f97316 0%, #ea580c 100%);
+      color: #1a1a2e;
+      min-height: 100vh;
+      padding: 20px;
+    }
+    
+    .container {
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    
+    header {
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      margin-bottom: 24px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    
+    h1 {
+      font-size: 28px;
+      font-weight: 800;
+      margin-bottom: 8px;
+    }
+    
+    .subtitle {
+      font-size: 14px;
+      color: #6b7280;
+    }
+    
+    /* Simple Flow */
+    .flow {
+      background: white;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 24px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    
+    .flow-item {
+      text-align: center;
+      padding: 16px;
+      background: #f3f4f6;
+      border-radius: 8px;
+      border: 2px solid #e5e7eb;
+      min-width: 100px;
+    }
+    
+    .flow-item.active {
+      background: #fed7aa;
+      border-color: #f97316;
+    }
+    
+    .flow-item-icon {
+      font-size: 24px;
+      margin-bottom: 8px;
+    }
+    
+    .flow-item-name {
+      font-size: 12px;
+      font-weight: 600;
+      color: #374151;
+      margin-bottom: 8px;
+    }
+    
+    .flow-item-count {
+      font-size: 20px;
+      font-weight: 800;
+      color: #f97316;
+    }
+    
+    .flow-arrow {
+      color: #d1d5db;
+      font-size: 20px;
+    }
+    
+    /* Stats */
+    .stats {
+      background: white;
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 24px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    
+    .stat-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 0;
+      border-bottom: 1px solid #f3f4f6;
+    }
+    
+    .stat-row:last-child {
+      border-bottom: none;
+    }
+    
+    .stat-label {
+      font-size: 14px;
+      color: #6b7280;
+    }
+    
+    .stat-value {
+      font-size: 20px;
+      font-weight: 800;
+      color: #f97316;
+    }
+    
+    /* Info Box */
+    .info-box {
+      background: #fef3c7;
+      border-left: 4px solid #f97316;
+      border-radius: 8px;
+      padding: 16px;
+      margin-bottom: 24px;
+    }
+    
+    .info-box h3 {
+      font-size: 14px;
+      font-weight: 700;
+      color: #92400e;
+      margin-bottom: 8px;
+    }
+    
+    .info-box p {
+      font-size: 13px;
+      color: #78350f;
+      line-height: 1.6;
+    }
+    
+    footer {
+      text-align: center;
+      color: white;
+      font-size: 12px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>⚡ AI Digest</h1>
+      <p class="subtitle">Global AI 뉴스의 핵심을 매일 요약해 전달</p>
+    </header>
+    
+    <!-- Flow -->
+    <div class="flow" id="flow">
+      <!-- JavaScript로 동적 생성 -->
+    </div>
+    
+    <!-- Stats -->
+    <div class="stats" id="stats">
+      <!-- JavaScript로 동적 생성 -->
+    </div>
+    
+    <!-- Info -->
+    <div class="info-box">
+      <h3>ℹ️ AI Digest란?</h3>
+      <p>전 세계 AI 관련 뉴스 중 핵심 내용을 선별하여 매일 정리한 뉴스레터입니다. 교육, 정책, 기술 등 다양한 분야의 최신 동향을 빠르게 파악할 수 있습니다.</p>
+    </div>
+  </div>
+  
+  <footer>
+    <p>🔄 1분마다 자동 갱신 | Global AI Digest</p>
+  </footer>
+  
+  <script>
+    async function loadData() {
+      try {
+        const res = await fetch('/api/status');
+        const status = await res.json();
+        const digest = status.branches.digest;
+        
+        // Flow
+        const stages = [
+          { key: 'digest/01-sourced', name: '수집', icon: '📡', count: 0 },
+          { key: 'digest/02-drafted', name: '초안', icon: '✍️', count: 0 },
+          { key: 'digest/03-published', name: '발행', icon: '🚀', count: 0 }
+        ];
+        
+        stages[0].count = digest['digest/01-sourced'];
+        stages[1].count = digest['digest/02-drafted'];
+        stages[2].count = digest['digest/03-published'];
+        
+        let flowHtml = '';
+        stages.forEach((stage, i) => {
+          const isActive = stage.count > 0;
+          flowHtml += `
+            <div class="flow-item ${isActive ? 'active' : ''}">
+              <div class="flow-item-icon">${stage.icon}</div>
+              <div class="flow-item-name">${stage.name}</div>
+              <div class="flow-item-count">${stage.count}</div>
+            </div>
+          `;
+          
+          if (i < stages.length - 1) {
+            flowHtml += '<div class="flow-arrow">→</div>';
+          }
+        });
+        
+        document.getElementById('flow').innerHTML = flowHtml;
+        
+        // Stats
+        const published = digest['digest/03-published'];
+        const drafted = digest['digest/02-drafted'];
+        const dailyAvg = Math.ceil(published / 7); // 최근 7일 평균
+        
+        let statsHtml = `
+          <div class="stat-row">
+            <span class="stat-label">📤 발행 완료</span>
+            <span class="stat-value">${published}</span>
+          </div>
+          <div class="stat-row">
+            <span class="stat-label">✍️ 작성 중</span>
+            <span class="stat-value">${drafted}</span>
+          </div>
+          <div class="stat-row">
+            <span class="stat-label">📊 일평균</span>
+            <span class="stat-value">${dailyAvg}개/일</span>
+          </div>
+        `;
+        
+        document.getElementById('stats').innerHTML = statsHtml;
+      } catch (e) {
+        console.error('데이터 로드 오류:', e);
+      }
+    }
+    
+    loadData();
+    setInterval(loadData, 60 * 1000);
+  </script>
+</body>
+</html>

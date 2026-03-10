@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "2026 Global Data Center Outlook - Navigating AI Demand and Power Constraints",
+    "url": "https://www.jll.com/en-us/insights/market-outlook/data-center-outlook",
+    "source_name": "JLL",
+    "language": "en",
+    "relevance_score": 82,
+    "summary": "Comprehensive outlook on navigating AI demand, power constraints and global opportunities in the data center market for 2026.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-06T17:29:00+09:00"
+  },
+  "digest": {
+    "headline": "2030년까지 3조 달러 투자 필요…AI가 데이터센터 워크로드 절반 차지 전망",
+    "lead": "글로벌 데이터센터 시장이 전례 없는 투자 초주기에 진입했다. JLL 분석에 따르면 2026~2030년 약 100GW의 신규 용량이 추가되며, 총 3조 달러 규모의 투자가 필요하다. AI 워크로드는 2030년까지 전체의 절반까지 확대될 전망이며, 2027년부터는 추론 수요가 학습을 앞설 것으로 예상된다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">글로벌 데이터센터 시장이 전례 없는 투자 초주기에 진입했다. JLL 분석에 따르면 2026~2030년 약 100GW의 신규 용량이 추가되며, 총 3조 달러 규모의 투자가 필요하다. AI 워크로드는 2030년까지 전체의 절반까지 확대될 전망이며, 2027년부터는 추론 수요가 학습을 앞설 것으로 예상된다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">데이터센터 부문은 연평균 14% 성장률로 2030년까지 200GW 용량에 도달할 것으로 전망된다. 이 중 1.2조 달러는 부동산 자산 가치 창출에, 8천 7백억 달러는 신규 부채 조달에 투입된다. 테넌트들이 GPU와 네트워킹 인프라에 지출할 비용까지 합치면 총 규모는 3조 달러에 육박한다. 미주 지역이 전 세계 용량의 50%를 차지하며 17%의 가장 빠른 성장률을 기록 중이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">전력 인프라가 핵심 병목으로 부상했다. 주요 데이터센터 시장의 평균 그리드 연결 대기 시간이 4년을 넘어서면서, 자가 발전과 배터리 저장 솔루션이 필수적인 확장 경로가 되고 있다. AI 워크로드의 중심도 학습에서 추론으로 이동할 것으로 보여, 지리적으로 분산된 배포와 엣지 시스템 수요가 증가할 전망이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">추론 중심의 AI 워크로드 확대는 에듀테크 서비스에 긍정적이다. 실시간 학습 분석, 생성형 AI 튜터, 적응형 평가 시스템 등 교육 현장에서 지속적으로 활용되는 서비스들이 지연 시간이 낮은 분산형 인프라의 혜택을 받을 수 있다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.jll.com/en-us/insights/market-outlook/data-center-outlook\" style=\"color:#FF6B35;text-decoration:none;\">JLL</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "datacenter",
+      "infrastructure"
+    ],
+    "meta_title": "3조 달러 데이터센터 투자…AI 추론 수요 폭증 전망 | AI Digest",
+    "meta_description": "JLL 분석에 따르면 2030년까지 데이터센터에 3조 달러 투자가 필요하다. AI 워크로드가 전체의 절반까지 확대되며 추론 수요가 학습을 앞설 것으로 예상된다.",
+    "word_count": 510
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T17:29:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T17:53:00+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T10:57:44.861Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aab328ff4fbf0001ab6f1a",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aab328ff4fbf0001ab6f1a",
+    "public_url": "https://ubion.ghost.io/2030nyeonggaji-3jo-dalreo-tuja-pilyo-aiga-deiteosenteo-weokeurodeu-jeolban-caji-jeonmang/",
+    "status": "published",
+    "published_at": "2026-03-06T10:57:44.000Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "review_date": "2026-03-09T01:00:00+09:00",
+  "analysis_period": "2026-03-02 ~ 2026-03-08",
+  "scores": {
+    "content": 5,
+    "quality": 6,
+    "ux": 6,
+    "velocity": 4,
+    "growth": 5
+  },
+  "published_count": 20,
+  "draft_count": 70,
+  "pipeline": {
+    "08-published": 24,
+    "rejected": 66,
+    "others": 0
+  },
+  "key_issues": [
+    "AI 교육(ai-edu) 카테고리 이번 주 발행 0건",
+    "동일 제목 기사 중복 draft 다수",
+    "AI Digest 순수 산업뉴스 교육 연결성 부족"
+  ],
+  "proposals": [
+    "AI 교육 기사 발행 재개 (draft 적체 해소)",
+    "중복 draft 정리 및 중복 방지 로직 추가",
+    "AI Digest 교육 시사점 추가",
+    "URL slug 영문화",
+    "경쟁 차별화 (AI Papers + 에듀테크 인사이트 강화)"
+  ],
+  "sent_to_scott": true
+}

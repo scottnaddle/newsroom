@@ -1,0 +1,51 @@
+{
+  "timestamp": "2026-03-05T20:44:00+09:00",
+  "cron_job": "editor-desk (30분 주기)",
+  "status": "정상 운영",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 1,
+      "queued": 1,
+      "assigned": 0,
+      "rejected": 0,
+      "note": "AI 진로상담 논문 발표 뉴스 (관련성 68점) → 큐 저장"
+    },
+    "02_assigned": 0,
+    "03_reported": 0,
+    "04_drafted": 0,
+    "05_fact_checked": 0,
+    "06_desk_approved": 0,
+    "07_copy_edited": 0,
+    "08_published": {
+      "total": 71,
+      "status": "발행 완료"
+    }
+  },
+  "queue_status": {
+    "total_items": 21,
+    "score_range": {
+      "50-59": 8,
+      "60-69": 10,
+      "70-79": 3
+    },
+    "oldest_item": "2026-03-02T12:04:00+01:00",
+    "days_in_queue": 3,
+    "priority_recommendations": [
+      "70점대 우선 검토: KT-MWC26 (72점), 교육부 부트캠프 (72점)",
+      "문제: 큐 항목이 3일 이상 대기 → writer 투입 필요"
+    ]
+  },
+  "bottleneck_analysis": {
+    "status": "전체 파이프라인 정체",
+    "root_cause": "01-sourced → 02-assigned 단계에서 배정 미진행",
+    "action_needed": [
+      "1. Writer 활성화: 현재 배정된 기사 없음",
+      "2. 큐 처리: 70점대 항목 3개 우선 배정",
+      "3. 성과: 08-published 71개 (양호)"
+    ]
+  },
+  "next_steps": {
+    "immediate": "Writer에게 큐 상위 항목 배정 → 03-reported로 진행",
+    "follow_up": "2-3시간 후 재점검 (현 시간 20:44, 다음 점검 23:00 예정)"
+  }
+}

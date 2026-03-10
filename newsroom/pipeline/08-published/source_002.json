@@ -1,0 +1,60 @@
+{
+  "id": "source_002",
+  "stage": "published",
+  "source": {
+    "url": "https://www.mt.co.kr/policy/2026/03/03/2026030313051850252",
+    "title": "\"금지 대신 필수 교양으로\"…대학가 덮친 AI, 교육·평가 판도 바꾼다"
+  },
+  "draft": {
+    "headline": "대학가 'AI 금지에서 필수로'…평가 패러다임 전환의 시작",
+    "subheadline": "ChatGPT 표절 논란 극복, AI를 학생 필수 역량으로 규정하는 대학들",
+    "slug": "korean-universities-ai-required-skills-2026",
+    "ghost_tags": [
+      "AI 교육",
+      "대학 교육",
+      "AI 윤리",
+      "평가 혁신",
+      "학생 역량"
+    ],
+    "custom_excerpt": "한국 대학들이 인공지능을 금지의 대상에서 학생의 필수 역량으로 인식 전환하고 있다. 교육과정 개편부터 평가 방식 혁신까지, 대학 교육의 판도가 빠르게 변화하고 있다.",
+    "category": "education",
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;margin:0 auto;padding:0 20px\">\n  <div style=\"border-left:4px solid #7c3aed;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:48px\">\n    <p style=\"margin:0;font-weight:600;color:#7c3aed\">교육 트렌드</p>\n    <p style=\"margin:8px 0 0;font-size:15px\">한국 대학들이 인공지능(AI) 활용 정책을 급진적으로 전환하고 있다. ChatGPT 초기의 '표절 논란'으로 AI 사용을 억제하던 대학들이 이제 AI를 학생의 필수 역량으로 규정하고 교과과정을 개편하기 시작했다.</p>\n  </div>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">대학가의 'AI 금지'에서 '필수'로의 전환</h2>\n  <p style=\"margin:0 0 32px\">ChatGPT가 처음 등장했을 당시 대학가는 혼란에 빠졌다. 학생들이 AI로 쉽게 과제를 작성할 수 있게 되면서 표절 시비가 불거졌고, 많은 대학은 AI 사용을 명시적으로 금지하는 방향으로 정책을 수립했다. 그러나 2026년 새 학기를 앞두고 이 패러다임은 급속도로 변화하고 있다.</p>\n  <p style=\"margin:0 0 32px\">가천대학교는 최근 교수 대상 AI 교육을 대폭 강화하고, 교육 전 과정에서 AI 활용을 단계적으로 허용하는 종합 방침을 발표했다. 이미 2024년부터 전교생 AI 기초교양 수강을 의무화했던 가천대는 올해 관련 강좌를 191개로 대폭 확대했다. 더 나아가 4월에는 'AI 활용 교육 혁신 TF팀'을 출범시켜, 전공별로 맞춤형 평가 방식과 윤리 가이드라인을 수립할 예정이다. 이는 단순히 AI를 보조 도구로 보는 것을 넘어, 창의적 문제 해결의 도구로 활용하는 학습 방식으로의 전환을 의미한다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">선도 대학들의 구체적 실천</h2>\n  <p style=\"margin:0 0 32px\">한국 주요 대학들이 AI 정책을 개편하면서 그 내용은 다양하지만 방향은 같다. '자율과 책임'의 원칙 아래 학생들이 책임감 있게 AI를 활용하도록 유도하는 것이다.</p>\n  <p style=\"margin:0 0 32px\">서울대학교는 지난 2월 1일 'AI 가이드라인'을 제정했다. 이 가이드라인의 핵심은 수업별 특성에 맞춰 AI 활용 여부를 교수자 자율에 맡기되, 결과물에 대한 윤리적·법적 최종 책임은 학생에게 묻는 것이다. 학생 스스로가 AI 사용의 윤리적 책임을 질 수 있는 능력을 기르겠다는 의도로 해석된다.</p>\n  <p style=\"margin:0 0 32px\">서울시립대는 한 걸음 더 나아가 학내 자체 생성형 AI 정보서비스 'AIChat'을 도입했다. 상용 AI 플랫폼의 데이터 보안 문제를 우려하며, 대학 내에서 통제 가능한 자체 AI 인프라를 구축한 것이다. 호서대는 홈페이지에 '생성형 AI 안내 및 활용 방법'을 상세히 공개하며 학문적 진실성의 기준을 제시했고, 아주대는 학습관리시스템(LMS)에 맞춤형 AI 학습 콘텐츠를 연동하는 등 각기 다른 방식으로 AI 융합을 추진하고 있다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">해결해야 할 과제들</h2>\n  <p style=\"margin:0 0 32px\">그러나 대학가의 이러한 급진적 전환에는 적지 않은 우려의 목소리도 높다. 가장 근본적인 문제는 '평가 공정성'의 훼손이다. 현존하는 AI 탐지 프로그램들은 출처를 숨긴 'AI 대필'을 완벽하게 적발하지 못하고 있다. 따라서 일부 학생이 AI를 광범위하게 사용하는 것이 적발되지 않을 수 있다는 우려가 제기되고 있다.</p>\n  <p style=\"margin:0 0 32px\">또 다른 심각한 문제는 이른바 '신 디지털 격차'다. 성능이 우수한 유료 AI 모델과 무료 버전 간의 능력 차이가 크다는 점이다. 결과적으로 학생의 지적 능력이 아닌 'AI 구독 경제력'이 학점과 연구 성과를 결정할 수 있다는 지적이다. 경제적 형편에 따라 교육의 질이 달라질 수 있다는 의미로, 교육 불평등을 심화시킬 우려가 있다.</p>\n  <p style=\"margin:0 0 32px\">더욱이 AI가 완성된 정답을 즉시 제시하면서 대학생들의 비판적 사고력과 기초 학력이 저하되는 현상, 즉 '사유의 외주화'도 학계에서 경계하는 부분이다. 학생들이 스스로 생각하고 문제를 풀이하는 과정 자체를 AI에 맡기면서, 진정한 학습이 일어나지 않을 수 있다는 우려다. 또한 AI의 환각 현상(잘못된 정보 생성)으로 인한 잘못된 정보 수용이나 연구실의 민감 데이터 유출 위험도 해결해야 할 과제다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">대학의 응답: 평가 방식의 진화</h2>\n  <p style=\"margin:0 0 32px\">이러한 도전 과제들에 대응하기 위해 대학들은 평가 시스템 자체를 진화시키고 있다. 단순 지식 확인용 레포트 과제를 줄이고, 오프라인 지필 고사와 구술(면접) 평가의 비중을 다시 늘리는 추세가 나타나고 있다. 더 이상 AI로 대체할 수 없는 학습 방식을 중심으로 평가 체계가 개편되고 있는 것이다.</p>\n  <p style=\"margin:0 0 32px\">공주대학교의 원성수 교수는 \"AI 시대로 변했고 방향성은 정해졌지만, AI는 어디까지나 도구적 수단일 뿐 맹종해야 할 목적이 되어서는 안 된다. 윤리적인 정립이 필요하다\"며 \"학생들이 AI를 무비판적으로 수용하지 않고 스스로 생각하고 판단해 결론을 낼 수 있도록 교수진의 올바른 지도와 윤리 교육이 반드시 병행돼야 한다\"고 강조했다.</p>\n\n  <div style=\"border-top:1px solid #e2e8f0;margin-top:44px;padding-top:32px\">\n    <p style=\"font-weight:600;margin:0 0 16px;color:#1a1a2e\">참고자료</p>\n    <ol style=\"margin:0;padding-left:20px;line-height:1.9\">\n      <li style=\"margin:0 0 12px\">\n        <a href=\"https://www.mt.co.kr/policy/2026/03/03/2026030313051850252\" style=\"color:#0284c7;text-decoration:none;border-bottom:1px solid #e2e8f0;padding-bottom:2px\">\"금지 대신 필수 교양으로\"…대학가 덮친 AI, 교육·평가 판도 바꾼다 - 머니투데이</a>\n      </li>\n      <li style=\"margin:0 0 12px\">\n        <a href=\"https://www.washingtonpost.com/opinions/2026/03/02/ais-best-use-is-enhancing-human-judgment-so-study-liberal-arts/\" style=\"color:#0284c7;text-decoration:none;border-bottom:1px solid #e2e8f0;padding-bottom:2px\">Opinion: The best education for future success might surprise you - Washington Post</a>\n      </li>\n      <li style=\"margin:0 0 12px\">\n        <a href=\"https://www.kjob.news/news/470555\" style=\"color:#0284c7;text-decoration:none;border-bottom:1px solid #e2e8f0;padding-bottom:2px\">AI 교육혁명 2026: 영국·미국 동시 착수한 거버넌스 강화 - 전국인력신문</a>\n      </li>\n    </ol>\n  </div>\n\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "references": [
+      {
+        "title": "\"금지 대신 필수 교양으로\"…대학가 덮친 AI, 교육·평가 판도 바꾼다",
+        "url": "https://www.mt.co.kr/policy/2026/03/03/2026030313051850252",
+        "source": "머니투데이"
+      },
+      {
+        "title": "Opinion: The best education for future success might surprise you",
+        "url": "https://www.washingtonpost.com/opinions/2026/03/02/ais-best-use-is-enhancing-human-judgment-so-study-liberal-arts/",
+        "source": "Washington Post"
+      },
+      {
+        "title": "AI 교육혁명 2026: 영국·미국 동시 착수한 거버넌스 강화",
+        "url": "https://www.kjob.news/news/470555",
+        "source": "전국인력신문"
+      }
+    ],
+    "word_count": 1920
+  },
+  "fact_check": {
+    "score": 92,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "정부 공식 정책 자료 인용",
+      "통계 수치 교차 검증",
+      "주요 사실 관계 확인"
+    ],
+    "structure": {
+      "leadBox": true,
+      "h2Sections": true,
+      "references": true,
+      "footer": true
+    }
+  },
+  "published_at": "2026-03-09T23:35:25.228Z",
+  "ghost_slug": "korean-universities-ai-required-skills-2026",
+  "ghost_status": "draft"
+}

@@ -1,0 +1,387 @@
+{
+  "from": "editor-desk",
+  "action": "request-revision",
+  "article_id": "1741262640-ai-bootcamp-draft",
+  "timestamp": "2026-03-06T13:02:00+09:00",
+  "deadline": "2026-03-07T13:02:00+09:00",
+  "deadline_hours": 24,
+  "priority": "high",
+  "status": "FACT-CHECKED",
+  "severity": "🚩 중대",
+  "stage": "fact-checked",
+  
+  "reporting_brief": {
+    "who": {
+      "주체": [
+        "교육부 (주관, 정책 수립)",
+        "한국산업기술진흥원(KIAT) (공동 운영)",
+        "선정 대학 41개 (AI 37개, 미래차 2개, 로봇 2개)",
+        "참여 기업 (산학협력 파트너)"
+      ],
+      "입장": {
+        "정부": "지역 균형 개발, AI·로봇·미래차 분야 실무형 인재 양성 가속화",
+        "대학": "마이크로디그리 자격 기반 취업 연계, 산학협력 강화",
+        "기업": "필요 인재 즉시 채용 가능, 교육-채용 선순환"
+      }
+    },
+    
+    "what": {
+      "사건": "2026년 첨단산업 인재양성 부트캠프 신규 선정 대학 발표",
+      "세부사항": [
+        {
+          "항목": "신규 선정 규모",
+          "내용": "총 41개 대학 신규 선정",
+          "상세": "AI 37개(약 90%), 미래차 2개, 로봇공학 2개",
+          "출처": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156746241"
+        },
+        {
+          "항목": "발표일",
+          "내용": "2026년 2월 27일 운영계획 공고",
+          "확인": "정부 공식 보도자료 확인됨",
+          "출처": "korea.kr, moe.go.kr 공식 발표 자료",
+          "FLAGGED_NOTE": "기사 기존 기술: 2025년 12월 11일 → 정정됨"
+        },
+        {
+          "항목": "지역 배치",
+          "내용": "비수도권 30개(약 81%), 수도권 7개",
+          "의미": "지역 균형 발전 강조",
+          "출처": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=104840",
+          "검증상태": "기사 근거 제시되나 공개 검증 불가 (UNVERIFIABLE)"
+        },
+        {
+          "항목": "경쟁률",
+          "내용": "AI 2.35:1, 로봇 2.5:1, 미래자동차 5.5:1",
+          "신뢰도": "중간 (교육부 공식 발표이나 공개 검증 불가)",
+          "출처": "교육부 공식 보도자료",
+          "검증상태": "UNVERIFIABLE"
+        },
+        {
+          "항목": "정책 시작 연도",
+          "내용": "2023년부터 반도체·배터리·바이오 등 7개 분야 47개 대학 지원 시작",
+          "추가정보": "2026년 AI·로봇·미래차 41개 대학 추가 선정으로 총 88개 대학 규모 확대",
+          "출처": "https://www.unipress.co.kr/news/articleView.html?idxno=13651",
+          "검증상태": "SUPPORTED"
+        },
+        {
+          "항목": "예산 규모",
+          "내용": "대학당 평균 연 15억원 수준 지원",
+          "5년기준": "대학당 총 71억원 내외 (5년 누적)",
+          "사업기간": "5년 (3년 기본 지원 + 2년 추가 지원)",
+          "출처": "교육부, 대진대 공식 보도",
+          "검증상태": "SUPPORTED - 신규 투자 총액 134억은 UNVERIFIABLE",
+          "FLAGGED_NOTE": "기사 기술: 신규 투자 134억 175만원 - 검증 근거 없음"
+        }
+      ]
+    },
+    
+    "why": {
+      "중요성": [
+        "산업체 수요와 대학 교육의 미스매치 해소",
+        "AI·로봇·미래차 분야 국가 경쟁력 강화",
+        "글로벌 인재양성 경쟁에 선제적 대응 (미국 부트캠프 일반화, 중국 대규모 투자)",
+        "마이크로디그리 자격 체계 도입으로 교육 혁신",
+        "지역 소멸 위기 속 지방 인재 유출 방지"
+      ],
+      "영향범위": {
+        "교육계": "기존 학위과정과의 경쟁 우려, 산학협력 강화 필수",
+        "산업계": "즉시 활용 가능한 실무형 인재 확보",
+        "정책": "88개 대학(기존 47개 + 신규 41개) 규모의 국가 수준 인재양성 전략"
+      }
+    },
+    
+    "when_where": {
+      "발표시점": "2026년 2월 27일 공고",
+      "시행시점": "2026년 3월 1일",
+      "사업기간": "5년 (3년 기본 지원 + 2년 추가 지원)",
+      "선정대학": "비수도권 30개, 수도권 7개 (광주, 대구, 전북 등 지역 산업과 연계)"
+    },
+    
+    "context": {
+      "정책배경": [
+        "전통 대학 학사과정만으로는 산업 수요 충족 불가",
+        "글로벌 부트캠프 기반 인재양성 확산 (미국 선행 모델)",
+        "중국의 국가 차원 AI 인재 양성 대규모 투자 경쟁",
+        "한국의 물리적 AI(Embodied AI) 시대 진입 (자율주행차, 산업로봇, 드론)"
+      ],
+      "정책진화": {
+        "2023": "반도체·배터리·바이오·항공우주 등 7개 분야 47개 대학 선정 (정책 시작)",
+        "2026": "AI·로봇·미래차 3개 분야 신규 41개 대학 추가 선정",
+        "총규모": "88개 대학 참여하는 국가 수준의 인재양성 정책"
+      },
+      "국제비교": {
+        "미국": "부트캠프 기반 인재양성 이미 일반화",
+        "중국": "국가 차원 AI 인재 양성에 대규모 투자 중",
+        "한국": "정부 지원 88개 대학 규모로 차별화 시도"
+      }
+    },
+    
+    "sources": [
+      {
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156746241",
+        "credibility": 95,
+        "role": "정부 공식 발표",
+        "publisher": "대한민국 정책브리핑",
+        "summary": "2026년 첨단산업 인재양성 부트캠프 신규 선정 41개 대학 공식 발표",
+        "verified": true
+      },
+      {
+        "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=104840",
+        "credibility": 95,
+        "role": "정부 부처 공식",
+        "publisher": "교육부",
+        "summary": "2026년 첨단산업 인재양성 부트캠프 운영계획 공고",
+        "detail": "지역별 배치, 지원규모, 선정 절차 명시",
+        "verified": false,
+        "note": "접근 불가능하나 보도자료로 존재 확인"
+      },
+      {
+        "url": "https://www.unipress.co.kr/news/articleView.html?idxno=13651",
+        "credibility": 80,
+        "role": "교육 전문 언론",
+        "publisher": "대학지성",
+        "summary": "부트캠프 정책의 역사적 배경(2023년 시작) 및 2026년 신규 선정 기록",
+        "verified": true
+      },
+      {
+        "url": "https://epts.kdi.re.kr/archive/frwdHist/view2?EPIC_NUM=274635",
+        "credibility": 90,
+        "role": "경제정책 아카이브",
+        "publisher": "경제정책 시계열서비스",
+        "summary": "2026년 첨단산업 인재양성 부트캠프 운영계획 공식 발표",
+        "verified": false,
+        "note": "접근 불가능하나 신뢰도 높음"
+      }
+    ],
+    
+    "perspectives": {
+      "government": {
+        "입장": "지역 균형 개발 및 실무형 인재 양성",
+        "목표": "88개 대학 규모의 국가 차원 인재양성, 글로벌 경쟁 선제 대응"
+      },
+      "education_field": {
+        "기대": "정부 지원으로 산학협력 강화, 학생 취업 기회 확대",
+        "과제": "마이크로디그리 사회 인정도, 기업 채용 과정에서의 실질적 인정 필요"
+      },
+      "corporate": {
+        "기대": "즉시 활용 가능한 실무형 인재 확보",
+        "역할": "산학협력 파트너로서 교육과정 공동 설계, 취업 연계"
+      }
+    },
+    
+    "suggested_angle": {
+      "핵심_앵글": "한국 교육의 산업 수요 맞춤 — 정부가 추진하는 88개 대학 규모의 인재양성 혁신"
+    }
+  },
+  
+  "draft": {
+    "headline": "교육부, AI·로봇·미래차 41개 대학 부트캠프 신규 선정",
+    "subheadline": "총 88개 대학 규모 확대… 2026년부터 실무형 인재 양성 본격화",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n  \n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #4338ca;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">교육부가 인공지능(AI), 미래자동차, 로봇공학 분야에 첨단산업 인재양성 부트캠프 신규 선정 대학 41개를 공개했다. 기존 정책 47개 대학과 합쳐 총 88개 대학 규모로 확대되며, 2026년 3월부터 본격 운영된다. 글로벌 인재 경쟁에 대응하기 위한 국가 수준의 교육 혁신이다.</p>\n  </div>\n\n  <!-- 이미지 카드 -->\n  <figure class=\"kg-card kg-image-card kg-width-full\">\n    <img src=\"https://images.unsplash.com/photo-1580485944550-73107b027a9f?w=1200&h=630&fit=crop&q=85&auto=format\" class=\"kg-image\" alt=\"AI와 교육\">\n    <figcaption>인공지능 시대의 인재 양성이 국가 전략으로 추진 중이다 (이미지: Unsplash)</figcaption>\n  </figure>\n\n  <!-- 섹션 1: 정책 규모와 구성 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">41개 대학 신규 선정, 지역 균형 발전 강조</h2>\n  <p style=\"margin:0 0 36px;\">이번 부트캠프 신규 선정 규모는 인공지능(AI) 37개, 미래자동차 2개, 로봇공학 2개 대학 등 총 41개다. 비수도권 30개(약 81%), 수도권 7개로 지역별 배치를 통해 지방 인재 유출을 방지하는 데 중점을 뒀다. 이는 지역 산업과 연계한 맞춤형 인재 양성 전략으로, 광주, 대구, 전북 등 지역 거점 대학들이 중심이 된다. 정부는 이를 통해 88개 대학(기존 47개 + 신규 41개) 규모의 국가 수준 인재양성 체계를 구축하게 된다.</p>\n  \n  <p style=\"margin:0 0 36px;\">신규 선정 과정에서의 경쟁은 매우 치열했다. 교육부 공식 발표에 따르면 AI 분야 경쟁률은 2.35:1, 로봇공학 2.5:1, 미래자동차 5.5:1에 달했다. 이는 기업과 학생들이 이 정책을 통한 실무형 교육에 높은 관심을 갖고 있음을 보여준다.</p>\n\n  <!-- 섹션 2: 정책 구조 및 지원 내용 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">5년 사업으로 마이크로디그리 자격 체계 도입</h2>\n  <p style=\"margin:0 0 36px;\">부트캠프는 5년간 진행되며, 기본 3년 지원에 추가 2년 지원이 가능한 구조다. 2026년부터 시행되는 신규 부트캠프에는 대학당 평균 연 15억원 수준의 정부 지원이 이뤄진다. 선정 대학들은 5년 동안 총 71억원 내외의 지원을 받게 된다.</p>\n\n  <p style=\"margin:0 0 36px;\">정책의 핵심은 '마이크로디그리' 자격 체계 도입이다. 이는 전통적인 4년 학사과정이 아닌 짧고 집중된 교육으로 산업에 필요한 특정 역량을 갖춘 인재를 배출하는 방식이다. 교육부와 산업기술진흥원(KIAT)이 공동으로 운영하며, 참여 기업들이 교육과정 설계부터 취업 연계까지 적극 참여한다. 이를 통해 '교육-채용 선순환' 구조를 만드는 것이 정부의 목표다.</p>\n\n  <!-- 섹션 3: 국제 맥락과 정책 배경 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">글로벌 인재 경쟁, 한국이 적극 대응</h2>\n  <p style=\"margin:0 0 36px;\">이번 정책은 한국이 글로벌 인재 경쟁에 대응하기 위한 선제적 조치다. 미국은 이미 부트캠프 기반 인재양성이 일반화되어 있으며, 중국은 국가 차원에서 AI 인재 양성에 대규모 투자를 진행 중이다. 한국도 이 경쟁에서 뒤지지 않기 위해 정부가 나서서 88개 대학 규모의 체계를 구축하려는 것이다.</p>\n\n  <p style=\"margin:0 0 36px;\">정책의 배경에는 전통 대학 학사과정만으로는 산업 수요를 충족할 수 없다는 인식이 깔려 있다. 특히 AI, 로봇, 자율주행차 등 '물리적 AI(Embodied AI)' 시대가 도래하면서, 실무형 기술 인재에 대한 산업계 수요가 급증했다. 2023년부터 시작된 반도체·배터리·바이오 등 7개 분야 47개 대학 지원이 성공적이었던 만큼, 이번 AI·로봇·미래차 분야 확대는 정책의 확대재생산으로 볼 수 있다.</p>\n\n  <!-- 섹션 4: 남은 과제와 기대 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">마이크로디그리 사회 인정도가 관건</h2>\n  <p style=\"margin:0 0 36px;\">이 정책의 성공 여부는 '마이크로디그리'가 사회에서 실제로 인정받을 수 있느냐에 달려 있다. 기존 학사학위와는 다른 이 자격이 기업 채용에서 실질적 가치를 인정받고, 공공기관 채용에서도 인정되어야 한다는 뜻이다. 또한 중소·중견기업이 충분히 참여할 수 있는 구조도 중요하다. 지금까지 대기업 중심의 산학협력이 진행되었다면, 이번 정책이 전체 산업 생태계로 확대되려면 중소기업도 함께할 수 있는 환경이 필수다.</p>\n\n  <p style=\"margin:0 0 36px;\">대학 현장에서는 기존 학위과정과의 경쟁 우려도 제기된다. 정부 지원이 부트캠프 중심으로 집중될 경우, 전통적 학사 교육의 경쟁력이 약화될 수 있다는 우려다. 교육부는 이 두 가지 시스템이 상호보완적으로 작동할 수 있도록 하는 제도 설계가 필요하다고 판단하고 있다.</p>\n\n  <!-- 분석 및 시사점 -->\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">교육과 산업의 미스매치를 기술로 풀다</h2>\n  <p style=\"margin:0 0 36px;\">이 정책은 한국 교육이 직면한 근본적 문제—산업 수요와 대학 교육의 불일치—에 정면으로 대응하려는 시도다. 4년짜리 일반 학사과정에서는 빠르게 변하는 기술 수요를 따라가기 어렵다. 부트캠프는 그 공백을 메우는 교육 형태다. 다만 정책이 성공하려면 3가지가 동시에 이뤄져야 한다. 첫째, 기업들이 마이크로디그리를 실제 채용에 반영하는 것. 둘째, 참여 대학들이 진정한 의미의 실무형 교육을 제공하는 것. 셋째, 지역 대학도 충분한 산업 인프라와 기업 연계를 통해 경쟁력 있는 인재를 배출할 수 있도록 지원하는 것이다. 2026년부터 시작되는 실제 운영 과정에서 이 세 가지가 얼마나 잘 작동하는지가 이 정책의 성패를 결정할 것이다.</p>\n\n  <!-- 참고 자료 -->\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.korea.kr/briefing/pressReleaseView.do?newsId=156746241\" style=\"color:#4338ca;text-decoration:none;\">대한민국 정책브리핑 - 2026년 첨단산업 인재양성 부트캠프 신규 선정 발표</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=104840\" style=\"color:#4338ca;text-decoration:none;\">교육부 - 2026년 첨단산업 인재양성 부트캠프 운영계획 공고</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.unipress.co.kr/news/articleView.html?idxno=13651\" style=\"color:#4338ca;text-decoration:none;\">대학지성 - 부트캠프 정책의 역사적 배경 및 확대 현황</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://epts.kdi.re.kr/archive/frwdHist/view2?EPIC_NUM=274635\" style=\"color:#4338ca;text-decoration:none;\">경제정책 시계열서비스 - 첨단산업 인재양성 부트캠프 공식 발표</a></li>\n    </ol>\n  </div>\n\n  <!-- AI 법적 고지 -->\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "AI교육",
+      "교육정책",
+      "인재양성",
+      "부트캠프",
+      "미래차",
+      "로봇공학",
+      "산학협력"
+    ],
+    "references": [
+      {
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156746241",
+        "title": "대한민국 정책브리핑 - 2026년 첨단산업 인재양성 부트캠프 신규 선정 발표"
+      },
+      {
+        "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=104840",
+        "title": "교육부 - 2026년 첨단산업 인재양성 부트캠프 운영계획 공고"
+      },
+      {
+        "url": "https://www.unipress.co.kr/news/articleView.html?idxno=13651",
+        "title": "대학지성 - 부트캠프 정책의 역사적 배경 및 확대 현황"
+      },
+      {
+        "url": "https://epts.kdi.re.kr/archive/frwdHist/view2?EPIC_NUM=274635",
+        "title": "경제정책 시계열서비스 - 첨단산업 인재양성 부트캠프 공식 발표"
+      }
+    ],
+    "word_count": 1247,
+    "category": "policy"
+  },
+  
+  "quality_report": {
+    "structure_score": 100,
+    "fact_check_score": 76,
+    "readability_score": 95,
+    "completeness_score": 100,
+    "overall_confidence": 89,
+    "verdict": "FLAG",
+    "verdict_reason": "종합 점수 89점 (FLAG 범위 75-79 초과)이나, 발표일 오류로 인한 사실 문제 감지. 에디터 검토 및 정정 필수.",
+    
+    "details": {
+      "structure": {
+        "has_headline": true,
+        "headline_length": 29,
+        "has_lead_box": true,
+        "has_background": true,
+        "section_count": 5,
+        "has_references": true,
+        "reference_count": 4,
+        "has_ai_footer": true,
+        "has_ai_badge": false,
+        "has_article_tags": false,
+        "has_numeric_cards": false,
+        "issues": []
+      },
+      
+      "fact_check": {
+        "claims_checked": 10,
+        "claims": [
+          {
+            "claim": "AI 37개, 미래차 2개, 로봇 2개 신규 선정",
+            "type": "statistical",
+            "verdict": "SUPPORTED",
+            "confidence": 95,
+            "evidence": "아시아경제, 대학지성, UNN 등 다수 매체 보도",
+            "sources": [
+              "https://www.asiae.co.kr/article/2026030313532075930",
+              "https://news.unn.net/news/articleView.html?idxno=590269"
+            ],
+            "flagged": false
+          },
+          {
+            "claim": "기존 47개 + 신규 41개 = 총 88개 대학",
+            "type": "statistical",
+            "verdict": "SUPPORTED",
+            "confidence": 95,
+            "evidence": "대학지성 2025.12.11 보도 명시",
+            "source_url": "https://www.unipress.co.kr/news/articleView.html?idxno=13651",
+            "flagged": false
+          },
+          {
+            "claim": "2026년 3월부터 시행",
+            "type": "temporal",
+            "verdict": "SUPPORTED",
+            "confidence": 90,
+            "evidence": "공식 정책 발표 기반",
+            "flagged": false
+          },
+          {
+            "claim": "대학당 연간 15억~20억원 지원",
+            "type": "statistical",
+            "verdict": "SUPPORTED",
+            "confidence": 85,
+            "evidence": "대진대 교육부 발표 문건: '교당 평균 15억원'",
+            "source_url": "https://envir.daejin.ac.kr/bbs/tech/1075/454171/artclView.do",
+            "flagged": false
+          },
+          {
+            "claim": "5년 기간(3년 기본 + 2년 추가)",
+            "type": "temporal",
+            "verdict": "SUPPORTED",
+            "confidence": 85,
+            "evidence": "5년 총 71억원 규모 지원 (71억 / 5년 ≈ 14.2억/년)",
+            "flagged": false
+          },
+          {
+            "claim": "신규 투자 134억 175만원(2026년)",
+            "type": "statistical",
+            "verdict": "UNVERIFIABLE",
+            "confidence": 50,
+            "evidence": "공개 소스에서 정확한 수치 미발견",
+            "note": "41개 대학 × 15억원/년 기준 약 615억원(예상) vs 134억원(기사기술) 불일치",
+            "flagged": true
+          },
+          {
+            "claim": "경쟁률: AI 2.35:1, 로봇 2.5:1, 미래차 5.5:1",
+            "type": "statistical",
+            "verdict": "UNVERIFIABLE",
+            "confidence": 50,
+            "evidence": "기사 근거에는 명시되나 공개 검증 불가",
+            "flagged": true
+          },
+          {
+            "claim": "비수도권 30개(81%), 수도권 7개",
+            "type": "statistical",
+            "verdict": "UNVERIFIABLE",
+            "confidence": 50,
+            "evidence": "기사 근거에는 명시되나 공개 검증 불가",
+            "flagged": true
+          },
+          {
+            "claim": "2023년부터 반도체·배터리·바이오 7분야 47개 대학 지원",
+            "type": "temporal",
+            "verdict": "SUPPORTED",
+            "confidence": 90,
+            "evidence": "대학지성 보도자료",
+            "source_url": "https://www.unipress.co.kr/news/articleView.html?idxno=13651",
+            "flagged": false
+          },
+          {
+            "claim": "2025년 12월 11일 운영계획 공고",
+            "type": "temporal",
+            "verdict": "REFUTED",
+            "confidence": 40,
+            "evidence": "공식 korea.kr 발표는 2026년 2월 27일 (검색결과 확인: 2026.02.26-27)",
+            "flagged": true,
+            "correction": "2026년 2월 27일로 정정 필수"
+          }
+        ],
+        "flagged_claims": [
+          {
+            "number": 6,
+            "claim": "신규 투자 134억 175만원",
+            "status": "UNVERIFIABLE",
+            "severity": "MEDIUM",
+            "recommendation": "근거 자료 추가 확보 또는 '대학당 평균 15억원' 표현으로 재정의"
+          },
+          {
+            "number": 10,
+            "claim": "2025년 12월 11일 공고",
+            "status": "REFUTED",
+            "severity": "HIGH",
+            "recommendation": "2026년 2월 27일로 정정 필수 (정책 기사에서 날짜 오류는 치명적)"
+          }
+        ]
+      },
+      
+      "readability": {
+        "avg_paragraph_length": 350,
+        "avg_sentence_length": 28,
+        "unique_word_ratio": 0.75,
+        "section_structure": "good",
+        "emphasis_usage": "good",
+        "score": 95
+      },
+      
+      "completeness": {
+        "headline_content_match": 95,
+        "headline": "교육부, AI·로봇·미래차 41개 대학 부트캠프 신규 선정",
+        "lead_summary": "명확히 기사의 핵심 설명",
+        "source_count": 4,
+        "perspective_diversity": "good",
+        "who_what_why": "complete"
+      }
+    }
+  },
+  
+  "audit_log": [
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-06T13:30:00+09:00",
+      "note": "Fact-Checker 지적 사항 3개 확인 및 수정 완료"
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T13:38:00+09:00",
+      "note": "기사 완성\n\n[작성 내용]\n- 헤드라인: 29자 (30자 이하 ✓)\n- 리드 박스: 포함 ✓\n- 이미지 카드: 필수 포함 ✓\n- 섹션: 5개 (3개 이상 ✓)\n- 각 섹션 200자 이상 ✓\n- 참고자료: 4개 링크 ✓\n- AI 각주: 기사 맨 끝 ✓\n- 카테고리: policy (accent: #4338ca) ✓"
+    },
+    {
+      "agent": "fact-checker",
+      "action": "verified",
+      "timestamp": "2026-03-06T13:41:00+09:00",
+      "note": "4층 검증 완료\n\n[검증 결과]\n구조 점수: 100 | 팩트 점수: 76 | 가독성: 95 | 완정도: 100 → 종합 89점\n\n[주요 지적]\n🚨 발표일 오류 (CRITICAL):\n  - 기사: \"2025년 12월 11일\"\n  - 실제: \"2026년 2월 27일\" (2-3개월 차이)\n  - 영향: 높음 (정책 기사에서 날짜는 핵심 정보)\n  → 정정 필수\n\n🟡 신규 투자 134억 원 (UNVERIFIABLE):\n  - 공식 근거 미발견\n  - 41개 대학 × 15억원/년 기준 약 615억원(5년) vs 134억원(기사) 불일치\n  → 근거 추가 또는 표현 재정의 필요\n\n🟡 경쟁률, 지역배치 수치:\n  - 기사에 명시되나 공개 검증 불가\n  - 에디터가 정부 공식 자료로 재확인 권장\n\n[최종 판정]\n점수 89점 → FLAG\n사유: 사실 오류(발표일) 감지로 인한 에디터 검토 필수\n→ 정정 후 재승인시 PASS 가능성 높음"
+    }
+  ]
+}

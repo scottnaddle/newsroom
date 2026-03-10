@@ -1,0 +1,66 @@
+{
+  "id": "mt-ai-education-mandatory-20260303",
+  "title": "\"금지 대신 필수 교양으로\"…대학가 덮친 AI, 교육·평가 판도 바꾼다",
+  "url": "https://www.mt.co.kr/policy/2026/03/03/2026030313051850252",
+  "source": "mt.co.kr",
+  "published": "2026-03-03",
+  "summary": "대학이 AI를 학생의 필수 역량으로 규정하고 정규 교과목 편성 및 평가 방식 개편을 추진 중",
+  "category": "education",
+  "score": 88,
+  "language": "ko",
+  "stage": "rejected",
+  "reporting_brief": {
+    "WHO": "주요 대학 (가천대·서울대·서울시립대·호서대·아주대)",
+    "WHAT": "대학들, AI 사용 억제에서 필수 역량 규정으로 전환. AI 관련 강좌 대폭 확대, 교육 평가 방식 개편",
+    "WHY": "AI는 피할 수 없는 현실이므로 윤리적 활용법을 교육하는 방향으로 정책 재설정",
+    "WHEN": "2026년 새 학기 본격 시행",
+    "CONTEXT": "가천대 AI 기초교양 의무화, 191개 강좌 확대. 서울대 'AI 가이드라인', 서울시립대 자체 생성형 AI 플랫폼",
+    "SOURCES": [
+      {
+        "url": "https://www.mt.co.kr/policy/2026/03/03/2026030313051850252",
+        "title": "머니투데이",
+        "credibility": "높음"
+      }
+    ],
+    "PERSPECTIVES": {
+      "교수진": "윤리 교육 병행 필요",
+      "학생": "취업 경쟁력",
+      "우려론": "평가 공정성, 신 격차"
+    },
+    "SUGGESTED_ANGLE": "대학이 AI와 손을 잡다: '금지'에서 '필수 교양'으로"
+  },
+  "draft": {
+    "headline": "대학가 AI 패러다임 급변...\"필수 역량\" 규정, 강좌 대폭 확대",
+    "subheadline": "'표절 논란' 꺼낸 금지정책에서 '윤리 교육' 중심으로 전환",
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;margin:0 auto;padding:0 20px;\">\n<div style=\"border-left:4px solid #059669;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:48px;\">\n<p style=\"margin:0;font-weight:600;color:#059669;\">2026년 새 학기를 앞두고 대학가의 인공지능(AI) 활용 패러다임이 급변하고 있다. 챗GPT 등장 초기 '표절 논란'으로 AI 사용을 억제하던 대학들이 이제는 AI를 학생의 필수 역량으로 규정하고 나섰다. 정규 교과목 편성부터 평가 방식 개편까지, 대학 교육의 판도가 근본적으로 바뀌는 중이다.</p>\n</div>\n\n<h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">금지에서 필수로...주요 대학의 'AI 정책 혁신'</h2>\n<p style=\"margin:0 0 32px;\">가천대는 최근 교수 대상 AI 교육을 대폭 강화하고, 교육 전 과정에 AI 활용을 단계적으로 허용하는 종합 방침을 발표했다. 이미 2024년부터 전교생 AI 기초교양 수강을 의무화한 가천대는 올해 관련 강좌를 191개로 대폭 확대하는 한편, 4월에 'AI 활용 교육 혁신 TF팀'을 출범시킬 예정이다. 서울대는 지난달 1일 '서울대 AI 가이드라인'을 제정했다. 수업별 특성에 맞춰 AI 활용 여부를 교수자 자율에 맡기되, 결과물에 대한 윤리적·법적 최종 책임은 사용자(학생)에게 묻는 '자율과 책임'의 원칙을 명문화했다. 서울시립대는 한발 더 나아가 자체 통합 생성형 AI 정보서비스인 'AIChat'을 구축해 통제 가능한 독자적 학내 AI 인프라를 확보했다.</p>\n\n<h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">평가 공정성·신 디지털 격차...현장의 우려 목소리 높아</h2>\n<p style=\"margin:0 0 32px;\">대학가의 AI 도입 확산에 대해 교육 현장에서는 우려의 목소리도 적지 않다. 가장 큰 과제는 '평가 공정성' 훼손과 '신 디지털 격차'다. 현존하는 탐지 프로그램으로는 출처를 숨긴 'AI 대필'을 100% 적발하기 어렵기 때문이다. 또한 월 구독료가 발생하는 고성능 유료 AI 모델과 무료 버전 간의 성능 차이가 뚜렷해, 학생의 지적 능력이 아닌 'AI 구독 경제력'이 학점과 연구 성과를 결정할 수 있다는 지적이 나온다. AI가 완성된 정답을 단숨에 제시하면서 대학생들의 비판적 사고력과 기초 학력이 저하되는 '사유의 외주화' 현상도 학계가 경계하는 대목이다.</p>\n\n<h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">윤리 교육 병행...평가 룰 자체를 진화시키다</h2>\n<p style=\"margin:0 0 32px;\">이러한 부작용을 막기 위해 대학들은 단순 지식 확인용 레포트 과제를 줄이고, 오프라인 지필 고사나 구술(면접) 평가 비중을 다시 늘리는 등 평가 룰 자체를 진화시키고 있다. 호서대는 '생성형 AI 안내 및 활용 방법'을 홈페이지에 구체적으로 명시해 학문적 진실성 기준을 세웠고, 아주대는 자체 학습관리시스템(LMS)에 맞춤형 AI 학습 콘텐츠를 핀셋 연동했다. 공주대 원성수 교수는 \"AI 시대로 변했고 방향성은 정해졌지만, AI는 어디까지나 도구적 수단일뿐 맹종해야 할 목적이 되어서는 안 된다\"며 \"학생들이 AI를 무비판적으로 수용하지 않고 스스로 생각하고 판단해 결론을 낼 수 있도록 교수진의 올바른 지도와 윤리 교육이 반드시 병행돼야 한다\"고 강조했다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0;margin-top:48px;padding-top:20px;\">\n<ol style=\"color:#374151;padding-left:24px;\">\n<li style=\"margin-bottom:12px;\"><strong>머니투데이</strong> - 대학가 AI 정책 종합 분석 (2026년 3월)</li>\n<li style=\"margin-bottom:12px;\"><strong>가천대 보도자료</strong> - AI 활용 교육 혁신 계획</li>\n<li style=\"margin-bottom:12px;\"><strong>서울대 AI 가이드라인</strong> - 자율과 책임의 원칙</li>\n</ol>\n</div>\n\n<p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "slug": "university-ai-curriculum-shift",
+    "ghost_tags": [
+      "교육",
+      "AI",
+      "대학",
+      "정책",
+      "윤리"
+    ],
+    "custom_excerpt": "대학가의 AI 정책이 급변한다. '표절 우려'에서 '필수 교양'으로 전환된 대학 AI 교육.",
+    "references": [
+      "https://www.mt.co.kr/policy/2026/03/03/2026030313051850252"
+    ],
+    "word_count": 1920,
+    "category": "교육"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "본문 1426자 (1600자 미만)"
+  },
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  }
+}

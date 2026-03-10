@@ -1,0 +1,104 @@
+{
+  "id": "20260307045100",
+  "stage": "rejected",
+  "created_at": "2026-03-07T04:51:00+09:00",
+  "priority": 2,
+  "source": {
+    "title": "AI가 혁신하는 교육 환경 전략",
+    "url": "https://www.kjob.news/news/469935",
+    "source_name": "전국인력신문",
+    "relevance_score": 70,
+    "summary": "글로벌 AI 교육 혁신 사례를 분석한 기사로, 스탠퍼드 대학의 AI 기반 맞춤형 평가 시스템과 미국 K-12 교육 현장의 AI 도입 사례를 소개합니다.",
+    "tags": [
+      "industry"
+    ],
+    "collected_via": "brave_search"
+  },
+  "draft": {
+    "headline": "AI가 교사의 시간을 되찾다, 70% 업무 감소 성과",
+    "subheadline": "스탠퍼드 연구 성과부터 한국 AI 디지털교과서까지, 글로벌 AI 교육 혁신 현장을 가다",
+    "ghost_tags": [
+      "AI 교육",
+      "에듀테크",
+      "스탠퍼드",
+      "디지털교과서",
+      "교육혁신"
+    ],
+    "word_count": 890,
+    "category": "industry"
+  },
+  "quality_report": {
+    "structure_score": 100,
+    "fact_check_score": 87,
+    "readability_score": 84,
+    "completeness_score": 90,
+    "overall_confidence": 88,
+    "verdict": "PASS"
+  },
+  "publish_result": {
+    "ghost_post_id": "69ab3c45ff4fbf0001ab7103",
+    "ghost_post_url": "https://insight.ubion.global/ai-gyoyuk-hwangyeong-jeollyak/",
+    "status": "published",
+    "published_at": "2026-03-06T20:42:45.000Z",
+    "feature_image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector",
+      "action": "collected",
+      "timestamp": "2026-03-07T04:51:00+09:00",
+      "note": "관련성 70점 - 글로벌 AI 교육 사례 및 한국 시사점"
+    },
+    {
+      "agent": "auto-assign",
+      "action": "assigned",
+      "timestamp": "2026-03-06T20:11:34.366Z",
+      "note": "자동 할당"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-07T05:14:00+09:00",
+      "note": "취재 완료"
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-07T05:18:00+09:00",
+      "note": "기사 작성 완료"
+    },
+    {
+      "agent": "fact-checker",
+      "action": "verified",
+      "timestamp": "2026-03-07T05:22:00+09:00",
+      "note": "종합 88점 PASS"
+    },
+    {
+      "agent": "copy-editor",
+      "action": "copy-edited",
+      "timestamp": "2026-03-06T20:36:08Z",
+      "note": "수정 1건"
+    },
+    {
+      "agent": "publisher",
+      "action": "published",
+      "timestamp": "2026-03-07T05:42:45+09:00",
+      "note": "Ghost에 PUBLISHED로 게시 완료: https://insight.ubion.global/ai-gyoyuk-hwangyeong-jeollyak/"
+    }
+  ],
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

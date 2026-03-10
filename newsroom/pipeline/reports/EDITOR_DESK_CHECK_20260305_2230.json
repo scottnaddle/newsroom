@@ -1,0 +1,139 @@
+{
+  "timestamp": "2026-03-05T13:30:39Z",
+  "check_time_kst": "2026-03-05 22:30",
+  "pipeline_health": "GREEN ✅",
+  "summary": "파이프라인 정상 작동. 큐에서 대기 중인 항목 존재. 거부 기사 누적.",
+  
+  "detailed_status": {
+    "01_sourced": {
+      "count": 0,
+      "status": "✅ 대기 중"
+    },
+    "02_assigned": {
+      "count": 0,
+      "status": "✅ 처리 완료 (writer 처리 대기)"
+    },
+    "03_reported": {
+      "count": 0,
+      "status": "✅ 처리 완료"
+    },
+    "04_drafted": {
+      "count": 0,
+      "status": "✅ 처리 완료"
+    },
+    "05_fact_checked": {
+      "count": 0,
+      "status": "✅ 처리 완료 (fact-checker 작업 대기)"
+    },
+    "06_desk_approved": {
+      "count": 0,
+      "status": "✅ 처리 완료"
+    },
+    "07_copy_edited": {
+      "count": 0,
+      "status": "✅ 처리 완료"
+    },
+    "08_published": {
+      "count": 75,
+      "status": "✅ 75개 기사 발행됨 (활성 상태)"
+    }
+  },
+  
+  "queue_analysis": {
+    "queue_count": 5,
+    "status": "⏳ 신뢰도 50-74 범위 기사 대기",
+    "details": [
+      {
+        "id": "1772710577-001",
+        "source": "The Asia Business Daily",
+        "relevance_score": 68,
+        "status": "대기 (우선도 낮음)"
+      },
+      {
+        "id": "1741271193-clg-consortium",
+        "source": "Creative Learning Guild",
+        "relevance_score": 68,
+        "status": "대기 (한국 대학 컨소시엄)"
+      },
+      {
+        "id": "1741271193-politico-love",
+        "source": "POLITICO",
+        "relevance_score": 62,
+        "status": "대기 (한국 AI 문화 분석)"
+      },
+      {
+        "id": "1741352160-002",
+        "source": "가톨릭대학교",
+        "relevance_score": 68,
+        "status": "대기 (대학 AI 교육 사례)"
+      },
+      {
+        "id": "1741352160-002-duplicate",
+        "source": "가톨릭대학교",
+        "relevance_score": 68,
+        "status": "⚠️ 중복 감지 (처리 필요)"
+      }
+    ],
+    "action": "큐 항목 검토 필요. 신뢰도 개선 가능성 평가 후 배정 검토"
+  },
+  
+  "rejected_analysis": {
+    "rejected_count": 47,
+    "status": "❌ 신뢰도 미달/중복/낮은 품질",
+    "recent_rejections": [
+      "2026-03-05: AI-transforming-korean-education (중복)",
+      "2026-03-05: AI-ethics-guideline (중복)",
+      "2026-03-05: university-ai-education (중복)",
+      "2026-03-05: mandatory-ai-education (중복)"
+    ],
+    "note": "중복 거부가 다수 발생. source-collector의 중복 제거 로직 강화 필요"
+  },
+  
+  "step_by_step_results": {
+    "STEP_1_sourced_routing": {
+      "status": "COMPLETE ✅",
+      "result": "01-sourced 단계에 새 항목 없음. 큐에 5개 항목 대기 중."
+    },
+    "STEP_2_fact_checked_routing": {
+      "status": "COMPLETE ✅",
+      "result": "05-fact-checked 단계에 항목 없음. 자동 라우팅 대기."
+    },
+    "STEP_3_desk_approved_processing": {
+      "status": "COMPLETE ✅",
+      "result": "06-desk-approved 단계에 항목 없음. 07-copy-edited 준비 불필요."
+    },
+    "STEP_4_copy_editing": {
+      "status": "COMPLETE ✅",
+      "result": "07-copy-edited 단계에 항목 없음. 08-published 준비 불필요."
+    },
+    "STEP_5_statistics": {
+      "status": "COMPLETE ✅",
+      "result": "위 데이터 포함"
+    }
+  },
+  
+  "recommendations": [
+    {
+      "priority": "HIGH",
+      "action": "큐 항목 검토",
+      "description": "신뢰도 50-74 범위의 5개 항목을 재평가하여 62점(POLITICO)은 50 미만으로 하향, 68점 항목은 배정 검토"
+    },
+    {
+      "priority": "MEDIUM",
+      "action": "중복 제거 강화",
+      "description": "source-collector가 수집 시 중복 체크를 더 강화. 현재 47개 거부 기사의 다수가 중복"
+    },
+    {
+      "priority": "LOW",
+      "action": "writer 투입",
+      "description": "현재 처리 중인 기사가 없으므로, 큐의 신뢰도 높은 항목들을 배정하면 파이프라인 재가동"
+    }
+  ],
+  
+  "next_cron_actions": [
+    "📋 큐 항목 재평가 (신뢰도 기준)",
+    "🧹 중복 항목 정제",
+    "🚀 배정 가능한 항목 선별 및 02-assigned로 이동",
+    "📊 다음 리포트: 2026-03-05 23:00 (30분 후)"
+  ]
+}

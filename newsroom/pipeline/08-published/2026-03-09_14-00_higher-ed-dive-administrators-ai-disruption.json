@@ -1,0 +1,114 @@
+{
+  "stage": "published",
+  "source": {
+    "url": "https://www.highereddive.com/news/how-3-college-administrators-are-tackling-higher-education-disruption/813556/",
+    "title": "How 3 college administrators are tackling higher education disruption",
+    "snippet": "AI is already disrupting higher education with concerns about student overreliance on chatbots and emerging questions about college degree relevance.",
+    "published_date": "2026-03-02"
+  },
+  "relevance_score": 68,
+  "tags": [
+    "university",
+    "ai-disruption",
+    "administration",
+    "us"
+  ],
+  "collected_at": "2026-03-09T05:00:00.000Z",
+  "editor_note": "미국 대학 행정가 3인의 AI 대응 전략. 미국 중심 사례.",
+  "priority": "low",
+  "assigned_at": "2026-03-09T05:37:48.515088Z",
+  "reported_at": "2026-03-09T05:41:00.000Z",
+  "reporting_brief": {
+    "who": "미국 대학 행정가 3인 — Christopher Hopey(Merrimack University 총장), Connie Book(Elon University 총장), Carissa Little(Stanford 공대 부학장). ACE(American Council on Education) 연례 컨퍼런스 패널.",
+    "what": "미국 고등교육이 '지진(earthquake)'급 구조 조정에 직면. 3대 과제: ① AI 도입으로 CS 전공 등록 20% 감소(스탠퍼드), ② 유학생 비자 정책 강화로 신규 유학생 17% 감소, ③ 전통적 대학생 인구 감소. Hopey: '지진 후 여진이 오고 고등교육의 구조 조정이 될 것.' Book: AI를 독립 전공이 아닌 모든 커리큘럼에 내장하고 인문학이 되살아날 것으로 전망.",
+    "why": "AI가 SW 개발직 감소를 가속화하면서 CS 전공 매력 하락. 동시에 AI 특화 프로그램은 급부상. 대학 리더들의 대응 전략 분기.",
+    "when": "2026년 3월 2일 보도. ACE 연례 컨퍼런스(워싱턴DC) 패널.",
+    "context": "스탠퍼드 CS 등록 10년 성장 후 올해 20% 감소. SW 개발 채용공고 2022년 정점 대비 급감(CNN). 반면 AI 특화 프로그램 수요 급증(NYT). Book: '인터넷 전공이 없듯 AI 전공도 불필요, 모든 커리큘럼에 내장.' 트럼프 행정부 유학생 체류 4년 제한 등 비자 정책 강화.",
+    "sources": [
+      {
+        "url": "https://www.highereddive.com/news/how-3-college-administrators-are-tackling-higher-education-disruption/813556/",
+        "type": "primary",
+        "reliability": "high",
+        "note": "Higher Ed Dive 원문. ACE 컨퍼런스 현장 보도."
+      },
+      {
+        "url": "https://www.nytimes.com/2026/02/12/opinion/ai-companies-college-students.html",
+        "type": "secondary",
+        "reliability": "high",
+        "note": "NYT 오피니언. AI 기업이 고등교육을 잠식한다는 비판적 시각."
+      },
+      {
+        "url": "https://news.fiu.edu/2026/presidential-summit-recap-the-disruption-of-higher-education-is-here",
+        "type": "secondary",
+        "reliability": "medium-high",
+        "note": "FIU 총장 서밋. 행정에 AI 배치로 비용 절감."
+      },
+      {
+        "url": "https://www.forbes.com/sites/avivalegatt/2025/12/26/7-ai-decisions-that-will-define-higher-education-in-2026/",
+        "type": "secondary",
+        "reliability": "high",
+        "note": "Forbes. 2026년 고등교육을 정의할 7가지 AI 결정."
+      }
+    ],
+    "perspectives": {
+      "administration": "Hopey: 고등교육 '지진'급 구조 조정 예고. 유학생 감소로 두뇌 유출 우려. Book: AI를 모든 커리큘럼에 내장, 인문학 부활 전망. Little: CS 등록 감소는 AI가 진입장벽을 변화시킨 증거.",
+      "education": "AI 전공 독립 vs 기존 전공+AI 통합의 전략 분기. 인문학·비판적 사고가 AI 시대 차별화 역량으로 부상.",
+      "policy": "트럼프 행정부 유학생 비자 제한이 고등교육 구조에 추가 충격. 국내 학생 유치 경쟁 심화."
+    },
+    "suggested_angle": "미국 대학의 AI 구조 조정 현장 — 스탠퍼드 CS 20% 감소, '지진급 변화' 경고. 한국 대학의 AI 전공 전략과 비교 시사점."
+  },
+  "drafted_at": "2026-03-09T06:45:00.000Z",
+  "draft": {
+    "headline": "\"지진이 온다\" — 미국 대학 총장 3인이 경고한 AI 구조조정의 실체",
+    "subheadline": "스탠퍼드 CS 등록 20% 감소, 유학생 17% 이탈… 미국 고등교육이 직면한 삼중 충격",
+    "html": "<div style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;margin:0 auto;font-size:17px;line-height:1.9;color:#1a202c\">\n\n\n\n<figure class=\"kg-card kg-image-card kg-width-full\">\n<img src=\"https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80\" alt=\"미국 대학 캠퍼스 전경\" style=\"width:100%;border-radius:8px\">\n<figcaption style=\"text-align:center;font-size:14px;color:#94a3b8;margin-top:8px\">AI가 몰고 온 변화의 파고 속에서 미국 대학들이 생존 전략을 모색하고 있다 | Unsplash</figcaption>\n</figure>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">'지진급 변화' — CS 전공의 몰락과 AI 전공의 부상</h2>\n<p>2026년 3월 워싱턴 DC에서 열린 ACE 연례 컨퍼런스에서 Merrimack University 총장 크리스토퍼 호피(Christopher Hopey)는 현재 미국 고등교육이 처한 상황을 \"지진\"이라 표현했다. 그는 \"지진 후에는 여진이 오고, 이것이 고등교육의 본격적인 구조 조정이 될 것\"이라 경고했다.</p>\n<p>가장 상징적인 변화는 스탠퍼드 대학교에서 나타났다. 10년간 폭발적으로 성장해온 컴퓨터과학(CS) 전공 등록이 올해 처음으로 20% 급감한 것이다. 스탠퍼드 공대 부학장 카리사 리틀(Carissa Little)은 이를 \"AI가 기술 분야의 진입장벽 자체를 바꿔버린 증거\"라고 해석했다. CNN에 따르면 소프트웨어 개발 채용공고는 2022년 정점 대비 급감 추세에 있으며, AI가 코딩 업무를 자동화하면서 전통적인 CS 전공의 매력이 빠르게 퇴색하고 있다.</p>\n<p>반면 뉴욕타임스는 AI 특화 프로그램에 대한 수요가 급증하고 있다고 보도했다. CS 전공은 줄지만 AI를 직접 다루는 새로운 교육 과정에는 학생이 몰리는 역설적 상황이다.</p>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">유학생 이탈과 인구 감소 — 삼중 충격의 구조</h2>\n<p>AI만이 문제가 아니다. 트럼프 행정부의 유학생 비자 정책 강화 — 체류 기간 4년 제한 등 — 로 신규 유학생 등록이 17% 감소했다. 호피 총장은 이를 \"두뇌 유출(brain drain)\"이라 표현하며, 미국이 글로벌 인재 유치 경쟁에서 뒤처질 위험을 경고했다.</p>\n<p>여기에 전통적인 대학 진학 연령 인구의 감소까지 겹친다. 출생률 저하로 대학에 입학할 학생 수 자체가 줄어드는 구조적 문제다. AI 도입에 따른 전공 지형 변화, 유학생 이탈, 인구 감소라는 세 가지 충격이 동시에 미국 고등교육을 압박하고 있는 셈이다.</p>\n\n<h2 style=\"font-size:19px;margin-top:40px;padding-bottom:12px;border-bottom:1px solid #e2e8f0\">'AI 전공은 필요 없다' — 인문학 부활론과 한국에 던지는 질문</h2>\n<p>흥미로운 것은 대학 리더들의 대응 전략이 \"AI 전공 신설\"이 아니라는 점이다. Elon University 총장 코니 북(Connie Book)은 단언했다. \"인터넷 전공이 없듯이 AI 전공도 필요 없다. AI는 모든 커리큘럼에 내장되어야 한다.\" 그는 오히려 인문학이 되살아날 것이라 전망했다. 비판적 사고, 윤리적 추론, 맥락 이해 같은 인문학적 역량이 AI 시대의 진짜 차별화 요소라는 논리다.</p>\n<p>Forbes는 2026년 고등교육을 정의할 7가지 AI 결정을 분석하며, 대학이 AI를 독립 학과로 분리할 것인지 기존 전공에 통합할 것인지가 가장 핵심적인 전략 분기점이라 짚었다. FIU(플로리다국제대) 총장 서밋에서도 행정 영역에 AI를 배치해 비용을 절감하는 전략이 논의됐다.</p>\n<p>한국 대학들이 앞다퉈 AI 단과대를 신설하고 있는 지금, 미국 대학 리더들의 \"AI 전공 불필요론\"은 의미심장하다. AI를 하나의 전공으로 가둘 것인가, 모든 학문의 기반으로 확산시킬 것인가. 이 질문에 대한 답이 향후 대학의 생존을 가를 수 있다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0;margin-top:40px;padding-top:20px\">\n<p style=\"font-size:15px;font-weight:600;color:#4338ca;margin-bottom:12px\">📎 참고자료</p>\n<ol style=\"font-size:15px;color:#475569;padding-left:20px\">\n<li><a href=\"https://www.highereddive.com/news/how-3-college-administrators-are-tackling-higher-education-disruption/813556/\" style=\"color:#4338ca\">Higher Ed Dive — How 3 college administrators are tackling higher education disruption</a></li>\n<li><a href=\"https://www.nytimes.com/2026/02/12/opinion/ai-companies-college-students.html\" style=\"color:#4338ca\">New York Times — AI 기업과 대학생</a></li>\n<li><a href=\"https://news.fiu.edu/2026/presidential-summit-recap-the-disruption-of-higher-education-is-here\" style=\"color:#4338ca\">FIU — 총장 서밋: 고등교육 파괴는 이미 시작됐다</a></li>\n<li><a href=\"https://www.forbes.com/sites/avivalegatt/2025/12/26/7-ai-decisions-that-will-define-higher-education-in-2026/\" style=\"color:#4338ca\">Forbes — 2026년 고등교육을 정의할 7가지 AI 결정</a></li>\n</ol>\n</div>\n\n<p style=\"font-size:13px;color:#cbd5e1;margin-top:32px;text-align:center\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>",
+    "ghost_tags": [
+      "AI교육",
+      "고등교육",
+      "미국대학",
+      "CS전공",
+      "인문학"
+    ],
+    "references": [
+      "https://www.highereddive.com/news/how-3-college-administrators-are-tackling-higher-education-disruption/813556/",
+      "https://www.nytimes.com/2026/02/12/opinion/ai-companies-college-students.html",
+      "https://news.fiu.edu/2026/presidential-summit-recap-the-disruption-of-higher-education-is-here",
+      "https://www.forbes.com/sites/avivalegatt/2025/12/26/7-ai-decisions-that-will-define-higher-education-in-2026/"
+    ],
+    "word_count": 820,
+    "category": "policy",
+    "meta_title": "\"지진이 온다\" — 미국 대학 총장 3인이 경고한 AI 구조조정의 실체",
+    "meta_description": "미국교육위원회(ACE) 연례 컨퍼런스에서 대학 총장 3인이 AI로 인한 고등교육 구조조정을 '지진'에 비유했다. 스탠퍼드 CS 전공 등록은 10년 성장세를 꺾고 20% 감소했으며, 유학생 신규 등록은 17% 줄었다. \"여진은 아직 시작도 안 했다\"는 경고가 나온다. A"
+  },
+  "fact_check": {
+    "score": 92,
+    "verdict": "PASS",
+    "issues": [
+      "Carissa Little의 정확한 직함은 associate dean for global and online education (공대 부학장은 약간의 의역이나 허용 범위)"
+    ],
+    "verified_claims": [
+      "스탠퍼드 CS 등록 20% 감소 — Higher Ed Dive 원문에서 Carissa Little 직접 인용 확인",
+      "신규 유학생 등록 17% 감소 — IIE 데이터(2025년 가을), BBC/NBC/PBS/US News 다수 확인",
+      "SW 개발 채용공고 2022년 정점 대비 급감 — CNN 보도(Indeed 데이터: 2022.2~2025.8 사이 71% 감소) 확인"
+    ]
+  },
+  "fact_checked_at": "2026-03-09T06:54:34.259Z",
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 1855자, 팩트점수 92, 중복 30.0%",
+    "meta_title": "\"지진이 온다\" — 미국 대학 총장 3인이 경고한 AI 구조조정의 실체",
+    "meta_description": "미국교육위원회(ACE) 연례 컨퍼런스에서 대학 총장 3인이 AI로 인한 고등교육 구조조정을 '지진'에 비유했다. 스탠퍼드 CS 전공 등록은 10년 성장세를 꺾고 20% 감소했으며, 유학생 신규 등록은 17% 줄었다. \"여진은 아직 시작도 안 했다\"는 경고가 나온다. A",
+    "decided_at": "2026-03-09T07:06:58.727Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [
+      "AI 배지 pill 제거"
+    ],
+    "text_length": 1706,
+    "checked_at": "2026-03-09T07:06:58.729Z"
+  },
+  "ghost_id": "69ae7193ff4fbf0001ab78b1",
+  "ghost_url": "https://insight.ubion.global/p/3e84f9fb-5d00-467b-920d-5c501e5653ac/",
+  "published_at": "2026-03-09T07:06:59.211Z"
+}

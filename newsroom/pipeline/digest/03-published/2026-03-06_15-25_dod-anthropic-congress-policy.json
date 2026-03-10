@@ -1,0 +1,54 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "The Department of Defense's Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act",
+    "url": "https://www.americanprogress.org/article/the-department-of-defenses-conflict-with-anthropic-and-deal-with-openai-are-a-call-for-congress-to-act/",
+    "source_name": "Center for American Progress",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Policy analysis examining the implications of Anthropic's refusal to work with the Pentagon on certain uses versus OpenAI's agreement with the DOD. Raises concerns about AI models being used to process bulk data collected from Americans and calls for Congressional action on AI governance and surveillance authorities.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-06T15:25:00+09:00"
+  },
+  "digest": {
+    "headline": "美 국방부-앤스로픽 갈등, 의회 AI 거버넌스 입법 촉구 계기로",
+    "lead": "미 국방부의 오픈AI 제휴와 앤스로픽 거부 사이에서 AI 기업의 군사 협력 선택권이 정책적 쟁점으로 부상했다. 미국 시민 대량 감시 데이터를 AI 모델이 처리하는 것에 대한 우려와 함께 의회의 AI 거버넌스 입법 필요성이 제기되고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미 국방부의 오픈AI 제휴와 앤스로픽 거부 사이에서 AI 기업의 군사 협력 선택권이 정책적 쟁점으로 부상했다. 미국 시민 대량 감시 데이터를 AI 모델이 처리하는 것에 대한 우려와 함께 의회의 AI 거버넌스 입법 필요성이 제기되고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">미국 진보센터(CAP)는 앤스로픽이 국방부의 특정 용도 협력을 거부하고 오픈AI가 제휴에 동의한 상황을 분석했다. 핵심 쟁점은 AI 모델이 미국 시민으로부터 수집된 대량 데이터를 처리하는 것에 대한 우려다. 현재 연방 차원의 AI 거버넌스와 감시 권한에 대한 명확한 법적 테두리가 부재한 상태다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">AI 기업마다 군사 협용에 대한 입장이 다른 상황에서, 정부 조달 과정에서 기업의 윤리적 선택이 불이익으로 작용할 위험이 있다. CAP는 이를 의회가 AI 거버넌스와 감시 권한에 대한 입법적 조치를 취해야 할 시점으로 진단한다. 기업 자율에 맡겨진 AI 안전 기준이 국방 및 안보 분야에서 한계를 드러내고 있다는 평가다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">국방 분야 AI 규제 논의는 향후 교육 분야 데이터 프라이버시 규제의 선례가 될 수 있다. 학생 학습 데이터의 수집·처리 기준도 유사한 거버넌스 프레임워크가 필요하다. 에듀테크 기업들은 정부·공공 부문 AI 조달 시 윤리적 가이드라인이 어떻게 적용될지 주목해야 한다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.americanprogress.org/article/the-department-of-defenses-conflict-with-anthropic-and-deal-with-openai-are-a-call-for-congress-to-act/\" style=\"color:#FF6B35;text-decoration:none;\">Center for American Progress</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "policy",
+      "governance"
+    ],
+    "meta_title": "美 국방부-앤스로픽 갈등, 의회 AI 거버넌스 입법 촉구",
+    "meta_description": "미 국방부와 AI 기업 간 갈등이 의회의 AI 거버넌스 입법 필요성을 부각시켰다. 대량 감시 데이터 AI 처리 우려와 규제 공백을 분석한다.",
+    "word_count": 498
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T15:25:00+09:00"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T15:26:30+09:00"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-06T06:31:55.205Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aa74dbff4fbf0001ab6e6d",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aa74dbff4fbf0001ab6e6d",
+    "public_url": "https://ubion.ghost.io/mei-gugbangbu-aenseuropig-galdeung-yihoe-ai-geobeoneonseu-ibbeob-coggu-gyegiro/",
+    "status": "published",
+    "published_at": "2026-03-06T06:31:55.205Z",
+    "feature_image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&h=630&fit=crop&q=85&auto=format"
+  }
+}

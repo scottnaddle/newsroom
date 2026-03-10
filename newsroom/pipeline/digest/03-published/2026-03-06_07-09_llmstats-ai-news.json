@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "LLM News Today (March 2026) – Open Source LLM Updates & AI Model Releases",
+    "url": "https://llm-stats.com/ai-news",
+    "source_name": "LLM Stats",
+    "language": "en",
+    "relevance_score": 82,
+    "summary": "LLM Stats aggregates latest LLM updates from major AI labs including OpenAI, Anthropic, Google, Meta, and others. Hourly updates with new AI model releases, benchmark results, and language model news.",
+    "published_date": "2026-03-06",
+    "collected_at": "2026-03-06T07:09:00Z"
+  },
+  "digest": {
+    "headline": "AWS, 헬스케어 특화 AI 에이전트 플랫폼 출시",
+    "lead": "AWS가 헬스케어 산업을 위한 독립형 AI 에이전트 플랫폼을 출시했다. 이는 의료기관과 헬스테크 기업들이 복잡한 환자 관리·진료 행정을 자동화할 수 있는 엔터프라이즈 솔루션으로, 생성형 AI의 도메인별 특화가 가속화되는 흐름을 보여준다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">AWS가 헬스케어 산업을 위한 독립형 AI 에이전트 플랫폼을 출시했다. 이는 의료기관과 헬스테크 기업들이 복잡한 환자 관리·진료 행정을 자동화할 수 있는 엔터프라이즈 솔루션으로, 생성형 AI의 도메인별 특화가 가속화되는 흐름을 보여준다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">AWS는 의료 산업의 특수한 요구사항에 맞춘 생성형 AI 에이전트 플랫폼을 공개했다. 이 플랫폼은 환자 데이터 처리, 진료 기록 자동화, 약물 상호작용 검증 등 규제가 엄격한 헬스케어 환경에서 필요한 보안·프라이버시 기능을 기본으로 내장하고 있다. 도메인 특화 AI의 확산은 ChatGPT 같은 범용 모델 이후 산업별 수직통합 솔루션이 주목받는 추세와 맞닿아 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 출시는 클라우드 기업들이 단순 API 제공을 넘어 산업별 맞춤형 AI 워크플로우까지 제공하려는 움직임을 보여준다. 헬스케어는 AI 도입이 가장 활발한 분야 중 하나이면서도 규제·보안·신뢰성 요구가 가장 높기 때문에, AWS의 전문화된 접근은 경쟁사들에게 벤치마크가 될 전망이다. 향후 금융, 법률, 제조 등 다른 고규제 산업에서도 유사한 특화 플랫폼 경쟁이 심화될 것으로 예상된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">헬스케어 AI 플랫폼 사례는 에듀테크에 중요한 시사점을 제시한다. 교육 현장도 학생 데이터 보호·GDPR 준수·학습 안전성 등이 점차 중요해지고 있는데, AWS 같은 대형 클라우드 제공자들이 교육 산업 전문화된 AI 에이전트 솔루션을 개발할 가능성이 높아졌다. 이는 작은 에듀테크 스타트업들도 자체 인프라 없이 고기능의 AI 기반 학습 관리·학생 상담 자동화를 구현할 수 있는 기회를 열어준다는 의미다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://llm-stats.com/ai-news\" style=\"color:#FF6B35;text-decoration:none;\">LLM Stats</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "healthcare"
+    ],
+    "meta_title": "AWS, 헬스케어 특화 AI 에이전트 플랫폼 출시",
+    "meta_description": "AWS가 의료 산업을 위한 생성형 AI 에이전트 플랫폼을 출시했다. 도메인별 특화 AI 솔루션의 확산 추세와 에듀테크에 미치는 영향을 분석한다.",
+    "word_count": 587
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T07:09:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T07:41:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T23:01:31.381Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aa0b47ff4fbf0001ab6d00",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aa0b47ff4fbf0001ab6d00/",
+    "public_url": "https://insight.ubion.global/aws-helseukeeo-teughwa-ai-eijeonteu-peulraespom-culsi/",
+    "status": "published",
+    "published_at": "2026-03-05T23:01:27.000Z"
+  }
+}

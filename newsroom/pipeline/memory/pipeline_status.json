@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-03-05T20:32:45.455658Z",
+  "pipeline_status": {
+    "01_sourced": {
+      "total": 1,
+      "in_queue": "확인 필요 (memory/queue.json)"
+    },
+    "02_assigned": 0,
+    "03_reported": 0,
+    "04_drafted": 0,
+    "05_fact_checked": {
+      "total": 0,
+      "pass_90plus": 0,
+      "pass_80_89": 0,
+      "flag_75_79": 0,
+      "fail_below_75": 0
+    },
+    "06_desk_approved": 0,
+    "07_copy_edited": 0,
+    "08_published": 114,
+    "rejected": 54
+  },
+  "bottleneck": "08_published (114개)",
+  "action_summary": {
+    "completed_this_run": {
+      "05_fact_checked_to_07_copy_edited": 1,
+      "07_copy_edited_to_08_published": 17
+    },
+    "next_actions": [
+      "01-sourced: 신뢰도 67점 maritime-ai 대기 중 (queue.json)",
+      "05-fact-checked: 빈 상태",
+      "06-desk-approved: 빈 상태",
+      "07-copy-edited: 빈 상태 (모두 발행 완료)",
+      "⚠️  rejected: JSON 오류 파일 1개 격리됨"
+    ]
+  }
+}

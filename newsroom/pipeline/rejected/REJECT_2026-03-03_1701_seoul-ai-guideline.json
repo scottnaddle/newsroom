@@ -1,0 +1,29 @@
+{
+  "action": "reject",
+  "timestamp": "2026-03-06T15:12:35+09:00",
+  "source_file": "2026-03-03_1701_seoul-ai-guideline.json",
+  "reason": "완전 중복 기사 (제목 100% 일치)",
+  "severity": "high",
+  "details": {
+    "duplicate_of": "2026-03-03_01-49_jeonmae-seoul-ai-guideline.json",
+    "similarity": "100%",
+    "title": "서울시교육청, 인간 중심 AI 교육 가이드라인 배포"
+  },
+  "desk": "editor-desk",
+  "stage": "rejected",
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

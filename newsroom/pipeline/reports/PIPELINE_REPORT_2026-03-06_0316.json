@@ -1,0 +1,72 @@
+{
+  "timestamp": "2026-03-06T03:16:00+09:00",
+  "cron_job": "editor-desk-30min",
+  "status": "healthy",
+  "pipeline_status": {
+    "01_sourced": {
+      "count": 0,
+      "action": "—"
+    },
+    "02_assigned": {
+      "count": 0,
+      "action": "—"
+    },
+    "03_reported": {
+      "count": 0,
+      "action": "—"
+    },
+    "04_drafted": {
+      "count": 0,
+      "action": "—"
+    },
+    "05_fact_checked": {
+      "count": 0,
+      "action": "—"
+    },
+    "06_desk_approved": {
+      "count": 0,
+      "action": "—"
+    },
+    "07_copy_edited": {
+      "count": 0,
+      "action": "—"
+    },
+    "08_published": {
+      "count": 76,
+      "action": "✅ 정상"
+    }
+  },
+  "queue_status": {
+    "waiting_in_queue": 7,
+    "reason": "신뢰도 50-74점 범위 — 배정 우선순위 낮음",
+    "top_candidates": [
+      {
+        "id": "gumi-defense-ai",
+        "title": "경북도, 방산 AI 전문인력 양성 박차",
+        "score": 72,
+        "days_waiting": 1
+      },
+      {
+        "id": "kjob-469935",
+        "title": "AI가 혁신하는 교육 환경 전략",
+        "score": 72,
+        "days_waiting": 1
+      },
+      {
+        "id": "daegu-bootcamp",
+        "title": "대구대, 교육부 첨단산업 인재양성 부트캠프 인공지능 분야 선정",
+        "score": 71,
+        "days_waiting": 1
+      }
+    ],
+    "recommendation": "72점 기사 2개(방산 AI, 교육 환경 전략)를 writer 배정 검토 권장"
+  },
+  "bottleneck": "none",
+  "action_needed": "—",
+  "notes": [
+    "✅ 파이프라인 정상 가동 (병목 없음)",
+    "⏳ 7개 대기 기사 존재 (우선순위 낮음)",
+    "📊 발행: 76개 기사 (안정적 운영)",
+    "⚡ writer 리소스가 충분하면 72점 기사부터 배정 시작 권장"
+  ]
+}

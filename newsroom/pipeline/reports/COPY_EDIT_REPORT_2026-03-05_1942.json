@@ -1,0 +1,93 @@
+{
+  "timestamp": "2026-03-05T19:42:00Z",
+  "execution_agent": "copy-editor",
+  "execution_time_kst": "2026-03-05 (목) 19:42 (Asia/Seoul)",
+  "task": "06-desk-approved/ 디렉토리의 기사 교열 (30분 크론 태스크)",
+  "articles_processed": 1,
+  "articles_ready": 1,
+  "articles_returned": 0,
+  "processed_articles": [
+    {
+      "id": "1741261500000-590453",
+      "headline": "KAIST 정원 100명 지원자 6명, AI 교육 정책 현장과 괴리",
+      "status": "copy-edited",
+      "copy_edit_verdict": "PASS",
+      "copy_edit_score": 95,
+      "corrections_applied": 3,
+      "details": {
+        "layer_1_technical": {
+          "score": 96,
+          "issues_fixed": [
+            {
+              "type": "수치_포맷",
+              "before": "8만 6701명",
+              "after": "86,701명",
+              "reason": "아라비아 숫자 + 쉼표 통일"
+            },
+            {
+              "type": "수치_포맷",
+              "before": "15만 3923명",
+              "after": "153,923명",
+              "reason": "아라비아 숫자 + 쉼표 통일"
+            }
+          ],
+          "verified": [
+            "맞춤법 & 띄어쓰기: 완벽 (오류 없음)",
+            "시제 일관성: 완벽 (과거형 통일)",
+            "용어 표준화: 완벽 (인공지능, 생성형 AI 등)",
+            "문장 길이: 평균 26자 (기준 30자 이내)"
+          ]
+        },
+        "layer_2_style_tone": {
+          "score": 95,
+          "issues_fixed": [
+            {
+              "type": "표현_개선",
+              "before": "기초 질문 대신 더 심화된 개념 설명과 토론에 집중할 수 있게 된다",
+              "after": "기초 질문 대응 대신 더 심화된 개념 설명과 토론에 집중할 수 있게 된다",
+              "reason": "명확성 강화"
+            }
+          ],
+          "verified": [
+            "경향신문 톤 유지: 완벽",
+            "도치/피동형 최소화: 완벽",
+            "강조 수단 (굵은글씨, 블록인용): 균형 잡혀있음"
+          ]
+        },
+        "layer_3_clarity": {
+          "score": 95,
+          "verified": [
+            "주어-술어 호응: 완벽",
+            "지칭 명확: 완벽",
+            "인과관계 명확: 완벽"
+          ]
+        },
+        "layer_4_structure": {
+          "score": 95,
+          "verified": [
+            "AI 공개 배지: 없음 (정상)",
+            "AI 법적 고지: 하단 정확 위치 (정상) - '본 기사는 AI가 작성했습니다 (AI 기본법 제31조)'",
+            "참고자료: 6개 링크 충족 (정상)",
+            "HTML 검증: kg-card 주석 올바름, 스타일 정상",
+            "UTF-8 인코딩: 정상 (손상된 문자 없음)"
+          ]
+        }
+      }
+    }
+  ],
+  "summary": {
+    "status": "✅ 완료",
+    "total_corrections": 3,
+    "avg_copy_edit_score": 95,
+    "time_used_minutes": 5,
+    "time_remaining_minutes": 25,
+    "message": "기사 1개 교열 완료. 모든 기술적 교열, 톤/스타일, 명확성, 구조 검증 통과. 발행 준비 완료. 07-copy-edited/ 이동 완료."
+  },
+  "workflow_summary": {
+    "input_stage": "06-desk-approved/",
+    "output_stage": "07-copy-edited/",
+    "files_moved": 1,
+    "files_returned": 0,
+    "next_stage": "Publishing (08-published/)"
+  }
+}

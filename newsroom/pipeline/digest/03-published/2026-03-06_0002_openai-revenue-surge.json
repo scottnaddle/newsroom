@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "OpenAI's Annualized Revenue Skyrockets Beyond $25 Billion",
+    "url": "https://www.benzinga.com/markets/tech/26/03/51061532/openais-annualized-revenue-skyrockets-beyond-25-billion-report",
+    "source_name": "Benzinga",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "OpenAI's annualized revenue has exceeded $25 billion, according to recent reports. In February 2026, global startup funding hit $189 billion, with OpenAI leading at $110 billion, followed by Anthropic at $30 billion and Waymo at $16 billion, collectively accounting for 83% of total venture capital.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-06T12:02:00Z"
+  },
+  "digest": {
+    "headline": "OpenAI 연간 매출 250억 달러 돌파, AI 시장 독점 심화",
+    "lead": "OpenAI의 연간 매출이 250억 달러를 넘어섰습니다. 지난 2월 전 세계 스타트업 펀딩이 1,890억 달러에 달했을 때, OpenAI 단독으로 1,100억 달러를 확보해 전체 벤처캐피탈의 83%를 차지했습니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">OpenAI의 연간 매출이 250억 달러를 넘어섰습니다. 지난 2월 전 세계 스타트업 펀딩이 1,890억 달러에 달했을 때, OpenAI 단독으로 1,100억 달러를 확보해 전체 벤처캐피탈의 83%를 차지했습니다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">AI 시장의 자본 집중</h2>\n  <p style=\"margin:0 0 28px;\">2026년 2월 기준, OpenAI는 전 세계 스타트업 펀딩의 절대 다수를 차지했습니다. 2위인 Anthropic(300억 달러), 3위인 Waymo(160억 달러)를 합쳐도 OpenAI에 미치지 못할 정도입니다. 이는 AI 인프라 시장에서의 압도적인 기술 우위와 시장 점유율이 투자 자본의 극심한 편중으로 이어지고 있음을 보여줍니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">산업 생태계에 미치는 영향</h2>\n  <p style=\"margin:0 0 28px;\">OpenAI의 급속한 성장은 AI 기술의 중앙화를 심화시키고 있습니다. 250억 달러의 수익을 기반으로 더욱 강력한 모델 개발에 투자할 수 있게 되면서, 다른 AI 기업들과의 기술 격차는 계속 벌어질 것으로 예상됩니다. 이는 AI 생태계에서 혁신의 다양성을 저해할 수 있다는 우려도 제기되고 있습니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">OpenAI의 강한 자금력은 고성능 AI 모델에 접근하는 비용과 속도를 결정합니다. 에듀테크 스타트업들은 OpenAI의 API와 서비스에 점점 더 의존하게 될 수 있으며, 이는 개발 비용 상승과 OpenAI에 대한 의존도 심화로 이어질 수 있습니다. 또한 자체 AI 모델 개발을 원하는 에듀테크 기업들은 이 경쟁에서 뒤처질 위험에 직면해 있습니다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.benzinga.com/markets/tech/26/03/51061532/openais-annualized-revenue-skyrockets-beyond-25-billion-report\" style=\"color:#FF6B35;text-decoration:none;\">Benzinga</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "technology",
+      "ai",
+      "openai"
+    ],
+    "meta_title": "OpenAI 연간 매출 250억 달러 돌파, AI 시장 독점 심화",
+    "meta_description": "OpenAI가 전 세계 스타트업 벤처펀딩의 83%를 차지하며 AI 시장의 자본 집중 현상을 주도하고 있습니다.",
+    "word_count": 542
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-06T12:02:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T00:05:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-05T15:30:33.939Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69a9a1991e4e8000016eb362",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69a9a1991e4e8000016eb362",
+    "public_url": "https://ubion.ghost.io/openai-yeongan-maecul-250eog-dalreo-dolpa-ai-sijang-dogjeom-simhwa/",
+    "status": "published",
+    "published_at": "2026-03-05T15:30:33.000Z"
+  }
+}

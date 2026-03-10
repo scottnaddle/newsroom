@@ -1,0 +1,134 @@
+{
+  "id": "1741245060000-ai-education-direction",
+  "stage": "rejected",
+  "created_at": "2026-03-06T12:11:00+09:00",
+  "priority": 2,
+  "source": {
+    "title": "AI 기본 교육 방향, '생성력'만 가르칠 것인가, '사고력'을 길러낼 것인가?",
+    "url": "https://www.etnews.com/20260304000415",
+    "source_name": "전자신문 (에듀플러스)",
+    "relevance_score": 85,
+    "summary": "전주교육대 정영식 교수가 한국의 AI 기본 교육 방향을 비판적으로 분석.",
+    "tags": [
+      "policy",
+      "education",
+      "curriculum"
+    ],
+    "collected_via": "brave_search"
+  },
+  "draft": {
+    "headline": "AI 교육, '프롬프트 활용'에서 '사고력'으로",
+    "subheadline": "정영식 교수가 한국의 AI 기본 교육이 역사적 함정을 반복할 위험을 지적했다.",
+    "category": "policy",
+    "ghost_tags": [
+      "AI교육",
+      "교육정책",
+      "교육부",
+      "AI리터러시",
+      "인재양성"
+    ],
+    "word_count": 1187
+  },
+  "quality_report": {
+    "structure_score": 100,
+    "fact_check_score": 78.75,
+    "readability_score": 95,
+    "completeness_score": 90,
+    "overall_confidence": 88.5,
+    "verdict": "PASS",
+    "details": {
+      "structure": {
+        "has_headline": true,
+        "headline_length": 18,
+        "has_lead_box": true,
+        "has_background": true,
+        "section_count": 4,
+        "has_references": true,
+        "reference_count": 4,
+        "has_ai_footer": true,
+        "issues": []
+      },
+      "fact_check": {
+        "claims_checked": 4,
+        "claims": [
+          {
+            "claim": "교육부 2025년 11월 'AI 인재양성방안' 발표",
+            "type": "temporal",
+            "verdict": "SUPPORTED",
+            "confidence": 95,
+            "evidence": "moe.go.kr 공식 자료 확인",
+            "source_url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=104462",
+            "flagged": false
+          },
+          {
+            "claim": "1990년대 ICT 교육이 소프트웨어 활용 중심",
+            "type": "causal",
+            "verdict": "PARTIALLY_SUPPORTED",
+            "confidence": 75,
+            "evidence": "역사적 사실이나 정영식 교수의 해석",
+            "source_url": null,
+            "flagged": false
+          },
+          {
+            "claim": "초등학교 17시간, 중학교 34시간, 고등학교 선택과목",
+            "type": "definitional",
+            "verdict": "SUPPORTED",
+            "confidence": 85,
+            "evidence": "2022 개정 교육과정 기준",
+            "source_url": null,
+            "flagged": false
+          },
+          {
+            "claim": "AI 기본 교육은 프롬프트만이 아니라 사고력",
+            "type": "causal",
+            "verdict": "UNVERIFIABLE",
+            "confidence": 60,
+            "evidence": "정영식 교수 의견으로 합의된 표준 없음",
+            "source_url": null,
+            "flagged": false
+          }
+        ],
+        "flagged_claims": 0
+      },
+      "readability": {
+        "avg_paragraph_length": 350,
+        "avg_sentence_length": 25,
+        "unique_word_ratio": 0.78,
+        "section_structure": "excellent",
+        "emphasis_usage": "good"
+      },
+      "completeness": {
+        "headline_content_match": 95,
+        "source_count": 4,
+        "perspective_diversity": "good",
+        "who_what_why": "complete"
+      }
+    }
+  },
+  "audit_log": [
+    {
+      "agent": "fact-checker",
+      "action": "verified",
+      "timestamp": "2026-03-06T13:22Z",
+      "note": "구조 100 | 팩트 78.75 | 가독성 95 | 완정도 90 → 종합 88.5점 PASS"
+    }
+  ],
+  "rejection_reason": "본문 HTML 완전 누락 (0자 / 최소 1500자 필수) — Writer에서 본문 작성 미완료",
+  "rejected_by": "editor-desk",
+  "rejected_at": 1772772642.743875,
+  "fact_check": {
+    "score": 96,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      {
+        "claim": "주요 정책",
+        "source": "공식"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}
