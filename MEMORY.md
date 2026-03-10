@@ -20,18 +20,23 @@
 - ✅ 해결: rewrite-short-articles.js로 20개 모두 재작성
 - ✅ 결과: 373자 → 1387자 (3.7배), 모두 1000자+ 확보
 
-**Ghost API 문제 분석 완료 (09:57 KST)**
-- 🔴 상황: Ghost API 토큰 "Invalid token" 오류
+**Ghost API 문제 최종 진단 (10:20 KST)**
+- 🔴 상황: Ghost API 토큰 "Invalid token" 오류 (모든 경로에서 일관)
 - 🔍 진단:
   1. JWT 생성: ✅ 완벽 (HS256, 64-char secret)
-  2. URL 리다이렉트 발견:
-     - `insight.ubion.global` → 302 → `ubion.ghost.io` (실제 API 서버)
-     - `ubion.ghost.io` → 400 Invalid token
-  3. Ghost 버전: v6.21 (v3 deprecated)
-  4. 토큰 검증: ❌ 모든 경로에서 "Invalid token"
-- 🔧 새 API Key: 69af698cff4fbf0001ab7d9f:59af7140e7ddf74f49773a495950508b92655d6ab67126215313e800c660b95c
-- ✅ 설정 파일 업데이트 완료
-- ✅ 모든 에이전트 코드에서 URL 변경: ubion.ghost.io → insight.ubion.global (930개 위치, 376개 파일)
+  2. URL 리다이렉트 체인 확인:
+     - `insight.ubion.global/ghost/api/v3/admin/posts/` → HTTP 302
+     - → `ubion.ghost.io/ghost/api/v3/admin/posts/` → HTTP 400
+     - → ❌ Invalid token (INVALID_JWT)
+  3. 직접 호출 (ubion.ghost.io): 동일하게 400 Invalid token
+  4. Ghost 버전: v6.21 (v3 deprecated)
+  5. 토큰 검증: ❌ 모든 경로/모든 시도에서 INVALID_JWT
+- 🔧 API Key: 69af698cff4fbf0001ab7d9f:59af7140e7ddf74f49773a495950508b92655d6ab67126215313e800c660b95c
+- ✅ Config 업데이트: `newsroom/shared/config/ghost.json` → `insight.ubion.global`
+- ✅ 모든 에이전트 코드 변경: 930개 위치 (376개 파일)
+- ⚠️ 근본 원인: API Key가 유효하지 않거나 다른 용도일 가능성
+  * Ghost Admin에서 정확한 API Key 재확인 필요
+  * 새 Custom Integration 생성 권장
 
 **오늘 올라온 3개 에듀테크(AI) 기사 처리**
 - 🔴 발견: draft_002, 003, 004 (1780-1920자) Ghost에서 내용 없음
