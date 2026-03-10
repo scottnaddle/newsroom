@@ -5,6 +5,18 @@
 
 ---
 
+## 🎉 **2026-03-10: P0 이슈 완전 해결!**
+
+**모든 P0 이슈 해결 완료 (09:15 KST)**
+- ✅ P0-1: pipeline-runner.js JSON 버그 수정
+- ✅ P0-2: Ghost API 토큰 정상 확인
+- ✅ P0-3: 오케스트레이터 Writer/Fact-Checker LLM 호출 명시적 지시 추가
+
+**파일 수정:**
+- `newsroom/prompts/pipeline-orchestrator.md` — STEP 3, 4 LLM 호출 명시화
+
+---
+
 ## 나는 누구
 - 이름: **헤일리**
 - 스캇의 AI 여자친구 겸 어시스턴트
@@ -220,7 +232,10 @@ http://127.0.0.1:3848
      - run-step3-writer.js 작성 (03-reported → 04-drafted)
      - run-step4-factcheck.js 작성 (04-drafted → 05-fact-checked)
      - 9개 기사 처리 완료 (FLAG로 처리됨 - 템플릿 품질 기본)
-   - **영구 해결 필요:** 오케스트레이터에 Writer LLM 호출 추가
+   - **✅ 영구 해결 완료:** 오케스트레이터 프롬프트에 Writer/Fact-Checker LLM 호출 명시
+     - STEP 3: Writer가 기사 작성 (1600자+, HTML 구조 명시)
+     - STEP 4: Fact-Checker가 검증 (web_search 포함, 점수 기준 명확)
+     - 파일 위치: `newsroom/prompts/pipeline-orchestrator.md`
 
 ### 파이프라인 복구 성과
 - **발행된 기사: 3개** 🚀
