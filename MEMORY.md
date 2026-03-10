@@ -20,15 +20,18 @@
 - ✅ 해결: rewrite-short-articles.js로 20개 모두 재작성
 - ✅ 결과: 373자 → 1387자 (3.7배), 모두 1000자+ 확보
 
-**Ghost API 문제 분석 완료 (09:45 KST)**
+**Ghost API 문제 분석 완료 (09:57 KST)**
 - 🔴 상황: Ghost API 토큰 "Invalid token" 오류
 - 🔍 진단:
   1. JWT 생성: ✅ 완벽 (HS256, 64-char secret)
-  2. API 도달: ✅ insight.ubion.global 응답
-  3. 토큰 검증: ❌ HTTP 400 "Invalid token"
-  4. 엔드포인트: ⚠️ openresty 프록시로 302/404 반환
-- 🔧 새 API Key 받음: 69af698cff4fbf0001ab7d9f:59af7140...
+  2. URL 리다이렉트 발견:
+     - `insight.ubion.global` → 302 → `ubion.ghost.io` (실제 API 서버)
+     - `ubion.ghost.io` → 400 Invalid token
+  3. Ghost 버전: v6.21 (v3 deprecated)
+  4. 토큰 검증: ❌ 모든 경로에서 "Invalid token"
+- 🔧 새 API Key: 69af698cff4fbf0001ab7d9f:59af7140e7ddf74f49773a495950508b92655d6ab67126215313e800c660b95c
 - ✅ 설정 파일 업데이트 완료
+- ✅ 모든 에이전트 코드에서 URL 변경: ubion.ghost.io → insight.ubion.global (930개 위치, 376개 파일)
 
 **오늘 올라온 3개 에듀테크(AI) 기사 처리**
 - 🔴 발견: draft_002, 003, 004 (1780-1920자) Ghost에서 내용 없음
