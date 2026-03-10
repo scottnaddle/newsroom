@@ -121,10 +121,15 @@ function checkUrl(url) {
 function updatePublishedTitles(article, filename) {
   let titles = [];
   if (fs.existsSync(PUBLISHED_TITLES_FILE)) {
-    try { titles = JSON.parse(fs.readFileSync(PUBLISHED_TITLES_FILE, 'utf8')); } catch {}
+    try {
+      const data = JSON.parse(fs.readFileSync(PUBLISHED_TITLES_FILE, 'utf8'));
+      titles = Array.isArray(data) ? data : (data.titles || []);
+    } catch {}
   }
   const headline = article.draft?.headline || article.source?.title || 'Unknown';
-  titles.unshift({ title: headline, file: filename, status: 'published' });
+  if (Array.isArray(titles)) {
+    titles.unshift({ title: headline, file: filename, status: 'published' });
+  }
   // 최대 500개 유지
   fs.writeFileSync(PUBLISHED_TITLES_FILE, JSON.stringify(titles.slice(0, 500), null, 2));
 }

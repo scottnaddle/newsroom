@@ -745,3 +745,36 @@
 [2026-03-10T00:09:32.686Z] [INFO] 처리할 기사 없음
 [2026-03-10T00:09:55.677Z] [INFO] Pipeline Runner 시작
 [2026-03-10T00:09:55.680Z] [INFO] 처리할 기사 없음
+[2026-03-10T00:10:57.974Z] [INFO] Pipeline Runner 시작
+[2026-03-10T00:10:57.977Z] [INFO] 처리 대상: 5개 기사
+[2026-03-10T00:10:57.977Z] [INFO] === 기사: 004-smart-devices-restriction.json (from: 05-fact-checked) ===
+[2026-03-10T00:10:57.977Z] [INFO] [Stage4:에디터] 004-smart-devices-restriction.json
+[2026-03-10T00:10:57.978Z] [WARN] [Stage4] 본문 1406자 미만 -> rejected: 004-smart-devices-restriction.json
+[2026-03-10T00:10:57.978Z] [INFO] === 기사: draft_001.json (from: 05-fact-checked) ===
+[2026-03-10T00:10:57.978Z] [INFO] [Stage4:에디터] draft_001.json
+[2026-03-10T00:10:57.979Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: draft_001.json
+[2026-03-10T00:10:57.979Z] [INFO] [Stage5:교열] draft_001.json
+[2026-03-10T00:10:57.980Z] [WARN] [Stage5] 본문 1556자 미만 -> rejected: draft_001.json
+[2026-03-10T00:10:57.981Z] [INFO] === 기사: draft_002.json (from: 05-fact-checked) ===
+[2026-03-10T00:10:57.981Z] [INFO] [Stage4:에디터] draft_002.json
+[2026-03-10T00:10:57.981Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: draft_002.json
+[2026-03-10T00:10:57.981Z] [INFO] [Stage5:교열] draft_002.json
+[2026-03-10T00:10:57.982Z] [OK] [Stage5:교열] PASS (2155자, 1 changes) -> 07-copy-edited/: draft_002.json
+[2026-03-10T00:10:57.983Z] [INFO] [Stage6:발행] draft_002.json
+[2026-03-10T00:10:58.702Z] [ERROR] [Stage6] 발행 실패 (exit 1): draft_002.json
+[2026-03-10T00:10:58.702Z] [INFO] === 기사: draft_003.json (from: 05-fact-checked) ===
+[2026-03-10T00:10:58.702Z] [INFO] [Stage4:에디터] draft_003.json
+[2026-03-10T00:10:58.703Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: draft_003.json
+[2026-03-10T00:10:58.703Z] [INFO] [Stage5:교열] draft_003.json
+[2026-03-10T00:10:58.704Z] [OK] [Stage5:교열] PASS (2193자, 1 changes) -> 07-copy-edited/: draft_003.json
+[2026-03-10T00:10:58.704Z] [INFO] [Stage6:발행] draft_003.json
+[2026-03-10T00:10:59.152Z] [ERROR] [Stage6] 발행 실패 (exit 1): draft_003.json
+[2026-03-10T00:10:59.152Z] [INFO] === 기사: draft_004.json (from: 05-fact-checked) ===
+[2026-03-10T00:10:59.153Z] [INFO] [Stage4:에디터] draft_004.json
+[2026-03-10T00:10:59.153Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: draft_004.json
+[2026-03-10T00:10:59.153Z] [INFO] [Stage5:교열] draft_004.json
+[2026-03-10T00:10:59.154Z] [OK] [Stage5:교열] PASS (2347자, 1 changes) -> 07-copy-edited/: draft_004.json
+[2026-03-10T00:10:59.154Z] [INFO] [Stage6:발행] draft_004.json
+[2026-03-10T00:10:59.914Z] [ERROR] [Stage6] 발행 실패 (exit 1): draft_004.json
+[2026-03-10T00:10:59.915Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-10T00:10:59.915Z] [INFO] Published: 0, Rejected: 2, Error: 3
