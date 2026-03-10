@@ -51,11 +51,18 @@
 
 ---
 
-## STEP 3: 작성 (03-reported → 04-drafted)
+## STEP 3: 작성 (03-reported → 04-drafted) — 🔴 **LLM 에이전트 필수**
 
-`pipeline/03-reported/`의 각 JSON 파일에 대해 (최대 5개):
+**사전 상태 확인:**
+- `ls -1 /root/.openclaw/workspace/newsroom/pipeline/03-reported/*.json | wc -l` 으로 대기 중인 기사 개수 확인
+- 0개면 STEP 3 스킵, 1개 이상이면 아래 실행
 
-`reporting_brief` 기반으로 한국어 기사 HTML 작성:
+**처리 방법:**
+`pipeline/03-reported/`의 각 JSON 파일에 대해 (최대 5개), **당신(LLM)이 직접 한국어 기사를 작성:**
+
+각 파일의 `reporting_brief`를 읽고, 아래 규칙에 따라 한국어 기사 HTML을 작성합니다:
+
+**기사 작성 지시:**
 
 **기사 구조 (순서 필수):**
 1. 래퍼: `font-family:'Noto Sans KR'`, `max-width:680px`, `font-size:17px`, `line-height:1.9`, `color:#1a1a2e`
@@ -72,49 +79,123 @@ accent: policy=#4338ca, research=#059669, industry=#d97706, opinion=#7c3aed, dat
 
 **최소 1600자** (태그 제거 후 순수 텍스트 기준)
 
-JSON에 `"stage":"drafted"` + `"draft":{headline, subheadline, html, slug, ghost_tags[], custom_excerpt, references[], word_count, category}` 추가.
-`pipeline/04-drafted/`에 저장, `pipeline/03-reported/`에서 삭제.
+**처리 단계:**
+1. `pipeline/03-reported/`의 각 파일을 읽음 (최대 5개)
+2. `reporting_brief` 내용 기반으로 **반드시 1600자 이상의 기사를 작성**
+3. JSON에 `"stage":"drafted"` + `"draft":{...}` 필드 추가:
+   ```json
+   "draft": {
+     "headline": "기사 제목",
+     "subheadline": "부제목",
+     "slug": "기사-제목",
+     "ghost_tags": ["카테고리", "ai-news"],
+     "category": "education",
+     "html": "<div>...</div>",
+     "custom_excerpt": "요약",
+     "references": [{"title": "출처", "url": "..."}],
+     "word_count": 1800
+   }
+   ```
+4. 완성된 파일을 **`pipeline/04-drafted/`에 저장**
+5. 원본 파일을 **`pipeline/03-reported/`에서 삭제**
+
+**작성 검증:**
+- ✅ HTML 문자열 유효성 (태그 닫혀 있나?)
+- ✅ 본문 길이 1600자 이상 (태그 제거 후)
+- ✅ 필수 요소: 리드박스, h2 섹션 3개+, 참고자료, AI 각주
+
+**완료 후:**
+STEP 3 처리 완료를 보고하고, STEP 4(팩트체크)로 진행합니다.
 
 ---
 
-## STEP 4: 팩트체크 (04-drafted → 05-fact-checked)
+## STEP 4: 팩트체크 (04-drafted → 05-fact-checked) — 🔴 **LLM 에이전트 필수**
 
-`pipeline/04-drafted/`의 각 JSON 파일에 대해 (최대 5개):
+**사전 상태 확인:**
+- `ls -1 /root/.openclaw/workspace/newsroom/pipeline/04-drafted/*.json | wc -l` 으로 대기 중인 기사 개수 확인
+- 0개면 STEP 4 스킵, 1개 이상이면 아래 실행
+
+**처리 방법:**
+`pipeline/04-drafted/`의 각 JSON 파일에 대해 (최대 5개), **당신(LLM)이 직접 팩트체크를 수행:**
 
 **4층 검증:**
-1. **구조**: 리드박스·h2 섹션 3개+·참고자료·AI각주 존재
-2. **팩트**: 핵심 주장 2~3개를 `web_search`로 교차 검증
-3. **가독성**: 문장 길이, 톤 일관성
-4. **완정도**: 본문 1600자+, 소스 3개+
+1. **구조**: 리드박스·h2 섹션 3개+·참고자료·AI각주 존재 여부
+2. **팩트**: 핵심 주장 2~3개를 `web_search`로 **교차 검증** (반드시 실행)
+3. **가독성**: 문장 길이, 톤 일관성 평가
+4. **완정도**: 본문 1600자+, 소스 3개+ 확인
 
 **점수 기준:**
-- 90+: PASS
-- 75-89: FLAG (수정 권고 포함)
-- <75: FAIL → `pipeline/rejected/`로 이동
+- 90+: PASS ✅
+- 75-89: FLAG ⚠️ (수정 권고 포함)
+- <75: FAIL → `pipeline/rejected/`로 이동 ❌
 
-JSON에 `"stage":"fact-checked"` + `"fact_check":{score, verdict, issues[], verified_claims[]}` 추가.
-`pipeline/05-fact-checked/`에 저장, `04-drafted/`에서 삭제.
+**처리 단계:**
+1. 각 파일의 `draft` 필드를 검토
+2. 위 4층 검증을 수행하고 점수 산출
+3. JSON에 `"stage":"fact-checked"` + `"fact_check":{...}` 필드 추가:
+   ```json
+   "fact_check": {
+     "score": 85,
+     "verdict": "PASS",
+     "issues": [],
+     "verified_claims": ["주장1 검증됨", "주장2 검증됨"],
+     "validated_at": "2026-03-10T09:15:00Z"
+   }
+   ```
+4. 결과 파일을:
+   - **PASS/FLAG:** `pipeline/05-fact-checked/`에 저장
+   - **FAIL:** `pipeline/rejected/`에 저장
+5. 원본 파일을 **`pipeline/04-drafted/`에서 삭제**
+
+**완료 후:**
+STEP 4 처리 완료를 보고하고, STEP 5(자동 처리)로 진행합니다.
 
 ---
 
-## STEP 5: 후처리 (에디터→교열→발행)
+## STEP 5: 후처리 (에디터→교열→발행) — 🟢 **자동 스크립트**
 
-팩트체크 완료 후, 자동 스크립트로 후반 3단계 일괄 처리:
+**처리 방법:**
+팩트체크 완료 후, 자동 스크립트로 후반 3단계 일괄 처리합니다:
 
+```bash
+cd /root/.openclaw/workspace/newsroom
+node scripts/pipeline-runner.js
 ```
-node /root/.openclaw/workspace/newsroom/scripts/pipeline-runner.js
-```
 
-이 스크립트가 `05-fact-checked/` → 에디터검증 → 교열 → Ghost 발행(draft)까지 자동 처리.
+**자동 처리 내용:**
+- **STEP 5 (에디터):** `05-fact-checked/` 기사들의 구조/중복/본문 길이 검증
+- **STEP 6 (교열):** 문법·톤·명확성 점검, 마이너 수정
+- **STEP 7 (발행):** Ghost CMS에 **draft 상태**로 발행
 
-결과 출력을 확인하고 보고.
+**결과:**
+- ✅ 발행된 기사: Ghost URL 포함하여 보고
+- ⚠️ FLAG된 기사: 원인 포함하여 보고
+- ❌ 거부된 기사: 거부 사유 포함하여 보고
+
+**스크립트가 처리한 내용을 확인하고 보고하세요.**
 
 ---
 
 ## 최종 보고
 
-간단히 보고:
-- 수집: N개 새 기사
-- 취재→작성→팩트체크→발행: 각 단계별 처리 수
-- 탈락: N개 (이유 간략히)
-- Ghost 발행: 제목 + URL (있으면)
+**다음 형식으로 요약 보고하세요:**
+
+```
+🔄 파이프라인 오케스트레이터 실행 완료
+
+STEP 1 (수집): N개 새 기사 수집
+STEP 2 (취재): M개 처리 (남은 기사: K개)
+STEP 3 (작성): X개 처리 (남은 기사: Y개)
+STEP 4 (팩트체크): P개 PASS, Q개 FLAG, R개 FAIL
+STEP 5 (자동): S개 발행
+
+Ghost 발행 성공:
+- [제목1] (URL)
+- [제목2] (URL)
+- ...
+
+거부된 기사 (상위 3개):
+- [제목]: 이유
+```
+
+**각 단계별 처리 수를 명확하게 기록하세요.**
