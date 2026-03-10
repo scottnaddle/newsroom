@@ -1,0 +1,7 @@
+{
+  "anthropic": "sk-ant-YOUR_ANTHROPIC_API_KEY_HERE",
+  "google": "YOUR_GOOGLE_API_KEY_HERE",
+  "zhipu": "YOUR_ZHIPU_API_KEY_HERE",
+  "openai": "sk-YOUR_OPENAI_API_KEY_HERE",
+  "_note": "각 서비스의 API 대시보드에서 발급된 키를 입력하세요"
+}
