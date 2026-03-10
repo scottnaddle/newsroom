@@ -1,0 +1,35 @@
+{
+  "stage": "drafted",
+  "pipeline": "digest",
+  "source": {
+    "title": "OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government",
+    "url": "https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/",
+    "source_name": "WIRED",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "More than 30 employees from OpenAI and Google, including Google DeepMind chief scientist Jeff Dean, filed an amicus brief supporting Anthropic in its legal fight against the US government. The brief argues that the Pentagon's decision to blacklist Anthropic undermines American innovation and competitiveness in AI. Signatories emphasize that contractual and technological safeguards against catastrophic AI misuse represent vital protection in the absence of public law.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-10T09:05:00Z"
+  },
+  "digest": {
+    "headline": "OpenAI·Google 직원 30명 이상, Anthropic 지지 법정 성명 제출",
+    "lead": "OpenAI와 Google의 직원 30명 이상, 특히 Google DeepMind 최고 과학자 Jeff Dean이 Anthropic을 지지하는 법정 성명(amicus brief)을 제출했다. AI 업계가 정부 규제를 두고 한목소리를 내고 있다는 신호다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">OpenAI와 Google의 직원 30명 이상, 특히 Google DeepMind 최고 과학자 Jeff Dean이 Anthropic을 지지하는 법정 성명(amicus brief)을 제출했다. AI 업계가 정부 규제를 두고 한목소리를 내고 있다는 신호다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">경쟁사인 OpenAI와 Google의 직원들이 Anthropic을 공개 지지한 것은 매우 이례적이다. 이들은 미 국방부의 Anthropic 제재 결정이 미국의 AI 혁신을 해친다고 주장했다. 성명서는 기업 간 계약과 기술적 안전장치만으로도 AI 오용을 충분히 제어할 수 있으며, 정부 규제 없이도 기업들이 책임감 있게 행동할 수 있다는 취지다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이는 AI 업계의 자체 규제 능력을 강조하는 메시지다. 정부의 일방적 통제보다는 업계의 자율적 기준 수립을 선호한다는 입장을 드러냈다. 법원이 이 성명을 긍정적으로 평가하면, 기술 기업들의 정부 규제 저항이 더욱 강해질 수 있다. 반대로 법원이 정부 입장을 지지하면, AI 산업의 정부 통제는 한층 강화될 것으로 보인다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 업계의 자율 규제 입장이 교육 분야에도 영향을 미칠 수 있다. 학교와 에듀테크 기업이 중심이 된 자율 안전 기준이 정부 규제보다 우선될 가능성이 높아진다면, 교육 현장에서 더 빠르고 자유로운 AI 도입이 가능해질 수 있다. 하지만 학생 데이터 보호와 관련된 명확한 기준이 부족할 수도 있으므로 주의가 필요하다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/\" style=\"color:#FF6B35;text-decoration:none;\">WIRED</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": ["ai-digest", "regulation", "openai", "google", "anthropic"],
+    "meta_title": "OpenAI·Google 직원 Anthropic 지지 법정 성명 제출",
+    "meta_description": "AI 업계 경쟁사들이 Anthropic의 정부 소송을 지지하는 법정 성명을 제출했다. 기술 기업들의 자율 규제와 정부 통제 간 신경전을 살펴본다.",
+    "word_count": 548
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T09:05:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T09:15:00Z"
+    }
+  ]
+}
