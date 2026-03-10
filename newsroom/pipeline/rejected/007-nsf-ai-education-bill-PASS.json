@@ -1,0 +1,68 @@
+{
+  "article_id": "007",
+  "title": "NSF AI Education Act of 2026",
+  "fact_check_date": "2026-03-10T10:00:00Z",
+  "status": "PASS",
+  "overall_score": 93,
+  "verified_claims": [
+    {
+      "claim": "Cantwell-Moran 초당파 법안 발의",
+      "source": "https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education",
+      "verified": true,
+      "confidence": 1
+    },
+    {
+      "claim": "Maria Cantwell은 D-Washington, 상무위원회 부위원장",
+      "source": "https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education",
+      "verified": true,
+      "confidence": 1
+    },
+    {
+      "claim": "Jerry Moran은 R-Kansas, 상무위원회 고위 위원",
+      "source": "https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education",
+      "verified": true,
+      "confidence": 1
+    },
+    {
+      "claim": "법안은 NSF 지원 아래 장학금, 펠로우십, K-12 가이더스, 커뮤니티칼리지 센터 포함",
+      "source": "https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education",
+      "verified": true,
+      "confidence": 1
+    },
+    {
+      "claim": "농업, 교육, 첨단 제조 분야 AI 활용 중점",
+      "source": "https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education",
+      "verified": true,
+      "confidence": 1
+    },
+    {
+      "claim": "Cantwell 발언: '중국과 경쟁하고 미국 AI 기술 스택 글로벌 표준화'",
+      "source": "https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education",
+      "verified": true,
+      "confidence": 1,
+      "note": "직접 인용 검증됨"
+    },
+    {
+      "claim": "Moran 발언: '유치원부터 대학까지 포괄적 접근'",
+      "source": "https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education",
+      "verified": true,
+      "confidence": 1,
+      "note": "직접 인용 검증됨"
+    }
+  ],
+  "flagged_sections": [],
+  "corrections_needed": [],
+  "scoring_details": {
+    "source_quality": 10,
+    "claim_verification": 10,
+    "context_accuracy": 9,
+    "language_clarity": 9
+  },
+  "recommendation": "게시 승인",
+  "reviewer_notes": "상원 공식 보도자료 기반으로 모든 사실이 검증됨. 법안의 구체적 내용과 양당 의원의 입장이 명확히 전달됨. AI 경쟁과 인력 양성이라는 맥락이 잘 드러남.",
+  "stage": "rejected",
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "article_id": "006",
+  "title": "2026년 AI 교육 통계",
+  "fact_check_date": "2026-03-10T10:00:00Z",
+  "status": "PASS",
+  "overall_score": 90,
+  "verified_claims": [
+    {
+      "claim": "K-12 교사 85%, 학생 86% AI 사용",
+      "source": "https://www.engageli.com/blog/ai-in-education-statistics",
+      "verified": true,
+      "confidence": 0.95,
+      "note": "Microsoft, McKinsey, Pew Research Center 등 주요 기관 데이터 집계"
+    },
+    {
+      "claim": "AI 사용 교사는 주당 5.9시간 절약",
+      "source": "https://www.engageli.com/blog/ai-in-education-statistics",
+      "verified": true,
+      "confidence": 1,
+      "source_detail": "Gallup-Walton Family Foundation 1000+ 교사 조사"
+    },
+    {
+      "claim": "학생 AI 사용 26% 증가, 교사 21% 증가",
+      "source": "https://www.engageli.com/blog/ai-in-education-statistics",
+      "verified": true,
+      "confidence": 0.95
+    },
+    {
+      "claim": "주요 활용: 연구(44%), 수업계획(38%), 요약(38%), 자료생성(37%)",
+      "source": "https://www.engageli.com/blog/ai-in-education-statistics",
+      "verified": true,
+      "confidence": 0.95
+    },
+    {
+      "claim": "대학생 92% AI 사용 (2024년 66%)",
+      "source": "https://genio.co/blog/-students-using-ai-2026-from-ai-adoption-to-ai-agency",
+      "verified": true,
+      "confidence": 0.95,
+      "source_detail": "HEPI-Kortext 학생 생성형 AI 조사"
+    },
+    {
+      "claim": "36% 학생만 정식 AI 교육 받음",
+      "source": "https://www.engageli.com/blog/ai-in-education-statistics",
+      "verified": true,
+      "confidence": 0.95
+    },
+    {
+      "claim": "대학생 53%가 부정행위 혐의 불안",
+      "source": "https://www.turnitin.com/blog/what-2025-generative-ai-trends-reveal-about-student-behavior",
+      "verified": true,
+      "confidence": 0.95
+    }
+  ],
+  "flagged_sections": [],
+  "corrections_needed": [],
+  "scoring_details": {
+    "source_quality": 9,
+    "claim_verification": 10,
+    "context_accuracy": 9,
+    "language_clarity": 10
+  },
+  "recommendation": "게시 승인",
+  "reviewer_notes": "다양한 신뢰할 수 있는 출처(Microsoft, McKinsey, Pew Research, Gallup 등)의 데이터를 기반. 통계 해석이 균형잡혀 있으며, 긍정적 채택과 부정적 정책 공백을 균형있게 제시. 형평성 문제도 잘 지적함.",
+  "stage": "rejected",
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

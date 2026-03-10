@@ -842,3 +842,100 @@
 [2026-03-10T00:34:20.346Z] [ERROR] [Stage6] 발행 실패 (exit 1): 010-higher-ed-disruption.json
 [2026-03-10T00:34:20.346Z] [INFO] === Pipeline Runner 완료 ===
 [2026-03-10T00:34:20.346Z] [INFO] Published: 0, Rejected: 0, Error: 5
+[2026-03-10T01:03:41.533Z] [INFO] Pipeline Runner 시작
+[2026-03-10T01:03:41.538Z] [INFO] 처리 대상: 5개 기사
+[2026-03-10T01:03:41.539Z] [INFO] === 기사: 006-ai-education-stats-PASS.json (from: 05-fact-checked) ===
+[2026-03-10T01:03:41.540Z] [INFO] [Stage4:에디터] 006-ai-education-stats-PASS.json
+[2026-03-10T01:03:41.540Z] [WARN] [Stage4] draft.html 없음 -> rejected: 006-ai-education-stats-PASS.json
+[2026-03-10T01:03:41.540Z] [INFO] === 기사: 007-nsf-ai-education-bill-PASS.json (from: 05-fact-checked) ===
+[2026-03-10T01:03:41.540Z] [INFO] [Stage4:에디터] 007-nsf-ai-education-bill-PASS.json
+[2026-03-10T01:03:41.541Z] [WARN] [Stage4] draft.html 없음 -> rejected: 007-nsf-ai-education-bill-PASS.json
+[2026-03-10T01:03:41.541Z] [INFO] === 기사: 008-student-ai-agency-PASS.json (from: 05-fact-checked) ===
+[2026-03-10T01:03:41.541Z] [INFO] [Stage4:에디터] 008-student-ai-agency-PASS.json
+[2026-03-10T01:03:41.541Z] [WARN] [Stage4] draft.html 없음 -> rejected: 008-student-ai-agency-PASS.json
+[2026-03-10T01:03:41.541Z] [INFO] === 기사: 011-washu-ai-initiative-PASS.json (from: 05-fact-checked) ===
+[2026-03-10T01:03:41.542Z] [INFO] [Stage4:에디터] 011-washu-ai-initiative-PASS.json
+[2026-03-10T01:03:41.542Z] [WARN] [Stage4] draft.html 없음 -> rejected: 011-washu-ai-initiative-PASS.json
+[2026-03-10T01:03:41.542Z] [INFO] === 기사: 012-k12-policy-progress-PASS.json (from: 05-fact-checked) ===
+[2026-03-10T01:03:41.543Z] [INFO] [Stage4:에디터] 012-k12-policy-progress-PASS.json
+[2026-03-10T01:03:41.543Z] [WARN] [Stage4] draft.html 없음 -> rejected: 012-k12-policy-progress-PASS.json
+[2026-03-10T01:03:41.543Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-10T01:03:41.543Z] [INFO] Published: 0, Rejected: 5, Error: 0
+[2026-03-10T01:03:57.668Z] [INFO] Pipeline Runner 시작
+[2026-03-10T01:03:57.670Z] [INFO] 처리할 기사 없음
+[2026-03-10T01:04:07.706Z] [INFO] Pipeline Runner 시작
+[2026-03-10T01:04:07.709Z] [INFO] 처리 대상: 5개 기사
+[2026-03-10T01:04:07.710Z] [INFO] === 기사: 006-PASS.json (from: 05-fact-checked) ===
+[2026-03-10T01:04:07.710Z] [INFO] [Stage4:에디터] 006-PASS.json
+[2026-03-10T01:04:07.711Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 006-PASS.json
+[2026-03-10T01:04:07.712Z] [INFO] [Stage5:교열] 006-PASS.json
+[2026-03-10T01:04:07.713Z] [OK] [Stage5:교열] PASS (2261자, 1 changes) -> 07-copy-edited/: 006-PASS.json
+[2026-03-10T01:04:07.713Z] [INFO] [Stage6:발행] 006-PASS.json
+[2026-03-10T01:04:08.188Z] [ERROR] [Stage6] 발행 실패 (exit 1): 006-PASS.json
+[2026-03-10T01:04:08.188Z] [INFO] === 기사: 007-PASS.json (from: 05-fact-checked) ===
+[2026-03-10T01:04:08.188Z] [INFO] [Stage4:에디터] 007-PASS.json
+[2026-03-10T01:04:08.189Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 007-PASS.json
+[2026-03-10T01:04:08.189Z] [INFO] [Stage5:교열] 007-PASS.json
+[2026-03-10T01:04:08.190Z] [OK] [Stage5:교열] PASS (2083자, 1 changes) -> 07-copy-edited/: 007-PASS.json
+[2026-03-10T01:04:08.190Z] [INFO] [Stage6:발행] 007-PASS.json
+[2026-03-10T01:04:08.565Z] [ERROR] [Stage6] 발행 실패 (exit 1): 007-PASS.json
+[2026-03-10T01:04:08.565Z] [INFO] === 기사: 008-PASS.json (from: 05-fact-checked) ===
+[2026-03-10T01:04:08.565Z] [INFO] [Stage4:에디터] 008-PASS.json
+[2026-03-10T01:04:08.566Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 008-PASS.json
+[2026-03-10T01:04:08.567Z] [INFO] [Stage5:교열] 008-PASS.json
+[2026-03-10T01:04:08.567Z] [OK] [Stage5:교열] PASS (2453자, 1 changes) -> 07-copy-edited/: 008-PASS.json
+[2026-03-10T01:04:08.567Z] [INFO] [Stage6:발행] 008-PASS.json
+[2026-03-10T01:04:08.943Z] [ERROR] [Stage6] 발행 실패 (exit 1): 008-PASS.json
+[2026-03-10T01:04:08.943Z] [INFO] === 기사: 011-PASS.json (from: 05-fact-checked) ===
+[2026-03-10T01:04:08.943Z] [INFO] [Stage4:에디터] 011-PASS.json
+[2026-03-10T01:04:08.944Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 011-PASS.json
+[2026-03-10T01:04:08.944Z] [INFO] [Stage5:교열] 011-PASS.json
+[2026-03-10T01:04:08.944Z] [OK] [Stage5:교열] PASS (1749자, 1 changes) -> 07-copy-edited/: 011-PASS.json
+[2026-03-10T01:04:08.944Z] [INFO] [Stage6:발행] 011-PASS.json
+[2026-03-10T01:04:09.320Z] [ERROR] [Stage6] 발행 실패 (exit 1): 011-PASS.json
+[2026-03-10T01:04:09.321Z] [INFO] === 기사: 012-PASS.json (from: 05-fact-checked) ===
+[2026-03-10T01:04:09.321Z] [INFO] [Stage4:에디터] 012-PASS.json
+[2026-03-10T01:04:09.323Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 012-PASS.json
+[2026-03-10T01:04:09.323Z] [INFO] [Stage5:교열] 012-PASS.json
+[2026-03-10T01:04:09.324Z] [OK] [Stage5:교열] PASS (2170자, 1 changes) -> 07-copy-edited/: 012-PASS.json
+[2026-03-10T01:04:09.324Z] [INFO] [Stage6:발행] 012-PASS.json
+[2026-03-10T01:04:09.691Z] [ERROR] [Stage6] 발행 실패 (exit 1): 012-PASS.json
+[2026-03-10T01:04:09.691Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-10T01:04:09.691Z] [INFO] Published: 0, Rejected: 0, Error: 5
+[2026-03-10T01:04:27.850Z] [INFO] Pipeline Runner 시작
+[2026-03-10T01:04:27.854Z] [INFO] 처리 대상: 5개 기사
+[2026-03-10T01:04:27.854Z] [INFO] === 기사: 011-washu-ai-initiative.json (from: 05-fact-checked) ===
+[2026-03-10T01:04:27.855Z] [INFO] [Stage4:에디터] 011-washu-ai-initiative.json
+[2026-03-10T01:04:27.856Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 011-washu-ai-initiative.json
+[2026-03-10T01:04:27.857Z] [INFO] [Stage5:교열] 011-washu-ai-initiative.json
+[2026-03-10T01:04:27.858Z] [OK] [Stage5:교열] PASS (1930자, 1 changes) -> 07-copy-edited/: 011-washu-ai-initiative.json
+[2026-03-10T01:04:27.859Z] [INFO] [Stage6:발행] 011-washu-ai-initiative.json
+[2026-03-10T01:04:28.748Z] [ERROR] [Stage6] 발행 실패 (exit 1): 011-washu-ai-initiative.json
+[2026-03-10T01:04:28.748Z] [INFO] === 기사: 012-k12-policy-progress.json (from: 05-fact-checked) ===
+[2026-03-10T01:04:28.748Z] [INFO] [Stage4:에디터] 012-k12-policy-progress.json
+[2026-03-10T01:04:28.750Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 012-k12-policy-progress.json
+[2026-03-10T01:04:28.750Z] [INFO] [Stage5:교열] 012-k12-policy-progress.json
+[2026-03-10T01:04:28.751Z] [WARN] [Stage5] 본문 1531자 미만 -> rejected: 012-k12-policy-progress.json
+[2026-03-10T01:04:28.752Z] [INFO] === 기사: source_006.json (from: 05-fact-checked) ===
+[2026-03-10T01:04:28.753Z] [INFO] [Stage4:에디터] source_006.json
+[2026-03-10T01:04:28.754Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source_006.json
+[2026-03-10T01:04:28.754Z] [INFO] [Stage5:교열] source_006.json
+[2026-03-10T01:04:28.754Z] [OK] [Stage5:교열] PASS (1946자, 1 changes) -> 07-copy-edited/: source_006.json
+[2026-03-10T01:04:28.755Z] [INFO] [Stage6:발행] source_006.json
+[2026-03-10T01:04:29.573Z] [ERROR] [Stage6] 발행 실패 (exit 1): source_006.json
+[2026-03-10T01:04:29.573Z] [INFO] === 기사: source_007.json (from: 05-fact-checked) ===
+[2026-03-10T01:04:29.573Z] [INFO] [Stage4:에디터] source_007.json
+[2026-03-10T01:04:29.574Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source_007.json
+[2026-03-10T01:04:29.574Z] [INFO] [Stage5:교열] source_007.json
+[2026-03-10T01:04:29.574Z] [OK] [Stage5:교열] PASS (1797자, 1 changes) -> 07-copy-edited/: source_007.json
+[2026-03-10T01:04:29.575Z] [INFO] [Stage6:발행] source_007.json
+[2026-03-10T01:04:30.457Z] [ERROR] [Stage6] 발행 실패 (exit 1): source_007.json
+[2026-03-10T01:04:30.457Z] [INFO] === 기사: source_008.json (from: 05-fact-checked) ===
+[2026-03-10T01:04:30.457Z] [INFO] [Stage4:에디터] source_008.json
+[2026-03-10T01:04:30.457Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source_008.json
+[2026-03-10T01:04:30.458Z] [INFO] [Stage5:교열] source_008.json
+[2026-03-10T01:04:30.459Z] [OK] [Stage5:교열] PASS (1901자, 1 changes) -> 07-copy-edited/: source_008.json
+[2026-03-10T01:04:30.459Z] [INFO] [Stage6:발행] source_008.json
+[2026-03-10T01:04:31.287Z] [ERROR] [Stage6] 발행 실패 (exit 1): source_008.json
+[2026-03-10T01:04:31.288Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-10T01:04:31.288Z] [INFO] Published: 0, Rejected: 1, Error: 4

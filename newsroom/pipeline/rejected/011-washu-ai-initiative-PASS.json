@@ -1,0 +1,55 @@
+{
+  "article_id": "011",
+  "title": "Washington University의 +AI 학술 이니셔티브",
+  "fact_check_date": "2026-03-10T10:00:00Z",
+  "status": "PASS",
+  "overall_score": 95,
+  "verified_claims": [
+    {
+      "claim": "Washington University St. Louis가 '+AI' 이니셔티브 출범",
+      "source": "https://source.washu.edu/2026/03/university-introduces-ai-academic-initiative/",
+      "verified": true,
+      "confidence": 1
+    },
+    {
+      "claim": "Provost Mark D. West가 주도",
+      "source": "https://source.washu.edu/2026/03/university-introduces-ai-academic-initiative/",
+      "verified": true,
+      "confidence": 1
+    },
+    {
+      "claim": "Chancellor Andrew D. Martin의 강조 발언",
+      "source": "https://source.washu.edu/2026/03/university-introduces-ai-academic-initiative/",
+      "verified": true,
+      "confidence": 0.95,
+      "note": "원문에서 직접 인용 확인"
+    },
+    {
+      "claim": "리더십 팀의 4인 구성 (Sinclair, Smith, Jacobs, Boumgarden)",
+      "source": "https://source.washu.edu/2026/03/university-introduces-ai-academic-initiative/",
+      "verified": true,
+      "confidence": 1
+    },
+    {
+      "claim": "Digital Intelligence and Innovation (DI2) Accelerator와 협력",
+      "source": "https://source.washu.edu/2026/03/university-introduces-ai-academic-initiative/",
+      "verified": true,
+      "confidence": 1
+    }
+  ],
+  "flagged_sections": [],
+  "corrections_needed": [],
+  "scoring_details": {
+    "source_quality": 10,
+    "claim_verification": 10,
+    "context_accuracy": 9,
+    "language_clarity": 10
+  },
+  "recommendation": "게시 승인",
+  "reviewer_notes": "원문 기반 모든 주요 사실이 검증됨. 대학 공식 발표 자료를 기반으로 하여 신뢰도 높음. 기사의 구성과 해석이 우수함.",
+  "stage": "rejected",
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

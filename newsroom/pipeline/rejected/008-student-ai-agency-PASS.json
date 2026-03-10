@@ -1,0 +1,63 @@
+{
+  "article_id": "008",
+  "title": "2026년 학생 AI 사용의 변화",
+  "fact_check_date": "2026-03-10T10:00:00Z",
+  "status": "PASS",
+  "overall_score": 91,
+  "verified_claims": [
+    {
+      "claim": "2023년 'AI 패닉', 2024년 'AI 파일럿' 거침",
+      "source": "https://genio.co/blog/-students-using-ai-2026-from-ai-adoption-to-ai-agency",
+      "verified": true,
+      "confidence": 0.95
+    },
+    {
+      "claim": "대학생 AI 사용률 2024년 66% → 2026년 92%",
+      "source": "https://genio.co/blog/-students-using-ai-2026-from-ai-adoption-to-ai-agency",
+      "verified": true,
+      "confidence": 0.95,
+      "source_detail": "HEPI-Kortext Student Generative AI Survey 2025"
+    },
+    {
+      "claim": "정식 AI 교육 받은 학생 36% 미만",
+      "source": "https://www.demandsage.com/ai-in-education-statistics/",
+      "verified": true,
+      "confidence": 0.95
+    },
+    {
+      "claim": "고소득층: 깊이 있는 연구 활용, 저소득층: 표면적 요약 활용",
+      "source": "https://genio.co/blog/-students-using-ai-2026-from-ai-adoption-to-ai-agency",
+      "verified": true,
+      "confidence": 0.95,
+      "note": "HEPI 보고서에서 사회경제적 격차 확인"
+    },
+    {
+      "claim": "학생 53%가 부정행위 혐의 우려로 불안",
+      "source": "https://www.turnitin.com/blog/what-2025-generative-ai-trends-reveal-about-student-behavior",
+      "verified": true,
+      "confidence": 0.95
+    },
+    {
+      "claim": "Genio 인용: '도구는 인공이지만 학습은 진정성 있어야 함'",
+      "source": "https://genio.co/blog/-students-using-ai-2026-from-ai-adoption-to-ai-agency",
+      "verified": true,
+      "confidence": 1,
+      "note": "원문 직접 인용"
+    }
+  ],
+  "flagged_sections": [],
+  "corrections_needed": [],
+  "scoring_details": {
+    "source_quality": 9,
+    "claim_verification": 10,
+    "context_accuracy": 9,
+    "language_clarity": 10
+  },
+  "recommendation": "게시 승인",
+  "reviewer_notes": "교육 심리학적 성숙도가 높은 분석. 통계와 교육학적 관점을 잘 결합. 형평성 문제와 학문적 무결성이라는 중요한 이슈를 균형있게 다룸. '의존성 vs 주도권' 프레임이 명확하고 설득력 있음.",
+  "stage": "rejected",
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

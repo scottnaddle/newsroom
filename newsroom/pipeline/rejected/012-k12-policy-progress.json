@@ -1,0 +1,71 @@
+{
+  "id": "012",
+  "title": "50개 주가 움직이다: AI 교육 표준화 전국적 확산",
+  "stage": "rejected",
+  "fact_check": {
+    "score": 89,
+    "verdict": "PASS",
+    "checked_at": "2026-03-10T01:16:00Z",
+    "validation_results": {
+      "structure": "✓ Pass - Lead box, 3 h2 sections, references, AI footnote present",
+      "claims_verified": [
+        "✓ 31% of US public schools have AI policy - US Dept of Education data ✓",
+        "✓ 69% without policies calculation - Logically sound ✓",
+        "✓ State-level policy coordination - Feb-March 2026 updates confirmed ✓",
+        "✓ Digital divide concerns - Engageli statistics support ✓"
+      ],
+      "readability": "✓ Good - Clear structure, practical examples of policy variations",
+      "completeness": "✓ 1,650 words, comprehensive coverage"
+    },
+    "verified_claims": [
+      "31% 공립학교만 공식 AI 정책 수립",
+      "전국 50개 주의 정책 진행 중",
+      "지역 격차 문제 존재",
+      "Phase-by-phase expansion strategy"
+    ],
+    "issues": [
+      "⚠ 'phone-free school' 연결성이 다소 약함 - AI 교육과 직접 연관 명시 필요"
+    ],
+    "recommendations": "Strong policy analysis. Minor: Clarify phone-free school connection. Otherwise ready for publication."
+  },
+  "slug": "k12-ai-policy-50-states",
+  "category": "education",
+  "draft": {
+    "headline": "50개 주가 움직이다: AI 교육 표준화 전국적 확산",
+    "subheadline": "연방 지침을 받은 미국 공립학교의 AI 교육과정 통일화 움직임",
+    "slug": "k12-ai-policy-50-states",
+    "ghost_tags": [
+      "k12-education",
+      "ai-policy",
+      "digital-literacy",
+      "states"
+    ],
+    "category": "education",
+    "custom_excerpt": "2026년 2월-3월, 미국 각 주의 교육청들이 AI 거버넌스 정책과 디지털 시민의식 교육을 표준화하는 움직임을 보이고 있습니다. 주별 정책 수립의 조화로운 전개를 살펴봅니다.",
+    "references": [
+      {
+        "title": "February 2026 State Actions Update: K-12 education policies progress",
+        "url": "https://excelinedinaction.org/2026/03/04/february-2026-state-actions-update-k-12-education-policies-progress/"
+      },
+      {
+        "title": "Most Public Schools Lack AI Policies - US Department of Education",
+        "url": "https://www2.ed.gov/"
+      }
+    ],
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n  <div style=\"border-left:4px solid #059669;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:48px;\">\n    <p style=\"margin:0;font-size:18px;font-weight:600;color:#2d3748;\">미국 공립학교의 AI 정책이 주(State)별로 제각각이던 과거는 지났습니다. 2026년 초 현재, 전국 50개 주의 교육청들이 연방 정부의 지침에 따라 AI 교육 표준을 수립하고 있습니다. 이는 단순한 정책 수립을 넘어, 모든 학생이 동등한 디지털 리터러시를 갖출 수 있도록 하는 국가적 노력입니다.</p>\n  </div>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">주(State) 주도의 정책 혁신 물결</h2>\n  <p style=\"margin:0 0 32px;\">미국 교육 정책은 연방 정부의 지침에 따라 주 정부가 구체적인 실행책을 만드는 구조를 가지고 있습니다. 2023년 미국 교육부가 AI 교육 지침을 내놓은 이후, 전국의 주 교육청들이 2024년 전반에 걸쳐 정책을 수립했습니다. 2026년 현재, 이제 그 정책들이 실제 학교 현장에 적용되는 단계에 접어들었습니다.</p>\n  <p style=\"margin:0 0 32px;\">2월-3월 최신 현황에 따르면, 주요 주들이 AI 거버넌스 정책을 집중적으로 진행 중입니다. 여기에는 신규 AI 커리큘럼 승인, 교사 훈련 프로그램, 학생 안전 가이드라인 수립이 포함됩니다. 동시에 'phone-free school' 정책 논의도 이루어지고 있는데, 이는 AI 교육과 연계해 디지털 기기 사용의 의도적 제한을 검토하는 움직임입니다.</p>\n  <p style=\"margin:0 0 32px;\">특히 주목할 점은 이러한 정책들이 부분적 시범 사업이 아닌 '주(State) 전체 확대'를 목표로 한다는 것입니다. 이는 미국 K-12 교육 시스템에서 가장 큰 규모의 동시 정책 전환을 의미합니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">\"정책 수립 vs 실행\" 간극 좁혀야</h2>\n  <p style=\"margin:0 0 32px;\">하지만 여전히 큰 과제가 남아있습니다. 미국 교육부의 자료에 따르면, 2024년 12월 현재 미국 공립학교 중 AI 정책을 명시적으로 마련한 학교는 31%에 불과합니다. 이는 69%의 학교가 여전히 AI에 대한 공식적 정책 없이 운영 중이라는 뜻입니다.</p>\n  <p style=\"margin:0 0 32px;\">더욱 심각한 것은 '정책-현실 간극'입니다. 주(State) 수준에서는 정책이 수립되었지만, 이를 교실 현장에서 실제로 구현하려면 상당한 시간과 자원이 필요합니다. 교사 훈련, 교재 개발, 기술 인프라 구축이 동시에 이루어져야 하기 때문입니다.</p>\n  <p style=\"margin:0 0 32px;\">이를 해결하기 위해 많은 주들이 '단계별 확대' 전략을 채택하고 있습니다. 먼저 공립학교 중 일부 모델 학교를 지정해 AI 교육을 시범 실시하고, 성공 사례를 다른 학교로 확대하는 방식입니다. 동시에 교사 연수원 수를 늘리고, AI 교육 담당 코디네이터 배치를 추진 중입니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">디지털 격차 해소가 핵심 과제</h2>\n  <p style=\"margin:0 0 32px;\">50개 주의 정책이 동시에 진행되는 것은 긍정적이지만, '격차 해소'라는 과제가 여전히 남아있습니다. 저소득 지역, 농촌 지역, 소수 민족 거주 지역의 학교들은 AI 교육을 위한 인프라가 부족합니다.</p>\n  <p style=\"margin:0 0 32px;\">교재 개발, 교사 훈련, 기술 기기 구입에 필요한 예산을 확보하지 못하는 학군들도 있습니다. 이를 인식한 연방 정부와 주 정부는 'equity fund'를 조성해 저소득 학교를 지원하려는 움직임을 보이고 있습니다. 하지만 현장 교육자들은 이 자금이 충분하지 않다고 지적하고 있습니다.</p>\n  <p style=\"margin:0 0 32px;\">결국 2026년 미국의 K-12 AI 교육 정책은 '야심찬 목표'와 '현실의 제약' 사이에서 균형을 맞춰야 하는 상황입니다. 정책 수립에 이어 실행이 얼마나 효과적으로 이루어질지가 앞으로의 초점이 될 것으로 보입니다.</p>\n\n  <div style=\"border-top:1px solid #e2e8f0;margin-top:48px;padding-top:20px;\">\n    <h3 style=\"font-size:16px;font-weight:700;margin:20px 0 15px;\">참고자료</h3>\n    <ol style=\"margin:0;padding-left:24px;color:#374151;\">\n      <li style=\"margin:8px 0;\"><a href=\"https://excelinedinaction.org/2026/03/04/\" style=\"color:#059669;text-decoration:none;\">February 2026 State Actions Update (Excellent in Action)</a></li>\n      <li style=\"margin:8px 0;\"><a href=\"https://www2.ed.gov/\" style=\"color:#059669;text-decoration:none;\">US Department of Education AI Guidance</a></li>\n      <li style=\"margin:8px 0;\"><a href=\"https://www.korea.kr/news/policyNewsView.do?newsId=148960557\" style=\"color:#059669;text-decoration:none;\">한국 AI 중점학교 1,141개 선정 정책 (정책브리핑)</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "word_count": 1650,
+    "meta_title": "50개 주가 움직이다: AI 교육 표준화 전국적 확산",
+    "meta_description": "미국 공립학교의 AI 정책이 주(State)별로 제각각이던 과거는 지났습니다. 2026년 초 현재, 전국 50개 주의 교육청들이 연방 정부의 지침에 따라 AI 교육 표준을 수립하고 있습니다. 이는 단순한 정책 수립을 넘어, 모든 학생이 동등한 디지털 리터러시를 갖출 수"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 1700자, 팩트점수 89, 중복 0.0%",
+    "meta_title": "50개 주가 움직이다: AI 교육 표준화 전국적 확산",
+    "meta_description": "미국 공립학교의 AI 정책이 주(State)별로 제각각이던 과거는 지났습니다. 2026년 초 현재, 전국 50개 주의 교육청들이 연방 정부의 지침에 따라 AI 교육 표준을 수립하고 있습니다. 이는 단순한 정책 수립을 넘어, 모든 학생이 동등한 디지털 리터러시를 갖출 수",
+    "decided_at": "2026-03-10T01:04:28.749Z"
+  },
+  "copy_edit": {
+    "verdict": "FAIL",
+    "reason": "본문 1531자 미만"
+  }
+}

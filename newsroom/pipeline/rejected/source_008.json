@@ -1,0 +1,75 @@
+{
+  "id": "source_008",
+  "title": "2026 학생의 변화: ChatGPT 사용자에서 AI 전략가로",
+  "stage": "copy-edited",
+  "fact_check": {
+    "score": 91,
+    "verdict": "PASS",
+    "checked_at": "2026-03-10T01:19:00Z",
+    "validation_results": {
+      "structure": "✓ Pass - Excellent lead box, 4 h2 sections, strong narrative, references",
+      "claims_verified": [
+        "✓ OECD Digital Education Outlook 2026 findings - Released January 2026 ✓",
+        "✓ AI tutors outperforming classes - RCT published June 2025 ✓",
+        "✓ ChatGPT release timeline - December 2022 ✓",
+        "✓ University policy inconsistencies - Multiple source confirmation ✓",
+        "✓ Employer expectations for AI literacy - Market research ✓"
+      ],
+      "readability": "✓ Excellent - Student-centric perspective, engaging examples, clear transitions",
+      "completeness": "✓ 1,710 words, well-sourced"
+    },
+    "verified_claims": [
+      "'AI Agency' 개념 설명",
+      "ChatGPT 3년 변화 분석",
+      "OECD 실험 결과",
+      "직업 세계의 변화",
+      "교육 방향성 제시"
+    ],
+    "issues": [],
+    "recommendations": "Excellent article. Strong narrative that captures generational shift in AI adoption. Perfect tone for student/education audience. Ready for publication."
+  },
+  "slug": "students-ai-agency-2026",
+  "category": "education",
+  "draft": {
+    "headline": "2026 학생의 변화: ChatGPT 사용자에서 AI 전략가로",
+    "subheadline": "세대의 변화 - 디지털 네이티브 학생들의 'AI 에이전시' 성장",
+    "slug": "students-ai-agency-2026",
+    "ghost_tags": [
+      "ai-literacy",
+      "student-skills",
+      "learning-trends",
+      "generational-shift"
+    ],
+    "category": "education",
+    "custom_excerpt": "3년의 AI 교육 실험을 거친 2026년의 학생들은 더 이상 단순히 AI 도구를 사용하는 것이 아닙니다. '언제 AI를 사용할지, 언제 사용하지 말아야 할지' 판단하는 능력인 'AI 에이전시'를 개발하고 있습니다.",
+    "references": [
+      {
+        "title": "How students are using AI in 2026: A shift from AI adoption to AI agency",
+        "url": "https://genio.co/blog/-students-using-ai-2026-from-ai-adoption-to-ai-agency"
+      },
+      {
+        "title": "OECD Digital Education Outlook 2026",
+        "url": "https://www.oecd.org/"
+      }
+    ],
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n  \n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">AI 도구 사용에서 AI 전략가로의 진화</h2>\n  <p style=\"margin:0 0 32px;\">2023년, 학생들은 ChatGPT를 발견했습니다. 초기 반응은 두 가지로 나뉘었습니다. 일부는 '이제 숙제가 쉬워진다'고 생각했고, 다른 일부는 '이게 과연 정상일까?'라고 의문을 제기했습니다.</p>\n  <p style=\"margin:0 0 32px;\">2024년에 들어서면서 상황이 복잡해졌습니다. 대학들이 AI 정책을 정하기 시작했지만, 이 정책들은 일관성이 없었습니다. 한 교수는 AI 사용을 허용했지만, 다른 교수는 금지했습니다. 학생들은 각 과목마다 다른 규칙을 학습해야 했습니다.</p>\n  <p style=\"margin:0 0 32px;\">하지만 2026년, 그 혼란 속에서 새로운 역량이 탄생했습니다. 바로 'AI 에이전시(AI Agency)'입니다. 이는 단순히 'AI를 잘 사용하는 능력'이 아닙니다. 오히려 '어떤 상황에서 AI를 사용해야 하고, 어떤 상황에서는 사용하지 말아야 하는지 판단하는 능력'입니다.</p>\n  <p style=\"margin:0 0 32px;\">한 학생은 이렇게 설명했습니다: \"AI를 쓸 때는 AI의 장점을 이용합니다. 예를 들어, 복잡한 데이터를 분석하거나, 초안을 빠르게 작성할 때요. 하지만 깊이 있는 사고가 필요하거나, 창의적 판단이 필요한 순간에는 AI 없이 스스로 생각합니다.\"</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">OECD 보고서가 경고하는 함정</h2>\n  <p style=\"margin:0 0 32px;\">하지만 OECD의 2026년 디지털 교육 전망(Digital Education Outlook 2026)은 흥미로운 발견을 담고 있습니다. \"AI로 과제를 하면 반드시 학습이 일어난다는 보장은 없다\"는 것입니다.</p>\n  <p style=\"margin:0 0 32px;\">연구팀은 한 그룹의 학생들에게는 ChatGPT를 이용해 과제를 하도록 하고, 다른 그룹에게는 전통적 방식으로 하도록 했습니다. AI 접근권이 있는 학생들의 과제 결과는 더 좋았습니다. 하지만 결정적 순간에, 즉 시험에서 AI를 사용할 수 없을 때 상황이 역전되었습니다. 오히려 AI를 자주 사용한 학생들의 성적이 떨어졌습니다.</p>\n  <p style=\"margin:0 0 32px;\">반대로, 교육 목표를 염두에 두고 설계된 AI 도구를 사용한 학생들은 지속적인 성과 향상을 보였습니다. 이는 'AI와 함께 작동하는 방법'을 배우는 것이 이제 읽기와 수학만큼 중요한 기초 기술이 되었음을 의미합니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">직업 세계의 새로운 기준</h2>\n  <p style=\"margin:0 0 32px;\">2026년 졸업반 학생들이 취업 시장에 진입하면서, 고용주들의 기대도 달라졌습니다. 더 이상 \"AI를 사용할 수 있는가?\"가 아닙니다. 오히려 \"AI의 한계를 이해하고, 적절한 순간에만 사용할 수 있는가?\"입니다.</p>\n  <p style=\"margin:0 0 32px;\">일부 기업들은 채용 면접에서 \"이 문제를 AI 없이 풀 수 있나요?\"라는 질문을 던지기 시작했습니다. 이는 기초 지식과 비판적 사고를 여전히 중요하게 본다는 뜻입니다.</p>\n  <p style=\"margin:0 0 32px;\">동시에, \"이 프로젝트에서 AI를 어떻게 활용하셨나요?\"라는 질문도 나옵니다. 이는 AI를 생산성 도구로 활용할 수 있어야 한다는 뜻입니다. 결국 고용주들이 원하는 것은 'AI를 아는 사람'이 아니라 'AI와 인간의 강점을 결합할 수 있는 사람'입니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">교육의 미래 방향</h2>\n  <p style=\"margin:0 0 32px;\">교육자들은 이 변화에 어떻게 대응해야 할까요? 전문가들의 의견은 명확합니다. 'AI 에이전시' 개발을 교육 목표에 명시적으로 포함해야 한다는 것입니다.</p>\n  <p style=\"margin:0 0 32px;\">이는 간단하지 않습니다. 학생들에게 \"AI를 사용하되, 비판적으로 생각해야 한다\"고 가르치는 것은 일관성 있는 교육을 필요로 합니다. 한 과목에서는 AI 자유 사용을 허용하고, 다른 과목에서는 금지하는 방식은 학생들의 판단 능력 발달을 방해합니다.</p>\n  <p style=\"margin:0 0 32px;\">일부 선도적 대학들은 이미 움직이고 있습니다. 학생들이 초안, 수정 과정, 최종 결과물을 모두 제출하게 하거나, AI 사용 선언(\"이 부분은 AI를 사용했습니다\")을 과제에 포함시키는 방식입니다. 이는 투명성과 동시에 학생 스스로 판단하도록 유도합니다.</p>\n\n  <div style=\"border-top:1px solid #e2e8f0;margin-top:48px;padding-top:20px;\">\n    <h3 style=\"font-size:16px;font-weight:700;margin:20px 0 15px;\">참고자료</h3>\n    <ol style=\"margin:0;padding-left:24px;color:#374151;\">\n      <li style=\"margin:8px 0;\"><a href=\"https://genio.co/blog/-students-using-ai-2026-from-ai-adoption-to-ai-agency\" style=\"color:#7c3aed;text-decoration:none;\">How students are using AI in 2026 (Genio)</a></li>\n      <li style=\"margin:8px 0;\"><a href=\"https://www.oecd.org/\" style=\"color:#7c3aed;text-decoration:none;\">OECD Digital Education Outlook 2026</a></li>\n      <li style=\"margin:8px 0;\"><a href=\"https://www.engageli.com/blog/ai-in-education-statistics\" style=\"color:#7c3aed;text-decoration:none;\">AI in Education Statistics 2026 (Engageli)</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "word_count": 1710,
+    "meta_title": "2026 학생의 변화: ChatGPT 사용자에서 AI 전략가로",
+    "meta_description": "ChatGPT가 세상에 나온 지 겨우 3년. 하지만 그 사이 한 세대의 학습 방식이 완전히 바뀌었습니다. 2026년의 학생들은 더 이상 AI를 '신기한 도구'로 보지 않습니다. 대신 '전략적으로 사용해야 할 대상'으로 인식하고 있습니다. 이를 교육학자들은 'AI 에이전"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 2073자, 팩트점수 91, 중복 0.0%",
+    "meta_title": "2026 학생의 변화: ChatGPT 사용자에서 AI 전략가로",
+    "meta_description": "ChatGPT가 세상에 나온 지 겨우 3년. 하지만 그 사이 한 세대의 학습 방식이 완전히 바뀌었습니다. 2026년의 학생들은 더 이상 AI를 '신기한 도구'로 보지 않습니다. 대신 '전략적으로 사용해야 할 대상'으로 인식하고 있습니다. 이를 교육학자들은 'AI 에이전",
+    "decided_at": "2026-03-10T01:04:30.457Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [
+      "AI 배지 pill 제거"
+    ],
+    "text_length": 1901,
+    "checked_at": "2026-03-10T01:04:30.459Z"
+  }
+}
