@@ -782,3 +782,63 @@
 [2026-03-10T00:13:15.472Z] [INFO] 처리할 기사 없음
 [2026-03-10T00:13:38.773Z] [INFO] Pipeline Runner 시작
 [2026-03-10T00:13:38.775Z] [INFO] 처리할 기사 없음
+[2026-03-10T00:33:49.784Z] [INFO] Pipeline Runner 시작
+[2026-03-10T00:33:49.788Z] [INFO] 처리 대상: 5개 기사
+[2026-03-10T00:33:49.788Z] [INFO] === 기사: 006-us-ai-education-bill.json (from: 05-fact-checked) ===
+[2026-03-10T00:33:49.789Z] [INFO] [Stage4:에디터] 006-us-ai-education-bill.json
+[2026-03-10T00:33:49.790Z] [WARN] [Stage4] 본문 1439자 미만 -> rejected: 006-us-ai-education-bill.json
+[2026-03-10T00:33:49.790Z] [INFO] === 기사: 007-ai-agency-2026.json (from: 05-fact-checked) ===
+[2026-03-10T00:33:49.790Z] [INFO] [Stage4:에디터] 007-ai-agency-2026.json
+[2026-03-10T00:33:49.791Z] [WARN] [Stage4] 본문 1478자 미만 -> rejected: 007-ai-agency-2026.json
+[2026-03-10T00:33:49.791Z] [INFO] === 기사: 008-college-ai-rules.json (from: 05-fact-checked) ===
+[2026-03-10T00:33:49.791Z] [INFO] [Stage4:에디터] 008-college-ai-rules.json
+[2026-03-10T00:33:49.791Z] [WARN] [Stage4] 본문 1595자 미만 -> rejected: 008-college-ai-rules.json
+[2026-03-10T00:33:49.791Z] [INFO] === 기사: 009-liberal-arts-ai.json (from: 05-fact-checked) ===
+[2026-03-10T00:33:49.792Z] [INFO] [Stage4:에디터] 009-liberal-arts-ai.json
+[2026-03-10T00:33:49.792Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 009-liberal-arts-ai.json
+[2026-03-10T00:33:49.792Z] [INFO] [Stage5:교열] 009-liberal-arts-ai.json
+[2026-03-10T00:33:49.793Z] [WARN] [Stage5] 본문 1421자 미만 -> rejected: 009-liberal-arts-ai.json
+[2026-03-10T00:33:49.794Z] [INFO] === 기사: 010-higher-ed-disruption.json (from: 05-fact-checked) ===
+[2026-03-10T00:33:49.794Z] [INFO] [Stage4:에디터] 010-higher-ed-disruption.json
+[2026-03-10T00:33:49.795Z] [WARN] [Stage4] 본문 1525자 미만 -> rejected: 010-higher-ed-disruption.json
+[2026-03-10T00:33:49.795Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-10T00:33:49.795Z] [INFO] Published: 0, Rejected: 5, Error: 0
+[2026-03-10T00:34:15.072Z] [INFO] Pipeline Runner 시작
+[2026-03-10T00:34:15.075Z] [INFO] 처리 대상: 5개 기사
+[2026-03-10T00:34:15.075Z] [INFO] === 기사: 006-us-ai-education-bill.json (from: 05-fact-checked) ===
+[2026-03-10T00:34:15.076Z] [INFO] [Stage4:에디터] 006-us-ai-education-bill.json
+[2026-03-10T00:34:15.077Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 006-us-ai-education-bill.json
+[2026-03-10T00:34:15.077Z] [INFO] [Stage5:교열] 006-us-ai-education-bill.json
+[2026-03-10T00:34:15.079Z] [OK] [Stage5:교열] PASS (1641자, 1 changes) -> 07-copy-edited/: 006-us-ai-education-bill.json
+[2026-03-10T00:34:15.080Z] [INFO] [Stage6:발행] 006-us-ai-education-bill.json
+[2026-03-10T00:34:16.986Z] [ERROR] [Stage6] 발행 실패 (exit 1): 006-us-ai-education-bill.json
+[2026-03-10T00:34:16.986Z] [INFO] === 기사: 007-ai-agency-2026.json (from: 05-fact-checked) ===
+[2026-03-10T00:34:16.986Z] [INFO] [Stage4:에디터] 007-ai-agency-2026.json
+[2026-03-10T00:34:16.987Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 007-ai-agency-2026.json
+[2026-03-10T00:34:16.987Z] [INFO] [Stage5:교열] 007-ai-agency-2026.json
+[2026-03-10T00:34:16.989Z] [OK] [Stage5:교열] PASS (1702자, 1 changes) -> 07-copy-edited/: 007-ai-agency-2026.json
+[2026-03-10T00:34:16.989Z] [INFO] [Stage6:발행] 007-ai-agency-2026.json
+[2026-03-10T00:34:17.830Z] [ERROR] [Stage6] 발행 실패 (exit 1): 007-ai-agency-2026.json
+[2026-03-10T00:34:17.831Z] [INFO] === 기사: 008-college-ai-rules.json (from: 05-fact-checked) ===
+[2026-03-10T00:34:17.831Z] [INFO] [Stage4:에디터] 008-college-ai-rules.json
+[2026-03-10T00:34:17.831Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 008-college-ai-rules.json
+[2026-03-10T00:34:17.832Z] [INFO] [Stage5:교열] 008-college-ai-rules.json
+[2026-03-10T00:34:17.832Z] [OK] [Stage5:교열] PASS (1797자, 1 changes) -> 07-copy-edited/: 008-college-ai-rules.json
+[2026-03-10T00:34:17.832Z] [INFO] [Stage6:발행] 008-college-ai-rules.json
+[2026-03-10T00:34:18.665Z] [ERROR] [Stage6] 발행 실패 (exit 1): 008-college-ai-rules.json
+[2026-03-10T00:34:18.665Z] [INFO] === 기사: 009-liberal-arts-ai.json (from: 05-fact-checked) ===
+[2026-03-10T00:34:18.665Z] [INFO] [Stage4:에디터] 009-liberal-arts-ai.json
+[2026-03-10T00:34:18.666Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 009-liberal-arts-ai.json
+[2026-03-10T00:34:18.666Z] [INFO] [Stage5:교열] 009-liberal-arts-ai.json
+[2026-03-10T00:34:18.667Z] [OK] [Stage5:교열] PASS (1808자, 1 changes) -> 07-copy-edited/: 009-liberal-arts-ai.json
+[2026-03-10T00:34:18.667Z] [INFO] [Stage6:발행] 009-liberal-arts-ai.json
+[2026-03-10T00:34:19.491Z] [ERROR] [Stage6] 발행 실패 (exit 1): 009-liberal-arts-ai.json
+[2026-03-10T00:34:19.492Z] [INFO] === 기사: 010-higher-ed-disruption.json (from: 05-fact-checked) ===
+[2026-03-10T00:34:19.492Z] [INFO] [Stage4:에디터] 010-higher-ed-disruption.json
+[2026-03-10T00:34:19.493Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: 010-higher-ed-disruption.json
+[2026-03-10T00:34:19.493Z] [INFO] [Stage5:교열] 010-higher-ed-disruption.json
+[2026-03-10T00:34:19.494Z] [OK] [Stage5:교열] PASS (1735자, 1 changes) -> 07-copy-edited/: 010-higher-ed-disruption.json
+[2026-03-10T00:34:19.494Z] [INFO] [Stage6:발행] 010-higher-ed-disruption.json
+[2026-03-10T00:34:20.346Z] [ERROR] [Stage6] 발행 실패 (exit 1): 010-higher-ed-disruption.json
+[2026-03-10T00:34:20.346Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-10T00:34:20.346Z] [INFO] Published: 0, Rejected: 0, Error: 5
