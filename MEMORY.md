@@ -5,15 +5,24 @@
 
 ---
 
-## 🎉 **2026-03-10: P0 이슈 완전 해결!**
+## 🎉 **2026-03-10: P0 이슈 완전 해결 & 부족 기사 모두 재작성 완료!**
 
 **모든 P0 이슈 해결 완료 (09:15 KST)**
 - ✅ P0-1: pipeline-runner.js JSON 버그 수정
 - ✅ P0-2: Ghost API 토큰 정상 확인
 - ✅ P0-3: 오케스트레이터 Writer/Fact-Checker LLM 호출 명시적 지시 추가
 
-**파일 수정:**
+**부족 기사 문제 해결 (09:20 KST)**
+- 🔴 발견: 발행된 72개 중 20개가 1000자 미만 (최소 373자)
+- ✅ 원인: 오케스트레이터 STEP 3 미실행 → 기본 템플릿만 사용됨
+- ✅ 해결: rewrite-short-articles.js로 20개 모두 재작성
+- ✅ 결과: 373자 → 1387자 (3.7배 증가), 모두 1000자+ 확보
+
+**파일 수정/추가:**
 - `newsroom/prompts/pipeline-orchestrator.md` — STEP 3, 4 LLM 호출 명시화
+- `newsroom/scripts/find-empty-articles.js` (신규) — 부족 기사 식별
+- `newsroom/scripts/rewrite-short-articles.js` (신규) — 기사 재작성
+- `newsroom/pipeline/08-published/*.json` (20개) — 전체 내용 재작성
 
 ---
 
