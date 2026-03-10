@@ -1,0 +1,54 @@
+# Environment & Sensitive
+.env
+.env.local
+*.pem
+*.key
+
+# API Keys & Secrets
+newsroom/shared/config/ghost.json
+newsroom/shared/config/llm-keys.json
+TOOLS.md
+
+# Dependencies
+node_modules/
+package-lock.json
+package.json
+
+# Temporary & Build
+newsroom/pipeline/tmp/
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Generated Files (logs, cache)
+newsroom/pipeline/pipeline-runner.log
+newsroom/pipeline/memory/collector-state.json
+newsroom/pipeline/memory/published-titles.json
+newsroom/pipeline/memory/recent-items.json
+newsroom/pipeline/memory/used-images.json
+newsroom/pipeline/digest/recent-urls.json
+
+# Runtime State (keep structure, not files)
+newsroom/pipeline/01-sourced/*.json
+newsroom/pipeline/02-assigned/*.json
+newsroom/pipeline/03-reported/*.json
+newsroom/pipeline/04-drafted/*.json
+newsroom/pipeline/05-fact-checked/*.json
+newsroom/pipeline/06-desk-approved/*.json
+newsroom/pipeline/07-copy-edited/*.json
+
+# But keep example/template files
+!newsroom/pipeline/*/example.json
+!newsroom/pipeline/*/.gitkeep
+
+# Keep published articles for reference (first 10)
+!newsroom/pipeline/08-published/2026-03-02*.json
+!newsroom/pipeline/08-published/2026-03-03*.json
