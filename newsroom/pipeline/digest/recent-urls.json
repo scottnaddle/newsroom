@@ -1,74 +1,42 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/cq571w5vllxo",
-    "collected_at": "2026-03-10T09:05:00Z"
-  },
-  {
-    "url": "https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/",
-    "collected_at": "2026-03-10T09:05:00Z"
-  },
-  {
-    "url": "https://www.theguardian.com/technology/2026/mar/07/anthropic-claude-ai-pentagon-us-military",
-    "collected_at": "2026-03-10T09:05:00Z"
-  },
-  {
-    "url": "https://www.reuters.com/technology/artificial-intelligence/",
-    "collected_at": "2026-03-10T08:06:00Z"
-  },
-  {
-    "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
-    "collected_at": "2026-03-10T08:06:00Z"
+    "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+    "collected_at": "2026-03-10T13:06:00Z"
   },
   {
     "url": "https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments",
-    "collected_at": "2026-03-10T07:03:42Z"
+    "collected_at": "2026-03-10T13:06:00Z"
   },
   {
-    "url": "https://www.theguardian.com/technology/2026/mar/08/block-ai-layoffs-jack-dorsey",
-    "collected_at": "2026-03-10T07:03:42Z"
+    "url": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+    "collected_at": "2026-03-10T13:06:00Z"
   },
   {
-    "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/broadcom-s-ai-ambition-record-quarter-fuels-a-100-billion-forecast/68651250",
-    "collected_at": "2026-03-09T21:00:00+09:00"
-  },
-  {
-    "url": "https://www.storyboard18.com/digital/amazon-google-microsoft-urged-by-700000-us-tech-workers-to-reject-pentagon-push-to-remove-ai-safety-guardrails-91548.htm",
-    "collected_at": "2026-03-09T16:04:00+09:00"
-  },
-  {
-    "url": "https://apnews.com/article/china-five-year-plan-technology-economy-7face4580fcfba44410ff2134a09d6bb",
-    "collected_at": "2026-03-09T16:04:00+09:00"
-  },
-  {
-    "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/chinas-jiangsu-province-focuses-on-ai-innovation-amid-xi-jinpings-call-for-tech-leadership/129259855",
-    "collected_at": "2026-03-09T16:04:00+09:00"
-  },
-  {
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/christopher-wood-sees-anthropic-as-the-standout-player-in-evolving-ai-landscape/articleshow/129310983.cms",
-    "collected_at": "2026-03-09T16:04:00+09:00"
-  },
-  {
-    "url": "https://en.yna.co.kr/view/AEN20260309001000320",
-    "collected_at": "2026-03-09T15:02:00+09:00"
-  },
-  {
-    "url": "https://www.filmogaz.com/183575",
-    "collected_at": "2026-03-09T15:02:00+09:00"
-  },
-  {
-    "url": "https://www.digitimes.com/news/a20260309VL200/digitimes-asia-weekly-news-roundup-tsmc-investigation-memory-price.html",
-    "collected_at": "2026-03-09T15:02:00+09:00"
-  },
-  {
-    "url": "https://www.digitimes.com/news/a20260306PD223/samsung-2nm-hbm-revenue-growth.html",
-    "collected_at": "2026-03-09T15:02:00+09:00"
+    "url": "https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/",
+    "collected_at": "2026-03-10T13:06:00Z"
   },
   {
     "url": "https://www.storyboard18.com/digital/us-plans-strict-ai-contract-rules-requiring-any-lawful-use-access-for-government-91541.htm",
-    "collected_at": "2026-03-09T14:02:00+09:00"
+    "collected_at": "2026-03-10T13:06:00Z"
   },
   {
-    "url": "https://theoutpost.ai/news-story/us-government-drafts-strict-new-ai-guidelines-as-pentagon-designates-anthropic-supply-chain-risk-24367/",
-    "collected_at": "2026-03-09T14:02:00+09:00"
+    "url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
+    "collected_at": "2026-03-10T12:04:00Z"
+  },
+  {
+    "url": "https://www.reuters.com/world/anthropic-sues-block-pentagon-blacklisting-over-ai-use-restrictions-2026-03-09/",
+    "collected_at": "2026-03-10T12:04:00Z"
+  },
+  {
+    "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+    "collected_at": "2026-03-10T12:04:00Z"
+  },
+  {
+    "url": "https://www.reuters.com/technology/",
+    "collected_at": "2026-03-10T11:03:00Z"
+  },
+  {
+    "url": "https://www.reuters.com/technology/artificial-intelligence/",
+    "collected_at": "2026-03-10T11:03:00Z"
   }
 ]

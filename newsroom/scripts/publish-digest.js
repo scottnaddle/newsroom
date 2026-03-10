@@ -1,268 +1,200 @@
 #!/usr/bin/env node
-/**
- * Digest Publisher — Ghost에 AI Digest 발행
- * 
- * 1. 02-drafted/ 폴더의 모든 파일 로드
- * 2. 각 파일을 Ghost Admin API로 published 상태로 발행
- * 3. 결과를 03-published/에 저장
- * 4. 처리 완료 파일을 02-drafted/에서 삭제
- */
 
 const fs = require('fs');
 const path = require('path');
-const crypto = require('crypto');
-const https = require('https');
+const axios = require('axios');
 const { getFeatureImageUrl } = require('./get-feature-image.js');
 
-const WORKSPACE = '/root/.openclaw/workspace/newsroom';
-const DRAFTED_DIR = path.join(WORKSPACE, 'pipeline/digest/02-drafted');
-const PUBLISHED_DIR = path.join(WORKSPACE, 'pipeline/digest/03-published');
-const REJECTED_DIR = path.join(WORKSPACE, 'pipeline/digest/rejected');
-const CONFIG_FILE = path.join(WORKSPACE, 'shared/config/ghost.json');
-const USED_IMAGES_FILE = path.join(WORKSPACE, 'shared/config/used-images.json');
+// 상수
+const DRAFTED_DIR = '/root/.openclaw/workspace/newsroom/pipeline/digest/02-drafted';
+const PUBLISHED_DIR = '/root/.openclaw/workspace/newsroom/pipeline/digest/03-published';
+const REJECTED_DIR = '/root/.openclaw/workspace/newsroom/pipeline/digest/rejected';
 
-// Ghost 설정
-const config = JSON.parse(fs.readFileSync(CONFIG_FILE, 'utf8'));
-const API_URL = 'https://insight.ubion.global/ghost/api/admin';
+const GHOST_API_KEY = '69af698cff4fbf0001ab7d9f:59af7140e7ddf74f49773a495950508b92655d6ab67126215313e800c660b95c';
+const GHOST_URL = 'https://insight.ubion.global';
+const GHOST_API_URL = `${GHOST_URL}/ghost/api/admin/posts/?source=html`;
 const AI_DIGEST_TAG_ID = '69a78cc8659ea80001153beb';
 
-// JWT 생성
-function createGhostJWT() {
-  const [kid, secret] = config.adminApiKey.split(':');
-  const header = Buffer.from(JSON.stringify({ alg: 'HS256', typ: 'JWT', kid })).toString('base64url');
+// JWT 토큰 생성 (Ghost Admin API - 기존 스크립트 방식)
+function generateJWT() {
+  const crypto = require('crypto');
+  const [id, secret] = GHOST_API_KEY.split(':');
+  
+  const header = Buffer.from(JSON.stringify({
+    alg: 'HS256',
+    typ: 'JWT',
+    kid: id
+  })).toString('base64url');
+
   const now = Math.floor(Date.now() / 1000);
-  const payload = Buffer.from(JSON.stringify({ iat: now, exp: now + 300, aud: '/admin/' })).toString('base64url');
-  const signature = crypto.createHmac('sha256', Buffer.from(secret, 'hex')).update(header + '.' + payload).digest('base64url');
-  return header + '.' + payload + '.' + signature;
+  const payload = Buffer.from(JSON.stringify({
+    iat: now,
+    exp: now + 300,
+    aud: '/admin/'
+  })).toString('base64url');
+
+  const sig = crypto
+    .createHmac('sha256', Buffer.from(secret, 'hex'))
+    .update(header + '.' + payload)
+    .digest('base64url');
+
+  return header + '.' + payload + '.' + sig;
 }
 
-// Ghost API 호출 (with retry)
-async function callGhostAPI(method, endpoint, body, retries = 3) {
-  return new Promise((resolve, reject) => {
-    const attempt = (remaining) => {
-      const token = createGhostJWT();
-      const url = new URL(API_URL + endpoint);
+// Ghost API POST 요청 (axios - 자동 리다이렉트)
+async function postToGhost(data) {
+  const token = generateJWT();
+  
+  try {
+    const response = await axios.post(GHOST_API_URL, data, {
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Ghost ${token}`
+      },
+      maxRedirects: 5  // 리다이렉트 자동 처리
+    });
+    
+    return { status: response.status, data: response.data };
+  } catch (error) {
+    if (error.response) {
+      throw new Error(`HTTP ${error.response.status}: ${JSON.stringify(error.response.data).substring(0, 200)}`);
+    }
+    throw error;
+  }
+}
+
+// 디렉토리 생성
+function ensureDir(dir) {
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
+  }
+}
+
+// 메인 함수
+async function publishDigests() {
+  ensureDir(PUBLISHED_DIR);
+  ensureDir(REJECTED_DIR);
+
+  const files = fs.readdirSync(DRAFTED_DIR).filter(f => f.endsWith('.json'));
+  const results = { success: [], failed: [] };
+
+  for (const filename of files) {
+    const filePath = path.join(DRAFTED_DIR, filename);
+    try {
+      const content = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+      const digest = content.digest;
       
-      const options = {
-        hostname: url.hostname,
-        path: url.pathname + url.search,
-        method,
-        headers: {
-          'Authorization': `Ghost ${token}`,
-          'Content-Type': 'application/json',
-        },
+      // feature_image URL 생성
+      const featureImageUrl = getFeatureImageUrl({
+        headline: digest.headline,
+        tags: digest.ghost_tags,
+        recentIdsFile: '/tmp/used-images.json'
+      });
+
+      // Ghost API 요청 바디
+      const ghostPayload = {
+        posts: [{
+          title: digest.headline,
+          html: digest.html,
+          feature_image: featureImageUrl,
+          status: 'published',
+          tags: digest.ghost_tags.map(tag => tag === 'ai-digest' ? { id: AI_DIGEST_TAG_ID } : { name: tag }),
+          meta_title: digest.meta_title,
+          meta_description: digest.meta_description
+        }]
       };
 
-      const req = https.request(options, (res) => {
-        let data = '';
-        res.on('data', chunk => data += chunk);
-        res.on('end', () => {
-          try {
-            if (res.statusCode >= 400) {
-              console.error(`❌ Ghost API Error [${res.statusCode}]:`, data);
-              if (remaining > 0) {
-                console.log(`   ⏳ Retrying in 5s (${remaining} left)...`);
-                setTimeout(() => attempt(remaining - 1), 5000);
-              } else {
-                reject(new Error(`Ghost API Error [${res.statusCode}]: ${data}`));
-              }
-            } else {
-              resolve(JSON.parse(data));
-            }
-          } catch (e) {
-            reject(e);
-          }
-        });
-      });
+      console.log(`📤 발행 시작: ${filename}...`);
+      const response = await postToGhost(ghostPayload);
 
-      req.on('error', (err) => {
-        if (remaining > 0) {
-          console.log(`   ⏳ Request failed, retrying in 5s (${remaining} left)...`);
-          setTimeout(() => attempt(remaining - 1), 5000);
-        } else {
-          reject(err);
-        }
-      });
-
-      if (body) req.write(JSON.stringify(body));
-      req.end();
-    };
-    attempt(retries);
-  });
-}
-
-// Ghost slug 생성 (영문 제목 기반)
-function generateSlug(headline) {
-  // 영문 제목이 없으면 한글 제목 사용
-  return headline
-    .toLowerCase()
-    .replace(/[^a-z0-9가-힣\s]/g, '')
-    .trim()
-    .replace(/\s+/g, '-')
-    .substring(0, 60);
-}
-
-// Digest 발행
-async function publishDigest(digestFile) {
-  const filename = path.basename(digestFile);
-  console.log(`\n📄 Processing: ${filename}`);
-
-  try {
-    const data = JSON.parse(fs.readFileSync(digestFile, 'utf8'));
-    const { digest, source } = data;
-
-    // Feature image 생성
-    const featureUrl = getFeatureImageUrl({
-      headline: digest.headline,
-      tags: digest.ghost_tags,
-      recentIdsFile: USED_IMAGES_FILE,
-    });
-
-    // Ghost 태그 배열 생성 (ai-digest 필수 + 추가 태그)
-    const ghostTags = [{ id: AI_DIGEST_TAG_ID }];
-    const additionalTags = (digest.ghost_tags || [])
-      .filter(tag => tag !== 'ai-digest')
-      .map(tag => ({ name: tag }));
-    ghostTags.push(...additionalTags);
-
-    // Ghost POST 데이터
-    const postData = {
-      posts: [{
-        title: digest.headline,
-        html: digest.html,
-        status: 'published',
-        featured: false,
-        tags: ghostTags,
-        meta_title: digest.meta_title,
-        meta_description: digest.meta_description,
-        feature_image: featureUrl,
-        codeinjection_foot: '',
-      }]
-    };
-
-    console.log(`  📝 Title: ${digest.headline}`);
-    console.log(`  🏷️  Tags: ${digest.ghost_tags.join(', ')}`);
-    console.log(`  📸 Feature Image: ${featureUrl}`);
-
-    // Ghost에 발행
-    const response = await callGhostAPI('POST', '/posts/?source=html', postData);
-    const post = response.posts[0];
-
-    const publishResult = {
-      ghost_post_id: post.id,
-      ghost_url: `https://insight.ubion.global/ghost/#/editor/post/${post.id}`,
-      public_url: `https://insight.ubion.global/${post.slug}/`,
-      status: 'published',
-      published_at: new Date().toISOString(),
-    };
-
-    console.log(`  ✅ Published: ${publishResult.public_url}`);
-
-    // 결과 저장 (03-published)
-    const publishedData = {
-      ...data,
-      stage: 'published',
-      publish_result: publishResult,
-      audit_log: [
-        ...(data.audit_log || []),
-        {
+      if (response.status >= 200 && response.status < 300 && response.data.posts && response.data.posts[0]) {
+        const post = response.data.posts[0];
+        
+        // 성공 파일 저장
+        content.publish_result = {
+          ghost_post_id: post.id,
+          ghost_url: post.url,
+          published_at: new Date().toISOString()
+        };
+        content.stage = 'published';
+        content.audit_log.push({
           agent: 'digest-publisher',
           action: 'published',
-          timestamp: new Date().toISOString(),
-        }
-      ]
-    };
+          timestamp: new Date().toISOString()
+        });
 
-    const outputFile = path.join(PUBLISHED_DIR, filename);
-    fs.writeFileSync(outputFile, JSON.stringify(publishedData, null, 2));
-    console.log(`  💾 Saved: ${filename}`);
-
-    // 원본 파일 삭제
-    fs.unlinkSync(digestFile);
-    console.log(`  🗑️  Removed from 02-drafted`);
-
-    return { success: true, file: filename, url: publishResult.public_url };
-  } catch (error) {
-    console.error(`  ❌ Failed: ${error.message}`);
-
-    // 실패 파일을 rejected/ 로 이동
-    const rejectedFile = path.join(REJECTED_DIR, path.basename(digestFile));
-    const data = JSON.parse(fs.readFileSync(digestFile, 'utf8'));
-    data.stage = 'rejected';
-    data.rejection_reason = error.message;
-    data.rejected_at = new Date().toISOString();
-    data.audit_log = [
-      ...(data.audit_log || []),
-      {
-        agent: 'digest-publisher',
-        action: 'rejected',
-        reason: error.message,
-        timestamp: new Date().toISOString(),
+        const publishedPath = path.join(PUBLISHED_DIR, filename);
+        fs.writeFileSync(publishedPath, JSON.stringify(content, null, 2));
+        fs.unlinkSync(filePath);
+        
+        results.success.push({
+          filename,
+          ghost_post_id: post.id,
+          ghost_url: post.url
+        });
+        console.log(`✅ 성공: ${filename}`);
+      } else {
+        throw new Error(`HTTP ${response.status}: ${JSON.stringify(response.data).substring(0, 200)}`);
       }
-    ];
-
-    fs.writeFileSync(rejectedFile, JSON.stringify(data, null, 2));
-    fs.unlinkSync(digestFile);
-    console.log(`  🚫 Moved to rejected/`);
-
-    return { success: false, file: filename, error: error.message };
+    } catch (error) {
+      console.log(`❌ 실패: ${filename} - ${error.message}`);
+      
+      // 실패 파일 이동
+      const rejectedPath = path.join(REJECTED_DIR, filename);
+      try {
+        const content = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+        content.error = error.message;
+        content.audit_log.push({
+          agent: 'digest-publisher',
+          action: 'rejected',
+          error: error.message,
+          timestamp: new Date().toISOString()
+        });
+        fs.writeFileSync(rejectedPath, JSON.stringify(content, null, 2));
+        fs.unlinkSync(filePath);
+      } catch (moveError) {
+        try {
+          fs.copyFileSync(filePath, rejectedPath);
+          fs.unlinkSync(filePath);
+        } catch (e) {
+          // 실패했더라도 계속 진행
+        }
+      }
+      
+      results.failed.push({ filename, error: error.message });
+    }
   }
+
+  return results;
 }
 
-// Main
-async function main() {
-  console.log('🚀 AI Digest Publisher');
-  console.log('====================\n');
-
-  // 디렉토리 확인/생성
-  [PUBLISHED_DIR, REJECTED_DIR].forEach(dir => {
-    if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
-  });
-
-  // 02-drafted 파일 로드
-  const draftedFiles = fs.readdirSync(DRAFTED_DIR)
-    .filter(f => f.endsWith('.json'))
-    .map(f => path.join(DRAFTED_DIR, f));
-
-  if (draftedFiles.length === 0) {
-    console.log('✅ 할 일 없음 — 02-drafted/ 비어있음');
-    process.exit(0);
+// 실행
+publishDigests().then(results => {
+  console.log('\n═══════════════════════════════════');
+  console.log('📊 발행 완료');
+  console.log('═══════════════════════════════════');
+  console.log(`✅ 성공: ${results.success.length}개`);
+  console.log(`❌ 실패: ${results.failed.length}개`);
+  
+  if (results.success.length > 0) {
+    console.log('\n📰 발행된 기사:');
+    results.success.forEach(item => {
+      console.log(`  • ${item.filename}`);
+      console.log(`    Ghost ID: ${item.ghost_post_id}`);
+      console.log(`    URL: ${item.ghost_url}`);
+    });
   }
-
-  console.log(`Found ${draftedFiles.length} digest(s) to publish\n`);
-
-  // 발행 처리
-  const results = [];
-  for (const file of draftedFiles) {
-    const result = await publishDigest(file);
-    results.push(result);
-  }
-
-  // 요약
-  console.log('\n' + '='.repeat(50));
-  const successCount = results.filter(r => r.success).length;
-  const failCount = results.filter(r => !r.success).length;
-
-  console.log(`\n📊 Summary:`);
-  console.log(`  ✅ Published: ${successCount}`);
-  console.log(`  ❌ Failed: ${failCount}`);
-
-  results.filter(r => r.success).forEach(r => {
-    console.log(`\n  📰 ${r.file}`);
-    console.log(`     → ${r.url}`);
-  });
-
-  if (failCount > 0) {
-    console.log('\n  ⚠️  Failed files:');
-    results.filter(r => !r.success).forEach(r => {
-      console.log(`     • ${r.file}: ${r.error}`);
+  
+  if (results.failed.length > 0) {
+    console.log('\n⚠️  실패한 기사:');
+    results.failed.forEach(item => {
+      console.log(`  • ${item.filename}`);
+      console.log(`    오류: ${item.error}`);
     });
   }
 
-  process.exit(failCount > 0 ? 1 : 0);
-}
-
-main().catch(err => {
-  console.error('Fatal error:', err);
+  process.exit(results.failed.length > 0 ? 1 : 0);
+}).catch(err => {
+  console.error('💥 치명적 오류:', err.message);
   process.exit(1);
 });

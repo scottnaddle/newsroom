@@ -34,44 +34,38 @@ function getFeatureImageUrl(headline, tags) {
   });
 }
 
-// Ghost API 호출
+// Ghost API 호출 (curl 사용 - 리다이렉트 자동 처리)
 function ghostRequest(endpoint, data) {
   return new Promise((resolve, reject) => {
     const token = generateJWT();
     const postData = JSON.stringify(data);
+    const { execSync } = require('child_process');
     
-    const options = {
-      hostname: 'insight.ubion.global',
-      port: 443,
-      path: `/ghost/api/admin/${endpoint}`,
-      method: 'POST',
-      headers: {
-        'Authorization': `Ghost ${token}`,
-        'Content-Type': 'application/json',
-        'Content-Length': Buffer.byteLength(postData)
+    const url = `${GHOST_API}${endpoint}`;
+    
+    // JSON을 파일로 저장해서 curl 사용
+    const tmpFile = `/tmp/ghost-post-${Date.now()}.json`;
+    fs.writeFileSync(tmpFile, postData);
+    
+    try {
+      const cmd = `curl -s -L -X POST "${url}" \
+        -H "Authorization: Ghost ${token}" \
+        -H "Content-Type: application/json" \
+        -d @${tmpFile}`;
+      
+      const output = execSync(cmd, { encoding: 'utf8' });
+      const json = JSON.parse(output);
+      
+      if (json.errors) {
+        reject(new Error(`Ghost API error: ${JSON.stringify(json)}`));
+      } else {
+        resolve(json);
       }
-    };
-    
-    const req = https.request(options, (res) => {
-      let body = '';
-      res.on('data', chunk => body += chunk);
-      res.on('end', () => {
-        try {
-          const json = JSON.parse(body);
-          if (res.statusCode >= 400) {
-            reject(new Error(`Ghost API error: ${res.statusCode} ${JSON.stringify(json)}`));
-          } else {
-            resolve(json);
-          }
-        } catch (e) {
-          reject(new Error(`Parse error: ${body}`));
-        }
-      });
-    });
-    
-    req.on('error', reject);
-    req.write(postData);
-    req.end();
+    } catch (error) {
+      reject(error);
+    } finally {
+      try { fs.unlinkSync(tmpFile); } catch (e) {}
+    }
   });
 }
 

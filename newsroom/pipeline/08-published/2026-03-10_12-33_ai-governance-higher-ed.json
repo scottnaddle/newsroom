@@ -1,0 +1,32 @@
+{
+  "id": "pub-20260310-004",
+  "stage": "published",
+  "published_at": "2026-03-10T12:33:00+09:00",
+  "source": {
+    "title": "Shadow AI의 위협...대학들이 구축하는 AI 거버넌스",
+    "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/",
+    "source_name": "The Education Magazine",
+    "relevance_score": 90
+  },
+  "draft": {
+    "headline": "대학가의 'Shadow AI' 위기...거버넌스 프레임워크 구축 급속화",
+    "subheadline": "교직원 80%가 AI 사용하지만 25% 미만만 정책 인식...EU AI Act 8월 발효 앞두고 대학들 규제 준비",
+    "ghost_url": "https://ai-newsroom.example.com/shadow-ai-governance-2026",
+    "ghost_id": "draft-004-shadow-ai"
+  },
+  "fact_check": {
+    "score": 90,
+    "verdict": "PASS",
+    "verified_claims": [
+      "EDUCAUSE 80% 조사 - 검증됨",
+      "25% 미만 정책 인식 - 검증됨",
+      "EU AI Act 고위험 조항 - 검증됨"
+    ]
+  },
+  "metadata": {
+    "word_count": 2180,
+    "reading_time": 10,
+    "category": "education",
+    "tags": ["AI거버넌스", "대학정책"]
+  }
+}

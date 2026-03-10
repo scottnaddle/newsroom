@@ -1,4 +1,9 @@
 {
-  "last_updated": "2026-03-10T09:00:00+09:00",
-  "titles": []
+  "timestamp": "2026-03-10T11:00:00Z",
+  "keywords": [
+    {"keyword": "AI 교육", "similarity_threshold": 0.7},
+    {"keyword": "교육 정책", "similarity_threshold": 0.7},
+    {"keyword": "AI 리터러시", "similarity_threshold": 0.7}
+  ],
+  "published": []
 }

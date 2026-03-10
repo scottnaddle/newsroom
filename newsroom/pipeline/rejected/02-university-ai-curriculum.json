@@ -1,0 +1,38 @@
+{
+  "id": "fact-checked-20260310-002",
+  "draft_id": "draft-20260310-002",
+  "source_id": "source-20260310-003",
+  "title": "금지 대신 필수 교양으로...대학가의 AI 교육 전환",
+  "stage": "rejected",
+  "fact_check": {
+    "score": 88,
+    "verdict": "PASS",
+    "checked_at": "2026-03-10T12:15:00Z",
+    "issues": [
+      "구체적 대학별 강좌 수 (191개) 원문에서 확인되지만, 추가 교차검증 미흡"
+    ],
+    "verified_claims": [
+      "ChatGPT 이후 대학의 AI 정책 변화 - 확인됨 (머니투데이 기사 핵심)",
+      "가천대의 AI 기초교양 의무화 및 강좌 확대 - 확인됨",
+      "서울대 AI 가이드라인 2월 1일 제정 - 확인됨",
+      "대학의 자율과 책임 원칙 - 확인됨",
+      "평가 공정성 우려와 신 디지털 격차 - 확인됨 (학계 지적 일치)"
+    ],
+    "structure_validation": {
+      "has_lead_box": true,
+      "has_h2_sections": 4,
+      "has_references": true,
+      "has_ai_note": true
+    },
+    "content_check": {
+      "word_count_valid": true,
+      "sources_count": 4,
+      "tone_consistency": "good"
+    },
+    "summary": "대학의 AI 정책 변화, 주요 대학별 가이드라인, 우려 사항 모두 원문 및 관련 보도로 검증됨. 기사 구조 완벽함. 약간의 심화 검증으로 점수 88. 합격."
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

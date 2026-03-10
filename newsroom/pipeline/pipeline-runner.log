@@ -939,3 +939,129 @@
 [2026-03-10T01:04:31.287Z] [ERROR] [Stage6] 발행 실패 (exit 1): source_008.json
 [2026-03-10T01:04:31.288Z] [INFO] === Pipeline Runner 완료 ===
 [2026-03-10T01:04:31.288Z] [INFO] Published: 0, Rejected: 1, Error: 4
+[2026-03-10T01:36:15.680Z] [INFO] Pipeline Runner 시작
+[2026-03-10T01:36:15.683Z] [INFO] 처리 대상: 5개 기사
+[2026-03-10T01:36:15.683Z] [INFO] === 기사: source_009.json (from: 05-fact-checked) ===
+[2026-03-10T01:36:15.683Z] [INFO] [Stage4:에디터] source_009.json
+[2026-03-10T01:36:15.685Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source_009.json
+[2026-03-10T01:36:15.685Z] [INFO] [Stage5:교열] source_009.json
+[2026-03-10T01:36:15.687Z] [OK] [Stage5:교열] PASS (3691자, 1 changes) -> 07-copy-edited/: source_009.json
+[2026-03-10T01:36:15.687Z] [INFO] [Stage6:발행] source_009.json
+[2026-03-10T01:36:16.491Z] [ERROR] [Stage6] 발행 실패 (exit 1): source_009.json
+[2026-03-10T01:36:16.491Z] [INFO] === 기사: source_010.json (from: 05-fact-checked) ===
+[2026-03-10T01:36:16.491Z] [INFO] [Stage4:에디터] source_010.json
+[2026-03-10T01:36:16.494Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source_010.json
+[2026-03-10T01:36:16.494Z] [INFO] [Stage5:교열] source_010.json
+[2026-03-10T01:36:16.495Z] [OK] [Stage5:교열] PASS (4274자, 1 changes) -> 07-copy-edited/: source_010.json
+[2026-03-10T01:36:16.495Z] [INFO] [Stage6:발행] source_010.json
+[2026-03-10T01:36:16.782Z] [ERROR] [Stage6] 발행 실패 (exit 1): source_010.json
+[2026-03-10T01:36:16.782Z] [INFO] === 기사: source_011.json (from: 05-fact-checked) ===
+[2026-03-10T01:36:16.783Z] [INFO] [Stage4:에디터] source_011.json
+[2026-03-10T01:36:16.784Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source_011.json
+[2026-03-10T01:36:16.784Z] [INFO] [Stage5:교열] source_011.json
+[2026-03-10T01:36:16.785Z] [OK] [Stage5:교열] PASS (3750자, 1 changes) -> 07-copy-edited/: source_011.json
+[2026-03-10T01:36:16.785Z] [INFO] [Stage6:발행] source_011.json
+[2026-03-10T01:36:17.461Z] [ERROR] [Stage6] 발행 실패 (exit 1): source_011.json
+[2026-03-10T01:36:17.461Z] [INFO] === 기사: source_012.json (from: 05-fact-checked) ===
+[2026-03-10T01:36:17.461Z] [INFO] [Stage4:에디터] source_012.json
+[2026-03-10T01:36:17.463Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source_012.json
+[2026-03-10T01:36:17.463Z] [INFO] [Stage5:교열] source_012.json
+[2026-03-10T01:36:17.464Z] [OK] [Stage5:교열] PASS (4250자, 1 changes) -> 07-copy-edited/: source_012.json
+[2026-03-10T01:36:17.464Z] [INFO] [Stage6:발행] source_012.json
+[2026-03-10T01:36:17.793Z] [ERROR] [Stage6] 발행 실패 (exit 1): source_012.json
+[2026-03-10T01:36:17.793Z] [INFO] === 기사: source_013.json (from: 05-fact-checked) ===
+[2026-03-10T01:36:17.793Z] [INFO] [Stage4:에디터] source_013.json
+[2026-03-10T01:36:17.795Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source_013.json
+[2026-03-10T01:36:17.795Z] [INFO] [Stage5:교열] source_013.json
+[2026-03-10T01:36:17.795Z] [OK] [Stage5:교열] PASS (4194자, 1 changes) -> 07-copy-edited/: source_013.json
+[2026-03-10T01:36:17.795Z] [INFO] [Stage6:발행] source_013.json
+[2026-03-10T01:36:18.117Z] [ERROR] [Stage6] 발행 실패 (exit 1): source_013.json
+[2026-03-10T01:36:18.117Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-10T01:36:18.118Z] [INFO] Published: 0, Rejected: 0, Error: 5
+[2026-03-10T02:33:19.749Z] [INFO] Pipeline Runner 시작
+[2026-03-10T02:33:19.753Z] [INFO] 처리 대상: 5개 기사
+[2026-03-10T02:33:19.754Z] [INFO] === 기사: source-01.json (from: 05-fact-checked) ===
+[2026-03-10T02:33:19.754Z] [INFO] [Stage4:에디터] source-01.json
+[2026-03-10T02:33:19.756Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source-01.json
+[2026-03-10T02:33:19.756Z] [INFO] [Stage5:교열] source-01.json
+[2026-03-10T02:33:19.757Z] [OK] [Stage5:교열] PASS (1772자, 1 changes) -> 07-copy-edited/: source-01.json
+[2026-03-10T02:33:19.757Z] [INFO] [Stage6:발행] source-01.json
+[2026-03-10T02:33:20.924Z] [ERROR] [Stage6] 발행 실패 (exit 1): source-01.json
+[2026-03-10T02:33:20.925Z] [INFO] === 기사: source-02.json (from: 05-fact-checked) ===
+[2026-03-10T02:33:20.925Z] [INFO] [Stage4:에디터] source-02.json
+[2026-03-10T02:33:20.925Z] [ERROR] === 실패: source-02.json -- Expected ',' or '}' after property value in JSON at position 6041 (line 55 column 141) ===
+[2026-03-10T02:33:20.925Z] [INFO] === 기사: source-03.json (from: 05-fact-checked) ===
+[2026-03-10T02:33:20.925Z] [INFO] [Stage4:에디터] source-03.json
+[2026-03-10T02:33:20.927Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source-03.json
+[2026-03-10T02:33:20.927Z] [INFO] [Stage5:교열] source-03.json
+[2026-03-10T02:33:20.928Z] [OK] [Stage5:교열] PASS (1857자, 1 changes) -> 07-copy-edited/: source-03.json
+[2026-03-10T02:33:20.928Z] [INFO] [Stage6:발행] source-03.json
+[2026-03-10T02:33:21.803Z] [ERROR] [Stage6] 발행 실패 (exit 1): source-03.json
+[2026-03-10T02:33:21.803Z] [INFO] === 기사: source-04.json (from: 05-fact-checked) ===
+[2026-03-10T02:33:21.803Z] [INFO] [Stage4:에디터] source-04.json
+[2026-03-10T02:33:21.804Z] [ERROR] === 실패: source-04.json -- Expected ',' or '}' after property value in JSON at position 7869 (line 60 column 145) ===
+[2026-03-10T02:33:21.804Z] [INFO] === 기사: source-05.json (from: 05-fact-checked) ===
+[2026-03-10T02:33:21.804Z] [INFO] [Stage4:에디터] source-05.json
+[2026-03-10T02:33:21.805Z] [OK] [Stage4:에디터] PASS -> 06-desk-approved/: source-05.json
+[2026-03-10T02:33:21.805Z] [INFO] [Stage5:교열] source-05.json
+[2026-03-10T02:33:21.806Z] [OK] [Stage5:교열] PASS (2560자, 1 changes) -> 07-copy-edited/: source-05.json
+[2026-03-10T02:33:21.806Z] [INFO] [Stage6:발행] source-05.json
+[2026-03-10T02:33:23.005Z] [ERROR] [Stage6] 발행 실패 (exit 1): source-05.json
+[2026-03-10T02:33:23.005Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-10T02:33:23.005Z] [INFO] Published: 0, Rejected: 0, Error: 5
+[2026-03-10T03:03:50.687Z] [INFO] Pipeline Runner 시작
+[2026-03-10T03:03:50.690Z] [INFO] 처리 대상: 4개 기사
+[2026-03-10T03:03:50.690Z] [INFO] === 기사: 01-ai-middle-school-policy.json (from: 05-fact-checked) ===
+[2026-03-10T03:03:50.690Z] [INFO] [Stage4:에디터] 01-ai-middle-school-policy.json
+[2026-03-10T03:03:50.691Z] [WARN] [Stage4] draft.html 없음 -> rejected: 01-ai-middle-school-policy.json
+[2026-03-10T03:03:50.691Z] [INFO] === 기사: 02-university-ai-curriculum.json (from: 05-fact-checked) ===
+[2026-03-10T03:03:50.691Z] [INFO] [Stage4:에디터] 02-university-ai-curriculum.json
+[2026-03-10T03:03:50.691Z] [WARN] [Stage4] draft.html 없음 -> rejected: 02-university-ai-curriculum.json
+[2026-03-10T03:03:50.691Z] [INFO] === 기사: 03-ai-education-revolution.json (from: 05-fact-checked) ===
+[2026-03-10T03:03:50.692Z] [INFO] [Stage4:에디터] 03-ai-education-revolution.json
+[2026-03-10T03:03:50.692Z] [WARN] [Stage4] draft.html 없음 -> rejected: 03-ai-education-revolution.json
+[2026-03-10T03:03:50.692Z] [INFO] === 기사: 04-ai-governance-higher-ed.json (from: 05-fact-checked) ===
+[2026-03-10T03:03:50.692Z] [INFO] [Stage4:에디터] 04-ai-governance-higher-ed.json
+[2026-03-10T03:03:50.692Z] [WARN] [Stage4] draft.html 없음 -> rejected: 04-ai-governance-higher-ed.json
+[2026-03-10T03:03:50.692Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-10T03:03:50.692Z] [INFO] Published: 0, Rejected: 4, Error: 0
+[2026-03-10T03:30:11.486Z] [INFO] Pipeline Runner 시작
+[2026-03-10T03:30:11.493Z] [INFO] 처리할 기사 없음
+[2026-03-10T04:04:50.240Z] [INFO] Pipeline Runner 시작
+[2026-03-10T04:04:50.243Z] [INFO] 처리 대상: 5개 기사
+[2026-03-10T04:04:50.243Z] [INFO] === 기사: factchecked-20260310-001.json (from: 05-fact-checked) ===
+[2026-03-10T04:04:50.244Z] [INFO] [Stage4:에디터] factchecked-20260310-001.json
+[2026-03-10T04:04:50.244Z] [WARN] [Stage4] draft.html 없음 -> rejected: factchecked-20260310-001.json
+[2026-03-10T04:04:50.244Z] [INFO] === 기사: factchecked-20260310-002.json (from: 05-fact-checked) ===
+[2026-03-10T04:04:50.244Z] [INFO] [Stage4:에디터] factchecked-20260310-002.json
+[2026-03-10T04:04:50.244Z] [WARN] [Stage4] draft.html 없음 -> rejected: factchecked-20260310-002.json
+[2026-03-10T04:04:50.245Z] [INFO] === 기사: factchecked-20260310-003.json (from: 05-fact-checked) ===
+[2026-03-10T04:04:50.245Z] [INFO] [Stage4:에디터] factchecked-20260310-003.json
+[2026-03-10T04:04:50.245Z] [WARN] [Stage4] draft.html 없음 -> rejected: factchecked-20260310-003.json
+[2026-03-10T04:04:50.246Z] [INFO] === 기사: factchecked-20260310-004.json (from: 05-fact-checked) ===
+[2026-03-10T04:04:50.246Z] [INFO] [Stage4:에디터] factchecked-20260310-004.json
+[2026-03-10T04:04:50.246Z] [WARN] [Stage4] draft.html 없음 -> rejected: factchecked-20260310-004.json
+[2026-03-10T04:04:50.246Z] [INFO] === 기사: factchecked-20260310-005.json (from: 05-fact-checked) ===
+[2026-03-10T04:04:50.246Z] [INFO] [Stage4:에디터] factchecked-20260310-005.json
+[2026-03-10T04:04:50.246Z] [WARN] [Stage4] draft.html 없음 -> rejected: factchecked-20260310-005.json
+[2026-03-10T04:04:50.246Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-10T04:04:50.246Z] [INFO] Published: 0, Rejected: 5, Error: 0
+[2026-03-10T04:06:29.166Z] [INFO] Pipeline Runner 시작
+[2026-03-10T04:06:29.169Z] [INFO] 처리 대상: 5개 기사
+[2026-03-10T04:06:29.170Z] [INFO] === 기사: factchecked-20260310-001.json (from: 05-fact-checked) ===
+[2026-03-10T04:06:29.170Z] [INFO] [Stage4:에디터] factchecked-20260310-001.json
+[2026-03-10T04:06:29.171Z] [WARN] [Stage4] 본문 1002자 미만 -> rejected: factchecked-20260310-001.json
+[2026-03-10T04:06:29.172Z] [INFO] === 기사: factchecked-20260310-002.json (from: 05-fact-checked) ===
+[2026-03-10T04:06:29.172Z] [INFO] [Stage4:에디터] factchecked-20260310-002.json
+[2026-03-10T04:06:29.172Z] [WARN] [Stage4] 본문 1098자 미만 -> rejected: factchecked-20260310-002.json
+[2026-03-10T04:06:29.172Z] [INFO] === 기사: factchecked-20260310-003.json (from: 05-fact-checked) ===
+[2026-03-10T04:06:29.173Z] [INFO] [Stage4:에디터] factchecked-20260310-003.json
+[2026-03-10T04:06:29.173Z] [WARN] [Stage4] 본문 1269자 미만 -> rejected: factchecked-20260310-003.json
+[2026-03-10T04:06:29.173Z] [INFO] === 기사: factchecked-20260310-004.json (from: 05-fact-checked) ===
+[2026-03-10T04:06:29.173Z] [INFO] [Stage4:에디터] factchecked-20260310-004.json
+[2026-03-10T04:06:29.174Z] [WARN] [Stage4] 본문 849자 미만 -> rejected: factchecked-20260310-004.json
+[2026-03-10T04:06:29.174Z] [INFO] === 기사: factchecked-20260310-005.json (from: 05-fact-checked) ===
+[2026-03-10T04:06:29.174Z] [INFO] [Stage4:에디터] factchecked-20260310-005.json
+[2026-03-10T04:06:29.174Z] [WARN] [Stage4] 본문 1389자 미만 -> rejected: factchecked-20260310-005.json
+[2026-03-10T04:06:29.175Z] [INFO] === Pipeline Runner 완료 ===
+[2026-03-10T04:06:29.175Z] [INFO] Published: 0, Rejected: 5, Error: 0

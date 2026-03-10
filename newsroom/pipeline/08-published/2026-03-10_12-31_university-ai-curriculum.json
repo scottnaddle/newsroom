@@ -1,0 +1,32 @@
+{
+  "id": "pub-20260310-002",
+  "stage": "published",
+  "published_at": "2026-03-10T12:31:00+09:00",
+  "source": {
+    "title": "금지 대신 필수 교양으로...대학가의 AI 교육 전환",
+    "url": "https://www.mt.co.kr/policy/2026/03/03/2026030313051850252",
+    "source_name": "머니투데이",
+    "relevance_score": 88
+  },
+  "draft": {
+    "headline": "금지 대신 필수 교양으로...대학가 덮친 AI, 교육·평가 판도 바꾼다",
+    "subheadline": "ChatGPT 이후 대학들이 AI를 학생의 필수 역량으로 규정...191개 강좌 확대, 평가 방식 개편",
+    "ghost_url": "https://ai-newsroom.example.com/university-ai-curriculum-2026",
+    "ghost_id": "draft-002-uni-ai"
+  },
+  "fact_check": {
+    "score": 88,
+    "verdict": "PASS",
+    "verified_claims": [
+      "ChatGPT 이후 대학의 AI 정책 변화 - 검증됨",
+      "가천대 191개 강좌 확대 - 검증됨",
+      "서울대 AI 가이드라인 - 검증됨"
+    ]
+  },
+  "metadata": {
+    "word_count": 2280,
+    "reading_time": 10,
+    "category": "education",
+    "tags": ["AI교육", "대학정책"]
+  }
+}

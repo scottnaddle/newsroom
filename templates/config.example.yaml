@@ -1,0 +1,119 @@
+# ============================================
+# UBION Newsroom Kit — 설정 파일 예시
+# ============================================
+# 이 파일을 config.yaml로 복사하여 사용하세요.
+# 또는 ubion-newsroom init 으로 대화형 생성 가능
+
+newsroom:
+  name: "내 AI 뉴스룸"
+  language: ko          # ko | en | ja | zh
+  timezone: Asia/Seoul
+
+# ===== 주제 설정 (최소 1개) =====
+topics:
+  - name: "AI 뉴스"
+    keywords:
+      - "AI 뉴스"
+      - "인공지능 정책"
+      - "AI news Korea"
+    category: general
+    accent_color: "#4338ca"
+
+# ===== 에이전트 설정 =====
+agents:
+  collector:
+    enabled: true
+    schedule: "*/30 * * * *"    # 30분마다 수집
+    min_relevance_score: 60     # 관련성 최소 점수 (0-100)
+    dedup_window_hours: 72      # 중복 체크 기간
+    backoff:
+      enabled: true             # 빈 결과 시 간격 자동 확대
+      multiplier: 2
+      max_interval_minutes: 180
+
+  reporter:
+    enabled: true
+    schedule: "*/15 * * * *"
+    depth: standard             # quick | standard | deep
+
+  writer:
+    enabled: true
+    schedule: "*/10 * * * *"
+    style: news                 # news | blog | academic | casual
+    tone: formal                # formal | conversational | neutral
+    min_word_count: 300
+    max_word_count: 1500
+
+  fact_checker:
+    enabled: true
+    schedule: "*/15 * * * *"
+    strictness: medium          # low | medium | high
+    auto_reject_below: 60
+
+  editor:
+    enabled: true
+    schedule: "*/15 * * * *"
+    auto_approve_above: 90
+    auto_reject_below: 75
+    check_duplicates: true
+    duplicate_threshold: 85
+
+  copy_editor:
+    enabled: true
+    schedule: "*/10 * * * *"
+    min_content_length: 1500
+
+  publisher:
+    enabled: true
+    schedule: "*/10 * * * *"
+    publish_as: draft           # draft | published (draft 권장)
+
+# ===== 추가 채널 (선택) =====
+channels:
+  digest:
+    enabled: false
+    schedule: "0 * * * *"
+  papers:
+    enabled: false
+    source: arxiv
+    categories: ["cs.AI", "cs.CL"]
+
+# ===== CMS 설정 =====
+cms:
+  provider: markdown            # ghost | markdown
+  # Ghost 사용 시:
+  # provider: ghost
+  # url: "https://your-site.ghost.io"
+  # api_key: "${GHOST_API_KEY}"
+
+# ===== LLM 설정 =====
+llm:
+  provider: openai
+  model: gpt-4o
+  api_key: "${OPENAI_API_KEY}"  # 환경변수 참조
+  fallbacks: []
+
+# ===== 토큰 최적화 =====
+optimization:
+  pre_check: true               # 파일 없으면 LLM 호출 안 함
+  prompt_mode: minimal          # minimal | standard | full
+  smart_scheduling:
+    enabled: true
+    off_hours: [23, 7]          # 야간 (KST 23시~7시) 실행 중지
+    weekend_mode: reduced       # 주말 50% 빈도 감소
+    idle_backoff: true
+  budget:
+    daily_token_limit: 0        # 0 = 무제한
+    alert_at_percent: 80
+
+# ===== 기사 디자인 =====
+design:
+  template: modern
+  font: "Noto Sans KR"
+  show_ai_disclaimer: true
+  disclaimer_position: bottom
+
+# ===== 대시보드 =====
+dashboard:
+  enabled: true
+  port: 3848

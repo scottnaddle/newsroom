@@ -1,0 +1,36 @@
+{
+  "id": "fact-checked-20260310-003",
+  "draft_id": "draft-20260310-003",
+  "source_id": "source-20260310-004",
+  "title": "AI 교육혁명 2026: 영국·미국 동시 착수한 거버넌스 강화",
+  "stage": "rejected",
+  "fact_check": {
+    "score": 92,
+    "verdict": "PASS",
+    "checked_at": "2026-03-10T12:20:00Z",
+    "issues": [],
+    "verified_claims": [
+      "2026년 2월 26일 영국 의회 교육특별위원회 조사 시작 - 확인됨 (원문 일치)",
+      "2026년 2월 24일 미국 하원 청문회 - 확인됨 (원문 일치)",
+      "영국 교사 60% AI 활용, 20% 이상 매일 사용 - 확인됨 (School's Week 설문)",
+      "마이크로소프트 앨리슨 녹스의 3가지 핵심 요소 (AI 리터러시, 가드레일, 교실 친화적 도구) - 확인됨",
+      "AI의 3가지 교육 영역 (행정 효율성, 개인화 학습, 저위험 애플리케이션) - 확인됨"
+    ],
+    "structure_validation": {
+      "has_lead_box": true,
+      "has_h2_sections": 4,
+      "has_references": true,
+      "has_ai_note": true
+    },
+    "content_check": {
+      "word_count_valid": true,
+      "sources_count": 5,
+      "tone_consistency": "excellent"
+    },
+    "summary": "영국, 미국의 정책 동향, 구체적 통계, 마이크로소프트 증언, 글로벌 시사점 모두 원문 정보와 일치. 한국 교육정책에 대한 분석도 균형잡힘. 합격."
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fact-checked-20260310-001",
+  "draft_id": "draft-20260310-001",
+  "source_id": "source-20260310-001",
+  "title": "AI 중점학교 1141개교 선정…초·중등 인공지능 교육 본격화",
+  "stage": "rejected",
+  "fact_check": {
+    "score": 95,
+    "verdict": "PASS",
+    "checked_at": "2026-03-10T12:10:00Z",
+    "issues": [],
+    "verified_claims": [
+      "교육부가 AI 중점학교 1,141개교 선정 - 확인됨 (이투데이, 에듀프레스, 한국경제, 정책브리핑 등 다중 출처)",
+      "2026년 특별교부금 385억 원 지원 - 확인됨 (모든 주요 매체 일관성)",
+      "2028년 2,000개교 확대 계획 - 확인됨",
+      "초등학교 68시간 이상 편성 - 확인됨 (에듀프레스)",
+      "중학교 102시간 이상 편성 - 확인됨 (에듀프레스)"
+    ],
+    "structure_validation": {
+      "has_lead_box": true,
+      "has_h2_sections": 5,
+      "has_references": true,
+      "has_ai_note": true
+    },
+    "content_check": {
+      "word_count_valid": true,
+      "sources_count": 3,
+      "tone_consistency": "good"
+    },
+    "summary": "모든 주요 팩트가 정책브리핑, 이투데이, 에듀프레스 등 신뢰도 높은 다중 출처로 검증됨. 기사 구조, 길이, 참고자료 모두 기준 충족. 합격."
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "apiUrl": "https://your-site.ghost.io",
+  "adminApiKey": "your-kid:your-secret-hex"
+}

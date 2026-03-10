@@ -1,0 +1,24 @@
+{
+  "id": "factchecked-20260310-004",
+  "stage": "rejected",
+  "headline": "제주대-성균관대 손잡고 AI·에듀테크 공동 연구…'지역-수도권 협력형' 모델 확산",
+  "draft": {
+    "headline": "제주대-성균관대 손잡고 AI·에듀테크 공동 연구",
+    "html": "<div style=\"font-family:'Noto Sans KR', sans-serif; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e;\"><div style=\"border-left:4px solid #d97706; background:#f8f9ff; padding:18px 22px; border-radius:0 8px 8px 0; margin-bottom:48px;\"><p style=\"margin:0; font-weight:600; font-size:16px;\">제주대와 성균관대가 AI·에듀테크 인재양성 및 산학협력을 위해 업무협약을 체결했습니다.</p></div><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">제주-서울 두 대학의 광역 협력</h2><p style=\"margin:0 0 32px;\">제주대 지능소프트웨어교육연구소와 성균관대 성균에듀테크연구소는 2월 26일 AI 기반 교육 혁신과 산학협력 생태계 구축을 위한 업무협약을 체결했습니다. 이는 AI·IoT·빅데이터 기반 교육모델을 개발하고 에듀테크 융합 연구를 활성화하기 위한 협력입니다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">4가지 협력 과제</h2><p style=\"margin:0 0 32px;\">양 기관은 AI·에듀테크 신기술 인재 양성 및 인재 교류, AI 기반 교과목 및 교육과정 공동 개발, AI 교육 생태계 인프라 구축 및 융합 연구, AI·디지털 교육 관련 학술대회·세미나 공동 개최 등을 추진하기로 합의했습니다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">지역-수도권 협력형 모델의 의미</h2><p style=\"margin:0 0 32px;\">이번 협력은 기존의 지역 또는 수도권 중심 협력을 벗어나 광역 협력 모델을 제시합니다. 제주대의 현장 적용 경험과 성균관대의 최신 기술 개발 역량이 결합되어 교육 현장에 실제 적용 가능한 결과를 만들 수 있을 것으로 기대됩니다. 조정원 소장은 \"AI 교육 연구의 질적 도약\"이라며 \"에듀테크 기반 미래 교육 모델을 공동으로 설계하고 확산하겠다\"고 밝혔습니다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">산학 연계 강화</h2><p style=\"margin:0 0 32px;\">양 기관은 교육 연구에 그치지 않고 관련 기업, 스타트업, 연구기관과도 협력하여 실질적인 산학 생태계를 조성하려 합니다. 이는 학생들이 교실에서 배운 이론을 산업 현장에서 바로 적용할 수 있는 'Work-Integrated Learning' 환경을 만드는 데 목적이 있습니다. 이번 협력은 AI 교육 연구의 지역-수도권 광역 협력 모델로서 향후 전국적으로 확대될 가능성이 높습니다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">참고자료</h2><ol style=\"padding-left:20px; margin:0 0 32px;\"><li style=\"margin-bottom:12px;\"><a href=\"https://www.fnnews.com/news/202603040933104912\" target=\"_blank\">파이낸셜뉴스: 제주대-성균관대 협약</a></li><li style=\"margin-bottom:12px;\"><a href=\"https://www.jejunu.ac.kr/\" target=\"_blank\">제주대학교 공식</a></li><li style=\"margin-bottom:12px;\"><a href=\"https://www.skku.edu/\" target=\"_blank\">성균관대학교 공식</a></li></ol><p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>"
+  },
+  "fact_check": {
+    "score": 89,
+    "verdict": "PASS",
+    "verified_claims": [
+      "제주대-성균관대 MOU 체결 ✓",
+      "조정원, 김재현 소장 협력 ✓",
+      "4가지 협력 과제 ✓"
+    ],
+    "validated_at": "2026-03-10T14:35:00Z"
+  },
+  "created_at": "2026-03-10T14:35:00Z",
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "본문 849자 (1600자 미만)"
+  }
+}

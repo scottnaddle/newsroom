@@ -1,0 +1,25 @@
+{
+  "id": "factchecked-20260310-001",
+  "stage": "rejected",
+  "headline": "교육부 'AI 중점학교' 1,141개교 선정…2026년 385억 원 특별교부금 지원",
+  "subheadline": "초등학교 교육시간 34시간→68시간 이상으로 확대, 2028년까지 단계적 확대",
+  "draft": {
+    "headline": "교육부 'AI 중점학교' 1,141개교 선정…2026년 385억 원 특별교부금 지원",
+    "html": "<div style=\"font-family:'Noto Sans KR', sans-serif; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e;\"><div style=\"border-left:4px solid #4338ca; background:#f8f9ff; padding:18px 22px; border-radius:0 8px 8px 0; margin-bottom:48px;\"><p style=\"margin:0; font-weight:600; font-size:16px;\">교육부가 국내 초·중등학교 중 1,141개를 'AI 중점학교'로 선정하고 2026년 385억 원의 특별교부금 지원을 발표했습니다. 이는 한국 교육 현장에 AI 교육의 체계적 확대를 알리는 신호로 평가됩니다.</p></div><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">정부 주도 'AI 인재 양성 방안' 본격화</h2><p style=\"margin:0 0 32px;\">교육부는 이번 정책을 통해 AI 중점학교를 4개 분류로 운영합니다. 초등학교는 기존 34시간에서 68시간 이상으로, 중학교는 68시간에서 102시간 이상으로 AI 교육 시간을 확대합니다. 2028년까지 단계적으로 확대될 예정입니다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">4개 분류로 다양화된 AI 교육 모델</h2><p style=\"margin:0 0 32px;\">AI 중점학교는 학교의 특성과 여건에 따라 4개로 분류됩니다. 첫째는 '모두를 위한 AI' 분류로, 모든 학생의 기본 AI 리터러시 함양을 목표로 합니다. 둘째는 'AI 심화' 분류로 AI에 관심 있는 학생들의 심화 역량 개발을 지원합니다. 셋째는 'AI 특화' 분류로 학교의 특색 있는 AI 교육을 추진하며, 넷째는 'AI 연구' 분류로 AI 교육 연구 및 우수 모델 개발을 담당합니다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">2028년까지 단계적 확대, 시급한 과제는?</h2><p style=\"margin:0 0 32px;\">교육부의 이번 계획에 따르면 AI 중점학교는 2028년까지 단계적으로 확대될 예정입니다. 전문가들은 교사 역량 강화, 지역 간 교육 격차, 교육 자료 개발 등이 시급한 과제임을 지적합니다. 선정된 1,141개교는 초등 530곳, 중학교 279곳, 고등학교 319곳, 특수학교 13곳입니다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">글로벌 트렌드와 한국의 입장</h2><p style=\"margin:0 0 32px;\">한국의 이번 정책은 글로벌 차원의 AI 교육 확대 움직임과 맥락을 같이합니다. 영국은 2월 26일 의회 교육특별위원회를 통해 AI·에듀테크가 교육에 미치는 영향을 조사하는 공식 조사를 시작했으며, 미국도 'AI 준비된 미국 구축' 정책을 발표한 바 있습니다. 아랍에미리트(UAE)는 이미 유치원부터 12학년까지 AI를 필수 커리큘럼으로 지정했습니다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">참고자료</h2><ol style=\"padding-left:20px; margin:0 0 32px;\"><li style=\"margin-bottom:12px;\"><a href=\"https://www.yna.co.kr/view/AKR20260309049000530\" target=\"_blank\">연합뉴스: 교육부 AI 중점학교 1141개교 선정</a></li><li style=\"margin-bottom:12px;\"><a href=\"https://www.korea.kr/news/policyNewsView.do?newsId=148960557\" target=\"_blank\">대한민국 정책브리핑: AI 중점학교 선정</a></li><li style=\"margin-bottom:12px;\"><a href=\"https://www.kjob.news/news/470555\" target=\"_blank\">전국인력신문: AI 교육혁명 2026</a></li></ol><p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>"
+  },
+  "fact_check": {
+    "score": 92,
+    "verdict": "PASS",
+    "verified_claims": [
+      "교육부가 AI 중점학교 1,141개교 선정 ✓",
+      "특별교부금 385억 원 지원 ✓",
+      "초등학교 34시간→68시간 확대 ✓"
+    ],
+    "validated_at": "2026-03-10T14:20:00Z"
+  },
+  "created_at": "2026-03-10T14:20:00Z",
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "본문 1002자 (1600자 미만)"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pub-20260310-003",
+  "stage": "published",
+  "published_at": "2026-03-10T12:32:00+09:00",
+  "source": {
+    "title": "AI 교육혁명 2026: 영국·미국 동시 착수한 거버넌스 강화",
+    "url": "https://www.kjob.news/news/470555",
+    "source_name": "전국인력신문",
+    "relevance_score": 92
+  },
+  "draft": {
+    "headline": "AI 교육혁명 2026: 영국·미국 동시 착수한 거버넌스 강화",
+    "subheadline": "글로벌 AI 교육 정책 강화...한국도 윤리 기준과 거버넌스 체계 구축 필요",
+    "ghost_url": "https://ai-newsroom.example.com/ai-education-revolution-2026",
+    "ghost_id": "draft-003-global-governance"
+  },
+  "fact_check": {
+    "score": 92,
+    "verdict": "PASS",
+    "verified_claims": [
+      "2월 26일 영국 의회 조사 - 검증됨",
+      "2월 24일 미국 하원 청문회 - 검증됨",
+      "영국 교사 60% AI 활용 - 검증됨"
+    ]
+  },
+  "metadata": {
+    "word_count": 2450,
+    "reading_time": 11,
+    "category": "education",
+    "tags": ["AI교육", "국제정책"]
+  }
+}

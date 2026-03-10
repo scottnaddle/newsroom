@@ -1,0 +1,38 @@
+{
+  "id": "fact-checked-20260310-004",
+  "draft_id": "draft-20260310-004",
+  "source_id": "source-20260310-005",
+  "title": "Shadow AI의 위협...대학들이 구축하는 AI 거버넌스",
+  "stage": "rejected",
+  "fact_check": {
+    "score": 90,
+    "verdict": "PASS",
+    "checked_at": "2026-03-10T12:25:00Z",
+    "issues": [
+      "EDUCAUSE 2024 조사의 '25% 미만 정책 인식' 통계는 원문에서는 'fewer than one in four'로 표기되어 있음 - 변환 정확함"
+    ],
+    "verified_claims": [
+      "EDUCAUSE 2024 조사: 80% 교직원이 AI 도구 사용 - 확인됨",
+      "25% 미만만 공식 정책 인식 - 확인됨",
+      "'Shadow AI' 개념 및 위험 (데이터 유출, FERPA 위반, 사이버 위험) - 확인됨",
+      "EU AI Act 8월 발효 및 고위험 조항 범위 - 확인됨",
+      "AI 거버넌스의 4가지 핵심 요소 (위원회, 윤리, HITL, 지속적 모니터링) - 확인됨"
+    ],
+    "structure_validation": {
+      "has_lead_box": true,
+      "has_h2_sections": 4,
+      "has_references": true,
+      "has_ai_note": true
+    },
+    "content_check": {
+      "word_count_valid": true,
+      "sources_count": 5,
+      "tone_consistency": "good"
+    },
+    "summary": "Shadow AI의 구체적 위협, EDUCAUSE 통계, EU 규제, 거버넌스 프레임워크 모두 원문과 일치. 기사 길이, 구조, 참고자료 기준 충족. 합격."
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

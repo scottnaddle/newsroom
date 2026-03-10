@@ -1,0 +1,90 @@
+{
+  "pipeline_execution": "2026-03-10T13:00:00Z",
+  "execution_status": "COMPLETED",
+  "stages": {
+    "step1_collection": {
+      "name": "소스 수집",
+      "status": "SUCCESS",
+      "articles_collected": 6,
+      "quality_threshold": 65,
+      "articles_above_threshold": 6,
+      "sources": [
+        "AI 중점학교 정책",
+        "대학 AI 교육 패러다임 전환",
+        "글로벌 AI 교육 거버넌스",
+        "대학 간 AI 협력",
+        "AI 리터러시 교육",
+        "AI 첨단산업 인재양성"
+      ]
+    },
+    "step2_reporting": {
+      "name": "취재",
+      "status": "SUCCESS",
+      "articles_processed": 5,
+      "articles_remaining": 0
+    },
+    "step3_drafting": {
+      "name": "작성 (LLM)",
+      "status": "SUCCESS",
+      "articles_drafted": 5,
+      "avg_word_count": 1820,
+      "min_word_count": 1750,
+      "articles_remaining": 0
+    },
+    "step4_factcheck": {
+      "name": "팩트체크 (LLM)",
+      "status": "SUCCESS",
+      "articles_checked": 5,
+      "pass_count": 5,
+      "flag_count": 0,
+      "fail_count": 0,
+      "avg_score": 89,
+      "articles_remaining": 0
+    },
+    "step5_automation": {
+      "name": "후처리 (자동: 에디터→교열→발행)",
+      "status": "SUCCESS",
+      "articles_published": 5,
+      "articles_rejected": 0,
+      "published_articles": [
+        {
+          "id": "drafted-20260310-001",
+          "title": "교육부 'AI 중점학교' 1,141개교 선정…2026년 385억 원 특별교부금 지원",
+          "ghost_url": "https://newsletter-ai.ghost.io/ai-jungjeomhaggyo-1141gyo/",
+          "status": "draft"
+        },
+        {
+          "id": "drafted-20260310-002",
+          "title": "금지 대신 필수 교양으로…한국 대학가, AI 활용 패러다임 대전환",
+          "ghost_url": "https://newsletter-ai.ghost.io/daehak-ai-halyongx-paradigm/",
+          "status": "draft"
+        },
+        {
+          "id": "drafted-20260310-003",
+          "title": "AI 교육의 글로벌 거버넌스 강화…영국·미국 정책 발표, 한국은 시급한 대응 필요",
+          "ghost_url": "https://newsletter-ai.ghost.io/ai-gyoyuk-geobeonengseu-yeonguk-miguk/",
+          "status": "draft"
+        },
+        {
+          "id": "drafted-20260310-004",
+          "title": "제주대-성균관대 손잡고 AI·에듀테크 공동 연구…'지역-수도권 협력형' 모델 확산",
+          "ghost_url": "https://newsletter-ai.ghost.io/jejudae-seonggyungwandae-ai-edutech-hyeobyak/",
+          "status": "draft"
+        },
+        {
+          "id": "drafted-20260310-005",
+          "title": "암기 교육에서 AI 리터러시로…한국 교육 커리큘럼 혁신의 4대 과제",
+          "ghost_url": "https://newsletter-ai.ghost.io/ai-ri-teoreosi-kyoyuk-hyeok-shin/",
+          "status": "draft"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total_articles_processed": 6,
+    "articles_published": 5,
+    "articles_rejected": 0,
+    "execution_time_minutes": 30,
+    "success_rate": "100%"
+  }
+}

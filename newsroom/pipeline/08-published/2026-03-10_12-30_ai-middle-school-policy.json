@@ -1,0 +1,32 @@
+{
+  "id": "pub-20260310-001",
+  "stage": "published",
+  "published_at": "2026-03-10T12:30:00+09:00",
+  "source": {
+    "title": "AI 중점학교 1141개교 선정…초·중등 인공지능 교육 본격화",
+    "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960557&call_from=rsslink",
+    "source_name": "정책브리핑",
+    "relevance_score": 95
+  },
+  "draft": {
+    "headline": "AI 중점학교 1141개교 선정…2026년 385억 원 지원",
+    "subheadline": "교육부, 초·중등 인공지능 교육 체계적 확대...2028년까지 2,000개교 단계적 확대",
+    "ghost_url": "https://ai-newsroom.example.com/ai-middle-school-policy-2026",
+    "ghost_id": "draft-001-ai-policy"
+  },
+  "fact_check": {
+    "score": 95,
+    "verdict": "PASS",
+    "verified_claims": [
+      "1,141개 학교 선정 - 검증됨",
+      "385억 원 지원 - 검증됨",
+      "초등 68시간, 중학 102시간 확대 - 검증됨"
+    ]
+  },
+  "metadata": {
+    "word_count": 2150,
+    "reading_time": 9,
+    "category": "education",
+    "tags": ["AI교육", "정부정책"]
+  }
+}

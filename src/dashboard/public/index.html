@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UBION Newsroom — Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        * { margin:0; padding:0; box-sizing:border-box; }
+        :root { --accent:#9021ff; --bg:#f9f9fb; --card:#fff; --text:#212529; --muted:#6b7280; --success:#10b981; --danger:#ef4444; --border:#e5e7eb; }
+        body { font-family:'Noto Sans KR',sans-serif; background:var(--bg); color:var(--text); }
+        .container { max-width:1000px; margin:0 auto; padding:24px 16px; }
+        header { display:flex; align-items:center; justify-content:space-between; margin-bottom:24px; }
+        header h1 { font-size:1.3rem; font-weight:700; }
+        header .status { font-size:0.8rem; color:var(--muted); }
+        .stats { display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); gap:12px; margin-bottom:24px; }
+        .stat { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:16px; text-align:center; }
+        .stat .value { font-size:1.5rem; font-weight:700; font-family:'JetBrains Mono'; }
+        .stat .label { font-size:0.75rem; color:var(--muted); margin-top:4px; }
+        .section { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:20px; margin-bottom:16px; }
+        .section h2 { font-size:0.95rem; font-weight:600; margin-bottom:12px; display:flex; align-items:center; gap:8px; }
+        .pipeline { display:flex; gap:4px; flex-wrap:wrap; }
+        .stage { flex:1; min-width:80px; text-align:center; padding:10px 6px; background:var(--bg); border-radius:8px; }
+        .stage .count { font-size:1.2rem; font-weight:700; font-family:'JetBrains Mono'; }
+        .stage .name { font-size:0.65rem; color:var(--muted); margin-top:4px; }
+        .stage .count.has { color:var(--accent); }
+        .agents { display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr)); gap:10px; }
+        .agent { padding:12px; background:var(--bg); border-radius:8px; display:flex; align-items:center; gap:10px; }
+        .agent .dot { width:8px; height:8px; border-radius:50%; flex-shrink:0; }
+        .agent .dot.active { background:var(--success); }
+        .agent .dot.idle { background:var(--muted); }
+        .agent .dot.error { background:var(--danger); }
+        .agent .info { flex:1; }
+        .agent .name { font-size:0.85rem; font-weight:500; }
+        .agent .meta { font-size:0.7rem; color:var(--muted); }
+        .no-data { color:var(--muted); font-size:0.85rem; text-align:center; padding:20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📰 <span id="newsroomName">Newsroom</span></h1>
+            <div class="status">마지막 업데이트: <span id="lastUpdate">-</span></div>
+        </header>
+
+        <div class="stats">
+            <div class="stat"><div class="value" id="published">-</div><div class="label">발행 완료</div></div>
+            <div class="stat"><div class="value" id="processing">-</div><div class="label">처리 중</div></div>
+            <div class="stat"><div class="value" id="activeAgents">-</div><div class="label">활성 에이전트</div></div>
+            <div class="stat"><div class="value" id="rejected">-</div><div class="label">거부됨</div></div>
+        </div>
+
+        <div class="section">
+            <h2>📋 파이프라인</h2>
+            <div class="pipeline" id="pipeline"></div>
+        </div>
+
+        <div class="section">
+            <h2>🤖 에이전트</h2>
+            <div class="agents" id="agents"></div>
+        </div>
+    </div>
+
+    <script>
+        let state = {};
+        const STAGES = ['01-sourced','02-assigned','03-reported','04-drafted','05-fact-checked','06-desk-approved','07-copy-edited','08-published'];
+        const STAGE_NAMES = {'01-sourced':'수집','02-assigned':'배정','03-reported':'취재','04-drafted':'초안','05-fact-checked':'팩트체크','06-desk-approved':'승인','07-copy-edited':'교열','08-published':'발행'};
+
+        function render() {
+            const p = state.pipeline || {};
+            const a = state.agents || {};
+
+            // Stats
+            document.getElementById('published').textContent = p['08-published'] || 0;
+            const processing = STAGES.slice(0,-1).reduce((s,k) => s + (p[k]||0), 0);
+            document.getElementById('processing').textContent = processing;
+            document.getElementById('rejected').textContent = p.rejected || 0;
+            const activeCount = Object.values(a).filter(x => x.status === 'active').length;
+            document.getElementById('activeAgents').textContent = activeCount;
+            if (state.lastUpdate) document.getElementById('lastUpdate').textContent = new Date(state.lastUpdate).toLocaleTimeString('ko-KR');
+
+            // Pipeline
+            document.getElementById('pipeline').innerHTML = STAGES.map(s => {
+                const c = p[s] || 0;
+                return `<div class="stage"><div class="count ${c>0?'has':''}">${c}</div><div class="name">${STAGE_NAMES[s]}</div></div>`;
+            }).join('');
+
+            // Agents
+            const agentEl = document.getElementById('agents');
+            if (Object.keys(a).length === 0) {
+                agentEl.innerHTML = '<div class="no-data">에이전트 정보 없음</div>';
+            } else {
+                agentEl.innerHTML = Object.entries(a).map(([id, info]) => {
+                    const time = info.lastRun ? new Date(info.lastRun).toLocaleTimeString('ko-KR') : '-';
+                    return `<div class="agent">
+                        <div class="dot ${info.status}"></div>
+                        <div class="info">
+                            <div class="name">${info.name || id}</div>
+                            <div class="meta">${info.schedule || ''} · ${time}</div>
+                        </div>
+                    </div>`;
+                }).join('');
+            }
+        }
+
+        // Load config for name
+        fetch('/api/config').then(r=>r.json()).then(c => {
+            document.getElementById('newsroomName').textContent = c.newsroom?.name || 'Newsroom';
+        }).catch(()=>{});
+
+        // Initial load
+        fetch('/api/status').then(r=>r.json()).then(d => { state = d; render(); }).catch(()=>{});
+
+        // WebSocket
+        const wsUrl = `ws://${location.host}`;
+        function connect() {
+            const ws = new WebSocket(wsUrl);
+            ws.onmessage = (e) => { const d = JSON.parse(e.data); state = d.data || d; render(); };
+            ws.onclose = () => setTimeout(connect, 3000);
+        }
+        connect();
+        setInterval(() => fetch('/api/status').then(r=>r.json()).then(d => { state = d; render(); }).catch(()=>{}), 60000);
+    </script>
+</body>
+</html>

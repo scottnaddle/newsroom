@@ -1,0 +1,23 @@
+{
+  "brave_search": {
+    "enabled": true,
+    "queries_ko": [
+      "AI 교육 정책 한국",
+      "인공지능 교육부",
+      "에듀테크 AI 학교 도입"
+    ],
+    "queries_en": [
+      "AI education policy K-12",
+      "artificial intelligence classroom tools",
+      "edtech AI regulation policy"
+    ],
+    "freshness": "pw",
+    "max_results": 5
+  },
+  "rss": {
+    "enabled": false,
+    "feeds": [
+      "https://example.com/rss"
+    ]
+  }
+}

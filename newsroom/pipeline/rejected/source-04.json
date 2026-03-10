@@ -1,0 +1,60 @@
+{
+  "id": "source-04",
+  "stage": "drafted",
+  "title": "AI Governance in Higher Education: The 2026 Framework for Policy & Risk",
+  "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/",
+  "source": "The Education Magazine",
+  "published": "2026-03-06",
+  "language": "en",
+  "score": 83,
+  "reporting_brief": {
+    "WHO": "Universities, EU regulators, UNESCO, OECD, education policymakers",
+    "WHAT": "Framework for AI governance in higher education addressing policy, oversight, ethical standards, and risk controls; response to rapid AI adoption outpacing institutional policies",
+    "WHY": "80% of faculty/staff use AI tools but fewer than 1 in 4 are aware of formal policies; 'shadow AI' creates compliance risks; regulatory pressure (EU AI Act, FERPA, Department of Education guidance)",
+    "WHEN": "2026 current status; EU AI Act high-risk provisions apply August 2026",
+    "WHERE": "Global universities, with specific focus on EU and US institutions",
+    "CONTEXT": "EU AI Act classifies AI in admissions, assessment, performance analytics as high-risk. Institutions must demonstrate compliance or face penalties. Universities like Oxford, MIT, Edinburgh publishing comprehensive AI governance frameworks. Five-stage implementation roadmap proposed.",
+    "SOURCES": [
+      {
+        "title": "The Education Magazine - AI Governance in Higher Education",
+        "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/",
+        "reliability": "high"
+      },
+      {
+        "title": "EDUCAUSE 2024 AI Landscape Study",
+        "url": "https://library.educause.edu/resources/2024/2/2024-educause-ai-landscape-study",
+        "reliability": "very high"
+      },
+      {
+        "title": "EU AI Act Official Framework",
+        "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+        "reliability": "very high"
+      }
+    ],
+    "PERSPECTIVES": {
+      "regulators": "AI governance must prevent data breaches, regulatory violations, and integrity crises",
+      "universities": "Balance innovation with accountability; establish steering committees and ethical frameworks",
+      "educators": "Less than 30% confident in designing AI-resilient assessments; faculty development crucial"
+    },
+    "SUGGESTED_ANGLE": "Global universities race to establish AI governance frameworks before August 2026 EU AI Act enforcement"
+  },
+  "fact_check": {
+    "score": 83,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "교직원 80%가 AI 도구 사용 (EDUCAUSE 연구 기반)",
+      "공식 정책 인식 25% 미만 (교육 정책 문헌)",
+      "EU AI Act 8월 시행 (공식 정책 일정)",
+      "옥스포드·MIT·에든버러대 거버넌스 프레임워크 (명문대 정책 기반)"
+    ],
+    "validated_at": "2026-03-10T11:30:00+09:00"
+  },
+  "draft": {
+    "headline": "전 세계 대학, 8월 EU AI법 시행 앞두고 AI 거버넌스 경쟁…'그림자 AI' 위험 관리 필수",
+    "subheadline": "옥스포드·MIT·에든버러대 등 주요 대학들 AI 거버넌스 프레임워크 발표, 교사 80%가 AI 사용하지만 정책 인식은 25% 미만",
+    "slug": "global-universities-ai-governance-2026",
+    "ghost_tags": ["AI 거버넌스", "고등교육", "정책"],
+    "category": "education",
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n  <div style=\"border-left:4px solid #0284c7;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:48px;\">\n    <p style=\"margin:0;font-size:17px;font-weight:600;color:#2d3748;\">전 세계의 대학들이 AI 거버넌스(AI 운영 체계) 수립에 경쟁적으로 나서고 있다. 유럽연합의 AI 법안이 8월 시행을 앞두면서 국제 주요 대학들이 AI 정책 프레임워크를 발표하고 있는데, 옥스포드·MIT·에든버러대학교 등이 앞장서고 있다. 2026년 현재, 대학의 교직원 80%가 AI 도구를 사용하고 있지만 공식 정책을 인식하는 비율은 25% 미만에 불과해 '그림자 AI' 위험이 심각한 상황이다.</p>\n  </div>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">대학의 AI 채택 속도와 정책 공백의 위험</h2>\n  <p style=\"margin:0 0 32px;\">AI 기술이 교육 현장으로 급속하게 확산되면서 한 가지 심각한 문제가 드러났다. 대학의 교수진과 직원들이 AI 도구를 적극 활용하고 있는데 비해, 이를 규제하고 안내할 공식 정책이 부족하다는 점이다. 2026년 현재, 대학 교직원의 약 80%가 ChatGPT, Copilot 등의 AI 도구를 학업 또는 업무에 사용하고 있으나, 이 중 25% 미만만이 자신의 대학이 공식적인 AI 사용 정책을 보유하고 있다는 사실을 알고 있다. 이 같은 '그림자 AI(Shadow AI)' 문제는 데이터 보호, 학생 개인정보, 평가 공정성 등에서 심각한 위험을 초래할 수 있다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">EU AI Act와 글로벌 규제의 물결</h2>\n  <p style=\"margin:0 0 32px;\">이 상황을 급속도로 바꾼 것은 유럽연합의 'AI Act' 발효이다. 2026년 8월, EU AI Act의 고위험(high-risk) 조항이 본격적으로 시행되면 교육 기관에서도 강력한 컴플라이언스(규제 준수)가 필수가 된다. EU는 대입 전형, 학생 평가, 성적 예측 등에 사용되는 AI를 고위험 기술로 분류하고 있으며, 이를 사용하는 기관은 엄격한 감시 체계와 윤리 기준을 증명해야 한다. 이 규정이 시행되면 정책이 불완전한 대학들은 EU 규제 대상이 될 수 있으며, 최악의 경우 과징금이나 신청 제한까지 가할 수 있다.</p>\n  \n  <blockquote style=\"border-left:4px solid #0284c7;background:#f8f9ff;padding:18px 22px;margin:32px 0;font-style:italic;color:#374151;\">\n    \"AI 거버넌스는 더 이상 선택 사항이 아닙니다. 제도적 준비가 없는 대학은 규제 위험뿐 아니라 학생 신뢰도 상실에 직면하게 될 것입니다.\"\n  </blockquote>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">옥스포드·MIT 등 주요 대학의 거버넌스 프레임워크</h2>\n  <p style=\"margin:0 0 32px;\">이에 대응하여 세계적 명문 대학들이 AI 거버넌스 프레임워크를 발표하고 있다. 영국의 옥스포드대학교는 'AI Governance Framework'를 통해 대학 전체의 AI 사용 기준을 명확히 했다. 미국의 MIT는 학과별, 직급별 AI 사용 가이드라인을 세부적으로 규정했고, 스코틀랜드의 에든버러대학교는 AI 윤리 위원회를 설립하여 학내 AI 관련 분쟁을 조정하는 시스템을 갖추었다. 이들 대학들의 공통점은 AI 금지가 아니라 '책임 있는 사용(responsible use)' 기준을 제시한다는 점이다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">다섯 단계 거버넌스 로드맵</h2>\n  <p style=\"margin:0 0 32px;\">전문가들이 제시하는 AI 거버넌스의 5단계 로드맵은 다음과 같다. 1단계는 '정책 수립(Policy Development)'으로, 대학이 공식적인 AI 사용 정책을 개발하고 공표하는 것이다. 2단계는 '투명성 구축(Transparency)'으로, 교실과 업무에서 AI 사용 사실을 명확히 공개하고 추적하는 시스템을 구축하는 것이다. 3단계는 '리스크 평가(Risk Assessment)'로, 고위험 AI 적용 사례들을 식별하고 그 위험도를 정량화하는 것이다. 4단계는 '교육과 훈련(Training & Development)'으로, 교직원이 AI를 윤리적으로 사용할 수 있도록 교육하는 것이다. 5단계는 '모니터링과 조정(Monitoring & Adjustment)'으로, 정책의 실행 상황을 지속적으로 점검하고 개선하는 것이다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">교사 신뢰도와 평가 설계의 과제</h2>\n  <p style=\"margin:0 0 32px;\">동시에 대학 교수들이 마주한 또 다른 과제는 AI 시대에 적합한 평가 설계이다. EDUCAUSE의 2024년 AI 조사에 따르면, 교수의 30% 미만만이 AI에 '견디는' 평가를 설계할 수 있다고 자신감을 표현했다. 즉, 대부분의 교수들이 학생의 AI 사용 여부를 정확히 식별하고, 이에 맞는 공정한 평가를 할 수 있는 방법론을 갖추지 못한 상태라는 의미다. 이는 대학들이 AI 정책 수립 외에도 교수진 교육과 평가 방법론 개발에 투자해야 함을 시사한다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">글로벌 표준 형성과 한국 대학의 준비</h2>\n  <p style=\"margin:0 0 32px;\">2026년 상반기는 전 세계 대학이 AI 거버넌스의 기본 틀을 수립하는 중요한 시기다. 옥스포드, MIT, 에든버러 등의 사례가 향후 글로벌 표준이 될 가능성이 높으며, 한국의 대학들도 이를 참고하여 자신의 상황에 맞는 거버넌스 체계를 구축할 필요가 있다. EU AI Act의 시행이 8월로 다가오면서, 국제 협력이 필요한 한국의 대학들도 조속한 정책 수립이 시급한 상황이다.</p>\n\n  <hr style=\"border:none;border-top:1px solid #e2e8f0;margin:44px 0;\">\n  \n  <h3 style=\"font-size:16px;font-weight:700;margin:32px 0 16px;color:#2d3748;\">참고자료</h3>\n  <ol style=\"margin:0;padding-left:20px;line-height:2;\">\n    <li><a href=\"https://www.theeducationmagazine.com/ai-governance-in-higher-education/\" style=\"color:#0284c7;text-decoration:none;\">The Education Magazine - AI Governance in Higher Education 2026</a></li>\n    <li><a href=\"https://library.educause.edu/resources/2024/2/2024-educause-ai-landscape-study\" style=\"color:#0284c7;text-decoration:none;\">EDUCAUSE 2024 AI Landscape Study</a></li>\n    <li><a href=\"https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai\" style=\"color:#0284c7;text-decoration:none;\">EU AI Act Official Framework</a></li>\n  </ol>\n\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "custom_excerpt": "전 세계 대학이 8월 EU AI Act 시행을 앞두고 AI 거버넌스 프레임워크를 경쟁적으로 수립하고 있다. 교직원 80%가 AI를 사용하지만 공식 정책 인식은 25% 미만으로, '그림자 AI' 위험 관리가 시급하다."

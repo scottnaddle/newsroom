@@ -1,0 +1,25 @@
+{
+  "id": "factchecked-20260310-002",
+  "stage": "rejected",
+  "headline": "금지 대신 필수 교양으로…한국 대학가, AI 활용 패러다임 대전환",
+  "subheadline": "가천대 191개 강좌 확대, 서울대 'AI 가이드라인' 제정…3년의 과도기를 거쳐 본격 수용 시대",
+  "draft": {
+    "headline": "금지 대신 필수 교양으로…한국 대학가, AI 활용 패러다임 대전환",
+    "html": "<div style=\"font-family:'Noto Sans KR', sans-serif; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e;\"><div style=\"border-left:4px solid #0284c7; background:#f8f9ff; padding:18px 22px; border-radius:0 8px 8px 0; margin-bottom:48px;\"><p style=\"margin:0; font-weight:600; font-size:16px;\">2026년 새 학기를 맞아 한국 대학가가 인공지능(AI) 활용의 패러다임을 전환하고 있습니다. ChatGPT 등장 초기 표절 논란으로 금지했던 AI를 이제는 학생 필수 역량으로 규정하고 있습니다.</p></div><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">AI 금지에서 필수 역량으로의 180도 회전</h2><p style=\"margin:0 0 32px;\">가천대학교는 올해 AI 기초교양 수강을 전교생 필수로 의무화했으며, 관련 강좌를 191개로 대폭 확대했습니다. 서울대학교는 2026년 1월 1일자로 '서울대 AI 가이드라인'을 공식 제정했으며, 자율과 책임의 원칙을 명문화했습니다. 서울시립대학교는 지난 2월부터 자체 통합 생성형 AI 정보서비스인 'AIChat'을 전 구성원에게 제공함으로써 통제 가능한 독자적 학내 AI 인프라를 구축했습니다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">교육 현장의 이중 우려: 공정성과 격차</h2><p style=\"margin:0 0 32px;\">그러나 AI 도입의 확산 속에는 깊은 우려가 자리 잡고 있습니다. 첫째는 평가 공정성 문제입니다. 현존하는 AI 탐지 프로그램으로는 출처를 은폐한 'AI 대필'을 100% 적발하기 어렵습니다. 둘째는 '신 디지털 격차'의 심화입니다. 월 구독료가 발생하는 고성능 유료 AI 모델과 무료 버전 간의 성능 차이가 뚜렷합니다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">평가 방식 개편으로의 대응</h2><p style=\"margin:0 0 32px;\">이러한 문제들을 인식한 대학들은 평가 방식 자체를 개편하기 시작했습니다. AI가 쉽게 대체할 수 있는 단순 지식 확인용 레포트 과제를 줄이고, 대신 오프라인 지필 고사와 구술(면접) 평가의 비중을 다시 늘리고 있습니다. 호서대학교는 '생성형 AI 안내 및 활용 방법'을 홈페이지에 구체적으로 명시했으며, 아주대학교는 자체 학습관리시스템(LMS)에 맞춤형 AI 학습 콘텐츠를 정교하게 연동했습니다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">AI 시대 대학 교육의 새로운 정체성 모색</h2><p style=\"margin:0 0 32px;\">한국 대학이 직면한 이 선택은 사실 매우 본질적인 질문을 던지고 있습니다. 대학 교육의 목표가 무엇인가? 단순한 지식 전달인가, 아니면 비판적 사고력과 창의력 개발인가? AI가 지식 전달 역할을 대신할 수 있는 시대에 대학이 존재해야 할 이유는 무엇인가? 이러한 근본적인 질문들에 답하기 위해 대학들은 자신들의 교육 패러다임을 재구성하고 있습니다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">참고자료</h2><ol style=\"padding-left:20px; margin:0 0 32px;\"><li style=\"margin-bottom:12px;\"><a href=\"https://www.mt.co.kr/policy/2026/03/03/2026030313051850252\" target=\"_blank\">머니투데이: 대학가 AI 패러다임 전환</a></li><li style=\"margin-bottom:12px;\"><a href=\"https://news.unn.net/news/articleView.html?idxno=590453\" target=\"_blank\">한국대학신문: 대학 AI 교육 도입 확산</a></li><li style=\"margin-bottom:12px;\"><a href=\"https://www.seoul.ac.kr/\" target=\"_blank\">서울대학교: AI 가이드라인</a></li></ol><p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>"
+  },
+  "fact_check": {
+    "score": 88,
+    "verdict": "PASS",
+    "verified_claims": [
+      "가천대 191개 강좌 확대 ✓",
+      "서울대 2026년 1월 AI 가이드라인 제정 ✓",
+      "서울시립대 AIChat 운영 ✓"
+    ],
+    "validated_at": "2026-03-10T14:25:00Z"
+  },
+  "created_at": "2026-03-10T14:25:00Z",
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "본문 1098자 (1600자 미만)"
+  }
+}
