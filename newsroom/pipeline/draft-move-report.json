@@ -1,0 +1,513 @@
+{
+  "timestamp": "2026-03-10T07:43:49.567Z",
+  "api": "https://ubion.ghost.io",
+  "moved": 100,
+  "errors": 0,
+  "total": 100,
+  "results": {
+    "moved": [
+      {
+        "id": "69aecc47ff4fbf0001ab7c9e",
+        "title": "AI는 이제 '필수 역량'…대학이 바꾸는 교육의 미래",
+        "contentLength": 0
+      },
+      {
+        "id": "69aecc52ff4fbf0001ab7cb2",
+        "title": "AI가 교사의 시간을 되찾다, 70% 업무 감소 성과",
+        "contentLength": 0
+      },
+      {
+        "id": "69aecc4dff4fbf0001ab7ca6",
+        "title": "영국·미국이 동시 착수한 'AI 교육 거버넌스'…한국은 준비됐나?",
+        "contentLength": 0
+      },
+      {
+        "id": "69af439cff4fbf0001ab7cc4",
+        "title": "92% 학생이 AI 사용하나, 3분의 1만 정식 교육받아",
+        "contentLength": 0
+      },
+      {
+        "id": "69af4397ff4fbf0001ab7cbb",
+        "title": "글로벌 교육 정책, AI 시대 미래형 인재 양성으로 전환",
+        "contentLength": 0
+      },
+      {
+        "id": "69af43a1ff4fbf0001ab7ccc",
+        "title": "EU AI Act 8월 시행 임박... 대학가 AI 가버넌스 준비 시급",
+        "contentLength": 0
+      },
+      {
+        "id": "69af4b11ff4fbf0001ab7ce3",
+        "title": "AI 규제의 '임계점' 도달, 글로벌 기업과 교육부가 움직이기 시작했다",
+        "contentLength": 0
+      },
+      {
+        "id": "69af4b0cff4fbf0001ab7cdb",
+        "title": "증명된 AI 교육의 3가지 최고의 활용법 — 연구가 말하는 2026년의 교실",
+        "contentLength": 0
+      },
+      {
+        "id": "69af4b16ff4fbf0001ab7ceb",
+        "title": "한국 교육, AI 시대로 들어선다 — 1,141개 AI 중점학교 본격 운영",
+        "contentLength": 0
+      },
+      {
+        "id": "69af4b1cff4fbf0001ab7cf5",
+        "title": "대학이 갈팡질팡한다 — ChatGPT 3년 후, AI 학습 규칙은 여전히 혼란 속",
+        "contentLength": 0
+      },
+      {
+        "id": "69af4b21ff4fbf0001ab7cff",
+        "title": "AI 시대, 인문학이 답이다 — 미래 인재는 엔지니어가 아닌 철학자에서 나온다",
+        "contentLength": 0
+      },
+      {
+        "id": "69af6192ff4fbf0001ab7d4c",
+        "title": "대학가 'AI 금지에서 필수로'…평가 패러다임 전환의 시작",
+        "contentLength": 0
+      },
+      {
+        "id": "69af6193ff4fbf0001ab7d56",
+        "title": "글로벌 'AI 교육 거버넌스' 강화 움직임…한국 교육의 선택지는",
+        "contentLength": 0
+      },
+      {
+        "id": "69af6193ff4fbf0001ab7d60",
+        "title": "대학 AI 거버넌스의 '현실과 갭'…섀도우 AI와 규제의 압박",
+        "contentLength": 0
+      },
+      {
+        "id": "69abbe4bff4fbf0001ab7306",
+        "title": "🎙️ AI 교육: 득이 될까, 실이 될까? (팟캐스트)",
+        "contentLength": 0
+      },
+      {
+        "id": "69ab8b84ff4fbf0001ab7262",
+        "title": "🎙️ AI 교육: 득이 될까, 실이 될까? (팟캐스트)",
+        "contentLength": 0
+      },
+      {
+        "id": "69abab60ff4fbf0001ab72da",
+        "title": "🎙️ AI 교육: 득이 될까, 실이 될까? (팟캐스트)",
+        "contentLength": 0
+      },
+      {
+        "id": "69abadffff4fbf0001ab72e2",
+        "title": "🎙️ AI 교육: 득이 될까, 실이 될까? (팟캐스트)",
+        "contentLength": 0
+      },
+      {
+        "id": "69abb89cff4fbf0001ab72f5",
+        "title": "🎙️ AI 교육 득실 (팟캐스트)",
+        "contentLength": 0
+      },
+      {
+        "id": "69ab79baff4fbf0001ab71fb",
+        "title": "🎭 AI Colloquy: AI로 창의적 글쓰기를 가르칠 수 있을까?",
+        "contentLength": 0
+      },
+      {
+        "id": "69ab76dfff4fbf0001ab71a7",
+        "title": "🎭 AI Colloquy: AI로 창의적 글쓰기를 가르칠 수 있을까?",
+        "contentLength": 0
+      },
+      {
+        "id": "69ab7877ff4fbf0001ab71cd",
+        "title": "🎭 AI Colloquy: AI로 창의적 글쓰기를 가르칠 수 있을까?",
+        "contentLength": 0
+      },
+      {
+        "id": "69ab779aff4fbf0001ab71b5",
+        "title": "🎭 AI Colloquy: AI로 창의적 글쓰기를 가르칠 수 있을까?",
+        "contentLength": 0
+      },
+      {
+        "id": "69ab7d2aff4fbf0001ab7216",
+        "title": "🎭 AI Colloquy: AI로 창의적 글쓰기를 가르칠 수 있을까?",
+        "contentLength": 0
+      },
+      {
+        "id": "69ab7cbaff4fbf0001ab7210",
+        "title": "🎭 AI Colloquy: AI로 창의적 글쓰기를 가르칠 수 있을까?",
+        "contentLength": 0
+      },
+      {
+        "id": "69ab772fff4fbf0001ab71af",
+        "title": "🎭 AI Colloquy: AI로 창의적 글쓰기를 가르칠 수 있을까?",
+        "contentLength": 0
+      },
+      {
+        "id": "69ab7fa6ff4fbf0001ab7222",
+        "title": "🎭 AI Colloquy: AI로 창의적 글쓰기를 가르칠 수 있을까?",
+        "contentLength": 0
+      },
+      {
+        "id": "69abae78ff4fbf0001ab72ea",
+        "title": "오픈AI, 1100억 달러 신규 투자 유치… 역대 최대 규모",
+        "contentLength": 0
+      },
+      {
+        "id": "69abd234ff4fbf0001ab7322",
+        "title": "오픈AI 1100억 달러, 역대 최대 투자…AI 인프라 확장 가속화",
+        "contentLength": 0
+      },
+      {
+        "id": "69abbd55ff4fbf0001ab72fd",
+        "title": "🎙️ AI와 저작권 - 새로운 관점 (팟캐스트)",
+        "contentLength": 0
+      },
+      {
+        "id": "69ab5986ff4fbf0001ab711f",
+        "title": "[논문] Med-V1: 영상증거 귀속을 위한 제로샷 및 확장 가능한 소규모 언어 모델",
+        "contentLength": 0
+      },
+      {
+        "id": "69ab5987ff4fbf0001ab712b",
+        "title": "[논문] 법 해석과 AI: 전문가 시스템부터 논증 및 거대 언어 모델까지",
+        "contentLength": 0
+      },
+      {
+        "id": "69ab5988ff4fbf0001ab7131",
+        "title": "[논문] 저매개변수 LLM을 위한 탐색-분석-모호성 해소 추론 프레임워크를 이용한 단어 의미 분해",
+        "contentLength": 0
+      },
+      {
+        "id": "69ab5989ff4fbf0001ab713d",
+        "title": "[논문] 순차 몬테카를로를 이용한 언어 모델 앙상블링",
+        "contentLength": 0
+      },
+      {
+        "id": "69ab598bff4fbf0001ab714f",
+        "title": "[논문] POET-X: 직교 변환 확장을 통한 메모리 효율적인 LLM 훈련",
+        "contentLength": 0
+      },
+      {
+        "id": "69ab598cff4fbf0001ab7155",
+        "title": "[논문] 로보포켓: 스마트폰으로 로봇 정책을 즉시 개선하는 방법",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcb0415c2cc0001bbe10c",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcb0315c2cc0001bbe108",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcb0215c2cc0001bbe104",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcb0215c2cc0001bbe100",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcb0115c2cc0001bbe0fc",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcb0015c2cc0001bbe0f8",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcb0015c2cc0001bbe0f4",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcaff15c2cc0001bbe0f0",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcafe15c2cc0001bbe0ec",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcafd15c2cc0001bbe0e4",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcafc15c2cc0001bbe0e0",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcafb15c2cc0001bbe0dc",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcafb15c2cc0001bbe0d8",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcafa15c2cc0001bbe0d4",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcaf915c2cc0001bbe0d0",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcaf915c2cc0001bbe0cc",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcaf815c2cc0001bbe0c8",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcaf815c2cc0001bbe0c4",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afc9a015c2cc0001bbe0be",
+        "title": "에이전틱 AI 스타트업 라이즈르, 2억5천만달러 기업가치 달성",
+        "contentLength": 0
+      },
+      {
+        "id": "69afc9a015c2cc0001bbe0b8",
+        "title": "생성형 AI, 창의성 테스트에서 인간 능력 추월",
+        "contentLength": 0
+      },
+      {
+        "id": "69afc9a015c2cc0001bbe0b2",
+        "title": "Anthropic, AI 코드 검수 자동화 도구 출시",
+        "contentLength": 0
+      },
+      {
+        "id": "69afc99f15c2cc0001bbe0ac",
+        "title": "신경형태 컴퓨터, 복잡한 물리 시뮬레이션 해석 가능",
+        "contentLength": 0
+      },
+      {
+        "id": "69afc99f15c2cc0001bbe0a6",
+        "title": "마이크로소프트, Anthropic과 협력해 AI 에이전트 플랫폼 Copilot Cowork 출시",
+        "contentLength": 0
+      },
+      {
+        "id": "69afc99f15c2cc0001bbe0a0",
+        "title": "마이크로소프트, 2026년 자본지출 66% 증가해 375억 달러 투자",
+        "contentLength": 0
+      },
+      {
+        "id": "69afc99e15c2cc0001bbe09a",
+        "title": "생성형 AI, 인간 평균 창의성 테스트 성능 추월",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcb0615c2cc0001bbe11c",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcb0615c2cc0001bbe118",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcb0515c2cc0001bbe114",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcb0415c2cc0001bbe110",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69af8356ff4fbf0001ab7db4",
+        "title": "마이크로소프트, 코파일럿에 클로드 AI 통합 추진",
+        "contentLength": 0
+      },
+      {
+        "id": "69af8355ff4fbf0001ab7dab",
+        "title": "앤스로픽, 국방부의 보안 위험 지정 취소 소송 제기",
+        "contentLength": 0
+      },
+      {
+        "id": "69af8353ff4fbf0001ab7da2",
+        "title": "앤스로픽, AI 생성 코드 자동 검토 도구 출시",
+        "contentLength": 0
+      },
+      {
+        "id": "69af5985ff4fbf0001ab7d42",
+        "title": "마이크로소프트, AI 에이전트 개발 위해 Anthropic과 협력 확대",
+        "contentLength": 0
+      },
+      {
+        "id": "69af5984ff4fbf0001ab7d39",
+        "title": "Anthropic, 미국 국방부의 국가안보 블랙리스트 포함 저지 소송 제기",
+        "contentLength": 0
+      },
+      {
+        "id": "69af5984ff4fbf0001ab7d30",
+        "title": "생성 AI, 특정 창의성 테스트에서 평균 인간 추월",
+        "contentLength": 0
+      },
+      {
+        "id": "69af5984ff4fbf0001ab7d27",
+        "title": "영국 AI 투자, 수십억 파운드 규모의 '유령 투자' 적발",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcb0915c2cc0001bbe12c",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcb0915c2cc0001bbe128",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcb0815c2cc0001bbe124",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69afcb0715c2cc0001bbe120",
+        "title": "...",
+        "contentLength": 0
+      },
+      {
+        "id": "69af5296ff4fbf0001ab7d20",
+        "title": "[논문] COLD-Steer: 인컨텍스트 원스텝 학습 역학을 통한 대형 언어 모델 조향",
+        "contentLength": 0
+      },
+      {
+        "id": "69af4b50ff4fbf0001ab7d18",
+        "title": "\"AI로 대체 불가\" - Block 직원들이 대량해고 정당성에 이의",
+        "contentLength": 0
+      },
+      {
+        "id": "69af4b50ff4fbf0001ab7d10",
+        "title": "Anthropic, 펜타곤의 국가안보 블랙리스트 제재 금지 소송 제기",
+        "contentLength": 0
+      },
+      {
+        "id": "69af4b4fff4fbf0001ab7d07",
+        "title": "생성형 AI, 평균 인간 수준의 창의력 시험에서 우위",
+        "contentLength": 0
+      },
+      {
+        "id": "69af442fff4fbf0001ab7cd4",
+        "title": "[논문] ReflexiCoder: 강화학습을 통한 생성된 코드에 대한 자기반성 및 자기교정 능력 함양",
+        "contentLength": 0
+      },
+      {
+        "id": "69aecc42ff4fbf0001ab7c96",
+        "title": "AI 시대, 초등교사는 사라지지 않는다",
+        "contentLength": 0
+      },
+      {
+        "id": "69aecc3dff4fbf0001ab7c8c",
+        "title": "730개에서 2,000개로…AI 중점학교 확대가 보여주는 한국 교육의 방향",
+        "contentLength": 0
+      },
+      {
+        "id": "69aecc37ff4fbf0001ab7c84",
+        "title": "경북대, 전국 단 2곳 로봇 분야 선정…대구·경북 AI 인재 양성 허브로 부상",
+        "contentLength": 0
+      },
+      {
+        "id": "69aecc31ff4fbf0001ab7c7c",
+        "title": "LG, 국내 첫 교육부 인가 AI 사내 대학원 개원",
+        "contentLength": 0
+      },
+      {
+        "id": "69aecc2aff4fbf0001ab7c74",
+        "title": "미국 5개 주, 학교 생성형 AI 전면 금지 법안 추진",
+        "contentLength": 0
+      },
+      {
+        "id": "69aecc25ff4fbf0001ab7c6c",
+        "title": "영·미 AI 교육 거버넌스 강화, 한국 선택은",
+        "contentLength": 0
+      },
+      {
+        "id": "69a94ac9e2eb440001d55f6e",
+        "title": "\"AI에 종속되지 않기\" - 서울시교육청의 도전",
+        "contentLength": 0
+      },
+      {
+        "id": "69aa0a8aff4fbf0001ab6cd0",
+        "title": "교육부, 대학 AI 윤리 가이드라인 시안 공개…4~5월 전국 배포",
+        "contentLength": 0
+      },
+      {
+        "id": "69aa0a86ff4fbf0001ab6cba",
+        "title": "영·미 AI 교육 거버넌스 강화, 한국 선택은",
+        "contentLength": 0
+      },
+      {
+        "id": "69acc105ff4fbf0001ab7478",
+        "title": "AI가 대학 강의실에 들어오면, 누가 밀려나는가",
+        "contentLength": 0
+      },
+      {
+        "id": "69acbe3aff4fbf0001ab7468",
+        "title": "한 달 새 두 번째 포럼 — 정부가 AI 교육 청사진을 서두르는 이유",
+        "contentLength": 0
+      },
+      {
+        "id": "69acbe3aff4fbf0001ab7456",
+        "title": "대학이 직접 AI 학습 플랫폼을 만들면 뭐가 달라지나 — 한기대 K-LXP의 실험",
+        "contentLength": 0
+      },
+      {
+        "id": "69acbe39ff4fbf0001ab7448",
+        "title": "AI는 만들었는데 '쓰는 법'은 안 가르친다 — 윤리·리터러시 정책의 빈자리",
+        "contentLength": 0
+      },
+      {
+        "id": "69ae08b3ff4fbf0001ab768a",
+        "title": "교실에 들어온 AI, 교사의 딜레마 — 미국 교생의 고민에서 한국 정책 급변까지",
+        "contentLength": 0
+      },
+      {
+        "id": "69accce6ff4fbf0001ab74a3",
+        "title": "접경지역 연천에 AI 학습센터 문 열다… 정원 30명에 59명 몰려",
+        "contentLength": 0
+      },
+      {
+        "id": "69ae70d2ff4fbf0001ab7881",
+        "title": "서울대·연세대·고려대… 주요 대학, AI 단과대 독립 체제 가속화",
+        "contentLength": 0
+      },
+      {
+        "id": "69ae70caff4fbf0001ab7875",
+        "title": "\"AI는 이제 예외가 아닌 표준\" — Coursera 보고서가 드러낸 95% 보편화의 이면",
+        "contentLength": 0
+      },
+      {
+        "id": "69ae70c2ff4fbf0001ab7869",
+        "title": "교육부, 'AI 중점학교' 1,141곳 선정… 385억 투입해 2028년 2,000곳으로 확대",
+        "contentLength": 0
+      },
+      {
+        "id": "69ae689eff4fbf0001ab7808",
+        "title": "제주대-성균관대, AI·에듀테크 인재양성 MOU… 지역-수도권 연구 협력 모델 구축",
+        "contentLength": 0
+      }
+    ],
+    "error": [],
+    "skipped": []
+  }
+}
