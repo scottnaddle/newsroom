@@ -36,8 +36,15 @@
       "agent": "digest-writer",
       "action": "drafted",
       "timestamp": "2026-03-10T09:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "rejected",
+      "reason": "Ghost API Error [401]: {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"608e61a0-1c19-11f1-be8b-43144e99e423\",\"ghostErrorCode\":null}]}",
+      "timestamp": "2026-03-10T00:37:54.511Z"
     }
   ],
-  "reject_reason": "Cannot read properties of undefined (reading 'substring')",
-  "rejected_at": "2026-03-10T00:35:32.546Z"
+  "reject_reason": "Ghost API error 401: {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"3b001fa0-1c19-11f1-be8b-43144e99e423\",\"ghostErrorCode\":null}]}",
+  "rejected_at": "2026-03-10T00:37:54.511Z",
+  "rejection_reason": "Ghost API Error [401]: {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"608e61a0-1c19-11f1-be8b-43144e99e423\",\"ghostErrorCode\":null}]}"
 }
