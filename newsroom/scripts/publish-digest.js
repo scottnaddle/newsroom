@@ -23,7 +23,7 @@ const USED_IMAGES_FILE = path.join(WORKSPACE, 'shared/config/used-images.json');
 
 // Ghost 설정
 const config = JSON.parse(fs.readFileSync(CONFIG_FILE, 'utf8'));
-const API_URL = 'https://ubion.ghost.io/ghost/api/admin';
+const API_URL = 'https://insight.ubion.global/ghost/api/admin';
 const AI_DIGEST_TAG_ID = '69a78cc8659ea80001153beb';
 
 // JWT 생성
@@ -150,8 +150,8 @@ async function publishDigest(digestFile) {
 
     const publishResult = {
       ghost_post_id: post.id,
-      ghost_url: `https://ubion.ghost.io/ghost/#/editor/post/${post.id}`,
-      public_url: `https://ubion.ghost.io/${post.slug}/`,
+      ghost_url: `https://insight.ubion.global/ghost/#/editor/post/${post.id}`,
+      public_url: `https://insight.ubion.global/${post.slug}/`,
       status: 'published',
       published_at: new Date().toISOString(),
     };

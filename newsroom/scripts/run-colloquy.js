@@ -25,7 +25,7 @@ const MEMORY_DIR = `${COLLOQUY_DIR}/memory`;
 const GLM_API_KEY = '95087f94d2dd4c6dacc1689483d3313a.ouEapRwsgNG0xAJ5';
 
 // Ghost
-const GHOST_URL = 'https://ubion.ghost.io';
+const GHOST_URL = 'https://insight.ubion.global';
 const GHOST_API_KEY = '69a41252e9865e00011c166a:e74e50ce3e6c097ad370d5370633ccbc2a3e3c0627d7ce1fc12a81b4e6b01625';
 
 // ============================================
@@ -735,7 +735,7 @@ async function main() {
     const result = await publish(colloquy);
     
     const slug = result.posts?.[0]?.slug;
-    const publicUrl = `https://ubion.ghost.io/${slug}/`;
+    const publicUrl = `https://insight.ubion.global/${slug}/`;
     
     console.log('\n✅ 발행 완료!');
     console.log(`🔗 ${publicUrl}`);

@@ -133,7 +133,7 @@ async function publishWithRetry(postData, jwt, maxRetries = 3) {
   for (let attempt = 1; attempt <= maxRetries; attempt++) {
     try {
       const response = await callGhostAPI(
-        'https://ubion.ghost.io/ghost/api/admin/posts/?source=html',
+        'https://insight.ubion.global/ghost/api/admin/posts/?source=html',
         'POST',
         jwt,
         postData
@@ -227,7 +227,7 @@ async function publishArticle(filePath) {
       stage: 'published',
       publish_result: {
         ghost_post_id: publishedPost.id,
-        ghost_draft_url: `https://ubion.ghost.io/ghost/#/editor/post/${publishedPost.id}`,
+        ghost_draft_url: `https://insight.ubion.global/ghost/#/editor/post/${publishedPost.id}`,
         status: 'published',
         published_at: new Date().toISOString()
       },
@@ -237,7 +237,7 @@ async function publishArticle(filePath) {
           agent: 'publisher',
           action: 'published-draft',
           timestamp: new Date().toISOString(),
-          note: `Ghost Post ID: ${publishedPost.id}, Draft URL: https://ubion.ghost.io/ghost/#/editor/post/${publishedPost.id}`
+          note: `Ghost Post ID: ${publishedPost.id}, Draft URL: https://insight.ubion.global/ghost/#/editor/post/${publishedPost.id}`
         }
       ]
     };
@@ -258,7 +258,7 @@ async function publishArticle(filePath) {
     return {
       success: true,
       headline: headline,
-      ghostUrl: `https://ubion.ghost.io/ghost/#/editor/post/${publishedPost.id}`
+      ghostUrl: `https://insight.ubion.global/ghost/#/editor/post/${publishedPost.id}`
     };
     
   } catch (error) {

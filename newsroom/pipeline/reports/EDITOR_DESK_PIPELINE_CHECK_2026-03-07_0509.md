@@ -54,7 +54,7 @@
 ### 2. Ghost 도메인 불일치
 
 - **설정된 도메인**: `ai-education-trends.ghost.io` → DNS 에러
-- **실제 사용 중**: `ubion.ghost.io`
+- **실제 사용 중**: `insight.ubion.global`
 
 **조치**: 환경설정에서 Ghost 도메인 업데이트 필요
 
@@ -98,7 +98,7 @@
 
 ### 높은 우선순위
 1. **Publisher 로직 점검**: draft → published 상태 변경 로직 추가
-2. **Ghost 도메인 수정**: `ubion.ghost.io`로 업데이트
+2. **Ghost 도메인 수정**: `insight.ubion.global`로 업데이트
 3. **Reporter 실행**: 02-assigned 기사 처리 필요
 
 ### 중간 우선순위

@@ -2,7 +2,7 @@ const https = require('https');
 const crypto = require('crypto');
 const { createCanvas } = require('canvas');
 
-const GHOST_URL = 'ubion.ghost.io';
+const GHOST_URL = 'insight.ubion.global';
 const GHOST_KEY = '69a41252e9865e00011c166a';
 const GHOST_SECRET = 'e74e50ce3e6c097ad370d5370633ccbc2a3e3c0627d7ce1fc12a81b4e6b01625';
 

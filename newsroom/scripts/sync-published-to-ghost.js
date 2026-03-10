@@ -16,7 +16,7 @@ const crypto = require('crypto');
 const PIPELINE_DIR = '/root/.openclaw/workspace/newsroom/pipeline';
 const PUBLISHED_DIR = path.join(PIPELINE_DIR, '08-published');
 
-const GHOST_URL = 'https://ubion.ghost.io';
+const GHOST_URL = 'https://insight.ubion.global';
 const GHOST_API_KEY = '69a41252e9865e00011c166a:e74e50ce3e6c097ad370d5370633ccbc2a3e3c0627d7ce1fc12a81b4e6b01625';
 
 // ─── JWT 생성 ──────────────────────────────────────────────────

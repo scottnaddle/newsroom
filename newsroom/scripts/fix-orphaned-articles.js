@@ -23,7 +23,7 @@ function makeToken() {
 
 function ghostGet(path) {
   return new Promise(r => https.get({
-    hostname:'ubion.ghost.io', 
+    hostname:'insight.ubion.global', 
     path,
     headers:{'Authorization':'Ghost '+makeToken(),'Accept-Version':'v5.0'}
   }, res => { 

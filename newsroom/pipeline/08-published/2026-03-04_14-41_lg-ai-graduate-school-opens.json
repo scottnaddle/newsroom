@@ -225,7 +225,7 @@
       "agent": "publisher",
       "action": "published",
       "timestamp": "2026-03-04T15:00:30.780Z",
-      "note": "Ghost post URL: https://insight.ubion.global/lg-ai-graduate-school-opens/ | Editor: https://ubion.ghost.io/ghost/#/editor/post/69a848e3e2eb440001d557b8 | featured: true (고등교육 키워드 감지)"
+      "note": "Ghost post URL: https://insight.ubion.global/lg-ai-graduate-school-opens/ | Editor: https://insight.ubion.global/ghost/#/editor/post/69a848e3e2eb440001d557b8 | featured: true (고등교육 키워드 감지)"
     },
     {
       "agent": "publisher",
@@ -250,7 +250,7 @@
   },
   "publish_result": {
     "ghost_post_id": "69a9fee8ff4fbf0001ab6c7b",
-    "ghost_edit_url": "https://ubion.ghost.io/ghost/#/editor/post/69a9fee8ff4fbf0001ab6c7b",
+    "ghost_edit_url": "https://insight.ubion.global/ghost/#/editor/post/69a9fee8ff4fbf0001ab6c7b",
     "status": "published",
     "published_at": "2026-03-05T22:08:40.653Z"
   },

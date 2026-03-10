@@ -158,7 +158,7 @@ if (emptyArticles.length === 0) {
 
 console.log('═════════════════════════════════════════════════════════════');
 console.log('🔧 수동 복구 방법:\n');
-console.log('1. Ghost Admin 접속: https://ubion.ghost.io/ghost/');
+console.log('1. Ghost Admin 접속: https://insight.ubion.global/ghost/');
 console.log('2. 각 기사 선택 → Edit');
 console.log('3. HTML 에디터에서 전체 내용 삭제 후 로컬 버전의 HTML 복붙');
 console.log('4. Status를 "draft"로 변경');

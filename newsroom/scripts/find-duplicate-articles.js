@@ -8,7 +8,7 @@ const https = require('https');
 const fs = require('fs');
 
 const GHOST_CONFIG = {
-  host: 'ubion.ghost.io',
+  host: 'insight.ubion.global',
   version: 'v5.0'
 };
 
@@ -164,7 +164,7 @@ async function findDuplicates() {
         console.log(`   ID: ${article.id}`);
         console.log(`   발행일: ${new Date(article.published_at).toLocaleString('ko-KR')}`);
         console.log(`   카테고리: ${tags}`);
-        console.log(`   URL: https://ubion.ghost.io${article.url}`);
+        console.log(`   URL: https://insight.ubion.global${article.url}`);
       });
       
       totalDuplicates += group.length - 1;

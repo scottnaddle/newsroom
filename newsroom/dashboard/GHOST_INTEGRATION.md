@@ -6,7 +6,7 @@
 
 1. **Ghost Admin 접속**
    ```
-   https://ubion.ghost.io/ghost/
+   https://insight.ubion.global/ghost/
    ```
 
 2. **관제센터 페이지 찾기**
@@ -116,7 +116,7 @@
 
 7. **완료!**
    - 이제 관제센터 페이지에서 대시보드가 로드됩니다
-   - URL: `https://ubion.ghost.io/newsroom-status/`
+   - URL: `https://insight.ubion.global/newsroom-status/`
 
 ---
 

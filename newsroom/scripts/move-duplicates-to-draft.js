@@ -14,7 +14,7 @@ const PUBLISHED_DIR = '/root/.openclaw/workspace/newsroom/pipeline/08-published'
 const DRAFT_DIR = '/root/.openclaw/workspace/newsroom/pipeline/04-drafted';
 
 const GHOST_CONFIG = {
-  host: 'ubion.ghost.io',
+  host: 'insight.ubion.global',
   key: '69a41252e9865e00011c166a:e74e50ce3e6c097ad370d5370633ccbc2a3e3c0627d7ce1fc12a81b4e6b01625',
   version: 'v5.0'
 };

@@ -254,7 +254,7 @@
       "agent": "publisher",
       "action": "published-draft",
       "timestamp": "2026-03-03T13:28:45+01:00",
-      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69a6d3fd4b4b120001eb883f"
+      "note": "Ghost draft URL: https://insight.ubion.global/ghost/#/editor/post/69a6d3fd4b4b120001eb883f"
     },
     {
       "agent": "publisher",
@@ -272,7 +272,7 @@
   "desk_instructions": "CalMatters 영문 기사 기반 번역·취재. 캘리포니아 초등학교 AI 이미지 스캔들 경위 — 어떤 사건인지, 피해 규모, 학교·학부모 반응 구체화. 추진 중인 입법안 조항(AI 편향성·학생 데이터 보호) 핵심 정리. 한국 시사점(AI 디지털교과서 개인정보 이슈와 연계) 각주 추가 가능.",
   "publish_result": {
     "ghost_post_id": "69a9fed7ff4fbf0001ab6c46",
-    "ghost_edit_url": "https://ubion.ghost.io/ghost/#/editor/post/69a9fed7ff4fbf0001ab6c46",
+    "ghost_edit_url": "https://insight.ubion.global/ghost/#/editor/post/69a9fed7ff4fbf0001ab6c46",
     "status": "published",
     "published_at": "2026-03-05T22:08:23.406Z"
   }

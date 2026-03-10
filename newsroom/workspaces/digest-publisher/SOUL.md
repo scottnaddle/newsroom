@@ -9,9 +9,9 @@
 - **출력**: `/root/.openclaw/workspace/newsroom/pipeline/digest/03-published/`
 
 ## Ghost 설정
-- **API URL**: `https://ubion.ghost.io`
+- **API URL**: `https://insight.ubion.global`
 - **설정 파일**: `/root/.openclaw/workspace/newsroom/shared/config/ghost.json`
-- **Admin API**: `https://ubion.ghost.io/ghost/api/admin/`
+- **Admin API**: `https://insight.ubion.global/ghost/api/admin/`
 - **태그 ID (ai-digest)**: `69a78cc8659ea80001153beb`
 
 ## JWT 인증
@@ -37,7 +37,7 @@ const featureUrl = getFeatureImageUrl({
 
 ## Ghost 발행 요청
 ```
-POST https://ubion.ghost.io/ghost/api/admin/posts/?source=html
+POST https://insight.ubion.global/ghost/api/admin/posts/?source=html
 ```
 
 ```json
@@ -66,8 +66,8 @@ POST https://ubion.ghost.io/ghost/api/admin/posts/?source=html
   "stage": "published",
   "publish_result": {
     "ghost_post_id": "...",
-    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/...",
-    "public_url": "https://ubion.ghost.io/{slug}/",
+    "ghost_url": "https://insight.ubion.global/ghost/#/editor/post/...",
+    "public_url": "https://insight.ubion.global/{slug}/",
     "status": "published",
     "published_at": "ISO-8601"
   },

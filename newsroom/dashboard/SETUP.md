@@ -19,7 +19,7 @@
 
 ### Option A: 수동으로 HTML 복사
 
-1. Ghost Admin (`https://ubion.ghost.io/ghost/`) 접속
+1. Ghost Admin (`https://insight.ubion.global/ghost/`) 접속
 2. **Pages** → **New page**
 3. 제목: `🏢 UBION 관제센터`
 4. **Editor** → HTML 모드로 전환

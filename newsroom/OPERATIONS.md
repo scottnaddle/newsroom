@@ -1,7 +1,7 @@
 # UBION AI & EDTECH 뉴스룸 운영 전략 보고서
 
 > **작성일**: 2026년 3월 4일  
-> **서비스**: [ubion.ghost.io](https://ubion.ghost.io)  
+> **서비스**: [insight.ubion.global](https://insight.ubion.global)  
 > **버전**: v1.2
 
 ---
@@ -39,7 +39,7 @@ UBION AI & EDTECH는 AI 기술이 교육 분야에 미치는 영향을 전문적
 ### 콘텐츠 카테고리
 
 ```
-ubion.ghost.io
+insight.ubion.global
 ├── AI 교육 (/tag/ai-edu/)          — 글로벌 AI 교육 뉴스 (주력)
 ├── AI 다이제스트 (/tag/ai-digest/) — AI 기술 뉴스 + 에듀테크 시사점
 └── 에듀테크 인사이트 (/tag/edu-insight/) — 일일 심층 논설 (featured)
@@ -73,14 +73,14 @@ ubion.ghost.io
 │                        │                           │
 └────────────────────────┼────────────────────────────┘
                          ▼
-              Ghost CMS (ubion.ghost.io)
+              Ghost CMS (insight.ubion.global)
 ```
 
 ### 핵심 기술 스택
 
 - **AI 엔진**: Anthropic Claude (Sonnet 4.6 / Opus 4.6)
 - **에이전트 플랫폼**: OpenClaw (자체 호스팅)
-- **CMS**: Ghost Pro (ubion.ghost.io)
+- **CMS**: Ghost Pro (insight.ubion.global)
 - **뉴스 수집**: Brave Search API
 - **서버**: Contabo VPS (Linux 6.8.0, Node.js v24)
 - **언어**: Korean (한국어), 일부 영문 소스
@@ -444,7 +444,7 @@ done
 
 ### A. Ghost Admin API 정보
 
-- **URL**: `https://ubion.ghost.io/ghost/api/admin/`
+- **URL**: `https://insight.ubion.global/ghost/api/admin/`
 - **인증**: JWT HS256 (kid + secret, 5분 만료)
 - **API 버전**: v5.0
 

@@ -11,7 +11,7 @@ const crypto = require('crypto');
 
 // Ghost API 설정
 const GHOST_CONFIG = {
-  host: 'ubion.ghost.io',
+  host: 'insight.ubion.global',
   key: '69a41252e9865e00011c166a:e74e50ce3e6c097ad370d5370633ccbc2a3e3c0627d7ce1fc12a81b4e6b01625',
   version: 'v5.0'
 };
@@ -147,7 +147,7 @@ async function createPage() {
       console.log('\n✅ Ghost 페이지 생성 완료!\n');
       console.log(`📄 페이지: ${page.title}`);
       console.log(`🔗 Slug: ${page.slug}`);
-      console.log(`📍 URL: https://ubion.ghost.io/${page.slug}/`);
+      console.log(`📍 URL: https://insight.ubion.global/${page.slug}/`);
       console.log(`\n✨ Ghost Admin에서 "Publish"를 눌러 공개하세요!`);
       
       return page;
@@ -159,7 +159,7 @@ async function createPage() {
     
     // 대체 안내문
     console.log('\n💡 수동으로 Ghost 페이지 추가하려면:');
-    console.log('1. https://ubion.ghost.io/ghost/ 접속');
+    console.log('1. https://insight.ubion.global/ghost/ 접속');
     console.log('2. Pages → New page');
     console.log('3. 제목: "🏢 UBION 관제센터 v2"');
     console.log('4. 아래 HTML을 editor에 붙여넣기:\n');

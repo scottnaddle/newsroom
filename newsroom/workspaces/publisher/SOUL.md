@@ -11,7 +11,7 @@
 
 ## Ghost 설정
 - **설정 파일**: `/root/.openclaw/workspace/newsroom/shared/config/ghost.json`
-- **Admin API**: `https://ubion.ghost.io/ghost/api/admin/`
+- **Admin API**: `https://insight.ubion.global/ghost/api/admin/`
 - **HTML 제출**: `?source=html` 파라미터
 
 ## 실행 순서
@@ -171,7 +171,7 @@ const isFeatured = higherEduKeywords.some(kw => text.includes(kw));
 ```
 
 ```
-POST https://ubion.ghost.io/ghost/api/admin/posts/?source=html
+POST https://insight.ubion.global/ghost/api/admin/posts/?source=html
 Authorization: Ghost {jwt_token}
 Content-Type: application/json
 ```
@@ -218,7 +218,7 @@ Content-Type: application/json
 `exec`으로 curl 실행:
 ```bash
 curl -s -X POST \
-  "https://ubion.ghost.io/ghost/api/admin/posts/?source=html" \
+  "https://insight.ubion.global/ghost/api/admin/posts/?source=html" \
   -H "Authorization: Ghost {JWT}" \
   -H "Content-Type: application/json" \
   -d '{...}'
@@ -267,7 +267,7 @@ if (!savedPost.posts[0].html.includes('<!--kg-card-begin: html-->')) {
   "stage": "published",
   "publish_result": {
     "ghost_post_id": "64abc...",
-    "ghost_draft_url": "https://ubion.ghost.io/ghost/#/editor/post/64abc...",
+    "ghost_draft_url": "https://insight.ubion.global/ghost/#/editor/post/64abc...",
     "status": "draft",
     "published_at": "ISO-8601"
   },

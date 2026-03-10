@@ -28,14 +28,14 @@ http://127.0.0.1:3848/pages/embed.html
 
 ### Option A: 기존 관제센터 페이지 수정
 
-1. Ghost Admin 접속: https://ubion.ghost.io/ghost/
+1. Ghost Admin 접속: https://insight.ubion.global/ghost/
 2. Pages → "newsroom-status" 또는 "관제센터" 페이지 클릭
 3. Code 모드 진입 (⋯ 메뉴)
 4. 기존 HTML 전부 삭제
 5. `GHOST_INTEGRATION.md`의 HTML 코드 복사 & 붙여넣기
 6. Save/Publish
 
-결과: https://ubion.ghost.io/newsroom-status/
+결과: https://insight.ubion.global/newsroom-status/
 
 ### Option B: 새 페이지 생성
 
@@ -44,7 +44,7 @@ http://127.0.0.1:3848/pages/embed.html
 3. `GHOST_INTEGRATION.md`의 HTML 코드 붙여넣기
 4. Publish
 
-결과: https://ubion.ghost.io/dashboard-v2/
+결과: https://insight.ubion.global/dashboard-v2/
 
 ## 4️⃣ 완료 확인
 

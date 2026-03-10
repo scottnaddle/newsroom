@@ -28,7 +28,7 @@
 ## 🔍 Ghost CMS 발행 상태
 
 ### Ghost 연결 상태
-- **API URL**: https://ubion.ghost.io
+- **API URL**: https://insight.ubion.global
 - **Admin API**: ✅ 정상 작동 (HTTP 200)
 - **총 포스트 수**: 322개
 

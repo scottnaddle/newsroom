@@ -22,7 +22,7 @@
 |------|------|---------|
 | **교육부, AI 인재양성 37개 대학 신규 선정** | ✅ **published** | 14:09 KST |
 | **신뢰도** | 83점 → FLAG → 교열 후 수정 완료 |
-| **발행 URL** | https://ubion.ghost.io/ai-bootcamp/ |
+| **발행 URL** | https://insight.ubion.global/ai-bootcamp/ |
 
 **검증 결과 (SOUL.md 준)**:
 - ✅ 제목-내용 일치도: 95% 일치 (PASS)

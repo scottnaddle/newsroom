@@ -173,18 +173,18 @@
       "agent": "publisher",
       "action": "published-draft",
       "timestamp": "2026-03-06T08:25:53.070Z",
-      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69aa8f90ff4fbf0001ab6e9f"
+      "note": "Ghost draft URL: https://insight.ubion.global/ghost/#/editor/post/69aa8f90ff4fbf0001ab6e9f"
     },
     {
       "agent": "publisher",
       "action": "published-draft",
       "timestamp": "2026-03-06T14:08:35.750Z",
-      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69aadfe3ff4fbf0001ab6fcd"
+      "note": "Ghost draft URL: https://insight.ubion.global/ghost/#/editor/post/69aadfe3ff4fbf0001ab6fcd"
     }
   ],
   "publish_result": {
     "ghost_post_id": "69aadfe3ff4fbf0001ab6fcd",
-    "ghost_draft_url": "https://ubion.ghost.io/ghost/#/editor/post/69aadfe3ff4fbf0001ab6fcd",
+    "ghost_draft_url": "https://insight.ubion.global/ghost/#/editor/post/69aadfe3ff4fbf0001ab6fcd",
     "status": "published",
     "published_at": "2026-03-06T14:08:35.750Z"
   }

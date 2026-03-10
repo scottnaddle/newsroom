@@ -142,7 +142,7 @@
 ### 높은 우선순위
 
 1. **Ghost Draft 기사 발행**: 5개 기사를 Ghost 관리자에서 수동 발행
-   - Ghost Admin: https://ubion.ghost.io/ghost/
+   - Ghost Admin: https://insight.ubion.global/ghost/
    - Posts → Drafts → Select All → Publish
 
 2. **Publisher 로직 점검**: Ghost API 호출 시 `status: published` 설정 확인

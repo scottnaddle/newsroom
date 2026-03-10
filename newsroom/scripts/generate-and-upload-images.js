@@ -180,7 +180,7 @@ function generateOGCard({ headline, category, outputPath }) {
 // Ghost API 호출
 function ghostGet(path) {
   return new Promise(r => https.get({
-    hostname:'ubion.ghost.io', 
+    hostname:'insight.ubion.global', 
     path,
     headers:{'Authorization':'Ghost '+makeToken(),'Accept-Version':'v5.0'}
   }, res => { 
@@ -194,7 +194,7 @@ function ghostPut(postId, body) {
   return new Promise((res,rej) => {
     const data = JSON.stringify(body);
     const req = https.request({
-      hostname:'ubion.ghost.io',
+      hostname:'insight.ubion.global',
       path:`/ghost/api/admin/posts/${postId}/?source=html`,
       method:'PUT',
       headers:{
@@ -224,7 +224,7 @@ function uploadImage(filePath, filename) {
       Buffer.from(`\r\n--${b}--\r\n`)
     ]);
     const req = https.request({
-      hostname:'ubion.ghost.io', 
+      hostname:'insight.ubion.global', 
       path:'/ghost/api/admin/images/upload/', 
       method:'POST',
       headers:{

@@ -18,7 +18,7 @@ node -e "
 const crypto=require('crypto'),https=require('https');
 const [kid,secret]='69a41252e9865e00011c166a:e74e50ce3e6c097ad370d5370633ccbc2a3e3c0627d7ce1fc12a81b4e6b01625'.split(':');
 function tok(){const h=Buffer.from(JSON.stringify({alg:'HS256',typ:'JWT',kid})).toString('base64url');const now=Math.floor(Date.now()/1000);const p=Buffer.from(JSON.stringify({iat:now,exp:now+300,aud:'/admin/'})).toString('base64url');return h+'.'+p+'.'+crypto.createHmac('sha256',Buffer.from(secret,'hex')).update(h+'.'+p).digest('base64url');}
-const req=https.request({hostname:'ubion.ghost.io',path:'/ghost/api/admin/posts/?limit=all&include=tags&fields=id,title,status,feature_image,tags,published_at',headers:{'Authorization':'Ghost '+tok(),'Accept-Version':'v5.0'}},r=>{let d='';r.on('data',c=>d+=c);r.on('end',()=>console.log(d));});req.end();
+const req=https.request({hostname:'insight.ubion.global',path:'/ghost/api/admin/posts/?limit=all&include=tags&fields=id,title,status,feature_image,tags,published_at',headers:{'Authorization':'Ghost '+tok(),'Accept-Version':'v5.0'}},r=>{let d='';r.on('data',c=>d+=c);r.on('end',()=>console.log(d));});req.end();
 " 2>/dev/null
 ```
 
@@ -36,10 +36,10 @@ done
 - "AI 교육 뉴스 한국" 검색
 - "에듀테크 뉴스레터 한국" 검색
 - "AI education news Korea" 검색
-→ ubion.ghost.io와 차별점 분석
+→ insight.ubion.global와 차별점 분석
 
 **1-5. 사이트 홈페이지 직접 확인**
-`web_fetch("https://ubion.ghost.io")` — 현재 노출 기사, 레이아웃, 태그 노출 확인
+`web_fetch("https://insight.ubion.global")` — 현재 노출 기사, 레이아웃, 태그 노출 확인
 
 ### STEP 2: 분석 프레임워크 적용
 

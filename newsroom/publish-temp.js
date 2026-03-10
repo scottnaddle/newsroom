@@ -72,7 +72,7 @@ const postData = {
 };
 
 async function publish() {
-  const response = await fetch('https://ubion.ghost.io/ghost/api/admin/posts/?source=html', {
+  const response = await fetch('https://insight.ubion.global/ghost/api/admin/posts/?source=html', {
     method: 'POST',
     headers: {
       'Authorization': 'Ghost ' + token,
