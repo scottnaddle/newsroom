@@ -154,7 +154,7 @@
       "agent": "publisher",
       "action": "published-draft",
       "timestamp": "2026-03-05T03:34:41.021Z",
-      "note": "Ghost draft URL: https://insight.ubion.global/ghost/#/editor/post/69a8f9d0e2eb440001d558a7"
+      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69a8f9d0e2eb440001d558a7"
     },
     {
       "agent": "publisher",
@@ -178,7 +178,7 @@
       "agent": "publisher",
       "action": "published-draft",
       "timestamp": "2026-03-05T22:58:23.614Z",
-      "note": "Ghost draft URL: https://insight.ubion.global/ghost/#/editor/post/69aa0a8fff4fbf0001ab6ce4"
+      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69aa0a8fff4fbf0001ab6ce4"
     }
   ],
   "draft": {
@@ -187,7 +187,7 @@
     "article_type": "news",
     "word_count": 1156,
     "feature_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop&q=85&auto=format",
-    "og_image": "https://insight.ubion.global/content/images/2026/03/og-69a916f1e2eb440001d55a3f.png",
+    "og_image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=1200&h=630&fit=crop&q=85&auto=format",
     "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n<div style=\"border-left:4px solid #d97706;padding:18px 22px;background:#f8f9ff;border-radius:0 8px 8px 0;margin-bottom:48px;\">\n  <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">기업형 대학원 시대 개막: LG AI 대학원 출범의 의미</p>\n</div>\n\n<h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">기사 요약</h2>\n<p style=\"margin:0 0 32px;\">본 기사는 원문에서 보도한 AI 교육 관련 주요 뉴스입니다. 교육 정책, 기술 도입, 학생 현황 등 다양한 관점에서 AI와 교육의 관계를 조명합니다.</p>\n\n<h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">배경</h2>\n<p style=\"margin:0 0 32px;\">AI 기술이 교육 현장에 급속도로 확산되면서 교사, 학생, 학부모, 정책 입안자들이 다양한 반응을 보이고 있습니다. 긍정적 기대와 우려가 공존하는 상황에서, 각 국가와 지역은 AI 교육 정책을 수립하고 있습니다.</p>\n\n<h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">주요 내용</h2>\n<p style=\"margin:0 0 32px;\">이 기사는 AI 교육의 현실적 과제와 기회를 다룹니다:</p>\n<ul style=\"margin:0 0 32px;padding-left:20px;\">\n  <li style=\"margin-bottom:10px;\">교실에서의 AI 활용 현황</li>\n  <li style=\"margin-bottom:10px;\">교사 및 학생의 AI 역량 개발</li>\n  <li style=\"margin-bottom:10px;\">정책적 규제와 지원 방안</li>\n  <li style=\"margin-bottom:10px;\">윤리와 공정성 문제</li>\n  <li style=\"margin-bottom:10px;\">국제 비교와 시사점</li>\n</ul>\n\n<h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">의의</h2>\n<p style=\"margin:0 0 32px;\">AI 시대의 교육 변화는 단순한 도구 도입이 아니라, 학습의 본질과 교육의 미래를 묻는 근본적 질문을 던집니다. 이 기사는 그러한 질문들에 직면한 전 세계 교육 현장의 모습을 보여줍니다.</p>\n\n<div style=\"margin-top:32px;padding:16px;background:#f0fdf4;border-radius:6px;border-left:4px solid #d97706;\">\n  <p style=\"margin:0;font-size:13px;color:#166534;\"><strong>원문 출처:</strong> <a href=\"undefined\" style=\"color:#d97706;text-decoration:underline;\">undefined</a></p>\n</div>\n\n<p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->\n<figure class=\"kg-card kg-image-card kg-width-full\">\n  <img src=\"https://images.unsplash.com/photo-1580485944550-73107b027a9f?w=1200&h=630&fit=crop&q=85&auto=format\" class=\"kg-image\" alt=\"AI와 교육\">\n  <figcaption>AI 기술과 교육의 만남</figcaption>\n</figure>\n"
   },
   "copy_edit": {
@@ -209,7 +209,7 @@
   "status": "copy-edited",
   "publish_result": {
     "ghost_post_id": "69aa0a8fff4fbf0001ab6ce4",
-    "ghost_edit_url": "https://insight.ubion.global/ghost/#/editor/post/69aa0a8fff4fbf0001ab6ce4",
+    "ghost_edit_url": "https://ubion.ghost.io/ghost/#/editor/post/69aa0a8fff4fbf0001ab6ce4",
     "status": "draft",
     "published_at": "2026-03-05T22:58:23.614Z"
   },

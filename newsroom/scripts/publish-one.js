@@ -26,7 +26,7 @@ const PUBLISHED_TITLES_FILE = path.join(MEMORY_DIR, 'published-titles.json');
 const USED_IMAGES_FILE = path.join(MEMORY_DIR, 'used-images.json');
 
 // Ghost 설정
-const GHOST_URL = 'https://insight.ubion.global';
+const GHOST_URL = 'https://ubion.ghost.io';
 const GHOST_API_KEY = '69a41252e9865e00011c166a:e74e50ce3e6c097ad370d5370633ccbc2a3e3c0627d7ce1fc12a81b4e6b01625';
 
 // get-feature-image.js 로드
@@ -102,16 +102,27 @@ function checkUrl(url) {
         port: urlObj.port || 443,
         path: urlObj.pathname + urlObj.search,
         method: 'HEAD',
-        headers: { 'User-Agent': 'Mozilla/5.0' }
+        headers: { 'User-Agent': 'Mozilla/5.0' },
+        timeout: 5000
       };
       const lib = urlObj.protocol === 'https:' ? https : require('http');
       const req = lib.request(options, (res) => {
-        resolve(res.statusCode >= 200 && res.statusCode < 400);
+        // ✅ 200-399 범위는 성공 (3xx redirect도 포함)
+        const isValid = res.statusCode >= 200 && res.statusCode < 400;
+        resolve(isValid);
       });
-      req.on('error', () => resolve(false));
-      req.setTimeout(5000, () => { req.destroy(); resolve(false); });
+      req.on('error', () => {
+        console.log(`[checkUrl] 요청 실패: ${url}`);
+        resolve(false);
+      });
+      req.on('timeout', () => {
+        console.log(`[checkUrl] 타임아웃: ${url}`);
+        req.destroy();
+        resolve(false);
+      });
       req.end();
-    } catch {
+    } catch (e) {
+      console.log(`[checkUrl] 파싱 실패: ${url} - ${e.message}`);
       resolve(false);
     }
   });
@@ -206,30 +217,48 @@ async function publishOne(filePath) {
   const headline = draft.headline || article.source?.title || 'AI 교육 뉴스';
   const tags = draft.ghost_tags || article.tags || [];
   
+  console.log(`[publish-one] 이미지 선택 프로세스 시작: "${headline}"`);
+  
   let featureImage = null;
-  let imageRetries = 3;
-  while (imageRetries > 0) {
+  let validImageFound = false;
+  
+  // ⚠️ CRITICAL: 이미지는 반드시 있어야 함
+  for (let retries = 0; retries < 5; retries++) {
     const candidate = getFeatureImageUrl({
       headline,
       tags,
       recentIdsFile: USED_IMAGES_FILE
     });
+    
+    console.log(`[publish-one] 이미지 검증 (${retries + 1}/5): ${candidate}`);
     const ok = await checkUrl(candidate);
+    
     if (ok) {
       featureImage = candidate;
+      validImageFound = true;
+      console.log(`[publish-one] ✅ 이미지 검증 성공: ${candidate}`);
       break;
+    } else {
+      console.log(`[publish-one] ❌ 이미지 검증 실패: ${candidate} (HTTP 상태 오류)`);
     }
-    console.log(`[publish-one] 이미지 URL 실패 (재시도 ${4 - imageRetries}/3): ${candidate}`);
-    imageRetries--;
   }
   
-  if (!featureImage) {
-    // fallback: 검증 없이 기본 이미지 사용
+  // 검증된 이미지가 없으면 기본값 사용 (하지만 경고 표시)
+  if (!validImageFound) {
     featureImage = getFeatureImageUrl({ headline, tags });
-    console.log(`[publish-one] 이미지 fallback 사용: ${featureImage}`);
+    console.warn(`[publish-one] ⚠️ 이미지 검증 실패 - fallback 사용 (HTTP 검증 스킵): ${featureImage}`);
   }
   
-  console.log(`[publish-one] Feature image: ${featureImage}`);
+  // 최종 확인
+  if (!featureImage) {
+    console.error('[publish-one] 이미지 URL 생성 실패 - 기사 발행 불가');
+    const rejectedPath = path.join(REJECTED_DIR, path.basename(filePath));
+    fs.renameSync(filePath, rejectedPath);
+    console.log(`[publish-one] rejected/ 이동: ${path.basename(filePath)}`);
+    process.exit(1);
+  }
+  
+  console.log(`[publish-one] 최종 Feature image: ${featureImage}`);
   
   // OG card 생성 시도
   let ogImageUrl = featureImage;
@@ -342,6 +371,12 @@ async function publishOne(filePath) {
   article.ghost_url = publishedPost.url;
   article.published_at = new Date().toISOString();
   article.stage = 'published';
+  
+  // ⚠️ CRITICAL: draft 객체에도 이미지 정보 저장 (나중에 확인 가능하도록)
+  if (!article.draft) article.draft = {};
+  article.draft.feature_image = featureImage;
+  article.draft.og_image = featureImage;
+  article.draft.image_verified = validImageFound;
   
   // 08-published/ 로 이동
   const filename = path.basename(filePath);

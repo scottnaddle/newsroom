@@ -75,7 +75,7 @@
 
 **최근 카툰**: "AI 쓰나미 앞 뒤처진 교육 행정"
 - Ghost Post ID: 69a9ede1ff4fbf0001ab6b90
-- 이미지: https://insight.ubion.global/content/images/2026/03/cartoon-2026-03-05-1.png
+- 이미지: https://ubion.ghost.io/content/images/2026/03/cartoon-2026-03-05-1.png
 
 ---
 

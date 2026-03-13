@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Microsoft announced 66% capital expenditure increase to $37.5 billion for 2026",
+    "url": "https://www.fool.com/investing/2026/03/09/prediction-the-artificial-intelligence-ai-picks-an/",
+    "source_name": "The Motley Fool",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Microsoft announced a significant 66% increase in capital expenditure to $37.5 billion for 2026, primarily driven by AI infrastructure investments. This major spending commitment reflects the tech industry's sustained focus on AI development and deployment.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-10T15:07:00Z"
+  },
+  "digest": {
+    "headline": "마이크로소프트, 2026년 자본지출 66% 증가해 375억 달러 투자",
+    "lead": "마이크로소프트가 2026년 자본지출을 66% 증가시켜 375억 달러(약 49조 원)를 투자하기로 발표했습니다. 이 중 대부분은 AI 인프라 구축에 할당되며, 기술 업계의 AI 개발·배포 경쟁이 가속화되고 있음을 보여줍니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">마이크로소프트가 2026년 자본지출을 66% 증가시켜 375억 달러(약 49조 원)를 투자하기로 발표했습니다. 이 중 대부분은 AI 인프라 구축에 할당되며, 기술 업계의 AI 개발·배포 경쟁이 가속화되고 있음을 보여줍니다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">마이크로소프트뿐 아니라 메타, 알파벳, 아마존 등 메가 테크 기업들이 2026년 AI 관련 자본지출을 대폭 확대하고 있습니다. 메타는 1,620~1,690억 달러(37% 증가), 알파벳은 1,750~1,850억 달러(2배), 아마존은 200억 달러(51% 증가)를 각각 계획했습니다. 이는 AI 데이터 센터 건설에 막대한 자본이 소요되기 때문입니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이는 AI 버블 우려가 있었던 금융 시장에 강력한 신호를 보냈습니다. 거대 기업들의 과감한 투자 선언은 AI가 단기 유행이 아닌 장기 기술 경쟁의 핵심이라는 시장의 신뢰를 반영합니다. 향후 AI 칩 제조사, 전력 공급업체, 데이터 센터 기업 등 AI 인프라 밸류체인의 수익성은 더욱 증가할 전망입니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 인프라 투자 확대는 에듀테크 스타트업의 비용 부담을 높입니다. 클라우드 기반 AI 교육 서비스를 제공하려면 고가의 GPU와 데이터 센터 인프라가 필수인데, 대기업의 독과점으로 인프라 비용이 상승하면 초기 교육 기술 업체들의 시장 진입 장벽이 높아질 수 있습니다. 반면 오픈소스 모델 활용이나 경량 AI 기술 개발로 비용을 절감하는 에듀테크 기업들이 경쟁력을 갖게 될 것입니다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.fool.com/investing/2026/03/09/prediction-the-artificial-intelligence-ai-picks-an/\" style=\"color:#FF6B35;text-decoration:none;\">The Motley Fool</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "마이크로소프트, 2026년 자본지출 66% 증가 375억 달러 투자",
+    "meta_description": "마이크로소프트 자본지출 375억 달러 계획. AI 인프라 투자 확대로 기술 기업 경쟁 가속화. 에듀테크 스타트업 비용 부담 증가.",
+    "word_count": 620
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T15:07:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T06:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-10T07:34:55.520Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69afc99f15c2cc0001bbe0a0",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69afc99f15c2cc0001bbe0a0",
+    "public_url": "https://ubion.ghost.io/maikeurosopeuteu-2026nyeon-jabonjicul-66-jeunggahae-375eog-dalreo-tuja/",
+    "status": "published",
+    "published_at": "2026-03-10T07:34:55.520Z"
+  }
+}

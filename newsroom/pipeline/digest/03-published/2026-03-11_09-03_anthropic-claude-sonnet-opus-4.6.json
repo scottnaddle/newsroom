@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Anthropic launches Claude Sonnet 4.6 and Opus 4.6 with improved reasoning and coding",
+    "url": "https://www.devflokers.com/blog/ai-breakthroughs-march-2026",
+    "source_name": "devFlokers",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Anthropic released Claude Sonnet 4.6 and Opus 4.6 in February 2026, featuring significant improvements to long-range reasoning with 1M token context and enhanced coding abilities. The new versions represent a major update to Anthropic's core model lineup.",
+    "published_date": "2026-03-11",
+    "collected_at": "2026-03-11T09:03:00Z"
+  },
+  "digest": {
+    "headline": "Claude, 백만 토큰 맥락창으로 장문 분석 능력 강화",
+    "lead": "앤스로픽이 2월 발표한 Claude Sonnet 4.6과 Opus 4.6은 100만 토큰의 초장문 맥락창과 강화된 코딩 능력을 갖춘 차세대 모델입니다. 이는 복잡한 다단계 작업을 한 번에 처리할 수 있음을 의미하며, Excel·PowerPoint 애드인으로도 탑재되어 업무 생산성 도구와의 통합이 가속화되고 있습니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">앤스로픽이 2월 발표한 Claude Sonnet 4.6과 Opus 4.6은 100만 토큰의 초장문 맥락창과 강화된 코딩 능력을 갖춘 차세대 모델입니다. 이는 복잡한 다단계 작업을 한 번에 처리할 수 있음을 의미하며, Excel·PowerPoint 애드인으로도 탑재되어 업무 생산성 도구와의 통합이 가속화되고 있습니다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Claude 4.6 시리즈는 앤스로픽의 핵심 모델 라인업의 주요 업그레이드입니다. Sonnet 4.6은 베타 단계에서 100만 토큰(GPT-5.4 수준)의 초장문 맥락창을 지원하며, 이는 기존 모델 대비 50~100배 긴 문서를 한 번에 처리할 수 있다는 의미입니다. Opus 4.6은 코딩 능력이 한층 강화되었으며, 두 모델 모두 Microsoft 365 애플리케이션(Excel, PowerPoint)에 애드인 형태로 통합되었습니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">Claude 모델의 맥락창 확대는 장문 문서 분석, 코드 리뷰, 복잡한 사업 보고서 작성 같은 지식 작업의 패러다임을 바꿀 수 있습니다. 추론과 코딩 능력 강화는 기술자와 분석가가 더 정교한 작업을 자동화할 수 있음을 의미합니다. Microsoft Office 애드인 탑재로 앤스로픽은 OpenAI의 ChatGPT-in-Excel 전략에 직접 대응하며, 이는 AI 어시스턴트가 일상 업무 도구 깊숙이 침투하는 추세를 강화합니다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">Claude 4.6의 100만 토큰 맥락창은 에듀테크 분야에 중대한 기회를 제공합니다. 교육 플랫폼은 전체 학생 학습 이력, 교과서, 과제 자료를 한 번에 맥락에 포함시켜 맞춤형 학습 코칭을 수행할 수 있습니다. 또한 강화된 코딩 능력은 K-12부터 대학까지 프로그래밍 교육을 보조하는 AI 튜터의 품질을 크게 향상시킬 수 있으며, Office 애드인은 학생들의 보고서·발표자료 작성을 지원하는 교육용 AI 도구 생태계를 확장합니다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.devflokers.com/blog/ai-breakthroughs-march-2026\" style=\"color:#FF6B35;text-decoration:none;\">devFlokers</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "anthropic"
+    ],
+    "meta_title": "Claude 4.6, 100만 토큰으로 초장문 분석 능력 확보",
+    "meta_description": "앤스로픽의 Claude Sonnet·Opus 4.6이 100만 토큰 맥락창과 강화된 코딩 능력으로 업무 생산성을 획기적으로 향상시킵니다.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T09:03:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T00:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-11T00:36:43.101Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b0b91a5d8fee0001508989",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b0b91a5d8fee0001508989",
+    "public_url": "https://ubion.ghost.io/claude-baegman-tokeun-maegragcangeuro-jangmun-bunseog-neungryeog-ganghwa/",
+    "status": "published",
+    "published_at": "2026-03-11T00:36:42.000Z"
+  }
+}

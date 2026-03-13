@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "US military confirms use of 'advanced AI tools' in war against Iran",
+    "url": "https://www.aljazeera.com/news/2026/3/11/us-military-confirms-use-of-advanced-ai-tools-in-war-against-iran",
+    "source_name": "Al Jazeera",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Admiral Brad Cooper, head of US Central Command (CENTCOM), confirmed on Wednesday that the US military is using a variety of AI tools in the war with Iran. Cooper stated that AI is helping US soldiers process large volumes of data, with humans making final decisions. The confirmation comes amid growing concerns over civilian casualties in the conflict.",
+    "published_date": "2026-03-11",
+    "collected_at": "2026-03-12T00:05:30.915Z"
+  },
+  "digest": {
+    "headline": "미군, 이란 전쟁에서 '고급 AI 도구' 사용 공식 확인",
+    "lead": "미 중앙군사령부(CENTCOM) 쿠퍼 사령관이 미군이 전쟁에서 다양한 AI 도구를 사용 중임을 공식 인정했습니다. AI는 대량의 데이터를 초 단위로 처리해 의사결정 속도를 높이고 있으며, 인간이 최종 사격 결정을 내린다고 강조했습니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- AI Digest 배지 -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미 중앙군사령부(CENTCOM) 쿠퍼 사령관이 미군이 전쟁에서 다양한 AI 도구를 사용 중임을 공식 인정했습니다. AI는 대량의 데이터를 초 단위로 처리해 의사결정 속도를 높이고 있으며, 인간이 최종 사격 결정을 내린다고 강조했습니다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">지난 2월 28일부터 시작된 미-이스라엘의 이란 공습 캠프인에서 미군은 데이터 처리에 AI를 대규모로 활용하고 있습니다. 쿠퍼 사령관은 영상 메시지를 통해 \"AI 도구들이 수십 시간이 걸리던 프로세스를 몇 초 만에 처리할 수 있게 한다\"며 기술의 효율성을 강조했습니다. 그러나 아래로부터의 비판도 커지고 있습니다. 가자지구 전쟁에서 이스라엘이 AI를 활용한 '킬 리스트' 작성으로 72,000명 이상의 팔레스타인인을 죽인 전례가 있기 때문입니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 공식 인정은 미국이 AI를 중앙군사령부의 의사결정 프로세스의 핵심 인프라로 활용하고 있음을 보여줍니다. 트럼프 행정부는 군사용 AI 접근을 더욱 확대하려 하고 있으며, 이는 자동 무기와 대규모 감시를 거부한 Anthropic 같은 기업들과의 갈등으로 이어지고 있습니다. 한편 중국은 AI의 군사적 무분별한 사용이 윤리적 책임을 훼손하고 기술 폭주 위험을 높인다며 우려를 표했습니다.</p>\n\n  <!-- 에듀테크 시사점 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">이 사건은 교육 분야의 AI 윤리 논의에 중요한 교훈을 제시합니다. 군사용 AI가 인간의 최종 결정을 강조하면서도 실제로는 자동화 수준을 높이는 모순처럼, 교육 현장의 AI 도입 때도 \"인간 중심\"을 명시하면서도 자동화의 경계를 명확히 설정해야 합니다. 특히 학생 평가, 징계, 추천 결정 등에서 AI가 데이터 처리를 돕더라도 교사의 판단을 완전히 대체해서는 안 되며, 투명성과 책임성 있는 AI 거버넌스 체계 구축이 필수입니다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.aljazeera.com/news/2026/3/11/us-military-confirms-use-of-advanced-ai-tools-in-war-against-iran\" style=\"color:#FF6B35;text-decoration:none;\">Al Jazeera</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "military"
+    ],
+    "meta_title": "미군, 이란 전쟁에서 고급 AI 도구 사용 공식 확인",
+    "meta_description": "미 중앙군사령부가 전쟁에서 AI 도구 활용을 공식 인정. 데이터 처리 자동화와 인간의 최종 결정 원칙, 그리고 교육 현장의 AI 윤리 시사점을 다룹니다.",
+    "word_count": 587
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-12T00:05:32.200Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-12T00:45:09.618Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-12T01:33:04.147Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b217cb5d8fee0001508a7b",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b217cb5d8fee0001508a7b",
+    "public_url": "https://ubion.ghost.io/migun-iran-jeonjaengeseo-gogeub-ai-dogu-sayong-gongsik-hwagin/",
+    "status": "published",
+    "published_at": "2026-03-12T01:32:59.000Z"
+  }
+}

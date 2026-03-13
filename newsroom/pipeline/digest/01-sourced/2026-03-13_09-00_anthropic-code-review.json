@@ -1,0 +1,17 @@
+{
+  "stage": "sourced",
+  "pipeline": "digest",
+  "source": {
+    "title": "Anthropic Launches Code Review Tool to Check Flood of AI Generated Code",
+    "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+    "source_name": "TechCrunch",
+    "language": "en",
+    "relevance_score": 86,
+    "summary": "Anthropic has released a code review tool designed to assess and verify AI-generated code quality. This product launch addresses growing concerns about code safety and quality in the era of AI-assisted development.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-13T00:00:00Z"
+  },
+  "audit_log": [
+    {"agent": "digest-collector", "action": "sourced", "timestamp": "2026-03-13T09:00:00Z"}
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Google and OpenAI Just Filed a Legal Brief in Support of Anthropic",
+    "url": "https://gizmodo.com/google-and-openai-just-filed-a-legal-brief-in-support-of-anthropic-2000731754",
+    "source_name": "Gizmodo",
+    "language": "en",
+    "relevance_score": 86,
+    "summary": "Google and OpenAI employees filed an amicus brief supporting Anthropic's lawsuit against the U.S. Defense Department. The brief was signed by 37 engineers, researchers, and scientists from both companies, challenging the federal government's authority to brand Anthropic a supply chain risk to national security.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-11T08:05:00Z"
+  },
+  "digest": {
+    "headline": "Google·OpenAI, 美 국방부 대항소송 제출… '안전 기준' 갈등 심화",
+    "lead": "Google과 OpenAI의 37명 엔지니어, 연구원들이 Anthropic의 국방부 소송을 지지하는 법정 의견서를 제출했다. 미 국방부가 Anthropic을 '국가안보 공급망 위험'으로 지정한 것이 자의적이고 산업 경쟁력을 해친다는 입장이다. AI 업계 거인들이 규제 갈등에 집단 발목을 맞물린 첫 사례로 기록된다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">Google과 OpenAI의 37명 엔지니어, 연구원들이 Anthropic의 국방부 소송을 지지하는 법정 의견서를 제출했다. 미 국방부가 Anthropic을 '국가안보 공급망 위험'으로 지정한 것이 자의적이고 산업 경쟁력을 해친다는 입장이다. AI 업계 거인들이 규제 갈등에 집단 발목을 맞물린 첫 사례로 기록된다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">분쟁의 핵심은 '안전 원칙'이다. Anthropic은 AI가 대량 감시나 자율 무기에 사용되는 것을 거부했고, 이에 미 국방부는 Anthropic을 공급망 리스크로 지정하며 주요 기업들의 거래를 제한했다. Google의 최고 과학자 Jeff Dean을 포함한 업계 인사들은 이번 의견서에서 Anthropic의 '안전 기준'이 오히려 산업 전체의 신뢰도를 높인다고 주장했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 사건은 AI 규제와 안전 기준이 기술 개발사들 간의 경쟁 구도를 재편하고 있음을 보여준다. OpenAI CEO Sam Altman도 정부 결정을 '나쁜 판단'이라 비판했으나, 동시에 자신의 회사가 국방부와의 계약을 따냈다는 점에서 '기회주의적'이라는 평가를 받았다. 결국 AI 업계는 규제 불확실성과 경쟁 자체가 가장 큰 리스크로 인식하기 시작했다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 교육 플랫폼 개발사들도 안전 기준과 규제 리스크를 간과할 수 없다. 학생 데이터 보호, 학습 알고리즘 투명성, 감시 방지 등을 기준으로 삼는 기업들은 정부 신뢰도를 높일 수 있다. 반대로 규제 당국의 자의적 판단에 직면한 기업들은 법적·기술적 방어 능력이 생존 요소가 되고 있다. 에듀테크 스타트업들은 안전 설계를 경쟁 우위로 전환하는 전략이 필수다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://gizmodo.com/google-and-openai-just-filed-a-legal-brief-in-support-of-anthropic-2000731754\" style=\"color:#FF6B35;text-decoration:none;\">Gizmodo</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "google",
+      "openai"
+    ],
+    "meta_title": "Google·OpenAI, Anthropic 국방부 소송 지지… AI 규제 전선 확대",
+    "meta_description": "37명 엔지니어의 법정 의견서 제출. AI 안전 기준과 규제 간 갈등 심화. 에듀테크도 규제 리스크 간과할 수 없어.",
+    "word_count": 480
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T08:05:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T08:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-10T23:34:54.286Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b0aa9e5d8fee000150896d",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b0aa9e5d8fee000150896d/",
+    "public_url": "https://ubion.ghost.io/google-openai-mei-gugbangbu-daehangsosong-jecul-anjeon-gijun-galdeung-simhwa/",
+    "status": "published",
+    "published_at": "2026-03-10T23:34:54.286Z"
+  }
+}

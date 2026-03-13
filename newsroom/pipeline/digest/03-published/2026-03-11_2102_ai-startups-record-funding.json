@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "AI Startups Raise Record $189B in February 2026",
+    "url": "https://www.aibusinessreview.org/2026/03/07/ai-startups-record-189b-funding-february-2026/",
+    "source_name": "AIBusinessReview",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Artificial intelligence startups raised an unprecedented $189 billion in February 2026, shattering previous monthly funding records. AI-related startups accounted for $171 billion of the total, underscoring extraordinary investor appetite for AI infrastructure and applications.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-11T21:02:00Z"
+  },
+  "digest": {
+    "headline": "AI 스타트업 2월 동안 사상 최대 1,890억 달러 자금 조달",
+    "lead": "인공지능 스타트업들이 2월 한 달 동안 사상 최대인 1,890억 달러의 벤처캐피탈을 확보했다. 이는 역사상 어느 산업도 경험하지 못한 규모의 월간 자금 조달이며, 투자자들이 AI를 더 이상 신기술이 아닌 핵심 기반 시설로 보고 있음을 보여준다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">인공지능 스타트업들이 2월 한 달 동안 사상 최대인 1,890억 달러의 벤처캐피탈을 확보했다. 이는 역사상 어느 산업도 경험하지 못한 규모의 월간 자금 조달이며, 투자자들이 AI를 더 이상 신기술이 아닌 핵심 기반 시설로 보고 있음을 보여준다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">2월의 1,890억 달러 자금 조달은 역대 기록을 경신한 것이다. 통상 글로벌 벤처캐피탈은 월간 400~600억 달러 규모로 배분되는데, 이번에는 AI 기업들만으로 이를 3배 이상 상회했다. 펀딩은 반도체 칩 개발사부터 엔터프라이즈 애플리케이션까지 AI 스택 전반에 걸쳐 이루어졌으며, 특히 AI 인프라 제공업체와 클라우드 플랫폼이 상당한 자금을 받았다. 기관투자가들—연금펀드, 정부계투자펀드, 사모펀드 등—이 벤처캐피탈 전문가들 옆에 나서면서 투자자 기반이 크게 확대되었다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 자금 규모는 투자자들이 AI를 신흥 기술이 아닌 기반 시설로 인식하게 되었음을 의미한다. 2010년대 클라우드 컴퓨팅의 부상과 유사하게, AI는 이제 산업의 필수 인프라로 취급받고 있다. 한편, 메가라운드(10억 달러 이상)에 자금이 집중되면서 소수의 대형 AI 기업들이 대부분의 자금을 차지하고 있다. AI 개발의 자본 집약성을 감안할 때, 현재의 높은 평가액을 정당화하려면 이들 기업은 상당한 규모 달성이 필수적이다. 규제 환경 변화나 AI 도입 속도 둔화 시 평가액 조정 위험도 존재한다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">이 자금 급증은 에듀테크 스타트업에게 양날의 검이 될 수 있다. 긍정적으로는 AI 인프라 접근성이 크게 향상되어 교육 AI 솔루션 개발 비용이 낮아질 수 있다는 뜻이다. 반면 메가 펀딩이 소수 대형사에 집중되면서 자본이 부족한 에듀테크 스타트업들은 경쟁 심화에 직면하게 된다. 교육 현장에 AI를 도입하려는 학교나 기관들도 이제 더 저렴하고 성숙한 AI 기반 학습 도구를 시장에서 찾을 수 있을 것으로 예상된다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.aibusinessreview.org/2026/03/07/ai-startups-record-189b-funding-february-2026/\" style=\"color:#FF6B35;text-decoration:none;\">AIBusinessReview</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "research"
+    ],
+    "meta_title": "AI 스타트업 2월 사상 최대 1,890억 달러 자금 조달",
+    "meta_description": "인공지능 스타트업들이 2월 한 달 동안 사상 최대 규모인 1,890억 달러의 벤처캐피탈을 확보. 투자자들이 AI를 핵심 기반 시설로 인식하고 있음을 보여주는 기록.",
+    "word_count": 587
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T21:02:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T21:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-11T12:35:14.693Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b161825d8fee0001508a35",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b161825d8fee0001508a35",
+    "public_url": "https://ubion.ghost.io/ai-seutateueob-2weol-dongan-sasang-coedae-1-890eog-dalreo-jageum-jodal/",
+    "status": "published",
+    "published_at": "2026-03-11T12:35:14.000Z"
+  }
+}

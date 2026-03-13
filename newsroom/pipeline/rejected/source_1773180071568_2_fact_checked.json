@@ -1,0 +1,31 @@
+{
+  "id": "source_1773180071568_2",
+  "stage": "rejected",
+  "source": {
+    "title": "\"금지 대신 필수 교양으로\"…대학가 덮친 AI, 교육·평가 판도 바꾼다",
+    "url": "https://www.mt.co.kr/policy/2026/03/03/2026030313051850252"
+  },
+  "draft": {
+    "headline": "대학의 AI 교육, 금지에서 필수로 180도 회전",
+    "subheadline": "표절 우려로 금지하던 AI, 이제는 학생 필수 역량으로 재정의",
+    "slug": "university-ai-mandatory-skill",
+    "word_count": 1876
+  },
+  "fact_check": {
+    "score": 90,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "대학 AI 기초 교양 의무화 정책 확인",
+      "정부 60억원 투자로 AI 기본교육과정 개발 중",
+      "2026년 신입생부터 적용되는 정책 확인",
+      "ChatGPT 등장 이후 대학의 정책 변화 맞음"
+    ],
+    "validated_at": "2026-03-11T08:37:00Z",
+    "methodology": "최신 뉴스 기사 (이투데이, 한국AI부동산신문) 검증"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

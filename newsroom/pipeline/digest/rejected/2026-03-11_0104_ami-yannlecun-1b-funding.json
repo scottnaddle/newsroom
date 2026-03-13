@@ -1,0 +1,47 @@
+{
+  "stage": "rejected",
+  "pipeline": "digest",
+  "source": {
+    "title": "Ex-Meta AI chief Yann LeCun's AMI raises $1.03 billion for alternative AI approach",
+    "url": "https://www.reuters.com/business/ex-meta-ai-chief-yann-lecuns-ami-raises-103-billion-alternative-ai-approach-2026-03-10/",
+    "source_name": "Reuters",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Advanced Machine Intelligence (AMI), founded by former Meta AI chief scientist Yann LeCun, announced it raised $1.03 billion at a $3.50 billion pre-money valuation. The funding represents significant industry investment in alternative AI approaches and positions AMI as a major player in the AI infrastructure space.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-11T01:04:00Z"
+  },
+  "digest": {
+    "headline": "얀 르쿤의 AMI, 103억 달러 투자유치로 AI 인프라 경쟁 강화",
+    "lead": "메타 전 AI 과학자 얀 르쿤이 설립한 Advanced Machine Intelligence(AMI)가 103억 달러의 시리즈 펀딩을 유치했다. 35억 달러의 기업가치로 평가받으며 기존 거대 AI 모델 방식을 넘어 차별화된 AI 아키텍처 개발에 나선다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">메타 전 AI 과학자 얀 르쿤이 설립한 Advanced Machine Intelligence(AMI)가 103억 달러의 시리즈 펀딩을 유치했다. 35억 달러의 기업가치로 평가받으며 기존 거대 AI 모델 방식을 넘어 차별화된 AI 아키텍처 개발에 나선다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">AMI는 AI 업계의 선구자 중 한 명인 얀 르쿤이 메타를 떠난 뒤 설립한 스타트업이다. 현재 AI 업계는 ChatGPT, Claude 등 대형 언어모델(LLM)에 의존하는 추세가 지배적이지만, AMI는 에너지 효율이 높고 해석 가능한 AI 시스템 개발을 목표로 한다. 이번 103억 달러 투자유치는 기존 방식과 다른 AI 아키텍처에 대한 시장의 신뢰를 보여준다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 투자는 AI 인프라 경쟁이 심화되는 가운데 기술적 다양성의 중요성을 반영한다. AMI 같은 새로운 접근 방식이 부각되는 것은 단순히 규모가 큰 모델보다는 효율성과 실용성이 강조되는 AI 시장으로의 전환을 시사한다. 향후 OpenAI, Google 등 기존 거대 AI 기업들과의 경쟁 구도가 더욱 다층화될 전망이다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AMI 같은 효율적 AI 아키텍처의 발전은 비용 부담이 큰 교육기관과 에듀테크 스타트업에 직접적인 기회를 제공한다. 대형 LLM 의존도를 줄이고 가벼운 AI 모델로 개인맞춤형 학습 시스템을 구축할 수 있게 되면, 글로벌 남반부 및 저비용 교육 시장에서 AI 도입이 급속도로 확대될 가능성이 높다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.reuters.com/business/ex-meta-ai-chief-yann-lecuns-ami-raises-103-billion-alternative-ai-approach-2026-03-10/\" style=\"color:#FF6B35;text-decoration:none;\">Reuters</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "얀 르쿤의 AMI, 103억 달러 투자로 AI 인프라 경쟁 강화",
+    "meta_description": "메타 전 AI 과학자 얀 르쿤의 스타트업 AMI가 103억 달러 투자를 유치했다. 효율적 AI 아키텍처 개발로 기존 거대 언어모델 중심의 AI 시장에 변화를 몰고 온다.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T01:04:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T01:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "rejected",
+      "reason": "Ghost API error: 422 - {\"errors\":[{\"message\":\"Validation error, cannot save post.\",\"context\":\"Validation failed for posts[0].\",\"type\":\"ValidationError\",\"details\":[{\"keyword\":\"required\",\"dataPath\":\".posts[0]\",\"schemaPath\":\"#/properties/posts/items/required\",\"params\":{\"missingProperty\":\"title\"},\"message\":\"should have required property 'title'\"}],\"property\":\"posts[0]\",\"help\":null,\"code\":null,\"id\":\"6409e0d0-1cea-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}",
+      "timestamp": "2026-03-11T01:34:05.171Z"
+    }
+  ],
+  "rejection_reason": "Ghost API error: 422 - {\"errors\":[{\"message\":\"Validation error, cannot save post.\",\"context\":\"Validation failed for posts[0].\",\"type\":\"ValidationError\",\"details\":[{\"keyword\":\"required\",\"dataPath\":\".posts[0]\",\"schemaPath\":\"#/properties/posts/items/required\",\"params\":{\"missingProperty\":\"title\"},\"message\":\"should have required property 'title'\"}],\"property\":\"posts[0]\",\"help\":null,\"code\":null,\"id\":\"6409e0d0-1cea-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}",
+  "rejected_at": "2026-03-11T01:34:05.170Z"
+}

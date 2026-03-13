@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Trump Announces A.I. Industry Pledge to Pay for Power",
+    "url": "https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html",
+    "source_name": "The New York Times",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Major AI companies including Google, Microsoft, and OpenAI have committed to funding the construction of power plants and grid upgrades needed to support their AI data center operations. This industry pledge represents a significant policy development addressing the energy demands of large-scale AI infrastructure.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-10T19:01:00Z"
+  },
+  "digest": {
+    "headline": "주요 AI 기업, 데이터센터 전력 공급 책임 지다",
+    "lead": "구글, 마이크로소프트, 오픈AI 등 주요 AI 기업들이 트럼프 행정부와 합의하여 AI 데이터센터 건설과 전력망 업그레이드에 자금을 지원하기로 약속했다. 대규모 AI 인프라의 막대한 에너지 수요에 대응하는 정책적 전환점이 될 전망이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- AI Digest 배지 -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">구글, 마이크로소프트, 오픈AI 등 주요 AI 기업들이 트럼프 행정부와 합의하여 AI 데이터센터 건설과 전력망 업그레이드에 자금을 지원하기로 약속했다. 대규모 AI 인프라의 막대한 에너지 수요에 대응하는 정책적 전환점이 될 전망이다.</p>\n  </div>\n\n  <!-- 배경 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">생성형 AI 모델 학습과 운영에는 엄청난 전력이 필요하다. 구글, 마이크로소프트, 오픈AI 등 AI 리더 기업들이 미국 내 발전소 건설과 전력망 현대화에 직접 투자하기로 약속함으로써 AI 인프라의 에너지 문제를 기업 차원에서 해결하겠다는 의지를 드러냈다.</p>\n\n  <!-- 의미와 전망 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 산업 합의는 AI 기술 개발을 위한 인프라 투자가 이제 개별 기업의 전략적 책임이 되었음을 의미한다. 전력 접근성 개선은 AI 서비스 운영 비용을 낮추고, 신생 AI 스타트업의 인프라 진입장벽을 상대적으로 낮출 수 있다. 동시에 AI 기업의 정부 영향력 확대라는 정책적 함의도 있다.</p>\n\n  <!-- 에듀테크 시사점 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 인프라 비용 감소는 교육용 AI 서비스의 경제성을 높인다. 에듀테크 스타트업들이 구글, 마이크로소프트 등 클라우드 플랫폼을 통해 저렴한 비용으로 모델을 운영할 수 있게 되면, 영어권 음성 인식, 실시간 번역, 학습 분석 같은 고비용 AI 기능을 더 많은 학교·학생이 이용할 수 있다. 특히 저개발국 교육 기관의 접근성 향상이 기대된다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html\" style=\"color:#FF6B35;text-decoration:none;\">The New York Times</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "technology"
+    ],
+    "meta_title": "AI 기업, 데이터센터 전력 공급 책임 지다 | UBION AI Digest",
+    "meta_description": "구글·마이크로소프트·오픈AI, 발전소 건설·전력망 업그레이드에 투자. AI 인프라 비용 감소로 에듀테크 접근성 확대 전망.",
+    "word_count": 521
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T19:01:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T10:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-10T10:38:11.818Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aff493e303e00001e2f890",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aff493e303e00001e2f890",
+    "public_url": "https://ubion.ghost.io/juyo-ai-gieob-deiteosenteo-jeonryeog-gonggeub-caegim-jida/",
+    "status": "published",
+    "published_at": "2026-03-10T10:38:11.000Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://www.mdpi.com/2073-431X/15/3/173",
+  "title": "Adoption of AI in Higher Education: Engineering Faculty Perceptions",
+  "stage": "rejected",
+  "draft": {
+    "headline": "대학 공학 교수, AI 도입에 어떻게 생각할까? 실증 연구로 본 현실",
+    "word_count": 1742
+  },
+  "fact_check": {
+    "score": 85,
+    "verdict": "PASS",
+    "structure": {
+      "lead_box": true,
+      "sections": 4,
+      "references_section": true,
+      "ai_footnote": true
+    },
+    "verified_claims": [
+      "공학 교수들의 AI 도입 인식 연구 기사 - 확인됨",
+      "교수 재교육의 필요성 - 검증됨",
+      "학생 부정행위 우려 - 산업 내 알려진 이슈",
+      "AI 블랙박스 문제 - 확인된 학술 이슈"
+    ],
+    "content_quality": {
+      "readability": "excellent",
+      "tone_consistency": "academic",
+      "narrative_flow": "logical"
+    },
+    "issues": [],
+    "validated_at": "2026-03-11T06:15:00Z",
+    "validator_notes": "교수진의 AI 도입 역할과 과제를 균형있게 제시. 학부 교육 연계 부분도 적절하게 구성됨. 기준 충족."
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

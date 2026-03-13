@@ -6,7 +6,7 @@
 
 1. **Ghost Admin 접속**
    ```
-   https://insight.ubion.global/ghost/
+   https://ubion.ghost.io/ghost/
    ```
 
 2. **관제센터 페이지 찾기**
@@ -116,7 +116,7 @@
 
 7. **완료!**
    - 이제 관제센터 페이지에서 대시보드가 로드됩니다
-   - URL: `https://insight.ubion.global/newsroom-status/`
+   - URL: `https://ubion.ghost.io/newsroom-status/`
 
 ---
 
@@ -146,7 +146,7 @@
 ### Nginx 설정 (선택사항)
 
 ```nginx
-# /etc/nginx/sites-available/insight.ubion.global
+# /etc/nginx/sites-available/ubion.ghost.io
 location /dashboard/ {
   proxy_pass http://127.0.0.1:3848/pages/;
   proxy_http_version 1.1;

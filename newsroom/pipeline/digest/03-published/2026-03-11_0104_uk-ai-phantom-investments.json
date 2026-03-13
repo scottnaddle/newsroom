@@ -1,0 +1,58 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Revealed: UK's multibillion AI drive is built on 'phantom investments'",
+    "url": "https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments",
+    "source_name": "The Guardian",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "A Guardian investigation reveals that Britain's multibillion-pound AI strategy contains significant accounting irregularities and questionable investment structures.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-10T11:03:00Z"
+  },
+  "digest": {
+    "headline": "영국의 AI 투자 전략, 실제 자금보다 부풀려진 '유령 투자'로 적나라",
+    "lead": "영국 정부가 자랑해온 수십억 파운드 규모의 AI 투자 계획이 '유령 투자'와 회계 부정으로 얼룩져 있다는 조사 결과가 나왔습니다. 2024년 이후 보수당과 노동당 정부가 선전해온 데이터센터 건설, 고용 창출, 슈퍼컴퓨터 프로젝트가 실제 자금 뒷받침이 불충분하거나 회계 처리가 부실한 것으로 드러났습니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">영국 정부가 자랑해온 수십억 파운드 규모의 AI 투자 계획이 '유령 투자'와 회계 부정으로 얼룩져 있다는 조사 결과가 나왔습니다. 데이터센터 건설, 고용 창출, 슈퍼컴퓨터 프로젝트가 실제 자금 뒷받침이 불충분하거나 회계 처리가 부실한 것으로 드러났습니다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">가디언 조사에 따르면 영국이 2024년 이후 발표한 대규모 AI 투자 계약 중 상당수가 실제 투자 약정이 서명되지 않았거나, 투자 규모가 부풀려진 것으로 나타났습니다. 예컨대 19억 파운드(25억 달러) 규모의 투자는 언론 보도에는 '계약 체결'로 표기되었으나, 정부는 실제 계약이 존재하지 않음을 인정했습니다. 런던 북쪽의 롯튼 스캐폴딩 야적장은 '슈퍼컴퓨터 건설 지점'으로 홍보되었으나 여전히 건설 기계만 남아있는 상태입니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 조사는 글로벌 AI 투자 공약의 신뢰성에 의문을 제기합니다. 2025년 한 해만 5천억 파운드 이상의 AI 투자가 정부와 기업들로부터 선언되었지만, 실제 자금 흐름이나 회계 투명성이 부족한 경우가 많을 수 있다는 의미입니다. 영국 과학혁신기술부는 '1000억 파운드 민간 투자 유치'를 주장하지만, 감시 감독의 한계를 스스로 인정했습니다.</p>\n\n  <!-- 에듀테크 시사점 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">정부 AI 투자 공약의 부실성은 에듀테크 기업들의 인프라 지원 정책을 평가할 때 주의가 필요함을 시사합니다. 단순한 투자 규모 발표보다는 실제 자금 투입, 계약 내용, 감시 구조를 확인해야 합니다. 교육 데이터센터나 AI 플랫폼 구축 지원 정책도 선언적 공약에 그치지 않고 실질적인 예산 배분과 투명한 회계 보고가 이루어지는지 점검하는 것이 중요합니다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments\" style=\"color:#FF6B35;text-decoration:none;\">The Guardian</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "uk"
+    ],
+    "meta_title": "영국의 AI 투자 전략, 회계 부정으로 드러나",
+    "meta_description": "영국 정부의 수십억 파운드 AI 투자가 유령 투자와 회계 부정으로 적나라. 글로벌 AI 투자 공약의 신뢰성 문제를 제기합니다.",
+    "word_count": 620
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T11:03:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T02:45:35Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-11T01:34:45.631Z"
+    }
+  ],
+  "error": {
+    "agent": "digest-publisher",
+    "action": "publish_failed",
+    "error": "Ghost API error: 302 <html>\r\n<head><title>302 Found</title></head>\r\n<body>\r\n<center><h1>302 Found</h1></center>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n",
+    "timestamp": "2026-03-10T04:31:13.909Z"
+  },
+  "publish_result": {
+    "ghost_post_id": "69b0c6b55d8fee000150899b",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b0c6b55d8fee000150899b",
+    "public_url": "https://ubion.ghost.io/yeonggugyi-ai-tuja-jeonryag-silje-jageumboda-bupulryeojin-yuryeong-tujaro-jeognara/",
+    "status": "published",
+    "published_at": "2026-03-11T01:34:45.000Z"
+  }
+}

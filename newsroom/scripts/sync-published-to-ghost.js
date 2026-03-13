@@ -16,7 +16,7 @@ const crypto = require('crypto');
 const PIPELINE_DIR = '/root/.openclaw/workspace/newsroom/pipeline';
 const PUBLISHED_DIR = path.join(PIPELINE_DIR, '08-published');
 
-const GHOST_URL = 'https://insight.ubion.global';
+const GHOST_URL = 'https://ubion.ghost.io';
 const GHOST_API_KEY = '69a41252e9865e00011c166a:e74e50ce3e6c097ad370d5370633ccbc2a3e3c0627d7ce1fc12a81b4e6b01625';
 
 // ─── JWT 생성 ──────────────────────────────────────────────────
@@ -146,7 +146,7 @@ async function main() {
   console.log(`⚠️  실패: ${failed}개`);
   console.log(`⏭️  스킵: ${skipped}개`);
   console.log(`\n📝 모든 기사가 Ghost에서 draft 상태로 업데이트되었습니다.`);
-  console.log(`🔍 확인: https://insight.ubion.global/ghost/#/editor/post/`);
+  console.log(`🔍 확인: https://ubion.ghost.io/ghost/#/editor/post/`);
 }
 
 main().catch(err => {

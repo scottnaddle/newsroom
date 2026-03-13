@@ -73,16 +73,16 @@
 
 ### 오늘 발행된 기사 (2건)
 1. **LG AI대학원, 기업이 직접 AI 석박사 키운다** (11:53)
-   - URL: https://insight.ubion.global/lg-launches-south-koreas-first-corporate/
+   - URL: https://ubion.ghost.io/lg-launches-south-koreas-first-corporate/
    
 2. **UNESCO·OECD, AI 시대 교육 패러다임 전환 촉구** (11:53)
-   - URL: https://insight.ubion.global/global-education-policy-paradigm-shift/
+   - URL: https://ubion.ghost.io/global-education-policy-paradigm-shift/
 
 ### 오늘 만평 (1건)
 - **제목**: 만평: '질문 기술'만 배우는 AI 교실의 그늘
 - **주제**: AI 교육, '프롬프트'만 가르칠 것인가 '사고력'을 길러낼 것인가
 - **이미지**: ✅ HTTP 200
-- **Ghost URL**: https://insight.ubion.global/cartoon-2026-03-07/
+- **Ghost URL**: https://ubion.ghost.io/cartoon-2026-03-07/
 
 ---
 

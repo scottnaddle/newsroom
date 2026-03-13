@@ -38,7 +38,11 @@
       }
     ],
     "meta_title": "2026년 대학생의 AI: '도구 활용'에서 '주체적 선택'으로의 진화",
-    "meta_description": "2023년은 대학가의 '패닉 타임'이었다. ChatGPT의 등장으로 학문적 무결성이 흔들릴 것 같은 공포감. 2024년은 '시범 운영 단계'였다. 대학들이 금지와 허용 사이를 오갔다. 그리고 2026년인 지금, 우리는 새로운 단계에 진입했다. 'AI 주체성(AI age"
+    "meta_description": "2023년은 대학가의 '패닉 타임'이었다. ChatGPT의 등장으로 학문적 무결성이 흔들릴 것 같은 공포감. 2024년은 '시범 운영 단계'였다. 대학들이 금지와 허용 사이를 오갔다. 그리고 2026년인 지금, 우리는 새로운 단계에 진입했다. 'AI 주체성(AI age",
+    "feature_image": "https://images.unsplash.com/photo-1564981797816-1043664bf78d?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1564981797816-1043664bf78d?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.861Z",
+    "image_verified": false
   },
   "reporting_status": "completed",
   "drafted_at": "2026-03-09T20:41:00.000Z",
@@ -68,7 +72,5 @@
     "text_length": 2629,
     "checked_at": "2026-03-09T11:35:47.359Z"
   },
-  "ghost_id": "69aeb093ff4fbf0001ab79e3",
-  "ghost_url": "https://insight.ubion.global/p/b1110be6-d775-480c-8da9-1ff6810a4291/",
   "published_at": "2026-03-09T11:35:47.783Z"
 }

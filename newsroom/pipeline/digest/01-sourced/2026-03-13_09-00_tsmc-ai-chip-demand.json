@@ -1,0 +1,17 @@
+{
+  "stage": "sourced",
+  "pipeline": "digest",
+  "source": {
+    "title": "TSMC Revenue Jumps 30% as Global AI Chip Demand Surges",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-10/tsmc-sales-grow-30-on-sustained-global-demand-for-ai-hardware",
+    "source_name": "Bloomberg",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "TSMC has reported a 30% revenue jump driven by sustained global demand for AI hardware and semiconductor chips. This growth underscores the critical role of semiconductor manufacturing in supporting the AI industry.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-13T00:00:00Z"
+  },
+  "audit_log": [
+    {"agent": "digest-collector", "action": "sourced", "timestamp": "2026-03-13T09:00:00Z"}
+  ]
+}

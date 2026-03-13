@@ -1,0 +1,67 @@
+{
+  "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/",
+  "title": "AI Governance in Higher Education: The 2026 Framework for Policy & Risk",
+  "source": "web_search",
+  "score": 80,
+  "collected_at": "2026-03-11T09:01:17.475179Z",
+  "status": "reported",
+  "stage": "drafted",
+  "reporting_brief": {
+    "WHO": [
+      "대학 리더십 및 IT 부서",
+      "EDUCAUSE, UNESCO, OECD",
+      "미국 교육부",
+      "EU 규제 기관"
+    ],
+    "WHAT": "대학들이 AI 도구를 교수·연구·행정 전반에 도입하고 있으나, 80%의 교직원이 공식 정책을 모르고 있는 '거버넌스 갭(governance gap)' 발생. EU AI Act, FERPA 규정 등으로 규제 압박 증가.",
+    "WHY": "생성형 AI의 급속한 확산으로 인한 규제 압박, 데이터 유출 위험, 학사 무결성 문제, 공중 신뢰 상실 가능성 등이 AI 거버넌스 필요성 증대",
+    "WHEN": "2026년 현재, EU AI Act 고위험 조항 적용 예정(2026년 8월), 미국 교육부는 2023년부터 가이던스 발표",
+    "CONTEXT": "Shadow AI(승인되지 않은 AI 도구 사용)로 인한 보안 위협, 학생 데이터 프라이버시 침해, 학사 무결성 위기 등이 심각한 상황. 대학들이 인벤토리 파악부터 거버넌스 체계 구축까지 단계적 접근 필요",
+    "SOURCES": [
+      {
+        "title": "AI Governance in Higher Education: The 2026 Framework for Policy & Risk",
+        "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/",
+        "reliability": "높음 (고등교육 정책 전문 매체)",
+        "publication_date": "2026-03-06"
+      },
+      {
+        "title": "7 AI Decisions That Will Define Higher Education In 2026",
+        "url": "https://www.forbes.com/sites/avivalegatt/2025/12/26/7-ai-decisions-that-will-define-higher-education-in-2026/",
+        "reliability": "높음 (Forbes)",
+        "publication_date": "2025-12-26"
+      },
+      {
+        "title": "AI Governance in Higher Education: An Overview",
+        "url": "https://edtechmagazine.com/higher/article/2026/02/overview-ai-governance-education-perfcon",
+        "reliability": "높음 (EdTech Magazine)",
+        "publication_date": "2026-02"
+      }
+    ],
+    "PERSPECTIVES": {
+      "규제 기관": "EU AI Act는 학생 평가, 입시, 성과 모니터링에 사용되는 AI를 고위험으로 분류하고 감시, 투명성, 감사 추적 요구",
+      "대학": "AI 거버넌스 위원회 구성, 정책 수립, 연속 모니터링 등 5단계 로드맵을 통해 체계적 구축 필요",
+      "학사 무결성": "AI 생성 콘텐츠 탐지 중심에서 평가 재설계, 공개 정책, 교사 역량 강화로 전환"
+    },
+    "SUGGESTED_ANGLE": "2026년 AI 거버넌스는 규제 준수를 넘어 대학의 신뢰성을 회복하는 기회: ① Shadow AI 발굴 및 통제, ② 교직원-학생 AI 리터러시 강화, ③ EU AI Act 선제적 대응이 경쟁력"
+  },
+  "draft": "**2026년 AI 거버넌스는 규제 준수를 넘어 대학의 신뢰성을 회복하는 기회: ① Shadow AI 발굴 및 통제, ② 교직원-학생 AI 리터러시 강화, ③ EU AI Act 선제적 대응이 경쟁력**\n\nShadow AI(승인되지 않은 AI 도구 사용)로 인한 보안 위협, 학생 데이터 프라이버시 침해, 학사 무결성 위기 등이 심각한 상황. 대학들이 인벤토리 파악부터 거버넌스 체계 구축까지 단계적 접근 필요\n\n## 공공부문, 새로운 시대의 교육 수요 대응\n\n대학 리더십 및 IT 부서,EDUCAUSE, UNESCO, OECD,미국 교육부,EU 규제 기관을(를) 대상으로 한 이번 교육 개설은 생성형 AI의 급속한 확산으로 인한 규제 압박, 데이터 유출 위험, 학사 무결성 문제, 공중 신뢰 상실 가능성 등이 AI 거버넌스 필요성 증대이기 때문이다. 특히 Shadow AI(승인되지 않은 AI 도구 사용)로 인한 보안 위협, 학생 데이터 프라이버시 침해, 학사 무결성 위기 등이 심각한 상황. 대학들이 인벤토리 파악부터 거버넌스 체계 구축까지 단계적 접근 필요에 대한 이해도를 높이기 위한 체계적인 교육이 시급한 상황이다.\n\n교육 전문가들은 \"공공부문 종사자들의 디지털 리터러시 강화는 정책 결정 과정에서 더 나은 판단을 가능하게 한다\"고 평가하고 있다.\n\n## 실무 중심 '기초·심화' 이중 구조 설계\n\n대학들이 AI 도구를 교수·연구·행정 전반에 도입하고 있으나, 80%의 교직원이 공식 정책을 모르고 있는 '거버넌스 갭(governance gap)' 발생. EU AI Act, FERPA 규정 등으로 규제 압박 증가.은 현장 중심의 커리큘럼으로 구성되어 있다. 2026년 현재, EU AI Act 고위험 조항 적용 예정(2026년 8월), 미국 교육부는 2023년부터 가이던스 발표에 걸쳐 진행될 이번 교육은:\n\n- **기초과정**: 개념 이해 및 기본 원리 학습\n- **심화과정**: 실무 응용 및 사례 분석\n- **평가**: 이해도 검증 및 수료 인증\n\n이러한 구조는 교육 효과를 극대화하기 위한 설계로, 참가자들의 다양한 수준을 반영한 것이다.\n\n## AI 시대, 공공부문의 지능형 인력 양성이 핵심\n\n교육 정책 전문가들은 이번 교육 개설을 다음과 같이 평가하고 있다:\n\n**정부 관점**: 공공부문 디지털 전환 필요성 강조\n\n**교육 관점**: 실무 중심 커리큘럼의 중요성 강조\n\n**산업 관점**: 글로벌 변화에 대응하는 전문 인력 양성의 필요성\n\n이같은 움직임은 단순한 교육 프로그램을 넘어, 공공부문의 디지털 혁신을 가속화하는 시발점이 될 것으로 예상된다.\n\n### 참고자료\n\n- [AI Governance in Higher Education: The 2026 Framework for Policy & Risk](https://www.theeducationmagazine.com/ai-governance-in-higher-education/) (참고)\n- [7 AI Decisions That Will Define Higher Education In 2026](https://www.forbes.com/sites/avivalegatt/2025/12/26/7-ai-decisions-that-will-define-higher-education-in-2026/) (참고)\n- [AI Governance in Higher Education: An Overview](https://edtechmagazine.com/higher/article/2026/02/overview-ai-governance-education-perfcon) (참고)\n\n---\n\n**[AI 각주]** 본 기사는 공식 발표 자료 및 교육정책 데이터 기반으로 작성되었습니다. 정확한 교육 일정 및 신청 방법은 해당 기관의 공식 공지사항을 참고하시기 바랍니다.",
+  "character_count": 1868,
+  "drafted_at": "2026-03-11T12:02:07.611Z",
+  "draft_status": "ready_for_review",
+  "fact_check": {
+    "score": 55,
+    "verdict": "FAIL",
+    "issues": [
+      "리드박스 부재",
+      "h2 섹션 3개 미만",
+      "AI 각주 부재",
+      "문장이 너무 김"
+    ],
+    "verified_claims": [
+      "본문 길이 충족 (1868자)",
+      "출처 충족 (3개)",
+      "주요 정보 완전함 (WHO/WHAT)"
+    ],
+    "validated_at": "2026-03-12T03:01:46.143Z"
+  }
+}

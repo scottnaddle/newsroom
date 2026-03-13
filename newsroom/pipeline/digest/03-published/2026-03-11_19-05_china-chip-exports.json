@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "China's chip exports surge 73% as AI demand fuels semiconductor growth",
+    "url": "https://www.scmp.com/tech/big-tech/article/3346073/chinas-chip-exports-surge-73-ai-demand-fuels-semiconductor-growth",
+    "source_name": "South China Morning Post",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "China's semiconductor exports jumped 73% with chip imports rising 9% to 9.1 billion units and their value surging 39.8% to $78.2 billion in the first two months of 2026, reflecting surging global demand for AI chips.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-11T19:05:00Z"
+  },
+  "digest": {
+    "headline": "중국 반도체 수출 73% 급증, 글로벌 AI 칩 수요 주도",
+    "lead": "중국의 반도체 수출이 2026년 1월~2월 733억 달러로 전년 동기 대비 73% 급증했다. 수입도 782억 달러로 39.8% 증가해, AI 모델 학습용 GPU를 중심으로 한 글로벌 AI 칩 수요 확대가 중국의 '반도체 자립 전략'과 만나며 산업 전반을 주도하고 있음을 보여준다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">⚡ AI Digest</span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">중국의 반도체 수출이 2026년 1월~2월 733억 달러로 전년 동기 대비 73% 급증했다. 수입도 782억 달러로 39.8% 증가해, AI 모델 학습용 GPU를 중심으로 한 글로벌 AI 칩 수요 확대가 중국의 '반도체 자립 전략'과 만나며 산업 전반을 주도하고 있음을 보여준다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">중국 관세청 통계에 따르면, 반도체 수출량은 525억 개로 전년 동기 대비 13.7% 증가했다. 이는 중국의 전체 수출 성장률 21.8%보다는 낮지만, 반도체 분야에 AI 관련 칩 수요가 얼마나 집중돼 있는지를 보여준다. 한편 반도체 수입량도 91억 개로 9% 증가했고, 수입액 증가율 39.8%는 고가 AI 칩(특히 엔비디아 GPU)의 수입 물량이 급증했음을 의미한다. 중국은 미국의 수출 규제 속에서도 글로벌 AI 칩 공급망의 핵심 거점으로 기능하고 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">데이터는 글로벌 AI 투자 붐의 크기를 가늠케 한다. 중국 정부의 '전국적' 반도체 자립 전략과 중국 기업들의 대규모 AI 모델 개발 투자가 만나면서, 반도체 산업은 전년도 대비 훨씬 빠른 속도로 성장하고 있다. 하지만 미국의 제한 정책도 진화하고 있다. 블룸버그 보도에 따르면, 미국 당국은 각 중국 기업의 엔비디아 H200 칩 구매를 75,000개로 제한하는 방안을 검토 중이다. 이러한 제약 속에서도 중국의 반도체 생태계가 얼마나 탄력적으로 적응할지가 주목된다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">중국의 AI 칩 수입 증가는 중국 기업들의 대규모 언어모델(LLM) 개발 경쟁을 반영한다. 중국의 교육 기술 기업들도 이러한 AI 인프라 투자의 수혜자가 되고 있다. 동시에 미국의 반도체 수출 제한은 글로벌 에듀테크 업체들의 서플라이 체인 다변화를 촉진하고 있으며, 이는 장기적으로 여러 지역의 AI 칩 생산 거점 확대로 이어져 에듀테크의 글로벌 분산화를 가속할 것으로 예상된다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.scmp.com/tech/big-tech/article/3346073/chinas-chip-exports-surge-73-ai-demand-fuels-semiconductor-growth\" style=\"color:#FF6B35;text-decoration:none;\">South China Morning Post</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation"
+    ],
+    "meta_title": "중국 반도체 수출 73% 급증, AI 칩 수요 주도",
+    "meta_description": "2026년 1월~2월 중국 반도체 수출 733억 달러 기록, 글로벌 AI 칩 수요 반영. 미국 수출 제한 정책 와중에도 지속 성장",
+    "word_count": 630
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T19:05:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T10:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-11T10:37:03.518Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b145cf5d8fee0001508a2d",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b145cf5d8fee0001508a2d",
+    "public_url": "https://ubion.ghost.io/junggug-bandoce-sucul-73-geubjeung-geulrobeol-ai-cib-suyo-judo/",
+    "status": "published",
+    "published_at": "2026-03-11T10:37:03.000Z"
+  }
+}

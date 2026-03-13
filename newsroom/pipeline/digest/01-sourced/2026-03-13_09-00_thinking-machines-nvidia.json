@@ -1,0 +1,17 @@
+{
+  "stage": "sourced",
+  "pipeline": "digest",
+  "source": {
+    "title": "Mira Muratis AI Startup Thinking Machines Secures Nvidia Investment and 1 Gigawatt of AI Compute",
+    "url": "https://techstartups.com/2026/03/10/mira-muratis-ai-startup-thinking-machines-secures-nvidia-investment-1-gigawatt-of-ai-compute/",
+    "source_name": "TechStartups",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Mira Muratis Thinking Machines AI startup has secured significant Nvidia investment and 1 gigawatt of dedicated AI compute resources. This investment reflects continued competition among AI startups and the critical importance of computational infrastructure.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-13T00:00:00Z"
+  },
+  "audit_log": [
+    {"agent": "digest-collector", "action": "sourced", "timestamp": "2026-03-13T09:00:00Z"}
+  ]
+}

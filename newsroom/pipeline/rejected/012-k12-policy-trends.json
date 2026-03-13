@@ -1,0 +1,39 @@
+{
+  "id": "012",
+  "source": {
+    "url": "https://excelined.org/",
+    "title": "February 2026 State Actions Update: K-12 education policies progress"
+  },
+  "stage": "rejected",
+  "draft": {
+    "headline": "\"휴대폰 없는 학교\" 운동 확산... 2026년 K-12 정책 5대 트렌드",
+    "subheadline": "문해력·수학부터 전자기기 규제까지, 미국 16개 주가 교육 대변혁 추진",
+    "slug": "k12-education-policy-2026-trends",
+    "word_count": 1867
+  },
+  "fact_check": {
+    "score": 87,
+    "verdict": "FLAG",
+    "issues": [
+      "⚠️ 7개 주 명시 (델라웨어, 인디애나, 캔자스, 미시간, 오클라호마, 펜실베이니아, 위스콘신) - 법안 제출 실제 통과 여부 재확인 권고",
+      "⚠️ '16개 주' 근거 기반 교육 강화 - ExcelinEd 월간 보고서 기반이나 정확한 개수 재검증 권고"
+    ],
+    "verified_claims": [
+      "\"Reading Science\" 과학적 접근법 - 미국 읽기 교육 개혁 용어 일치 ✓",
+      "조기 선별(early screening) 제도 - K-12 혁신 정책 일차 자료 확인 ✓",
+      "9개 주 헌장학교 확장 - 주정부별 정책 동향 일치 ✓",
+      "14개 주 직업교육 연계 - CCTE 연계 정책 지표 일치 ✓",
+      "10개 주 교사 처우 개선 - 교사 급여 개혁 추이 확인 ✓",
+      "휴대폰 소지 제한 정책의 교육철학적 의의 - 최근 학교 문화 운동 기록 일치 ✓"
+    ],
+    "recommendations": [
+      "정확한 주(state) 개수는 발의 단계와 통과 단계 구분 필요",
+      "ExcelinEd 월간 업데이트 원문 재확인으로 수치 검증"
+    ],
+    "validated_at": "2026-03-13T07:55:00Z"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

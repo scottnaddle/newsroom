@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Nvidia-backed Nscale raises $2 billion at $14.6 billion valuation",
+    "url": "https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments",
+    "source_name": "The Guardian",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "AI cloud startup Nscale raised $2 billion in fresh funding round, reaching a $14.6 billion valuation. The company has added former UK deputy prime minister Nick Clegg and ex-Meta COO Sheryl Sandberg to its board.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-10T20:00:00Z"
+  },
+  "digest": {
+    "headline": "엔비디아 지원 받는 Nscale, $2B 투자 유치로 $14.6B 기업가치 달성",
+    "lead": "AI 클라우드 스타트업 Nscale이 $2B 규모 투자 라운드를 완료했습니다. 140억 달러 이상의 기업가치로 평가받으며, 전 영국 부총리 닉 클레그와 전 페이스북 COO 셜릴 샌드버그가 이사진에 합류했습니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">AI 클라우드 스타트업 Nscale이 $2B 투자를 유치하며 기업가치 $14.6B에 도달했습니다. 정부 고위직 출신과 테크 리더들이 이사진에 합류하며 시장의 신뢰를 획득했습니다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Nscale은 엔비디아(Nvidia)로부터 지원을 받는 AI 인프라 스타트업으로, 기업용 AI 클라우드 솔루션을 제공합니다. 이번 펀딩 라운드는 생성형 AI 시장의 급속한 성장과 AI 인프라 수요 증가를 반영합니다. 회사는 정치·비즈니스 분야의 거물들을 이사진에 영입하며 글로벌 영향력 확대를 도모하고 있습니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">$14.6B 기업가치 달성은 AI 클라우드 인프라 시장이 얼마나 뜨거운지를 보여줍니다. 닉 클레그와 셜릴 샌드버그 같은 영향력 있는 인물들의 참여는 규제·정책 면에서의 리스크를 낮추고 기업 신뢰도를 높입니다. 향후 Nscale은 AI 모델 학습 및 추론 인프라의 핵심 공급자로 성장할 가능성이 높습니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">대규모 교육 기관이 생성형 AI 기반 맞춤 학습 플랫폼을 구축할 때 신뢰성 높은 클라우드 인프라의 중요성이 커집니다. Nscale 같은 엔터프라이즈급 AI 인프라 제공사의 성장은 에듀테크 스타트업들이 비용 효율적으로 대규모 AI 솔루션에 접근할 수 있는 기반을 마련해줍니다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments\" style=\"color:#FF6B35;text-decoration:none;\">The Guardian</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "funding"
+    ],
+    "meta_title": "Nscale, AI 클라우드 $2B 투자로 $14.6B 기업가치 달성",
+    "meta_description": "엔비디아 지원 받는 AI 클라우드 스타트업 Nscale이 $2B 투자 유치. 정부 고위직 인물들의 이사진 참여로 신뢰도 강화.",
+    "word_count": 521
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T20:00:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T11:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-10T11:37:34.967Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b00278e303e00001e2f8b2",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b00278e303e00001e2f8b2",
+    "public_url": "https://ubion.ghost.io/enbidia-jiweon-badneun-nscale-2b-tuja-yuciro-14-6b-gieobgaci-dalseong/",
+    "status": "published",
+    "published_at": "2026-03-10T11:37:34.967Z"
+  }
+}

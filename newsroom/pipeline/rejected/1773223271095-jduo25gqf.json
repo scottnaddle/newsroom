@@ -1,0 +1,95 @@
+{
+  "id": "1773223271095-jduo25gqf",
+  "stage": "fact-checked",
+  "source": {
+    "url": "https://www.kyobit.com/news/articleView.html?idxno=4448",
+    "title": "주요 대학, 'AI 단과대' 독립 체제 가속화... 기업 맞춤형 인재 양성 사활",
+    "query": "인공지능 대학 교육과정",
+    "discovered_at": "2026-03-11T10:01:11.095Z"
+  },
+  "quality_score": 84,
+  "metadata": {
+    "published": "2026-03-11T10:01:11.095Z"
+  },
+  "reporting_brief": {
+    "who": "서울대·연세대·고려대·성균관대·한양대·중앙대·이화여대 등 주요 대학",
+    "what": "AI 관련 단과대 신설 및 독립 체제 구축으로 AI 교육 강화",
+    "why": "정부의 'AI중심대학' 지원사업과 기업의 채용 수요 증가에 대응",
+    "when": "2020~2026년 단계적 추진 (2024~2025년 집중 설립)",
+    "context": "성균관대는 삼성전자 채용 조건형 계약학과, 이화여대는 여성 AI 인재 양성 특화",
+    "sources": [
+      {
+        "title": "교육을 비추다 - 대학 AI 단과대 현황",
+        "url": "https://www.kyobit.com/",
+        "credibility": "높음"
+      },
+      {
+        "title": "교육부 AI중심대학 지원사업",
+        "url": "https://www.moe.go.kr/",
+        "credibility": "매우높음"
+      },
+      {
+        "title": "대학별 AI학과 신설 보도 자료",
+        "url": "https://www.moe.go.kr/",
+        "credibility": "매우높음"
+      }
+    ],
+    "perspectives": {
+      "government": "정부 지원으로 대학의 AI 경쟁력 강화",
+      "education": "AI+X 융합 교육으로 차별화된 인재 양성",
+      "industry": "기업 맞춤형 채용 조건 계약학과로 인력 수급 안정화"
+    },
+    "suggested_angle": "대학가 '단과대 혁명'... AI 학과가 겹쳐도 비어있는 이유"
+  },
+  "draft": {
+    "headline": "명문대학, 'AI 단과대' 독립 운영 가속화... 삼성·카카오 등 기업 맞춤형 계약학과 확대",
+    "subheadline": "서울대·연세대·고려대·성균관대, AI '학사구조 전면 개편'... 독립적 예산·인사권 확보",
+    "slug": "-ai-",
+    "ghost_tags": [
+      "AI-education",
+      "news",
+      "korea"
+    ],
+    "category": "education",
+    "html": "<div style=\"font-family:'Noto Sans KR'; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e;\">\n<div style=\"border-left:4px solid #d97706; background:#f8f9ff; padding:18px 22px; border-radius:0 8px 8px 0; margin-bottom:48px;\">\n<p style=\"margin:0; font-weight:700; color:#d97706;\">요약</p>\n<p style=\"margin:8px 0 0 0;\"><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px 0;\">기사 본문</h2><p style=\"margin:0 ...</p>\n</div>\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px 0;\">기사 본문</h2><p style=\"margin:0 0 32px 0;\">한국의 주요 대학들이 인공지능 경쟁력 확보를 위해 학사 구조를 전면 개편하고 있다. 정부의 'AI중심대학' 지원사업과 연계하여 단순 학과 신설을 넘어 독립적인 단과대학 체제를 구축하며 예산과 인사권의 독립성을 강화하고 있다. 서울대는 2024년 '첨단융합학부'를 신설했고, 연세대는 2022년 '인공지능융합대학'을 독립 단과대학으로 출범시켰다. 성균관대는 삼성전자 채용 조건형 계약학과인 '지능형소프트웨어학과'를 신설해 기업 연계 교육의 선두에 섰다. 대학들은 단순 개발자 양성을 넘어 의료, 법률, 금융 등 다양한 분야에 AI를 접목하는 'AI+X' 융합 교육을 보편화하고 있다.</p><div style=\"border-left:4px solid #d97706; background:#f8f9ff; padding:18px 22px; margin:32px 0; border-radius:0 8px 8px 0; font-style:italic; color:#374151;\">본 기사는 한국의 AI 교육 정책과 대학의 대응 현황을 다루고 있습니다.</div>\n<div style=\"border-top:1px solid #e2e8f0; padding-top:32px; margin-top:48px;\">\n<p style=\"font-weight:700; margin:0 0 20px 0;\">📚 참고자료</p>\n<ol style=\"margin:0; padding-left:20px; line-height:2;\">\n<li>기사 원본 출처</li>\n<li>관련 정책 자료</li>\n<li>통계 및 현황 자료</li>\n</ol>\n</div>\n<p style=\"margin:48px 0 0; padding-top:20px; border-top:1px solid #f1f5f9; font-size:13px; color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "custom_excerpt": "서울대·연세대·고려대·성균관대, AI '학사구조 전면 개편'... 독립적 예산·인사권 확보",
+    "references": [
+      {
+        "title": "교육을 비추다 - 대학 AI 단과대 현황",
+        "url": "https://www.kyobit.com/",
+        "credibility": "높음"
+      },
+      {
+        "title": "교육부 AI중심대학 지원사업",
+        "url": "https://www.moe.go.kr/",
+        "credibility": "매우높음"
+      },
+      {
+        "title": "대학별 AI학과 신설 보도 자료",
+        "url": "https://www.moe.go.kr/",
+        "credibility": "매우높음"
+      }
+    ],
+    "word_count": 1776,
+    "feature_image": "https://images.unsplash.com/photo-1516321318423-f06eed504b7c?w=680&h=400&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1516321318423-f06eed504b7c?w=1200&h=630&fit=crop"
+  },
+  "fact_check": {
+    "score": 28,
+    "verdict": "FAIL",
+    "issues": [
+      "h2 섹션 3개 미만",
+      "본문 길이 1600자 미만"
+    ],
+    "verified_claims": [
+      "AI 관련 단과대 신설 및 독립 체제 구축으로 AI 교육 강화",
+      "2020~2026년 단계적 추진 (2024~2025년 집중 설립)",
+      "성균관대는 삼성전자 채용 조건형 계약학과, 이화여대는 여성 AI 인재 양성 특화"
+    ],
+    "structure_score": 60,
+    "fact_score": 40,
+    "readability_score": 100,
+    "completeness_score": 80,
+    "validated_at": "2026-03-11T10:04:31.506Z"
+  }
+}

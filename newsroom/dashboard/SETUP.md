@@ -19,7 +19,7 @@
 
 ### Option A: 수동으로 HTML 복사
 
-1. Ghost Admin (`https://insight.ubion.global/ghost/`) 접속
+1. Ghost Admin (`https://ubion.ghost.io/ghost/`) 접속
 2. **Pages** → **New page**
 3. 제목: `🏢 UBION 관제센터`
 4. **Editor** → HTML 모드로 전환
@@ -57,7 +57,7 @@
 Nginx/Apache에서 대시보드를 프록시:
 
 ```nginx
-# /etc/nginx/sites-available/insight.ubion.global
+# /etc/nginx/sites-available/ubion.ghost.io
 location /dashboard/ {
   proxy_pass http://localhost:3848/;
   proxy_http_version 1.1;
@@ -115,7 +115,7 @@ Ghost Admin에서 위의 **Option A** 또는 **Option B** 실행
 ### 3. 대시보드 접속
 
 - **로컬**: http://127.0.0.1:3848/pages/main.html
-- **Ghost 내**: 페이지 생성 후 `https://insight.ubion.global/dashboard/`
+- **Ghost 내**: 페이지 생성 후 `https://ubion.ghost.io/dashboard/`
 
 ---
 

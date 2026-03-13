@@ -36,7 +36,11 @@
         "source": "전국인력신문"
       }
     ],
-    "word_count": 1920
+    "word_count": 1920,
+    "feature_image": "https://images.unsplash.com/photo-1595257841889-eca2678454e2?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1595257841889-eca2678454e2?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.854Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 92,

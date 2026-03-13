@@ -1,0 +1,62 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Artificial Intelligence Breakthroughs in March 2026",
+    "url": "https://www.devflokers.com/blog/ai-breakthroughs-march-2026",
+    "source_name": "DevFlokers",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "OpenAI's GPT-5.4 with 1M token context window and ChatGPT for Excel integration"
+  },
+  "digest": {
+    "headline": "OpenAI의 GPT-5.4, 엑셀 기반 AI 금융 분석 도구 출시",
+    "lead": "OpenAI가 3월 5일 GPT-5.4를 공개했다. 100만 토큰 컨텍스트 윈도우를 지닌 이 모델은 동시에 출시된 'ChatGPT for Excel'과 결합해 스프레드시트 기반 데이터 분석·모델링을 획기적으로 변화시킨다. 자연어로 금융 예측, 시나리오 분석, 오류 추적까지 수행 가능하며, 실시간 금융 데이터 연동으로 투명성 높은 AI 보조 업무를 실현한다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">⚡ AI Digest</span>\n  </div>\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">OpenAI가 3월 5일 GPT-5.4를 공개했다. 100만 토큰 컨텍스트 윈도우를 지닌 이 모델은 동시에 출시된 'ChatGPT for Excel'과 결합해 스프레드시트 기반 데이터 분석·모델링을 획기적으로 변화시킨다. 자연어로 금융 예측, 시나리오 분석, 오류 추적까지 수행 가능하며, 실시간 금융 데이터 연동으로 투명성 높은 AI 보조 업무를 실현한다.</p>\n  </div>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">GPT-5.4는 OpenAI의 최신 '정점 모델(frontier model)'로, 이전 GPT-5 시리즈의 고급 코딩·추론 능력을 유지하면서 컨텍스트 길이를 획기적으로 확장했다. 종합적인 벤치마크에서 이전 GPT-5.2 대비 83% 승률을 기록했다. ChatGPT for Excel은 엑셀 애드인 형태로 스프레드시트에 직접 통합되며, FactSet, Dow Jones Factiva, Moody's 등 금융 데이터 통합을 지원한다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">ChatGPT for Excel은 AI 금융 보조자 역할을 수행한다. 분석가가 자연어로 예산 모델, 시나리오 분석, 오류 추적을 지시하면 AI가 실제 엑셀 수식으로 변환 및 실행한다. 특히 모든 수식과 셀 링크가 보존되므로, 팀이 AI의 변경사항을 감사하고 신뢰할 수 있다는 점이 핵심이다. 이는 기존 AI 도구의 '블랙박스' 특성을 극복하는 투명성 높은 접근이다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">데이터 분석·금융 리터러시 교육에 획기적 도구가 나타났다. ChatGPT for Excel은 대학 비즈니스 스쿨, MBA 과정, 고등학교 경제·통계 수업에서 실제 금융 데이터 기반 모델링을 가르칠 수 있게 한다. 학생은 자연어로 개념을 설명하고 AI가 즉시 수식으로 구현하는 과정을 통해 '왜'와 '어떻게'를 동시에 배운다. 특히 투명성 있는 수식 추적은 AI 윤리와 감사 역량까지 교육할 기회를 제공한다.</p>\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.devflokers.com/blog/ai-breakthroughs-march-2026\" style=\"color:#FF6B35;text-decoration:none;\">DevFlokers</a></p>\n  </div>\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "edtech"
+    ],
+    "meta_title": "GPT-5.4와 ChatGPT for Excel 출시, 데이터 분석 교육 혁신",
+    "meta_description": "OpenAI의 100만 토큰 GPT-5.4와 엑셀 통합 ChatGPT로 금융 리터러시 교육이 변화한다. 투명성 있는 AI 기반 모델링의 에듀테크 활용법.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T12:05:21Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T21:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "publish_failed",
+      "timestamp": "2026-03-10T12:35:25.305Z",
+      "details": "Ghost API error 401: {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"9cd3ec20-1c7d-11f1-a253-6331647287ad\",\"ghostErrorCode\":null}]}"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-10T12:35:54.703Z"
+    }
+  ],
+  "error": {
+    "agent": "digest-publisher",
+    "action": "publish_failed",
+    "timestamp": "2026-03-10T12:35:25.305Z",
+    "error_message": "Ghost API error 401: {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"9cd3ec20-1c7d-11f1-a253-6331647287ad\",\"ghostErrorCode\":null}]}"
+  },
+  "publish_result": {
+    "ghost_post_id": "69b0102ae303e00001e2f8ce",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b0102ae303e00001e2f8ce",
+    "public_url": "https://ubion.ghost.io/openaiyi-gpt54-egsel-giban-ai-geumyung-bunseog-dogu-culsi/",
+    "status": "published",
+    "published_at": "2026-03-10T12:35:54.703Z"
+  }
+}

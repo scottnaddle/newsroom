@@ -1,0 +1,226 @@
+{
+  "id": "202603061518-joongang-lg",
+  "stage": "rejected",
+  "created_at": "2026-03-06T15:18:00+09:00",
+  "drafted_at": "2026-03-06T17:01:50+09:00",
+  "fact_checked_at": "2026-03-06T17:09:50+09:00",
+  "priority": 2,
+  "source": {
+    "title": "신입생 전원에 최신 노트북…'국내 첫 사내대학원' LG AI대학원 출범",
+    "url": "https://www.joongang.co.kr/article/25409088",
+    "source_name": "중앙일보"
+  },
+  "draft": {
+    "headline": "LG AI대학원, 국내 첫 사내 대학원으로 공식 출범",
+    "subheadline": "기업이 직접 운영하는 AI 석·박사 학위 과정…1기 17명 입학",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#111;font-size:17px;line-height:1.9;\">\n  \n  <div style=\"border-left:4px solid #d97706;padding:16px 20px;background:#f8f9ff;border-radius:0 6px 6px 0;margin-bottom:44px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">기업이 직접 AI 석·박사 인재를 양성하는 국내 첫 사내 대학원인 'LG AI대학원'이 교육부 공식 인가를 받아 출범했다. 1기로 LG그룹 임직원 17명이 입학했으며, 구광모 회장은 신입생 전원에 최신 노트북과 축하 편지를 전달했다.</p>\n  </div>\n\n  <figure class=\"kg-card kg-image-card kg-width-full\">\n    <img src=\"https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop&q=85&auto=format\" class=\"kg-image\" alt=\"AI 연구\">\n    <figcaption>기업 주도 AI 인재 양성의 새로운 모델이 시작됐다 (이미지: Unsplash)</figcaption>\n  </figure>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">국내 최초 기업 직접 운영 학위 과정</h2>\n  <p style=\"margin:0 0 36px;\">LG AI대학원은 기업이 직접 학위 과정을 운영하는 대한민국 최초의 시도다. 3월 4일 서울 마곡 K스퀘어에서 개원식을 열고 1기 입학생 17명(석사 11명, 박사 6명)을 맞이했다. 이홍락 초대 대학원장은 \"기업이 직접 학위 과정을 운영하는 것은 대한민국 AI 인재 육성의 새로운 패러다임을 여는 의미 있는 첫걸음\"이라고 밝혔다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">이론과 실무의 융합 교육</h2>\n  <p style=\"margin:0 0 36px;\">LG AI대학원은 이론 중심인 기존 대학원과 달리 '산업 현장의 난제 해결'에 초점을 맞췄다. 석사 과정은 1년, 박사 과정은 3년 이상 운영되며 학비는 전액 지원된다. 박사 과정 졸업요건으로 SCI(E)급 논문 1편 이상 게재 또는 세계 정상급 학술대회 발표를 요구해 학술적 기준도 엄격히 적용한다. AI 파운데이션 모델 개발부터 산업 적용까지 전 주기를 아우르며, 텍스트 분석, 이미지 인식, 데이터 분석, 신소재·바이오 연구 등 다양한 분야를 다룬다.</p>\n\n  <blockquote style=\"border-left:4px solid #d97706;padding:18px 24px;margin:0 0 44px;background:#f8f9ff;border-radius:0 6px 6px 0;\">\n    <p style=\"margin:0 0 10px;font-size:17px;font-style:italic;line-height:1.85;color:#1a1a2e;\">\"기술은 그 자체가 목적이 아닌 '사람들의 미소'를 설계하는 따뜻한 도구여야 한다. 실패는 해답을 찾아가는 증거이자 혁신으로 향하는 가장 정직한 과정이다.\"</p>\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">— 구광모 LG그룹 회장</p>\n  </blockquote>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">최고 수준 연구 인프라와 교수진</h2>\n  <p style=\"margin:0 0 36px;\">학생들은 LG AI연구원의 초거대 AI 인프라와 각 계열사의 실제 산업 데이터를 연구에 활용할 수 있다. LG 초거대 AI 모델 '엑사원'이 탑재된 최고 사양 LG 그램 노트북도 지원받는다. 교수진은 LG AI연구원 산업 특화 전문가 24명과 전임 교원으로 구성되며, 서울대, KAIST 등 주요 과학기술원과도 교류한다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">전 생애주기 AI 교육 생태계 완성</h2>\n  <p style=\"margin:0 0 36px;\">LG는 이번 AI대학원 출범으로 전 생애주기를 아우르는 맞춤형 AI 교육 생태계를 완성했다. 청소년 대상 'LG 디스커버리랩', 청년 대상 'LG 에이머스', 임직원 대상 'LG AI 아카데미'에 이어 석·박사 과정인 'LG AI대학원'까지 연결되는 체계다. 내부 인재 양성으로 경쟁력을 확보하겠다는 LG의 장기적 전략이 반영된 것이다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">분석과 시사점</h2>\n  <p style=\"margin:0 0 36px;\">LG AI대학원은 대학-기업 협력을 넘어 기업이 주도하는 인재 양성 모델을 제시했다는 점에서 의의가 있다. 실무 중심 교육으로 산업 현장에 즉시 투입 가능한 인력을 양성하면서도 학술적 기준을 유지해 이론과 실무의 균형을 모색한다. 구광모 회장의 \"사람 중심 기술\" 철학과 \"실패 용인 문화\"가 기업 문화로 정착할지 주목된다. 다만 LG 임직원 대상이라는 점에서 일반 학생의 접근성은 제한된다.</p>\n\n  <div style=\"margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;\">\n    <p style=\"margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;\">참고 자료</p>\n    <ol style=\"font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;\">\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.joongang.co.kr/article/25409088\" style=\"color:#d97706;text-decoration:none;\">신입생 전원에 최신 노트북…LG AI대학원 출범 (중앙일보)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.korea.kr/news/policyNewsView.do?newsId=148954472\" style=\"color:#d97706;text-decoration:none;\">전 생애주기 인공지능 보편교육 강화 (대한민국 정책브리핑)</a></li>\n      <li style=\"margin-bottom:6px;\"><a href=\"https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=104840\" style=\"color:#d97706;text-decoration:none;\">교육부 AI 인재양성 정책</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin:32px 0 0;padding-top:16px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "LG AI대학원",
+      "사내대학원",
+      "AI인재양성",
+      "기업교육"
+    ],
+    "references": [
+      {
+        "url": "https://www.joongang.co.kr/article/25409088",
+        "title": "신입생 전원에 최신 노트북…LG AI대학원 출범"
+      },
+      {
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148954472",
+        "title": "전 생애주기 인공지능 보편교육 강화"
+      },
+      {
+        "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=104840",
+        "title": "교육부 AI 인재양성 정책"
+      }
+    ],
+    "word_count": 910,
+    "category": "industry",
+    "feature_image": "https://images.unsplash.com/photo-1538688525198-9b88f6f53126?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1538688525198-9b88f6f53126?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "quality_report": {
+    "structure_score": 100,
+    "fact_check_score": 93,
+    "readability_score": 86,
+    "completeness_score": 92,
+    "overall_confidence": 93,
+    "verdict": "PASS",
+    "details": {
+      "structure": {
+        "has_headline": true,
+        "has_lead_box": true,
+        "has_background": true,
+        "section_count": 5,
+        "has_references": true,
+        "has_ai_footer": true,
+        "issues": []
+      },
+      "fact_check": {
+        "claims_checked": 8,
+        "claims": [
+          {
+            "claim": "국내 첫 기업 직접 운영 학위 과정",
+            "type": "definitional",
+            "verdict": "SUPPORTED",
+            "confidence": 95,
+            "evidence": "중앙일보 원문 확인",
+            "source_url": "https://www.joongang.co.kr/article/25409088",
+            "flagged": false
+          },
+          {
+            "claim": "3월 4일 서울 마곡 K스퀘어 개원식",
+            "type": "temporal",
+            "verdict": "SUPPORTED",
+            "confidence": 95,
+            "evidence": "원문에서 일정 확인",
+            "source_url": "https://www.joongang.co.kr/article/25409088",
+            "flagged": false
+          },
+          {
+            "claim": "1기 입학생 17명 (석사 11명, 박사 6명)",
+            "type": "statistical",
+            "verdict": "SUPPORTED",
+            "confidence": 95,
+            "evidence": "원문에서 인원수 확인",
+            "source_url": "https://www.joongang.co.kr/article/25409088",
+            "flagged": false
+          },
+          {
+            "claim": "이홍락 초대 대학원장",
+            "type": "attribution",
+            "verdict": "SUPPORTED",
+            "confidence": 95,
+            "evidence": "원문에서 인물 확인",
+            "source_url": "https://www.joongang.co.kr/article/25409088",
+            "flagged": false
+          },
+          {
+            "claim": "석사 1년, 박사 3년 이상, 학비 전액 지원",
+            "type": "definitional",
+            "verdict": "SUPPORTED",
+            "confidence": 90,
+            "evidence": "원문에서 과정 정보 확인",
+            "source_url": "https://www.joongang.co.kr/article/25409088",
+            "flagged": false
+          },
+          {
+            "claim": "구광모 회장 신입생 전원 최신 노트북 지급",
+            "type": "attribution",
+            "verdict": "SUPPORTED",
+            "confidence": 95,
+            "evidence": "원문 및 헤드라인에서 확인",
+            "source_url": "https://www.joongang.co.kr/article/25409088",
+            "flagged": false
+          },
+          {
+            "claim": "LG AI연구원 산업 특화 전문가 24명 교수진",
+            "type": "statistical",
+            "verdict": "SUPPORTED",
+            "confidence": 90,
+            "evidence": "원문에서 인원수 확인",
+            "source_url": "https://www.joongang.co.kr/article/25409088",
+            "flagged": false
+          },
+          {
+            "claim": "LG 디스커버리랍, 에이머스, AI 아카데미 운영",
+            "type": "attribution",
+            "verdict": "SUPPORTED",
+            "confidence": 90,
+            "evidence": "원문에서 프로그램명 확인",
+            "source_url": "https://www.joongang.co.kr/article/25409088",
+            "flagged": false
+          }
+        ],
+        "flagged_claims": []
+      },
+      "readability": {
+        "avg_paragraph_length": 290,
+        "avg_sentence_length": 24,
+        "unique_word_ratio": 0.78,
+        "section_structure": "good",
+        "emphasis_usage": "good"
+      },
+      "completeness": {
+        "headline_content_match": 95,
+        "source_count": 3,
+        "perspective_diversity": "not_applicable",
+        "who_what_why": "complete"
+      }
+    }
+  },
+  "audit_log": [
+    {
+      "agent": "source-collector",
+      "action": "collected",
+      "timestamp": "2026-03-06T15:18:00+09:00",
+      "note": "관련성 83점 - 교육부 인가 AI 대학원"
+    },
+    {
+      "agent": "editor-desk",
+      "action": "assigned",
+      "timestamp": "2026-03-06T07:44:17Z",
+      "note": "긴급 배정 - 파이프라인 정체 해소"
+    },
+    {
+      "agent": "reporter",
+      "action": "reported",
+      "timestamp": "2026-03-06T16:49:50+09:00",
+      "note": "취재 브리프 작성 완료"
+    },
+    {
+      "agent": "writer",
+      "action": "drafted",
+      "timestamp": "2026-03-06T17:01:50+09:00",
+      "note": "기사 작성 완료 - 910자"
+    },
+    {
+      "agent": "fact-checker",
+      "action": "verified",
+      "timestamp": "2026-03-06T17:09:50+09:00",
+      "note": "구조 100 | 팩트 93 | 가독성 86 | 완정도 92 → 종합 93점 PASS"
+    },
+    {
+      "agent": "publisher",
+      "action": "published-draft",
+      "timestamp": "2026-03-06T08:25:54.362Z",
+      "note": "Ghost draft URL: https://insight.ubion.global/ghost/#/editor/post/69aa8f92ff4fbf0001ab6ecd"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aa8f92ff4fbf0001ab6ecd",
+    "ghost_draft_url": "https://insight.ubion.global/ghost/#/editor/post/69aa8f92ff4fbf0001ab6ecd",
+    "status": "published",
+    "published_at": "2026-03-06T08:25:54.362Z"
+  },
+  "reporting_brief": {
+    "who": "교육부, 대학, 기업",
+    "what": "AI 교육 관련 정책 및 프로그램",
+    "why": "인재 양성 및 산업 연계",
+    "when": "2026년",
+    "context": "신규 수집",
+    "sources": [
+      "https://www.joongang.co.kr/article/25409088"
+    ],
+    "perspectives": [
+      "정부",
+      "교육계",
+      "산업계"
+    ],
+    "suggested_angle": "AI 교육의 현재와 미래"
+  },
+  "fact_check": {
+    "score": 93,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "기사 구조 검증됨",
+      "팩트 검증됨"
+    ],
+    "validated_at": "2026-03-13T08:30:00Z"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "본문 1508자 (1600자 미만)"
+  }
+}

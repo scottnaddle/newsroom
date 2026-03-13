@@ -1,0 +1,52 @@
+{
+  "id": "source-ai-global-20260311-001",
+  "source": {
+    "title": "AI Governance in Higher Education: The 2026 Framework for Policy & Risk",
+    "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/",
+    "published": "2026-03-06"
+  },
+  "stage": "rejected",
+  "draft": {
+    "headline": "2026년 8월부터 대학의 AI 사용을 규제한다... '높은 위험' AI 활동의 대학 내 확산에 제동",
+    "word_count": 2200
+  },
+  "fact_check": {
+    "score": 90,
+    "verdict": "PASS",
+    "structure_check": {
+      "has_lead_box": true,
+      "has_h2_sections": 6,
+      "has_references": true,
+      "has_ai_footer": true,
+      "status": "✅ 완벽함"
+    },
+    "claim_verification": {
+      "claim_1": "EU AI 기본법 고위험 규정 2026년 8월 1일 적용 - ✅ EU 공식 일정 확인",
+      "claim_2": "학생 평가, 입시, 성과 모니터링이 '고위험' AI에 해당 - ✅ AI Act 분류 일치",
+      "claim_3": "투명성 의무, 인간의 개입, 감사 가능성 요구 - ✅ AI Act 조항 정확함",
+      "claim_4": "미국 주 차원에서 AI 규제 논의 중 - ✅ 현황 정확함"
+    },
+    "readability_check": {
+      "sentence_variety": "매우 좋음",
+      "tone_consistency": "일관됨",
+      "clarity": "매우 명확함",
+      "legal_accuracy": "높음"
+    },
+    "completeness_check": {
+      "sources_count": 3,
+      "minimum_word_count_met": true,
+      "global_scope": "EU, 미국, 중국, 한국 포함"
+    },
+    "issues": [],
+    "verified_claims": [
+      "EU AI 기본법은 4가지 위험도 분류 체계 수용",
+      "고위험 AI는 문서화, 투명성, 인간 감시 요구",
+      "규제 환경이 전 세계적으로 확산되는 중"
+    ],
+    "validated_at": "2026-03-12T15:36:00Z"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

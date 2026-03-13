@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Ex-Meta AI chief raises $1.03 billion to build world models & OpenClaw mania hits China",
+    "url": "https://venturedailydigest.substack.com/p/ex-meta-ai-chief-raises-103-billion",
+    "source_name": "Venture Daily Digest",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Venture Daily Digest covers the significant funding round from Yann LeCun's AI startup alongside developments in OpenClaw adoption in China. The digest highlights major AI funding trends and emerging patterns in global AI infrastructure adoption.",
+    "published_date": "2026-03-11",
+    "collected_at": "2026-03-11T08:05:00Z"
+  },
+  "digest": {
+    "headline": "메타 AI 수장 야옌 르쿤, 10억 달러 투자 유치… '세계 모델' 경쟁 본격화",
+    "lead": "Meta의 수석 AI 과학자 Yann LeCun이 세운 AMI Labs가 35억 달러 기업가치로 10억 3천만 달러를 조달했다. Nvidia, Samsung, Temasek 등 글로벌 투자자들의 지지를 받은 이 펀딩은 LeCun이 추구하는 'JEPA 기반 세계 모델'이 시장에서 현실성 있는 기술로 인정받았음을 의미한다. 의료·과학 등 고가치 분야 적용이 목표다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">Meta의 수석 AI 과학자 Yann LeCun이 세운 AMI Labs가 35억 달러 기업가치로 10억 3천만 달러를 조달했다. Nvidia, Samsung, Temasek 등 글로벌 투자자들의 지지를 받은 이 펀딩은 LeCun이 추구하는 'JEPA 기반 세계 모델'이 시장에서 현실성 있는 기술로 인정받았음을 의미한다. 의료·과학 등 고가치 분야 적용이 목표다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">GPT 같은 대규모 언어모델이 지배하는 시장에서 LeCun은 한계를 지적해왔다. 텍스트에만 학습된 AI는 실제 물리 세계를 '이해'하지 못한다는 주장이다. JEPA(Joint Embedding Predictive Architecture) 아키텍처는 텍스트·이미지·센서 데이터 등 다양한 입력으로부터 세계의 작동 방식을 배우는 시스템이다. AMI Labs는 이를 의료, 로봇, 과학 연구 등에 적용하려 한다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 펀딩은 'AI 다음 단계'에 대한 업계의 판단을 반영한다. 인프라 투자자(Nvidia), 제조사(Samsung), 펀드(Temasek·Bezos Expeditions)가 모두 참여했다는 점은 세계 모델이 단순 학술적 관심이 아닌 실제 적용 가능성이 높다고 평가받는다는 뜻이다. 지난 몇 년간 LLM 경쟁으로 과열된 시장에 '새로운 기술 방향'의 등장은 AI 투자 생태계의 다양화 신호다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">세계 모델 기술은 시뮬레이션 기반 학습, 실험 환경 자동화, 과학 교육의 개인화에 직접 적용 가능하다. 학생이 물리·화학·생물 실험을 가상 환경에서 반복하고, AI가 학생의 오류와 이해도를 예측하는 적응형 학습 플랫폼을 구축할 수 있다. 특히 의료·약학 교육 같은 고비용 실습 과목에서 세계 모델 기반 시뮬레이션은 비용 대폭 절감과 규모 확대를 동시에 가능하게 한다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://venturedailydigest.substack.com/p/ex-meta-ai-chief-raises-103-billion\" style=\"color:#FF6B35;text-decoration:none;\">Venture Daily Digest</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "research",
+      "funding"
+    ],
+    "meta_title": "야옌 르쿤, 10억 달러 조달… '세계 모델' AI 시대 개막",
+    "meta_description": "Meta 수석 AI 과학자 야옌 르쿤의 AMI Labs, 35억 달러 기업가치로 10억 3천만 달러 투자 유치. 텍스트 넘어 물리 세계 이해하는 AI 기술 본격화.",
+    "word_count": 490
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T08:05:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T08:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-10T23:34:54.454Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b0aa9e5d8fee0001508977",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b0aa9e5d8fee0001508977/",
+    "public_url": "https://ubion.ghost.io/meta-ai-sujang-yayen-reukun-10eog-dalreo-tuja-yuci-segye-model-gyeongjaeng-bongyeoghwa/",
+    "status": "published",
+    "published_at": "2026-03-10T23:34:54.454Z"
+  }
+}

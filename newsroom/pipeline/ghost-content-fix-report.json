@@ -1,0 +1,382 @@
+{
+  "timestamp": "2026-03-10T08:00:55.889Z",
+  "api": "https://ubion.ghost.io",
+  "updated": 3,
+  "errors": 69,
+  "skipped": 4,
+  "results": {
+    "updated": [
+      {
+        "file": "source-1773093643285-0.json",
+        "ghostId": "69af4397ff4fbf0001ab7cbb",
+        "title": "글로벌 교육 정책, AI 시대 미래형 인재 양성으로 전환",
+        "htmlLength": 3829
+      },
+      {
+        "file": "source-1773093643286-1.json",
+        "ghostId": "69af439cff4fbf0001ab7cc4",
+        "title": "92% 학생이 AI 사용하나, 3분의 1만 정식 교육받아",
+        "htmlLength": 3854
+      },
+      {
+        "file": "source-1773093643287-2.json",
+        "ghostId": "69af43a1ff4fbf0001ab7ccc",
+        "title": "EU AI Act 8월 시행 임박... 대학가 AI 가버넌스 준비 시급",
+        "htmlLength": 3855
+      }
+    ],
+    "error": [
+      {
+        "file": "2026-03-02_11-53_kjob-uk-us-ai-governance-korea.json",
+        "ghostId": "69aecc25ff4fbf0001ab7c6c",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-04_00-12_k12dive-states-ban-edtech-generative-ai.json",
+        "ghostId": "69aecc2aff4fbf0001ab7c74",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-04_14-41_lg-ai-graduate-school-opens.json",
+        "ghostId": "69aecc31ff4fbf0001ab7c7c",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-06_10-04_01-ai-bootcamp-policy.json",
+        "ghostId": "69afcaf815c2cc0001bbe0c4",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-06_10-11_seoul-youth-academy-ai.json",
+        "ghostId": "69afcaf815c2cc0001bbe0c8",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-06_12-11_ai-education-direction.json",
+        "ghostId": "69afcaf915c2cc0001bbe0cc",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-06_12-11_ai-regulation-2026.json",
+        "ghostId": "69afcaf915c2cc0001bbe0d0",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-06_15-18_hannam-bootcamp.json",
+        "ghostId": "69afcafa15c2cc0001bbe0d4",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-06_15-18_joongang-lg-ai-graduate.json",
+        "ghostId": "69afcafb15c2cc0001bbe0d8",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-06_18-00-global-edu-policy.json",
+        "ghostId": "69afcafb15c2cc0001bbe0dc",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-06_18-00-seoul-ai-bootcamp.json",
+        "ghostId": "69afcafc15c2cc0001bbe0e0",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-06_18-00_ai-required-course-campus.json",
+        "ghostId": "69afcafd15c2cc0001bbe0e4",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-06_19-45_smart-device-school-restriction.json",
+        "ghostId": "69afcafd15c2cc0001bbe0e8",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-06_23-16_Korea-Univ-Tech-Education-Semicon.json",
+        "ghostId": "69afcafe15c2cc0001bbe0ec",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-07_02-37_ai-era-children-education.json",
+        "ghostId": "69afcaff15c2cc0001bbe0f0",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-07_02-37_ai-ethics-policy-universities.json",
+        "ghostId": "69afcb0015c2cc0001bbe0f4",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-07_02-37_asia-ai-research-consortium.json",
+        "ghostId": "69afcb0015c2cc0001bbe0f8",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-07_02-37_korea-ai-love-politico.json",
+        "ghostId": "69afcb0115c2cc0001bbe0fc",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-07_06-25_daegu-ai-bootcamp.json",
+        "ghostId": "69aecc37ff4fbf0001ab7c84",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-07_06-55_ai-hyeogsin-gyeongjaeng-hangug-daeeung.json",
+        "ghostId": "69afcb0215c2cc0001bbe100",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-07_06-55_ai-ro-byeonhwa-hangug-gyoyug-2026.json",
+        "ghostId": "69aecc3dff4fbf0001ab7c8c",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-07_11-53_global-education-policy-paradigm-shift.json",
+        "ghostId": "69afcb0215c2cc0001bbe104",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-07_11-53_lg-launches-south-koreas-first-corporate.json",
+        "ghostId": "69afcb0315c2cc0001bbe108",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-07_17-58_ai-education-revolution-2026-uk-us-korea.json",
+        "ghostId": "69afcb0415c2cc0001bbe10c",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-08_00-16_yeoncheon-ebs-ai-learning-center.json",
+        "ghostId": "69accce6ff4fbf0001ab74a3",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-08_07-11_ai-ethics-literacy-policy-needed.json",
+        "ghostId": "69acbe39ff4fbf0001ab7448",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-08_07-11_koreatech-ai-learning-platform-klxp.json",
+        "ghostId": "69acbe3aff4fbf0001ab7456",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-08_07-11_national-education-vision-forum-ai.json",
+        "ghostId": "69acbe3aff4fbf0001ab7468",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-08_07-11_university-ai-adoption-workforce-debate.json",
+        "ghostId": "69acc105ff4fbf0001ab7478",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-09_07-24_guardian-teacher-v-chatbot-ai-classroom.json",
+        "ghostId": "69ae08b3ff4fbf0001ab768a",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-09_13-22_ai-governance-higher-education-2026.json",
+        "ghostId": "69ae689dff4fbf0001ab77e8",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-09_13-22_ansan-wongok-ai-future-school.json",
+        "ghostId": "69ae689eff4fbf0001ab77f8",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-09_13-22_jeju-skku-ai-edutech-partnership.json",
+        "ghostId": "69ae689eff4fbf0001ab7808",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-09_13-22_us-senate-ai-education-act-2026.json",
+        "ghostId": "69ae68bcff4fbf0001ab7818",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-09_13-22_us-states-49-ai-education-bills-tracker.json",
+        "ghostId": "69ae68bcff4fbf0001ab7828",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-09_13-22_visang-edutech-lesson-contest.json",
+        "ghostId": "69ae68bdff4fbf0001ab7834",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-09_14-00_coursera-ai-higher-ed-norm.json",
+        "ghostId": "69ae70caff4fbf0001ab7875",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-09_14-00_higher-ed-dive-administrators-ai-disruption.json",
+        "ghostId": "69ae7193ff4fbf0001ab78b1",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-09_14-00_korean-universities-ai-colleges-acceleration.json",
+        "ghostId": "69ae70d2ff4fbf0001ab7881",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-09_14-00_moe-ai-focus-schools-1141.json",
+        "ghostId": "69ae70c2ff4fbf0001ab7869",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-09_14-00_washpost-liberal-arts-ai-era.json",
+        "ghostId": "69ae7198ff4fbf0001ab78c2",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-09_14-00_washu-plus-ai-academic-initiative.json",
+        "ghostId": "69ae719dff4fbf0001ab78d3",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-09_18-00_ai-teacher-role-elementary-column.json",
+        "ghostId": "69aecc42ff4fbf0001ab7c96",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "2026-03-09_18-00_kjob-ai-integrated-curriculum-innovation.json",
+        "ghostId": "69ae93fbff4fbf0001ab7943",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "article-001.json",
+        "ghostId": "69aecc47ff4fbf0001ab7c9e",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "article-004.json",
+        "ghostId": "69aecc4dff4fbf0001ab7ca6",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "copy-edited.json",
+        "ghostId": "69aecc52ff4fbf0001ab7cb2",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "draft_002.json",
+        "ghostId": "69af6192ff4fbf0001ab7d4c",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "draft_003.json",
+        "ghostId": "69af6193ff4fbf0001ab7d56",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "draft_004.json",
+        "ghostId": "69af6193ff4fbf0001ab7d60",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "etcjournal-ai-education-uses-20260302.json",
+        "ghostId": "69af4b0cff4fbf0001ab7cdb",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "kjob-ai-regulation-2026-20260303.json",
+        "ghostId": "69af4b11ff4fbf0001ab7ce3",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "korea-kr-ai-schools-operation-20260309.json",
+        "ghostId": "69af4b16ff4fbf0001ab7ceb",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "npr-ai-college-rules-20260303.json",
+        "ghostId": "69af4b1cff4fbf0001ab7cf5",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "source-1773093643287-3.json",
+        "ghostId": "69af4b21ff4fbf0001ab7cff",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "source_001.json",
+        "ghostId": "69afcb0715c2cc0001bbe120",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "source_002.json",
+        "ghostId": "69afcb0815c2cc0001bbe124",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "source_003.json",
+        "ghostId": "69afcb0915c2cc0001bbe128",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "source_004.json",
+        "ghostId": "69afcb0915c2cc0001bbe12c",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "source_10_1773054034553.json",
+        "ghostId": "69aea882ff4fbf0001ab7988",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "source_1_1773054034527.json",
+        "ghostId": "69aea888ff4fbf0001ab7992",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "source_2_1773054034537.json",
+        "ghostId": "69aea88dff4fbf0001ab799b",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "source_3_1773054034541.json",
+        "ghostId": "69aea893ff4fbf0001ab79a4",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "source_4_1773054034542.json",
+        "ghostId": "69aea898ff4fbf0001ab79ad",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "source_5_1773054034543.json",
+        "ghostId": "69aeb084ff4fbf0001ab79bd",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "source_6_1773054034545.json",
+        "ghostId": "69aeb089ff4fbf0001ab79c9",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "source_7_1773054034546.json",
+        "ghostId": "69aeb08eff4fbf0001ab79d7",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "source_8_1773054034549.json",
+        "ghostId": "69aeb093ff4fbf0001ab79e3",
+        "error": "Saving failed! Someone else is editing this post."
+      },
+      {
+        "file": "source_9_1773054034552.json",
+        "ghostId": "69aeb099ff4fbf0001ab79f2",
+        "error": "Saving failed! Someone else is editing this post."
+      }
+    ],
+    "skipped": [
+      "2026-03-10_12-30_ai-middle-school-policy.json",
+      "2026-03-10_12-31_university-ai-curriculum.json",
+      "2026-03-10_12-32_ai-education-revolution.json",
+      "2026-03-10_12-33_ai-governance-higher-ed.json"
+    ]
+  }
+}

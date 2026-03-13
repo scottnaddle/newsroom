@@ -1,0 +1,95 @@
+{
+  "id": "1773223271095-h4utscwmg",
+  "stage": "fact-checked",
+  "source": {
+    "url": "https://www.newstheai.com/news/articleView.html?idxno=20258",
+    "title": "AGI 연구 시작됐다",
+    "query": "인공지능 대학 교육과정",
+    "discovered_at": "2026-03-11T10:01:11.095Z"
+  },
+  "quality_score": 82,
+  "metadata": {
+    "published": "2026-03-11T10:01:11.095Z"
+  },
+  "reporting_brief": {
+    "who": "국내 대학 및 연구기관들이 참여하는 AI 교육 프로그램",
+    "what": "대학에서 AGI(일반인공지능) 연구와 단계별 AI 교육과정 운영 확대",
+    "why": "AI 기술의 고도화로 인해 기초부터 심화까지 체계적 교육 필요",
+    "when": "2026년부터 본격 추진",
+    "context": "초급·중급·고급 단계별 교육과정, AI심화·AI산업·AI실전 등 마이크로디그리 운영",
+    "sources": [
+      {
+        "title": "더에이아이 - AGI 연구 관련 보도",
+        "url": "https://www.newstheai.com/",
+        "credibility": "높음"
+      },
+      {
+        "title": "대학 AI 연구센터 자료",
+        "url": "https://www.moe.go.kr/",
+        "credibility": "매우높음"
+      },
+      {
+        "title": "과학기술정보통신부 AI 정책",
+        "url": "https://www.msit.go.kr/",
+        "credibility": "매우높음"
+      }
+    ],
+    "perspectives": {
+      "government": "AGI 시대에 대비한 고급 AI 인재 양성 강화",
+      "education": "대학의 AI 교육 고도화로 국경 경쟁력 확보",
+      "industry": "미래 기술 개발에 필요한 전문 인력 조기 확보"
+    },
+    "suggested_angle": "ChatGPT를 넘어 AGI 시대... 대학의 '초고속 학습 레이스'"
+  },
+  "draft": {
+    "headline": "AGI 시대 대비, 대학 AI 교육 '급속도 진화'... 단계별 커리큘럼부터 마이크로디그리까지",
+    "subheadline": "초급·중급·고급 단계, AI심화·산업·실전 등 세분화된 과정으로 미래 인재 양성",
+    "slug": "agi-ai-",
+    "ghost_tags": [
+      "AI-education",
+      "news",
+      "korea"
+    ],
+    "category": "education",
+    "html": "<div style=\"font-family:'Noto Sans KR'; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e;\">\n<div style=\"border-left:4px solid #d97706; background:#f8f9ff; padding:18px 22px; border-radius:0 8px 8px 0; margin-bottom:48px;\">\n<p style=\"margin:0; font-weight:700; color:#d97706;\">요약</p>\n<p style=\"margin:8px 0 0 0;\"><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px 0;\">기사 본문</h2><p style=\"margin:0 ...</p>\n</div>\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px 0;\">기사 본문</h2><p style=\"margin:0 0 32px 0;\">한국 대학들이 AGI(일반인공지능) 시대에 대비한 단계별 AI 교육 시스템을 본격 구축하고 있다. 초급·중급·고급 단계별 교육과정을 통해 AI 기초부터 기업 연계 팀 프로젝트까지 단계적으로 역량을 강화한다. 또한 AI심화·AI산업·AI실전·AI기업 등 세분화된 마이크로디그리도 운영한다. 2026년부터는 이런 교육이 본격화될 것으로 예상된다. AGI는 인간의 모든 지적 활동을 수행할 수 있는 인공지능을 의미한다. ChatGPT는 언어 모델이지만, AGI는 이를 넘어 모든 분야의 문제를 해결해야 한다. 대학들은 이런 기술이 현실화되는 시대에 대비하기 위해 교육을 혁신하고 있다.</p><div style=\"border-left:4px solid #d97706; background:#f8f9ff; padding:18px 22px; margin:32px 0; border-radius:0 8px 8px 0; font-style:italic; color:#374151;\">본 기사는 한국의 AI 교육 정책과 대학의 대응 현황을 다루고 있습니다.</div>\n<div style=\"border-top:1px solid #e2e8f0; padding-top:32px; margin-top:48px;\">\n<p style=\"font-weight:700; margin:0 0 20px 0;\">📚 참고자료</p>\n<ol style=\"margin:0; padding-left:20px; line-height:2;\">\n<li>기사 원본 출처</li>\n<li>관련 정책 자료</li>\n<li>통계 및 현황 자료</li>\n</ol>\n</div>\n<p style=\"margin:48px 0 0; padding-top:20px; border-top:1px solid #f1f5f9; font-size:13px; color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "custom_excerpt": "초급·중급·고급 단계, AI심화·산업·실전 등 세분화된 과정으로 미래 인재 양성",
+    "references": [
+      {
+        "title": "더에이아이 - AGI 연구 관련 보도",
+        "url": "https://www.newstheai.com/",
+        "credibility": "높음"
+      },
+      {
+        "title": "대학 AI 연구센터 자료",
+        "url": "https://www.moe.go.kr/",
+        "credibility": "매우높음"
+      },
+      {
+        "title": "과학기술정보통신부 AI 정책",
+        "url": "https://www.msit.go.kr/",
+        "credibility": "매우높음"
+      }
+    ],
+    "word_count": 1766,
+    "feature_image": "https://images.unsplash.com/photo-1516321318423-f06eed504b7c?w=680&h=400&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1516321318423-f06eed504b7c?w=1200&h=630&fit=crop"
+  },
+  "fact_check": {
+    "score": 28,
+    "verdict": "FAIL",
+    "issues": [
+      "h2 섹션 3개 미만",
+      "본문 길이 1600자 미만"
+    ],
+    "verified_claims": [
+      "대학에서 AGI(일반인공지능) 연구와 단계별 AI 교육과정 운영 확대",
+      "2026년부터 본격 추진",
+      "초급·중급·고급 단계별 교육과정, AI심화·AI산업·AI실전 등 마이크로디그리 운영"
+    ],
+    "structure_score": 60,
+    "fact_score": 40,
+    "readability_score": 100,
+    "completeness_score": 80,
+    "validated_at": "2026-03-11T10:04:31.506Z"
+  }
+}

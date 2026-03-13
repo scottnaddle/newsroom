@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "TSMC Revenue Jumps 30% as Global AI Chip Demand Surges",
+    "url": "https://meyka.com/blog/tsmc-revenue-jumps-30-as-global-ai-chip-demand-surges-2603/",
+    "source_name": "Meyka",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "TSMC's revenue surged 30% driven by strong global demand for advanced AI chips. Companies are building faster data centers and more advanced processors, with artificial intelligence pushing the entire semiconductor industry forward.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-11T17:04:00Z"
+  },
+  "digest": {
+    "headline": "TSMC 수익 30% 급증, AI 칩 수요 폭발적 증가",
+    "lead": "TSMC(대만반도체제조)의 1~2월 수익이 전년 동기 대비 30% 증가했다. 생성형 AI와 데이터센터 확대로 인한 고급 칩 수요 폭증이 주요 원인이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">TSMC(대만반도체제조)의 1~2월 수익이 전년 동기 대비 30% 증가했다. 생성형 AI와 데이터센터 확대로 인한 고급 칩 수요 폭증이 주요 원인이다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">전 세계 기업들이 생성형 AI 인프라 구축에 집중하면서 AI용 반도체 수요가 급증하고 있다. NVIDIA, AMD, 애플 등 주요 칩 설계사들은 5나노, 3나노 공정 칩을 TSMC에서 위탁 제조하고 있으며, AI 서버용 GPU와 가속기 주문이 폭증했다. TSMC는 세계 최대 반도체 위탁 제조업체로서 글로벌 AI 칩 공급량의 대부분을 담당하고 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">TSMC의 호실적은 전 세계적 AI 기술 확산의 신호탄이다. 클라우드 기업부터 자동차, 스마트폰까지 모든 영역에서 AI 기반 제품 수요가 증가하고 있으며, 이는 향후 수년간 지속할 것으로 예상된다. 다만 지정학적 긴장, 높은 생산 비용, 경쟁 심화 등 장애 요인도 존재한다. 업계 분석가들은 TSMC의 기술 우위와 제조 역량을 고려하면 장기적 성장이 가능할 것으로 보고 있다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 칩 수요 증가와 반도체 공급 확대는 에듀테크 스타트업의 AI 도입 장벽을 낮춘다. TSMC의 생산 능력 확대로 칩 가격 안정화가 예상되면, 소규모 에듀테크 기업도 AI 인프라에 접근하기 용이해질 것이다. 동시에 AI 기반 교육 솔루션의 성능 향상이 가속화되어, 개인화 학습, 자동 채점, 학생 분석 등 교실 혁신 기술의 상용화 속도가 빨라질 전망이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://meyka.com/blog/tsmc-revenue-jumps-30-as-global-ai-chip-demand-surges-2603/\" style=\"color:#FF6B35;text-decoration:none;\">Meyka</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "semiconductor"
+    ],
+    "meta_title": "TSMC 수익 30% 급증, AI 칩 수요 폭발",
+    "meta_description": "TSMC의 1~2월 수익이 전년 동기 대비 30% 증가했다. 생성형 AI와 데이터센터 확대로 인한 고급 칩 수요 증가가 주요 원인이다.",
+    "word_count": 487
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T17:04:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T08:45:30Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-11T10:37:02.268Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b145ce5d8fee0001508a0b",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b145ce5d8fee0001508a0b",
+    "public_url": "https://ubion.ghost.io/tsmc-suig-30-geubjeung-ai-cib-suyo-pogbaljeog-jeungga/",
+    "status": "published",
+    "published_at": "2026-03-11T10:37:02.000Z"
+  }
+}

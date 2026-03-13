@@ -7,7 +7,7 @@ const https = require('https');
 const crypto = require('crypto');
 
 const GHOST_CONFIG = {
-  host: 'insight.ubion.global',
+  host: 'ubion.ghost.io',
   key: '69a41252e9865e00011c166a:e74e50ce3e6c097ad370d5370633ccbc2a3e3c0627d7ce1fc12a81b4e6b01625',
   version: 'v5.0'
 };

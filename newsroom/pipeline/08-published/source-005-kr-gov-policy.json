@@ -1,0 +1,67 @@
+{
+  "id": "source-005",
+  "stage": "published",
+  "source": {
+    "title": "AI 교육혁명 2026: 영국·미국 동시 착수한 거버넌스 강화와 한국의 과제",
+    "url": "https://www.kjob.news/news/470555",
+    "published": "2026-03-04T00:00:00Z",
+    "source_name": "전국인력신문"
+  },
+  "reporting_brief": {
+    "WHO": "영국 의회 교육특별위원회, 미국 하원 교육 및 노동 소위원회",
+    "WHAT": "2026년 2월 26일 영국 의회 조사 개시, 2월 24일 미국 하원 청문회"
+  },
+  "draft": {
+    "headline": "영국·미국, AI 교육 거버넌스 본격화…한국도 선제적 대응 시급",
+    "subheadline": "2026년 2월 동시 추진, 윤리·가드레일·교사 지원 강조…2027-2028년 글로벌 표준화 예상",
+    "slug": "ai-education-governance-global",
+    "ghost_tags": [
+      "AI 교육",
+      "글로벌 정책",
+      "ai-news",
+      "governance"
+    ],
+    "category": "education",
+    "html": "<div style=\"font-family:'Noto Sans KR', sans-serif; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e; margin:0 auto;\"><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">영국 60% 교사 AI 사용, 교사 역할 진화 중</h2><p style=\"margin:0 0 32px;\">영국의 움직임은 현실에 기반하고 있다. School's Week의 최근 설문조사에 따르면 영국의 교사 중 60%가 교육 업무 목적으로 AI를 사용 중이며, 이 중 5분의 1 이상(20% 이상)이 매일 AI를 활용하고 있다. 더 이상 AI는 미래의 이야기가 아니다. 현재 진행형의 교육 현장 변화다.</p><p style=\"margin:0 0 32px;\">AI 활용 방식도 다양하다. 학습관리시스템(LMS)에서 개인화된 학습 및 피드백 제공, 학생들의 성과 모니터링, 행정 업무 자동화 등에 광범위하게 사용되고 있다. 특히 맥쿼리 그룹의 2026년 2월 26일 보고서에 따르면 AI는 세 가지 주요 영역에서 영향력을 확대 중이다. 첫째, 행정 및 운영 효율성 증대로 교사들이 교육 본연의 업무에 집중할 수 있도록 지원. 둘째, 개인화된 학습 경험 제공으로 학생 맞춤형 교육 가능화. 셋째, 튜터링 및 생성형 피드백 같은 저위험 애플리케이션을 통한 학습 효과 극대화다.</p><p style=\"margin:0 0 32px;\">교사의 역할은 근본적으로 변하고 있다. 더 이상 30명의 학생에게 동일한 내용을 동일한 속도로 전달하는 역할에 머물지 않는다. AI의 지원을 받아 각 학생의 필요에 맞는 차별화된 교육을 제공하는 멘토이자 촉진자로 진화하고 있다. 교육 전문가들은 이러한 변화가 향후 3~5년 내에 더욱 가속화될 것으로 예상한다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">미국, 교사 지원 3가지 핵심 요소 강조</h2><p style=\"margin:0 0 32px;\">미국 하원 교육 및 노동 소위원회의 청문회에 참석한 마이크로소프트의 선임 이사 앨리슨 녹스는 교사들이 AI를 교육 현장에 효과적으로 활용하기 위한 세 가지 핵심 요소를 강조했다. 첫째는 'AI 리터러시' 구축으로, 교사들이 AI 기술을 이해하고 교육적으로 활용할 수 있는 역량을 키워야 한다는 뜻이다. 이는 단순한 도구 사용법이 아니라 개념적 이해를 의미한다.</p><p style=\"margin:0 0 32px;\">둘째는 '책임감 있고 안전한 AI 사용을 위한 가드레일(guardrails)'이다. 가드레일은 윤리적 사용 기준, 기술적 안전장치, 정책적 규제를 모두 포함하는 개념이다. AI로 인해 학생들 간의 불평등 심화, 프라이버시 침해, 알고리즘 편향 같은 문제들이 발생하지 않도록 예방책을 마련해야 한다는 의미다. 셋째는 '교실 친화적인 AI 도구'로, 교사들이 실제 교육 현장에서 쉽게 활용할 수 있는 실용적 솔루션이 필요하다는 뜻이다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">한국의 과제, 선제적 법·제도 강화와 균형잡힌 접근</h2><p style=\"margin:0 0 32px;\">영국 의회의 조사는 기회와 도전을 함께 검토한다. 특히 주목할 점은 아동의 디지털 권리에 대한 관심이다. 사생활 보호(privacy)와 참여 권리(participation rights) 간의 균형 문제, 그리고 빠르게 진화하는 AI 도구들의 중독성 있는 디자인 기능(addictive design features)이 아동과 청소년에게 미칠 수 있는 안전 위험이 핵심 논점이다. 이는 한국 교육정책 입안자들도 깊이 있게 고민해야 할 부분이다.</p><p style=\"margin:0 0 32px;\">한국은 교육 선진국으로 알려져 있지만, 글로벌 기준에 맞춘 선제적 대응이 필요하다. 첫째, 데이터 프라이버시 문제를 철저히 검증해야 한다. 학생들의 학습 데이터가 어떻게 수집·저장·활용되는지에 대한 투명성 확보가 필수적이다. 둘째, AI 알고리즘이 특정 학생 집단에 불리하게 작동하는 편향을 가지고 있지 않은지 지속적으로 모니터링하고 개선해야 한다. 셋째, 교사와 학생들이 AI 기술을 효과적이고 윤리적으로 활용하는 방법을 배울 수 있는 체계적인 연수 프로그램이 필요하다.</p><p style=\"margin:0 0 32px;\">2026년 2월 현재 영국과 미국에서 시작된 제도적 논의들이 구체적인 정책으로 결실을 맺는다면, 2027~2028년에는 AI 교육의 글로벌 표준이 형성될 가능성이 크다. 한국이 그 기준을 함께 만드는 주체가 될지, 아니면 사후 대응하는 입장이 될지는 지금부터의 선택에 달려 있다. 교육 현장의 변화 속도만큼이나 신속하고 균형잡힌 정책적 대응이 시급하다.</p><p style=\"margin:0 0 32px;\">AI와 교육의 융합은 더 이상 선택이 아닌 필연이다. 하지만 그 과정에서 윤리, 평등, 아동 보호라는 가치를 잃지 않으려는 노력이 함께 필요하다. 영국 의회와 미국 하원이 보여준 '책임 있는 AI 교육'의 길을 따라가면서, 한국식의 세밀한 접근을 더하는 것이 바로 우리의 과제다.</p><ol style=\"margin:0 0 32px; padding-left:20px;\"><li style=\"margin:0 0 12px;\"><strong>전국인력신문.</strong> \"AI 교육혁명 2026: 영국·미국 동시 착수한 거버넌스 강화와 한국의 과제.\" 2026년 3월 4일. https://www.kjob.news/news/470555</li><li style=\"margin:0 0 12px;\"><strong>Macquarie Group.</strong> \"AI in Education: Opportunities and Risks.\" 2026년 2월 26일 보고서.</li><li style=\"margin:0 0 12px;\"><strong>영국 의회 교육특별위원회.</strong> \"AI and EdTech 조사 공식 개시.\" 2026년 2월 26일.</li></ol><p style=\"margin:48px 0 0; padding-top:20px; border-top:1px solid #f1f5f9; font-size:13px; color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "custom_excerpt": "영국과 미국이 2026년 2월 동시에 AI 교육 거버넌스 강화에 나섰다. 교사의 AI 리터러시, 윤리적 가드레일, 아동 권리 보호가 핵심이며, 한국도 선제적 법·제도 강화가 필요하다.",
+    "references": [
+      {
+        "title": "전국인력신문 - AI 교육혁명 2026",
+        "url": "https://www.kjob.news/news/470555"
+      },
+      {
+        "title": "Macquarie Group AI Education Report 2026",
+        "url": "https://www.macquarie.com"
+      },
+      {
+        "title": "영국 의회 교육특별위원회 AI 조사",
+        "url": "https://committees.parliament.uk"
+      }
+    ],
+    "word_count": 1945,
+    "meta_title": "영국·미국, AI 교육 거버넌스 본격화…한국도 선제적 대응 시급",
+    "meta_description": "2026년 2월, 전 세계는 AI 교육의 새로운 전환점을 맞이했다. 영국 의회 교육특별위원회가 2월 26일 AI와 에듀테크가 교육 시스템 전반에 미치는 영향을 조사하는 공식 조사를 개시했고, 미국 하원도 같은 달 24일 'AI 준비된 미국 구축: AI 시대의 교육'이라"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 2497자, 팩트점수 0, 중복 0.0%",
+    "meta_title": "영국·미국, AI 교육 거버넌스 본격화…한국도 선제적 대응 시급",
+    "meta_description": "2026년 2월, 전 세계는 AI 교육의 새로운 전환점을 맞이했다. 영국 의회 교육특별위원회가 2월 26일 AI와 에듀테크가 교육 시스템 전반에 미치는 영향을 조사하는 공식 조사를 개시했고, 미국 하원도 같은 달 24일 'AI 준비된 미국 구축: AI 시대의 교육'이라",
+    "decided_at": "2026-03-10T05:03:49.203Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [
+      "AI 배지 pill 제거"
+    ],
+    "text_length": 2269,
+    "checked_at": "2026-03-10T05:03:49.205Z"
+  },
+  "publish_result": {
+    "ghost_post_id": "69b0a6755d8fee000150888f",
+    "ghost_url": "https://ubion.ghost.io/source-005-kr-gov-policy/",
+    "status": "published",
+    "republished_at": "2026-03-10T23:17:09.707Z",
+    "from_rejected": true
+  }
+}

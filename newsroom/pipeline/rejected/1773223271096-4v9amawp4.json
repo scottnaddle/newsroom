@@ -1,0 +1,60 @@
+{
+  "id": "1773223271096-4v9amawp4",
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.kjob.news/news/470783",
+    "title": "AI 통합 교육, 한국의 미래를 위한 커리큘럼 혁신",
+    "query": "인공지능 대학 교육과정",
+    "discovered_at": "2026-03-11T10:01:11.096Z"
+  },
+  "reporting_brief": {
+    "headline": "AI 통합 교육의 글로벌 현황과 한국의 과제: 커리큘럼 혁신"
+  },
+  "draft": {
+    "headline": "AI 교육의 글로벌 경쟁, 한국은 준비됐나",
+    "word_count": 2104
+  },
+  "fact_check": {
+    "score": 87,
+    "verdict": "FLAG ⚠️",
+    "issues": [
+      "UAE의 'AI 필수 커리큘럼' 정책 - 추가 검증 권장 (특정 시점 정확화)",
+      "방글라데시 AI 교육 연구 - 원문에서 '연구'라고만 표현, 구체적 출처 명시 권장",
+      "한국의 인프라 부족 현황 - 통계 자료 추가 제시 권장"
+    ],
+    "verified_claims": [
+      "UAE 유치원부터 12학년 AI 교육 필수 커리큘럼 - 일반적으로 알려진 사실",
+      "방글라데시 AI 도구 통합으로 자기 주도적 학습 강화 - 원문에서 언급",
+      "인지적 하역(cognitive offloading) 개념 - 교육학 용어로 검증됨",
+      "메타인지적 나태함 개념 - 학습 심리학 용어로 검증됨",
+      "인간-AI 상보성 (Human-AI Complementarity) - 최근 교육 담론에서 검증됨",
+      "생성형 AI(GenAI) 교육 영향 - 검증됨",
+      "경기도 피지컬 AI 비전 - 검증됨"
+    ],
+    "validation_method": "web_search 일반 개념 검증 + 경기도 정책 검증",
+    "structure_check": {
+      "lead_box": true,
+      "h2_sections": 5,
+      "references": true,
+      "ai_footer": true,
+      "passed": true
+    },
+    "content_check": {
+      "word_count_1600plus": true,
+      "min_sources_3": true,
+      "tone_consistency": true,
+      "readability": true,
+      "passed": true
+    },
+    "recommendations": [
+      "UAE 정책 도입 시점 명시 (년도 추가)",
+      "방글라데시 연구 출처 논문명 추가 검토",
+      "한국의 교사 역량 강화 통계 추가 시 더욱 설득력 향상"
+    ],
+    "validated_at": "2026-03-11T10:30:53Z"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

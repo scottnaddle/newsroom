@@ -1,0 +1,53 @@
+{
+  "id": "1773223271096-7wnnhcesq",
+  "stage": "rejected",
+  "source": {
+    "url": "https://biz.heraldcorp.com/article/10687893",
+    "title": "교실 속 AI 수업 발굴…비상교육 '에듀테크 수업 공모전' 시상",
+    "query": "에듀테크 AI 학교",
+    "discovered_at": "2026-03-11T10:01:11.096Z"
+  },
+  "reporting_brief": {
+    "headline": "비상교육 에듀테크 수업 공모전, AI·메타버스 활용 수업 사례 '대거 등장'"
+  },
+  "draft": {
+    "headline": "240개 교사팀이 만든 AI 수업—현장에서 시작되는 교실 혁신",
+    "word_count": 1802
+  },
+  "fact_check": {
+    "score": 93,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "비상교육 '제10회 비상교육 창의융합&에듀테크 수업 자료 공모전' 개최 - 검증됨",
+      "240여 개 교사팀 참여 - 검증됨",
+      "2025년 12월~2026년 1월 공모, 2월 25일 시상식 - 검증됨",
+      "에듀테크 부문 신설 - 검증됨",
+      "대상: 'AI 챗봇 활용 낙하산 프로젝트' - 검증됨",
+      "평가 기준: 학생 중심 활동, 창의융합, AI 활용 역량, 비바샘 활용도 - 검증됨",
+      "대상 1팀, 최우수상 6팀, 우수상 9팀, 장려상 15팀 - 검증됨",
+      "허보욱 비상교육 콘텐츠 컴퍼니 대표 인용문 - 검증됨",
+      "비바샘(Biba Sam) 플랫폼 - 검증됨"
+    ],
+    "validation_method": "web_search + 원본 기사 상세 교차 검증",
+    "structure_check": {
+      "lead_box": true,
+      "h2_sections": 4,
+      "references": true,
+      "ai_footer": true,
+      "passed": true
+    },
+    "content_check": {
+      "word_count_1600plus": true,
+      "min_sources_2": true,
+      "tone_consistency": true,
+      "readability": true,
+      "passed": true
+    },
+    "validated_at": "2026-03-11T10:30:55Z"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

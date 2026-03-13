@@ -158,7 +158,7 @@ async function main() {
   console.log(`⚠️  실패: ${failed}개`);
   console.log(`⏭️  스킵: ${skipped}개`);
   console.log(`\n📝 모든 기사가 Ghost에서 draft 상태로 변경되었습니다.`);
-  console.log(`🔍 확인: https://insight.ubion.global/ghost/#/editor/post/`);
+  console.log(`🔍 확인: https://ubion.ghost.io/ghost/#/editor/post/`);
 }
 
 main().catch(err => {

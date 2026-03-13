@@ -50,7 +50,11 @@
     "word_count": 890,
     "category": "industry",
     "meta_title": "AI가 교사의 시간을 되찾다, 70% 업무 감소 성과",
-    "meta_description": "미국 스탠퍼드 대학교가 AI 기반 맞춤형 프로젝트 평가 시스템을 도입한 결과 교사의 행정 업무가 70% 이상 감소하고 학생 참여도는 40%나 증가했습니다. 이처럼 AI가 교육 현장에 가져온 변화는 단순한 효율성 향상을 넘어 교사가 교육의 본질에 집중할 수 있는 환경을 "
+    "meta_description": "미국 스탠퍼드 대학교가 AI 기반 맞춤형 프로젝트 평가 시스템을 도입한 결과 교사의 행정 업무가 70% 이상 감소하고 학생 참여도는 40%나 증가했습니다. 이처럼 AI가 교육 현장에 가져온 변화는 단순한 효율성 향상을 넘어 교사가 교육의 본질에 집중할 수 있는 환경을 ",
+    "feature_image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.845Z",
+    "image_verified": false
   },
   "quality_report": {
     "structure_score": 100,
@@ -243,7 +247,5 @@
     "text_length": 1824,
     "checked_at": "2026-03-09T13:34:09.962Z"
   },
-  "ghost_id": "69aecc52ff4fbf0001ab7cb2",
-  "ghost_url": "https://insight.ubion.global/copy-edited/",
   "published_at": "2026-03-09T13:34:10.362Z"
 }

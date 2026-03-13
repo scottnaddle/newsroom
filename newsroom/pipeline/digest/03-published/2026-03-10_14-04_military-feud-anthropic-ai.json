@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "What does the US military's feud with Anthropic mean for AI used in war?",
+    "url": "https://www.theguardian.com/technology/2026/mar/07/anthropic-claude-ai-pentagon-us-military",
+    "source_name": "The Guardian",
+    "language": "en",
+    "relevance_score": 86,
+    "summary": "The US military's dispute with Anthropic centers on the company's refusal to allow its Claude AI to be used for domestic mass surveillance or autonomous weapons systems. The conflict reflects broader tensions when tech companies have their products integrated into military operations.",
+    "published_date": "2026-03-07",
+    "collected_at": "2026-03-10T14:04:00Z"
+  },
+  "digest": {
+    "headline": "AI 안전 제한 vs. 국방력, Pentagon과 Anthropic의 구조적 충돌",
+    "lead": "Pentagon과 Anthropic의 갈등은 단순한 계약 분쟁이 아닌 '기업의 안전 가치관'과 '국방 우선주의' 사이의 근본적 대립이다. Anthropic은 자율 무기와 국내 감시에 대한 제약을 유지하고 싶지만, 국방부는 국가 안보 문제에서 민간 기업의 제약을 받을 수 없다고 주장한다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">Pentagon과 Anthropic의 갈등은 단순한 계약 분쟁이 아닌 '기업의 안전 가치관'과 '국방 우선주의' 사이의 근본적 대립이다. Anthropic은 자율 무기와 국내 감시에 대한 제약을 유지하고 싶지만, 국방부는 국가 안보 문제에서 민간 기업의 제약을 받을 수 없다고 주장한다.</p>\n  </div>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Anthropic은 '안전한 AI' 기업 이미지로 엔터프라이즈 시장을 노리며 Pentagon과 Palantir 계약을 추진했다. 하지만 Pentagon은 군사용 AI가 소비자용과 근본적으로 달라야 한다고 본다. 군사 기술은 신속함이 생명이지만, Anthropic의 안전 가치관은 의사결정을 늦춘다. 특히 자율 무기와 국내 감시에 대한 Anthropic의 거부는 Pentagon이 받을 수 없는 조건이었다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 분쟁은 '민간 AI 기업의 국방 통제권'이라는 근본적 질문을 제기한다. Pentagon의 입장대로라면, 국가 안보 앞에 기업의 윤리 원칙이 물러선다. 하지만 Anthropic의 입장대로라면, 법 없는 국방 결정권은 독재로 이어진다. Cornell 교수 Sarah Kreps는 이를 '쌍방향 신뢰의 붕괴'라고 분석했다. 향후 정부-기업 관계의 패러다임을 결정하는 사건이 될 전망이다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">이 갈등은 교육 현장에도 중요한 함의를 준다. 교육청과 학교가 AI 도구를 도입할 때, '정부의 통제 요구'와 '에듀테크 기업의 윤리 기준' 사이에 유사한 충돌이 발생할 수 있다. 특히 학생 데이터 감시, 자동화된 성적 평가, 알고리즘 기반 진학 지도 등에서 교육청은 빠른 도입을, 기업은 안전성을 우선한다. 이 사건이 기업의 입장을 보호한다면, 교육 AI도 학생 보호를 명분으로 한 안전 제약이 가능해진다.</p>\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.theguardian.com/technology/2026/mar/07/anthropic-claude-ai-pentagon-us-military\" style=\"color:#FF6B35;text-decoration:none;\">The Guardian</a></p>\n  </div>\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "anthropic"
+    ],
+    "meta_title": "Pentagon vs Anthropic, 국방과 윤리 사이의 충돌",
+    "meta_description": "AI 기업의 안전 원칙이 국가 안보와 충돌할 때, 누가 결정권을 갖는가",
+    "word_count": 562
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T14:04:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T05:15:16Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-10T05:35:38.663Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "post_1773120938663_bs6oi9fl7",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/9emcksiqt",
+    "public_url": "https://ubion.ghost.io/ai-vs-pentagon-anthropic/",
+    "status": "published",
+    "published_at": "2026-03-10T05:35:38.663Z"
+  }
+}

@@ -70,7 +70,11 @@
     "word_count": 1030,
     "category": "policy",
     "meta_title": "한 달 새 두 번째 포럼 — 정부가 AI 교육 청사진을 서두르는 이유",
-    "meta_description": "국가교육위원회가 2월에 이어 3월에도 AI 교육 포럼을 열었다. 23개 기관이 참여한 이 포럼은 중장기 국가교육발전계획의 첫 단추다."
+    "meta_description": "국가교육위원회가 2월에 이어 3월에도 AI 교육 포럼을 열었다. 23개 기관이 참여한 이 포럼은 중장기 국가교육발전계획의 첫 단추다.",
+    "feature_image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.817Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 91,
@@ -85,7 +89,5 @@
   },
   "desk_approved_at": "2026-03-08T09:00:29.022236+09:00",
   "copy_edited_at": "2026-03-08T09:01:00+09:00",
-  "ghost_id": "69acbe3aff4fbf0001ab7468",
-  "ghost_url": "https://insight.ubion.global/p/2d81b7a4-9b5f-4411-a13c-a976b39d01c8/",
   "published_at": "2026-03-08T00:09:30.412Z"
 }

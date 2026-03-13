@@ -113,7 +113,7 @@
 
 Ghost Admin API로 즉시 **published** 발행:
 - **API 키**: `69a41252e9865e00011c166a:e74e50ce3e6c097ad370d5370633ccbc2a3e3c0627d7ce1fc12a81b4e6b01625`
-- **Ghost URL**: `https://insight.ubion.global`
+- **Ghost URL**: `https://ubion.ghost.io`
 - **JWT**: HS256, kid 포함, aud: '/admin/', 5분 만료
 
 **포스트 메타데이터**:

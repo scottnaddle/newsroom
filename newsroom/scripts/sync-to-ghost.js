@@ -22,7 +22,7 @@ function makeToken() {
 
 function ghostGet(path) {
   return new Promise(r => https.get({
-    hostname:'insight.ubion.global', 
+    hostname:'ubion.ghost.io', 
     path,
     headers:{'Authorization':'Ghost '+makeToken(),'Accept-Version':'v5.0'}
   }, res => { 
@@ -36,7 +36,7 @@ function ghostPut(postId, body) {
   return new Promise((res,rej) => {
     const data = JSON.stringify(body);
     const req = https.request({
-      hostname:'insight.ubion.global',
+      hostname:'ubion.ghost.io',
       path:`/ghost/api/admin/posts/${postId}/?source=html`,
       method:'PUT',
       headers:{

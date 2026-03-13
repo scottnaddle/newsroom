@@ -31,7 +31,7 @@ function ghostReq(method, reqPath, body) {
   return new Promise((res, rej) => {
     const data = body ? JSON.stringify(body) : null;
     const req = https.request({
-      hostname:'insight.ubion.global', path:reqPath, method,
+      hostname:'ubion.ghost.io', path:reqPath, method,
       headers:{'Authorization':'Ghost '+makeToken(),'Accept-Version':'v5.0',
         ...(data?{'Content-Type':'application/json','Content-Length':Buffer.byteLength(data)}:{})}
     }, r => { let d=''; r.on('data',c=>d+=c); r.on('end',()=>{try{res(JSON.parse(d));}catch(e){res(null);}}); });
@@ -71,7 +71,7 @@ function uploadImage(filePath, filename) {
       Buffer.from(`\r\n--${boundary}--\r\n`)
     ]);
     const req = https.request({
-      hostname:'insight.ubion.global', path:'/ghost/api/admin/images/upload/', method:'POST',
+      hostname:'ubion.ghost.io', path:'/ghost/api/admin/images/upload/', method:'POST',
       headers:{
         'Authorization':'Ghost '+makeToken(),'Accept-Version':'v5.0',
         'Content-Type':`multipart/form-data; boundary=${boundary}`,

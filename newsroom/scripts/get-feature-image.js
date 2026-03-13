@@ -149,6 +149,9 @@ function getFeatureImageUrl({ headline, tags, recentIdsFile }) {
 
   const photoId = candidates[Math.floor(Math.random() * candidates.length)];
   if (recentIdsFile) saveUsedId(recentIdsFile, photoId);
+  
+  // ✅ CRITICAL: 항상 올바른 Unsplash URL 형식 사용
+  // 형식: https://images.unsplash.com/photo-{ID}?w=1200&h=630&fit=crop&q=85&auto=format
   return `https://images.unsplash.com/photo-${photoId}?w=1200&h=630&fit=crop&q=85&auto=format`;
 }
 

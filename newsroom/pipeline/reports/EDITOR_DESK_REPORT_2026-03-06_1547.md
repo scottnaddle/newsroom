@@ -91,8 +91,8 @@ rejected/         : 24개
 ### 만평 발행 현황
 | 날짜 | 상태 | URL |
 |------|------|-----|
-| 2026-03-04 | ✅ 발행 완료 | https://insight.ubion.global/cartoon-2026-03-04/ |
-| 2026-03-05 | ✅ 발행 완료 | https://insight.ubion.global/ghost/#/editor/post/69a9ede1ff4fbf0001ab6b90 |
+| 2026-03-04 | ✅ 발행 완료 | https://ubion.ghost.io/cartoon-2026-03-04/ |
+| 2026-03-05 | ✅ 발행 완료 | https://ubion.ghost.io/ghost/#/editor/post/69a9ede1ff4fbf0001ab6b90 |
 | 2026-03-06 | ⏳ 대기 | 아직 생성되지 않음 |
 
 ### HTML 이스케이프

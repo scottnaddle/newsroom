@@ -12,7 +12,11 @@
     "headline": "금지 대신 필수 교양으로...대학가 덮친 AI, 교육·평가 판도 바꾼다",
     "subheadline": "ChatGPT 이후 대학들이 AI를 학생의 필수 역량으로 규정...191개 강좌 확대, 평가 방식 개편",
     "ghost_url": "https://ai-newsroom.example.com/university-ai-curriculum-2026",
-    "ghost_id": "draft-002-uni-ai"
+    "ghost_id": "draft-002-uni-ai",
+    "feature_image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.839Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 88,
@@ -27,6 +31,9 @@
     "word_count": 2280,
     "reading_time": 10,
     "category": "education",
-    "tags": ["AI교육", "대학정책"]
+    "tags": [
+      "AI교육",
+      "대학정책"
+    ]
   }
 }

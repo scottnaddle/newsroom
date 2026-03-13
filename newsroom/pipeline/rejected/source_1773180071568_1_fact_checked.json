@@ -1,0 +1,30 @@
+{
+  "id": "source_1773180071568_1",
+  "stage": "rejected",
+  "source": {
+    "title": "초·중등 인공지능(AI) 중점학교 운영",
+    "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148960595"
+  },
+  "draft": {
+    "headline": "전국 1141개 초·중등학교, AI 중점 교육 시대 본격화",
+    "subheadline": "교육부 'AI 선도학교' 프로젝트로 미래 교육 인프라 대대적 확충",
+    "slug": "ai-elementary-middle-school-2026",
+    "word_count": 1742
+  },
+  "fact_check": {
+    "score": 85,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "초중등학교 AI 중점학교 정책 운영 중",
+      "정부 교육 정책 차원의 일관된 추진 확인",
+      "AI 교육 확대 추세 검증됨"
+    ],
+    "validated_at": "2026-03-11T08:36:00Z",
+    "methodology": "정부 공식 발표 및 교육 정책 문헌 검증"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

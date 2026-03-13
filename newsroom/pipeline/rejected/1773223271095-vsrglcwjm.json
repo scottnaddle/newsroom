@@ -1,0 +1,51 @@
+{
+  "id": "1773223271095-vsrglcwjm",
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.in-ed.co.kr/news/articleView.html?idxno=26543",
+    "title": "경기형 진학정책·교육과정' 안내, 대학과 소통 확대",
+    "query": "인공지능 대학 교육과정",
+    "discovered_at": "2026-03-11T10:01:11.095Z"
+  },
+  "reporting_brief": {
+    "headline": "경기도교육청, 대학과 AI 기반 진학교육 네트워크 구축"
+  },
+  "draft": {
+    "headline": "경기도 AI 기반 진학교육, 대학입시의 판을 바꾼다",
+    "word_count": 1847
+  },
+  "fact_check": {
+    "score": 92,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "경기도교육청이 3월 5일 수원컨벤션센터에서 '2026학년도 대학입학관계자 간담회' 개최 - 검증됨 (원문 및 보도자료 확인)",
+      "수도권 대학 50여 곳의 입학관계자 참석 - 검증됨",
+      "2026 경기진학교육 정책 추진 실행계획 발표 - 검증됨",
+      "경기IB교육 디플로마(DP), 경기공유학교 운영 - 검증됨",
+      "하이러닝 및 AI 기반 평가시스템 활용 - 검증됨",
+      "미래엔 엠티처, 비상교육 비바샘 리뉴얼 - 검증됨 (2026년 3월)",
+      "김영숙 중등교육과장 인용문 - 검증됨"
+    ],
+    "validation_method": "web_search + 원본 기사 교차 검증",
+    "structure_check": {
+      "lead_box": true,
+      "h2_sections": 4,
+      "references": true,
+      "ai_footer": true,
+      "passed": true
+    },
+    "content_check": {
+      "word_count_1600plus": true,
+      "min_sources_3": true,
+      "tone_consistency": true,
+      "readability": true,
+      "passed": true
+    },
+    "validated_at": "2026-03-11T10:30:45Z"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

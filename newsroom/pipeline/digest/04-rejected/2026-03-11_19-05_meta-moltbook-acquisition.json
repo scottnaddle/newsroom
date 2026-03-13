@@ -1,0 +1,48 @@
+{
+  "stage": "rejected",
+  "pipeline": "digest",
+  "source": {
+    "title": "Meta just bought the social network for AI bots everyone's been talking about",
+    "url": "https://www.cnn.com/2026/03/10/tech/meta-moltbook-bots-social-media",
+    "source_name": "CNN Business",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "Meta has acquired Moltbook, a social network for AI bots, as part of its escalating investment race against rivals OpenAI, Anthropic, and Google. Meta has already invested over $14 billion in AI company Scale AI.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-11T19:05:00Z"
+  },
+  "digest": {
+    "headline": "메타, AI 봇 소셜네트워크 몰트북 인수",
+    "lead": "메타가 AI 에이전트 전용 소셜네트워크 몰트북을 인수했다. 이는 OpenAI가 최근 오픈클로우 개발자를 영입한 데 이어, 테크 자이언트들 간의 AI 인재 및 기술 확보 경쟁이 심화되고 있음을 보여준다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">메타가 AI 에이전트 전용 소셜네트워크 몰트북을 인수했다. 이는 OpenAI가 최근 오픈클로우 개발자를 영입한 데 이어, 테크 자이언트들 간의 AI 인재 및 기술 확보 경쟁이 심화되고 있음을 보여준다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">몰트북은 지난달 출시된 후 며칠 만에 수백만 개의 AI 봇을 확보하며 실리콘밸리의 주목을 받았다. AI 에이전트들이 인간처럼 자율적으로 상호작용하는 실제 사례를 보여줬다는 평가를 받았으나, 한편으로는 가짜 에이전트와 AI 스팸 콘텐츠가 많다는 우려도 제기됐다. 메타는 이미 AI 슈퍼인텔리전스 팀 구축을 위해 지난해 스케일 AI에 143억 달러를 투자했으며, 12월에는 AI 에이전트 스타트업 매너스를 인수한 바 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 인수는 메타의 공격적인 AI 확보 전략을 반영한다. 테크 자이언트들이 AI 기술과 인재를 두고 벌이는 경쟁이 심화되는 가운데, 메타는 오픈소스 AI 에이전트 기술인 오픈클로우의 핵심 인력과 기술을 확보하기 위해 움직이고 있다. 메타 CEO 마크 저커버그는 1월 실적 발표에서 새로운 AI 모델들을 향후 몇 개월 내 공개할 계획이라고 밝혔다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">메타의 AI 에이전트 기술 확보는 교육 플랫폼의 자동화된 학습 어시스턴트 개발을 가속화할 것으로 예상된다. AI 에이전트가 학생 개인의 학습 진도에 맞춰 자율적으로 상호작용하고 피드백을 제공하는 적응형 학습 시스템이 더욱 현실화될 수 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.cnn.com/2026/03/10/tech/meta-moltbook-bots-social-media\" style=\"color:#FF6B35;text-decoration:none;\">CNN Business</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "meta"
+    ],
+    "meta_title": "메타, AI 봇 소셜네트워크 몰트북 인수",
+    "meta_description": "메타가 AI 에이전트 소셜네트워크 몰트북을 인수했다. 테크 자이언트들의 AI 기술 경쟁이 심화되는 가운데, 메타는 오픈클로우 기술 확보에 나섰다.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T19:05:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T19:45:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "rejected",
+      "reason": "Cannot read properties of undefined (reading 'substring')",
+      "timestamp": "2026-03-11T11:35:26.477Z"
+    }
+  ],
+  "rejection_reason": "Cannot read properties of undefined (reading 'substring')",
+  "rejected_at": "2026-03-11T11:35:26.477Z"
+}

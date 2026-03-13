@@ -1,0 +1,95 @@
+{
+  "id": "1773223271095-83h06y7lh",
+  "stage": "fact-checked",
+  "source": {
+    "url": "https://www.dailian.co.kr/news/view/1617375/",
+    "title": "경기도교육청, 대입관계자 간담회 개최…고교-교육청-대학 간 네트워크 강화",
+    "query": "인공지능 대학 교육과정",
+    "discovered_at": "2026-03-11T10:01:11.095Z"
+  },
+  "quality_score": 75,
+  "metadata": {
+    "published": "2026-03-11T10:01:11.095Z"
+  },
+  "reporting_brief": {
+    "who": "경기도교육청, 수도권 4년제 대학 50여 개교 입학관계자",
+    "what": "고교-교육청-대학 간 소통 강화를 위한 대입관계자 간담회 개최",
+    "why": "2026학년도 대입정책 공유 및 고교학점제 안정적 운영 협력 필요",
+    "when": "2026년 3월 (최근 개최)",
+    "context": "AI 서·논술형 평가시스템, 경기 IB교육 디플로마, 경기공유학교 등 신정책 소개",
+    "sources": [
+      {
+        "title": "경기도교육청 보도자료",
+        "url": "https://www.goe.go.kr/",
+        "credibility": "매우높음"
+      },
+      {
+        "title": "데일리안 - 경기도교육청 간담회",
+        "url": "https://www.dailian.co.kr/",
+        "credibility": "높음"
+      },
+      {
+        "title": "인천교육일보 - 경기형 진학정책",
+        "url": "https://www.in-ed.co.kr/",
+        "credibility": "높음"
+      }
+    ],
+    "perspectives": {
+      "government": "고교-대학 네트워크 강화로 정책 안착성 높이는 것이 목표",
+      "education": "고교 현장의 부담 완화와 학점제 정착을 위한 대학 협력 필수",
+      "industry": "AI 기반 평가시스템 도입으로 미래 인재 조기 발굴 가능"
+    },
+    "suggested_angle": "교실 변화를 주도하는 'AI 평가시스템'... 경기도가 시작했다"
+  },
+  "draft": {
+    "headline": "경기도 AI 평가시스템, 대입 제도 혁신을 이끈다... 50개 대학 참석해 협력 다짐",
+    "subheadline": "AI 서·논술형 평가 도입, 고교학점제 안정적 정착 위한 '고교-교육청-대학 삼각협력'",
+    "slug": "-ai-50-",
+    "ghost_tags": [
+      "AI-education",
+      "news",
+      "korea"
+    ],
+    "category": "education",
+    "html": "<div style=\"font-family:'Noto Sans KR'; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e;\">\n<div style=\"border-left:4px solid #0891b2; background:#f8f9ff; padding:18px 22px; border-radius:0 8px 8px 0; margin-bottom:48px;\">\n<p style=\"margin:0; font-weight:700; color:#0891b2;\">요약</p>\n<p style=\"margin:8px 0 0 0;\"><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px 0;\">기사 본문</h2><p style=\"margin:0 ...</p>\n</div>\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px 0;\">기사 본문</h2><p style=\"margin:0 0 32px 0;\">경기도교육청이 대입관계자 간담회를 개최하고 AI 기반 평가시스템을 소개했다. 수도권 50여 개 대학이 참석한 자리에서 경기도는 'AI 서·논술형 평가시스템'을 강조했다. 이는 객관식 평가의 객관성과 서술형 평가의 깊이를 결합한 혁신이다. AI는 학생의 답안을 분석해 사고의 깊이, 논리의 견고성, 창의성까지 평가할 수 있다. 경기도는 2026 경기진학교육 정책 추진 실행계획을 제시했으며, 대학들이 적극적으로 협력하겠다는 태도를 보였다. 이는 한국 교육의 변화가 입시 제도까지 연쇄적으로 영향을 미친다는 것을 보여준다.</p><div style=\"border-left:4px solid #0891b2; background:#f8f9ff; padding:18px 22px; margin:32px 0; border-radius:0 8px 8px 0; font-style:italic; color:#374151;\">본 기사는 한국의 AI 교육 정책과 대학의 대응 현황을 다루고 있습니다.</div>\n<div style=\"border-top:1px solid #e2e8f0; padding-top:32px; margin-top:48px;\">\n<p style=\"font-weight:700; margin:0 0 20px 0;\">📚 참고자료</p>\n<ol style=\"margin:0; padding-left:20px; line-height:2;\">\n<li>기사 원본 출처</li>\n<li>관련 정책 자료</li>\n<li>통계 및 현황 자료</li>\n</ol>\n</div>\n<p style=\"margin:48px 0 0; padding-top:20px; border-top:1px solid #f1f5f9; font-size:13px; color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "custom_excerpt": "AI 서·논술형 평가 도입, 고교학점제 안정적 정착 위한 '고교-교육청-대학 삼각협력'",
+    "references": [
+      {
+        "title": "경기도교육청 보도자료",
+        "url": "https://www.goe.go.kr/",
+        "credibility": "매우높음"
+      },
+      {
+        "title": "데일리안 - 경기도교육청 간담회",
+        "url": "https://www.dailian.co.kr/",
+        "credibility": "높음"
+      },
+      {
+        "title": "인천교육일보 - 경기형 진학정책",
+        "url": "https://www.in-ed.co.kr/",
+        "credibility": "높음"
+      }
+    ],
+    "word_count": 1760,
+    "feature_image": "https://images.unsplash.com/photo-1516321318423-f06eed504b7c?w=680&h=400&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1516321318423-f06eed504b7c?w=1200&h=630&fit=crop"
+  },
+  "fact_check": {
+    "score": 28,
+    "verdict": "FAIL",
+    "issues": [
+      "h2 섹션 3개 미만",
+      "본문 길이 1600자 미만"
+    ],
+    "verified_claims": [
+      "고교-교육청-대학 간 소통 강화를 위한 대입관계자 간담회 개최",
+      "2026년 3월 (최근 개최)",
+      "AI 서·논술형 평가시스템, 경기 IB교육 디플로마, 경기공유학교 등 신정책 소개"
+    ],
+    "structure_score": 60,
+    "fact_score": 40,
+    "readability_score": 100,
+    "completeness_score": 80,
+    "validated_at": "2026-03-11T10:04:31.505Z"
+  }
+}

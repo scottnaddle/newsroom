@@ -44,7 +44,11 @@
     ],
     "word_count": 1921,
     "meta_title": "대학이 갈팡질팡한다 — ChatGPT 3년 후, AI 학습 규칙은 여전히 혼란 속",
-    "meta_description": "⚖️ AI 시대 대학의 딜레마 기술은 빠르게 변했지만, 교육 제도는 따라가지 못했습니다. 결국 교수와 학생들이 각자의 규칙을 만들고 있습니다. 그 과정에서 누군가는 우려하고, 누군가는 혼란스러워합니다. 교수 vs 학생, 엇갈린 AI 윤리 캔자스 시티의 Johnson C"
+    "meta_description": "⚖️ AI 시대 대학의 딜레마 기술은 빠르게 변했지만, 교육 제도는 따라가지 못했습니다. 결국 교수와 학생들이 각자의 규칙을 만들고 있습니다. 그 과정에서 누군가는 우려하고, 누군가는 혼란스러워합니다. 교수 vs 학생, 엇갈린 AI 윤리 캔자스 시티의 Johnson C",
+    "feature_image": "https://images.unsplash.com/photo-1543286386-713bdd548da4?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1543286386-713bdd548da4?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.850Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 89,
@@ -73,7 +77,5 @@
     "text_length": 2029,
     "checked_at": "2026-03-09T22:35:07.714Z"
   },
-  "ghost_id": "69af4b1cff4fbf0001ab7cf5",
-  "ghost_url": "https://insight.ubion.global/college-ai-integrity-2026/",
   "published_at": "2026-03-09T22:35:08.591Z"
 }

@@ -1,0 +1,47 @@
+{
+  "stage": "rejected",
+  "pipeline": "digest",
+  "source": {
+    "title": "How the Iran war and rising energy prices are threatening semiconductor demand",
+    "url": "https://www.cnbc.com/2026/03/10/iran-war-semiconductor-memory-chip-impact.html",
+    "source_name": "CNBC",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "Higher energy costs from the Iran-US conflict could dampen demand for AI data center buildouts, potentially hurting memory chipmakers like Samsung and SK Hynix. Analysts note current impact from the conflict remains limited but geopolitical tensions are influencing semiconductor markets.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-11T17:04:00Z"
+  },
+  "digest": {
+    "headline": "이란 전쟁과 에너지 가격 상승, AI 메모리칩 수요 위협",
+    "lead": "중동 지정학적 긴장이 반도체 공급망에 직접 영향을 미치고 있다. 카타르의 헬륨 생산 중단 가능성과 에너지 가격 상승이 AI 데이터센터 건설 수요를 둔화시킬 수 있으며, Samsung과 SK Hynix 같은 메모리칩 제조사들이 특히 타격을 받을 것으로 예상된다. 현재로선 영향이 제한적이지만 장기화할 경우 공급망 혼란이 심각할 수 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">⚡ AI Digest</span>\n  </div>\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">중동 지정학적 긴장이 반도체 공급망에 직접 영향을 미치고 있다. 카타르의 헬륨 생산 중단 가능성과 에너지 가격 상승이 AI 데이터센터 건설 수요를 둔화시킬 수 있으며, Samsung과 SK Hynix 같은 메모리칩 제조사들이 특히 타격을 받을 것으로 예상된다. 현재로선 영향이 제한적이지만 장기화할 경우 공급망 혼란이 심각할 수 있다.</p>\n  </div>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">중동 지정학적 위험이 반도체 산업 공급망에 직결된 이유는 카타르의 전략적 중요성 때문이다. 카타르는 전 세계 헬륨 생산량의 3분의 1 이상을 공급하고 있는데, 헬륨은 반도체 제조 과정에서 열 제거와 리소그래피에 필수 불가결한 물질이며 현재 대체 물질이 없다. 이란과의 분쟁으로 호르무즈 해협 봉쇄 위험이 높아지면서 헬륨 공급이 2~3개월 이상 중단될 수 있다는 우려가 제기되고 있다. 또한 가솔린 가격 상승은 에너지 집약적인 AI 데이터센터 운영 비용을 급상승시킨다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">Samsung과 SK Hynix가 지난주 2,000억 달러 이상의 시가총액 손실을 입은 것은 메모리칩 가격 하락과 장기 공급 계약이 보장하지 못한 불확실성이 반영된 것이다. 에너지 가격 상승은 AI 데이터센터의 총 소유 비용(TCO)을 3~5배 증가시켜 하이퍼스케일 기업들의 인프라 투자 의사를 약화시킬 수 있다. 분쟁 장기화 시 기존 DRAM 수요 약화와 메모리칩 가격 인하 압력이 가중될 것으로 전망된다. 다만 현재 Samsung과 SK Hynix는 HBM 공급 계약으로 내년까지 충분한 수급 안정성을 확보한 상태다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 메모리칩 가격 상승과 공급 불안정은 클라우드 기반 에듀테크 서비스 비용을 직접 증가시킨다. 특히 중소 에듀테크 스타트업이 이용하는 클라우드 API 비용이 상승할 가능성이 크며, 교육 기관의 AI 도입 의사 결정이 지연될 수 있다. 반면 자체 데이터센터 인프라를 갖춘 대형 교육 기업이나 국가 지원 프로젝트는 상대적으로 경쟁 우위를 확보할 것으로 예상된다.</p>\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.cnbc.com/2026/03/10/iran-war-semiconductor-memory-chip-impact.html\" style=\"color:#FF6B35;text-decoration:none;\">CNBC</a></p>\n  </div>\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "samsung"
+    ],
+    "meta_title": "이란 전쟁, AI 메모리칩 수요 위협... 에너지·헬륨 공급 우려",
+    "meta_description": "중동 지정학 긴장이 반도체 공급망 위협. 헬륨·에너지 가격 상승으로 AI 데이터센터 건설 수요 둔화 우려.",
+    "word_count": 510
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T17:04:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T08:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "rejected",
+      "reason": "Ghost API error: 401 {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"016619e0-1d25-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}",
+      "timestamp": "2026-03-11T08:33:39.997Z"
+    }
+  ],
+  "rejection_reason": "Ghost API error: 401 {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"016619e0-1d25-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}"
+}

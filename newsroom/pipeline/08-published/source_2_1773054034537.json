@@ -60,7 +60,11 @@
     "word_count": 2319,
     "category": "교육",
     "meta_title": "'AI 중점학교' 1141개교 선정…특별교부금 385억 원 지원",
-    "meta_description": "body { font-family: 'Noto Sans KR'; margin: 0; padding: 20px; } .wrapper { max-width: 680px; margin: 0 auto; font-size: 17px; line-height: 1.9; color:"
+    "meta_description": "body { font-family: 'Noto Sans KR'; margin: 0; padding: 20px; } .wrapper { max-width: 680px; margin: 0 auto; font-size: 17px; line-height: 1.9; color:",
+    "feature_image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.858Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 100,
@@ -85,7 +89,5 @@
     "text_length": 2297,
     "checked_at": "2026-03-09T11:01:33.432Z"
   },
-  "ghost_id": "69aea88dff4fbf0001ab799b",
-  "ghost_url": "https://insight.ubion.global/p/fc3ee55b-f104-4213-8eda-5e81bd8f3d85/",
   "published_at": "2026-03-09T11:01:33.910Z"
 }

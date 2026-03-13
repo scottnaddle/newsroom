@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "AI Cloud Startup Nscale Raises $2B in Funding at $14.6B Valuation",
+    "url": "https://siliconangle.com/2026/03/09/ai-cloud-startup-nscale-raises-2b-funding-14-6b-valuation/",
+    "source_name": "SiliconANGLE",
+    "language": "en",
+    "relevance_score": 86,
+    "summary": "Nscale, an AI cloud infrastructure startup backed by Nvidia, has raised $2 billion in fresh funding, bringing its valuation to $14.6 billion. This signals strong investor confidence in AI infrastructure and cloud computing solutions.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-10T16:03:00Z"
+  },
+  "digest": {
+    "headline": "AI 인프라 기업 Nscale, 자금조달로 146억 달러 기업가치 달성",
+    "lead": "런던 기반 데이터센터 스타트업 Nscale이 2025년 9월 이후 기업가치를 2배 이상 상승시키며 20억 달러의 시리즈 C 투자를 유치했다. 이는 AI 인프라 산업의 투자 열기가 얼마나 뜨거운지를 보여주는 신호다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">런던 기반 데이터센터 스타트업 Nscale이 2025년 9월 이후 기업가치를 2배 이상 상승시키며 20억 달러의 시리즈 C 투자를 유치했다. 이는 AI 인프라 산업의 투자 열기가 얼마나 뜨거운지를 보여주는 신호다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Nscale은 AI 워크로드 최적화 데이터센터 네트워크를 구축하는 기업으로, 설립 2년 미만에 미국·영국·노르웨이·아이슬란드·포르투갈 등 전 지역에 시설 확대를 예정 중이다. 특히 OpenAI를 위한 '스타게이트 노르웨이' 프로젝트(10만개 GPU, 230MW 초기 용량)와 마이크로소프트와의 146억 달러 규모 인프라 계약을 진행 중이다. 이번 투자는 노르웨이 에너지 기업 Aker ASA와 8090 Industries가 주도했으며, 엔비디아·델·노키아 등이 참여했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">생성형 AI의 폭발적 성장으로 인해 대규모 계산 용량이 급속히 필요해지면서, 기존 클라우드 인프라의 한계를 극복하는 전문 데이터센터에 대한 투자가 급증하고 있다. Nscale의 해수 냉각 시스템과 폐루프 액체 냉각 방식 같은 혁신 기술이 데이터센터의 지속가능성을 높이는 방향을 제시한다. 앞으로 AI 인프라는 경제의 핵심 기반시설이 될 것으로 예상된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">대형 AI 인프라 투자의 확대는 에듀테크 스타트업의 기술 접근성 개선을 의미한다. 전문 데이터센터의 증가와 경제성 개선으로, 소규모 교육 AI 서비스도 대규모 계산 자원에 더 저렴하게 접근할 수 있게 될 것이다. 따라서 교육용 생성형 AI, 개인화 학습 시스템 등이 빠르게 상용화될 수 있는 기반이 마련되는 상황이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://siliconangle.com/2026/03/09/ai-cloud-startup-nscale-raises-2b-funding-14-6b-valuation/\" style=\"color:#FF6B35;text-decoration:none;\">SiliconANGLE</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "infrastructure"
+    ],
+    "meta_title": "Nscale, 20억 달러 조달로 146억 달러 기업가치 달성",
+    "meta_description": "AI 인프라 기업 Nscale이 엔비디아, 델 등 주요 투자자와 함께 20억 달러 시리즈 C 투자를 완료하며 AI 인프라 시장의 성장 신호를 보냈다.",
+    "word_count": 542
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T16:03:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T07:45:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-10T08:39:11.889Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69afd8af15c2cc0001bbe509",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69afd8af15c2cc0001bbe509",
+    "public_url": "https://ubion.ghost.io/ai-inpeura-gieob-nscale-jageumjodalro-146eog-dalreo-gieobgaci-dalseong/",
+    "status": "published",
+    "published_at": "2026-03-10T08:39:11.000Z"
+  }
+}

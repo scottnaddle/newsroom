@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Microsoft taps Anthropic for Copilot Cowork in push for AI agents",
+    "url": "https://www.reuters.com/technology/artificial-intelligence/",
+    "source_name": "Reuters",
+    "language": "en",
+    "relevance_score": 86,
+    "summary": "Microsoft partners with Anthropic to integrate AI capabilities into Copilot Cowork, marking a significant collaboration in enterprise AI agents development.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-10T20:00:00Z"
+  },
+  "digest": {
+    "headline": "Microsoft, Anthropic과 협력해 엔터프라이즈 AI 에이전트 강화",
+    "lead": "Microsoft가 Anthropic과의 전략적 협력을 발표했습니다. Copilot Cowork에 Anthropic의 AI 기술을 통합하여 기업 고객을 위한 자율화된 AI 에이전트 기능을 확대합니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">Microsoft가 Anthropic과의 협력을 통해 Copilot Cowork에 고급 AI 역량을 통합합니다. 엔터프라이즈 고객을 위한 더 강력한 자율 AI 에이전트 솔루션을 제공하는 것이 목표입니다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Copilot Cowork는 Microsoft의 엔터프라이즈 협업 플랫폼으로, 개별 AI 에이전트보다는 다중 에이전트 협력 체계를 제공합니다. Anthropic은 최근 Claude의 성능 강화와 함께 엔터프라이즈 시장 점유율을 확대하고 있습니다. 두 회사의 협력은 AI 에이전트 시장에서의 경쟁 심화와 고객 요구도 증가를 반영합니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 협력은 OpenAI의 우위에 대항하는 Microsoft의 전략적 움직임입니다. Anthropic의 안전성과 성능을 Copilot에 통합하면 기업 고객들이 더 안정적이고 신뢰할 수 있는 AI 에이전트 솔루션을 얻을 수 있습니다. 장기적으로 AI 에이전트 시장은 단일 모델 의존에서 다중 모델 조합으로 진화할 것으로 예상됩니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">대규모 교육 기관과 에듀테크 기업들이 다중 모델 기반의 AI 튜터링 시스템을 구축할 때 최적의 성능과 안전성을 동시에 확보할 수 있습니다. Microsoft와 Anthropic의 협력 모델은 학생 데이터 보호가 중요한 교육 영역에서 신뢰성 높은 AI 인프라 구축의 새로운 표준이 될 수 있습니다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.reuters.com/technology/artificial-intelligence/\" style=\"color:#FF6B35;text-decoration:none;\">Reuters</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "microsoft",
+      "anthropic"
+    ],
+    "meta_title": "Microsoft, Anthropic과 협력해 엔터프라이즈 AI 에이전트 강화",
+    "meta_description": "Microsoft와 Anthropic 협력으로 Copilot Cowork에 고급 AI 역량 통합. 엔터프라이즈 AI 에이전트 시장에서 다중 모델 기반 솔루션 제공.",
+    "word_count": 498
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T20:00:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T11:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-10T11:37:34.966Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b00248e303e00001e2f8a9",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b00248e303e00001e2f8a9",
+    "public_url": "https://ubion.ghost.io/microsoft-anthropicgwa-hyeobryeoghae-enteopeuraijeu-ai-eijeonteu-ganghwa/",
+    "status": "published",
+    "published_at": "2026-03-10T11:37:34.966Z"
+  }
+}

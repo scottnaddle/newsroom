@@ -1,0 +1,102 @@
+{
+  "id": "source-009",
+  "source_name": "Washington University in St. Louis",
+  "title": "University Introduces +AI Academic Initiative",
+  "url": "https://source.washu.edu/2026/03/university-introduces-ai-academic-initiative/",
+  "published_date": "2026-03-05",
+  "source_type": "academic",
+  "snippet": "Provost Mark D. West가 이끄는 AI 학술 이니셔티브: AI가 고등교육에 예측 불가능한 방식으로 영향을 미칠 수 있음을 인식하고 대학 차원의 대응 필요",
+  "quality_score": 81,
+  "stage": "copy-edited",
+  "collected_at": "2026-03-12T08:00:00Z",
+  "reporting_brief": {
+    "who": "Washington University in St. Louis (특히 Provost Mark D. West), 대학 리더십 팀 (Betsy Sinclair, Jen Smith, Nathan Jacobs, Peter Boumgarden)",
+    "what": "워싱턴 대학교가 대학 전체 차원의 AI 학술 이니셔티브 '+AI' 시작. AI 리터러시 학습 모듈 개발, 대학 지원 생성형 AI 도구 도입, 교과 과정 통합, AI 전망 주간 개최 등을 통해 학생 성공과 교육 혁신 추진",
+    "why": "AI가 고등교육에 '예측 불가능한' 방식으로 영향을 미칠 수 있음. 학생들은 이미 AI를 실험하고 있으며, 대학은 이를 교육적 목표와 인간의 가치에 부합하도록 균형있게 활용할 필요가 있음",
+    "when": "2026년 3월 5일 발표, +AI Perspectives Week는 3월 23주 개최 예정",
+    "context": "미국 고등교육 기관들이 생성형 AI에 대응하는 방식의 사례. 워싱턴 대학은 AI 도입에 앞서가면서도 신중하게 접근. 학생 형성, 지식 발전, 연구 발전을 중심에 두고 AI를 도구로 활용",
+    "sources": [
+      {
+        "title": "University Introduces +AI Academic Initiative",
+        "url": "https://source.washu.edu/2026/03/university-introduces-ai-academic-initiative/",
+        "confidence": 0.93
+      },
+      {
+        "title": "+AI WashU Official Site",
+        "url": "https://ai.washu.edu/",
+        "confidence": 0.9
+      },
+      {
+        "title": "AI Literacy for the WashU Scholar",
+        "url": "https://ai.wustl.edu/literacy",
+        "confidence": 0.88
+      }
+    ],
+    "perspectives": {
+      "university": "AI는 강력하지만 교육 품질, 학생 형성, 학술적 가치를 훼손해서는 안 됨. 인간의 창의성과 판단을 중심에 두고 도구로 활용",
+      "faculty": "학생들이 이미 AI를 사용하고 있으므로, 대학은 이를 책임감 있게 가르치고 통합해야 함. 교수진이 주도적으로 커리큘럼 개발에 참여",
+      "student": "AI 리터러시는 필수 역량. 대학은 학생들이 AI를 비판적으로 평가하고 책임감 있게 사용하는 방법을 배워야 함"
+    },
+    "suggested_angle": "미국 명문대의 AI 교육 전략... 기술 수용과 인간의 가치 사이의 균형은? 한국 대학의 AI 교육 비전은?"
+  },
+  "draft": {
+    "headline": "\"AI는 도구일 뿐\" 워싱턴 대학, 인간 가치 중심의 AI 교육 시작",
+    "subheadline": "명문대의 신학기 과제는 기술 혁신과 인간 형성의 균형 맞추기",
+    "slug": "washu-ai-academic-initiative",
+    "ghost_tags": [
+      "AI교육",
+      "고등교육",
+      "미국대학",
+      "ai-news"
+    ],
+    "category": "research",
+    "html": "<div style=\"font-family:'Noto Sans KR'; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e;\"><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">\"학생들은 이미 AI를 사용하고 있다\"</h2><p style=\"margin:0 0 32px;\">+AI 이니셔티브가 출범한 배경에는 매우 현실적인 문제가 있다. ChatGPT와 Claude, Gemini 같은 생성형 AI가 이미 대중화된 지금, 대학이 할 수 있는 선택은 두 가지다. 첫째, AI 사용을 금지하거나 규제하려는 것. 둘째, 학생들이 이미 사용하고 있는 AI를 교육의 틀 안에서 책임감 있게 가르치는 것이다.</p><p style=\"margin:0 0 32px;\">워싱턴 대학교는 명백히 두 번째 길을 선택했다. \"학생들은 이미 실험하고 있다. 우리 대학은 이를 교육적 목표와 인간의 가치에 부합하도록 균형있게 활용하는 방법을 가르쳐야 한다\"는 게 Provost의 메시지다. 이는 매우 성숙하고 현명한 접근이다.</p><p style=\"margin:0 0 32px;\">실제로 대학 입시 사이트를 보면, 이미 많은 학생들이 자기소개서나 에세이를 작성할 때 AI 도구를 사용하고 있다는 것을 알 수 있다. 금지하려고 해봤자, 기술은 이미 교실 바깥에서 널리 사용되고 있다. 따라서 대학의 역할은 이를 '악'으로만 치부하는 것이 아니라, 책임감 있는 사용과 비판적 평가 능력을 가르치는 것이어야 한다는 인식이 워싱턴 대학에 형성되어 있는 것 같다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">+AI의 구체적 전략: 네 가지 기둥</h2><p style=\"margin:0 0 32px;\">워싱턴 대학의 +AI 이니셔티브는 네 가지 구체적인 전략으로 이루어진다.</p><p style=\"margin:0 0 32px;\">첫째, <strong>AI 리터러시 모듈 개발</strong>이다. 이는 모든 학생이 의무적으로 수강해야 할 기초 AI 교육을 의미한다. 단순히 \"ChatGPT 사용법\" 같은 기술적 교육이 아니라, AI의 작동 원리, AI의 한계, 데이터 윤리, AI의 사회적 영향 등을 포함한 포괄적 리터러시다.</p><p style=\"margin:0 0 32px;\">둘째, <strong>대학 지원 생성형 AI 도구 도입</strong>이다. 이는 오픈소스나 상용 AI 도구를 대학이 직접 검증하고, 학생 데이터 보호와 윤리적 사용을 보장하는 환경에서 제공한다는 의미다. ChatGPT를 막는 대신, \"이것을 안전하게 사용할 수 있도록\" 지원하는 방식이다.</p><p style=\"margin:0 0 32px;\">셋째, <strong>교과 과정 통합</strong>이다. AI를 별도의 선택 과목으로만 두지 않고, 기존의 다양한 전공 과목 내에서 AI 학습 목표를 포함시킨다. 예를 들어, 역사 수업에서 AI를 활용해 역사 텍스트를 분석하거나, 문학 수업에서 AI의 창의성 한계를 논의하는 식이다.</p><p style=\"margin:0 0 32px;\">넷째, <strong>+AI Perspectives Week</strong라는 대학 행사다. 3월 23주에 개최될 이 행사에는 AI 전문가, 윤리학자, 기업인, 학생들이 함께 AI의 미래와 교육에 대해 토론한다. 이는 AI에 대한 단편적인 입장을 제시하는 것이 아니라, 다양한 관점을 제시하려는 의도가 드러난다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">\"학생 형성\"이 목표다</h2><p style=\"margin:0 0 32px;\">+AI 이니셔티브의 가장 주목할 만한 특징은, 기술 도입이 아니라 \"학생 형성(student formation)\"을 목표로 한다는 점이다. 이는 대학 교육의 본질과 관련된 철학적 선택이다.</p><p style=\"margin:0 0 32px;\">많은 대학들이 AI 도입을 경제적 경쟁력 강화나 기술 혁신 차원에서만 생각한다. 하지만 워싱턴 대학은 다르다. 그들이 핵심에 두는 것은 \"우리는 어떤 인간을 길러낼 것인가\"라는 질문이다. AI를 활용하되, 그것이 학생들의 판단력, 창의성, 윤리적 사고를 강화하는 방향이어야 한다는 입장이다.</p><p style=\"margin:0 0 32px;\">이를 위해 Betsy Sinclair(교무총장), Jen Smith(학생 형성 담당), Nathan Jacobs(정보 기술 담당), Peter Boumgarden(혁신 담당) 등 대학의 다양한 부서 리더들이 함께 추진하고 있다. 이는 AI가 단순한 기술 부서의 일이 아니라 대학 전체 미션과 연결되어 있음을 보여준다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">\"예측 불가능한 변화\"에 대한 대학의 답변</h2><p style=\"margin:0 0 32px;\">Provost Mark D. West는 이니셔티브를 설명하면서 \"AI가 고등교육에 예측 불가능한 방식으로 영향을 미칠 수 있다\"고 언급했다. 이는 정직한 고백이다. 미래를 정확히 예측할 수 없기 때문에, 어떤 고정된 정책이나 전략도 충분하지 않다는 뜻이다.</p><p style=\"margin:0 0 32px;\">따라서 워싱턴 대학이 제시하는 답변은 \"적응 가능성\"이다. 강한 기초(AI 리터러시)를 깔고, 유연한 도구(대학 지원 AI)를 제공하며, 계속해서 다양한 관점(Perspectives Week)을 수렴하는 방식으로, 미래 변화에 대응할 수 있는 조직 체질을 만드는 것이다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">한국 대학, 이 단계에 있는가?</h2><p style=\"margin:0 0 32px;\">한국의 명문대들은 현재 어디에 있을까? AI 교육이 필요하다는 것은 인식하고 있지만, 워싱턴 대학처럼 체계적이고 철학적인 이니셔티브로 추진하고 있는지 의문의 여지가 있다.</p><p style=\"margin:0 0 32px;\">한국 대학들이 참고할 수 있는 점들이 있다. 첫째, AI 도입이 비용 절감이나 기술 자랑이 아니라 \"학생 형성\"이라는 교육의 본질과 연결되어야 한다는 점. 둘째, AI 금지나 무분별한 수용이 아니라 비판적 활용을 가르쳐야 한다는 점. 셋째, 다양한 부서의 협력이 필수라는 점이다.</p><div style=\"border-top:1px solid #e2e8f0; margin-top:48px; padding-top:20px;\"><h3 style=\"font-size:17px; font-weight:600; margin:0 0 16px;\">참고자료</h3><ol style=\"margin:0; padding-left:24px; color:#374151;\"><li style=\"margin:0 0 12px;\"><a href=\"https://source.washu.edu/2026/03/university-introduces-ai-academic-initiative/\" style=\"color:#059669; text-decoration:none;\">University Introduces +AI Academic Initiative</a> - Washington University in St. Louis</li><li style=\"margin:0 0 12px;\"><a href=\"https://ai.washu.edu/\" style=\"color:#059669; text-decoration:none;\">+AI WashU Official Site</a></li><li style=\"margin:0 0 12px;\"><a href=\"https://ai.wustl.edu/literacy\" style=\"color:#059669; text-decoration:none;\">AI Literacy for the WashU Scholar</a></li></ol></div><p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "custom_excerpt": "워싱턴 대학교가 '+AI' 이니셔티브를 시작했다. AI 리터러시, 교과 통합, 대학 지원 도구 등을 통해 기술 혁신과 인간의 가치를 양립시키려는 시도다.",
+    "references": [
+      {
+        "title": "University Introduces +AI Academic Initiative",
+        "url": "https://source.washu.edu/2026/03/university-introduces-ai-academic-initiative/"
+      },
+      {
+        "title": "+AI WashU Official Site",
+        "url": "https://ai.washu.edu/"
+      },
+      {
+        "title": "AI Literacy for the WashU Scholar",
+        "url": "https://ai.wustl.edu/literacy"
+      }
+    ],
+    "word_count": 1921,
+    "feature_image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=600&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=600&fit=crop",
+    "meta_title": "\"AI는 도구일 뿐\" 워싱턴 대학, 인간 가치 중심의 AI 교육 시작",
+    "meta_description": "미국 명문 사립대 워싱턴 대학교(WashU)의 Provost Mark D. West는 최근 '+AI'라는 대학 전체 차원의 AI 학술 이니셔티브를 발표했다. 이는 단순히 AI 교육을 추가하는 것이 아니라, 기술 혁신과 인간의 가치를 어떻게 양립시킬 것인가라는 근본적인 "
+  },
+  "fact_check": {
+    "score": 91,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "Washington University in St. Louis의 +AI 이니셔티브 실제 추진 중",
+      "Provost Mark D. West의 역할과 입장 정확",
+      "학생 형성이라는 교육철학의 합리성",
+      "4가지 기둥(리터러시, 도구, 통합, 행사)의 구체성"
+    ],
+    "validated_at": "2026-03-12T11:48:00Z"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 2534자, 팩트점수 91, 중복 0.0%",
+    "meta_title": "\"AI는 도구일 뿐\" 워싱턴 대학, 인간 가치 중심의 AI 교육 시작",
+    "meta_description": "미국 명문 사립대 워싱턴 대학교(WashU)의 Provost Mark D. West는 최근 '+AI'라는 대학 전체 차원의 AI 학술 이니셔티브를 발표했다. 이는 단순히 AI 교육을 추가하는 것이 아니라, 기술 혁신과 인간의 가치를 어떻게 양립시킬 것인가라는 근본적인 ",
+    "decided_at": "2026-03-12T02:33:14.031Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [
+      "AI 배지 pill 제거"
+    ],
+    "text_length": 2283,
+    "checked_at": "2026-03-12T02:33:14.032Z"
+  }
+}

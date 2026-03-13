@@ -1,0 +1,46 @@
+{
+  "stage": "rejected",
+  "pipeline": "digest",
+  "source": {
+    "title": "Top Tech Trends 2026: AI Backbone, Intelligent Apps, Cloud 3.0 and More",
+    "url": "https://www.capgemini.com/insights/research-library/top-tech-trends-of-2026/",
+    "source_name": "Capgemini",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "As AI moves beyond experimentation into maturity in 2026, the Year of Truth for AI signals a shift from hype to measurable impact. Organizations are focusing on AI becoming the backbone of enterprise architecture, reshaping software development lifecycle, and redefining cloud consumption while tech sovereignty emerges as a strategic priority.",
+    "published_date": "2026-03-11",
+    "collected_at": "2026-03-11T13:03:02Z"
+  },
+  "digest": {
+    "headline": "2026년 5대 기술 트렌드: AI 기반 운영체제부터 클라우드 3.0까지",
+    "lead": "Capgemini의 2026년 기술 전망 보고서는 AI가 이제 '증명의 해'(Year of Truth)를 맞이했다고 진단한다. 파일럿 단계를 벗어나 엔터프라이즈 핵심 인프라로 자리 잡고, 소프트웨어 개발부터 클라우드까지 모든 계층을 재구성한다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">Capgemini의 2026년 기술 전망 보고서는 AI가 이제 '증명의 해'(Year of Truth)를 맞이했다고 진단한다. 파일럿 단계를 벗어나 엔터프라이즈 핵심 인프라로 자리 잡고, 소프트웨어 개발부터 클라우드까지 모든 계층을 재구성한다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">2026년은 Capgemini의 TechnoVision 2026 보고서가 정의한 '기술 리더십의 구조 재건 시대'이다. AI 배포 규모 확대에서 벗어나, 신뢰성 있는 엔터프라이즈 AI 구축, 소프트웨어 개발 패러다임 전환(코드 작성→의도 표현), 하이브리드·멀티클라우드 확산 등 5대 핵심 트렌드가 구체화되고 있다. 특히 '증명의 해'는 마케팅 과장이 아닌 검증 가능한 성과 중심으로의 전환을 의미한다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 트렌드들은 조직 구조와 역할을 근본적으로 변화시킨다. 개발자는 '코드 작성자'에서 '시스템 오케스트레이터'로, IT는 인프라 관리자에서 '전사 AI 통합 설계자'로 변모한다. 클라우드 3.0은 단순 비용 절감 도구가 아니라 AI 워크로드 최적화와 데이터 주권을 동시에 해결하는 전략적 선택이 된다. 기술 주권은 고립이 아닌 '회복력 있는 상호 의존성' 구축을 의미한다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">에듀테크 기업들은 Capgemini의 5대 트렌드에서 세 가지 핵심 과제를 찾아야 한다. 첫째, AI를 학습 성과 검증 가능한 도구로 전환해야 한다. 둘째, 교사·학부모·학생의 '의도 표현'을 기반으로 한 적응형 학습 경로를 자동 설계하는 기술로 진화해야 한다. 셋째, 학생 데이터 주권과 글로벌 AI 접근성의 균형을 맞춰야 한다. 특히 구글·OpenAI 같은 거대 기업 모델에 의존하지 않는 '에듀테크 독립 AI'를 구축하는 기업이 향후 경쟁력을 확보하게 될 것이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.capgemini.com/insights/research-library/top-tech-trends-of-2026/\" style=\"color:#FF6B35;text-decoration:none;\">Capgemini</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "research"
+    ],
+    "meta_title": "2026년 5대 기술 트렌드: AI 기반 운영체제부터 클라우드 3.0까지",
+    "meta_description": "Capgemini 2026 기술 전망. 'AI의 증명의 해'를 맞이한 엔터프라이즈 AI 구축, 소프트웨어 개발 패러다임 전환, 클라우드 3.0, 지능형 운영, 기술 주권까지 5대 핵심 트렌드.",
+    "word_count": 540
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T13:03:02Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T13:15:35Z"
+    }
+  ],
+  "error_log": {
+    "agent": "digest-publisher",
+    "action": "failed",
+    "error": "Ghost API error: 400 - {\"errors\":[{\"message\":\"An unexpected error occurred, please try again.\",\"context\":\"Unterminated string in JSON at position 2162 (line 1 column 2163)\",\"type\":\"InternalServerError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"UNEXPECTED_ERROR\",\"id\":\"976a6f20-1d9a-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}",
+    "timestamp": "2026-03-11T22:35:22.796Z"
+  }
+}

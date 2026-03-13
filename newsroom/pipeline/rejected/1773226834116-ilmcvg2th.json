@@ -1,0 +1,32 @@
+{
+  "id": "1773226834116-ilmcvg2th",
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960595&call_from=rsslink",
+    "title": "초·중등 인공지능(AI) 중점학교 운영!"
+  },
+  "draft": {
+    "headline": "초·중고 AI 교육 시수 대폭 확대…교실 안 AI 혁신의 시작",
+    "word_count": 1850
+  },
+  "fact_check": {
+    "score": 90,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "AI 중점학교 1141개 지정 - 교육부 보도자료 확인",
+      "초등 AI 교과 시간 34→68시간 확대 - 정책브리핑 일치",
+      "중등 AI 교과 시간 68→102시간 확대 - 정책브리핑 일치",
+      "고등학교 매학기 필수 편성 - 공식 정책 확인",
+      "모든 교과에 AI 연계 학습 추진 - 교육부 계획서 확인",
+      "385억 원 특별교부금 - 공식 발표 확인",
+      "2026년 3월 10일 발표 - 언론 보도 일치"
+    ],
+    "validated_at": "2026-03-11T21:35:00+09:00",
+    "validator_notes": "신뢰도 높은 기사. 모든 주요 수치가 공식 소스와 일치. 리드박스, 5개 h2 섹션, 참고자료, AI 각주 모두 완벽함. 본문 가독성 우수. 교사 역량 강화, 학생/학부모 우려 등 다각적 관점 제시."
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

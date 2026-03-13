@@ -1,0 +1,95 @@
+{
+  "id": "1773223271095-0f3ylts96",
+  "stage": "fact-checked",
+  "source": {
+    "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=120749",
+    "title": "숭실대, 동작구·동작관악교육지원청·3개 대학과 '고교-대학 연계 진로 프로그램' 협약 체결",
+    "query": "인공지능 대학 교육과정",
+    "discovered_at": "2026-03-11T10:01:11.095Z"
+  },
+  "quality_score": 79,
+  "metadata": {
+    "published": "2026-03-11T10:01:11.095Z"
+  },
+  "reporting_brief": {
+    "who": "숭실대학교, 동작구청, 동작관악교육지원청, 중앙대·총신대·서울대 평생교육원",
+    "what": "지역 연계형 고교-대학 진로교육 협력 협약 체결으로 고교학점제 연계 교육 지원",
+    "why": "고교학점제 안정적 정착을 위해 지역 기반의 진로교육 지원 체계 구축",
+    "when": "2026년 2월 26일 협약 체결",
+    "context": "숭실대는 2024~2025년 2년간 2,000명 이상의 고교생 대상 수업·프로그램 운영 경험 축적. 만족도 4.7점/5점",
+    "sources": [
+      {
+        "title": "스마트경제 - 숭실대 협약 관련 보도",
+        "url": "https://www.dailysmart.co.kr/",
+        "credibility": "높음"
+      },
+      {
+        "title": "교육부 고교교육 기여대학 지원사업 자료",
+        "url": "https://www.moe.go.kr/",
+        "credibility": "매우높음"
+      },
+      {
+        "title": "동작구청 보도자료",
+        "url": "https://www.dongjak.seoul.kr/",
+        "credibility": "높음"
+      }
+    ],
+    "perspectives": {
+      "government": "지자체·교육청·대학 삼자 협력으로 지역 기반 교육 생태계 강화",
+      "education": "고교학점제 정착을 위한 대학의 인적·물적 지원 확대 의미",
+      "industry": "AI 등 미래 기술 분야 인재 육성 협력 강화"
+    },
+    "suggested_angle": "서울의 한 구(區)가 꾼 꿈... 대학과 교육청이 함께 만드는 '미래 진로 공간'"
+  },
+  "draft": {
+    "headline": "서울 동작구, 고교-대학 연계 진로교육 협약... 미래 인재 양성 시스템 구축",
+    "subheadline": "숭실대·중앙대·총신대·서울대 4개교 협력, AI부터 인문학까지 맞춤형 교육",
+    "slug": "-",
+    "ghost_tags": [
+      "AI-education",
+      "news",
+      "korea"
+    ],
+    "category": "education",
+    "html": "<div style=\"font-family:'Noto Sans KR'; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e;\">\n<div style=\"border-left:4px solid #d97706; background:#f8f9ff; padding:18px 22px; border-radius:0 8px 8px 0; margin-bottom:48px;\">\n<p style=\"margin:0; font-weight:700; color:#d97706;\">요약</p>\n<p style=\"margin:8px 0 0 0;\"><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px 0;\">기사 본문</h2><p style=\"margin:0 ...</p>\n</div>\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px 0;\">기사 본문</h2><p style=\"margin:0 0 32px 0;\">서울 동작구에서 지자체·교육청·대학이 손을 맞잡은 협력 체계가 구축됐다. 숭실대학교, 동작구청, 동작관악교육지원청, 중앙대·총신대·서울대 평생교육원이 '고교-대학 연계 진로 프로그램 지원 업무협약'을 체결한 것이다. 이는 고교학점제가 안정적으로 정착되도록 지역 기반의 진로교육 지원 체계를 구축하겠다는 선언이다. 숭실대는 이미 교육부 사업을 통해 2년간 2,000명 이상의 고교생을 교육했으며, 만족도 4.7점(5점 만점)을 기록했다. 이제 동작구 전역의 고등학교로 이 성공 경험을 확대하려고 한다. AI·공학·인문사회·경상 등 다양한 학문 분야의 교육과정이 제공될 예정이다.</p><div style=\"border-left:4px solid #d97706; background:#f8f9ff; padding:18px 22px; margin:32px 0; border-radius:0 8px 8px 0; font-style:italic; color:#374151;\">본 기사는 한국의 AI 교육 정책과 대학의 대응 현황을 다루고 있습니다.</div>\n<div style=\"border-top:1px solid #e2e8f0; padding-top:32px; margin-top:48px;\">\n<p style=\"font-weight:700; margin:0 0 20px 0;\">📚 참고자료</p>\n<ol style=\"margin:0; padding-left:20px; line-height:2;\">\n<li>기사 원본 출처</li>\n<li>관련 정책 자료</li>\n<li>통계 및 현황 자료</li>\n</ol>\n</div>\n<p style=\"margin:48px 0 0; padding-top:20px; border-top:1px solid #f1f5f9; font-size:13px; color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "custom_excerpt": "숭실대·중앙대·총신대·서울대 4개교 협력, AI부터 인문학까지 맞춤형 교육",
+    "references": [
+      {
+        "title": "스마트경제 - 숭실대 협약 관련 보도",
+        "url": "https://www.dailysmart.co.kr/",
+        "credibility": "높음"
+      },
+      {
+        "title": "교육부 고교교육 기여대학 지원사업 자료",
+        "url": "https://www.moe.go.kr/",
+        "credibility": "매우높음"
+      },
+      {
+        "title": "동작구청 보도자료",
+        "url": "https://www.dongjak.seoul.kr/",
+        "credibility": "높음"
+      }
+    ],
+    "word_count": 1770,
+    "feature_image": "https://images.unsplash.com/photo-1516321318423-f06eed504b7c?w=680&h=400&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1516321318423-f06eed504b7c?w=1200&h=630&fit=crop"
+  },
+  "fact_check": {
+    "score": 28,
+    "verdict": "FAIL",
+    "issues": [
+      "h2 섹션 3개 미만",
+      "본문 길이 1600자 미만"
+    ],
+    "verified_claims": [
+      "지역 연계형 고교-대학 진로교육 협력 협약 체결으로 고교학점제 연계 교육 지원",
+      "2026년 2월 26일 협약 체결",
+      "숭실대는 2024~2025년 2년간 2,000명 이상의 고교생 대상 수업·프로그램 운영 경험 축적. 만족도 4.7점/5점"
+    ],
+    "structure_score": 60,
+    "fact_score": 40,
+    "readability_score": 100,
+    "completeness_score": 80,
+    "validated_at": "2026-03-11T10:04:31.503Z"
+  }
+}

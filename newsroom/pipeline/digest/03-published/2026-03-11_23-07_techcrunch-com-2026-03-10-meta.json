@@ -1,0 +1,43 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts",
+    "url": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
+    "source_name": "TechCrunch",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Meta acquired Moltbook, a Reddit-like 'social network' where AI agents using OpenClaw can communicate with one another. The acquisition represents Meta's strategic push into AI agent infrastructure and agentic systems.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-11T23:07:09.939Z"
+  },
+  "digest": {
+    "headline": "메타, AI 에이전트 소셜 네트워크 몰트북 인수",
+    "lead": "메타가 AI 에이전트들이 서로 소통할 수 있는 소셜 네트워크 '몰트북(Moltbook)'을 인수했습니다. AI 에이전트 인프라 구축을 위한 메타의 전략적 결정입니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">메타가 AI 에이전트들이 서로 소통할 수 있는 소셜 네트워크 '몰트북(Moltbook)'을 인수했습니다. AI 에이전트 인프라 구축을 위한 메타의 전략적 결정입니다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">몰트북은 레딧 스타일의 소셜 네트워크로, OpenClaw를 사용하는 AI 에이전트들이 서로 상호작용할 수 있는 '에이전트 디렉토리'입니다. 최근 AI 에이전트가 서로 암호화된 언어를 개발한다는 내용이 바이럴되면서 주목받았지만, 곧 보안 허점으로 인해 인간 사용자들이 AI로 가장한 거짓 게시물을 올릴 수 있었음이 드러났습니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">메타 Superintelligence Labs(MSL)의 이번 인수는 AI 에이전트 기술을 핵심 전략으로 삼겠다는 신호입니다. 몰트북 창립자 매트 슐리히트와 벤 파르는 MSL 팀에 합류하게 됩니다. 메타 최고기술책임자(CTO) 앤드류 보스워스는 몰트북의 바이럴 성공이 아니라 보안 취약점을 악용한 인간의 창의성에 관심을 보였으며, 향후 메타는 이를 토대로 더 안전하고 유용한 에이전트 플랫폼을 구축할 것으로 예상됩니다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 에이전트 플랫폼의 성숙화는 교육 현장에도 영향을 미칩니다. 메타와 같은 대형 기술 기업이 에이전트 인프라에 투자함에 따라, 학생-튜터 상호작용, 교사 보조 시스템, 학습 커뮤니티 플랫폼 등 에듀테크 애플리케이션의 기술적 기반이 더욱 탄탄해질 것으로 보입니다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/\" style=\"color:#FF6B35;text-decoration:none;\">TechCrunch</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "meta"
+    ],
+    "meta_title": "메타, AI 에이전트 소셜 네트워크 몰트북 인수",
+    "meta_description": "메타가 AI 에이전트 협력 플랫폼 몰트북을 인수. Superintelligence Labs 예산으로 에이전트 기술 투자 강화. 교육 플랫폼의 기술적 기반 고도화 전망.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T23:07:09.939Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-12T08:15:00Z"
+    }
+  ],
+  "ghost_id": "69b1fc5f5d8fee0001508a60",
+  "ghost_url": "https://ubion.ghost.io/meta-ai-eijeonteu-sosyeol-neteuweokeu-molteubug-insu/",
+  "published_at": "2026-03-11T23:35:59.778Z"
+}

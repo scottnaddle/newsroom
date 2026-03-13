@@ -1,0 +1,49 @@
+{
+  "arxiv_id": "s2-f833d0b418ad5d6f4f765f9251f1975dab9dba84",
+  "title": "Role of activity-based learning and ChatGPT on students' performance in education",
+  "summary": "Purpose: This study investigates the impact of activity-based learning and the utilization of ChatGPT on students ’ academic performance within the educational framework. Objectives: The study aims to assess the effectiveness of activity-based learning in comparison to traditional methods, while also evaluating the potential benefits and drawbacks of integrating ChatGPT as an educational tool. Methods: The study employs a comparative approach, analyzing the outcomes of students exposed to activity-based learning versus those using conventional methods. Additionally, the study examines the usage of ChatGPT in education through surveys and trials to determine its contribution to personalized feedback, interactive learning, and innovative teaching methods. Results: The findings reveal that activity-based learning enhances students ’ engagement, motivation, and critical thinking skills. Students participating in activity-based learning demonstrate improved academic achievement, which is attributed to their active involvement and practical application of knowledge. Similarly, the integration of ChatGPT offers novel avenues for interactive learning and individualized assistance, fostering students ’ understanding and exploration of complex concepts. Conclusion: In conclusion, activity-based learning proves to be a student-centered approach that enhances learning outcomes by fostering active participation and practical engagement. The utilization of ChatGPT in education showcases its potential to enhance educational experiences through interactive conversations and innovative teaching methodologies, despite considerations regarding potential limitations and ethical implications.",
+  "authors": [
+    "Tamara Al Shloul",
+    "Tehseen Mazhar",
+    "Qamar Abbas",
+    "Muhammad Iqbal",
+    "Y. Ghadi",
+    "Tariq Shahzad",
+    "Fatma Mallek",
+    "Habib Hamam"
+  ],
+  "categories": [],
+  "published": "2024-04-01",
+  "updated": "2024-04-01",
+  "pdf_url": "https://doi.org/10.1016/j.caeai.2024.100219",
+  "abs_url": "https://www.semanticscholar.org/paper/f833d0b418ad5d6f4f765f9251f1975dab9dba84",
+  "source": "semantic-scholar",
+  "relevance_score": 83,
+  "source_query": "ChatGPT education academic performance",
+  "collected_at": "2026-03-10T18:00:29.845Z",
+  "stage": "rejected",
+  "audit_log": [
+    {
+      "agent": "paper-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T18:00:30.852Z",
+      "source": "semantic-scholar",
+      "relevance_score": 83
+    },
+    {
+      "agent": "paper-summarizer",
+      "action": "summarized",
+      "timestamp": "2026-03-11T05:06:54.480Z",
+      "model": "glm-4-plus"
+    }
+  ],
+  "korean_title": "활동 기반 학습과 ChatGPT가 교육에서 학생의 성취도에 미치는 역할",
+  "korean_summary": "이 연구는 활동 기반 학습과 ChatGPT 활용이 학생의 학업 성취도에 미치는 영향을 조사했습니다. 활동 기반 학습은 학생의 참여도, 동기 부여, 비판적 사고 능력을 향상시켜 학업 성취도를 높이는 것으로 나타났습니다. 또한, ChatGPT는 개인화된 피드백과 대화형 학습을 제공하여 복잡한 개념 이해를 돕고 교육 경험을 혁신할 잠재력을 보였습니다.",
+  "key_findings": [
+    "활동 기반 학습은 학생의 적극적인 참여와 실무 적용을 통해 학업 성취도를 향상시킨다.",
+    "ChatGPT는 개인화된 피드백과 상호작용적인 학습 환경을 제공하여 복잡한 개념 탐구를 돕는다.",
+    "두 가지 접근 모두 전통적인 교육 방법에 비해 학생의 참여도와 이해도를 높이는 효과가 있다."
+  ],
+  "implications": "교육 현장에서는 학생 중심의 활동 기반 학습을 적극적으로 도입하여 학생의 능동적인 참여를 유도해야 합니다. 동시에, ChatGPT와 같은 AI 도구의 장점을 활용해 개별화된 학습 경험을 제공하고, 윤리적 사용 기준을 마련하여 교육의 효과성을 극대화할 필요가 있습니다.",
+  "error": "HTTP 401: {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"0f9e1560-1d9f-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}"
+}

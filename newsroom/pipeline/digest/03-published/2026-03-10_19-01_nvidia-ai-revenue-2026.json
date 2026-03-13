@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "How AI Is Driving Revenue, Cutting Costs and Boosting Productivity for Every Industry in 2026",
+    "url": "https://blogs.nvidia.com/blog/state-of-ai-report-2026/",
+    "source_name": "NVIDIA Blog",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Enterprises have scaled AI from experimental pilots to full-fledged production deployments in early 2026, with applications spanning code development, legal and financial tasks, and administrative support. The transition demonstrates AI's growing tangible impact on business productivity and revenue generation across industries.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-10T19:01:00Z"
+  },
+  "digest": {
+    "headline": "엔터프라이즈 AI, 수익 증대·비용 절감 본격화",
+    "lead": "엔비디아의 2026년 AI 상태 리포트에 따르면, 전 세계 기업의 64%가 AI를 적극 운영 중이며, 88%는 연간 수익 증대를, 87%는 비용 절감을 경험했다. 에이전트 AI 도입도 본격화하면서 AI의 기업 가치 실현이 가속화되고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- AI Digest 배지 -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">엔비디아의 2026년 AI 상태 리포트에 따르면, 전 세계 기업의 64%가 AI를 적극 운영 중이며, 88%는 연간 수익 증대를, 87%는 비용 절감을 경험했다. 에이전트 AI 도입도 본격화하면서 AI의 기업 가치 실현이 가속화되고 있다.</p>\n  </div>\n\n  <!-- 배경 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">엔비디아의 설문(8~12월 수집, 3,200명 응답)은 금융, 소매, 제조, 통신, 의료 등 5개 산업의 AI 도입 현황을 조사했다. 2025년 AI 파일럿·평가 단계에서 2026년 초 본격 배포 단계로 전환됐으며, 코드 개발, 법무, 재무, 행정 등 다양한 업무에 AI 에이전트가 투입되고 있다.</p>\n\n  <!-- 의미와 전망 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">응답 기업의 30%는 연 10% 이상의 수익 증대를, 25%는 연 10% 이상의 비용 절감을 보고했다. 대기업(직원 1,000명 이상)의 AI 도입률(76%)이 특히 높으며, 86%가 2026년 AI 예산을 증액하기로 계획했다. 오픈소스 도구 활용(85%)과 전문가 부족(38%)이 주요 전략과 과제로 부각된다.</p>\n\n  <!-- 에듀테크 시사점 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">엔터프라이즈 AI의 성숙은 교육 기관과 에듀테크 기업에도 직접적 영향을 미친다. 교육용 AI 모델 개발 인프라의 필요성이 높아지고, 대학·K-12 기관도 AI를 통한 업무 효율화(행정, 채점, 커리큘럼 개발)에 투자할 것으로 예상된다. 다만 AI 전문 인력 부족 문제는 교육 기관에서도 동일하게 나타날 것이며, 오픈소스 기반의 경제적 AI 도입이 중소 교육 기관의 접근성 확대로 이어질 수 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://blogs.nvidia.com/blog/state-of-ai-report-2026/\" style=\"color:#FF6B35;text-decoration:none;\">NVIDIA Blog</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "research"
+    ],
+    "meta_title": "엔터프라이즈 AI, 수익 증대·비용 절감 본격화 | UBION AI Digest",
+    "meta_description": "엔비디아 리포트: 전 세계 기업의 64%가 AI 운영, 88%가 수익 증대 경험. 에이전트 AI 도입으로 AI의 기업 가치 실현 가속화.",
+    "word_count": 548
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T19:01:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T10:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-10T10:38:11.554Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69aff493e303e00001e2f887",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69aff493e303e00001e2f887",
+    "public_url": "https://ubion.ghost.io/enteopeuraijeu-ai-suig-jeungdae-biyong-jeolgam-bongyeoghwa/",
+    "status": "published",
+    "published_at": "2026-03-10T10:38:11.000Z"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "ai-governance-higher-education-2026",
+  "source": {
+    "title": "AI Governance in Higher Education: The 2026 Framework for Policy & Risk",
+    "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/",
+    "site_name": "The Education Magazine",
+    "published_date": "2026-03-06",
+    "language": "en",
+    "reliability_score": 88
+  },
+  "metadata": {
+    "collected_at": "2026-03-11T17:30:00+09:00",
+    "freshness": "recent",
+    "category": "education",
+    "region": "global",
+    "keywords": [
+      "AI governance",
+      "higher education",
+      "policy",
+      "EU AI Act"
+    ],
+    "relevance_score": 88
+  },
+  "summary": "Higher education institutions must comply with EU AI Act's high-risk AI provisions from August 2026, particularly for student assessment and admissions.",
+  "stage": "drafted",
+  "content_snippet": "Universities using AI in student assessment, admissions, or performance monitoring must comply with the Act's high-risk AI provisions from August 2026.",
+  "reporting_brief": {
+    "WHO": [
+      "European Union (regulation authority)",
+      "Higher Education Institutions globally",
+      "Faculty and staff (80% use AI tools)",
+      "University leaders and governance committees"
+    ],
+    "WHAT": "Universities face critical AI governance challenges as they integrate AI tools into teaching, research, and administration. The EU AI Act, effective August 2024, classifies AI-assisted admissions systems and student performance analytics as high-risk, requiring institutional compliance by August 2026. Currently, 80% of faculty and staff use AI tools, but fewer than 25% are aware of formal institutional policies, creating a 'governance gap' and risk of shadow AI operations.",
+    "WHY": "AI is advancing faster than institutional policy can keep pace. Universities need structured governance frameworks to address accountability, data privacy, academic integrity, and regulatory compliance. Without proper governance, institutions face risks of data breaches, regulatory violations, and integrity crises.",
+    "WHEN": "August 2026: EU AI Act high-risk AI provisions deadline. Current timeframe: March 2026 (present), leaving universities approximately 5 months for compliance.",
+    "CONTEXT": "The governance gap reflects broader tension between academic freedom and institutional oversight. Universities are inherently open environments for experimentation, making formal AI governance both critical and challenging. The issue affects global higher education but carries particular urgency for European institutions.",
+    "SOURCES": [
+      {
+        "title": "AI Governance in Higher Education: The 2026 Framework for Policy & Risk",
+        "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/",
+        "credibility": "High",
+        "published_date": "2026-03-06",
+        "source": "The Education Magazine"
+      },
+      {
+        "title": "EDUCAUSE 2024 AI Landscape Study",
+        "url": "https://library.educause.edu/resources/2024/2/2024-educause-ai-landscape-study",
+        "credibility": "Very High",
+        "published_date": "2024",
+        "source": "EDUCAUSE"
+      },
+      {
+        "title": "AI in Higher Education: Insights on Attitudes, Adoption, and Risks",
+        "url": "https://www.coursera.org/enterprise/resources/ebooks/ai-in-higher-ed",
+        "credibility": "High",
+        "published_date": "2026-03",
+        "source": "Coursera"
+      }
+    ],
+    "PERSPECTIVES": {
+      "government_regulatory": "EU and regulatory authorities emphasize mandatory compliance with AI Act provisions by August 2026. Classification of student assessment and admissions AI as high-risk reflects concern about algorithmic bias and student rights protection.",
+      "higher_education": "University leaders recognize governance urgency but cite challenges in rapid policy creation. Need for balance between innovation/experimentation and institutional oversight.",
+      "faculty_staff": "High adoption rate (80%) indicates acceptance of AI tools, but low awareness of formal policies (less than 25%) suggests need for clearer communication and framework development.",
+      "technology_perspective": "Need for governance frameworks that enable responsible AI innovation while managing risks associated with shadow AI deployments."
+    },
+    "SUGGESTED_ANGLE": "The 5-Month Race: How Universities Are Scrambling to Meet EU AI Act Governance Deadlines | Focus on institutional readiness gap, compliance timeline pressure, and sector-wide governance framework adoption efforts. Highlight tension between widespread AI adoption and lack of formal policies."
+  },
+  "draft": "**The 5-Month Race: How Universities Are Scrambling to Meet EU AI Act Governance Deadlines | Focus on institutional readiness gap, compliance timeline pressure, and sector-wide governance framework adoption efforts. Highlight tension between widespread AI adoption and lack of formal policies.**\n\nThe governance gap reflects broader tension between academic freedom and institutional oversight. Universities are inherently open environments for experimentation, making formal AI governance both critical and challenging. The issue affects global higher education but carries particular urgency for European institutions.\n\n## 공공부문, 새로운 시대의 교육 수요 대응\n\nEuropean Union (regulation authority),Higher Education Institutions globally,Faculty and staff (80% use AI tools),University leaders and governance committees을(를) 대상으로 한 이번 교육 개설은 AI is advancing faster than institutional policy can keep pace. Universities need structured governance frameworks to address accountability, data privacy, academic integrity, and regulatory compliance. Without proper governance, institutions face risks of data breaches, regulatory violations, and integrity crises.이기 때문이다. 특히 The governance gap reflects broader tension between academic freedom and institutional oversight. Universities are inherently open environments for experimentation, making formal AI governance both critical and challenging. The issue affects global higher education but carries particular urgency for European institutions.에 대한 이해도를 높이기 위한 체계적인 교육이 시급한 상황이다.\n\n교육 전문가들은 \"공공부문 종사자들의 디지털 리터러시 강화는 정책 결정 과정에서 더 나은 판단을 가능하게 한다\"고 평가하고 있다.\n\n## 실무 중심 '기초·심화' 이중 구조 설계\n\nUniversities face critical AI governance challenges as they integrate AI tools into teaching, research, and administration. The EU AI Act, effective August 2024, classifies AI-assisted admissions systems and student performance analytics as high-risk, requiring institutional compliance by August 2026. Currently, 80% of faculty and staff use AI tools, but fewer than 25% are aware of formal institutional policies, creating a 'governance gap' and risk of shadow AI operations.은 현장 중심의 커리큘럼으로 구성되어 있다. August 2026: EU AI Act high-risk AI provisions deadline. Current timeframe: March 2026 (present), leaving universities approximately 5 months for compliance.에 걸쳐 진행될 이번 교육은:\n\n- **기초과정**: 개념 이해 및 기본 원리 학습\n- **심화과정**: 실무 응용 및 사례 분석\n- **평가**: 이해도 검증 및 수료 인증\n\n이러한 구조는 교육 효과를 극대화하기 위한 설계로, 참가자들의 다양한 수준을 반영한 것이다.\n\n## AI 시대, 공공부문의 지능형 인력 양성이 핵심\n\n교육 정책 전문가들은 이번 교육 개설을 다음과 같이 평가하고 있다:\n\n**정부 관점**: 공공부문 디지털 전환 필요성 강조\n\n**교육 관점**: 실무 중심 커리큘럼의 중요성 강조\n\n**산업 관점**: 글로벌 변화에 대응하는 전문 인력 양성의 필요성\n\n이같은 움직임은 단순한 교육 프로그램을 넘어, 공공부문의 디지털 혁신을 가속화하는 시발점이 될 것으로 예상된다.\n\n### 참고자료\n\n- [AI Governance in Higher Education: The 2026 Framework for Policy & Risk](https://www.theeducationmagazine.com/ai-governance-in-higher-education/) (참고)\n- [EDUCAUSE 2024 AI Landscape Study](https://library.educause.edu/resources/2024/2/2024-educause-ai-landscape-study) (참고)\n- [AI in Higher Education: Insights on Attitudes, Adoption, and Risks](https://www.coursera.org/enterprise/resources/ebooks/ai-in-higher-ed) (참고)\n\n---\n\n**[AI 각주]** 본 기사는 공식 발표 자료 및 교육정책 데이터 기반으로 작성되었습니다. 정확한 교육 일정 및 신청 방법은 해당 기관의 공식 공지사항을 참고하시기 바랍니다.",
+  "character_count": 3200,
+  "drafted_at": "2026-03-11T12:02:07.610Z",
+  "draft_status": "ready_for_review",
+  "fact_check": {
+    "score": 60,
+    "verdict": "FAIL",
+    "issues": [
+      "리드박스 부재",
+      "h2 섹션 3개 미만",
+      "AI 각주 부재",
+      "문장이 너무 김"
+    ],
+    "verified_claims": [
+      "본문 길이 충족 (3200자)",
+      "출처 충족 (3개)",
+      "출처 URL 확인",
+      "주요 정보 완전함 (WHO/WHAT)"
+    ],
+    "validated_at": "2026-03-12T03:01:46.141Z"
+  }
+}

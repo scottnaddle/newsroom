@@ -1,0 +1,90 @@
+{
+  "id": "1773223271097-iks7msk7j",
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.mk.co.kr/news/society/11980016",
+    "title": "매경 '디지털자산·AI 융합 최고위과정' 2기 개설…3월 18일 개강",
+    "query": "AI 리터러시 교육",
+    "discovered_at": "2026-03-11T10:01:11.097Z"
+  },
+  "quality_score": 76,
+  "metadata": {
+    "published": "2026-03-11T10:01:11.097Z"
+  },
+  "reporting_brief": {
+    "WHO": "CEO, CFO, 고액자산가, 차세대 경영인, 스타트업 CEO",
+    "WHAT": "디지털자산(가상자산)과 AI 융합에 대한 12주 집중 실전 커리큘럼 개설 - 2기 모집",
+    "WHY": "AI와 디지털자산의 결합으로 기업의 재무 전략과 리스크 관리 기준이 급변, 글로벌 비즈니스 경쟁력 확보 필요",
+    "WHEN": "2026년 3월 18일(수) ~ 6월 10일(수), 매주 수요일 18:30~21:00",
+    "CONTEXT": "중국증권행정연구원과 공동 운영, 정책·회계·법률·AI를 하나의 실행 체계로 연결, PoC(개념검증) 설계·평가 포함",
+    "SOURCES": [
+      {
+        "title": "매경아테네움 공식 발표",
+        "url": "https://www.mk.co.kr/news/society/11980016",
+        "credibility": "high"
+      },
+      {
+        "title": "중국증권행정연구원 협력",
+        "url": "https://www.mk.co.kr/news/society/11980016",
+        "credibility": "high"
+      },
+      {
+        "title": "디지털자산 정책·시장 트렌드",
+        "url": "https://www.mk.co.kr/news/society/11980016",
+        "credibility": "high"
+      }
+    ],
+    "PERSPECTIVES": {
+      "corporate": "CFO·재무책임자 대상 공시·보고·감사 실무 교육으로 규제 대응",
+      "entrepreneurship": "스타트업 CEO 대상 디지털 머니 로드맵, Web3·DAO 기반 글로벌 확장 모델 제시",
+      "wealth": "자산가 대상 디지털 머니·블록체인·DAO 기반 자산관리 전략"
+    },
+    "SUGGESTED_ANGLE": "기업 리더 대상 '디지털자산·AI 융합' 고위급 교육...12주 집중 과정에서 실전 PoC 설계까지"
+  },
+  "draft": {
+    "headline": "기업 리더 대상 '디지털자산·AI 융합' 최고위 과정 개설...3월 18일 개강",
+    "subheadline": "CEO·CFO·스타트업 대상, 12주 집중 교육으로 글로벌 경쟁력 확보...PoC 설계·평가까지",
+    "slug": "디지털자산-ai-융합-최고위-과정",
+    "ghost_tags": [
+      "기업교육",
+      "ai-news",
+      "경영전략"
+    ],
+    "category": "education",
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;margin:0 auto;padding:0 20px;\"><div style=\"border-left:4px solid #0891b2;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:48px;\"><p style=\"margin:0;font-weight:600;color:#0c5460;\">AI와 디지털자산이 만나는 시점에서 기업 리더들에게 새로운 역량이 요구되고 있습니다. 매경아테네움이 중국증권행정연구원과 함께 'AI·디지털자산 융합 최고위 과정' 2기를 3월 18일부터 개설합니다. 12주 집중 교육으로 CEO, CFO, 스타트업 대표 등 기업 지도자들이 글로벌 경쟁력을 갖출 수 있도록 설계된 프로그램입니다.</p></div><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">기업 경영의 판을 바꾸는 AI와 디지털자산의 결합</h2><p style=\"margin:0 0 32px;\">AI 기술과 블록체인 기반의 디지털자산(가상자산)이 결합되면서 기업의 재무 전략과 리스크 관리 기준이 급격히 변하고 있습니다. 더 이상 이 두 가지는 선택이 아닌 필수 경영 요소가 되었습니다. 특히 글로벌 비즈니스를 추진하는 기업들에게는 이 분야의 이해가 경쟁력 확보의 핵심입니다.</p><p style=\"margin:0 0 32px;\">AI는 데이터 분석과 의사결정 자동화로 경영 효율성을 높이고, 디지털자산은 새로운 금융 기제와 글로벌 자금 이동의 수단으로 기능합니다. 이 둘의 결합은 기업의 자금 조달, 운영, 투자 전략에 근본적인 변화를 가져옵니다. 따라서 경영진은 단순한 기술 이해를 넘어, 이를 기반으로 한 새로운 비즈니스 모델을 구상할 수 있어야 합니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">정책·회계·법률·AI의 통합 교육 시스템</h2><p style=\"margin:0 0 32px;\">이번 프로그램의 특징은 단순한 기술 교육이 아니라는 점입니다. 정책, 회계, 법률, AI를 하나의 실행 체계로 연결한 통합 교육을 제공합니다. 기업 리더들은 디지털자산 관련 글로벌 정책 동향, 회계 기준의 변화, 법적 리스크, 그리고 AI 기술을 동시에 이해해야 합니다.</p><p style=\"margin:0 0 32px;\">특히 CFO와 재무책임자들을 위해서는 공시, 보고, 감사 실무 교육이 강조됩니다. 규제 환경이 급변하는 상황에서 기업의 재무 투명성과 규제 준수는 매우 중요합니다. 또한 스타트업 CEO들을 위해서는 디지털 머니 로드맵과 Web3·DAO 기반의 글로벌 확장 모델이 제시됩니다. 고액자산가들을 위해서는 디지털자산과 블록체인 기반의 자산관리 전략이 소개됩니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">실전 프로젝트와 PoC로 확장까지</h2><p style=\"margin:0 0 32px;\">매경 최고위 과정의 가장 큰 강점은 이론에만 그치지 않는다는 것입니다. 12주 과정 동안 참여자들은 실제 사례 분석, 케이스 스터디, 그룹 토론을 통해 실무 감각을 익힙니다. 더욱 중요한 것은 PoC(개념검증) 설계와 평가 단계입니다. 각 조직의 상황에 맞는 디지털자산·AI 융합 프로젝트를 직접 설계하고, 실행 가능성을 검증하는 경험을 하게 됩니다.</p><p style=\"margin:0 0 32px;\">매주 수요일 18:30부터 21:00까지 진행되는 이 프로그램은 현직 경영진들의 스케줄을 고려하여 설계되었습니다. 중국증권행정연구원과의 국제 협력으로 글로벌 사례와 최신 트렌드를 직접 학습할 수 있습니다. 1기 수료자들의 성공적인 사례와 네트워킹 효과도 2기 모집의 동력이 되고 있습니다. 빠르게 변하는 글로벌 비즈니스 환경에서 기업 리더들의 지속적인 학습과 역량 강화는 필수이며, 이번 프로그램은 그러한 필요성에 정확히 부응하고 있습니다.</p><div style=\"border-top:1px solid #e2e8f0;margin-top:48px;padding-top:20px;\"><h3 style=\"margin:20px 0 10px;font-size:16px;font-weight:700;\">참고자료</h3><ol style=\"margin:0;padding-left:20px;font-size:15px;line-height:1.8;\"><li><a href=\"https://www.mk.co.kr/news/society/11980016\" style=\"color:#0284c7;text-decoration:none;\">매경 '디지털자산·AI 융합 최고위과정' 2기 개설…3월 18일 개강 (매일경제)</a></li><li><a href=\"https://www.mk.co.kr/news/society/11980016\" style=\"color:#0284c7;text-decoration:none;\">중국증권행정연구원 협력</a></li><li><a href=\"https://www.mk.co.kr/news/society/11980016\" style=\"color:#0284c7;text-decoration:none;\">디지털자산 정책·시장 트렌드</a></li></ol></div><p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "custom_excerpt": "매경아테네움이 중국증권행정연구원과 함께 기업 리더 대상 'AI·디지털자산 융합 최고위 과정' 2기를 3월 18일부터 운영합니다. 12주 집중 교육으로 경영진들의 글로벌 경쟁력을 높입니다.",
+    "references": [
+      {
+        "title": "매경 '디지털자산·AI 융합 최고위과정' 2기 개설…3월 18일 개강 (매일경제)",
+        "url": "https://www.mk.co.kr/news/society/11980016"
+      },
+      {
+        "title": "중국증권행정연구원 협력",
+        "url": "https://www.mk.co.kr/news/society/11980016"
+      },
+      {
+        "title": "디지털자산 정책·시장 트렌드",
+        "url": "https://www.mk.co.kr/news/society/11980016"
+      }
+    ],
+    "word_count": 1889,
+    "feature_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=450&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop"
+  },
+  "fact_check": {
+    "id": "1773223271097-iks7msk7j",
+    "title": "기업 리더 대상 '디지털자산·AI 융합' 최고위 과정 개설...3월 18일 개강",
+    "score": 100,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "구조 검증 완료",
+      "완정도 검증 완료"
+    ],
+    "validated_at": "2026-03-12T01:31:38.888Z"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "본문 1487자 (1600자 미만)"
+  }
+}

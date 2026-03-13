@@ -1,0 +1,48 @@
+{
+  "stage": "rejected",
+  "pipeline": "digest",
+  "source": {
+    "title": "How AI Is Driving Revenue, Cutting Costs and Boosting Productivity for Every Industry in 2026",
+    "url": "https://blogs.nvidia.com/blog/state-of-ai-report-2026/",
+    "source_name": "NVIDIA Blog",
+    "language": "en",
+    "relevance_score": 86,
+    "summary": "NVIDIA's 2026 State of AI report examines enterprise AI adoption trends, showing how companies are scaling experimental AI projects into full deployments. The report covers ROI analysis and practical AI applications across industries, from code development to legal and financial services.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-11T01:04:00Z"
+  },
+  "digest": {
+    "headline": "엔비디아 2026 AI 현황 보고서: 기업 88%가 매출 증대 경험",
+    "lead": "엔비디아의 2026년 'AI 상태 보고서'는 3,200명 이상의 기업 임원 조사 결과를 담았다. 전체 응답 기업 중 88%가 AI로 인한 매출 증가를 경험했고, 87%는 운영 비용 절감을 보고했다. 파일럿에서 본격 배포로 전환하는 기업용 AI의 성숙기를 보여준다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">엔비디아의 2026년 'AI 상태 보고서'는 3,200명 이상의 기업 임원 조사 결과를 담았다. 전체 응답 기업 중 88%가 AI로 인한 매출 증가를 경험했고, 87%는 운영 비용 절감을 보고했다. 파일럿에서 본격 배포로 전환하는 기업용 AI의 성숙기를 보여준다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">엔비디아가 금융, 소매, 헬스케어, 통신, 제조 등 5개 산업 분야에서 2025년 8월부터 12월까지 진행한 조사에 따르면, 기업 AI 채택은 파일럿 단계를 넘어 실제 배포 단계로 전환 중이다. 전체 응답자의 64%가 조직에서 AI를 적극 활용 중이며, 28%는 평가 단계, 8%만 미도입 상태다. 북미의 경우 70%가 AI를 운영에 활용하고 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">기업들이 AI 투자 확대를 계획하고 있다는 점이 주목된다. 응답자의 86%가 2026년 AI 예산을 증가시킬 예정이며, 40% 이상은 10% 이상의 대폭 증가를 예상했다. 가장 큰 과제는 AI 전문가 부족(38%)으로, 기업들이 AI 도입은 가속화되지만 인력 확보에서 병목이 나타나고 있다. 오픈소스 활용이 중요하다는 의견도 85%에 달했다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">보고서의 핵심은 AI 인력 양성의 시급성이다. 기업 38%가 'AI 전문가 부족'을 가장 큰 난제로 꼽았으므로, 교육기관과 에듀테크 기업들의 AI 교육 프로그램 수요가 폭발적으로 증가할 것으로 예상된다. 특히 오픈소스 AI 도구 활용도가 높아지는 추세는 저비용 AI 교육 콘텐츠 개발에도 기회를 제공한다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://blogs.nvidia.com/blog/state-of-ai-report-2026/\" style=\"color:#FF6B35;text-decoration:none;\">NVIDIA Blog</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "research",
+      "technology"
+    ],
+    "meta_title": "엔비디아 2026 AI 보고서: 기업 88% 매출 증가 경험",
+    "meta_description": "엔비디아 2026년 AI 현황 보고서에서 기업용 AI 채택이 파일럿에서 본격 배포로 전환되고 있음을 보여준다. AI 전문가 부족 문제가 새로운 과제로 대두된다.",
+    "word_count": 550
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T01:04:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T01:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "rejected",
+      "reason": "Ghost API error: 422 - {\"errors\":[{\"message\":\"Validation error, cannot save post.\",\"context\":\"Validation failed for posts[0].\",\"type\":\"ValidationError\",\"details\":[{\"keyword\":\"required\",\"dataPath\":\".posts[0]\",\"schemaPath\":\"#/properties/posts/items/required\",\"params\":{\"missingProperty\":\"title\"},\"message\":\"should have required property 'title'\"}],\"property\":\"posts[0]\",\"help\":null,\"code\":null,\"id\":\"6a254b30-1cea-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}",
+      "timestamp": "2026-03-11T01:34:15.419Z"
+    }
+  ],
+  "rejection_reason": "Ghost API error: 422 - {\"errors\":[{\"message\":\"Validation error, cannot save post.\",\"context\":\"Validation failed for posts[0].\",\"type\":\"ValidationError\",\"details\":[{\"keyword\":\"required\",\"dataPath\":\".posts[0]\",\"schemaPath\":\"#/properties/posts/items/required\",\"params\":{\"missingProperty\":\"title\"},\"message\":\"should have required property 'title'\"}],\"property\":\"posts[0]\",\"help\":null,\"code\":null,\"id\":\"6a254b30-1cea-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}",
+  "rejected_at": "2026-03-11T01:34:15.419Z"
+}

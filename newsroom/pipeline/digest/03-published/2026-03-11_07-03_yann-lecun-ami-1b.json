@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Ex-Meta AI chief Yann LeCun's AMI raises $1.03 billion for alternative AI approach",
+    "url": "https://www.reuters.com/business/ex-meta-ai-chief-yann-lecuns-ami-raises-103-billion-alternative-ai-approach-2026-03-10/",
+    "source_name": "Reuters",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Advanced Machine Intelligence (AMI), founded by former Meta AI scientist Yann LeCun, raised $1.03 billion at a $3.50 billion pre-money valuation. The startup is commercializing an alternative AI approach different from the dominant large language model paradigm.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-11T07:03:00Z"
+  },
+  "digest": {
+    "headline": "얀 르쿤의 AMI, 103억 달러 펀딩으로 차세대 AI 기술 상용화",
+    "lead": "메타의 전 AI 최고과학자 얀 르쿤이 설립한 Advanced Machine Intelligence(AMI)가 35억 달러의 사전 평가액으로 10억 3천만 달러를 조달했습니다. 현재 LLM 중심의 AI 패러다임과 다른 대안적 기술 접근 방식을 상용화하는 것이 목표입니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">메타의 전 AI 최고과학자 얀 르쿤이 설립한 Advanced Machine Intelligence(AMI)가 35억 달러의 사전 평가액으로 10억 3천만 달러를 조달했습니다. 현재 LLM 중심의 AI 패러다임과 다른 대안적 기술 접근 방식을 상용화하는 것이 목표입니다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">얀 르쿤은 메타에서 AI 연구의 수장으로 있다가 지난해 퇴직한 후 AMI를 창립했습니다. AMI는 대규모 언어모델(LLM) 기반의 생성형 AI가 지배적인 현 상황에서, 전혀 다른 기술 경로를 추구하는 것으로 알려졌습니다. 이번 펀딩은 AMI의 기술 개발과 상용화를 위한 중요한 자금 확보를 의미합니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 투자는 AI 업계의 기술 다양성을 시사합니다. 현재 대부분의 투자와 주목이 LLM 기반 생성형 AI에 집중된 가운데, 저명한 AI 과학자가 대안적 접근법으로 대규모 펀딩을 받은 것은 AI 기술 지형이 다각화되고 있음을 보여줍니다. 향후 AMI의 기술이 시장에서 어떤 입지를 차지할지 주목됩니다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 기술의 다양한 접근법이 확보되고 상용화된다면, 교육 기관과 에듀테크 스타트업은 더 많은 선택지를 갖게 됩니다. LLM 기반 솔루션에만 의존하지 않고, 학습자의 개인맞춤형 교육이나 예측 분석 등 특정 교육 목표에 최적화된 AI 기술을 적용할 수 있는 기회가 확대됩니다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.reuters.com/business/ex-meta-ai-chief-yann-lecuns-ami-raises-103-billion-alternative-ai-approach-2026-03-10/\" style=\"color:#FF6B35;text-decoration:none;\">Reuters</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "research"
+    ],
+    "meta_title": "얀 르쿤의 AMI, 103억 달러 펀딩 조달 — LLM 대안 AI 기술 상용화",
+    "meta_description": "메타의 전 AI 최고과학자 얀 르쿤이 설립한 AMI가 대규모 펀딩을 받고 LLM 기반과 다른 대안적 AI 기술을 상용화합니다. 에듀테크 기술 다양성 확대의 의미를 살펴봅니다.",
+    "word_count": 587
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T07:03:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T07:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-10T22:34:29.775Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b09c705d8fee000150873a",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b09c705d8fee000150873a",
+    "public_url": "https://ubion.ghost.io/yan-reukunyi-ami-103eog-dalreo-peondingeuro-casedae-ai-gisul-sangyonghwa/",
+    "status": "published",
+    "published_at": "2026-03-10T22:34:24.000Z"
+  }
+}

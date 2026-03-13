@@ -36,7 +36,11 @@
         "source": "European Commission"
       }
     ],
-    "word_count": 1850
+    "word_count": 1850,
+    "feature_image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.856Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 92,

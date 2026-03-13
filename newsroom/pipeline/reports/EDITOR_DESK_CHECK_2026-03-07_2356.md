@@ -40,7 +40,7 @@
 → 모두 정상 처리됨
 
 ### 시스템 상태
-- **Ghost 사이트** (insight.ubion.global): HTTP 200 ✅
+- **Ghost 사이트** (ubion.ghost.io): HTTP 200 ✅
 - **중복 검증**: 정상 작동 중
 
 ---

@@ -1,0 +1,36 @@
+{
+  "id": "source-007",
+  "stage": "rejected",
+  "source": {
+    "title": "AI Governance in Higher Education: The 2026 Framework for Policy & Risk",
+    "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/",
+    "description": "Universities using AI in student assessment, admissions, or performance monitoring must comply with the Act's high-risk AI provisions from August 2026",
+    "published": "5 days ago",
+    "confidence_score": 87
+  },
+  "draft": {
+    "headline": "2026년 8월 EU AI Act 발효, 대학의 AI 거버넌스 준비 시작됐나",
+    "subheadline": "대학의 80%가 AI 도구 사용 중이나, 정책 인식은 25% 미만… '규제 갭' 심화",
+    "slug": "eu-ai-act-university-governance-2026",
+    "word_count": 1754
+  },
+  "fact_check": {
+    "score": 88,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "EU AI Act 2026년 8월 고위험 AI 규정 발효 - 공식 EU AI Act 문서 확인됨",
+      "대학의 80%가 AI 도구 사용 - EDUCAUSE 2024 AI Landscape Study에서 확인됨",
+      "정식 정책 인식 25% 미만 - EDUCAUSE 조사에서 확인됨",
+      "Shadow AI 문제 심각성 - Education Magazine 기사에서 구체적 사례 제시",
+      "학생 평가, 입시, 성과 모니터링이 고위험 분류 - EU AI Act 규정 확인됨"
+    ],
+    "validated_at": "2026-03-11T08:40:00Z"
+  },
+  "created_at": "2026-03-11T07:30:33.279Z",
+  "updated_at": "2026-03-11T08:40:00.000Z",
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

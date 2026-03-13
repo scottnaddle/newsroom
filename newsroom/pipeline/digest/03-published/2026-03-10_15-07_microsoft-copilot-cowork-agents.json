@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Microsoft taps Anthropic for Copilot Cowork in push for AI agents",
+    "url": "https://www.reuters.com/technology/artificial-intelligence/",
+    "source_name": "Reuters",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "Microsoft is partnering with Anthropic to integrate Claude into Copilot Cowork, a new product that represents Microsoft's strategic push into AI agent technology. This collaboration signals increasing enterprise adoption of specialized AI models beyond traditional partnerships.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-10T15:07:00Z"
+  },
+  "digest": {
+    "headline": "마이크로소프트, Anthropic과 협력해 AI 에이전트 플랫폼 Copilot Cowork 출시",
+    "lead": "마이크로소프트가 Anthropic과 전략적 파트너십을 체결하고 Claude를 Copilot Cowork에 통합하기로 발표했습니다. 이는 마이크로소프트의 AI 에이전트 기술 진출 의지를 보여주며, 엔터프라이즈 시장에서 다양한 AI 모델의 채용이 확대되고 있음을 시사합니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">마이크로소프트가 Anthropic과 전략적 파트너십을 체결하고 Claude를 Copilot Cowork에 통합하기로 발표했습니다. 이는 마이크로소프트의 AI 에이전트 기술 진출 의지를 보여주며, 엔터프라이즈 시장에서 다양한 AI 모델의 채용이 확대되고 있음을 시사합니다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Copilot Cowork는 마이크로소프트가 AI 에이전트 기술 시장에 진출하기 위해 개발한 제품입니다. AI 에이전트는 사용자의 지시에 따라 자동으로 복잡한 업무를 수행할 수 있는 지능형 시스템입니다. 마이크로소프트는 자체 AI 모델뿐 아니라 Anthropic의 Claude를 통합함으로써 엔터프라이즈 고객에게 선택지를 확대하고 최고 성능의 솔루션을 제공하려는 전략을 추진하고 있습니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 협력은 엔터프라이즈 AI 시장의 구도 변화를 반영합니다. 과거 한 기업이 제공하는 AI 모델에 의존하던 패턴에서 벗어나 고객이 최적의 AI 모델을 선택할 수 있는 생태계로 전환되고 있습니다. 동시에 마이크로소프트의 AI 에이전트 플랫폼이 산업 표준으로 자리잡을 가능성이 높아졌습니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 에이전트 기술의 상용화는 교육 현장 자동화를 앞당깁니다. 학생 관리, 과제 채점, 개별 맞춤형 학습 경로 설계 같은 교사의 반복 업무를 AI 에이전트가 수행할 수 있게 됩니다. 또한 여러 AI 모델의 통합으로 교육 기관도 용도에 따라 최적의 AI를 선택할 수 있는 자유도가 높아져, 에듀테크 기업들에게 다양한 파트너십 기회가 생기게 됩니다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.reuters.com/technology/artificial-intelligence/\" style=\"color:#FF6B35;text-decoration:none;\">Reuters</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "마이크로소프트-Anthropic 협력, AI 에이전트 플랫폼 Copilot Cowork 출시",
+    "meta_description": "마이크로소프트가 Anthropic과 파트너십으로 Claude 기반 AI 에이전트 플랫폼 Copilot Cowork 공개. 엔터프라이즈 AI 생태계 변화.",
+    "word_count": 590
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T15:07:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T06:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-10T07:34:55.764Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69afc99f15c2cc0001bbe0a6",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69afc99f15c2cc0001bbe0a6",
+    "public_url": "https://ubion.ghost.io/maikeurosopeuteu-anthropicgwa-hyeobryeoghae-ai-eijeonteu-peulraespom-copilot-cowork-culsi/",
+    "status": "published",
+    "published_at": "2026-03-10T07:34:55.764Z"
+  }
+}

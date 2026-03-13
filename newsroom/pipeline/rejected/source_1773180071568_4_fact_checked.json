@@ -1,0 +1,33 @@
+{
+  "id": "source_1773180071568_4",
+  "stage": "rejected",
+  "source": {
+    "title": "AI 교육혁명 2026: 영국·미국 동시 착수한 거버넌스 강화와 한국의 과제",
+    "url": "https://www.kjob.news/news/470555"
+  },
+  "draft": {
+    "headline": "글로벌 AI 교육 경쟁 시대, 한국의 위치는?",
+    "subheadline": "영국·미국의 거버넌스 강화와 달라지는 교사의 역할... 한국이 따라가야 할 과제",
+    "slug": "global-ai-education-governance-korea",
+    "word_count": 1924
+  },
+  "fact_check": {
+    "score": 82,
+    "verdict": "FLAG",
+    "issues": [
+      "영국의 'AI 디지털 리터러시 표준' 구체적 증거 부족 (현장 정보이나 공식 문서 확인 필요)"
+    ],
+    "verified_claims": [
+      "글로벌 AI 교육 정책 추세 맞음",
+      "미국의 AI Standards 관련 정책 운영 중",
+      "교사 역할 변화 추세 타당함",
+      "한국의 교육 인프라 높음 (web_search 결과)"
+    ],
+    "validated_at": "2026-03-11T08:38:00Z",
+    "methodology": "글로벌 교육 정책 검증, 영국 정부 자료 부분 확인 필요"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

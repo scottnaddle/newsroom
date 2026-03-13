@@ -62,7 +62,7 @@
 
 ### 최신 발행 기사 (3/7)
 1. **LG AI대학원, 기업이 직접 AI 석박사 키운다** (11:53) ✅
-   - Ghost URL: https://insight.ubion.global/lg-launches-south-koreas-first-corporate/
+   - Ghost URL: https://ubion.ghost.io/lg-launches-south-koreas-first-corporate/
    - 이미지: Unsplash 정상
    
 2. **UNESCO·OECD, AI 시대 교육 패러다임 전환 촉구** (11:53) ✅

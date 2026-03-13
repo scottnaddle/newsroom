@@ -1,0 +1,57 @@
+{
+  "arxiv_id": "2603.08406v1",
+  "title": "Sandpiper: Orchestrated AI-Annotation for Educational Discourse at Scale",
+  "summary": "Digital educational environments are expanding toward complex AI and human discourse, providing researchers with an abundance of data that offers deep insights into learning and instructional processes. However, traditional qualitative analysis remains a labor-intensive bottleneck, severely limiting the scale at which this research can be conducted. We present Sandpiper, a mixed-initiative system designed to serve as a bridge between high-volume conversational data and human qualitative expertise. By tightly coupling interactive researcher dashboards with agentic Large Language Model (LLM) engines, the platform enables scalable analysis without sacrificing methodological rigor. Sandpiper addresses critical barriers to AI adoption in education by implementing context-aware, automated de-identification workflows supported by secure, university-housed infrastructure to ensure data privacy. Furthermore, the system employs schema-constrained orchestration to eliminate LLM hallucinations and enforces strict adherence to qualitative codebooks. An integrated evaluations engine allows for the continuous benchmarking of AI performance against human labels, fostering an iterative approach to model refinement and validation. We propose a user study to evaluate the system's efficacy in improving research efficiency, inter-rater reliability, and researcher trust in AI-assisted qualitative workflows.",
+  "authors": [
+    "Daryl Hedley",
+    "Doug Pietrzak",
+    "Jorge Dias",
+    "Ian Burden",
+    "Bakhtawar Ahtisham",
+    "Zhuqian Zhou",
+    "Kirk Vanacore",
+    "Josh Marland",
+    "Rachel Slama",
+    "Justin Reich",
+    "Kenneth Koedinger",
+    "René Kizilcec"
+  ],
+  "categories": [
+    "cs.HC",
+    "cs.CL",
+    "cs.HC"
+  ],
+  "published": "2026-03-09T14:01:42Z",
+  "updated": "2026-03-09T14:01:42Z",
+  "pdf_url": "https://arxiv.org/pdf/2603.08406v1",
+  "abs_url": "https://arxiv.org/abs/2603.08406v1",
+  "source": "arxiv",
+  "relevance_score": 89,
+  "source_query": "abs:LLM AND abs:education",
+  "collected_at": "2026-03-10T18:00:22.790Z",
+  "stage": "rejected",
+  "audit_log": [
+    {
+      "agent": "paper-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T18:00:30.847Z",
+      "source": "arxiv",
+      "relevance_score": 89
+    },
+    {
+      "agent": "paper-summarizer",
+      "action": "summarized",
+      "timestamp": "2026-03-11T01:09:39.890Z",
+      "model": "glm-4-plus"
+    }
+  ],
+  "korean_title": "샌드파이퍼: 대규모 교육적 담화를 위한 조율형 AI-주석 시스템",
+  "korean_summary": "본 연구에서는 대규모 교육 대화 데이터의 분석을 자동화하면서도 방법론적 엄밀성을 유지하는 혼합형 시스템 '샌드파이퍼(Sandpiper)'를 제안합니다. 이 시스템은 인간 전문가의 질적 분석 능력과 AI의 대규모 처리 능력을 결합하여 연구의 효율성과 신뢰도를 높이고, 데이터 프라이버시를 보장하는 안전한 인프라를 제공합니다.",
+  "key_findings": [
+    "샌드파이퍼는 상황인지형 자동 비식별화 워크플로우와 대학 기반의 보안 인프라를 통해 교육 데이터 분석 시 AI 채택의 핵심적인 장벽인 데이터 프라이버시 문제를 해결합니다.",
+    "스키마 제약 조합(schema-constrained orchestration) 기법을 통해 LLM의 환각(hallucination) 현상을 제거하고, 엄격한 질적 코드북(codebook) 준수를 강제하여 분석의 정확성을 보장합니다.",
+    "통합된 평가 엔진을 통해 AI 성능을 인간 라벨과 지속적으로 벤치마킹하고, 이를 통해 모델 개선 및 검증을 위한 반복적인 접근법을 가능하게 합니다."
+  ],
+  "implications": "샌드파이퍼는 교육 연구자들이 대규모 데이터를 효율적으로 분석하여 더 깊이 있는 교육적 통찰을 얻을 수 있도록 지원합니다. 이는 AI와 인간의 협업을 통해 교육 연구의 질적 깊이와 양적 규모를 동시에 확보하는 새로운 패러다임을 제시합니다.",
+  "error": "HTTP 401: {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"17919860-1d21-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}"
+}

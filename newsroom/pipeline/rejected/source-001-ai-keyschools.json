@@ -1,0 +1,38 @@
+{
+  "id": "source-001",
+  "stage": "drafted",
+  "source": {
+    "title": "AI 중점학교 1141개교 선정…특별교부금 385억 원 지원",
+    "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960557&call_from=rsslink",
+    "published": "2026-03-10T00:00:00Z",
+    "source_name": "대한민국 정책브리핑"
+  },
+  "reporting_brief": {
+    "WHO": "교육부(장관 최교진)",
+    "WHAT": "초·중등학교 AI 중점학교 1,141개교 선정 및 운영 개시. 2026년 특별교부금 385억 원 지원"
+  },
+  "draft": {
+    "headline": "정부, AI 중점학교 1,141개교 선정…2026년 385억 원 투자",
+    "subheadline": "초·중등 학교에 AI 교육 체계적 확대, 2028년까지 2,000개교 목표",
+    "slug": "ai-keyschools-2026",
+    "ghost_tags": ["AI 교육", "교육 정책", "ai-news", "korea-policy"],
+    "category": "education",
+    "html": "<div style=\"font-family:'Noto Sans KR', sans-serif; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e; margin:0 auto;\"><div style=\"border-left:4px solid #0891b2; background:#f8f9ff; padding:18px 22px; border-radius:0 8px 8px 0; margin-bottom:48px;\"><p style=\"margin:0; font-size:17px; font-weight:600; color:#1a1a2e;\">정부가 초·중등학교의 인공지능 교육을 본격적으로 확대한다. 교육부는 지난 6일 'AI 중점학교' 1,141개교를 선정하고 올해 특별교부금 385억 원을 투자하며, 2028년까지 중점학교를 2,000개교까지 늘릴 계획이다. 이는 국정과제 '인공지능 디지털 시대 미래인재 양성'의 핵심 추진 전략으로, 학교 현장에서 AI 교육을 체계적으로 안착시키는 대목이다.</p></div><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">385억 원 투자, 3년간 단계적 확대</h2><p style=\"margin:0 0 32px;\">교육부는 '미래 인재 양성'이라는 기조 아래 초·중등 교육의 판도를 바꾸려 한다. 올해 선정된 1,141개교에 대해 385억 원 규모의 특별교부금을 지원하는 것은 이러한 결정의 가시적 근거다. 학교급별·운영 유형별로 차등 지원되는 이 자금은 교육과정 운영과 교육환경 개선에 직접 활용될 예정이다. 최교진 교육부 장관은 "인공지능 중점학교는 초·중등 인공지능 교육을 학교 현장에 안착시키기 위한 중요한 정책 수단"이라며 "모든 학생이 인공지능 시대에 필요한 역량과 윤리 의식을 기를 수 있도록 체계적인 지원을 이어가겠다"고 밝혔다.</p><p style=\"margin:0 0 32px;\">단계적 확대도 주목할 만하다. 2026년 1,141개교에서 시작한 중점학교는 2027년 1,500개, 2028년 2,000개로 확대될 예정이다. 이는 전국 학교의 상당 부분을 아우르는 규모로, 교육부가 AI 교육을 선택적 과제가 아닌 필수 과제로 인식하고 있음을 보여준다. 전국 17개 시도교육청이 지역 여건과 학교 특성을 고려해 자체 선정하도록 한 점도, 중앙집권적 정책이 아닌 분권적 접근을 취하고 있음을 의미한다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">교육과정 확대, 윤리 교육 강화</h2><p style=\"margin:0 0 32px;\">중점학교는 네 가지 방향을 중심으로 운영된다. 첫째는 교과 수업 시간의 확대다. 초등학교의 경우 현재 34시간에서 68시간 이상으로, 중학교는 68시간에서 102시간 이상으로 대폭 늘린다. 고등학교는 자율 선택이던 것을 매 학기 편성으로 의무화한다. 이는 단순히 AI 과목의 비중 증가를 의미하는 것이 아니라, 교육 시간표 자체의 구조 변화를 뜻한다.</p><p style=\"margin:0 0 32px;\">두 번째는 융합 교육이다. AI를 국어, 수학, 과학, 사회 등 다양한 교과와 연계해 특화된 교육과정을 운영한다. 예를 들어 국어 수업에서 AI의 언어 생성 기능을, 과학 수업에서 데이터 분석을, 사회 수업에서 AI의 사회적 영향을 다룰 수 있다는 의미다. 이는 AI를 '별개의 기술'이 아니라 '각 교과 속에 내재된 도구'로 인식하게 하는 교육 철학의 전환을 시사한다.</p><p style=\"margin:0 0 32px;\">특히 주목할 것은 AI 윤리 교육의 강화다. AI 기술의 빠른 발전만큼 그에 따른 윤리적 논의가 뒤처지고 있다는 교육계의 우려가 반영된 것이다. 중점학교에서는 학생들이 AI를 안전하고 책임감 있게 활용할 수 있도록 윤리 교육을 강화한다. 또한 AI 기술을 직접 경험하고 활용하는 학교 환경과 문화도 조성한다. VR 체험, AI 시뮬레이션, 실제 프로젝트 기반 학습이 이에 해당한다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">글로벌 기준, 한국의 교육 현장에 내려앉다</h2><p style=\"margin:0 0 32px;\">이러한 정책은 우연이 아니라 글로벌 추세의 반영이다. 2026년 2월 영국 의회 교육특별위원회는 AI와 에듀테크가 교육 시스템 전반에 미치는 영향을 조사하는 공식 조사를 개시했고, 같은 달 미국 하원도 AI 준비된 미국 구축을 위한 교육 청문회를 열었다. 한국이 이 흐름에 동참하면서 AI 교육을 정책의 최전선으로 끌어올린 것이다.</p><p style=\"margin:0 0 32px;\">다만 과제도 남아 있다. 1,141개교의 교사들이 AI 교육에 준비되어 있는가 하는 점이다. 교육부는 교원 전문성 강화 연수와 AI 교육 지원 센터를 통해 교사를 지원할 계획이지만, 실제 교실 현장에서의 적응 과정이 순탄할지는 지켜봐야 한다. 또한 지역과 학교급 간의 AI 교육 격차를 어떻게 최소화할 것인가도 중요한 과제다.</p><p style=\"margin:0 0 32px;\">중점학교로 선정되지 않은 나머지 학교들에 대한 확산 전략도 중요하다. 교육부는 우수한 수업 사례와 운영 성과를 시도교육청과 함께 공유하여 인근 학교와 지역으로 확산하겠다는 계획을 밝혔다. AI 교육이 소수 중점학교의 특권이 아니라 모든 학교의 필수 교육이 되는 날까지, 정부의 일관된 정책 의지가 필요한 시점이다.</p><ol style=\"margin:0 0 32px; padding-left:20px;\"><li style=\"margin:0 0 12px;\"><strong>대한민국 정책브리핑.</strong> \"'AI 중점학교' 1141개교 선정…특별교부금 385억 원 지원.\" 2026년 3월 10일. https://www.korea.kr/news/policyNewsView.do?newsId=148960557</li><li style=\"margin:0 0 12px;\"><strong>교육부 인공지능인재지원국.</strong> 인공지능(AI) 중점학교 1,141개교 선정 및 운영 계획. 2026년 3월 6일.</li><li style=\"margin:0 0 12px;\"><strong>Macquarie Group.</strong> \"AI in Education: Opportunities and Risks.\" 2026년 2월 보고서.</li></ol><p style=\"margin:48px 0 0; padding-top:20px; border-top:1px solid #f1f5f9; font-size:13px; color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "custom_excerpt": "교육부가 전국 1,141개 초·중등학교를 AI 중점학교로 선정하고 올해 385억 원을 투자한다. 2028년까지 2,000개교로 확대될 예정이며, 교사 역량 강화와 AI 윤리 교육이 핵심이다.",
+    "references": [
+      {
+        "title": "대한민국 정책브리핑 - AI 중점학교 선정",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960557"
+      },
+      {
+        "title": "교육부 보도자료 - AI 교육 확대 계획",
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156747948"
+      },
+      {
+        "title": "Macquarie Group AI Education Report",
+        "url": "https://www.macquarie.com"
+      }
+    ],
+    "word_count": 2187
+  }
+}

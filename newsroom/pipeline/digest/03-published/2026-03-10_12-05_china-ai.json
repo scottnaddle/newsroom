@@ -1,0 +1,62 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Artificial Intelligence Breakthroughs in March 2026",
+    "url": "https://www.devflokers.com/blog/ai-breakthroughs-march-2026",
+    "source_name": "DevFlokers",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "China's AI advancement: Alibaba Qwen 3.5, DeepSeek V4, and intense user acquisition campaigns"
+  },
+  "digest": {
+    "headline": "중국 AI 경쟁 가열화, 알리바바·디ープ시크 주도 기술 경쟁과 대규모 투자",
+    "lead": "중국 AI 기업들이 3월을 기점으로 기술·마케팅 경쟁을 급속도로 확대하고 있다. 알리바바의 Qwen 3.5는 2시간 분량의 비디오 분석 가능한 멀티모달 AI로 출시되었고, 디ープ시크는 추론 성능 극대화를 표방한 V4 출시를 예정했다. 구정 시즌에만 30억 위안 규모의 사용자 확보 비용이 투입되면서, 글로벌 AI 생태계의 다극화를 예고한다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">⚡ AI Digest</span>\n  </div>\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">중국 AI 기업들이 3월을 기점으로 기술·마케팅 경쟁을 급속도로 확대하고 있다. 알리바바의 Qwen 3.5는 2시간 분량의 비디오 분석 가능한 멀티모달 AI로 출시되었고, 디ープ시크는 추론 성능 극대화를 표방한 V4 출시를 예정했다. 구정 시즌에만 30억 위안 규모의 사용자 확보 비용이 투입되면서, 글로벌 AI 생태계의 다극화를 예고한다.</p>\n  </div>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">2월 16일 알리바바는 Qwen 3.5를 공개했다. 이 모델의 특징은 멀티모달 능력 강화: 텍스트, 이미지, 최대 2시간 동영상을 분석할 수 있다. 알리바바는 마케팅 영상 생성, 코드 작성, 번역 등 '자율 에이전트' 역할을 강조했다. 동시에 중국 기업들은 구정(음력 설) 동안 대규모 현금 지급으로 사용자 확보에 나섰다: 알리바바 30억 위안, 텐센트 10억, 바이두 5억. DeepSeek은 작년 R1 챗봇 출시로 글로벌 시장을 흔들었고, 2026년 3월 V4 출시를 예정하고 있다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">중국 AI 진전은 글로벌 경쟁 지형 변화의 신호다. 기존 OpenAI·Google·Microsoft 중심 구도에 알리바바·바이두·텐센트·디ープ시크가 강력한 대항마로 부상했다. 기술 측면에선 멀티모달·동영상 이해·비용 효율성에서 중국 모델의 진전이 두드러진다. 마케팅 투자 규모와 정부 지원을 고려하면, 중국은 2026년 말까지 국내시장 130개 이상의 LLM 운영을 통해 표준화 움직임까지 추진할 가능성이 높다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">중국의 AI 생태계 확장은 아시아 교육 기술 시장에 직접적 영향을 미친다. 동영상 기반 학습 콘텐츠 생성, 다국어 교육(한국·일본어 등)의 자동화, 비용 효율적 AI 백엔드 선택지 다양화가 진행될 것으로 예상된다. 특히 한국·일본 에듀테크 기업들은 기존 서방 AI 모델에 의존 대신 중국·로컬 모델 통합을 검토할 필요가 생겼다. 글로벌 AI 교육 표준 논의에서도 다극화가 예상되며, 각 지역 규제·윤리 기준 차이가 교육 AI 서비스 설계에 미치는 영향을 고려해야 한다.</p>\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.devflokers.com/blog/ai-breakthroughs-march-2026\" style=\"color:#FF6B35;text-decoration:none;\">DevFlokers</a></p>\n  </div>\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "regulation"
+    ],
+    "meta_title": "중국 AI 경쟁 가열, 알리바바·디ープ시크 V4 출시와 아시아 에듀테크 영향",
+    "meta_description": "알리바바 Qwen 3.5, 디ープ시크 V4 출시로 중국 AI 경쟁 심화. 한국·일본 에듀테크 기업에 미치는 글로벌 AI 다극화 영향.",
+    "word_count": 560
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T12:05:21Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T21:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "publish_failed",
+      "timestamp": "2026-03-10T12:35:25.163Z",
+      "details": "Ghost API error 401: {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"9cbe6850-1c7d-11f1-a253-6331647287ad\",\"ghostErrorCode\":null}]}"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-10T12:35:54.297Z"
+    }
+  ],
+  "error": {
+    "agent": "digest-publisher",
+    "action": "publish_failed",
+    "timestamp": "2026-03-10T12:35:25.162Z",
+    "error_message": "Ghost API error 401: {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"9cbe6850-1c7d-11f1-a253-6331647287ad\",\"ghostErrorCode\":null}]}"
+  },
+  "publish_result": {
+    "ghost_post_id": "69b0102ae303e00001e2f8bb",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b0102ae303e00001e2f8bb",
+    "public_url": "https://ubion.ghost.io/junggug-ai-gyeongjaeng-gayeolhwa-alribabadisikeu-judo-gisul-gyeongjaenggwa-daegyumo-tuja/",
+    "status": "published",
+    "published_at": "2026-03-10T12:35:54.297Z"
+  }
+}

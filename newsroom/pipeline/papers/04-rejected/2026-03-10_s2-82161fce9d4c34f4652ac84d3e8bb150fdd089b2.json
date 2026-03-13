@@ -1,0 +1,43 @@
+{
+  "arxiv_id": "s2-82161fce9d4c34f4652ac84d3e8bb150fdd089b2",
+  "title": "Towards informed policy decisions: assessing student perceptions and intentions to use ChatGPT for academic performance in higher education",
+  "summary": "ABSTRACT Artificial Intelligence holds vast potential in academia, yet concerns arise regarding its usage. This study examines students’ perceptions and intentions to use ChatGPT through the signalling and elaboration likelihood model, which offers valuable insights into the transmission and procession of information. Two adoption approaches are considered: the peripheral route involves the utilization of simple cues requiring less cognitive effort, such as credibility, content quality, and critical mass, while the central route requires a person to critically evaluate the information rooted in perceived usefulness and technical advantages. Critical reasoning and digital efficacy are examined as moderating variables. Using convenience sampling, data from 694 respondents are collected via WeChat and www.wjx.cn in China. Structural Equation Modeling reveals a significant positive impact of perceived usefulness, technical advantages, credibility, content quality, and critical mass on student perceptions and intentions to use ChatGPT for academic performance. The findings inform policymakers and educators on AI tool integration in higher education, stressing the importance of understanding student perceptions and intentions. ChatGPT’s perceived benefits and challenges underscore its influence on student performance and educational practices. This study advocates for ethical guidelines and support systems to address AI integration concerns, emphasizing critical reasoning and digital proficiency as pivotal factors.",
+  "authors": [
+    "Fiaz Hussain",
+    "Muhammad Azfar Anwar"
+  ],
+  "categories": [],
+  "published": "2024-11-04",
+  "updated": "2024-11-04",
+  "pdf_url": "https://www.semanticscholar.org/paper/82161fce9d4c34f4652ac84d3e8bb150fdd089b2",
+  "abs_url": "https://www.semanticscholar.org/paper/82161fce9d4c34f4652ac84d3e8bb150fdd089b2",
+  "source": "semantic-scholar",
+  "relevance_score": 73,
+  "source_query": "ChatGPT education academic performance",
+  "collected_at": "2026-03-10T18:00:29.845Z",
+  "stage": "rejected",
+  "audit_log": [
+    {
+      "agent": "paper-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T18:00:30.852Z",
+      "source": "semantic-scholar",
+      "relevance_score": 73
+    },
+    {
+      "agent": "paper-summarizer",
+      "action": "summarized",
+      "timestamp": "2026-03-11T05:05:55.637Z",
+      "model": "glm-4-plus"
+    }
+  ],
+  "korean_title": "정책 결정을 위한 근거: 고등 교육에서 ChatGPT의 학업 성취 활용을 위한 학생의 인식과 의도 평가",
+  "korean_summary": "이 연구는 중국 대학생 694명을 대상으로 ChatGPT에 대한 인식과 사용 의도를 분석했습니다. 연구 결과, 학생들은 ChatGPT의 유용성, 기술적 우위, 신뢰성, 콘텐츠 품질, 그리고 중요도(크리티컬 매스)에 긍정적으로 반응하여 학업에 활용하려는 의도가 높음을 확인했습니다. 이는 AI 도구 교육 현장 도입 시, 학생들의 인식과 의도를 이해하고 윤리 가이드라인 및 지원 시스템을 마련하는 것이 중요함을 시사합니다.",
+  "key_findings": [
+    "학생들의 ChatGPT 사용 의도는 지각된 유용성, 기술적 우위, 신뢰성, 콘텐츠 품질, 그리고 중요도에 모두 긍정적인 영향을 받습니다.",
+    "인지적 평가(중심 경로)와 단순한 단서 활용(주변 경로) 모두 학생들의 긍정적인 인식과 사용 의도에 유의미한 영향을 미치는 것으로 나타났습니다.",
+    "비판적 사고 능력과 디지털 효능감은 AI 도구의 교육적 통합을 이끌어가는 핵심적인 중요한 요소로 작용합니다."
+  ],
+  "implications": "교육 현장은 단순히 AI 도구의 긍정적 측면만 강조하기보다는, 학생들이 비판적으로 활용할 수 있도록 윤리적 가이드라인과 지원 체계를 마련해야 합니다. 또한, 학생들의 디지털 소양과 비판적 사고력을 기르는 교육을 통해 AI 시대에 필요한 역량을 함양하는 것이 무엇보다 중요합니다.",
+  "error": "HTTP 401: {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"5cac0360-1d42-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}"
+}

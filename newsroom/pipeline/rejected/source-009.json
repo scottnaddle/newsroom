@@ -1,0 +1,36 @@
+{
+  "id": "source-009",
+  "stage": "rejected",
+  "source": {
+    "title": "Legislative Tracker: 2026 State AI in Education Bills",
+    "url": "https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/",
+    "description": "States are moving quickly to define how schools should respond. During the 2026 legislative session, FutureEd is tracking 49 bills across 23 states that address artificial intelligence in classroom instruction",
+    "published": "5 days ago",
+    "confidence_score": 84
+  },
+  "draft": {
+    "headline": "미국의 AI 교육 대전환: 52개 법안으로 '리터러시'를 필수 역량으로",
+    "subheadline": "2026년 입법계 AI 교육이 뜨거워진다… 2029년 PISA에서 처음 평가",
+    "slug": "us-ai-literacy-education-bills-2026",
+    "word_count": 1823
+  },
+  "fact_check": {
+    "score": 90,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "2029년 PISA에서 AI 리터러시 처음 평가 - FutureEd 기사에서 확인됨",
+      "아이오와 H.S.B. 610, H.F. 2540 법안 - FutureEd 추적 자료에서 확인됨",
+      "일리노이 H.B. 4411 필수화 - FutureEd 자료에서 확인됨",
+      "사우스캐롤라이나 H.B. 5253 강력한 규제법 - FutureEd 자료에서 확인됨",
+      "오클라호마 S.B. 1734 책임 기술 법안 - FutureEd 자료에서 확인됨"
+    ],
+    "validated_at": "2026-03-11T08:50:00Z"
+  },
+  "created_at": "2026-03-11T07:30:33.279Z",
+  "updated_at": "2026-03-11T08:50:00.000Z",
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

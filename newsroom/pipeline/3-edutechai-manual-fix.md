@@ -12,7 +12,7 @@
 
 ### 수동 업데이트 방법
 
-1. Ghost Admin: https://insight.ubion.global/ghost/#/editor/posts/69af6192ff4fbf0001ab7d4c
+1. Ghost Admin: https://ubion.ghost.io/ghost/#/editor/posts/69af6192ff4fbf0001ab7d4c
 2. HTML 에디터에서 모든 내용 삭제
 3. 아래 HTML 전체 복사해서 붙여넣기
 4. Status: **draft** 로 변경
@@ -69,7 +69,7 @@
 
 ### 수동 업데이트 방법
 
-1. Ghost Admin: https://insight.ubion.global/ghost/#/editor/posts/69af6193ff4fbf0001ab7d56
+1. Ghost Admin: https://ubion.ghost.io/ghost/#/editor/posts/69af6193ff4fbf0001ab7d56
 2. HTML 에디터에서 모든 내용 삭제
 3. 아래 HTML 전체 복사해서 붙여넣기
 4. Status: **draft** 로 변경
@@ -125,7 +125,7 @@
 
 ### 수동 업데이트 방법
 
-1. Ghost Admin: https://insight.ubion.global/ghost/#/editor/posts/69af6193ff4fbf0001ab7d60
+1. Ghost Admin: https://ubion.ghost.io/ghost/#/editor/posts/69af6193ff4fbf0001ab7d60
 2. HTML 에디터에서 모든 내용 삭제
 3. 아래 HTML 전체 복사해서 붙여넣기
 4. Status: **draft** 로 변경

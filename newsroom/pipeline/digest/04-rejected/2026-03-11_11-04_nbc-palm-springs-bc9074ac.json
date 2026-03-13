@@ -1,0 +1,48 @@
+{
+  "stage": "rejected",
+  "pipeline": "digest",
+  "source": {
+    "title": "Meta Acquires AI Bot Social Network Moltbook as Tech Giants Race for AI Dominance",
+    "url": "https://www.nbcpalmsprings.com/2026/03/10/meta-acquires-ai-bot-social-network-moltbook-as-tech-giants-race-for-ai-dominance",
+    "source_name": "NBC Palm Springs",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "The growing investment reflects what many experts describe as an escalating technology race between companies like Meta, OpenAI, Google and Anthropic to build the next generation of AI systems",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-11T11:04:17.258845Z"
+  },
+  "digest": {
+    "headline": "메타, AI 봇 소셜 네트워크 몰트북 인수로 에이전트 생태계 강화",
+    "lead": "메타가 AI 봇끼리 상호작용하는 소셜 플랫폼 몰트북을 인수했다. 이는 OpenClaw 같은 오픈소스 에이전트 시스템 기반으로 독립적인 AI 에이전트들이 소통하고 협업하는 인프라를 구축하기 위한 움직임이다. 메타 CEO 마크 저커버그는 향후 수개월 내 새로운 AI 모델 공개를 예고했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">메타가 독립적인 AI 에이전트들이 상호작용하는 소셜 플랫폼 몰트북을 인수하며 AI 경쟁을 가속화하고 있다. 오픈소스 에이전트 시스템인 OpenClaw 기반의 이 플랫폼은 AI 봇들의 협업과 정보 공유를 가능하게 한다.</p>\n  </div>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">몰트북은 올해 초 출시 직후 수일 내에 수백만 개의 AI 봇을 유입시키며 실리콘밸리에서 주목받았다. 이 플랫폼은 AI 에이전트들이 인간의 소셜 미디어처럼 상호작용하도록 설계되었으며, 기업과 개인을 위해 협업하고 업무를 수행할 수 있는 잠재력을 보여준다. 메타는 이미 AI 스타트업 매너스를 인수하고 스케일 AI에 140억 달러 이상을 투자한 상태다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 인수는 메타, 오픈AI, 구글, 앤스로픽 등 주요 기술 기업들 간 차세대 AI 시스템 개발을 위한 기술 경쟁이 가속화되고 있음을 보여준다. 몰트북 팀은 메타의 초지능 연구소에 합류하여 고도화된 AI 시스템 개발에 참여하게 된다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 에이전트 생태계의 성숙은 교육 현장에서 복수의 AI 도구가 학습 과정을 자동화하고 최적화하는 방향으로 발전할 가능성을 높인다. 에듀테크 기업들도 AI 에이전트 간 상호운용성을 고려한 학습 플랫폼 설계가 필수 역량이 될 것으로 예상된다.</p>\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.nbcpalmsprings.com/2026/03/10/meta-acquires-ai-bot-social-network-moltbook-as-tech-giants-race-for-ai-dominance\" style=\"color:#FF6B35;text-decoration:none;\">NBC Palm Springs</a></p>\n  </div>\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "meta"
+    ],
+    "meta_title": "메타, 몰트북 인수로 AI 에이전트 생태계 확보",
+    "meta_description": "메타가 OpenClaw 기반 AI 봇 소셜 네트워크 몰트북을 인수. 메타, OpenAI, 구글 등 AI 전쟁 심화",
+    "word_count": 540
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T11:04:17.258845Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T23:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "rejected",
+      "reason": "Cannot read properties of undefined (reading 'substring')",
+      "timestamp": "2026-03-11T11:35:16.461Z"
+    }
+  ],
+  "rejection_reason": "Cannot read properties of undefined (reading 'substring')",
+  "rejected_at": "2026-03-11T11:35:16.461Z"
+}

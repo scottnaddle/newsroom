@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * Ghost Admin API 테스트 - insight.ubion.global 직접 연결
+ * Ghost Admin API 테스트 - ubion.ghost.io 직접 연결
  * 목적: redirect 제거 후 API 재검증
  */
 
@@ -232,7 +232,7 @@ class GhostAPITest {
     console.log('\n해결 방법:');
     console.log('   1. API Key 재확인 (Ghost Admin > Integrations)');
     console.log('   2. API Key 형식 확인 (key_id:secret)');
-    console.log('   3. 도메인 확인 (https://insight.ubion.global)');
+    console.log('   3. 도메인 확인 (https://ubion.ghost.io)');
     console.log('   4. GHOST_API_TEST.md 참고');
   }
 

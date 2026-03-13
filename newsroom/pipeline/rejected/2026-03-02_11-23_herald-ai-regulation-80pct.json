@@ -104,7 +104,7 @@
     "word_count": 825,
     "article_type": "news",
     "feature_image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=1200&h=630&fit=crop&q=85&auto=format",
-    "og_image": "https://insight.ubion.global/content/images/2026/03/og-69a916eae2eb440001d55919.png"
+    "og_image": "https://ubion.ghost.io/content/images/2026/03/og-69a916eae2eb440001d55919.png"
   },
   "fact_check_report": {
     "overall_confidence": 93,
@@ -318,7 +318,7 @@
   ],
   "publish_result": {
     "ghost_post_id": "69a9feb0ff4fbf0001ab6bec",
-    "ghost_edit_url": "https://insight.ubion.global/ghost/#/editor/post/69a9feb0ff4fbf0001ab6bec",
+    "ghost_edit_url": "https://ubion.ghost.io/ghost/#/editor/post/69a9feb0ff4fbf0001ab6bec",
     "status": "published",
     "published_at": "2026-03-05T22:07:45.224Z"
   },

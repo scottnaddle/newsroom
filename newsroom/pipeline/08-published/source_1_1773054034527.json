@@ -60,7 +60,11 @@
     "word_count": 2319,
     "category": "교육",
     "meta_title": "금지 대신 필수 교양으로…대학가 덮친 AI, 교육·평가 판도 바꾼다",
-    "meta_description": "body { font-family: 'Noto Sans KR'; margin: 0; padding: 20px; } .wrapper { max-width: 680px; margin: 0 auto; font-size: 17px; line-height: 1.9; color:"
+    "meta_description": "body { font-family: 'Noto Sans KR'; margin: 0; padding: 20px; } .wrapper { max-width: 680px; margin: 0 auto; font-size: 17px; line-height: 1.9; color:",
+    "feature_image": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.857Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 100,
@@ -85,7 +89,5 @@
     "text_length": 2297,
     "checked_at": "2026-03-09T11:01:27.485Z"
   },
-  "ghost_id": "69aea888ff4fbf0001ab7992",
-  "ghost_url": "https://insight.ubion.global/p/fc14e795-703c-4ecd-b550-e08bd018a1f5/",
   "published_at": "2026-03-09T11:01:28.742Z"
 }

@@ -1,0 +1,25 @@
+{
+  "id": "liberal-arts-ai-era",
+  "stage": "rejected",
+  "draft": {
+    "headline": "인공지능 시대, 왜 인문학교육이 더 중요한가?",
+    "subheadline": "기술 능력은 AI가 제공, 이제 인간의 판단력과 윤리 역량이 경쟁력",
+    "slug": "liberal-arts-ai-era",
+    "word_count": 1840
+  },
+  "fact_check": {
+    "score": 90,
+    "verdict": "PASS ✅",
+    "verified_claims": [
+      "Washington Post 의견칼럼 (March 2, 2026) - 확인됨",
+      "AI가 기술 능력을 덜 가치 있게 만들었다는 주장 - 확인됨",
+      "US News 관련 기사 (January 23, 2026) - 확인됨",
+      "리버럴 아츠 교육의 중요성 논의 - 확인됨"
+    ],
+    "validated_at": "2026-03-11T17:32:00+09:00"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

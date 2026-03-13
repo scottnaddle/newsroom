@@ -1,0 +1,58 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Intel Stock Eyes $47 Breakout During AI-Driven Chip Shortage",
+    "url": "https://www.benzinga.com/markets/tech/26/03/51164177/intel-hits-full-capacity-as-ai-infrastructure-boom-triggers-global-chip-shortage-and-stock-breakout",
+    "source_name": "Benzinga",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Intel and other semiconductor stocks rebounded as investors assess new US export policy discussions. The Trump administration is considering a framework to regulate advanced AI chip exports from NVIDIA and AMD. Global AI infrastructure boom is triggering a chip shortage with Intel running at full capacity.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-11T17:04:00Z"
+  },
+  "digest": {
+    "headline": "AI 인프라 수요로 Intel 공장 풀가동, 글로벌 칩 부족 심화",
+    "lead": "AI 인프라 급속 확산으로 프로세서 수요가 급증하면서 Intel을 포함한 반도체 업체들의 공장이 정상 가동 능력을 초과하고 있다. Intel의 Dave Zinsner CFO는 서버 프로세서 수요가 강하며 내년까지 지속될 수 있다고 밝혔다. 이러한 상황 속에서 미국 정부의 첨단 AI 칩 수출 규제 논의도 업계에 영향을 미치고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">⚡ AI Digest</span>\n  </div>\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">AI 인프라 급속 확산으로 프로세서 수요가 급증하면서 Intel을 포함한 반도체 업체들의 공장이 정상 가동 능력을 초과하고 있다. Intel의 Dave Zinsner CFO는 서버 프로세서 수요가 강하며 내년까지 지속될 수 있다고 밝혔다. 이러한 상황 속에서 미국 정부의 첨단 AI 칩 수출 규제 논의도 업계에 영향을 미치고 있다.</p>\n  </div>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">최근 미국의 이란전 종료 신호와 반도체 산업의 수출 규제 논의가 겹치면서 반도체 주가가 회복세를 보이고 있다. Intel은 지난해 서버 시장에서 20% 이상의 단위 성장을 기록했으며, 올해도 수요가 강할 것으로 예상된다. 하지만 Intel을 비롯한 업체들의 공장은 정상 가동 능력에 도달했거나 초과하는 상황이다. 미국 정부는 NVIDIA, AMD 등의 첨단 AI 칩 수출 통제를 논의 중이며, 이는 글로벌 AI 데이터센터 확충 경쟁에 영향을 미칠 전망이다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">글로벌 AI 인프라 경쟁 심화 속에서 반도체 생산 능력의 한계가 명확해지고 있다. 서버 프로세서 부족은 데이터센터 확충 속도를 제한할 수 있으며, 이는 AI 모델 학습과 배포를 위한 클라우드 서비스 가격 상승으로 이어질 수 있다. Intel의 craig Barratt 신임 이사회 의장 취임은 경영 안정화 신호로 해석되고 있으며, 미국의 반도체 산업 지원 정책(CHIPS Act)의 실질적 효과가 주목되는 상황이다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 칩 부족 심화는 에듀테크 스타트업의 AI 모델 학습 및 배포 비용 상승으로 직결된다. 기업용 AI 서비스 접근 비용 증가는 중소 에듀테크 업체의 AI 투자 결정을 지연시킬 수 있으며, 반면 자체 인프라를 보유한 대형 교육 기업들의 경쟁 우위는 더욱 강화될 가능성이 높다.</p>\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.benzinga.com/markets/tech/26/03/51164177/intel-hits-full-capacity-as-ai-infrastructure-boom-triggers-global-chip-shortage-and-stock-breakout\" style=\"color:#FF6B35;text-decoration:none;\">Benzinga</a></p>\n  </div>\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "AI 수요로 Intel 공장 풀가동, 글로벌 칩 부족 심화",
+    "meta_description": "AI 인프라 확산으로 Intel 등 반도체 공장이 정상 가동 능력 초과. 서버 프로세서 부족이 데이터센터 확충을 제약할 전망.",
+    "word_count": 480
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T17:04:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T08:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "rejected",
+      "reason": "Ghost API error: 401 {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"01579af0-1d25-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}",
+      "timestamp": "2026-03-11T08:33:39.901Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-11T08:33:58.894Z"
+    }
+  ],
+  "rejection_reason": "Ghost API error: 401 {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"01579af0-1d25-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}",
+  "publish_result": {
+    "ghost_post_id": "69b128f65d8fee00015089fa",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b128f65d8fee00015089fa",
+    "public_url": "https://ubion.ghost.io/ai-inpeura-suyoro-intel-gongjang-pulgadong-geulrobeol-cib-bujog-simhwa/",
+    "status": "published",
+    "published_at": "2026-03-11T08:33:58.893Z"
+  }
+}

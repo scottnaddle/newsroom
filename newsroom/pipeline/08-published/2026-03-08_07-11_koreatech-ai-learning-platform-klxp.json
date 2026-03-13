@@ -70,7 +70,11 @@
     "word_count": 1091,
     "category": "industry",
     "meta_title": "대학이 직접 AI 학습 플랫폼을 만들면 뭐가 달라지나 — 한기대 K-LXP의 실험",
-    "meta_description": "한국기술교육대가 교수 23명이 참여해 자체 개발한 AI 학습 플랫폼 K-LXP를 전면 시행한다. 입학부터 취업까지 AI가 학습을 지원하는 구조다."
+    "meta_description": "한국기술교육대가 교수 23명이 참여해 자체 개발한 AI 학습 플랫폼 K-LXP를 전면 시행한다. 입학부터 취업까지 AI가 학습을 지원하는 구조다.",
+    "feature_image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.816Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 90,
@@ -85,7 +89,5 @@
   },
   "desk_approved_at": "2026-03-08T09:00:29.021076+09:00",
   "copy_edited_at": "2026-03-08T09:01:00+09:00",
-  "ghost_id": "69acbe3aff4fbf0001ab7456",
-  "ghost_url": "https://insight.ubion.global/p/d7aa6eb5-cee8-4e0e-81bb-82fbd32afc93/",
   "published_at": "2026-03-08T00:09:30.227Z"
 }

@@ -1,0 +1,48 @@
+{
+  "stage": "rejected",
+  "pipeline": "digest",
+  "source": {
+    "title": "Ex-Meta AI chief Yann LeCun's AMI raises $1.03 billion for alternative AI approach",
+    "url": "https://www.reuters.com/business/ex-meta-ai-chief-yann-lecuns-ami-raises-103-billion-alternative-ai-approach-2026-03-10/",
+    "source_name": "Reuters",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Advanced Machine Intelligence (AMI), founded by former Meta AI chief Yann LeCun, announced a $1.03 billion funding round at a $3.50 billion pre-money valuation. The startup seeks to commercialize an alternative approach to large language models and advance AI research.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-11T19:05:00Z"
+  },
+  "digest": {
+    "headline": "얀 르쿤의 AMI, 103억 달러 펀딩으로 대형언어모델 대안 추구",
+    "lead": "전 메타 AI 최고책임자 얀 르쿤이 창업한 고급기계지능(AMI)이 103억 달러 시리즈 펀딩을 확보했다. 35억 달러 사전 평가에서의 이 투자는 대규모 언어모델과 다른 방향의 AI 기술 상용화를 목표로 한다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">메타의 AI 리더 얀 르쿤이 창업한 AMI가 103억 달러 규모의 대규모 펀딩을 성공시켰다. 기존의 대형언어모델 중심 접근과 다른 경로로 AI 연구를 진행하는 것으로 알려졌다.</p>\n  </div>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">얀 르쿤은 AI 분야의 거장으로, 딥러닝과 신경망 연구의 선구자다. 메타를 떠난 이후 설립한 AMI는 기존의 거대 언어모델 일변도의 AI 발전 경로와 다른 철학을 추구한다고 알려져 있다. 35억 달러의 높은 사전 평가는 투자자들이 르쿤의 비전과 연구 방향에 상당한 가치를 인정한다는 의미다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이는 AI 기술 개발의 다양성 추구를 의미한다. 메타, OpenAI 등이 대규모 언어모델 개발에 집중하는 가운데, AMI와 같은 신생 기업들이 다른 기술 경로를 탐색하고 있다. 이러한 다양성은 AI 산업의 건강한 경쟁을 촉진하며, 미래 AI 기술의 방향성을 더욱 풍부하게 한다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">대형언어모델 외 다양한 AI 기술의 등장은 에듀테크 솔루션의 선택지를 확대한다. 특정 학습 과제(맞춤형 튜터링, 학습 패턴 분석, 창의성 교육 등)에 최적화된 AI 기술이 개발될 가능성이 높아지며, 이는 교육의 개인화와 효율성을 동시에 달성하는 길을 열어줄 수 있다.</p>\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.reuters.com/business/ex-meta-ai-chief-yann-lecuns-ami-raises-103-billion-alternative-ai-approach-2026-03-10/\" style=\"color:#FF6B35;text-decoration:none;\">Reuters</a></p>\n  </div>\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "research",
+      "technology"
+    ],
+    "meta_title": "얀 르쿤 AMI, 103억 달러 펀딩 확보로 AI 기술 다양화 추진",
+    "meta_description": "메타 전 AI 최고책임자 얀 르쿤이 설립한 AMI가 103억 달러 펀딩. 대형언어모델 대안 기술 추구",
+    "word_count": 530
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T19:05:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T23:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "rejected",
+      "reason": "Cannot read properties of undefined (reading 'substring')",
+      "timestamp": "2026-03-11T11:35:56.518Z"
+    }
+  ],
+  "rejection_reason": "Cannot read properties of undefined (reading 'substring')",
+  "rejected_at": "2026-03-11T11:35:56.517Z"
+}

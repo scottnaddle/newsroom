@@ -61,7 +61,11 @@
     "word_count": 1049,
     "category": "policy",
     "meta_title": "'+AI' — 워싱턴대가 선택한 AI 통합 모델, 한국의 'AI 단과대'와 무엇이 다른가",
-    "meta_description": "워싱턴대학교 세인트루이스(WashU)가 '+AI'라는 이름의 전 대학 학술 이니셔티브를 출범시켰다. AI를 별도 전공으로 분리하는 대신, 기존 모든 학문에 AI를 더하는(+) 전략이다. 학부생 대상 AI 리터러시 모듈, 교수 지원 프로그램, Gemini·Notebook"
+    "meta_description": "워싱턴대학교 세인트루이스(WashU)가 '+AI'라는 이름의 전 대학 학술 이니셔티브를 출범시켰다. AI를 별도 전공으로 분리하는 대신, 기존 모든 학문에 AI를 더하는(+) 전략이다. 학부생 대상 AI 리터러시 모듈, 교수 지원 프로그램, Gemini·Notebook",
+    "feature_image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.831Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 91,
@@ -91,7 +95,5 @@
     "text_length": 1871,
     "checked_at": "2026-03-09T07:07:09.202Z"
   },
-  "ghost_id": "69ae719dff4fbf0001ab78d3",
-  "ghost_url": "https://insight.ubion.global/p/de61298a-078e-4016-a4bb-e523ce7229c5/",
   "published_at": "2026-03-09T07:07:09.765Z"
 }

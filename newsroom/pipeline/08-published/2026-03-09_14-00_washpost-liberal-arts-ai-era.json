@@ -61,7 +61,11 @@
     "word_count": 1079,
     "category": "opinion",
     "meta_title": "AI 시대의 인문학 역설 — '코딩보다 철학'이라는 워싱턴포스트의 도발",
-    "meta_description": "\"AI의 최선의 활용은 인간 판단력을 강화하는 것이다. 그러니 인문학을 공부하라.\" 워싱턴포스트가 던진 이 도발적 제안이 미국 고등교육계를 관통하고 있다. 대학마다 AI 전공 신설에 혈안인 한국에서, 이 역설은 더욱 날카롭게 들린다. AI가 코드를 작성하는 시대, 인문"
+    "meta_description": "\"AI의 최선의 활용은 인간 판단력을 강화하는 것이다. 그러니 인문학을 공부하라.\" 워싱턴포스트가 던진 이 도발적 제안이 미국 고등교육계를 관통하고 있다. 대학마다 AI 전공 신설에 혈안인 한국에서, 이 역설은 더욱 날카롭게 들린다. AI가 코드를 작성하는 시대, 인문",
+    "feature_image": "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.830Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 90,
@@ -91,7 +95,5 @@
     "text_length": 1779,
     "checked_at": "2026-03-09T07:07:03.942Z"
   },
-  "ghost_id": "69ae7198ff4fbf0001ab78c2",
-  "ghost_url": "https://insight.ubion.global/p/ae9e6730-d420-470c-9ac4-ad80712ae635/",
   "published_at": "2026-03-09T07:07:04.459Z"
 }

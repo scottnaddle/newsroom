@@ -67,7 +67,11 @@
     "word_count": 1361,
     "category": "education",
     "meta_title": "글로벌 교육 정책, AI 시대 미래형 인재 양성으로 전환",
-    "meta_description": "글로벌 교육 정책, AI 시대 미래형 인재 양성으로 전환 body { font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif; margin: 0; padding: 20px; } .wrappe"
+    "meta_description": "글로벌 교육 정책, AI 시대 미래형 인재 양성으로 전환 body { font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif; margin: 0; padding: 20px; } .wrappe",
+    "feature_image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.851Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 80,
@@ -108,7 +112,5 @@
     "text_length": 1900,
     "checked_at": "2026-03-09T22:03:01.268Z"
   },
-  "ghost_id": "69af4397ff4fbf0001ab7cbb",
-  "ghost_url": "https://insight.ubion.global/global-education-ai-transformation-2026/",
   "published_at": "2026-03-09T22:03:03.471Z"
 }

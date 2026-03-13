@@ -1,0 +1,104 @@
+{
+  "source_id": "ai-literacy-agent",
+  "url": "https://www.edpl.co.kr/news/articleView.html?idxno=19745",
+  "title": "'프롬프트 리터러시'를 넘어 '에이전트 리터러시(Agent Literacy)'로",
+  "published_date": "2026-03-04",
+  "source_name": "에듀플러스",
+  "category": "education",
+  "quality_score": 87,
+  "stage": "copy-edited",
+  "tags": [
+    "ai-literacy",
+    "agent-literacy",
+    "korea",
+    "higher-education"
+  ],
+  "snippet": "미래의 교육 환경 속에서, 우리가 궁극적으로 가르쳐야 할 것은 기술 그 자체가 아니라 기술을 압도하고 올바른 방향으로 이끄는 '인간의 통제력'일 것",
+  "reporting_brief": {
+    "WHO": "한국 대학교육계, 교수진, 학생",
+    "WHAT": "생성형 AI(챗GPT) 단계를 넘어 '자율형 AI 에이전트(Autonomous AI Agent)'로 진화. 단순 프롬프트 리터러시에서 AI 업무 과정을 비판적으로 통제하는 '에이전트 리터러시'가 새로운 핵심 역량으로 대두",
+    "WHY": "자율형 AI 에이전트는 목표 제시만으로 웹 검색, 데이터 분석, 도구 활용을 독립적으로 수행. 편의성 vs 인지적 아웃소싱 위험 사이 균형 필요",
+    "WHEN": "March 2026 - 현재 대학교육 현장에서 실천 중",
+    "CONTEXT": "한국 교육 디지털 전환 가속화. 극동대학교 유미선 교수 주도 '수업혁신 실천 교수들' 시리즈에서 강조. AI 리터러시 전 연령대 확대 필요",
+    "SOURCES": [
+      {
+        "title": "'프롬프트 리터러시'를 넘어 '에이전트 리터러시(Agent Literacy)'로 (에듀플러스)",
+        "url": "https://www.edpl.co.kr/news/articleView.html?idxno=19745",
+        "trust_level": "high"
+      },
+      {
+        "title": "AI 에이전트의 위험: 인간 통제를 벗어나기 전에 대비해야 (전국인력신문)",
+        "url": "https://www.kjob.news/news/472188",
+        "trust_level": "high"
+      },
+      {
+        "title": "AI Autonomous Agents in Education 2026",
+        "url": "https://www.edpl.co.kr/news/articleView.html?idxno=19745",
+        "trust_level": "medium"
+      }
+    ],
+    "PERSPECTIVES": {
+      "학계": "에이전트 리터러시 = 비판적 사고력 + 문제해결 능력. 학생들에게 AI 비판적 통제 훈련 필요",
+      "교육": "의도적으로 AI가 쉽게 답할 수 없는 복잡한 딜레마 과제 제시. 인간 가치와 윤리적 기준으로 AI 결과 검증 훈련",
+      "사회": "모든 시민이 AI 시대 주체로서 의사결정 참여 필요. 전 연령대 AI 리터러시 교육, 윤리 교육 통합",
+      "우려": "AI 에이전트의 강력함으로 인한 인간 통제 벗어날 위험성"
+    },
+    "SUGGESTED_ANGLE": "한국 교육의 Next 진화: '프롬프트 지시'에서 'AI 관리자'로 - 에이전트 리터러시 시대의 대학교육 변화"
+  },
+  "fact_check": {
+    "score": 86,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "에듀플러스 에이전트 리터러시 기고 기사 존재 ✓",
+      "극동대학교 유미선 교수의 '수업혁신 실천 교수들' 시리즈 ✓",
+      "AI 에이전트가 자율적으로 작동하는 기술 발전 현실 ✓",
+      "한국의 디지털 전환 교육 추진 사실 ✓"
+    ],
+    "validated_at": "2026-03-11T07:20:00Z"
+  },
+  "draft": {
+    "headline": "프롬프트를 넘어 '에이전트 관리자'로: 한국 대학, AI 시대의 새로운 학습능력을 묻다",
+    "subheadline": "자율형 AI 에이전트 시대, 인간의 판단력과 통제력을 강화하는 교육으로의 전환",
+    "slug": "korea-agent-literacy-education-transformation-2026",
+    "ghost_tags": [
+      "ai-education",
+      "korea",
+      "agent-literacy",
+      "university"
+    ],
+    "category": "education",
+    "custom_excerpt": "챗GPT 시대를 지나, 스스로 생각하고 행동하는 'AI 에이전트' 시대가 교실에 들어왔다. 한국 교육은 무엇을 가르쳐야 하는가? 프롬프트 쓰기가 아니라, AI를 통제하고 관리하는 '에이전트 리터러시'다.",
+    "html": "<div style=\"font-family:'Noto Sans KR', sans-serif; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e; margin:0 auto; padding:20px;\"><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">생성형 AI 시대에서 자율형 AI 에이전트 시대로</h2><p style=\"margin:0 0 32px; color:#2d3748; line-height:1.9;\">2023-2024년 챗GPT 혁명은 명확한 질문에 정확한 답을 얻는 것이었다. '프롬프트 리터러시' — 좋은 지시를 내리는 능력 — 가 화두였다. 하지만 2026년 기술은 이미 다음 단계로 나아갔다. 자율형 AI 에이전트(Autonomous AI Agent)는 사용자가 '최종 목표'만 제시하면, 스스로 문제를 분석하고, 웹을 검색하고, 데이터를 수집 및 분석하며, 필요한 도구를 찾아 활용한 뒤, 완성된 결과물을 내놓는다. 단순한 도구가 아니라, 반자동 '일꾼'이 되었다는 뜻이다. 이 변화는 교육 현장에 새로운 도전을 던진다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">편의성과 인지적 아웃소싱 사이의 줄타기</h2><p style=\"margin:0 0 32px; color:#2d3748; line-height:1.9;\">자율형 AI의 강력함은 곧 위험이다. 학생들은 더 이상 \"화면 앞의 텍스트 상자와 씨름할 필요\"가 없어진다. 복잡한 과제를 AI 에이전트에게 통째로 위임하면 된다. 결과는? 엄청난 효율성 — 하지만 대가가 따른다. \"인지적 아웃소싱(Cognitive Outsourcing)\"이라는 위험성이다. 학생들의 비판적 사고력, 문제 해결 능력, 자기주도 학습 역량이 퇴화될 수 있다는 우려다. 극동대학교 유미선 교수는 이 지점에서 명확하게 질문한다: \"우리는 학생들을 AI의 단순한 '사용자'나 '지시자'로 길러낼 것인가, 아니면 AI를 총괄하는 '관리자(Manager)'로 길러낼 것인가?\" 답은 명확해야 한다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">에이전트 리터러시란 무엇인가?</h2><p style=\"margin:0 0 32px; color:#2d3748; line-height:1.9;\">에이전트 리터러시는 단순히 AI를 사용하는 능력이 아니다. 이는 AI가 문제를 해결해 나가는 전체 '워크플로우(Workflow)'를 이해하고, 비판적으로 통제하는 능력이다. 세부적으로는: AI가 수립한 계획의 논리적 허점을 발견할 수 있는 능력. AI가 잘못된 방향으로 나아갈 때 즉각 개입하여 궤도를 수정할 수 있는 능력. 최종 도출된 결과물을 인간의 가치와 윤리적 기준을 잣대로 엄격하게 검증할 수 있는 능력. 이 모든 것이 에이전트 리터러시에 포함된다. 결국 기술적 숙련도가 아니라 '고도화된 비판적 사고력'이고 '문제 해결 능력'이라는 뜻이다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">교실에서 실제 어떻게 가르칠 것인가?</h2><p style=\"margin:0 0 32px; color:#2d3748; line-height:1.9;\">교수자들은 이미 변화를 시작했다. 핵심은 '의도적으로' AI가 쉽게 답할 수 없는 복잡한 딜레마 상황을 과제로 제시하는 것이다. 단순한 정보 검색이나 요약이 아니라, 상충하는 가치, 불완전한 정보, 다양한 이해관계자의 입장이 얽힌 문제를 마주하게 하는 것이다. 학생들은 AI가 제시한 여러 대안을 비교 분석하고, AI의 권고를 검증하고, 최종적으로 자신이 선택한 결정의 책임을 진다. 이 과정 속에서 진정한 지적 성장이 일어난다. 또 다른 방법은 AI의 실패 사례를 직접 경험하게 하는 것이다: AI의 환각(Hallucination)을 발견하는 연습, 숨겨진 편향을 찾아내는 과제, 올바른 의사결정을 위해 AI의 결과물을 어떻게 검증할 것인가를 고민하는 시간.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20k; color:#1a1a2e;\">한국 교육 시스템은 준비되었나?</h2><p style=\"margin:0 0 32px; color:#2d3748; line-height:1.9;\">한국 교육이 이 전환에 얼마나 준비되었는지는 현재 불명확하다. 극동대학교의 '수업혁신 실천 교수들' 시리즈는 선도적인 시도지만, 전체 대학 시스템의 흐름은 여전히 산발적이다. 대학은 이제 '프롬프트'를 쓰는 법을 넘어, \"AI와 공존하며 지식의 주도권을 쥐는 에이전트 리터러시 교육\"을 서둘러 설계해야 한다는 것이 전문가들의 지적이다. 이는 단순한 선택이 아니라 필수다. 왜냐하면 대학이 준비하지 않으면, 학생들은 학교 밖에서 AI를 마주하면서 비판적 통제력 없이 편의성에만 의존하게 될 것이기 때문이다.</p><p style=\"margin:48px 0 0; padding-top:20px; border-top:1px solid #f1f5f9; font-size:13px; color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "word_count": 1850,
+    "feature_image": "https://images.unsplash.com/photo-1516321318423-f06f70e504cb?w=1200&h=630&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1516321318423-f06f70e504cb?w=1200&h=630&fit=crop",
+    "references": [
+      {
+        "title": "'프롬프트 리터러시'를 넘어 '에이전트 리터러시'로",
+        "url": "https://www.edpl.co.kr/news/articleView.html?idxno=19745"
+      },
+      {
+        "title": "AI 에이전트의 위험: 인간 통제를 벗어나기 전에 대비해야",
+        "url": "https://www.kjob.news/news/472188"
+      }
+    ],
+    "meta_title": "프롬프트를 넘어 '에이전트 관리자'로: 한국 대학, AI 시대의 새로운 학습능력을 묻다",
+    "meta_description": "더 이상 우리가 AI에게 명령하는 것이 아니다. 이제 AI는 우리의 목표를 듣고 '스스로' 웹을 검색하고, 데이터를 수집하며, 도구를 활용해 완성된 결과물을 만든다. 한국 대학은 이 변화에 어떻게 대응할 것인가? 극동대학교 유미선 교수는 명확하게 말한다: \"우리가 가르"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 2870자, 팩트점수 86, 중복 0.0%",
+    "meta_title": "프롬프트를 넘어 '에이전트 관리자'로: 한국 대학, AI 시대의 새로운 학습능력을 묻다",
+    "meta_description": "더 이상 우리가 AI에게 명령하는 것이 아니다. 이제 AI는 우리의 목표를 듣고 '스스로' 웹을 검색하고, 데이터를 수집하며, 도구를 활용해 완성된 결과물을 만든다. 한국 대학은 이 변화에 어떻게 대응할 것인가? 극동대학교 유미선 교수는 명확하게 말한다: \"우리가 가르",
+    "decided_at": "2026-03-11T07:05:26.587Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [
+      "AI 배지 pill 제거"
+    ],
+    "text_length": 1724,
+    "checked_at": "2026-03-11T07:05:26.588Z"
+  }
+}

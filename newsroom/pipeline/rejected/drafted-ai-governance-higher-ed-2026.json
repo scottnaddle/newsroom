@@ -1,0 +1,78 @@
+{
+  "id": "source-ai-global-20260311-001",
+  "source": {
+    "title": "AI Governance in Higher Education: The 2026 Framework for Policy & Risk",
+    "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/",
+    "snippet": "Universities using AI in student assessment, admissions, or performance monitoring must comply with the Act's high-risk AI provisions from August 2026",
+    "published": "5 days ago",
+    "domain": "theeducationmagazine.com"
+  },
+  "stage": "copy-edited",
+  "quality_score": 79,
+  "collected_at": "2026-03-11T21:30:00+09:00",
+  "tags": [
+    "정책",
+    "AI",
+    "고등교육",
+    "글로벌"
+  ],
+  "draft": {
+    "headline": "대학의 'AI 거버넌스 위기'…규제 속도에 정책이 못 따라간다",
+    "subheadline": "2026년 EU AI Act 고위험 조항 시행 앞두고, 미국·유럽 대학들 거버넌스 프레임워크 구축 경쟁",
+    "slug": "ai-governance-higher-education-2026-framework",
+    "ghost_tags": [
+      "고등교육",
+      "AI정책",
+      "거버넌스",
+      "ai-regulation"
+    ],
+    "category": "policy",
+    "html": "<div style=\"font-family:'Noto Sans KR','Segoe UI',sans-serif;max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;margin:0 auto;padding:0 20px;\">\n  \n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;color:#1a1a2e;\">80%의 교직원이 AI를 사용하지만, 정책은 25% 수준</h2>\n  <p style=\"margin:0 0 32px;text-align:justify;\">현실은 충격적입니다. EDUCAUSE의 2024년 AI 경관 조사에 따르면, 대학 교직원의 80%가 이미 AI 도구를 사용하고 있습니다. 생성형 AI 플랫폼, 학생 성적 분석 도구, 행정 자동화 시스템—이미 캠퍼스 곳곳에 확산되어 있습니다.\n  </p>\n  <p style=\"margin:0 0 32px;text-align:justify;\">하지만 그 중 정식 기관 정책이 있다는 것을 아는 사람은 25% 미만입니다. 이는 대학 캠퍼스에서 일어나고 있는 광범위한 'shadow AI(그림자 AI)' 현상을 의미합니다. 정식 승인 없이 학과장이 ChatGPT를 도입하고, 교수가 학생 성적 자료를 상용 AI 플랫폼에 업로드하고, 행정 담당자가 독자적으로 자동화 도구를 구성하는 일들이 제도적 감시 밖에서 벌어지고 있습니다.\n  </p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;color:#1a1a2e;\">데이터 유출, 규제 위반, 학사 위기로 이어지는 위험</h2>\n  <p style=\"margin:0 0 32px;text-align:justify;\">이 거버넌스 격차가 구체적으로 초래할 수 있는 위험은 무엇일까요? 세 가지가 두드러집니다.\n  </p>\n  <p style=\"margin:0 0 32px;text-align:justify;\">첫째, 데이터 유출의 위험입니다. 한 교수가 아직 발표되지 않은 연구 데이터를 AI 플랫폼에 업로드하면, 그 데이터는 플랫폼 제공자의 서버에 저장되고, 모델 학습에 사용되며, 대학은 감시의 대상을 벗어나게 됩니다. 지식재산권이 손실되는 것입니다.\n  </p>\n  <p style=\"margin:0 0 32px;text-align:justify;\">둘째, FERPA 위반입니다. FERPA(Family Educational Rights and Privacy Act)는 미국의 연방 법으로, 학생 기록의 프라이버시를 보호합니다. 만약 학생의 성적, 행동 기록 등이 승인되지 않은 AI 시스템으로 처리되면, 의도치 않은 법 위반이 발생합니다. 이는 대학에 미칠 법적 책임이 크습니다.\n  </p>\n  <p style=\"margin:0 0 32px;text-align:justify;\">셋째, 학사 무결성 위기입니다. 생성형 AI로 쓴 과제를 구별해내기 어렵습니다. 대학들이 아직 이에 대한 명확한 정책을 갖추지 못했을 때, 학생들의 신뢰도 무너지고, 대학의 학위의 가치도 훼손될 수 있습니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;color:#1a1a2e;\">EU AI Act, 2026년 8월부터 고위험 조항 시행</h2>\n  <p style=\"margin:0 0 32px;text-align:justify;\">규제의 바람이 불고 있습니다. 특히 유럽에서는 EU AI Act(유럽연합 인공지능법)가 2024년 8월 발효되었고, 2026년 8월부터 대학에 대한 고위험 AI 조항이 본격 시행됩니다.\n  </p>\n  <p style=\"margin:0 0 32px;text-align:justify;\">이 법은 무엇을 '고위험'으로 분류하는가? 학생 평가, 입시 심사, 학생 성과 모니터링에 사용되는 AI 시스템이 그것입니다. 대학이 이러한 용도로 AI를 사용하려면 편향성 테스트, 인간 감시 메커니즘, 적합성 평가, 완전한 감사 추적을 수행해야 합니다.\n  </p>\n  <p style=\"margin:0 0 32px;text-align:justify;\">미국 교육부 역시 2023년 지침에서 대학들이 학생 서비스와 평가에 사용되는 AI에 대해 윤리 프레임워크를 개발할 것을 명시적으로 요청했습니다. 즉, 규제는 유럽에서만의 문제가 아니라 전 세계적 트렌드입니다.\n  </p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;color:#1a1a2e;\">거버넌스의 네 가지 기둥</h2>\n  <p style=\"margin:0 0 32px;text-align:justify;\">그렇다면 선진 대학들은 어떻게 이 위기에 대응하고 있을까요? 성숙한 AI 거버넌스 프레임워크를 갖춘 대학들은 네 가지 기둥을 중심으로 구축합니다.\n  </p>\n  <p style=\"margin:0 0 32px;text-align:justify;\"><strong>첫째, 제도적 AI 운영 위원회</strong>입니다. 에든버러 대학, 옥스포드 대학 같은 영국 주요 대학들은 학장, IT 담당자, 법무팀, 연구 윤리위원, 교수 대표로 구성된 AI 운영 위원회를 설립했습니다. 이 위원회는 정책을 정하고, AI 벤더를 심사하고, 도입된 AI 시스템을 모니터링합니다.\n  </p>\n  <p style=\"margin:0 0 32px;text-align:justify;\"><strong>둘째, 투명성과 윤리</strong>입니다. 학생과 교직원이 AI가 사용되고 있다는 사실을 알아야 합니다. 자동 채점, 자동 피드백, 알고리즘 기반 입시 심사가 이루어지고 있다면, 이를 공개해야 합니다. 또한 AI 시스템이 편향성을 갖지는 않는지 정기적으로 감시해야 합니다.\n  </p>\n  <p style=\"margin:0 0 32px;text-align:justify;\"><strong>셋째, 인간-루프(Human-in-the-Loop) 감시</strong>입니다. AI가 학생의 중도 탈락 위험을 감지해서 제안할 수는 있습니다. 하지만 그 학생을 어떻게 도울지는 여전히 상담사의 결정입니다. AI는 정보를 제공하되, 최종 의사 결정은 인간이 합니다.\n  </p>\n  <p style=\"margin:0 0 32px;text-align:justify;\"><strong>넷째, 지속적 모니터링</strong>입니다. 전통적 IT 정책은 한 번 정해지면 1년에 한 번 검토합니다. 그러나 AI는 그렇게 천천히 움직이지 않습니다. 모델이 업데이트되고, 학습 데이터가 바뀌고, 새로운 기능이 등장합니다. 따라서 연속적인 감사와 모니터링이 필수입니다.\n  </p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;color:#1a1a2e;\">생성형 AI, 학사 무결성 문제를 변형시키다</h2>\n  <p style=\"margin:0 0 32px;text-align:justify;\">학사 무결성 측면에서 생성형 AI는 대학들의 기존 패러다임을 흔들고 있습니다. 기존의 표절 검사 도구인 Turnitin 같은 시스템은 '복사'를 찾아냅니다. 하지만 생성형 AI는 '새로운' 텍스트를 만듭니다.\n  </p>\n  <p style=\"margin:0 0 32px;text-align:justify;\">옥스포드 대학의 2024년 개정 학사 무결성 규정은 이 도전을 인정하고 있습니다. '탐지 우선' 접근 방식은 생성형 AI 앞에서 무력하다는 것입니다. 대신, 선진 대학들은 세 가지 전략을 취하고 있습니다.\n  </p>\n  <p style=\"margin:0 0 32px;text-align:justify;\">첫째, 평가 방식의 재설계입니다. 구두 시험, 프로젝트 기반 학습, 수업 시간 중 분석 작업—AI가 대신할 수 없는 과제들입니다. 스탠포드의 Hasso Plattner 디자인 연구소는 학생들에게 초안, 주석, 성찰 저널을 제출하게 함으로써, 최종 결과물뿐 아니라 '사고 과정'을 평가합니다.\n  </p>\n  <p style=\"margin:0 0 32px;text-align:justify;\">둘째, 투명성 기반 정책입니다. 일괄 금지는 실행 불가능합니다. 대신 런던 대학 칼리지(University College London)처럼 학생들에게 AI 사용을 선언하게 하고, 그것 자체를 '학문적 기술'로 취급합니다.\n  </p>\n  <p style=\"margin:0 0 32px;text-align:justify;\">셋째, 교수진 개발입니다. EDUCAUSE 조사에 따르면, 30% 미만의 교수가 AI에 강한 평가를 설계할 자신감이 있습니다. 거버넌스 프레임워크가 투자하는 것은 학생 정책만이 아니라, 교수진의 역량 강화입니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;color:#1a1a2e;\">동적 AI의 시대, 정책은 어떻게 따라가는가</h2>\n  <p style=\"margin:0 0 32px;text-align:justify;\">더욱 복잡한 것은 AI가 이미 '동적'이 되어가고 있다는 점입니다. 단순한 채점 자동화에서 벗어나, 자율 에이전트(Agentic AI)—스스로 작업을 수행하고 다른 시스템과 상호작용하는 AI—로 향해가고 있습니다.\n  </p>\n  <p style=\"margin:0 0 32px;text-align:justify;\">이러한 에이전트 AI가 학생 상담, 과정 개인화, 행정 업무를 담당하게 될 때, 기존의 '인간이 최종 결정을 한다'는 원칙조차 흔들립니다. 여러 AI 시스템이 연쇄적으로 의사결정을 하고, 책임 소재가 모호해질 수 있습니다.\n  </p>\n  <p style=\"margin:0 0 32px;text-align:justify;\">세계경제포럼의 AI 거버넌스 연합은 대학들이 지금부터 세 가지에 준비해야 한다고 강조합니다. 첫째, 각 자율 시스템마다 이름 있는 인간의 '책임자'를 지정하는 것. 둘째, 최소 권한 원칙에 따라 AI에 동적, 제한된 권한만 부여하는 것. 셋째, 모든 AI 의사결정이 감사 추적에 남도록 하는 것입니다.\n  </p>\n\n  <div style=\"border-top:1px solid #e2e8f0;padding-top:20px;margin-top:48px;\">\n    <p style=\"font-weight:600;color:#1a1a2e;margin-bottom:12px;\">참고자료</p>\n    <ol style=\"color:#374151;line-height:1.8;\">\n      <li style=\"margin-bottom:8px;\"><a href=\"https://www.theeducationmagazine.com/ai-governance-in-higher-education/\" style=\"color:#4338ca;text-decoration:none;border-bottom:1px solid #4338ca;\">AI Governance in Higher Education: The 2026 Framework for Policy & Risk</a> - The Education Magazine</li>\n      <li style=\"margin-bottom:8px;\"><a href=\"https://library.educause.edu/resources/2024/2/2024-educause-ai-landscape-study\" style=\"color:#4338ca;text-decoration:none;border-bottom:1px solid #4338ca;\">2024 EDUCAUSE AI Landscape Study</a> - EDUCAUSE</li>\n      <li><a href=\"https://www.unesco.org/en/artificial-intelligence/recommendation-ethics\" style=\"color:#4338ca;text-decoration:none;border-bottom:1px solid #4338ca;\">UNESCO Recommendation on the Ethics of AI</a> - UNESCO</li>\n    </ol>\n  </div>\n\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "custom_excerpt": "대학 캠퍼스에서 AI 도입이 규제를 앞지르고 있습니다. 80%의 교직원이 AI를 사용하지만 정책은 부족하고, 2026년 EU AI Act 시행을 앞두고 대학들이 거버넌스 프레임워크 구축에 나섭니다.",
+    "references": [
+      {
+        "title": "AI Governance in Higher Education: The 2026 Framework for Policy & Risk",
+        "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/"
+      },
+      {
+        "title": "2024 EDUCAUSE AI Landscape Study",
+        "url": "https://library.educause.edu/resources/2024/2/2024-educause-ai-landscape-study"
+      },
+      {
+        "title": "UNESCO Recommendation on the Ethics of AI",
+        "url": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics"
+      }
+    ],
+    "word_count": 2104,
+    "feature_image": "https://images.unsplash.com/photo-1434528222bd-2f06d644ac36?w=800&h=600&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1434528222bd-2f06d644ac36?w=1200&h=630&fit=crop",
+    "meta_title": "대학의 'AI 거버넌스 위기'…규제 속도에 정책이 못 따라간다",
+    "meta_description": "대학 캠퍼스에서 인공지능 도입 속도가 규제 속도를 앞지르고 있습니다. 교직원의 80%가 AI 도구를 사용하고 있으나, 네 명 중 한 명만이 공식 기관 정책이 있다는 사실을 알고 있습니다. 이 '거버넌스 격차'는 데이터 유출, 규제 위반, 학사 무결성 위기로 이어질 수 "
+  },
+  "fact_check": {
+    "score": 89,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "EDUCAUSE 80% 통계",
+      "FERPA 법",
+      "EU AI Act 2026년 8월 시행"
+    ],
+    "validated_at": "2026-03-12T07:03:42.250813Z"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 3467자, 팩트점수 89, 중복 0.0%",
+    "meta_title": "대학의 'AI 거버넌스 위기'…규제 속도에 정책이 못 따라간다",
+    "meta_description": "대학 캠퍼스에서 인공지능 도입 속도가 규제 속도를 앞지르고 있습니다. 교직원의 80%가 AI 도구를 사용하고 있으나, 네 명 중 한 명만이 공식 기관 정책이 있다는 사실을 알고 있습니다. 이 '거버넌스 격차'는 데이터 유출, 규제 위반, 학사 무결성 위기로 이어질 수 ",
+    "decided_at": "2026-03-12T07:04:09.522Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [
+      "AI 배지 pill 제거"
+    ],
+    "text_length": 3311,
+    "checked_at": "2026-03-12T07:04:09.524Z"
+  }
+}

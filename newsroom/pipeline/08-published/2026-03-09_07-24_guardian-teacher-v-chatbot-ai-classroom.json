@@ -93,7 +93,11 @@
     "word_count": 1120,
     "category": "policy",
     "meta_title": "교실에 들어온 AI, 교사의 딜레마 — 미국 교생의 고민에서 한국 정책 급변까지",
-    "meta_description": "미국 시카고 교생이 겪은 AI 교실의 현실과 한국 AI 디지털교과서 정책 급변. OECD는 교육 특화 AI와 교사 공동 설계를 권고한다."
+    "meta_description": "미국 시카고 교생이 겪은 AI 교실의 현실과 한국 AI 디지털교과서 정책 급변. OECD는 교육 특화 AI와 교사 공동 설계를 권고한다.",
+    "feature_image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.818Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 88,
@@ -135,7 +139,5 @@
     "approved_by": "editor-desk-auto"
   },
   "copy_edited_at": "2026-03-08T23:38:50.758Z",
-  "ghost_id": "69ae08b3ff4fbf0001ab768a",
-  "ghost_url": "https://insight.ubion.global/p/23d26852-f6c8-4ee5-8061-ed4b12c7361c/",
   "published_at": "2026-03-08T23:39:40.270Z"
 }

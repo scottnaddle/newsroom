@@ -1,0 +1,65 @@
+{
+  "id": "news-005",
+  "stage": "rejected",
+  "source": {
+    "title": "Cantwell, Moran Introduce Bill to Boost AI Education",
+    "url": "https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education"
+  },
+  "draft": {
+    "headline": "미국, NSF AI 교육법으로 '중국과의 기술 경쟁' 교육 정책화",
+    "subheadline": "장학금·펠로우십·지역대학 지원…2028년까지 100만 명 AI 교육 목표",
+    "slug": "usa-nsf-ai-education-act-2026",
+    "ghost_tags": [
+      "정책",
+      "미국",
+      "ai교육",
+      "기술경쟁"
+    ],
+    "category": "education",
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;\"><div style=\"border-left:4px solid #d97706;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:48px;\"><p style=\"margin:0;font-weight:600;color:#d97706;\">산업 정책</p><p style=\"margin:8px 0 0;font-size:16px;color:#1a1a2e;\">미국 상원의원 Maria Cantwell과 Jerry Moran이 양당 합의로 'NSF AI 교육법 2026'을 제출했다. 이 법안은 장학금, 펠로우십, 지역대학 내 AI 우수 센터 설립 등을 통해 2028년까지 미국 노동자 100만 명에게 AI 교육을 제공할 계획을 담고 있다.</p></div><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">중국과의 기술 경쟁이 교육 정책을 만든다</h2><p style=\"margin:0 0 32px;\">Maria Cantwell 상원의원의 발언이 이번 법안의 본질을 명확히 드러낸다. \"AI 수요는 이미 높고 계속 증가할 것이다. 우리가 그 수요를 충족하지 못하면 중국과의 경쟁에서 뒤질 것이다.\" 이는 AI 교육이 더 이상 '개인의 역량 강화'만이 아닌 '국가 경쟁력'의 문제임을 명시한 것이다. 미국은 AI 인력 양성을 전략적 국가 사업으로 격상시키고 있다. Jerry Moran 상원의원도 \"미래 경제를 강화하고 국제 경쟁력을 유지하려면 다음 세대가 AI의 모든 잠재력을 활용할 수 있어야 한다\"며, AI 교육이 '경제 안보'의 핵심임을 강조했다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">초등학교부터 박사과정까지 '전 단계 투자'</h2><p style=\"margin:0 0 32px;\">NSF AI 교육법은 교육의 모든 단계를 포괄한다. 첫째, 'AI 장학금 프로그램'으로 학부와 대학원 학생들이 AI 개발, 배포, 통합, 응용 등 AI의 모든 측면을 공부할 수 있도록 지원한다. 둘째, 농업, 교육, 고급 제조 등 특정 산업 분야에서 AI를 활용할 인력을 양성한다. 셋째, 이미 STEM 분야에 종사 중인 교사와 교육자를 위한 전문성 개발 펠로우십을 제공한다. 특히 주목할 점은 '커뮤니티칼리지 AI 우수 센터'의 설립이다. 미국은 전국에 최소 5곳의 커뮤니티칼리지와 직업학교에 'AI 우수 센터'를 설립하여 AI 교육과 연구의 모범 사례를 개발하고 전국으로 확산시킬 계획이다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">2028년까지 '100만 명 AI 교육' 목표</h2><p style=\"margin:0 0 32px;\">NSF AI 교육법의 가장 야심찬 목표는 2028년까지 100만 명 이상의 미국 노동자에게 AI 교육을 제공하는 것이다. 이를 위해 법안은 'NSF 그랜드 챌린지(Grand Challenges)' 프로그램을 신설하여 100만 명 이상의 노동자 교육 전략을 개발하도록 한다. 또한 '기존 노동자 보호'도 고려했다. 법안은 현직 교사와 노동자의 직업 전환을 지원하며, 여성과 농촌 주민 등 저소득 계층의 AI 교육 참여를 특별히 장려한다. 이는 AI 기술 진보로 인한 '고용 위기'를 '교육 기회'로 전환하겠다는 전략이다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">K-12 교사 지원과 농업 혁신</h2><p style=\"margin:0 0 32px;\">NSF AI 교육법은 초중등 교사들을 위한 AI 교육 가이던스 개발에도 역점을 두고 있다. 법안은 NSF가 교사와 학자들과 협력하여 K-12 교실에서의 AI 활용 방법에 대한 '공개 교육 자료'를 개발하도록 규정했다. 이는 미국 전역의 초중등 학생들, 특히 저소득층 학생, 농촌 학생, 부족 학생들이 AI 교육에 접근할 수 있도록 하는 포용적 전략이다. 또한 법안은 농업 분야 AI 활용에도 주목했다. 농업부와 NSF의 협력을 통해 랜드그랜트 대학과 농촌 협력 확대 서비스를 활용하여 AI 농업 연구, 개발, 교육에 투자한다. 이는 미국의 농촌 지역 교육 격차를 해소하고, 동시에 AI 기술의 '생산성 향상' 측면을 활용하겠다는 전략을 보여준다.</p><div style=\"border-top:1px solid #e2e8f0;margin-top:48px;padding-top:20px;\"><p style=\"font-size:16px;font-weight:600;margin-bottom:12px;\">참고자료</p><ol style=\"margin:0;padding-left:20px;font-size:15px;line-height:1.8;\"><li><a href=\"https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education\" style=\"color:#0284c7;\">미국 상원 상거래위원회 - NSF AI 교육법 공식발표</a></li><li><a href=\"https://www.nsf.gov\" style=\"color:#0284c7;\">NSF 공식 웹사이트</a></li><li><a href=\"https://www.commerce.senate.gov/2026/2/cantwell-moran-reintroduce-bill-to-help-small-business-leverage-ai-tools\" style=\"color:#0284c7;\">미국 상원 - AI 소상공인 법안</a></li></ol></div><p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "custom_excerpt": "미국 상원은 'NSF AI 교육법 2026'을 제출했다. 초등부터 박사과정, K-12 교사 지원, 농촌 지역 투자, 여성 포용까지 포괄하며 2028년까지 100만 명 AI 교육을 목표로 한다. 중국과의 기술 경쟁이 미국 교육 정책을 근본적으로 바꾸고 있다.",
+    "references": [
+      {
+        "title": "미국 상원 상거래위원회 - NSF AI 교육법 공식발표",
+        "url": "https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education"
+      },
+      {
+        "title": "NSF 공식 웹사이트",
+        "url": "https://www.nsf.gov"
+      },
+      {
+        "title": "미국 상원 - AI 소상공인 법안",
+        "url": "https://www.commerce.senate.gov/2026/2/cantwell-moran-reintroduce-bill-to-help-small-business-leverage-ai-tools"
+      }
+    ],
+    "word_count": 1620,
+    "meta_title": "미국, NSF AI 교육법으로 '중국과의 기술 경쟁' 교육 정책화",
+    "meta_description": "산업 정책미국 상원의원 Maria Cantwell과 Jerry Moran이 양당 합의로 'NSF AI 교육법 2026'을 제출했다. 이 법안은 장학금, 펠로우십, 지역대학 내 AI 우수 센터 설립 등을 통해 2028년까지 미국 노동자 100만 명에게 AI 교육을 제공할"
+  },
+  "created_at": "2026-03-10T07:30:00Z",
+  "drafted_at": "2026-03-10T07:40:00Z",
+  "fact_check": {
+    "score": 91,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "NSF AI 교육법 2026 상원 제출 - 3월 3일 상원 상거래위원회 공식 발표 확인",
+      "Cantwell, Moran 양 의원 제출 - 상원 공식 발표 확인",
+      "2028년까지 100만 명 AI 교육 목표 - 법안 조항 확인",
+      "커뮤니티칼리지 AI 우수 센터 5곳 설립 - 법안 내용 확인",
+      "농업, 교육, 제조업 분야 포함 - 법안 조항 확인"
+    ],
+    "validated_at": "2026-03-10T07:45:00Z"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 1632자, 팩트점수 91, 중복 23.5%",
+    "meta_title": "미국, NSF AI 교육법으로 '중국과의 기술 경쟁' 교육 정책화",
+    "meta_description": "산업 정책미국 상원의원 Maria Cantwell과 Jerry Moran이 양당 합의로 'NSF AI 교육법 2026'을 제출했다. 이 법안은 장학금, 펠로우십, 지역대학 내 AI 우수 센터 설립 등을 통해 2028년까지 미국 노동자 100만 명에게 AI 교육을 제공할",
+    "decided_at": "2026-03-10T07:34:28.496Z"
+  },
+  "copy_edit": {
+    "verdict": "FAIL",
+    "reason": "본문 1471자 미만"
+  }
+}

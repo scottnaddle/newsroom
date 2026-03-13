@@ -1,0 +1,44 @@
+{
+  "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=120822",
+  "title": "서울사이버대, 교육부 원격대학 기관평가 인증 '전 영역 충족' 획득",
+  "source": "web_search",
+  "score": 80,
+  "collected_at": "2026-03-11T09:01:17.475172Z",
+  "status": "fact-checked",
+  "reporting_brief": {
+    "who": "서울사이버대학교(총장 이은주), 교육부",
+    "what": "2주기 원격대학(사이버대학) 기관평가인증에서 전 52개 지표 '충족' 판정, 5년 인증 획득"
+  },
+  "draft": {
+    "headline": "\"AI 튜터·실감형 콘텐츠\" 서울사이버대, 온라인 교육의 미래를 보여주다"
+  },
+  "fact_check": {
+    "score": 89,
+    "verdict": "PASS",
+    "verified_claims": [
+      "교육부 2주기 원격대학 기관평가인증 52개 전 지표 충족 (원본 기사)",
+      "5년 인증 획득 (2026-2031) (원본 기사)",
+      "VX(Virtual eXperience) 실감형 콘텐츠 기술 운영 (원본 기사)",
+      "전 세계 최초 이러닝 서비스로 평가됨 (원본 기사)",
+      "AI 튜터 시스템 학습관리시스템 통합 (원본 기사)",
+      "24시간 학습자 상담 시스템 운영 (원본 기사)",
+      "미국 CSUSB와 온라인 복수학위 프로그램 (원본 기사)",
+      "베트남 PTIT와 2+2 공동학위 프로그램 (원본 기사)",
+      "7개 지역캠퍼스 운영 (원본 기사)"
+    ],
+    "issues": [],
+    "structure_check": {
+      "lead_box": true,
+      "h2_sections": 5,
+      "references": 3,
+      "ai_disclaimer": true,
+      "text_length": "1750자 (1600자 이상 충족)"
+    },
+    "validated_at": "2026-03-11T00:39:00Z"
+  },
+  "stage": "rejected",
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Qualcomm, Wayve partner to accelerate AI-powered self-driving system rollout",
+    "url": "https://www.reuters.com/technology/artificial-intelligence/",
+    "source_name": "Reuters",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "Qualcomm and British self-driving startup Wayve announced collaboration on an integrated AI system to help automakers rapidly deploy advanced driver-assistance and automated driving features. The partnership combines Wayve's AI-driven autonomous vehicle technology with Qualcomm's semiconductor capabilities.",
+    "published_date": "2026-03-11",
+    "collected_at": "2026-03-11T09:03:00Z"
+  },
+  "digest": {
+    "headline": "퀄컴-웨이브, AI 자율주행 시스템 통합 개발 추진",
+    "lead": "반도체 업체 퀄컴과 영국 자율주행 스타트업 웨이브(Wayve)가 자동차 제조사를 위한 통합 AI 자율주행 시스템 개발에 협력합니다. 웨이브의 AI 기술과 퀄컴의 반도체 역량을 결합하여 고급 운전보조(ADAS)와 자동 운전 기능의 시장 출시 속도를 크게 앞당길 수 있을 것으로 기대됩니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">반도체 업체 퀄컴과 영국 자율주행 스타트업 웨이브(Wayve)가 자동차 제조사를 위한 통합 AI 자율주행 시스템 개발에 협력합니다. 웨이브의 AI 기술과 퀄컴의 반도체 역량을 결합하여 고급 운전보조(ADAS)와 자동 운전 기능의 시장 출시 속도를 크게 앞당길 수 있을 것으로 기대됩니다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">웨이브는 머신러닝 기반의 자율주행 플랫폼을 개발하는 영국 스타트업으로, 실제 주행 데이터로부터 학습하는 AI 접근법으로 업계에서 주목받고 있습니다. 퀄컴은 자동차 반도체와 자율주행용 컴퓨팅 플랫폼 분야의 선도기업입니다. 이번 파트너십은 웨이브의 AI 소프트웨어와 퀄컴의 자동차용 프로세서·머신러닝 칩을 통합한 엔드-투-엔드 솔루션을 제공함으로써 자동차 제조사들의 자율주행 도입 장벽을 낮추려는 전략입니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 협력은 자율주행 기술 상용화의 진입장벽 해소를 의미합니다. 기존에는 자동차 제조사가 자율주행 소프트웨어와 하드웨어를 각각 다른 벤더에서 조달하고 통합해야 했으나, 퀄컴-웨이브의 통합 솔루션으로 개발 시간과 비용이 크게 단축될 수 있습니다. 또한 이는 자동차 산업의 AI 침투 가속화와 경쟁 확대를 신호합니다. 각 자동차 기업이 기술적 진입장벽 없이 고급 자율주행 기능을 신속하게 제공할 수 있게 됨에 따라 자율주행차의 시장 경쟁이 한층 심화될 것으로 예상됩니다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">자율주행 기술의 상용화 가속은 공학·컴퓨터과학 교육 커리큘럼에 직접적 영향을 미칩니다. 대학의 자동차공학과와 AI 전공에서는 실제 산업 프로젝트 기반 교육이 강화될 것으로 예상되며, 대기업-스타트업 협력 사례는 학생들에게 산학연계 학습의 중요성을 강조합니다. 또한 에듀테크 스타트업은 자율주행 개발자 양성을 위한 온라인 교육 과정과 시뮬레이션 플랫폼 개발에 투자할 수 있는 기회를 얻게 됩니다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.reuters.com/technology/artificial-intelligence/\" style=\"color:#FF6B35;text-decoration:none;\">Reuters</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "research"
+    ],
+    "meta_title": "퀄컴-웨이브, 자율주행 AI 시스템 통합 개발",
+    "meta_description": "퀄컴과 웨이브의 협력으로 자동차 제조사의 자율주행 기술 도입이 가속화됩니다.",
+    "word_count": 480
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T09:03:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T00:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-11T00:36:43.330Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b0b91b5d8fee0001508992",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b0b91b5d8fee0001508992",
+    "public_url": "https://ubion.ghost.io/kweolkeom-weibeu-ai-jayuljuhaeng-siseutem-tonghab-gaebal-cujin/",
+    "status": "published",
+    "published_at": "2026-03-11T00:36:43.000Z"
+  }
+}

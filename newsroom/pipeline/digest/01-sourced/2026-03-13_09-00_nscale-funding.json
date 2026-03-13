@@ -1,0 +1,17 @@
+{
+  "stage": "sourced",
+  "pipeline": "digest",
+  "source": {
+    "title": "AI Cloud Startup Nscale Raises 2B Funding at 14.6B Valuation",
+    "url": "https://siliconangle.com/2026/03/09/ai-cloud-startup-nscale-raises-2b-funding-14-6b-valuation/",
+    "source_name": "SiliconAngle",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "AI cloud infrastructure startup Nscale has raised $2 billion in funding at a $14.6 billion valuation. This funding round highlights the massive capital flowing into AI infrastructure and cloud computing startups.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-13T00:00:00Z"
+  },
+  "audit_log": [
+    {"agent": "digest-collector", "action": "sourced", "timestamp": "2026-03-13T09:00:00Z"}
+  ]
+}

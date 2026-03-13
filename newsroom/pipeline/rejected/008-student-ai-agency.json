@@ -1,0 +1,44 @@
+{
+  "id": "008",
+  "source": {
+    "url": "https://genio.co",
+    "title": "How students are using AI in 2026: A shift from AI adoption to AI agency"
+  },
+  "stage": "rejected",
+  "draft": {
+    "headline": "\"AI 사용 92% 넘었는데...\" 대학생의 AI 주도권은 빈약한 이유",
+    "subheadline": "고소득층은 전략적 분석에, 저소득층은 기계적 요약에... 교육 불평등 심화",
+    "slug": "student-ai-agency-inequality",
+    "ghost_tags": [
+      "고등교육",
+      "AI리터러시",
+      "불평등",
+      "ai-news"
+    ],
+    "category": "education",
+    "word_count": 1823
+  },
+  "fact_check": {
+    "score": 85,
+    "verdict": "FLAG",
+    "issues": [
+      "⚠️ 대학생 92% AI 사용 통계 - Genio 보고서 기반이나 시간 경과에 따른 변동 가능성 있음",
+      "⚠️ \"정식 교육 36%\" - 원문에서의 정확한 수치 표현 재확인 권고"
+    ],
+    "verified_claims": [
+      "ChatGPT 2023년 등장 후 '패닉 페이즈' - 교육 현장 사건 기록 일치 ✓",
+      "2024년 '파일럿 페이즈' - 대학 정책 변화 추이 일치 ✓",
+      "사회경제적 배경별 활용 격차 - HEPI, Turnitin 등 주요 연구기관 보고 내용 일치 ✓",
+      "학생 53% 부정행위 혐의 불안 - 학술 무결성 관련 주요 조사 데이터 일치 ✓"
+    ],
+    "recommendations": [
+      "92% 통계의 원문 자료 링크 재확인",
+      "\"정식 교육 36%\" 수치 출처 명시 강화"
+    ],
+    "validated_at": "2026-03-13T07:45:00Z"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

@@ -38,7 +38,11 @@
       }
     ],
     "meta_title": "미국의 AI 교육 국가전략: '2028년까지 100만 명 양성' 목표",
-    "meta_description": "2026년 3월 3일, 미국 상원에서 역사적 결정이 내려졌다. 민주당의 Maria Cantwell 의원과 공화당의 Jerry Moran 의원이 공동으로 발의한 'NSF AI Education Act of 2026'이 바로 그것이다. 이 법안은 미국이 글로벌 AI 시장에"
+    "meta_description": "2026년 3월 3일, 미국 상원에서 역사적 결정이 내려졌다. 민주당의 Maria Cantwell 의원과 공화당의 Jerry Moran 의원이 공동으로 발의한 'NSF AI Education Act of 2026'이 바로 그것이다. 이 법안은 미국이 글로벌 AI 시장에",
+    "feature_image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.860Z",
+    "image_verified": false
   },
   "reporting_status": "completed",
   "drafted_at": "2026-03-09T20:39:00.000Z",
@@ -68,7 +72,5 @@
     "text_length": 2357,
     "checked_at": "2026-03-09T11:35:36.949Z"
   },
-  "ghost_id": "69aeb089ff4fbf0001ab79c9",
-  "ghost_url": "https://insight.ubion.global/p/48820736-abf5-47dc-bc32-ccd16ef08929/",
   "published_at": "2026-03-09T11:35:37.382Z"
 }

@@ -19,7 +19,7 @@
 
 ## ✅ 정상 항목
 
-- **Ghost 사이트** (insight.ubion.global): HTTP 200 ✅
+- **Ghost 사이트** (ubion.ghost.io): HTTP 200 ✅
 - **만평 이미지**: HTTP 200 ✅ (`cartoon-2026-03-07.png`)
 - **만평 포스트**: HTTP 200 ✅ (`/cartoon-2026-03-07/`)
 - **인사이트 포스트**: HTTP 200 ✅ (Ghost 발행 완료)

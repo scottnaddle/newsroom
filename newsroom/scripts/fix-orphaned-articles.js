@@ -23,7 +23,7 @@ function makeToken() {
 
 function ghostGet(path) {
   return new Promise(r => https.get({
-    hostname:'insight.ubion.global', 
+    hostname:'ubion.ghost.io', 
     path,
     headers:{'Authorization':'Ghost '+makeToken(),'Accept-Version':'v5.0'}
   }, res => { 
@@ -88,7 +88,7 @@ async function main() {
             headline: post.title || headline,
             html: post.html || '',
             feature_image: post.feature_image || buildUnsplashUrl('photo-1552664730-d307ca884978'),
-            og_image: post.og_image || `https://insight.ubion.global/content/images/2026/03/og-${postId}.png`,
+            og_image: post.og_image || `https://ubion.ghost.io/content/images/2026/03/og-${postId}.png`,
             ghost_tags: post.tags?.map(t => t.name) || [],
           };
           

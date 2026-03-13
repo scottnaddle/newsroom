@@ -1,7 +1,7 @@
 const https = require('https');
 const crypto = require('crypto');
 
-const GHOST_URL = 'insight.ubion.global';
+const GHOST_URL = 'ubion.ghost.io';
 const GHOST_KEY = '69a41252e9865e00011c166a';
 const GHOST_SECRET = 'e74e50ce3e6c097ad370d5370633ccbc2a3e3c0627d7ce1fc12a81b4e6b01625';
 const UNSPLASH_KEY = 'aQhPL39y1aOHxUIvjZLd0W3MuGLJpz46J7VwNEaVrAk';

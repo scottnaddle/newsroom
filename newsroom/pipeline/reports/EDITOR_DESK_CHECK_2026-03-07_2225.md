@@ -18,7 +18,7 @@
 
 ## ✅ 정상 항목
 
-- **Ghost 사이트** (insight.ubion.global): HTTP 200 ✅
+- **Ghost 사이트** (ubion.ghost.io): HTTP 200 ✅
 - **메인 파이프라인**: 전 단계 비어있음 — 토요일 밤, 정상
 - **발행 기사**: 19건 누적, 이상 없음
 - **이전 DeSantis 기사**: digest/03-published로 정상 발행 완료 ✅

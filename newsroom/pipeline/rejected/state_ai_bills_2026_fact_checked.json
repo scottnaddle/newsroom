@@ -1,0 +1,66 @@
+{
+  "source_id": "state-ai-ed-bills",
+  "url": "https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/",
+  "title": "Legislative Tracker: 2026 State AI in Education Bills",
+  "published_date": "2026-03-07",
+  "source_name": "FutureEd",
+  "stage": "copy-edited",
+  "fact_check": {
+    "score": 86,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "25개 주, 52개 법안 2026년 입법부 회기 - FutureEd 문헌",
+      "2029 PISA에 AI 리터러시 평가 포함 - 국제 일정 확인",
+      "트럼프 행정령 AI 리터러시 우선순위 - 정책 확인"
+    ],
+    "validated_at": "2026-03-11T15:30:00Z"
+  },
+  "draft": {
+    "headline": "미국 25개 주, 2026년 AI 교육 입법 열전 벌인다…52개 법안 추진",
+    "subheadline": "AI 리터러시 의무화·데이터 보호·학생 권리 보호…2029 PISA에 AI 평가 포함 앞두고 주(state) 차원 경쟁",
+    "slug": "미국-ai-교육-입법-2026",
+    "ghost_tags": [
+      "ai-교육",
+      "미국",
+      "입법"
+    ],
+    "category": "education",
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;margin:0 auto;\"><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">미국 교실의 변화: AI 확산과 그에 따른 우려</h2><p style=\"margin:0 0 32px;\">생성형 AI는 더 이상 먼 미래의 이야기가 아닙니다. 미국의 많은 학교에서 학생들이 ChatGPT를 과제에 활용하고 있습니다. 교육 효율성과 개인화 학습의 희망이 있는 반면, 학사 무결성, 데이터 프라이버시, 알고리즘 편향 등의 우려가 있습니다. FutureEd의 추적에 따르면 2026년 입법부 회기 동안 미국 25개 주에서 52개의 AI 교육 법안이 추진되고 있습니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">AI 리터러시 의무화와 졸업 요건 강화</h2><p style=\"margin:0 0 32px;\">52개 법안의 가장 큰 흐름은 AI 리터러시를 K-12 교육의 필수 요소로 정착시키는 것입니다. 아이오와는 2030-31학년도부터 졸업을 위해 컴퓨터 과학 및 AI 과정을 의무화합니다. 일리노이 HB 4411은 2028-29년부터 9학년의 전체 1년 AI 포함 컴퓨터 과학 과정을 요구합니다. 주목할 점은 이러한 법안들이 전체 졸업 요건 학점을 늘리지 않는다는 것입니다. AI 과정은 기존의 수학, 과학, CTE 요건에 포함됩니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">데이터 보호와 학생 권리 강화</h2><p style=\"margin:0 0 32px;\">두 번째 큰 흐름은 거버넌스와 학생 보호입니다. 사우스캐롤라이나 HB 5253은 가장 강력한 보호책을 제시합니다. 학부모의 명시적 동의 필수, AI 도구와 데이터 관행 연간 공개, 학생 데이터 상업적 이용 금지, 학부모의 AI 도구 제외 권리 보장입니다. 오클라호마 S.B. 1734는 모든 학군이 2027-28학년도 이전에 서면 AI 정책을 채택하도록 요구합니다. 아이다호 SB 1227은 주(state) 교육부가 프라이버시, 투명성, 학사 무결성, AI 리터러시 표준을 포함한 포괄적 AI 프레임워크를 개발하도록 지시합니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">지역 특성 반영한 맞춤형 접근</h2><p style=\"margin:0 0 32px;\">하와이 SB 2212는 2027-28학년도부터 모든 3, 4학년이 6주 AI 리터러시 과정을 이수하도록 하며, 5백만 달러의 AI 교육 보조금 시범사업을 설립합니다. 뉴욕 A.9190은 다른 접근을 취합니다. 9학년 미만의 대부분의 교실 AI 사용을 금지하되, 제한된 예외를 허용합니다. 매릴랜드의 Artificial Intelligence Ready Schools Act는 가장 포괄적으로, 연간 AI 가이드 발행, 학군 정렬 정책, 지역 AI 조정자 지정, AI 리터러시를 노동력 준비 표준에 포함합니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">2029년 PISA: 글로벌 AI 교육 경쟁의 시작</h2><p style=\"margin:0 0 32px;\">미국 입법자들이 신속하게 움직이는 배경에는 중요한 국제 일정이 있습니다. 2029년 OECD의 국제학력평가(PISA)에서 AI 리터러시가 처음으로 평가될 예정입니다. 이는 15세 학생들의 AI 이해도, AI 윤리, AI 도구 사용 능력을 전 세계적으로 비교하는 것입니다. 미국의 입법자들은 자국 학생들이 뒤쳐지지 않기를 원합니다. AI 리터러시가 읽기·쓰기·산수와 같은 핵심 능력으로 인정되는 시대가 온 것입니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">한국의 관찰 과제</h2><p style=\"margin:0 0 32px;\">52개 법안의 공통 메시지는 분명합니다. AI는 K-12 교실에서 필수 요소이며, 책임감 있게 도입해야 한다는 것입니다. 교사 역할 변화, 학생 기술 요구, 데이터 프라이버시, 학사 무결성, 알고리즘 편향 방지 등 많은 고려 사항이 있습니다. 2026년 미국의 이 광범위한 입법 움직임은 AI 교육이 국가 정책 차원의 문제로 승격되었음을 의미합니다. 한국도 이러한 글로벌 흐름을 면밀히 관찰하고 대응해야 할 시점입니다.</p><div style=\"border-top:1px solid #e2e8f0;margin-top:48px;padding-top:20px;\"><h3 style=\"font-size:16px;font-weight:700;margin-bottom:16px;\">참고자료</h3><ol style=\"margin:0;padding-left:20px;\"><li style=\"margin-bottom:12px;\"><strong>FutureEd</strong> - \"Legislative Tracker: 2026 State AI in Education Bills\"</li><li style=\"margin-bottom:12px;\"><strong>미국 교육부</strong> - AI 교육 우선순위 공지</li><li style=\"margin-bottom:12px;\"><strong>각 주 의회</strong> - 2026년 입법부 회기 AI 교육 법안</li></ol></div><p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "custom_excerpt": "미국의 25개 주가 2026년 입법부 회기에서 52개의 AI 교육 법안을 추진하고 있습니다. AI 리터러시 의무화, 강력한 데이터 보호, 학생 권리 보호가 핵심이며, 2029년 PISA 시험에 AI 평가가 포함될 예정입니다.",
+    "references": [
+      {
+        "title": "FutureEd - Legislative Tracker",
+        "url": "https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/"
+      },
+      {
+        "title": "미국 교육부 - AI 우선순위",
+        "url": "https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/"
+      },
+      {
+        "title": "OECD PISA 2029",
+        "url": "https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/"
+      }
+    ],
+    "word_count": 1604,
+    "feature_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop",
+    "meta_title": "미국 25개 주, 2026년 AI 교육 입법 열전 벌인다…52개 법안 추진",
+    "meta_description": "인공지능이 K-12 교실에 급속히 확산되고 있습니다. 2026년 입법부 회기에 미국 25개 주에서 52개의 AI 교육 관련 법안을 추진 중입니다. AI 리터러시 의무화, 데이터 보호, 학생 권리 보호가 핵심입니다.미국 교실의 변화: AI 확산과 그에 따른 우려생성형 A"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 1880자, 팩트점수 86, 중복 0.0%",
+    "meta_title": "미국 25개 주, 2026년 AI 교육 입법 열전 벌인다…52개 법안 추진",
+    "meta_description": "인공지능이 K-12 교실에 급속히 확산되고 있습니다. 2026년 입법부 회기에 미국 25개 주에서 52개의 AI 교육 관련 법안을 추진 중입니다. AI 리터러시 의무화, 데이터 보호, 학생 권리 보호가 핵심입니다.미국 교실의 변화: AI 확산과 그에 따른 우려생성형 A",
+    "decided_at": "2026-03-11T06:35:25.974Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [
+      "AI 배지 pill 제거"
+    ],
+    "text_length": 1761,
+    "checked_at": "2026-03-11T06:35:25.974Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "iowa-university-regional-ai",
+  "stage": "rejected",
+  "draft": {
+    "headline": "지역 대학도 AI 전쟁에 뛰어들다 - 아이오와대학의 '실리적 선택'",
+    "subheadline": "작은 대학의 큰 도전: AI 전공으로 높은 수준의 인재 양성하기",
+    "slug": "iowa-university-regional-ai",
+    "word_count": 1720
+  },
+  "fact_check": {
+    "score": 93,
+    "verdict": "PASS ✅",
+    "verified_claims": [
+      "University of Northern Iowa 두 AI 전공 신설 (March 2026) - 확인됨",
+      "Wilson College of Business 및 Humanities Arts Sciences - 확인됨",
+      "응용 AI 비즈니스 인증서 신설 - 확인됨",
+      "2026학년도 신학기 시작 - 확인됨"
+    ],
+    "validated_at": "2026-03-11T17:32:00+09:00"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

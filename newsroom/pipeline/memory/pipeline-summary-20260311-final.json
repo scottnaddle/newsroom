@@ -1,0 +1,131 @@
+{
+  "execution_date": "2026-03-11T06:30:00Z",
+  "execution_time_seoul": "2026-03-11 3:30 PM (Asia/Seoul)",
+  "pipeline_status": "STEP 5 (후처리) - 부분 완료",
+  "summary": {
+    "step_1_collection": {
+      "status": "완료",
+      "new_articles": 8,
+      "quality_score_threshold": 65,
+      "details": "web_search 6개 쿼리 실행, 중복 제거, 65점 이상 기사만 수집"
+    },
+    "step_2_reporting": {
+      "status": "진행 중",
+      "completed": 4,
+      "remaining": 4,
+      "max_per_batch": 5,
+      "details": "원문 수집(web_fetch), 관련 소스 검색, 취재 브리프 작성"
+    },
+    "step_3_drafting": {
+      "status": "완료 (4개)",
+      "completed": 4,
+      "minimum_word_count": 1600,
+      "articles": [
+        {
+          "title": "한국 정부, 초·중등 'AI 중점학교' 1,141개교 선정…2026년 385억 원 투자",
+          "word_count": 1847,
+          "category": "education"
+        },
+        {
+          "title": "'AI 교육의 글로벌 표준' 형성 중…영국·미국 거버넌스 강화, 한국은 준비되나?",
+          "word_count": 1923,
+          "category": "education"
+        },
+        {
+          "title": "대학의 'AI 혼란'…80%가 AI 쓰는데 정책은 25%만 있다",
+          "word_count": 1756,
+          "category": "education"
+        },
+        {
+          "title": "미국 25개 주, 2026년 AI 교육 입법 열전 벌인다…52개 법안 추진",
+          "word_count": 1604,
+          "category": "education"
+        }
+      ]
+    },
+    "step_4_fact_check": {
+      "status": "완료",
+      "completed": 4,
+      "pass": 4,
+      "flag": 0,
+      "fail": 0,
+      "verification_method": "web_search 교차 검증",
+      "results": [
+        {
+          "article": "AI 정책",
+          "score": 92,
+          "verdict": "PASS",
+          "verified_claims": ["1,141개교", "385억 원", "AI for All 방안"]
+        },
+        {
+          "article": "AI 혁명",
+          "score": 88,
+          "verdict": "PASS",
+          "verified_claims": ["영국 2월 26일", "미국 2월 24일", "교사 60% AI 사용"]
+        },
+        {
+          "article": "AI 거버넌스",
+          "score": 85,
+          "verdict": "PASS",
+          "verified_claims": ["EDUCAUSE 조사", "EU AI Act 8월", "거버넌스 4기둥"]
+        },
+        {
+          "article": "미국 입법",
+          "score": 86,
+          "verdict": "PASS",
+          "verified_claims": ["25개 주", "52개 법안", "2029 PISA"]
+        }
+      ]
+    },
+    "step_5_post_processing": {
+      "status": "부분 완료 (에디터, 교열 성공 / 발행 오류)",
+      "editor_desk": {
+        "status": "PASS",
+        "processed": 4,
+        "validation": "리드박스, h2 섹션, 참고자료 검증"
+      },
+      "copy_editing": {
+        "status": "PASS",
+        "processed": 4,
+        "minor_changes": "문법/톤 일관성 조정"
+      },
+      "publishing": {
+        "status": "ERROR",
+        "processed": 0,
+        "error": "이미지 선택 모듈 오류 (used.includes is not a function)",
+        "notes": "Ghost CMS 연동 부분 수정 필요"
+      }
+    },
+    "final_stats": {
+      "collection": {
+        "sourced": 7,
+        "total_collected": 8
+      },
+      "processing": {
+        "reported": 4,
+        "drafted": 4,
+        "fact_checked": 4,
+        "desk_approved": 4,
+        "copy_edited": 4,
+        "published": 0
+      },
+      "quality_metrics": {
+        "average_fact_check_score": 87.75,
+        "all_pass_rate": 100,
+        "average_word_count": 1757.5
+      }
+    },
+    "next_steps": [
+      "STEP 2 계속: 남은 4개 기사 취재 완료",
+      "STEP 3 계속: 남은 4개 기사 작성",
+      "STEP 4 계속: 팩트체크",
+      "발행 스크립트 수정: 이미지 선택 모듈 버그 해결",
+      "Ghost CMS 발행 재실행"
+    ]
+  },
+  "notes": {
+    "performance": "4개 기사 작성·팩트체크 완료, 모두 높은 점수로 통과",
+    "challenges": "발행 스크립트의 이미지 선택 부분에서 예외 발생",
+    "recommendations": "Ghost CMS 토큰 검증 및 이미지 선택 로직 재확인"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "source-006",
+  "stage": "rejected",
+  "source": {
+    "title": "Opinion: The best education for future success might surprise you",
+    "url": "https://www.washingtonpost.com/opinions/2026/03/02/ais-best-use-is-enhancing-human-judgment-so-study-liberal-arts/",
+    "published": "2026-03-02T00:00:00Z"
+  },
+  "fact_check": {
+    "score": 85,
+    "verdict": "PASS",
+    "verified_claims": [
+      "Software engineering job postings declined since 2022 peak",
+      "Entry-level developer roles are disappearing due to AI tools",
+      "20% decline in computer science enrollment (Stanford 2024)",
+      "Teachers and HR leaders value soft skills and critical thinking",
+      "Stanford launched humanistic AI programs in 2024",
+      "MIT integrated ethics+science as required courses",
+      "Google and OpenAI hiring for ethics and philosophy backgrounds",
+      "Global shift from STEM-only to interdisciplinary approach"
+    ],
+    "issues": [
+      "Stanford CS enrollment decline specifically attributed to AI (reasonable inference but not universally attributed)"
+    ],
+    "validated_at": "2026-03-10T09:45:00Z",
+    "methodology": "Cross-referenced with Stanford University announcements, MIT curriculum changes, Deloitte Higher Education Trends 2026, and major tech company hiring practices."
+  },
+  "draft": {
+    "headline": "AI 시대의 '역설': 기술 도구는 언제든 배울 수 있다, 하지만 인간 판단력은 아니다",
+    "subheadline": "기술 기술이 아닌 '인문학'이 AI 시대에 살아남는 이유, 자유교육의 재평가",
+    "slug": "liberal-arts-education-ai-era",
+    "ghost_tags": [
+      "교육",
+      "AI시대",
+      "인문학",
+      "의견"
+    ],
+    "category": "education",
+    "word_count": 1834
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

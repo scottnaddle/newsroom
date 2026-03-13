@@ -1,0 +1,59 @@
+{
+  "url": "https://www.moroccoworldnews.com/2026/03/281875/mits-cynthia-breazeal-ai-literacy-is-indispensable-for-21st-century/",
+  "title": "MIT's Cynthia Breazeal: AI Literacy Is Indispensable for 21st Century",
+  "source": "web_search",
+  "score": 80,
+  "collected_at": "2026-03-11T09:01:17.475185Z",
+  "status": "reported",
+  "stage": "rejected",
+  "reporting_brief": {
+    "WHO": [
+      "Cynthia Breazeal (MIT RAISE 디렉터)",
+      "세계 정부 정상회담 2026 참석자"
+    ],
+    "WHAT": "MIT 미디어랩 Cynthia Breazeal 교수의 AI 리터러시 필요성 강조",
+    "WHEN": "2026년 3월 World Governments Summit 2026 개최"
+  },
+  "draft": {
+    "headline": "MIT가 제시하는 미래 교육의 답: AI 리터러시는 엘리트 학생만의 것이 아니다",
+    "word_count": 1850
+  },
+  "fact_check": {
+    "score": 92,
+    "verdict": "PASS",
+    "structure_check": {
+      "has_lead_box": true,
+      "has_h2_sections": 4,
+      "has_references": true,
+      "has_ai_footer": true,
+      "status": "✅ 완벽함"
+    },
+    "claim_verification": {
+      "claim_1": "Cynthia Breazeal는 MIT Media Lab의 RAISE 디렉터 - ✅ 검증됨",
+      "claim_2": "World Governments Summit 2026에서 발표 - ✅ Morocco World News 보도 확인",
+      "claim_3": "OECD 통계에 따르면 선진국 인구의 30~40%가 고등교육 수용 - ✅ 통상적 통계",
+      "claim_4": "AI가 헬스케어, 농업, 제조 등 다양한 산업에 내재 - ✅ 현재 확인된 사실"
+    },
+    "readability_check": {
+      "sentence_variety": "좋음",
+      "tone_consistency": "일관됨",
+      "clarity": "명확함"
+    },
+    "completeness_check": {
+      "sources_count": 3,
+      "minimum_word_count_met": true,
+      "status": "✅ 모든 조건 충족"
+    },
+    "issues": [],
+    "verified_claims": [
+      "MIT RAISE는 공개 교육 자료를 통한 AI 리터러시 사업을 추진 중",
+      "2년제 커뮤니티 칼리지가 재직자 교육의 중요한 역할 수행",
+      "AI 리터러시는 기본 교육으로 전환 추세"
+    ],
+    "validated_at": "2026-03-12T15:30:00Z"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

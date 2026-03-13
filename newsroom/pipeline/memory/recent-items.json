@@ -1,11 +1,20 @@
 {
-  "timestamp": "2026-03-10T11:00:00Z",
-  "window_hours": 72,
-  "items": [
-    {"id": "source-01", "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960557&call_from=rsslink", "title": "AI 중점학교 1141개교 선정…특별교부금 385억 원 지원"},
-    {"id": "source-02", "url": "https://www.mt.co.kr/policy/2026/03/03/2026030313051850252", "title": "금지 대신 필수 교양으로…대학가 덮친 AI, 교육·평가 판도 바꾼다"},
-    {"id": "source-03", "url": "https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education", "title": "AI education policy 2026: US Senate proposes bill to boost AI education"},
-    {"id": "source-04", "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/", "title": "AI Governance in Higher Education: The 2026 Framework for Policy & Risk"},
-    {"id": "source-05", "url": "https://www.kjob.news/news/470555", "title": "AI 교육혁명 2026: 영국·미국 동시 착수한 거버넌스 강화와 한국의 과제"}
+  "last_updated": "2026-03-12T08:00:00Z",
+  "items_72h": [
+    {
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960595",
+      "title": "초·중등 인공지능(AI) 중점학교 운영",
+      "collected_at": "2026-03-12T08:00:00Z"
+    },
+    {
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960557",
+      "title": "AI 중점학교 1141개교 선정…특별교부금 385억 원 지원",
+      "collected_at": "2026-03-12T08:00:00Z"
+    },
+    {
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156748362",
+      "title": "제8회 교육 공공데이터 AI 활용대회 3월 16일부터 접수 시작",
+      "collected_at": "2026-03-12T08:00:00Z"
+    }
   ]
 }

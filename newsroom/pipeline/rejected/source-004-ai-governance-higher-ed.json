@@ -1,0 +1,43 @@
+{
+  "id": "source-004",
+  "stage": "rejected",
+  "source": {
+    "title": "AI Governance in Higher Education: The 2026 Framework for Policy & Risk",
+    "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/",
+    "published": "2026-03-06T00:00:00Z"
+  },
+  "fact_check": {
+    "score": 88,
+    "verdict": "PASS",
+    "verified_claims": [
+      "80% of university faculty/staff use AI tools",
+      "Only 20-25% of universities have formal AI policies",
+      "EU AI Act high-risk provisions take effect August 2026",
+      "Shadow AI adoption is widespread in institutions",
+      "Washington University launched +AI initiative in March 2026",
+      "Requirements: transparency, bias testing, human-in-the-loop governance"
+    ],
+    "issues": [
+      "Source article does not explicitly state August 2026 as deadline (inferred from EU AI Act timeline)"
+    ],
+    "validated_at": "2026-03-10T09:35:00Z",
+    "methodology": "Cross-referenced with EDUCAUSE 2024 AI Landscape Study, Washington University press releases, and EU AI Act official documentation."
+  },
+  "draft": {
+    "headline": "대학 캠퍼스의 'AI 거버넌스' 위기…8월 규제 시한 앞두고 정책 공백 노출",
+    "subheadline": "교직원 80% AI 사용하지만 정책은 25% 미만, EU 규제 시행까지 6개월 남겨",
+    "slug": "ai-governance-higher-education-2026",
+    "ghost_tags": [
+      "정책",
+      "고등교육",
+      "ai-news",
+      "규제"
+    ],
+    "category": "education",
+    "word_count": 1789
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

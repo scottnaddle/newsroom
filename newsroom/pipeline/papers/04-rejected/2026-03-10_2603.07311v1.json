@@ -1,0 +1,50 @@
+{
+  "arxiv_id": "2603.07311v1",
+  "title": "Data-Driven Hints in Intelligent Tutoring Systems",
+  "summary": "This chapter explores the evolution of data-driven hint generation for intelligent tutoring systems (ITS). The Hint Factory and Interaction Networks have enabled the generation of next-step hints, waypoints, and strategic subgoals from historical student data. Data-driven techniques have also enabled systems to find the right time to provide hints. We explore further potential data-driven adaptations for problem solving based on behavioral problem solving data and the integration of Large Language Models (LLMs).",
+  "authors": [
+    "Sutapa Dey Tithi",
+    "Kimia Fazeli",
+    "Dmitri Droujkov",
+    "Tahreem Yasir",
+    "Xiaoyi Tian",
+    "Tiffany Barnes"
+  ],
+  "categories": [
+    "cs.AI",
+    "cs.AI"
+  ],
+  "published": "2026-03-07T19:02:01Z",
+  "updated": "2026-03-07T19:02:01Z",
+  "pdf_url": "https://arxiv.org/pdf/2603.07311v1",
+  "abs_url": "https://arxiv.org/abs/2603.07311v1",
+  "source": "arxiv",
+  "relevance_score": 75,
+  "source_query": "ti:\"intelligent tutoring system\"",
+  "collected_at": "2026-03-10T18:00:24.703Z",
+  "stage": "rejected",
+  "audit_log": [
+    {
+      "agent": "paper-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T18:00:30.852Z",
+      "source": "arxiv",
+      "relevance_score": 75
+    },
+    {
+      "agent": "paper-summarizer",
+      "action": "summarized",
+      "timestamp": "2026-03-10T23:06:27.898Z",
+      "model": "glm-4-plus"
+    }
+  ],
+  "korean_title": "지능형 튜터링 시스템을 위한 데이터 기반 힌트",
+  "korean_summary": "이 논문은 지능형 튜터링 시스템(ITS)의 힌트 생성 방식이 역사적 학습 데이터를 활용하는 데이터 기반 방향으로 진화해왔음을 설명합니다. '힌트 팩토리'와 '상호작용 네트워크'는 다음 단계 힌트, 중간 지점, 전략적 하위 목표를 생성하며, 데이터 기반 기술은 학생에게 힌트를 제공할 최적의 시점을 찾는 데도 활용됩니다. 또한, 문제 해결 행동 데이터와 거대 언어 모델(LLM)을 통합한 새로운 데이터 기반 적용 가능성을 탐구합니다.",
+  "key_findings": [
+    "'힌트 팩토리'와 '상호작용 네트워크'를 통해 학습자의 역사 데이터를 기반으로 다음 단계 힌트, 중간 목표 등을 생성할 수 있게 되었습니다.",
+    "데이터 기반 기술을 통해 학생이 힌트가 필요할 때 정확히 힌트를 제공하는 최적의 타이밍을 파악할 수 있게 되었습니다.",
+    "학생의 문제 해결 행동 데이터와 거대 언어 모델(LLM)을 결합하여 힌트 시스템을 더욱 발전시킬 수 있는 새로운 방향을 제시합니다."
+  ],
+  "implications": "이 연구는 학생 개개인의 학습 패턴을 분석하여 맞춤형 힌트를 제공하는 교육 도구의 개발 가능성을 보여줍니다. 이를 통해 학생들은 자신의 수준에 맞는 적절한 시기에 도움을 받아 학습 동기를 유지하며 문제 해결 능력을 효과적으로 함양할 수 있을 것입니다.",
+  "error": "HTTP 401: {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"4dc7d4a0-1d10-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}"
+}

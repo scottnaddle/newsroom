@@ -67,7 +67,11 @@
     "word_count": 1387,
     "category": "policy",
     "meta_title": "EU AI Act 8월 시행 임박... 대학가 AI 가버넌스 준비 시급",
-    "meta_description": "EU AI Act 8월 시행 임박... 대학가 AI 가버넌스 준비 시급 body { font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif; margin: 0; padding: 20px; }"
+    "meta_description": "EU AI Act 8월 시행 임박... 대학가 AI 가버넌스 준비 시급 body { font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif; margin: 0; padding: 20px; }",
+    "feature_image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.853Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 80,
@@ -107,7 +111,5 @@
     "text_length": 1871,
     "checked_at": "2026-03-09T22:03:13.169Z"
   },
-  "ghost_id": "69af43a1ff4fbf0001ab7ccc",
-  "ghost_url": "https://insight.ubion.global/eu-ai-act-higher-ed-governance-2026/",
   "published_at": "2026-03-09T22:03:13.597Z"
 }

@@ -14,7 +14,7 @@
 
 ### 원인
 1. **API 엔드포인트 오류**
-   - 이전: `https://insight.ubion.global/content/newsroom/status.json`
+   - 이전: `https://ubion.ghost.io/content/newsroom/status.json`
    - 문제: 존재하지 않는 경로
    
 2. **정합성 부족**
@@ -32,7 +32,7 @@
 **변경 내용**:
 ```javascript
 // 이전 (잘못된 경로)
-const API='https://insight.ubion.global/content/newsroom/status.json';
+const API='https://ubion.ghost.io/content/newsroom/status.json';
 
 // 수정됨 (실시간 로컬 API)
 const API='http://localhost:3847/api/status';
@@ -70,7 +70,7 @@ dashboard-api.js (포트 3847)
     └─ curl http://localhost:3847/api/status → 1개 ✅
     
 대시보드 페이지 (외부)
-    └─ https://insight.ubion.global/content/newsroom/status.json ❌
+    └─ https://ubion.ghost.io/content/newsroom/status.json ❌
        (존재하지 않는 경로)
        
 결과: 대시보드 = 오래된 캐시 데이터 또는 에러
@@ -89,7 +89,7 @@ dashboard-api.js (포트 3847)
        ├─ 30초마다 자동 갱신
        └─ 실시간 정확한 데이터 표시 ✅
 
-대시보드 페이지 (외부: insight.ubion.global)
+대시보드 페이지 (외부: ubion.ghost.io)
     └─ Ghost 페이지에 embed된 HTML
        └─ 동일한 API 호출 (프록시로 포워딩)
 ```
@@ -122,7 +122,7 @@ ps aux | grep dashboard-api
 
 ### 3단계: 외부 접근 설정 (필요한 경우)
 
-**현재 상황**: insight.ubion.global에서 대시보드 페이지 서빙
+**현재 상황**: ubion.ghost.io에서 대시보드 페이지 서빙
 
 **필요한 설정**:
 - **Option A**: 프록시 설정 (권장)
@@ -165,7 +165,7 @@ ls /root/.openclaw/workspace/newsroom/pipeline/04-drafted/*.json | wc -l
 curl http://localhost:3847/api/status | jq '.pipeline[] | select(.dir=="04-drafted")'
 
 # 3. 대시보드 페이지 확인
-curl https://insight.ubion.global/newsroom-status/ 2>/dev/null | grep -o '"count":[0-9]*' | head -5
+curl https://ubion.ghost.io/newsroom-status/ 2>/dev/null | grep -o '"count":[0-9]*' | head -5
 
 # 4. 데이터 일치도 검증
 # (위 3개 결과가 모두 같은 숫자를 보여야 함)

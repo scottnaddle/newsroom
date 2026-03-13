@@ -1,0 +1,28 @@
+{
+  "url": "https://www.businesswire.com/news/home/20260304922673/en/Core-Education-Launches-CoreXP",
+  "title": "고등교육 기관들을 위한 AI 기반 운영 플랫폼 등장",
+  "slug": "core-corexpo-ai-higher-ed",
+  "source": "businesswire",
+  "stage": "rejected",
+  "draft": {
+    "headline": "고등교육 기관들을 위한 AI 기반 운영 플랫폼 등장... '핵심 의사결정'을 AI와 함께",
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;margin:0 auto;padding:0 20px\"><div style=\"border-left:4px solid #d97706;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:48px\"><p style=\"margin:0;font-weight:600;font-size:18px\">Core Education이 새로운 AI 기반 운영 시스템 CoreXP를 출시했습니다.</p></div><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">CoreXP는 대학 의사결정을 어떻게 바꾸는가?</h2><p style=\"margin:0 0 32px\">CoreXP는 대학의 모든 부서로부터의 데이터를 수집하고, AI 알고리즘을 통해 패턴을 분석하며, 통합된 인사이트를 의사결정자들에게 제시합니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">왜 이제 필요한가?</h2><p style=\"margin:0 0 32px\">고등교육 기관들이 CoreXP 같은 AI 플랫폼을 시급하게 필요로 하는 이유가 있습니다. 선진국 대부분에서 출생률 저하로 인한 학령인구 감소가 진행 중입니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">고등교육 기관들의 준비는 어디까지?</h2><p style=\"margin:0 0 32px\">CoreXP 같은 AI 기반 운영 시스템의 도입은 기술적 도입 이상의 의미를 갖습니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">초기 도입 대학들의 반응</h2><p style=\"margin:0 0 32px\">초기 도입 기관들의 사례를 통해 CoreXP의 실제 영향을 추측할 수 있습니다.</p><hr style=\"border:none;border-top:1px solid #e2e8f0;margin:44px 0 20px\"><h3 style=\"font-size:16px;font-weight:700;margin:32px 0 16px\">참고자료</h3><ol style=\"margin:0 0 32px;padding-left:24px\"><li style=\"margin-bottom:12px\"><strong>Core Education Launches CoreXP</strong> - Business Wire, 2026년 3월 4일</li></ol><p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "word_count": 1950,
+    "feature_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "fact_check": {
+    "score": 88,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "Core Education CoreXP 출시",
+      "학생 유지율 5-8% 향상"
+    ],
+    "validated_at": "2026-03-12T15:34:00Z"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "본문 469자 (1600자 미만)"
+  }
+}

@@ -18,7 +18,7 @@
 
 1. **Ghost Admin 접속**
    ```
-   https://insight.ubion.global/ghost/
+   https://ubion.ghost.io/ghost/
    ```
 
 2. **새 페이지 생성**
@@ -57,12 +57,12 @@
 
 5. **저장 & 발행**
    - Save → Publish (또는 Draft로 유지)
-   - URL: `https://insight.ubion.global/dashboard/`
+   - URL: `https://ubion.ghost.io/dashboard/`
 
 #### 방법 B: Nginx 프록시 (선택)
 
 ```nginx
-# /etc/nginx/sites-available/insight.ubion.global
+# /etc/nginx/sites-available/ubion.ghost.io
 location /dashboard/ {
   proxy_pass http://127.0.0.1:3848/pages/;
   proxy_http_version 1.1;
@@ -159,7 +159,7 @@ http://127.0.0.1:3848/pages/index.html
 
 ### Ghost CMS (공개)
 ```
-https://insight.ubion.global/dashboard/
+https://ubion.ghost.io/dashboard/
 ```
 
 ### API 직접 호출

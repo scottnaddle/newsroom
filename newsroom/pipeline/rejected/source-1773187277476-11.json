@@ -1,0 +1,41 @@
+{
+  "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=120749",
+  "title": "숭실대, 동작구·동작관악교육지원청·3개 대학과 '고교-대학 연계 진로 프로그램' 협약 체결",
+  "source": "web_search",
+  "score": 80,
+  "collected_at": "2026-03-11T09:01:17.475152Z",
+  "status": "fact-checked",
+  "reporting_brief": {
+    "who": "숭실대학교(총장 이윤재), 동작구청, 동작관악교육지원청, 중앙대, 총신대, 서울대 평생교육원",
+    "what": "고교학점제 연계 진로 프로그램 지원을 위한 6자 업무협약 체결"
+  },
+  "draft": {
+    "headline": "\"지역 고교-대학 연계\" 숭실대, 동작구 학생 2천명과 함께 이룬 성과"
+  },
+  "fact_check": {
+    "score": 87,
+    "verdict": "PASS",
+    "verified_claims": [
+      "숭실대·동작구청·교육지원청·3개 대학 6자 협약 (원본 기사 기반)",
+      "2026년 2월 26일 체결 (원본 기사)",
+      "2년간 2천명 이상 학생 참여 (원본 기사)",
+      "만족도 4.7점/5점 (원본 기사 기재)",
+      "고교교육 기여대학 지원사업 수행 2년간의 경험 바탕 (원본 기사)",
+      "AI, 공학, 인문사회, 경상 등 다양한 학문 분야 제공 (원본 기사)"
+    ],
+    "issues": [],
+    "structure_check": {
+      "lead_box": true,
+      "h2_sections": 4,
+      "references": 3,
+      "ai_disclaimer": true,
+      "text_length": "1680자 (1600자 이상 충족)"
+    },
+    "validated_at": "2026-03-11T00:37:00Z"
+  },
+  "stage": "rejected",
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

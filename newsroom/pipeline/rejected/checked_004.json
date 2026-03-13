@@ -1,0 +1,22 @@
+{
+  "id": "checked_004",
+  "stage": "rejected",
+  "original_draft": "draft_004",
+  "fact_check": {
+    "score": 90,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "안양대 인공지능 글로벌교육원·국제미래학회와 협약 체결 - 스포츠경향 보도 확인",
+      "협약 날짜 2026년 3월 9일 - 보도 기사 확인",
+      "협약 내용: AI 미래 인재 양성과 AI 역량 강화 - 보도 기사 내용 확인"
+    ],
+    "validation_method": "언론 보도(스포츠경향) 확인, 대학 보도 자료 교차검증",
+    "notes": "지방 대학의 AI 교육 강화에 관한 기사로 신선한 주제이며, 기사의 분석과 전망도 교육 정책과 일치함",
+    "validated_at": "2026-03-11T11:37:00Z"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

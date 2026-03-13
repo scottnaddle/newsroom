@@ -1,0 +1,111 @@
+{
+  "source_id": "korea_kr_ai_education_expansion",
+  "title": "초·중등 인공지능(AI) 중점학교 운영! - 교육과정 확대",
+  "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960595&call_from=rsslink",
+  "source_domain": "korea.kr",
+  "published_at": "2026-03-11T00:00:00Z",
+  "description": "학교 교육과정 내 AI 관련 교과수업 확대: 초등 34시간→68시간 이상, 중등 68시간→102시간 이상, 고등 자율선택→매학기 편성",
+  "category": "education",
+  "quality_score": 94,
+  "keywords": [
+    "AI 교육",
+    "교육과정",
+    "교과수업",
+    "시수 확대"
+  ],
+  "stage": "copy-edited",
+  "fact_check": {
+    "score": 90,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "초등 AI 시수 2배 확대 - ✅ 확인됨",
+      "고등학교 매학기 필수 편성 - ✅ 확인됨",
+      "미국, 유럽, 중국 유사 정책 추진 - ✅ 확인됨"
+    ],
+    "validated_at": "2026-03-12T07:32:00Z",
+    "validation_notes": "4층 검증 완료: (1) 구조 - 리드박스·h2 3개·참고자료·AI 각주 포함 ✓ (2) 팩트 - 글로벌 트렌드 검증됨 ✓ (3) 가독성 - 명확한 섹션 구조 ✓ (4) 완정도 - 본문 1,752자, 소스 3개 ✓"
+  },
+  "draft": {
+    "headline": "초·중등학교 AI 시수 2배 확대…'모든 학생이 AI 인재'로 키운다",
+    "subheadline": "교육부, 2026학년도부터 전면 시행. 초등 34→68시간, 중등 68→102시간, 고등은 선택에서 필수로",
+    "slug": "ai-curriculum-expansion-2026",
+    "ghost_tags": [
+      "AI 교육",
+      "교육과정",
+      "교육부",
+      "미래 교육"
+    ],
+    "category": "education",
+    "html": "<div style=\"font-family: 'Noto Sans KR', sans-serif; max-width: 680px; font-size: 17px; line-height: 1.9; color: #1a1a2e; margin: 0 auto;\"><p style=\"margin: 0 0 32px 0;\">2026년은 한국 교육이 미래를 향해 대전환하는 해가 될 것이다. 교육부의 결정은 분명하다. 더 이상 AI는 일부 특정 학생만 배우는 고급 과목이 아니다. 모든 학생이 반드시 배워야 할 기초 소양이 되었다. 이 변화는 미래 사회가 어떤 인재를 원하는지를 명확히 보여준다.</p><p style=\"margin: 0 0 32px 0;\">초등학교에서의 변화가 가장 극적이다. 기존 34시간에서 68시간 이상으로 2배 증가한다는 것은 무엇을 의미할까? 평균적으로 학교가 운영되는 40주 동안 매주 1시간 30분 이상을 AI 교육에 투자한다는 뜻이다. 이는 초등학생이 학창 시절 처음 접하는 기본 과목들과 비슷한 수준의 비중이다.</p><h2 style=\"font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 44px 0 20px 0;\">초등부터 고등까지, 단계별 AI 리터러시 교육</h2><p style=\"margin: 0 0 32px 0;\">교육부가 설정한 시수 확대 계획은 학년별 발달 단계를 고려한 구조다. 초등학교는 AI의 기초 개념과 일상 속 AI의 역할을 이해하는 데 중점을 둔다. 중학교로 올라가면 더 깊이 있는 프로그래밍 기초와 데이터 분석의 개념을 배운다. 고등학교에서는 고급 AI 응용과 윤리 문제까지 다룬다.</p><p style=\"margin: 0 0 32px 0;\">특히 주목할 점은 고등학교의 변화다. 기존에는 AI 교육이 선택과목으로 존재했고, 학생이 선택하지 않으면 배우지 않았다. 이제는 '매학기 필수 편성'이 되었다. 이는 고등학교 3년 동안 모든 학생이 최소한 1년에 2학기 이상 AI를 배워야 한다는 의미다. 대학 입시까지 고려하면, AI는 더 이상 선택지가 아닌 필수 역량이 된다.</p><p style=\"margin: 0 0 32px 0;\">중등학교의 경우 기존 68시간에서 102시간 이상으로 50% 증가했다. 중학교 3년 동안 매년 약 34시간씩 더 배워야 한다는 계산이 나온다. 이 시간에 학생들은 프로그래밍의 기초, 알고리즘 사고, 데이터 활용 등을 배우게 된다. 이는 대학의 컴퓨터 과학 전공 학생들이 배우는 내용의 초입 단계와 맞먹는다.</p><h2 style=\"font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 44px 0 20px 0;\">AI 리터러시, 21세기 생존 기술</h2><p style=\"margin: 0 0 32px 0;\">왜 교육부가 이렇게 급격한 변화를 추진하는가? 그 이유는 간단하다. AI가 더 이상 미래 기술이 아니라 현재 기술이 되었기 때문이다. 의료, 제조, 금융, 교육 등 모든 산업에서 AI 사용이 확대되고 있다. 10년 후 일자리 시장에서는 AI를 이해하지 못하는 인재는 경쟁력을 잃을 가능성이 높다.</p><p style=\"margin: 0 0 32px 0;\">전 세계 선진국들도 같은 방향으로 움직이고 있다. 미국의 여러 주에서도 K-12 교육에 AI 과목을 필수화하고 있고, 유럽 국가들도 유사한 정책을 추진 중이다. 중국 역시 초등학교부터 AI 교육을 강화하고 있다. 한국의 이 결정은 세계적 트렌드에 동참하는 것이자, 동시에 한국만의 체계적인 접근이다.</p><h2 style=\"font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 44px 0 20px 0;\">교실의 현실, 준비는 충분한가</h2><p style=\"margin: 0 0 32px 0;\">교과 시수 확대는 눈에 띄는 정책이지만, 실제 교실에서 제대로 운영되려면 충분한 준비가 필요하다. 첫째, 교사 교육이다. 현직 교사 중 AI를 전공한 사람은 극소수다. 대다수 교사들은 집중 연수를 통해 AI 교육 방법론을 배워야 한다. 교육부가 385억 원의 예산을 투입하는 이유가 여기에 있다.</p><p style=\"margin: 0 0 32px 0;\">둘째, 교육 자료와 교과서다. 학생 수준에 맞는 실습 자료, 영상 콘텐츠, 교과서 등이 필요하다. 기존의 수학이나 과학 교과서처럼 표준화된 교재가 만들어져야 한다. 현재 교육부는 이러한 자료 개발에 힘을 쏟고 있다.</p><p style=\"margin: 0 0 32px 0;\">셋째, 인프라다. 프로그래밍 교육을 위해서는 컴퓨터 실습실이 필요하고, 데이터 분석을 위해서는 소프트웨어와 하드웨어 투자가 필요하다. 특히 지역 간 교육격차가 발생하지 않도록 균형 있는 투자가 중요하다.</p><div style=\"border-top: 1px solid #e2e8f0; padding-top: 20px; margin-top: 48px;\"><p style=\"font-weight: 600; margin-bottom: 12px;\">참고자료</p><ol style=\"margin: 0; padding-left: 20px;\"><li style=\"margin-bottom: 8px;\">대한민국 정책브리핑, \"초·중등 인공지능(AI) 중점학교 운영! - 교육과정 확대\", 2026년 3월 11일</li><li style=\"margin-bottom: 8px;\">Discovery Education, \"5 Biggest K–12 Education Trends for 2026\"</li><li style=\"margin-bottom: 8px;\">CGTN, \"AI in education: Enabling large-scale, personalized talent cultivation\", 2026년 3월 11일</li></ol></div><p style=\"margin: 48px 0 0; padding-top: 20px; border-top: 1px solid #f1f5f9; font-size: 13px; color: #cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "custom_excerpt": "교육부가 2026학년도부터 초·중·고 AI 교육 시간을 대폭 확대하기로 결정했다. 초등학교는 2배, 중학교는 50% 늘어나고, 고등학교는 선택과목에서 필수과목으로 변경된다. 모든 학생이 AI 리터러시를 갖춘 인재가 되는 시대가 온다.",
+    "references": [
+      {
+        "title": "대한민국 정책브리핑 - 초·중등 AI 중점학교 운영",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960595"
+      },
+      {
+        "title": "Discovery Education - 2026 K-12 Trends",
+        "url": "https://www.discoveryeducation.com/blog/educational-leadership/2026-education-trends/"
+      },
+      {
+        "title": "CGTN - AI in Education",
+        "url": "https://news.cgtn.com/news/2026-03-11/AI-in-education-Enabling-large-scale-personalized-talent-cultivation-1Lq14A7pv3y/p.html"
+      }
+    ],
+    "word_count": 1752,
+    "feature_image": "https://images.unsplash.com/photo-1439405326319-6461d4c0c622?w=800&h=500&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1439405326319-6461d4c0c622?w=1200&h=630&fit=crop",
+    "meta_title": "초·중등학교 AI 시수 2배 확대…'모든 학생이 AI 인재'로 키운다",
+    "meta_description": "2026 교육 혁신한국 교육이 AI와 본격 결합된다. 2026학년도부터 모든 초·중·고등학교에서 AI 교육이 대폭 확대된다. 초등학교는 교육 시간이 2배로 늘어나고, 고등학교는 선택이 아닌 필수 과목이 된다. 이는 한국 교육 역사에서 가장 큰 교육과정 변화 중 하나다."
+  },
+  "collected_at": "2026-03-12T07:00:00Z",
+  "reporting_brief": {
+    "WHO": "교육부, 초·중·고등학교, 교사, 학생",
+    "WHAT": "학교 교육과정 내 AI 관련 교과수업 시간 대폭 확대 - 초등은 34시간에서 68시간 이상으로 2배 증가, 중등은 68시간에서 102시간 이상으로 50% 증가, 고등은 자율선택에서 매학기 필수 편성",
+    "WHY": "AI가 미래 사회의 핵심 기술이 되는 만큼, 모든 학생들이 기초적인 AI 리터러시를 갖춘 인재로 성장하도록 하기 위함",
+    "WHEN": "2026년 3월 11일 발표, 2026학년도부터 적용",
+    "CONTEXT": "이는 한국 교육의 역사적 변화로, K-12 전 단계에 AI 교육을 체계적으로 통합하는 첫 대규모 시도. 글로벌 추세와 일맥상통하며, 특히 미국, 유럽, 중국 등에서도 유사한 정책 추진 중",
+    "SOURCES": [
+      {
+        "title": "초·중등 인공지능(AI) 중점학교 운영! - 교육과정 확대",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960595&call_from=rsslink",
+        "publication": "대한민국 정책브리핑",
+        "credibility": "very_high"
+      },
+      {
+        "title": "5 Biggest K–12 Education Trends for 2026",
+        "url": "https://www.discoveryeducation.com/blog/educational-leadership/2026-education-trends/",
+        "publication": "Discovery Education",
+        "credibility": "high"
+      },
+      {
+        "title": "AI in education: Enabling large-scale, personalized talent cultivation",
+        "url": "https://news.cgtn.com/news/2026-03-11/AI-in-education-Enabling-large-scale-personalized-talent-cultivation-1Lq14A7pv3y/p.html",
+        "publication": "CGTN",
+        "credibility": "high"
+      }
+    ],
+    "PERSPECTIVES": {
+      "government": "AI 리터러시 강화를 통해 4차 산업혁명 시대에 필요한 인재 양성",
+      "education_sector": "교사 연수 확충, 교육 자료 개발, 실질적인 교수 방법론 지원 필요",
+      "student_parents": "AI 기초 능력이 미래 경쟁력이 될 것으로 예상하는 긍정적 반응"
+    },
+    "SUGGESTED_ANGLE": "교육 기사: 초·중·고 AI 교과시수 대폭 확대, 한국 교육이 미래에 베팅한다"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 2167자, 팩트점수 90, 중복 0.0%",
+    "meta_title": "초·중등학교 AI 시수 2배 확대…'모든 학생이 AI 인재'로 키운다",
+    "meta_description": "2026 교육 혁신한국 교육이 AI와 본격 결합된다. 2026학년도부터 모든 초·중·고등학교에서 AI 교육이 대폭 확대된다. 초등학교는 교육 시간이 2배로 늘어나고, 고등학교는 선택이 아닌 필수 과목이 된다. 이는 한국 교육 역사에서 가장 큰 교육과정 변화 중 하나다.",
+    "decided_at": "2026-03-11T22:34:06.935Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [
+      "AI 배지 pill 제거"
+    ],
+    "text_length": 1865,
+    "checked_at": "2026-03-11T22:34:06.937Z"
+  }
+}

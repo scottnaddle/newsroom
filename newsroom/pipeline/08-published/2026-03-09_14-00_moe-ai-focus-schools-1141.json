@@ -84,7 +84,11 @@
     "word_count": 1063,
     "category": "policy",
     "meta_title": "교육부, 'AI 중점학교' 1,141곳 선정… 385억 투입해 2028년 2,000곳으로 확대",
-    "meta_description": "초등 AI 교과 시수 2배 확대, 중학 1.5배… 교원 역량·인프라 확보가 실효성 관건"
+    "meta_description": "초등 AI 교과 시수 2배 확대, 중학 1.5배… 교원 역량·인프라 확보가 실효성 관건",
+    "feature_image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.830Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 95,
@@ -118,7 +122,5 @@
     "구조: 리드박스·h2 섹션·참고자료·AI 각주 확인 완료",
     "톤: 합니다체 일관성 유지, 객관적 톤 유지"
   ],
-  "ghost_id": "69ae70c2ff4fbf0001ab7869",
-  "ghost_url": "https://insight.ubion.global/p/ce0e1403-dd29-482a-84c1-055e39e36d97/",
   "published_at": "2026-03-09T07:03:30.369Z"
 }

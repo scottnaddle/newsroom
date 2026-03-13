@@ -38,7 +38,11 @@
     ],
     "word_count": 1850,
     "meta_title": "대학 AI 거버넌스의 '현실과 갭'…섀도우 AI와 규제의 압박",
-    "meta_description": "고등교육 정책 대학에서 인공지능 도입이 급속화되면서, 정책 간 거버넌스 공백이 심각한 위험으로 떠오르고 있다. EDUCAUSE의 2024년 조사에서 80%의 교직원이 AI 도구를 사용 중이지만, 정식 제도를 아는 사람은 4명 중 1명도 안 된다. 거버넌스 공백의 현실 "
+    "meta_description": "고등교육 정책 대학에서 인공지능 도입이 급속화되면서, 정책 간 거버넌스 공백이 심각한 위험으로 떠오르고 있다. EDUCAUSE의 2024년 조사에서 80%의 교직원이 AI 도구를 사용 중이지만, 정식 제도를 아는 사람은 4명 중 1명도 안 된다. 거버넌스 공백의 현실 ",
+    "feature_image": "https://images.unsplash.com/photo-1576671081837-49000212a370?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1576671081837-49000212a370?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.847Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 85,
@@ -66,7 +70,5 @@
     "text_length": 2347,
     "checked_at": "2026-03-10T00:10:59.154Z"
   },
-  "ghost_id": "69af6193ff4fbf0001ab7d60",
-  "ghost_url": "https://insight.ubion.global/university-ai-governance-2026-eu-compliance/",
   "published_at": "2026-03-10T00:10:59.901Z"
 }

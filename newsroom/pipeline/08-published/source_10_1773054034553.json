@@ -60,7 +60,11 @@
     "word_count": 2319,
     "category": "교육",
     "meta_title": "Va. lawmakers propose guardrails for artificial intelligence",
-    "meta_description": "body { font-family: 'Noto Sans KR'; margin: 0; padding: 20px; } .wrapper { max-width: 680px; margin: 0 auto; font-size: 17px; line-height: 1.9; color:"
+    "meta_description": "body { font-family: 'Noto Sans KR'; margin: 0; padding: 20px; } .wrapper { max-width: 680px; margin: 0 auto; font-size: 17px; line-height: 1.9; color:",
+    "feature_image": "https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.857Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 100,
@@ -85,7 +89,5 @@
     "text_length": 2297,
     "checked_at": "2026-03-09T11:01:21.843Z"
   },
-  "ghost_id": "69aea882ff4fbf0001ab7988",
-  "ghost_url": "https://insight.ubion.global/p/64947261-ce1e-4893-8d8f-753bae645b71/",
   "published_at": "2026-03-09T11:01:22.815Z"
 }

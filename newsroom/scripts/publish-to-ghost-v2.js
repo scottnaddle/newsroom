@@ -227,7 +227,7 @@ async function processArticle(filepath) {
     stage: 'published',
     publish_result: {
       ghost_post_id: postId,
-      ghost_edit_url: `https://insight.ubion.global/ghost/#/editor/post/${postId}`,
+      ghost_edit_url: `https://ubion.ghost.io/ghost/#/editor/post/${postId}`,
       status: 'published',
       published_at: new Date().toISOString()
     },
@@ -259,7 +259,7 @@ async function processArticle(filepath) {
 
   const titleShort = (draft.headline || '').substring(0, 50);
   reportLines.push(`✅ ${titleShort}`);
-  reportLines.push(`   https://insight.ubion.global/ghost/#/editor/post/${postId}`);
+  reportLines.push(`   https://ubion.ghost.io/ghost/#/editor/post/${postId}`);
 }
 
 function cleanupHtml(html) {

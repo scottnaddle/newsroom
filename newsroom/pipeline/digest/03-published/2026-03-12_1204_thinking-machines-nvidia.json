@@ -1,0 +1,61 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Mira Murati's AI startup Thinking Machines secures Nvidia investment, 1 gigawatt of AI compute",
+    "url": "https://techstartups.com/2026/03/10/mira-muratis-ai-startup-thinking-machines-secures-nvidia-investment-1-gigawatt-of-ai-compute/",
+    "source_name": "Tech Startups",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, has secured a multi-year partnership with Nvidia including significant investment and 1 gigawatt of AI compute access. The deal underscores the competitive landscape for AI infrastructure and talent.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-12T12:04:57.210Z"
+  },
+  "digest": {
+    "headline": "전 OpenAI CTO 뮤라티, Thinking Machines로 엔비디아 파트너십 체결",
+    "lead": "전 OpenAI 최고기술책임자 미라 뮤라티가 설립한 AI 스타트업 'Thinking Machines'가 엔비디아와 다년간 파트너십을 체결했다. 투자와 함께 1기가와트(GW) 규모의 컴퓨팅 파워에 접근할 수 있는 권리를 확보했으며, 이는 AI 인프라 확보 경쟁이 얼마나 심각한지 보여주는 사례다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">전 OpenAI 최고기술책임자 미라 뮤라티가 설립한 AI 스타트업 'Thinking Machines'가 엔비디아와 다년간 파트너십을 체결했다. 투자와 함께 1기가와트(GW) 규모의 컴퓨팅 파워에 접근할 수 있는 권리를 확보했으며, 이는 AI 인프라 확보 경쟁이 얼마나 심각한지 보여주는 사례다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Thinking Machines Lab은 OpenAI에서 주요 AI 시스템 개발을 주도했던 미라 뮤라티가 최근 창립한 신생 AI 스타트업이다. 회사는 Andreessen Horowitz(a16z)가 주도한 시드 펀딩라운드에서 약 20억 달러를 조달해 120억 달러의 기업 가치를 평가받았으며, 엔비디아도 초기 투자자로 참여했다. 이번 파트너십을 통해 2027년 초부터 엔비디아의 최신형 Vera Rubin 칩에 접근할 수 있게 되었다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">1기가와트 컴퓨팅 용량은 미국 약 75만 가구를 공급할 수 있는 전력량이며, 산업 전문가들은 이 규모의 시설 구축·운영에 약 500억 달러가 소요된다고 평가한다. 대규모 AI 모델 훈련에는 수주 이상의 GPU 클러스터 운영이 필수적이므로, 뮤라티의 Thinking Machines가 이 수준의 컴퓨팅 자원을 초기부터 확보한 것은 대형 AI 기업들과 경쟁할 수 있는 기반을 마련했음을 의미한다. 이는 AI 인프라가 '신성한 자원'으로 격상되었음을 단적으로 보여준다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">대규모 AI 인프라에 대한 접근성이 점점 더 제한되는 시장 구조 속에서, 에듀테크 기업들은 경쟁력 있는 교육용 AI 모델을 자체 개발하기 어려워지고 있다. 향후 OpenAI, Google, Thinking Machines 같은 인프라 보유 기업의 API 서비스에 의존하거나, 오픈소스 소형 모델을 미세조정(fine-tuning)하는 경로로 전환할 가능성이 높다. 이는 에듀테크의 진입장벽을 높이면서 동시에 고품질의 대형 AI 모델 기반 교육 서비스의 가격을 상승시킬 수 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://techstartups.com/2026/03/10/mira-muratis-ai-startup-thinking-machines-secures-nvidia-investment-1-gigawatt-of-ai-compute/\" style=\"color:#FF6B35;text-decoration:none;\">Tech Startups</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "nvidia",
+      "openai"
+    ],
+    "meta_title": "전 OpenAI CTO 뮤라티, Thinking Machines로 엔비디아 파트너십",
+    "meta_description": "미라 뮤라티 AI 스타트업이 엔비디아 투자와 1GW 컴퓨팅 파워 확보. AI 인프라 경쟁의 핵심 현황",
+    "word_count": 569
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-12T12:04:57.210Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-12T21:15:15Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "rejected",
+      "error": "Cannot read properties of undefined (reading 'substring')",
+      "timestamp": "2026-03-12T12:32:44.711Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-12T12:33:56.015Z"
+    }
+  ],
+  "error": "Cannot read properties of undefined (reading 'substring')",
+  "rejected_at": "2026-03-12T12:32:44.711Z",
+  "publish_result": {
+    "ghost_post_id": "69b2b2b35d8fee0001508a86",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b2b2b35d8fee0001508a86",
+    "public_url": "https://ubion.ghost.io/jeon-openai-cto-myurati-thinking-machinesro-enbidia-pateuneosib-cegyeol/",
+    "status": "published",
+    "published_at": "2026-03-12T12:33:56.015Z"
+  }
+}

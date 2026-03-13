@@ -12,7 +12,11 @@
     "headline": "AI 중점학교 1141개교 선정…2026년 385억 원 지원",
     "subheadline": "교육부, 초·중등 인공지능 교육 체계적 확대...2028년까지 2,000개교 단계적 확대",
     "ghost_url": "https://ai-newsroom.example.com/ai-middle-school-policy-2026",
-    "ghost_id": "draft-001-ai-policy"
+    "ghost_id": "draft-001-ai-policy",
+    "feature_image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.838Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 95,
@@ -27,6 +31,9 @@
     "word_count": 2150,
     "reading_time": 9,
     "category": "education",
-    "tags": ["AI교육", "정부정책"]
+    "tags": [
+      "AI교육",
+      "정부정책"
+    ]
   }
 }

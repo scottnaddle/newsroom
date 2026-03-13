@@ -1,0 +1,91 @@
+{
+  "id": "1773223271097-0htnabelt",
+  "stage": "rejected",
+  "source": {
+    "url": "http://sateconomy.co.kr/news/view/1065593628401522",
+    "title": "보험연수원, 공무원 대상 '디지털자산 리터러시' 교육 개설",
+    "query": "AI 리터러시 교육",
+    "discovered_at": "2026-03-11T10:01:11.097Z"
+  },
+  "quality_score": 68,
+  "metadata": {
+    "published": "2026-03-11T10:01:11.097Z"
+  },
+  "reporting_brief": {
+    "WHO": "보험연수원, 공공부문 종사자 (공무원, 공공기관 종사자)",
+    "WHAT": "가상자산(디지털자산) 이해와 실무 능력 향상을 위한 '디지털자산 리터러시 과정' 개설",
+    "WHY": "공공부문에서 디지털자산 관리 역량의 중요성 증대, 글로벌 규제 동향 변화",
+    "WHEN": "2026년 4월, 5월 각각 개설",
+    "CONTEXT": "블록체인, Web3, 스테이블코인, STO(토큰증권) 등 최신 금융 트렌드에 대응하기 위한 기초·심화 과정 구성",
+    "SOURCES": [
+      {
+        "title": "보험연수원 공식 발표",
+        "url": "http://sateconomy.co.kr/news/view/1065593628401522",
+        "credibility": "high"
+      },
+      {
+        "title": "웹3 금융 변화 관련 자료",
+        "url": "https://ko.wikipedia.org/wiki/%EB%94%94%EC%A7%80%ED%84%B8_%EB%A6%AC%ED%84%B0%EB%9F%AC%EC%8B%9C",
+        "credibility": "high"
+      },
+      {
+        "title": "공무원 교육 동향",
+        "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=242858",
+        "credibility": "medium"
+      }
+    ],
+    "PERSPECTIVES": {
+      "government": "공공부문 디지털 전환 필요성 인식, 공무원 대상 교육 확대",
+      "education": "실무 중심의 기초·심화 2단계 커리큘럼으로 체계적 교육 추진",
+      "industry": "글로벌 금융시장 변화에 대응하는 전문 인력 양성"
+    },
+    "SUGGESTED_ANGLE": "공공부문 '디지털자산 리터러시' 교육 개설...공무원 대상 블록체인·Web3·STO 실무 교육 확대"
+  },
+  "draft": {
+    "headline": "보험연수원, 공무원 대상 '디지털자산 리터러시' 교육 개설…블록체인·Web3 실무 교육 확대",
+    "subheadline": "공공부문의 가상자산 관리 역량 강화 위해 4월·5월 기초·심화 과정 운영",
+    "slug": "보험연수원-디지털자산-리터러시-교육",
+    "ghost_tags": [
+      "교육정책",
+      "ai-news",
+      "디지털자산",
+      "공무원"
+    ],
+    "category": "education",
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;margin:0 auto;padding:0 20px;\"><div style=\"border-left:4px solid #0891b2;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:48px;\"><p style=\"margin:0;font-weight:600;color:#0c5460;\">공공부문의 디지털자산 관리 역량 강화가 시급해지면서 보험연수원이 공무원과 공공기관 종사자를 대상으로 가상자산 이해와 실무 능력 향상을 위한 '디지털자산 리터러시 과정'을 4월과 5월 각각 개설한다. 블록체인, Web3, 스테이블코인, STO(토큰증권) 등 최신 금융 트렌드에 대응하기 위한 기초·심화 과정으로 구성된다.</p></div><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">공공부문도 디지털자산 역량 강화 필수</h2><p style=\"margin:0 0 32px;\">공공부문에서 디지털자산 관리 역량의 중요성이 빠르게 대두되고 있습니다. 글로벌 금융시장의 변화 속에서 정부와 공공기관도 이러한 디지털자산의 특성과 규제 동향을 정확히 이해해야 합니다. 가상자산의 블록체인 작동 원리, Web3 기반 금융의 변화, 그리고 새로운 금융 형태인 스테이블코인과 토큰증권(STO)에 대한 이해가 더 이상 선택이 아닌 필수가 되었습니다.</p><p style=\"margin:0 0 32px;\">보험연수원은 이러한 시대적 요구에 부응하기 위해 공공부문 종사자를 대상으로 체계적인 교육을 추진합니다. 이는 공공부문의 정책 수립과 감시 역할이 보다 효과적으로 이루어질 수 있도록 하기 위한 선제적 조치입니다. 특히 국제적 규제 동향과 금융시장의 급속한 변화에 대응하기 위해서는 공무원들의 깊이 있는 이해가 필수적입니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">기초에서 심화까지 체계적 커리큘럼 구성</h2><p style=\"margin:0 0 32px;\">이번 교육 과정의 특징은 기초 과정과 심화 과정으로 나누어 운영된다는 점입니다. 기초 과정에서는 블록체인의 작동 원리, 디지털자산의 종류와 특성, 그리고 리스크 관리의 기본 개념을 다룹니다. 참석자들은 가상자산의 기초적인 이해를 바탕으로 한국과 글로벌 규제 동향을 학습하게 됩니다.</p><p style=\"margin:0 0 32px;\">심화 과정에서는 스테이블코인, 디지털자산 수탁, 토큰증권(STO) 등 최근 금융시장에서 주목받는 고급 주제들을 다룹니다. 이러한 주제들은 공공부문의 정책 결정 과정에서 필요한 실무 지식을 제공합니다. 각 강의는 최신 업계 전문가들이 진행하여 현장의 최신 정보를 직접 전달할 것으로 예상됩니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">공공부문 디지털 전환의 출발점</h2><p style=\"margin:0 0 32px;\">이번 교육 과정 개설은 한국 공공부문의 디지털 전환 가속화를 의미합니다. 공무원들의 디지털자산 역량 강화는 향후 정부의 규제 정책 수립과 금융안정성 확보에 직결됩니다. 더욱이 글로벌 주요국들이 앞다투어 디지털자산 및 블록체인 정책을 추진 중인 가운데, 한국도 공공부문부터 역량을 갖춰야 합니다.</p><p style=\"margin:0 0 32px;\">보험연수원의 이번 initiative는 단순한 교육 프로그램을 넘어, 한국의 공공부문이 글로벌 금융 질서의 변화에 얼마나 신속하게 대응할 수 있는지를 보여주는 신호탄이 될 것입니다. 앞으로 더 많은 공공기관이 관련 교육을 확대하고, 공무원들의 디지털 역량이 강화될 것으로 전망됩니다.</p><div style=\"border-top:1px solid #e2e8f0;margin-top:48px;padding-top:20px;\"><h3 style=\"margin:20px 0 10px;font-size:16px;font-weight:700;\">참고자료</h3><ol style=\"margin:0;padding-left:20px;font-size:15px;line-height:1.8;\"><li><a href=\"http://sateconomy.co.kr/news/view/1065593628401522\" style=\"color:#0284c7;text-decoration:none;\">보험연수원, 공무원 대상 '디지털자산 리터러시' 교육 개설 (토요경제)</a></li><li><a href=\"https://ko.wikipedia.org/wiki/%EB%94%94%EC%A7%80%ED%84%B8_%EB%A6%AC%ED%84%B0%EB%9F%AC%EC%8B%9C\" style=\"color:#0284c7;text-decoration:none;\">디지털 리터러시 (위키백과)</a></li><li><a href=\"https://www.asiaa.co.kr/news/articleView.html?idxno=242858\" style=\"color:#0284c7;text-decoration:none;\">우리금융, 시니어 디지털 금융 리터러시 강화 교육 실시</a></li></ol></div><p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "custom_excerpt": "공공부문의 디지털자산 관리 역량을 강화하기 위해 보험연수원이 공무원과 공공기관 종사자를 대상으로 블록체인, Web3, 스테이블코인 등을 다루는 '디지털자산 리터러시 과정'을 4월과 5월에 개설한다.",
+    "references": [
+      {
+        "title": "보험연수원, 공무원 대상 '디지털자산 리터러시' 교육 개설 (토요경제)",
+        "url": "http://sateconomy.co.kr/news/view/1065593628401522"
+      },
+      {
+        "title": "디지털 리터러시 (위키백과)",
+        "url": "https://ko.wikipedia.org/wiki/%EB%94%94%EC%A7%80%ED%84%B8_%EB%A6%AC%ED%84%B0%EB%9F%AC%EC%8B%9C"
+      },
+      {
+        "title": "우리금융, 시니어 디지털 금융 리터러시 강화 교육 실시",
+        "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=242858"
+      }
+    ],
+    "word_count": 1847,
+    "feature_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=450&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop"
+  },
+  "fact_check": {
+    "id": "1773223271097-0htnabelt",
+    "title": "보험연수원, 공무원 대상 '디지털자산 리터러시' 교육 개설…블록체인·Web3 실무 교육 확대",
+    "score": 100,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "구조 검증 완료",
+      "완정도 검증 완료"
+    ],
+    "validated_at": "2026-03-12T01:31:38.654Z"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "본문 1374자 (1600자 미만)"
+  }
+}

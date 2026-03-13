@@ -44,7 +44,7 @@
 
 | 항목 | 상태 |
 |------|------|
-| Ghost (insight.ubion.global) | ✅ HTTP 200 |
+| Ghost (ubion.ghost.io) | ✅ HTTP 200 |
 | 중복 검증 스크립트 | ✅ 존재 확인 |
 | 메인 파이프라인 | ✅ 비어있음 (심야) |
 

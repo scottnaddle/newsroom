@@ -95,7 +95,7 @@
     "word_count": 1035,
     "article_type": "analysis",
     "feature_image": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop&q=85&auto=format",
-    "og_image": "https://insight.ubion.global/content/images/2026/03/og-69a916eae2eb440001d55931.png",
+    "og_image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=630&fit=crop&q=85&auto=format",
     "meta_title": "영·미 AI 교육 거버넌스 강화, 한국 선택은",
     "meta_description": "[AI 생성 콘텐츠] 이 기사는 AI가 작성했습니다. (AI 기본법 제31조) 영국 의회와 미국 의회가 같은 주(2026년 2월 넷째 주)에 AI 교육 거버넌스 조사를 각각 개시했다. 두 나라가 동시에 움직인 것은 AI가 교육 현장 깊숙이 파고든 현실에 더 이상 눈을 "
   },
@@ -225,7 +225,7 @@
       "agent": "publisher",
       "action": "published-draft",
       "timestamp": "2026-03-02T21:58:13.697Z",
-      "note": "Ghost draft URL: https://insight.ubion.global/ghost/#/editor/post/69a607f5e9865e00011c1db3"
+      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69a607f5e9865e00011c1db3"
     },
     {
       "agent": "publisher",
@@ -237,7 +237,7 @@
       "agent": "publisher",
       "action": "published-draft",
       "timestamp": "2026-03-05T22:58:14.310Z",
-      "note": "Ghost draft URL: https://insight.ubion.global/ghost/#/editor/post/69aa0a86ff4fbf0001ab6cba"
+      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69aa0a86ff4fbf0001ab6cba"
     },
     {
       "agent": "publisher",
@@ -246,12 +246,6 @@
       "note": "Ghost post ID: 69aa1e5bff4fbf0001ab6d35"
     }
   ],
-  "publish_result": {
-    "ghost_post_id": "69aa1e5bff4fbf0001ab6d35",
-    "ghost_draft_url": "https://insight.ubion.global/ghost/#/editor/post/69aa1e5bff4fbf0001ab6d35",
-    "status": "published",
-    "published_at": "2026-03-06T00:22:52.090Z"
-  },
   "rejected_at": "2026-03-06T19:16:13+09:00",
   "rejection_reason": "신뢰도 0 - 팩트체크 미수행",
   "fact_check": {
@@ -272,7 +266,5 @@
     "meta_description": "[AI 생성 콘텐츠] 이 기사는 AI가 작성했습니다. (AI 기본법 제31조) 영국 의회와 미국 의회가 같은 주(2026년 2월 넷째 주)에 AI 교육 거버넌스 조사를 각각 개시했다. 두 나라가 동시에 움직인 것은 AI가 교육 현장 깊숙이 파고든 현실에 더 이상 눈을 ",
     "decided_at": "2026-03-09T13:33:24.286Z"
   },
-  "ghost_id": "69aecc25ff4fbf0001ab7c6c",
-  "ghost_url": "https://insight.ubion.global/kjob-uk-us-ai-governance-korea-4/",
   "published_at": "2026-03-09T13:33:25.787Z"
 }

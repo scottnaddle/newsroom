@@ -131,7 +131,7 @@ async function publishToGhost(post, filename) {
   return new Promise((resolve, reject) => {
     const body = JSON.stringify(payload);
     const options = {
-      hostname: 'insight.ubion.global',
+      hostname: 'ubion.ghost.io',
       path: '/ghost/api/admin/posts/?source=html',
       method: 'POST',
       headers: {
@@ -167,7 +167,7 @@ async function publishToGhost(post, filename) {
 // 검증: Ghost에서 다시 읽어서 손상된 문자 확인
 async function validateGhostPost(postId, jwt) {
   const curlCmd = `curl -s -X GET \
-    "https://insight.ubion.global/ghost/api/admin/posts/${postId}/?formats=html" \
+    "https://ubion.ghost.io/ghost/api/admin/posts/${postId}/?formats=html" \
     -H "Authorization: Ghost ${jwt}"`;
   
   try {
@@ -259,7 +259,7 @@ async function publishArticle(filename) {
       stage: 'published',
       publish_result: {
         ghost_post_id: ghostPost.id,
-        ghost_draft_url: `https://insight.ubion.global/ghost/#/editor/post/${ghostPost.id}`,
+        ghost_draft_url: `https://ubion.ghost.io/ghost/#/editor/post/${ghostPost.id}`,
         status: 'published',
         published_at: new Date().toISOString()
       },
@@ -269,7 +269,7 @@ async function publishArticle(filename) {
           agent: 'publisher',
           action: 'published-draft',
           timestamp: new Date().toISOString(),
-          note: `Ghost draft URL: https://insight.ubion.global/ghost/#/editor/post/${ghostPost.id}`
+          note: `Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/${ghostPost.id}`
         }
       ]
     };

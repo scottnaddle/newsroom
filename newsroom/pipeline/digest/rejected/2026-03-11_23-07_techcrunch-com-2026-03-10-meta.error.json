@@ -1,0 +1,6 @@
+{
+  "filename": "2026-03-11_23-07_techcrunch-com-2026-03-10-meta.json",
+  "error": "HTTP 401: {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"f5d524d0-1da2-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}",
+  "timestamp": "2026-03-11T23:35:17.176Z",
+  "stack": "Error: HTTP 401: {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"f5d524d0-1da2-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}\n    at IncomingMessage.<anonymous> (/root/.openclaw/workspace/newsroom/pipeline/digest/publisher.js:109:25)\n    at IncomingMessage.emit (node:events:520:35)\n    at endReadableNT (node:internal/streams/readable:1729:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)"
+}

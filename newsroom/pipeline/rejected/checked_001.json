@@ -1,0 +1,24 @@
+{
+  "id": "checked_001",
+  "stage": "rejected",
+  "original_draft": "draft_001",
+  "fact_check": {
+    "score": 92,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "교육부가 1141개 초·중등학교를 AI 중점학교로 지정 - 정책브리핑 공식 발표 확인",
+      "2026년 특별교부금 385억 원 지원 - 정책브리핑 확인",
+      "초등학교 68시간 이상, 중학교 102시간 이상 AI 교육 시수 - 에듀프레스 확인",
+      "3년간 운영 - 정책브리핑 확인",
+      "전국 17개 시도 선정 - 정책브리핑 확인"
+    ],
+    "validation_method": "정부 정책 공식 발표(정책브리핑) 확인, 교육 전문 미디어(에듀프레스) 교차검증",
+    "notes": "모든 주요 수치와 일정이 공식 발표와 일치하며, 기사의 정성적 표현도 검증됨",
+    "validated_at": "2026-03-11T11:30:00Z"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

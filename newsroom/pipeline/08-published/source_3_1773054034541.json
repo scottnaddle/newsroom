@@ -60,7 +60,11 @@
     "word_count": 2319,
     "category": "교육",
     "meta_title": "교육부, 초·중등 인공지능 교육을 이끄는 '인공지능(AI) 중점학교' 본격 운영",
-    "meta_description": "body { font-family: 'Noto Sans KR'; margin: 0; padding: 20px; } .wrapper { max-width: 680px; margin: 0 auto; font-size: 17px; line-height: 1.9; color:"
+    "meta_description": "body { font-family: 'Noto Sans KR'; margin: 0; padding: 20px; } .wrapper { max-width: 680px; margin: 0 auto; font-size: 17px; line-height: 1.9; color:",
+    "feature_image": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.858Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 100,
@@ -85,7 +89,5 @@
     "text_length": 2297,
     "checked_at": "2026-03-09T11:01:38.653Z"
   },
-  "ghost_id": "69aea893ff4fbf0001ab79a4",
-  "ghost_url": "https://insight.ubion.global/p/8a180977-57e9-433b-9bc5-f45072360ac4/",
   "published_at": "2026-03-09T11:01:39.154Z"
 }

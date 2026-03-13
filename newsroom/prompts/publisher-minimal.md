@@ -10,7 +10,7 @@
 3. Ghost Admin API로 DRAFT 발행
 
 ## Ghost API 설정
-- URL: `https://insight.ubion.global`
+- URL: `https://ubion.ghost.io`
 - API Key: `/root/.openclaw/workspace/newsroom/shared/config/ghost.json`
 - JWT: HS256, kid=앞부분, secret=뒷부분(hex), aud='/admin/', exp 5분
 

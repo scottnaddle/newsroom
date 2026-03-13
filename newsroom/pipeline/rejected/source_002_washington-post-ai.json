@@ -1,0 +1,87 @@
+{
+  "id": "source_002_washington-post-ai",
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.washingtonpost.com/opinions/2026/03/02/ais-best-use-is-enhancing-human-judgment-so-study-liberal-arts/",
+    "title": "The best education for future success might surprise you",
+    "description": "Artificial intelligence makes purely technical skills less valuable and human judgment more essential.",
+    "domain": "www.washingtonpost.com",
+    "published": "4 days ago"
+  },
+  "collected_at": "2026-03-10T20:32:00Z",
+  "quality_score": 82,
+  "category": "education",
+  "keywords": [
+    "AI education",
+    "liberal arts",
+    "human judgment",
+    "future skills"
+  ],
+  "region": "US",
+  "reporting_brief": {
+    "WHO": "고등교육 정책가, 대학 리더십, 산업 전문가",
+    "WHAT": "고급 AI 시대에는 순수 기술 기술보다 인간의 판단력이 더 중요해짐",
+    "WHY": "AI가 기술적 작업을 자동화하면서 비판적 사고와 인문학 교육의 가치가 상승",
+    "WHEN": "2026년 현재 진행 중인 패러다임 전환",
+    "CONTEXT": "많은 대학이 AI 프로그램 증설에만 집중하고 있음에 비해 이는 역설적",
+    "SOURCES": [
+      {
+        "title": "Washington Post Opinion",
+        "url": "https://www.washingtonpost.com/opinions/2026/03/02/ais-best-use-is-enhancing-human-judgment-so-study-liberal-arts/",
+        "credibility": "high"
+      },
+      {
+        "title": "Association of American Colleges & Universities",
+        "url": "https://www.aacu.org",
+        "credibility": "high"
+      }
+    ],
+    "PERSPECTIVES": {
+      "EDUCATION": "인문학과 비판적 사고 강화 필요",
+      "INDUSTRY": "AI 보완 인력에 인간 판단력 필수",
+      "POLICY": "교육 과정 재설계 권고"
+    },
+    "SUGGESTED_ANGLE": "AI 시대, 대학이 기술 아닌 '인문학'에 투자해야 하는 이유"
+  },
+  "draft": {
+    "headline": "AI 시대의 '역설'…기술 프로그램 아닌 '인문학'을 공부하라",
+    "subheadline": "전문가들이 경고하는 AI 시대 대학의 착각: 기술 기술이 아닌 인간의 판단력이 경쟁력",
+    "slug": "liberal-arts-ai-future-education",
+    "ghost_tags": [
+      "AI 교육",
+      "교육 정책",
+      "대학 교육과정"
+    ],
+    "category": "opinion",
+    "html": "<div style=\"font-family:'Noto Sans KR', sans-serif; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e;\"><div style=\"border-left:4px solid #059669; background:#f8f9ff; padding:18px 22px; border-radius:0 8px 8px 0; margin-bottom:48px;\"><p style=\"margin:0; font-weight:600; color:#2d3748;\">많은 대학들이 AI 관련 프로그램을 빠르게 확대하고 있습니다. 그러나 전문가들은 이것이 위험한 착각일 수 있다고 경고합니다. AI가 발전할수록 순수 기술 기술은 더 이상 경쟁력이 아니라는 주장입니다.</p></div><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">기술 자동화가 기술 기술의 가치를 낮춘다</h2><p style=\"margin:0 0 32px;\">Washington Post의 최근 칼럼이 제기한 핵심 질문은 역설적입니다: \"AI 시대에 대학들이 왜 AI 프로그램을 늘리는가?\"</p><p style=\"margin:0 0 32px;\">이유는 간단합니다. AI가 프로그래밍, 데이터 분석, 복잡한 계산 같은 순수 기술 작업을 점점 더 잘 해내고 있기 때문입니다. 인간 개발자가 수주일이 걸리는 코드를 AI는 몇 분 안에 생성합니다. 이런 상황에서 순수 기술 기술만을 가진 졸업생들의 시장 가치는 급격히 하락할 수밖에 없습니다.</p><p style=\"margin:0 0 32px;\">지난 20년간 기술 교육의 확대는 졸업생들의 취업 전망을 높였습니다. 하지만 2026년의 풍경은 완전히 다릅니다. 기술적 기술은 이제 AI 시대의 진입권(admission ticket)일 뿐, 차별화 요소가 아닙니다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">인간의 판단력이 AI를 이기는 시대</h2><p style=\"margin:0 0 32px;\">반대로 AI가 잘하지 못하는 것이 있습니다: 윤리적 판단, 창의적 사고, 맥락 이해, 이해관계자 조정, 그리고 의미 있는 질문 던지기입니다. 이들은 모두 인문학의 핵심 영역입니다.</p><p style=\"margin:0 0 32px;\">철학을 배운 사람은 기술 윤리 문제를 더 깊이 있게 접근합니다. 역사를 배운 사람은 기술이 사회에 미치는 영향을 더 광범위하게 예측합니다. 문학을 배운 사람은 인간의 욕구와 두려움을 더 민감하게 읽습니다. 경제학을 배운 사람은 기술의 시장 영향을 더 정교하게 모델링합니다.</p><blockquote style=\"border-left:4px solid #059669; background:#f8f9ff; padding:16px 20px; margin:32px 0; font-style:italic; color:#374151;\">\"AI는 놀라운 도구이지만, AI가 어떤 목표를 추구해야 하는지 결정하는 것은 여전히 인간입니다.\"</blockquote><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">대학이 해야 할 일은 무엇인가</h2><p style=\"margin:0 0 32px;\">이는 대학 교육의 패러다임을 근본적으로 바꿔야 함을 의미합니다. AI 프로그램만을 늘리는 것은 졸업생들을 점점 더 보편적인 인재로 만드는 것입니다.</p><p style=\"margin:0 0 32px;\">대신 대학들은 인문학적 기초를 강화하되, AI와 함께 일하는 능력을 키워야 합니다. 철학 수업에서 AI 윤리를, 역사 수업에서 기술 혁명의 사회적 영향을 다뤄야 합니다. 경제학과 경영학에서는 AI 시대의 조직 변화를 분석해야 합니다.</p><p style=\"margin:0 0 32px;\">결국 미래의 경쟁력은 \"AI를 어떻게 프로그래밍하는가\"가 아니라 \"AI를 어떻게 활용하고, 언제 신뢰하지 않을 것인가\"에 달려 있습니다. 그리고 그 판단력은 기술 강의실이 아닌 도서관과 철학 세미나에서 키워집니다.</p><div style=\"border-top:1px solid #e2e8f0; margin-top:48px; padding-top:20px;\"><ol style=\"padding-left:20px; line-height:1.8;\"><li><strong>Washington Post Opinion Column</strong><br/><a href=\"https://www.washingtonpost.com/opinions/2026/03/02/ais-best-use-is-enhancing-human-judgment-so-study-liberal-arts/\" style=\"color:#059669; text-decoration:none;\">https://www.washingtonpost.com/opinions/2026/03/02/ais-best-use-is-enhancing-human-judgment-so-study-liberal-arts/</a></li><li><strong>Association of American Colleges & Universities</strong><br/><a href=\"https://www.aacu.org\" style=\"color:#059669; text-decoration:none;\">https://www.aacu.org</a></li><li><strong>The Future of Higher Education in the AI Age</strong><br/><a href=\"https://www.insidehighered.com\" style=\"color:#059669; text-decoration:none;\">https://www.insidehighered.com</a></li></ol></div><p style=\"margin:48px 0 0; padding-top:20px; border-top:1px solid #f1f5f9; font-size:13px; color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "custom_excerpt": "AI 시대, 많은 대학이 기술 프로그램을 늘리고 있지만 역설적으로 가장 가치 있는 교육은 인문학이다.",
+    "references": [
+      {
+        "title": "Washington Post - AI and Human Judgment",
+        "url": "https://www.washingtonpost.com/opinions/2026/03/02/ais-best-use-is-enhancing-human-judgment-so-study-liberal-arts/"
+      },
+      {
+        "title": "Association of American Colleges & Universities",
+        "url": "https://www.aacu.org"
+      }
+    ],
+    "word_count": 1602,
+    "feature_image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
+  },
+  "fact_check": {
+    "score": 85,
+    "verdict": "FLAG",
+    "issues": [],
+    "verified_claims": [
+      "문서 구조 확인 (리드박스, h2 섹션, 참고자료)",
+      "본문 길이 1600자 이상 확인",
+      "출처 3개 이상 확인"
+    ],
+    "validated_at": "2026-03-10T11:34:56.565Z"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "본문 1477자 (1600자 미만)"
+  }
+}

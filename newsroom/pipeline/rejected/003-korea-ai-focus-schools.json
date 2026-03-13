@@ -1,0 +1,56 @@
+{
+  "id": "003-korea-ai-focus-schools",
+  "source": {
+    "title": "초·중등 인공지능(AI) 중점학교 운영!",
+    "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148960595"
+  },
+  "stage": "fact-checked",
+  "fact_check": {
+    "score": 92,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "1141개 학교 AI 중점학교 선정",
+      "17개 시도 균형 분산 배치",
+      "385억 원 특별교부금 투입",
+      "2026년도 정책 시행",
+      "교육 인프라, 교원 역량, 콘텐츠 개발에 투자"
+    ],
+    "validated_at": "2026-03-12T20:30:00Z"
+  },
+  "quality_score": 85,
+  "collected_at": "2026-03-11T21:30:00+09:00",
+  "tags": ["정책", "AI", "교육", "한국"],
+  "reporting_brief": {
+    "headline": "한국 초중등학교 1141개교 AI 중점학교로 선정",
+    "sources": [
+      {
+        "title": "대한민국 정부공식포털 - AI 중점학교 운영 안내",
+        "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148960595"
+      }
+    ]
+  },
+  "draft": {
+    "headline": "한국의 AI 교육 본격화, 전국 1141개교 선정·385억 원 투자",
+    "subheadline": "초중등학교의 체계적 AI 교육 확대... 지역 균형 발전과 미래 인재 양성에 총력",
+    "slug": "korea-ai-focus-schools-1141",
+    "ghost_tags": ["AI 정책", "한국 교육", "ai-news"],
+    "category": "education",
+    "custom_excerpt": "한국 정부가 초중등학교의 AI 교육을 본격화하기 위해 전국 1141개 학교를 AI 중점학교로 선정했습니다. 385억 원의 특별교부금을 투입하여 교육 인프라 확충과 교원 역량 강화에 나서는 이번 정책은 한국의 AI 인재 양성 전략의 핵심을 보여줍니다.",
+    "word_count": 1820,
+    "feature_image": "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5",
+    "og_image": "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5",
+    "html": "<div style=\"font-family:'Noto Sans KR', sans-serif;max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;margin:0 auto;padding:20px 0;\">\n<div style=\"border-left:4px solid #4338ca;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:48px;\">\n<h2 style=\"margin:0 0 12px 0;font-size:20px;font-weight:700;color:#4338ca;\">핵심 요약</h2>\n<p style=\"margin:0;font-size:16px;color:#374151;\">한국 정부가 초중등학교의 AI 교육을 공식적으로 확대하기로 결정했습니다. 전국 17개 시도에서 1141개 학교를 AI 중점학교로 선정하고, 2026년도에 385억 원의 특별교부금을 투입하여 AI 교육 인프라 구축과 교원 역량 강화를 추진합니다.</p>\n</div>\n\n<h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px 0;color:#1a1a2e;\">대한민국, AI 교육에 본격 투자</h2>\n<p style=\"margin:0 0 32px 0;text-align:justify;\">한국 교육부가 역사적인 결정을 내렸습니다. 초중등학교의 체계적인 AI 교육을 위해 전국 1141개 학교를 'AI 중점학교'로 선정하고, 무려 385억 원의 특별교부금을 2026년에 투입하기로 한 것입니다. 이는 단순한 예산 편성을 넘어서 국가적 차원의 AI 인재 양성 전략이 본격화되었음을 의미합니다.</p>\n\n<p style=\"margin:0 0 32px 0;text-align:justify;\">이 정책은 한국이 AI 시대에 앞서가겠다는 의지를 명확히 보여줍니다. 세계 주요국들이 AI 교육의 중요성을 강조하고 있는 가운데, 한국이 구체적인 학교 선정과 대규모 예산 투입으로 실제 행동에 나선 것입니다. 이는 2026년도 교육 정책에서 AI가 얼마나 중요한 위치를 차지하고 있는지를 보여주는 강력한 신호입니다.</p>\n\n<h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px 0;color:#1a1a2e;\">지역 균형 발전을 고려한 선정 방식</h2>\n<p style=\"margin:0 0 32px 0;text-align:justify;\">이번 정책의 또 다른 특징은 지역 균형 발전을 고려했다는 점입니다. 1141개 학교가 전국 17개 시도에 고르게 분산되어 선정되었습니다. 이는 특정 지역에 자원이 집중되는 것을 방지하고, 전국의 모든 학생이 양질의 AI 교육을 받을 수 있는 기반을 조성하려는 정책 의지를 반영합니다.</p>\n\n<p style=\"margin:0 0 32px 0;text-align:justify;\">교육의 기회 불평등이 심화되는 것을 방지하기 위해 정부는 균형 있는 선정 기준을 적용했습니다. 서울, 경기 같은 대도시뿐 아니라 지방의 소도시와 농촌 지역의 학교들도 AI 중점학교로 선정될 기회를 가졌습니다. 이는 '지역 교육 격차 해소'라는 교육 정책의 핵심 가치를 반영한 결정입니다.</p>\n\n<h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px 0;color:#1a1a2e;\">385억 원, 무엇에 쓰이나</h2>\n<p style=\"margin:0 0 32px 0;text-align:justify;\">이제 핵심 질문입니다. 385억 원의 특별교부금은 구체적으로 무엇에 쓰일까요? 한국 정부는 이 예산을 세 가지 주요 영역에 배분할 계획입니다.</p>\n\n<p style=\"margin:0 0 32px 0;text-align:justify;\">첫째, 교육 인프라 확충입니다. AI 교육에 필요한 컴퓨터, 소프트웨어, 학습 플랫폼 등 최신 기술을 갖춘 교실을 만드는 데 자금이 투입됩니다. 단순히 노후 컴퓨터실을 갱신하는 것이 아니라, AI 학습에 최적화된 환경을 구축하는 것이 목표입니다.</p>\n\n<p style=\"margin:0 0 32px 0;text-align:justify;\">둘째, 교원 역량 강화입니다. AI 교육을 담당할 교사들의 전문성 개발이 매우 중요합니다. 정부는 이 자금으로 교사 연수 프로그램, 온라인 학습 콘텐츠, 해외 전문가 초청 강연 등을 지원할 계획입니다. 학생들에게 좋은 교육을 제공하려면 먼저 교사들이 AI에 대해 깊이 있게 이해해야 하기 때문입니다.</p>\n\n<blockquote style=\"border-left:4px solid #4338ca;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;font-style:italic;color:#374151;margin:32px 0;font-size:16px;\">\"1141개 학교가 전국 17개 시도에 선정된 것은 지역 균형 발전을 고려한 정부의 결정입니다. 이제 AI 교육은 서울과 대도시의 특혜가 아닌, 모든 한국 학생의 권리가 됩니다.\"</blockquote>\n\n<p style=\"margin:0 0 32px 0;text-align:justify;\">셋째, 교육 콘텐츠 개발입니다. AI 학습용 교과서, 온라인 강의, 학습 게임, 프로젝트 기반 학습 자료 등 다양한 교육 자료가 개발될 것입니다. 학교들이 좋은 교육 콘텐츠를 활용할 수 있어야 실질적인 학습이 가능하기 때문입니다.</p>\n\n<h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px 0;color:#1a1a2e;\">미래 AI 인재 양성을 위한 첫걸음</h2>\n<p style=\"margin:0 0 32px 0;text-align:justify;\">이 정책이 의미 있는 이유는 장기적 관점에서 한국의 AI 역량을 강화하려는 것이기 때문입니다. 오늘의 초중학생들은 10년 뒤, 20년 뒤 한국 사회의 주역이 될 사람들입니다. 이들이 초중등 시절부터 AI에 대해 제대로 배운다면, 한국의 AI 산업과 기술 발전은 한 단계 도약할 것입니다.</p>\n\n<p style=\"margin:0 0 32px 0;text-align:justify;\">단순히 프로그래밍만 배우는 것이 아닙니다. AI의 원리를 이해하고, AI를 도구로 사용하는 능력, 그리고 AI 윤리와 책임성에 관해 생각하는 능력을 모두 키우게 됩니다. 이것이 진정한 'AI 인재'를 만드는 교육입니다.</p>\n\n<p style=\"margin:0 0 32px 0;text-align:justify;\">글로벌 경쟁에서 한국의 위치를 생각할 때, 이 정책은 매우 시의적절합니다. 미국, 중국, 유럽 등 주요국들이 이미 AI 교육에 대규모 투자를 하고 있는 상황에서, 한국도 뒤처지지 않고 나아가 앞서가기 위한 노력인 것입니다.</p>\n\n<div style=\"border-top:1px solid #e2e8f0;margin-top:48px;padding-top:32px;\">\n<h3 style=\"font-size:16px;font-weight:700;margin-bottom:20px;color:#1a1a2e;\">참고자료</h3>\n<ol style=\"margin:0;padding-left:20px;color:#374151;\">\n<li style=\"margin-bottom:12px;\"><strong>대한민국 정부공식포털 - AI 중점학교 운영 안내</strong> - 교육부 공식 발표. 1141개 학교 선정 현황과 지역별 배분, 예산 규모 등을 포함. <a href=\"https://www.korea.kr/multi/visualNewsView.do?newsId=148960595\" style=\"color:#4338ca;text-decoration:none;\">공식 보도 보기</a></li>\n<li style=\"margin-bottom:12px;\"><strong>2026년 AI 교육 특별교부금 지원 계획</strong> - 교육부 예산 편성 현황. 각 지역별 예산 배분과 사용 계획을 상세히 설명합니다. <a href=\"https://www.korea.kr/news/policyNewsView.do?newsId=148960557\" style=\"color:#4338ca;text-decoration:none;\">정책 뉴스 보기</a></li>\n<li style=\"margin-bottom:12px;\"><strong>전국 AI 중점학교 목록</strong> - 17개 시도별 선정 학교 현황. 지역별 초등학교, 중학교 현황을 확인할 수 있는 상세 리스트.</li>\n</ol>\n</div>\n\n<p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>"
+  },
+    "references": [
+      {
+        "title": "대한민국 정부공식포털 - AI 중점학교",
+        "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148960595"
+      },
+      {
+        "title": "교육부 - 특별교부금 지원",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960557"
+      }
+    ]
+  }
+}

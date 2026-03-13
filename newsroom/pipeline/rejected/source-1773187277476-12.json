@@ -1,0 +1,43 @@
+{
+  "url": "https://www.dailian.co.kr/news/view/1617375/",
+  "title": "경기도교육청, 대입관계자 간담회 개최…고교-교육청-대학 간 네트워크 강화",
+  "source": "web_search",
+  "score": 80,
+  "collected_at": "2026-03-11T09:01:17.475169Z",
+  "status": "fact-checked",
+  "reporting_brief": {
+    "who": "경기도교육청 대입진학과, 수도권 4년제 대학 입학사정관 및 입학관계자 50명",
+    "what": "2026학년도 대학입학관계자 간담회 개최 - 경기 지역 특색 진학교육 정책 공유"
+  },
+  "draft": {
+    "headline": "경기도의 차별화된 진학교육 \"IB·AI 평가\" 대학에 설득하다"
+  },
+  "fact_check": {
+    "score": 86,
+    "verdict": "PASS",
+    "verified_claims": [
+      "경기도교육청 대학입학관계자 간담회 개최 (원본 기사)",
+      "2026년 3월 5일 수원컨벤션센터 개최 (원본 기사)",
+      "수도권 50명 대학 관계자 참석 (원본 기사)",
+      "경기 IB교육, AI 서·논술형 평가, 고교학점제 정책 소개 (원본 기사)",
+      "경기공유학교, 하이러닝 등 운영 중 (원본 기사)",
+      "장애학생 지원 프로그램 포함 (원본 기사)"
+    ],
+    "issues": [
+      "IB 디플로마의 구체적 운영 현황은 제한적 정보"
+    ],
+    "structure_check": {
+      "lead_box": true,
+      "h2_sections": 4,
+      "references": 3,
+      "ai_disclaimer": true,
+      "text_length": "1700자 (1600자 이상 충족)"
+    },
+    "validated_at": "2026-03-11T00:38:00Z"
+  },
+  "stage": "rejected",
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

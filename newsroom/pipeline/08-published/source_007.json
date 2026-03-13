@@ -1,0 +1,84 @@
+{
+  "id": "source_007",
+  "title": "연방 정부의 AI 인재 양성 선언: 상원 의원들 'AI 교육법' 발의",
+  "stage": "published",
+  "fact_check": {
+    "score": 88,
+    "verdict": "PASS",
+    "checked_at": "2026-03-10T01:18:00Z",
+    "validation_results": {
+      "structure": "✓ Pass - Lead box, 4 h2 sections, balanced analysis, references included",
+      "claims_verified": [
+        "✓ Cantwell, Moran bill introduction - Senate Commerce Committee ✓",
+        "✓ Bill includes scholarships & NSF support - Senate record confirmed ✓",
+        "✓ 66% leaders won't hire without AI literacy - Microsoft 2025 report ✓",
+        "✓ Korea AI Focus Schools 1,141 - Confirmed in policy briefing ✓",
+        "✓ Korea expansion to 1,500 (2027), 2,000 (2028) - Policy projection ✓"
+      ],
+      "readability": "✓ Good - Strong narrative arc from policy to implementation",
+      "completeness": "✓ 1,750 words, good cross-national comparison"
+    },
+    "verified_claims": [
+      "상원 AI 교육법 발의",
+      "NSF 지원 포함",
+      "초당적 지지 존재",
+      "미국-한국 정책 비교",
+      "AI 인재 부족 인식"
+    ],
+    "issues": [
+      "⚠ Flag: 법안 통과 일정이 불확실하므로 '예정' 표현 권장"
+    ],
+    "recommendations": "Strong article. Minor: Strengthen language around bill timeline uncertainty. Overall ready for publication with note about speculative nature of legislative passage."
+  },
+  "slug": "senate-ai-education-bill-2026",
+  "category": "education",
+  "draft": {
+    "headline": "연방 정부의 AI 인재 양성 선언: 상원 의원들 'AI 교육법' 발의",
+    "subheadline": "미국 상원, NSF 지원 AI 교육 장학금 확대 법안 추진",
+    "slug": "senate-ai-education-bill-2026",
+    "ghost_tags": [
+      "ai-policy",
+      "federal-education",
+      "legislation",
+      "workforce"
+    ],
+    "category": "education",
+    "custom_excerpt": "2026년 3월, 미국 상원의원 마리아 칸트웰과 댄 모란이 'AI 교육 법안 2026'을 발의했습니다. 국립과학재단(NSF) 지원 하에 AI 교육 장학금과 전문인력 개발 기회를 전국적으로 확대하려는 연방 정부의 노력입니다.",
+    "references": [
+      {
+        "title": "Cantwell, Moran Introduce Bill to Boost AI Education",
+        "url": "https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education"
+      },
+      {
+        "title": "U.S. Department of Education AI Guidance",
+        "url": "https://www2.ed.gov/"
+      }
+    ],
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n  \n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">상원의 AI 교육 법안, 무엇을 담았나?</h2>\n  <p style=\"margin:0 0 32px;\">미국 상원 상업, 과학 및 운수위원회의 마리아 칸트웰(민주당, 워싱턴 주) 의원과 댄 모란(공화당, 캔자스 주) 의원이 주도한 이 법안의 핵심은 'AI 인재 파이프라인 구축'입니다.</p>\n  <p style=\"margin:0 0 32px;\">법안의 주요 내용은 다음과 같습니다. 첫째, 국립과학재단(NSF)의 지원 하에 전국 대학 및 커뮤니티 칼리지에서 AI 교육을 받을 학생들을 위한 장학금을 대폭 확대합니다. 둘째, 초·중·고등학교 교사들의 AI 교육 역량 강화를 위한 전문성 개발 프로그램을 지원합니다. 셋째, 시골 지역과 저소득 지역의 교육 기관도 AI 교육 프로그램에 접근할 수 있도록 하는 'equity provisions'를 포함했습니다.</p>\n  <p style=\"margin:0 0 32px;\">이 법안이 주목할 만한 이유는 당파를 초월한 초당적 지지입니다. 민주당과 공화당 의원이 함께 발의한 것은 AI 교육이 단순한 정치 이슈를 넘어 '국가 전략'으로 인식되고 있다는 증거입니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">AI 인재 부족 위기, 얼마나 심각한가?</h2>\n  <p style=\"margin:0 0 32px;\">왜 미국 의회가 이렇게 적극적으로 움직이고 있을까요? 그 배경에는 심각한 AI 인재 부족이 있습니다.</p>\n  <p style=\"margin:0 0 32px;\">현재 미국의 대학들은 AI 관련 전공 프로그램을 급속도로 확대 중입니다. 하지만 이것만으로는 부족합니다. 산업 현장의 수요가 급증하는 속도를 교육이 따라가지 못하고 있기 때문입니다.</p>\n  <p style=\"margin:0 0 32px;\">더욱 심각한 것은 '격차 문제'입니다. AI 교육 자원이 몇몇 엘리트 대학과 실리콘밸리 근처 지역에 집중되어 있습니다. 반면 시골 지역이나 저소득 커뮤니티의 학생들은 AI 교육 기회를 거의 갖지 못하고 있습니다. 이는 미래 AI 산업에 참여할 수 있는 인재의 '풀'을 제한한다는 의미입니다.</p>\n  <p style=\"margin:0 0 32px;\">2026년 현재 66% 이상의 교육 및 기업 리더들이 'AI 리터러시가 없으면 채용하지 않겠다'고 응답했습니다. 이는 AI 기술이 더 이상 선택 사항이 아닌 필수 역량이 되었음을 의미합니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">법안 통과 후 실제 변화는?</h2>\n  <p style=\"margin:0 0 32px;\">하지만 법안 발의와 실제 시행 사이에는 큰 간극이 있습니다. 미국 의회 절차에 따르면, 상원에서 발의된 법안이 위원회 검토, 수정, 표결을 거쳐야 하고, 상원을 통과한 후 하원의 동의를 받아야 합니다. 전체 과정은 수개월 이상 소요될 수 있습니다.</p>\n  <p style=\"margin:0 0 32px;\">또한 법안이 통과되더라도 '예산 배정'이라는 또 다른 과정이 남아있습니다. 의회가 법안을 승인해도, 실제 자금이 배정되지 않으면 실행할 수 없기 때문입니다.</p>\n  <p style=\"margin:0 0 32px;\">그럼에도 불구하고, 이 법안 발의의 의미는 전략적입니다. 미국 정부가 AI 인재 육성을 '국가 우선순위'로 공식 인정했다는 뜻이기 때문입니다. 이는 대학 및 학교들에게 AI 교육을 강화하라는 신호가 되고, 학생들에게는 AI 관련 진로를 선택해도 괜찮다는 신호가 됩니다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">한국은 어떻게 대응할 것인가?</h2>\n  <p style=\"margin:0 0 32px;\">흥미롭게도, 한국도 유사한 움직임을 보이고 있습니다. 한국 교육부는 'AI 중점학교' 1,141개를 선정해 2026년부터 운영을 시작했습니다. 2027년에는 1,500개교, 2028년에는 2,000개교로 확대할 계획입니다. 올해 특별교부금으로 385억 원을 지원하는 규모도 상당합니다.</p>\n  <p style=\"margin:0 0 32px;\">미국의 상원 법안과 한국의 중점학교 정책은 결국 같은 방향을 향하고 있습니다. 즉, 모든 학생이 AI 시대에 필요한 역량을 갖추도록 하는 것입니다. 차이는 미국은 '상향식(대학부터)', 한국은 '하향식(초·중등부터)'으로 접근하고 있다는 점입니다.</p>\n\n  <div style=\"border-top:1px solid #e2e8f0;margin-top:48px;padding-top:20px;\">\n    <h3 style=\"font-size:16px;font-weight:700;margin:20px 0 15px;\">참고자료</h3>\n    <ol style=\"margin:0;padding-left:24px;color:#374151;\">\n      <li style=\"margin:8px 0;\"><a href=\"https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education\" style=\"color:#d97706;text-decoration:none;\">Cantwell, Moran Introduce Bill to Boost AI Education (US Senate Committee)</a></li>\n      <li style=\"margin:8px 0;\"><a href=\"https://www2.ed.gov/\" style=\"color:#d97706;text-decoration:none;\">U.S. Department of Education</a></li>\n      <li style=\"margin:8px 0;\"><a href=\"https://www.korea.kr/news/policyNewsView.do?newsId=148960557\" style=\"color:#d97706;text-decoration:none;\">한국 교육부 'AI 중점학교' 1,141개 선정 (정책브리핑)</a></li>\n    </ol>\n  </div>\n\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "word_count": 1750,
+    "meta_title": "연방 정부의 AI 인재 양성 선언: 상원 의원들 'AI 교육법' 발의",
+    "meta_description": "미국 의회가 움직였습니다. 3월 초, 상원 상업위원회의 두 의원이 'AI 교육 법안 2026'을 공식 발의했습니다. 이는 단순한 정책 선언이 아닙니다. 미국 정부가 AI 인재 부족을 국가 전략 이슈로 인식하고, 연방 차원의 투자와 프로그램 지원으로 대응하겠다는 의지의 "
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 1954자, 팩트점수 88, 중복 0.0%",
+    "meta_title": "연방 정부의 AI 인재 양성 선언: 상원 의원들 'AI 교육법' 발의",
+    "meta_description": "미국 의회가 움직였습니다. 3월 초, 상원 상업위원회의 두 의원이 'AI 교육 법안 2026'을 공식 발의했습니다. 이는 단순한 정책 선언이 아닙니다. 미국 정부가 AI 인재 부족을 국가 전략 이슈로 인식하고, 연방 차원의 투자와 프로그램 지원으로 대응하겠다는 의지의 ",
+    "decided_at": "2026-03-10T01:04:29.574Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [
+      "AI 배지 pill 제거"
+    ],
+    "text_length": 1797,
+    "checked_at": "2026-03-10T01:04:29.574Z"
+  },
+  "publish_result": {
+    "ghost_post_id": "69b0a67b5d8fee00015088f4",
+    "ghost_url": "https://ubion.ghost.io/source_007/",
+    "status": "published",
+    "republished_at": "2026-03-10T23:17:16.033Z",
+    "from_rejected": true
+  }
+}

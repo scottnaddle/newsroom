@@ -28,5 +28,5 @@
       "count": 38
     }
   ],
-  "lastRunnerLog": "[2026-03-09T09:33:52.093Z] [INFO] [Stage5:교열] 2026-03-09_18-00_virginia-ai-education-guardrails-bill.json | [2026-03-09T09:33:52.093Z] [WARN] [Stage5] 본문 747자 미만 -> rejected: 2026-03-09_18-00_virginia-ai-education-guardrails-bill.json | [2026-03-09T09:33:52.093Z] [INFO] === Pipeline Runner 완료 === | [2026-03-09T09:33:52.093Z] [INFO] Published: 1, Rejected: 3, Error: 0 | [2026-03-09T09:33:52.093Z] [INFO] Ghost URLs: https://insight.ubion.global/p/1b54b758-2852-44e9-bdcc-23a065d5a2ca/"
+  "lastRunnerLog": "[2026-03-09T09:33:52.093Z] [INFO] [Stage5:교열] 2026-03-09_18-00_virginia-ai-education-guardrails-bill.json | [2026-03-09T09:33:52.093Z] [WARN] [Stage5] 본문 747자 미만 -> rejected: 2026-03-09_18-00_virginia-ai-education-guardrails-bill.json | [2026-03-09T09:33:52.093Z] [INFO] === Pipeline Runner 완료 === | [2026-03-09T09:33:52.093Z] [INFO] Published: 1, Rejected: 3, Error: 0 | [2026-03-09T09:33:52.093Z] [INFO] Ghost URLs: https://ubion.ghost.io/p/1b54b758-2852-44e9-bdcc-23a065d5a2ca/"
 }

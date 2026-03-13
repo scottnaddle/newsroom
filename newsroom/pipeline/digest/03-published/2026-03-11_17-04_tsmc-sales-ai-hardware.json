@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "TSMC Sales Jump 30% Though Memory Chip Crunch Saps Mobile Demand",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-10/tsmc-sales-grow-30-on-sustained-global-demand-for-ai-hardware",
+    "source_name": "Bloomberg",
+    "language": "en",
+    "relevance_score": 86,
+    "summary": "TSMC's sales growth jumped 30% in Jan-Feb 2026 on sustained demand for AI hardware, though the pace trails analyst expectations. Memory chip price increases are impacting high-end smartphone and PC demand.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-11T17:04:00Z"
+  },
+  "digest": {
+    "headline": "TSMC 판매 30% 증가, AI 하드웨어 수요가 주도",
+    "lead": "TSMC의 1~2월 판매량이 30% 증가했으나, 메모리 칩 가격 급등으로 스마트폰·PC 수요는 위축되는 양극화 현상이 벌어지고 있다. AI 인프라 투자는 계속되는 반면 일반 소비자 기기 시장은 약세를 보이고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">TSMC의 1~2월 판매량이 30% 증가했으나, 메모리 칩 가격 급등으로 스마트폰·PC 수요는 위축되는 양극화 현상이 벌어지고 있다. AI 인프라 투자는 계속되는 반면 일반 소비자 기기 시장은 약세를 보이고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">TSMC의 판매 성장률은 30%에 달하지만, 분석가 기대치를 밑돌고 있다. 주요 원인은 메모리 칩 공급 부족으로 인한 가격 상승이다. 고대역폭 메모리(HBM)와 D램 가격이 급등하면서 프리미엄 스마트폰과 고성능 PC 수요가 줄어들고 있다. 반면 AI 데이터센터용 칩 주문은 여전히 강세를 유지하고 있어, 반도체 시장의 공급 부족 문제가 부문별로 다르게 나타나고 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이는 반도체 시장의 '이중 구조'를 보여준다. 엔터프라이즈·클라우드 영역의 AI 투자는 가격 민감도가 낮아 계속 증가하는 반면, 일반 소비자 시장은 높은 부품 가격에 민감한 상황이다. 향후 메모리 칩 공급이 정상화되는 데 몇 개월이 더 필요할 것으로 예상되며, 그때까지 소비자 전자기기 시장은 조정기에 들어갈 수 있다. 다만 AI 칩 수요의 지속성이 반도체 업계 전체의 성장 동력이 될 것으로 전망된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">메모리 칩 부족과 가격 급등은 교육용 기기 비용에 직결된다. 교육청과 학교가 학생용 노트북, 태블릿 도입 시 예산 부담이 가중되는 상황이다. 동시에 대규모 AI 교육 인프라(학생 학습 분석, AI 튜터 서버) 구축은 여전히 가능한 부문별 불균형을 인식해야 한다. 에듀테크 기업들은 메모리 가격 안정화 시점까지 엔터프라이즈 AI 솔루션 판매에 집중하되, 소비자 기기 보급 시장은 가격이 하락할 때까지 기다려야 할 것으로 보인다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.bloomberg.com/news/articles/2026-03-10/tsmc-sales-grow-30-on-sustained-global-demand-for-ai-hardware\" style=\"color:#FF6B35;text-decoration:none;\">Bloomberg</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "semiconductor"
+    ],
+    "meta_title": "TSMC 판매 30% 증가, AI 칩 vs 메모리 칩 이중 구조",
+    "meta_description": "TSMC 판매 30% 증가했으나, 메모리 칩 가격 급등으로 스마트폰·PC 수요는 위축. AI 인프라와 소비자 기기의 양극화 심화.",
+    "word_count": 463
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T17:04:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T08:45:40Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-11T10:37:02.617Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b145ce5d8fee0001508a14",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b145ce5d8fee0001508a14",
+    "public_url": "https://ubion.ghost.io/tsmc-panmae-30-jeungga-ai-hadeuweeo-suyoga-judo/",
+    "status": "published",
+    "published_at": "2026-03-11T10:37:02.000Z"
+  }
+}

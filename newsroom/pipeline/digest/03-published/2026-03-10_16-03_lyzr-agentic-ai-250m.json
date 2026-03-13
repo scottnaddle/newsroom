@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Agentic AI Startup Lyzr Raises Funds at $250 Million Valuation",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-09/agentic-ai-startup-lyzr-raises-funds-at-250-million-valuation",
+    "source_name": "Bloomberg",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Lyzr, a New York-based agentic AI startup, raised $14.5 million in funding and achieved a $250 million valuation, quintupling its previous valuation. The round was led by early-stage investors including Rocketship VC.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-10T16:03:00Z"
+  },
+  "digest": {
+    "headline": "에이전틱 AI 스타트업 라이즈르, 2억5천만달러 기업가치 달성",
+    "lead": "뉴욕 기반의 에이전틱 AI 스타트업 라이즈르가 1450만달러 시리즈 펀딩 라운드를 완료하며 기업가치 2억5천만달러(약 3250억원)를 달성했다. 약 6개월 만에 기업가치가 5배 상승하면서 독립 에이전트 기반 AI 솔루션 시장의 급성장을 보여준다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">뉴욕 기반의 에이전틱 AI 스타트업 라이즈르가 1450만달러 시리즈 펀딩 라운드를 완료하며 기업가치 2억5천만달러(약 3250억원)를 달성했다. 약 6개월 만에 기업가치가 5배 상승하면서 독립 에이전트 기반 AI 솔루션 시장의 급성장을 보여준다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">에이전틱 AI는 사용자의 목표를 이해하고 자율적으로 판단하며 스스로 행동하는 AI 시스템을 일컫는다. 라이즈르는 기업의 반복적 업무를 자동화하는 에이전트 플랫폼을 개발하고 있다. 이번 펀딩은 Rocketship VC 등 초기 단계 투자자들의 리드로 진행됐다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">에이전틱 AI는 생성형 AI 이후의 차세대 핵심 기술으로 주목받고 있다. 챗봇의 '응답' 중심에서 벗어나 '행동'을 통해 실제 비즈니스 가치를 창출할 수 있기 때문이다. 라이즈르의 급성장은 기업 고객들이 이미 에이전트 기반 자동화에 상당한 가치를 인정하고 있음을 시사한다. 향후 에이전틱 AI 솔루션 시장은 엔터프라이즈 소프트웨어의 주류로 편입될 것으로 예상된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">에이전틱 AI 기술의 성숙은 교육 행정 자동화와 학습 코칭의 패러다임을 바꿀 것으로 예상된다. 학생의 학습 진도를 자동 추적하고 개인화된 학습 경로를 제시하는 에이전트, 교사의 채점과 피드백을 자동화하는 도구 등이 에듀테크 스타트업의 새로운 표준이 될 가능성이 높다. 라이즈르 같은 플랫폼이 교육 현장 자동화를 위한 인프라를 제공하면, 에듀테크 개발사들의 진입 장벽이 크게 낮아질 것이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.bloomberg.com/news/articles/2026-03-09/agentic-ai-startup-lyzr-raises-funds-at-250-million-valuation\" style=\"color:#FF6B35;text-decoration:none;\">Bloomberg</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "funding"
+    ],
+    "meta_title": "에이전틱 AI 스타트업 라이즈르, 2억5천만달러 기업가치 달성",
+    "meta_description": "에이전트 기반 AI 자동화 플랫폼의 성장세가 교육 현장 자동화 확대를 예고",
+    "word_count": 545
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T16:03:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T07:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-10T07:34:56.981Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69afc9a015c2cc0001bbe0be",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69afc9a015c2cc0001bbe0be",
+    "public_url": "https://ubion.ghost.io/eijeontig-ai-seutateueob-raijeureu-2eog5ceonmandalreo-gieobgaci-dalseong/",
+    "status": "published",
+    "published_at": "2026-03-10T07:34:56.981Z"
+  }
+}

@@ -63,7 +63,11 @@
     "word_count": 1017,
     "category": "industry",
     "meta_title": "서울대·연세대·고려대… 주요 대학, AI 단과대 독립 체제 가속화",
-    "meta_description": "삼성전자 채용조건형 계약학과까지 등장… 'AI+X' 융합 교육이 대세"
+    "meta_description": "삼성전자 채용조건형 계약학과까지 등장… 'AI+X' 융합 교육이 대세",
+    "feature_image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.829Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 88,
@@ -101,7 +105,5 @@
     "명확성: '명실상부한 독립 단과대' 등 독립의 구체적 의미 설명 추가",
     "구조: 리드박스·h2 섹션·참고자료·AI 각주 확인 완료"
   ],
-  "ghost_id": "69ae70d2ff4fbf0001ab7881",
-  "ghost_url": "https://insight.ubion.global/p/4040da6d-fc4b-4e32-a61f-5e03a32bb842/",
   "published_at": "2026-03-09T07:03:46.924Z"
 }

@@ -38,7 +38,11 @@
       }
     ],
     "meta_title": "2026년 AI 교육의 진실: 데이터로 본 혁신과 우려",
-    "meta_description": "수년 전만 해도 'AI가 교육을 바꾼다'는 것은 미래의 이야기였다. 하지만 2026년 현재, 그것은 이미 '이루어진 일'이다. Microsoft, McKinsey, OECD 등 글로벌 주요 기관들의 최신 데이터는 AI 교육이 얼마나 빠르게 현실화되었는지, 그리고 그 과"
+    "meta_description": "수년 전만 해도 'AI가 교육을 바꾼다'는 것은 미래의 이야기였다. 하지만 2026년 현재, 그것은 이미 '이루어진 일'이다. Microsoft, McKinsey, OECD 등 글로벌 주요 기관들의 최신 데이터는 AI 교육이 얼마나 빠르게 현실화되었는지, 그리고 그 과",
+    "feature_image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.861Z",
+    "image_verified": false
   },
   "reporting_status": "completed",
   "drafted_at": "2026-03-09T20:40:00.000Z",
@@ -69,7 +73,5 @@
     "text_length": 2854,
     "checked_at": "2026-03-09T11:35:42.160Z"
   },
-  "ghost_id": "69aeb08eff4fbf0001ab79d7",
-  "ghost_url": "https://insight.ubion.global/p/b72ff468-2617-4460-9159-cf0de014ec75/",
   "published_at": "2026-03-09T11:35:42.618Z"
 }

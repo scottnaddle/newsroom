@@ -55,7 +55,11 @@
       }
     ],
     "word_count": 1150,
-    "category": "policy"
+    "category": "policy",
+    "feature_image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.812Z",
+    "image_verified": false
   },
   "quality_report": {
     "structure_score": 100,
@@ -216,13 +220,5 @@
       "timestamp": "2026-03-07T09:43:41.855Z",
       "note": "Ghost에 즉시 공개 발행 완료"
     }
-  ],
-  "publish_result": {
-    "ghost_post_id": "69abf31eff4fbf0001ab7332",
-    "ghost_url": "https://insight.ubion.global/ai-education-revolution-2026-uk-us-korea/",
-    "status": "published",
-    "published_at": "2026-03-07T09:42:54.000Z",
-    "feature_image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop&q=85&auto=format",
-    "og_image": "https://insight.ubion.global/content/images/2026/03/og-card-ai-edu.png"
-  }
+  ]
 }

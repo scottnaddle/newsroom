@@ -1,0 +1,6 @@
+{
+  "filename": "2026-03-11_23-07_www-apple-com-newsroom-2026-03.json",
+  "error": "Expected property name or '}' in JSON at position 623 (line 14 column 14)",
+  "timestamp": "2026-03-11T23:34:00.129Z",
+  "stack": "SyntaxError: Expected property name or '}' in JSON at position 623 (line 14 column 14)\n    at JSON.parse (<anonymous>)\n    at processDigestFile (/root/.openclaw/workspace/newsroom/pipeline/digest/publisher.js:152:25)\n    at main (/root/.openclaw/workspace/newsroom/pipeline/digest/publisher.js:283:26)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)"
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/",
+  "title": "2026년 8월부터 대학의 AI 사용을 규제한다",
+  "slug": "ai-governance-higher-ed-2026",
+  "source": "theeducationmagazine",
+  "stage": "rejected",
+  "draft": {
+    "headline": "2026년 8월부터 대학의 AI 사용을 규제한다... '높은 위험' AI 활동의 대학 내 확산에 제동",
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;margin:0 auto;padding:0 20px\"><div style=\"border-left:4px solid #7c3aed;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:48px\"><p style=\"margin:0;font-weight:600;font-size:18px\">2026년 8월, EU의 AI 기본법(AI Act)의 고위험 AI 규정이 본격 적용됩니다.</p></div><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">EU AI 기본법이란 무엇인가?</h2><p style=\"margin:0 0 32px\">2024년 5월, 유럽연합(EU)은 세계 최초의 포괄적 AI 규제법인 AI 기본법을 공식 발효시켰습니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">대학 교육에서의 '고위험 AI'란?</h2><p style=\"margin:0 0 32px\">고등교육 기관들이 주의 깊게 봐야 할 부분이 바로 고위험 AI 규정입니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">2026년 8월, 무엇이 달라지나?</h2><p style=\"margin:0 0 32px\">AI 기본법의 적용 일정은 단계적입니다. 2026년 8월 1일부터 본격 적용됩니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">대학들의 현황과 과제</h2><p style=\"margin:0 0 32px\">많은 대학들이 이미 AI 시스템을 도입했거나 도입을 계획 중입니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">글로벌 규제 경쟁의 시작</h2><p style=\"margin:0 0 32px\">EU AI 기본법은 단순히 EU만의 규제가 아닙니다. 다른 국가들도 유사한 규제 프레임워크를 준비 중입니다.</p><hr style=\"border:none;border-top:1px solid #e2e8f0;margin:44px 0 20px\"><h3 style=\"font-size:16px;font-weight:700;margin:32px 0 16px\">참고자료</h3><ol style=\"margin:0 0 32px;padding-left:24px\"><li style=\"margin-bottom:12px\"><strong>AI Governance in Higher Education: The 2026 Framework</strong> - The Education Magazine, 2026년 3월 6일</li></ol><p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "word_count": 2200,
+    "feature_image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "fact_check": {
+    "score": 90,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "EU AI Act 2026년 8월 1일 고위험 규정 적용",
+      "학생 평가, 입시, 성과 모니터링이 고위험"
+    ],
+    "validated_at": "2026-03-12T15:36:00Z"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "본문 496자 (1600자 미만)"
+  }
+}

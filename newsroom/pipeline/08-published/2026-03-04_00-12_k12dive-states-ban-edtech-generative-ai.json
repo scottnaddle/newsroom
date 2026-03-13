@@ -105,7 +105,7 @@
     "word_count": 1480,
     "article_type": "news",
     "feature_image": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop&q=85&auto=format",
-    "og_image": "https://insight.ubion.global/content/images/2026/03/og-69a916efe2eb440001d559d6.png",
+    "og_image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop&q=85&auto=format",
     "meta_title": "미국 5개 주, 학교 생성형 AI 전면 금지 법안 추진",
     "meta_description": "미국 최소 5개 주 의회가 2026년 학교 내 생성형·대화형 AI를 포함한 에듀테크 도구를 전면 금지하는 법안을 추진하고 있습니다. 한국·인도·싱가포르 등이 AI 교육 의무화를 확대하는 가운데, 미국 일부 주는 정반대 방향으로 향하고 있어 글로벌 교육 정책의 이분화가 "
   },
@@ -222,7 +222,7 @@
       "agent": "publisher",
       "action": "published-draft",
       "timestamp": "2026-03-03T22:21:52.176Z",
-      "note": "Ghost draft URL: https://insight.ubion.global/ghost/#/editor/post/69a75ec00ac2ff00013a3e96"
+      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69a75ec00ac2ff00013a3e96"
     },
     {
       "agent": "publisher",
@@ -252,12 +252,6 @@
     "text_length": 2007,
     "checked_at": "2026-03-09T13:33:30.535Z"
   },
-  "publish_result": {
-    "ghost_post_id": "69a9fee1ff4fbf0001ab6c65",
-    "ghost_edit_url": "https://insight.ubion.global/ghost/#/editor/post/69a9fee1ff4fbf0001ab6c65",
-    "status": "published",
-    "published_at": "2026-03-05T22:08:33.842Z"
-  },
   "rejected_at": "2026-03-06T19:16:13+09:00",
   "rejection_reason": "신뢰도 0 - 팩트체크 미수행",
   "fact_check": {
@@ -271,7 +265,5 @@
       }
     ]
   },
-  "ghost_id": "69aecc2aff4fbf0001ab7c74",
-  "ghost_url": "https://insight.ubion.global/k12dive-states-ban-edtech-generative-ai-3/",
   "published_at": "2026-03-09T13:33:30.991Z"
 }

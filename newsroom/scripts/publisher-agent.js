@@ -108,7 +108,7 @@ async function uploadImageToGhost(filePath, jwtToken) {
     ]);
 
     const options = {
-      hostname: 'insight.ubion.global',
+      hostname: 'ubion.ghost.io',
       path: '/ghost/api/admin/images/upload/',
       method: 'POST',
       headers: {
@@ -150,7 +150,7 @@ async function createGhostPost(postData, jwtToken) {
     const body = JSON.stringify({ posts: [postData] });
     
     const options = {
-      hostname: 'insight.ubion.global',
+      hostname: 'ubion.ghost.io',
       path: '/ghost/api/admin/posts/?source=html',
       method: 'POST',
       headers: {
@@ -186,7 +186,7 @@ async function createGhostPost(postData, jwtToken) {
 async function getGhostPost(postId, jwtToken) {
   return new Promise((resolve) => {
     const options = {
-      hostname: 'insight.ubion.global',
+      hostname: 'ubion.ghost.io',
       path: `/ghost/api/admin/posts/${postId}/?formats=html`,
       method: 'GET',
       headers: {
@@ -372,7 +372,7 @@ async function publishArticle(filePath) {
       stage: 'published',
       publish_result: {
         ghost_post_id: postId,
-        ghost_edit_url: `https://insight.ubion.global/ghost/#/editor/post/${postId}`,
+        ghost_edit_url: `https://ubion.ghost.io/ghost/#/editor/post/${postId}`,
         status: 'draft',
         published_at: new Date().toISOString()
       },
@@ -382,7 +382,7 @@ async function publishArticle(filePath) {
           agent: 'publisher',
           action: 'published-draft',
           timestamp: new Date().toISOString(),
-          note: `Ghost draft URL: https://insight.ubion.global/ghost/#/editor/post/${postId}`
+          note: `Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/${postId}`
         }
       ]
     };

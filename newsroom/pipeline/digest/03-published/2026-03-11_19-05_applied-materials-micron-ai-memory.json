@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Inside the $5B chip lab where Applied and Micron race for faster AI memory",
+    "url": "https://www.stocktitan.net/news/AMAT/applied-materials-and-micron-partner-to-advance-u-s-innovation-in-b6dvt8uu9akp.html",
+    "source_name": "Stock Titan",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Applied Materials and Micron partner in joint R&D efforts at Applied's EPIC Center to accelerate development of advanced DRAM, high-bandwidth memory, and NAND storage for AI applications.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-11T19:05:00Z"
+  },
+  "digest": {
+    "headline": "Applied·마이크론, 50억 달러 규모 AI 메모리 공동 개발 추진",
+    "lead": "Applied Materials와 마이크론이 차세대 AI용 메모리 기술 공동 개발을 선언했다. Applied의 새로운 실리콘밸리 EPIC Center(50억 달러 투자)와 마이크론의 보이시 연구센터를 중심으로 차세대 DRAM, 고대역폭 메모리(HBM), NAND 저장소 개발을 가속화한다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">⚡ AI Digest</span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">Applied Materials와 마이크론이 차세대 AI용 메모리 기술 공동 개발을 선언했다. Applied의 새로운 실리콘밸리 EPIC Center(50억 달러 투자)와 마이크론의 보이시 연구센터를 중심으로 차세대 DRAM, 고대역폭 메모리(HBM), NAND 저장소 개발을 가속화한다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Applied Materials는 반도체 제조 장비 분야의 글로벌 리더로, 마이크론과는 수십 년간 메모리 개발 협력 관계를 유지해온 회사다. 이번 협력은 실리콘밸리 EPIC Center(Equipment and Process Innovation and Commercialization Center)를 중심으로 전개된다. EPIC Center는 초기 연구에서 대량 생산까지의 기간을 획기적으로 단축하고, 첨단 반도체 공정의 원료부터 패키징까지 일관된 R&D를 제공하도록 설계됐다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 협력은 미국 반도체 공급망 강화라는 국가 전략의 일부다. Applied와 마이크론은 재료 혁신, 공정 기술, 첨단 패키징을 통해 저전력·고성능 메모리 개발을 가속화할 예정이다. 특히 AI 워크로드의 전력 소비 문제가 데이터센터 운영의 핵심 과제인 만큼, 에너지 효율적인 다음 세대 메모리의 개발은 AI 산업 확대의 필수 요소다. EPIC Center는 올해 개소 예정이며 자본 지출은 고객 프로젝트 착수에 따라 단계적으로 50억 달러까지 확대될 예정이다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">미국 반도체 기업들의 고급 메모리 개발 가속화는 글로벌 에듀테크 시장의 AI 인프라 경쟁 격화를 의미한다. 저전력 고성능 메모리 기술이 확산되면 개발 도상국과 중소 에듀테크 기업도 비용 효율적으로 AI 학습 플랫폼을 구축할 수 있어, 교육 AI의 지역별·경제적 격차를 줄이는 데 기여할 수 있다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.stocktitan.net/news/AMAT/applied-materials-and-micron-partner-to-advance-u-s-innovation-in-b6dvt8uu9akp.html\" style=\"color:#FF6B35;text-decoration:none;\">Stock Titan</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "Applied·마이크론, 50억 달러 규모 AI 메모리 공동 개발",
+    "meta_description": "EPIC Center 중심 차세대 DRAM·HBM·NAND 공동 개발, 미국 반도체 공급망 강화 전략",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T19:05:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T10:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-11T10:37:03.222Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b145cf5d8fee0001508a25",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b145cf5d8fee0001508a25",
+    "public_url": "https://ubion.ghost.io/applied-maikeuron-50eog-dalreo-gyumo-ai-memori-gongdong-gaebal-cujin/",
+    "status": "published",
+    "published_at": "2026-03-11T10:37:03.000Z"
+  }
+}

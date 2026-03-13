@@ -101,7 +101,11 @@
     "category": "education",
     "accent": "#059669",
     "meta_title": "AI 리터러시, 이제 필수 교양이다",
-    "meta_description": "21세기 필수 역량이 바뀌고 있다. 읽기·쓰기·산수에서 이제는 'AI 리터러시'가 더해진다. 한국을 포함한 전 세계 교육 시스템이 일제히 커리큘럼을 개혁하고 있다. 기회이자 동시에 큰 과제다. UAE의 급진적 결정: 유치원부터 AI 교육 아랍에미리트는 최근 유치원부터 "
+    "meta_description": "21세기 필수 역량이 바뀌고 있다. 읽기·쓰기·산수에서 이제는 'AI 리터러시'가 더해진다. 한국을 포함한 전 세계 교육 시스템이 일제히 커리큘럼을 개혁하고 있다. 기회이자 동시에 큰 과제다. UAE의 급진적 결정: 유치원부터 AI 교육 아랍에미리트는 최근 유치원부터 ",
+    "feature_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.837Z",
+    "image_verified": false
   },
   "desk_decision": {
     "verdict": "PASS",
@@ -118,7 +122,5 @@
     "text_length": 2434,
     "checked_at": "2026-03-09T09:33:45.841Z"
   },
-  "ghost_id": "69ae93fbff4fbf0001ab7943",
-  "ghost_url": "https://insight.ubion.global/p/1b54b758-2852-44e9-bdcc-23a065d5a2ca/",
   "published_at": "2026-03-09T09:33:47.642Z"
 }

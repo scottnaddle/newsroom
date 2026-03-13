@@ -1,0 +1,32 @@
+{
+  "id": "1773226834116-en2e45q7d",
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960557&call_from=rsslink",
+    "title": "'AI 중점학교' 1141개교 선정…특별교부금 385억 원 지원"
+  },
+  "draft": {
+    "headline": "한국 교육, AI 시대로 본격 진입…1141개 중점학교 선정 및 385억 원 지원",
+    "word_count": 1890
+  },
+  "fact_check": {
+    "score": 92,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "교육부가 1141개 초·중등학교를 'AI 중점학교'로 지정 - 교육부 보도자료 확인됨",
+      "2026년 385억 원의 특별교부금 지원 발표 - 정책브리핑 확인됨",
+      "초등학교 AI 교과 시간 34시간 → 68시간 이상 확대 - 공식 발표 일치",
+      "중학교 AI 교과 시간 68시간 → 102시간 이상 확대 - 공식 발표 일치",
+      "고등학교 자율선택 → 매학기 편성 필수화 - 정책브리핑 확인됨",
+      "2029년 PISA에 AI 리터러시 평가 포함 - OECD 공식 발표 확인",
+      "미국 25개 주 52개 AI 교육 법안 추진 - FutureEd 통계 확인"
+    ],
+    "validated_at": "2026-03-11T21:35:00+09:00",
+    "validator_notes": "구조적으로 건전한 기사. 모든 핵심 주장이 신뢰할 수 있는 소스로 뒷받침됨. 리드박스, 본문 구조, 참고자료 및 AI 각주 모두 적절함. 1600자 이상의 본문 길이 충족."
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

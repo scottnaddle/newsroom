@@ -1,0 +1,60 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Wall Street Lunch: Ex-Meta AI Chief LeCun's Startup AMI Secures $1B + Anthropic's Pentagon Revenue Warning",
+    "url": "https://seekingalpha.com/article/4880551-wall-street-lunch-ex-meta-ai-chief-lecuns-startup-ami-secures-1b",
+    "source_name": "Seeking Alpha",
+    "language": "en",
+    "relevance_score": 86,
+    "summary": "Anthropic CFO Krishna Rao warned that the Pentagon's supply chain risk designation could slash the company's 2026 revenue by multiple billions of dollars. Meanwhile, Yann LeCun's AI startup AMI raised $1B in seed funding at a $3.5B pre-money valuation. Nvidia invested in Thinking Machines Lab, led by former OpenAI CTO Mira Murati, to support frontier-model training.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-11T05:04:00Z"
+  },
+  "digest": {
+    "headline": "Anthropic, 펜타곤 공급망 위험 낙인에 대항해 소송 제기 — 30여 OpenAI·구글 직원 지지 선언",
+    "lead": "미국 국방부의 공급망 위험(Supply Chain Risk) 지정으로 Anthropic의 2026년 수익이 수십억 달러 감소할 수 있다는 경고가 나왔다. 이에 OpenAI와 구글 DeepMind 직원 30여 명이 Anthropic의 소송을 지지하는 비상소 의견서를 제출했으며, Sam Altman도 \"업계와 국가에 악영향\"이라며 반박했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 국방부의 공급망 위험(Supply Chain Risk) 지정으로 Anthropic의 2026년 수익이 수십억 달러 감소할 수 있다는 경고가 나왔다. 이에 OpenAI와 구글 DeepMind 직원 30여 명이 Anthropic의 소송을 지지하는 비상소 의견서를 제출했으며, Sam Altman도 \"업계와 국가에 악영향\"이라며 반박했다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Anthropic의 CFO Krishna Rao는 트럼프 행정부가 Anthropic에 부여한 '공급망 위험' 지정이 회사의 2026년 수익을 수십억 달러 규모로 감소시킬 수 있다고 경고했다. 이 지정은 본래 적대국 기업에 사용되는 낙인으로, 정부 기관과의 계약을 사실상 불가능하게 만든다. 한편 Anthropic은 국방부 및 다른 연방 기관을 상대로 소송을 제기했으며, 이 조치를 \"전례 없고 불법\"이라고 주장했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">업계의 반발이 거세다. OpenAI 연구원, 구글 DeepMind 과학자들을 포함한 30여 명의 직원들이 법원에 제출한 비상소 의견서에서 \"미국의 주요 AI 기업 중 하나를 처벌하려는 이 조치는 미국의 산업 및 과학적 경쟁력을 훼손할 것\"이라고 주장했다. OpenAI의 Sam Altman도 공개 성명에서 \"SCR 지정 강제 집행은 우리 업계와 국가, 그리고 명백히 그들의 회사에 매우 악영향을 미칠 것\"이라고 밝혔다. 이 사태는 AI 규제의 실효성과 경쟁력 사이의 긴장 관계를 드러낸다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">이 규제 분쟁은 에듀테크 기업들에 직접적인 영향을 미친다. Anthropic이 교육 시장 진출을 어렵게 되면, 한국 에듀테크 스타트업들이 활용할 수 있는 고급 AI 모델 선택지가 줄어든다. 또한 이 사례는 미국의 규제 기조 변화에 따라 교육 AI 서비스의 공급 구조와 가격이 급변할 수 있음을 시사하며, 에듀테크 기업의 인프라 다각화의 중요성을 강조한다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.livemint.com/companies/news/unprecedented-and-unlawful-openai-and-google-staff-rush-to-support-anthropics-lawsuit-against-pentagon-ai-blacklist-11773113859089.html\" style=\"color:#FF6B35;text-decoration:none;\">LiveMint</a> / <a href=\"https://seekingalpha.com/article/4880551-wall-street-lunch-ex-meta-ai-chief-lecuns-startup-ami-secures-1b\" style=\"color:#FF6B35;text-decoration:none;\">Seeking Alpha</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "google",
+      "openai",
+      "anthropic"
+    ],
+    "meta_title": "Anthropic, 펜타곤 공급망 위험 낙인에 소송 제기 — OpenAI·구글이 지지",
+    "meta_description": "미국 국방부의 공급망 위험 지정으로 Anthropic 수익 수십억 달러 감소 경고. OpenAI·구글 직원 30여 명 비상소 의견서 제출, Sam Altman도 반발.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T05:04:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T05:45:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "rejected",
+      "timestamp": "2026-03-11T06:36:31.447Z",
+      "reason": "Ghost API error: 401 {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"a40e5470-1d14-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-11T06:37:17.269Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b10d9d5d8fee00015089df",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b10d9d5d8fee00015089df",
+    "public_url": "https://ubion.ghost.io/anthropic-pentagon-gonggeubmang-wiheom-nagine-daehanghae-sosong-jegi-30yeo-openai-gugeul-jigweon-jiji-seoneon/",
+    "status": "published",
+    "published_at": "2026-03-11T06:37:17.000Z"
+  }
+}

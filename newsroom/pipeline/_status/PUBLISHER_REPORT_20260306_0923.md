@@ -22,62 +22,62 @@ Ghost CMS에 **PUBLISHED** 상태로 즉시 공개되었습니다.
 ### 1. 교육부, 대학 AI 활용 윤리 가이드라인 시안 공개
 - **파일**: `2026-03-02_11-23_hani-ai-ethics-guideline.json`
 - **Ghost ID**: `69aa1e57ff4fbf0001ab6d20`
-- **에디터 링크**: https://insight.ubion.global/ghost/#/editor/post/69aa1e57ff4fbf0001ab6d20
+- **에디터 링크**: https://ubion.ghost.io/ghost/#/editor/post/69aa1e57ff4fbf0001ab6d20
 - **상태**: ✅ Published
 - **태그**: `AI교육`, `교육정책`, `대학교육`, `AI윤리` + **ai-edu**
 
 ### 2. 교육부, 대학 AI 윤리 가이드라인 초안 공개
 - **파일**: `2026-03-02_11-23_mk-ai-cheating-prevention.json`
 - **Ghost ID**: `69aa1e59ff4fbf0001ab6d2a`
-- **에디터 링크**: https://insight.ubion.global/ghost/#/editor/post/69aa1e59ff4fbf0001ab6d2a
+- **에디터 링크**: https://ubion.ghost.io/ghost/#/editor/post/69aa1e59ff4fbf0001ab6d2a
 - **상태**: ✅ Published
 
 ### 3. 영·미 AI 교육 거버넌스 강화, 한국 선택은
 - **파일**: `2026-03-02_11-53_kjob-uk-us-ai-governance-korea.json`
 - **Ghost ID**: `69aa1e5bff4fbf0001ab6d35`
-- **에디터 링크**: https://insight.ubion.global/ghost/#/editor/post/69aa1e5bff4fbf0001ab6d35
+- **에디터 링크**: https://ubion.ghost.io/ghost/#/editor/post/69aa1e5bff4fbf0001ab6d35
 - **상태**: ✅ Published
 - **Featured**: ✅ (대학 관련)
 
 ### 4. 교육부 AI 부트캠프, 전국 41개교 신규 선정
 - **파일**: `2026-03-02_18-00_inews365-kttu-ai-bootcamp.json`
 - **Ghost ID**: `69aa1e5eff4fbf0001ab6d40`
-- **에디터 링크**: https://insight.ubion.global/ghost/#/editor/post/69aa1e5eff4fbf0001ab6d40
+- **에디터 링크**: https://ubion.ghost.io/ghost/#/editor/post/69aa1e5eff4fbf0001ab6d40
 - **상태**: ✅ Published
 - **Featured**: ✅ (교육 관련)
 
 ### 5. 교육부, 대학 AI 윤리 가이드라인 시안 공개…4~5월 전국 배포
 - **파일**: `2026-03-03_09-46_moe-ai-ethics-guideline.json`
 - **Ghost ID**: `69aa1e60ff4fbf0001ab6d4b`
-- **에디터 링크**: https://insight.ubion.global/ghost/#/editor/post/69aa1e60ff4fbf0001ab6d4b
+- **에디터 링크**: https://ubion.ghost.io/ghost/#/editor/post/69aa1e60ff4fbf0001ab6d4b
 - **상태**: ✅ Published
 - **Featured**: ✅ (고등교육 관련)
 
 ### 6. 캘리포니아, 초등 AI 스캔들 후 교육 안전기준 강화
 - **파일**: `2026-03-03_16-19_california-ai-safeguards-elementary.json`
 - **Ghost ID**: `69aa1e62ff4fbf0001ab6d55`
-- **에디터 링크**: https://insight.ubion.global/ghost/#/editor/post/69aa1e62ff4fbf0001ab6d55
+- **에디터 링크**: https://ubion.ghost.io/ghost/#/editor/post/69aa1e62ff4fbf0001ab6d55
 - **상태**: ✅ Published
 - **Featured**: ✅ (교육 정책)
 
 ### 7. 교육부, 대학 AI 활용 윤리 가이드라인 초안 공개
 - **파일**: `2026-03-03_1701_ai-ethics-guideline.json`
 - **Ghost ID**: `69aa1e6bff4fbf0001ab6d60`
-- **에디터 링크**: https://insight.ubion.global/ghost/#/editor/post/69aa1e6bff4fbf0001ab6d60
+- **에디터 링크**: https://ubion.ghost.io/ghost/#/editor/post/69aa1e6bff4fbf0001ab6d60
 - **상태**: ✅ Published
 - **Featured**: ✅ (대학 관련)
 
 ### 8. 미국 고교생 절반, 대입 탐색에 AI 활용
 - **파일**: `2026-03-04_01-12_edweek-teens-ai-college-research.json`
 - **Ghost ID**: `69aa1e6dff4fbf0001ab6d6a`
-- **에디터 링크**: https://insight.ubion.global/ghost/#/editor/post/69aa1e6dff4fbf0001ab6d6a
+- **에디터 링크**: https://ubion.ghost.io/ghost/#/editor/post/69aa1e6dff4fbf0001ab6d6a
 - **상태**: ✅ Published
 - **Featured**: ✅ (고등교육 관련)
 
 ### 9. 기업형 대학원 시대 개막: LG AI 대학원 출범의 의미
 - **파일**: `2026-03-05_0001_lg-ai-graduate-school.json`
 - **Ghost ID**: `69aa1e71ff4fbf0001ab6d75`
-- **에디터 링크**: https://insight.ubion.global/ghost/#/editor/post/69aa1e71ff4fbf0001ab6d75
+- **에디터 링크**: https://ubion.ghost.io/ghost/#/editor/post/69aa1e71ff4fbf0001ab6d75
 - **상태**: ✅ Published
 - **Featured**: ✅ (대학원 관련)
 
@@ -188,7 +188,7 @@ SOUL.md 지침 " **⚠️ 매우 중요: 이미지 없이 발행하지 말 것!*
 
 발행된 모든 기사는 Ghost 에디터에서 수정 가능합니다:
 ```
-https://insight.ubion.global/ghost/#/editor/post/{POST_ID}
+https://ubion.ghost.io/ghost/#/editor/post/{POST_ID}
 ```
 
 공개 URL은 Ghost 설정의 사이트 맵/RSS에 자동 반영됩니다.

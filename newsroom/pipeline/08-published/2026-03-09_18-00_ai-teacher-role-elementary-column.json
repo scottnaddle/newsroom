@@ -76,7 +76,11 @@
     "category": "opinion",
     "accent": "#7c3aed",
     "meta_title": "AI 시대, 초등교사는 사라지지 않는다",
-    "meta_description": "'AI 교사가 교단에 서는 날은 기술 완성도가 아닌 세대 경험에서 결정될 것이다.' 현직 초등교사의 냉철한 성찰이 던지는 물음: 교사는 지식 전달자인가, 아니면 관계와 돌봄을 담당하는 존재인가? 의료·법률·번역도 대체되는데, 교육은 안전할까? 의료진을 진단 능력에서 앞"
+    "meta_description": "'AI 교사가 교단에 서는 날은 기술 완성도가 아닌 세대 경험에서 결정될 것이다.' 현직 초등교사의 냉철한 성찰이 던지는 물음: 교사는 지식 전달자인가, 아니면 관계와 돌봄을 담당하는 존재인가? 의료·법률·번역도 대체되는데, 교육은 안전할까? 의료진을 진단 능력에서 앞",
+    "feature_image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.833Z",
+    "image_verified": false
   },
   "desk_decision": {
     "verdict": "PASS",
@@ -104,7 +108,5 @@
     "text_length": 1714,
     "checked_at": "2026-03-09T13:33:54.305Z"
   },
-  "ghost_id": "69aecc42ff4fbf0001ab7c96",
-  "ghost_url": "https://insight.ubion.global/ai-teacher-role-elementary/",
   "published_at": "2026-03-09T13:33:54.780Z"
 }

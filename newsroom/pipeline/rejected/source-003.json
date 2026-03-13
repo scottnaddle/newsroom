@@ -1,0 +1,113 @@
+{
+  "id": "source-003",
+  "source_name": "Seoul National University",
+  "title": "대한민국 인공지능행동계획 및 AI 인재양성방안",
+  "url": "https://convergence.snu.ac.kr/21068/",
+  "published_date": "2026-03-10",
+  "source_type": "academic",
+  "quality_score": 89,
+  "stage": "copy-edited",
+  "fact_check": {
+    "score": 92,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "대한민국 인공지능행동계획(2026~2028) 발표 - 확인됨",
+      "AI for All: 모두를 위한 AI 인재양성방안 - 확인됨",
+      "초·중·고 교육 확대 정책 - 확인됨"
+    ],
+    "validated_at": "2026-03-12T08:17:00Z"
+  },
+  "collected_at": "2026-03-12T08:00:00Z",
+  "reporting_brief": {
+    "who": "대한민국 정부(국가인공지능전략위원회, 과학기술정보통신부), 교육부",
+    "what": "'대한민국 인공지능행동계획(2026~2028)' 과 교육부의 'AI for All: 모두를 위한 AI 인재양성방안' 발표. 전국적 AI 교육 확대, 인재 양성 체계화, AI 생태계 구축",
+    "why": "2026년을 기점으로 전 국민을 대상으로 한 AI 리터러시 강화와 AI 분야 전문 인력 양성의 필요성. 글로벌 AI 경쟁에서 한국의 위상 확보 및 경제 활성화",
+    "when": "2026년 2월~3월 발표, 2026~2028년 실행",
+    "context": "한국이 국가 차원에서 AI 전략을 단계적으로 추진하는 핵심 문서. 교육부의 AI 중점학교 운영, 교육 공공데이터 AI 활용대회 등은 이 계획의 구체적 실행 방안",
+    "sources": [
+      {
+        "title": "대한민국 인공지능행동계획 및 AI 인재양성방안",
+        "url": "https://convergence.snu.ac.kr/21068/",
+        "credibility": 90,
+        "type": "academic"
+      },
+      {
+        "title": "초·중등 인공지능(AI) 중점학교 운영",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960595",
+        "credibility": 95,
+        "type": "official"
+      },
+      {
+        "title": "AI 중점학교 1141개교 선정…특별교부금 385억 원 지원",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960557",
+        "credibility": 95,
+        "type": "official"
+      }
+    ],
+    "perspectives": [
+      {
+        "stakeholder": "정부",
+        "position": "3년 단위 국가 AI 전략 수립으로 구체적인 교육, 인력, 기술 발전 목표 설정"
+      },
+      {
+        "stakeholder": "교육계",
+        "position": "체계적인 교육 과정 확대를 통한 AI 인재 기반 조성"
+      },
+      {
+        "stakeholder": "산업계",
+        "position": "AI 인재 양성으로 미래 경쟁력 확보 및 새로운 사업 기회 창출"
+      }
+    ],
+    "suggested_angle": "한국의 AI 교육 정책이 흩어진 단편적 시도가 아닌 통합된 국가 전략으로 전개되고 있다. 이 3년 계획이 실제 교육 현장과 경제에 어떤 변화를 만들 것인지, 주요 추진 과제별로 점검하는 기사"
+  },
+  "draft": {
+    "headline": "한국 정부, 3년 국가 AI 전략 선포… '모두를 위한 AI 인재양성' 본격화",
+    "subheadline": "초중고 교육 확대부터 대학원 AI 대학원 설립까지… 2026~2028 로드맵 공개",
+    "slug": "korea-national-ai-strategy-2026-2028",
+    "ghost_tags": [
+      "국가전략",
+      "인재양성",
+      "AI",
+      "ai-news",
+      "policy"
+    ],
+    "category": "policy",
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;\">\n  \n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;color:#1a1a2e;\">국가 AI 전략의 핵심: '모두를 위한 AI'</h2>\n  <p style=\"margin:0 0 32px;\">교육부의 'AI for All' 전략은 간단하지만 명확한 메시지를 담고 있다. AI는 더 이상 소수의 전문가만을 위한 기술이 아니라, 전 국민이 이해하고 활용해야 할 기본 역량이라는 뜻이다. 이는 역사적으로 문해력(읽고 쓸 수 있는 능력)이 필수 역량이 된 것처럼, AI 리터러시(이해하고 적용할 수 있는 능력)가 21세기의 필수 역량이 되었음을 인정하는 선언이다.</p>\n  <p style=\"margin:0 0 32px;\">이를 바탕으로 한국 정부의 AI 인재양성은 세 가지 층위에서 추진된다. ▲초·중·고 단계에서의 기초 AI 교육 ▲대학·대학원 단계의 전문가 양성 ▲사회인 대상의 AI 재교육이 이에 해당한다. 이는 '생애 전반에 걸친 AI 역량 강화'라는 포괄적 접근을 의미한다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;color:#1a1a2e;\">초·중·고부터 대학원까지, 단계별 추진 전략</h2>\n  <p style=\"margin:0 0 32px;\">초등학교 단계에서는 AI의 기본 개념과 활용을 체험하는 수준이다. 앞서 발표된 '1,141개 AI 중점학교' 정책이 이에 해당한다. 코딩이나 수학적 이해보다는, AI가 일상에서 어떻게 쓰이는지 경험하는 것에 초점을 맞춘다.</p>\n  <p style=\"margin:0 0 32px;\">중학교 단계에서는 한 단계 더 나아가 'AI 기초 이론'을 배운다. 머신러닝이 무엇인지, 데이터란 무엇인지, AI의 한계와 윤리는 무엇인지 등을 학습한다. 고등학교에서는 선택적으로 AI 심화 과정을 배울 수 있도록 한다.</p>\n  <p style=\"margin:0 0 32px;\">대학 단계에서의 변화는 더욱 근본적이다. 정부는 향후 3년간 AI 대학원과 전문 교육 기관을 다수 설립할 계획이다. 또한 기존 공대, 이공계 학과의 커리큘럼을 AI 친화적으로 개편하도록 지원한다. 결국 모든 공대 학생이 어느 정도의 AI 역량을 갖추고 졸업하게 되는 구조를 만들겠다는 의도다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;color:#1a1a2e;\">교사 양성과 교재 개발, 현실적 과제</h2>\n  <p style=\"margin:0 0 32px;\">정부의 야심 찬 계획 뒤에는 현실적 과제들이 산적해 있다. 가장 먼저 마주하게 될 과제는 '교사 양성'이다. 전국 수천 명의 교사가 AI 교육을 담당해야 하는데, 현재 AI 교육을 체계적으로 받은 교사의 수는 극히 적다. 정부는 교사 대상 AI 교육 프로그램을 확대하고, 교원양성대학의 교육과정을 개편하겠다고 약속했다.</p>\n  <p style=\"margin:0 0 32px;\">또한 '우리 아이들을 위한 맞춤형 AI 교재'를 개발해야 한다. 현재 국내에 있는 AI 교재는 대부분 번역서이거나 외국 커리큘럼을 기반으로 한다. 한국 교실의 현실에 맞는 교재 개발과 온라인 교육 플랫폼 구축도 중요한 과제다. 정부는 이를 위해 교육청, 출판사, IT 기업과의 협력을 강화할 방침이다.</p>\n\n  \n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;color:#1a1a2e;\">글로벌 AI 경쟁, 한국의 속도</h2>\n  <p style=\"margin:0 0 32px;\">한국의 AI 교육 정책을 이해하려면 글로벌 맥락을 봐야 한다. 미국은 2026년 현재 49개 주에서 AI 관련 교육법안을 추진 중이고, 유럽연합은 AI의 윤리성과 투명성을 강조하는 규제를 강화하고 있다. 중국은 이미 초등학교부터 AI 교육을 의무화했다. 이 가운데 한국의 '3년 국가 전략'은 신중함과 신속함의 균형을 맞추려는 노력으로 평가된다.</p>\n  <p style=\"margin:0 0 32px;\">특히 주목할 점은 한국이 '기술 도입'뿐 아니라 '윤리와 인성 교육'을 함께 강조한다는 것이다. AI의 편향성, 개인정보 보호, AI와 인간 관계의 윤리 등을 함께 배우도록 커리큘럼을 구성하고 있다. 이는 단순히 '강한 AI 인력'을 만드는 것이 아니라, '책임감 있는 AI 시민'을 양성하려는 의도로 해석된다.</p>\n\n  <h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;color:#1a1a2e;\">2026~2028, 한국 교육의 분기점</h2>\n  <p style=\"margin:0 0 32px;\">정부의 '인공지능행동계획(2026~2028)'은 한국 교육 시스템이 새로운 단계로 진입하는 신호다. 초·중·고 AI 중점학교 운영, 대학원 AI 전문교육, 사회인 AI 교육 프로그램이 동시에 추진되면서, 한국 전체가 'AI 교육 생태계'로 변모하게 된다.</p>\n  <p style=\"margin:0 0 32px;\">이 과정에서 성공의 핵심은 '실행력'이다. 정부의 계획이 실제 학교, 대학, 기업과 만날 때 어떻게 구현되는지가 중요하다. 특히 농어촌 지역의 교육 환경, 저소득층 학생의 접근성, 교사의 전문성 부족 등의 현실적 어려움을 얼마나 잘 해결하는지가 진정한 'AI for All'의 실현을 결정할 것이다.</p>\n  <p style=\"margin:0 0 32px;\">2026년 3월은 한국 교육의 새 장이 시작되는 시점이다. 1,141개 AI 중점학교의 개교, 제8회 공공데이터 AI 활용대회의 개최, 그리고 국가 AI 전략의 공식 출범이 함께 이루어진다. 이들이 함께 만들어낼 변화는, 향후 한국 교육이 어떤 방향으로 나아갈 것인지를 보여주는 나침반이 될 것이다.</p>\n\n  <ol style=\"border-top:1px solid #e2e8f0;padding-top:24px;margin-top:48px;padding-left:24px;\">\n    <li style=\"margin:12px 0;\"><strong>초·중등 인공지능(AI) 중점학교 운영</strong> - <a href=\"https://www.korea.kr/news/policyNewsView.do?newsId=148960595\" style=\"color:#4338ca;text-decoration:none;\">대한민국 정책브리핑</a></li>\n    <li style=\"margin:12px 0;\"><strong>AI 중점학교 1141개교 선정…특별교부금 385억 원 지원</strong> - <a href=\"https://www.korea.kr/news/policyNewsView.do?newsId=148960557\" style=\"color:#4338ca;text-decoration:none;\">대한민국 정책브리핑</a></li>\n    <li style=\"margin:12px 0;\"><strong>제8회 교육 공공데이터 인공지능(AI) 활용대회 3월 16일부터 접수 시작</strong> - <a href=\"https://www.korea.kr/briefing/pressReleaseView.do?newsId=156748362\" style=\"color:#4338ca;text-decoration:none;\">대한민국 정책브리핑</a></li>\n  </ol>\n\n  <p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "custom_excerpt": "한국 정부가 '대한민국 인공지능행동계획(2026~2028)'과 'AI for All: 모두를 위한 AI 인재양성방안'을 발표했다. 초등에서 대학원까지 모든 단계의 AI 교육을 체계화하고, 교사 양성과 교재 개발을 본격화하는 3년 국가 전략이다.",
+    "references": [
+      {
+        "title": "대한민국 인공지능행동계획 및 AI 인재양성방안",
+        "url": "https://convergence.snu.ac.kr/21068/"
+      },
+      {
+        "title": "초·중등 인공지능(AI) 중점학교 운영",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960595"
+      },
+      {
+        "title": "AI 중점학교 1141개교 선정…특별교부금 385억 원 지원",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960557"
+      }
+    ],
+    "word_count": 1805,
+    "feature_image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=680&h=400&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=630&fit=crop",
+    "meta_title": "한국 정부, 3년 국가 AI 전략 선포… '모두를 위한 AI 인재양성' 본격화",
+    "meta_description": "대한민국 정부가 최근 발표한 '인공지능행동계획(2026~2028)'과 교육부의 'AI for All: 모두를 위한 AI 인재양성방안'은 한국이 AI 시대를 어떻게 준비하고 있는지를 보여주는 국가 전략 문서다. 단순한 부처별 개별 정책이 아닌, 국가 차원의 통합된 로드맵"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 2544자, 팩트점수 92, 중복 0.0%",
+    "meta_title": "한국 정부, 3년 국가 AI 전략 선포… '모두를 위한 AI 인재양성' 본격화",
+    "meta_description": "대한민국 정부가 최근 발표한 '인공지능행동계획(2026~2028)'과 교육부의 'AI for All: 모두를 위한 AI 인재양성방안'은 한국이 AI 시대를 어떻게 준비하고 있는지를 보여주는 국가 전략 문서다. 단순한 부처별 개별 정책이 아닌, 국가 차원의 통합된 로드맵",
+    "decided_at": "2026-03-11T23:06:22.092Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [
+      "AI 배지 pill 제거"
+    ],
+    "text_length": 2240,
+    "checked_at": "2026-03-11T23:06:22.093Z"
+  }
+}

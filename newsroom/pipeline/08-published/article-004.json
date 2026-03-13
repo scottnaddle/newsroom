@@ -33,7 +33,11 @@
     "word_count": 1750,
     "category": "opinion",
     "meta_title": "영국·미국이 동시 착수한 'AI 교육 거버넌스'…한국은 준비됐나?",
-    "meta_description": "정책 교훈2026년 2월, 영국과 미국이 거의 동시에 AI 교육의 거버넌스 강화에 나섰습니다. 이는 기술 도입을 넘어 안전하고 책임 있는 AI 활용이 얼마나 중요한지를 보여주는 신호입니다. 한국 교육정책의 미래 방향을 다시 생각하게 하는 대목입니다.영국 의회의 포괄적 "
+    "meta_description": "정책 교훈2026년 2월, 영국과 미국이 거의 동시에 AI 교육의 거버넌스 강화에 나섰습니다. 이는 기술 도입을 넘어 안전하고 책임 있는 AI 활용이 얼마나 중요한지를 보여주는 신호입니다. 한국 교육정책의 미래 방향을 다시 생각하게 하는 대목입니다.영국 의회의 포괄적 ",
+    "feature_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.844Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 96,
@@ -61,7 +65,5 @@
     "text_length": 1879,
     "checked_at": "2026-03-09T13:34:04.708Z"
   },
-  "ghost_id": "69aecc4dff4fbf0001ab7ca6",
-  "ghost_url": "https://insight.ubion.global/uk-us-ai-education-governance-korea-lessons/",
   "published_at": "2026-03-09T13:34:05.232Z"
 }

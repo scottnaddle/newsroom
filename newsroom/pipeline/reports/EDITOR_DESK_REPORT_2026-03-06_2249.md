@@ -36,7 +36,7 @@
 
 | # | 기사 | 신뢰도 | Ghost URL |
 |---|------|--------|-----------|
-| 1 | 3월부터 수업 중 스마트폰 사용 금지…법적 근거 마련 | 91 | ✅ https://insight.ubion.global/smart-device-school-restriction/ |
+| 1 | 3월부터 수업 중 스마트폰 사용 금지…법적 근거 마련 | 91 | ✅ https://ubion.ghost.io/smart-device-school-restriction/ |
 
 **이미지 검증**: ✅ 모두 HTTP 200
 - feature_image (Unsplash): ✅

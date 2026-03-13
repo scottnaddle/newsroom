@@ -1,0 +1,42 @@
+{
+  "id": "source-003",
+  "stage": "rejected",
+  "source": {
+    "title": "Cantwell, Moran Introduce Bill to Boost AI Education",
+    "url": "https://www.commerce.senate.gov/2026/3/cantwell-moran-introduce-bill-to-boost-ai-education",
+    "published": "2026-03-04T00:00:00Z"
+  },
+  "fact_check": {
+    "score": 92,
+    "verdict": "PASS",
+    "verified_claims": [
+      "Maria Cantwell (D-Wash.) and Jerry Moran (R-Kan.) introduced NSF AI Education Act on March 4, 2026",
+      "Bipartisan support for AI education legislation",
+      "Target of 1 million AI-trained professionals by 2028",
+      "Microsoft investing $4B+ in AI education initiatives",
+      "K-12 AI adoption rate of 85% among teachers",
+      "Challenges: teacher shortage, regional disparities, curriculum design"
+    ],
+    "issues": [],
+    "validated_at": "2026-03-10T09:30:00Z",
+    "methodology": "Cross-referenced with official Senate Commerce Committee statements, Microsoft education initiatives (2025), and latest AI adoption statistics from McKinsey and Coursera reports."
+  },
+  "draft": {
+    "headline": "미국 상원, AI 교육 법안 추진…'100만 AI 전문가 양성' 목표",
+    "subheadline": "초중고부터 지역대학까지 장학금·전문성 개발 지원, 중국 추격 차단 움직임",
+    "slug": "us-senate-ai-education-bill-2026",
+    "ghost_tags": [
+      "정책",
+      "교육",
+      "ai-news",
+      "미국"
+    ],
+    "category": "education",
+    "custom_excerpt": "마리아 캔트웰 워싱턴주 상원의원과 제리 모란 캔자스주 상원의원이 주도한 NSF AI 교육법이 발의됐다. 미국은 이 법안을 통해 2028년까지 100만 명의 AI 전문가 양성을 목표로 하고 있다.",
+    "word_count": 1856
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

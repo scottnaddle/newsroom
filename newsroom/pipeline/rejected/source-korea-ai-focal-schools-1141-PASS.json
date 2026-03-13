@@ -1,0 +1,54 @@
+{
+  "id": "ai-focal-school-government-initiative-2026",
+  "source": {
+    "title": "교육부, 초·중등 인공지능 교육을 이끄는 '인공지능(AI) 중점학교' 본격 운영",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156747948&call_from=rsslink",
+    "site_name": "대한민국 정책브리핑",
+    "published_date": "2026-03-09",
+    "language": "ko",
+    "reliability_score": 95
+  },
+  "stage": "rejected",
+  "draft": {
+    "headline": "한국 교육부, 1141개 학교를 'AI 중점학교'로 지정... 디지털 대전환 시대의 교육 혁신 본격화",
+    "word_count": 2100
+  },
+  "fact_check": {
+    "score": 95,
+    "verdict": "PASS",
+    "structure_check": {
+      "has_lead_box": true,
+      "has_h2_sections": 5,
+      "has_references": true,
+      "has_ai_footer": true,
+      "status": "✅ 완벽함"
+    },
+    "claim_verification": {
+      "claim_1": "1141개 중점학교 선정 (초등 530개, 중학 279개, 고등 319개, 특수 13개) - ✅ 교육부 공식 발표 확인",
+      "claim_2": "385억원 특별교부금 지원 - ✅ 정책브리핑 확인",
+      "claim_3": "초등학교 68시간 이상, 중학교 102시간 이상 - ✅ 교육프레스, 아주뉴스 보도 확인",
+      "claim_4": "2026년 3월 6일 선정 발표 - ✅ 여러 언론사 보도 일치"
+    },
+    "readability_check": {
+      "sentence_variety": "매우 좋음",
+      "tone_consistency": "일관됨",
+      "clarity": "명확함"
+    },
+    "completeness_check": {
+      "sources_count": 3,
+      "minimum_word_count_met": true,
+      "regional_representation": "한국, 글로벌 비교 포함"
+    },
+    "issues": [],
+    "verified_claims": [
+      "전국 17개 시·도에서 1141개 학교 선정",
+      "교사 역량 강화가 정책의 핵심",
+      "글로벌 추세와 부합하는 정책"
+    ],
+    "validated_at": "2026-03-12T15:32:00Z"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

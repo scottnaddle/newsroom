@@ -38,7 +38,11 @@
     ],
     "word_count": 1920,
     "meta_title": "대학가 'AI 금지에서 필수로'…평가 패러다임 전환의 시작",
-    "meta_description": "교육 트렌드 한국 대학들이 인공지능(AI) 활용 정책을 급진적으로 전환하고 있다. ChatGPT 초기의 '표절 논란'으로 AI 사용을 억제하던 대학들이 이제 AI를 학생의 필수 역량으로 규정하고 교과과정을 개편하기 시작했다. 대학가의 'AI 금지'에서 '필수'로의 전환"
+    "meta_description": "교육 트렌드 한국 대학들이 인공지능(AI) 활용 정책을 급진적으로 전환하고 있다. ChatGPT 초기의 '표절 논란'으로 AI 사용을 억제하던 대학들이 이제 AI를 학생의 필수 역량으로 규정하고 교과과정을 개편하기 시작했다. 대학가의 'AI 금지'에서 '필수'로의 전환",
+    "feature_image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.846Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 85,
@@ -66,7 +70,5 @@
     "text_length": 2155,
     "checked_at": "2026-03-10T00:10:57.982Z"
   },
-  "ghost_id": "69af6192ff4fbf0001ab7d4c",
-  "ghost_url": "https://insight.ubion.global/korean-universities-ai-required-skills-2026/",
   "published_at": "2026-03-10T00:10:58.688Z"
 }

@@ -82,7 +82,11 @@
       "https://www.ellucian.com/blog/ai-governance-educause-2025-strategy-structure-progress"
     ],
     "word_count": 1064,
-    "category": "policy"
+    "category": "policy",
+    "feature_image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.819Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 92,
@@ -101,7 +105,5 @@
   "meta_description": "교직원 80% AI 쓰지만 정책 인지 24% 미만… 입시·평가·성적 시스템에 고위험 AI 규제 적용",
   "desk_approved_at": "2026-03-09T05:37:48.504573Z",
   "copy_edited_at": "2026-03-09T05:57:18.285Z",
-  "ghost_id": "69ae689dff4fbf0001ab77e8",
-  "ghost_url": "https://insight.ubion.global/p/e812cb59-69f9-475b-aa9d-7fffb9009428/",
   "published_at": "2026-03-09T06:28:45.934Z"
 }

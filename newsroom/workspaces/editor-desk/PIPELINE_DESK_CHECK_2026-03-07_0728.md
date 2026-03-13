@@ -156,7 +156,7 @@
 
 ### 2. [높음] Ghost Draft → Published 전환
 - 4개 기사 Ghost Admin에서 발행
-- URL: https://insight.ubion.global/ghost/
+- URL: https://ubion.ghost.io/ghost/
 
 ### 3. [낮음] feature_image 생성
 - 12개 기사 썸네일 이미지 누락

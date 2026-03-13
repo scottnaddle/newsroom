@@ -1,0 +1,58 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Mira Murati's AI startup Thinking Machines secures Nvidia investment, 1 gigawatt of AI compute - Tech Startups",
+    "url": "https://techstartups.com/2026/03/10/mira-muratis-ai-startup-thinking-machines-secures-nvidia-investment-1-gigawatt-of-ai-compute/",
+    "source_name": "Tech Startups",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Thinking Machines, founded by former OpenAI CTO Mira Murati, secures significant Nvidia investment and multi-year GPU supply partnership providing 1 gigawatt of AI compute capacity.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-11T06:05:05.397107Z"
+  },
+  "digest": {
+    "headline": "무라티의 AI 스타트업, 엔비디아 1GW 컴퓨팅 파워 확보",
+    "lead": "OpenAI 전 CTO 미라 무라티가 설립한 씽킹머신즈(Thinking Machines)가 엔비디아로부터 대규모 투자와 함께 1기가와트(GW) 규모의 GPU 공급 계약을 체결했다. 업계에서는 이 규모의 컴퓨팅 인프라 구축에 약 500억 달러가 소요될 것으로 추정한다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">OpenAI 전 CTO 미라 무라티가 설립한 씽킹머신즈(Thinking Machines)가 엔비디아로부터 대규모 투자와 함께 1기가와트(GW) 규모의 GPU 공급 계약을 체결했다. 업계에서는 이 규모의 컴퓨팅 인프라 구축에 약 500억 달러가 소요될 것으로 추정한다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">씽킹머신즈는 작년 7월 $20억 규모의 시리즈 A 펀딩을 받으며 $120억 밸류에이션으로 설립된 AI 스타트업이다. 엔비디아는 당시 투자자로 참여했으며, 이번 거래는 양사의 관계를 장기 인프라 파트너십으로 확대한 것이다. 거래 세부사항은 공개되지 않았지만, 1GW 규모의 컴퓨팅 파워는 미국 약 75만 가구에 공급할 수 있는 전력량에 해당한다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">거대 AI 모델 학습에 필요한 막대한 GPU 자원 확보는 현재 AI 경쟁에서 가장 핵심 우위 요소가 되었다. 엔비디아는 OpenAI, Anthropic 등 주요 AI 랩에 집중 투자하며 칩 공급과 자본의 선순환 구조를 구축하고 있다. 무라티의 씽킹머신즈는 이제 인프라와 자본을 확보한 진지한 경쟁자로 AI 개발 경쟁에 뛰어들었다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 인프라의 집중화는 에듀테크 스타트업에 이중적 영향을 미친다. 한편으로는 엔비디아 같은 거대 기업의 지배력이 강화되어 인프라 진입장벽이 높아진다. 반면 오픈소스 모델과 경량 AI 솔루션이 부상하며, 소규모 에듀테크 팀도 접근 가능한 '저비용 AI 교육 도구' 개발이 차별화 전략으로 부각될 것이다. 결국 교육 현장의 AI 도입은 거대 모델보다 '맞춤형, 저비용, 빠른 배포'가 가능한 솔루션을 선호하는 방향으로 이동할 가능성이 높다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://techstartups.com/2026/03/10/mira-muratis-ai-startup-thinking-machines-secures-nvidia-investment-1-gigawatt-of-ai-compute/\" style=\"color:#FF6B35;text-decoration:none;\">Tech Startups</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "research"
+    ],
+    "meta_title": "무라티의 AI 스타트업, 엔비디아 1GW 컴퓨팅 파워 확보",
+    "meta_description": "OpenAI 전 CTO 미라 무라티의 씽킹머신즈, 엔비디아와 1기가와트 GPU 공급 계약 체결. AI 인프라 집중화와 에듀테크의 미래 방향을 분석한 AI 다이제스트.",
+    "word_count": 523
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T06:05:05.397107Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T06:15:10Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "rejected",
+      "timestamp": "2026-03-11T06:36:33.592Z",
+      "reason": "Ghost API error: 401 {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"a5568be0-1d14-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-11T06:37:20.710Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b10da05d8fee00015089eb",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b10da05d8fee00015089eb",
+    "public_url": "https://ubion.ghost.io/muratiyi-ai-seutateueob-enbidia-1gw-keompyuting-paweo-hwagbo/",
+    "status": "published",
+    "published_at": "2026-03-11T06:37:20.000Z"
+  }
+}

@@ -77,7 +77,11 @@
     "word_count": 1196,
     "category": "research",
     "meta_title": "\"AI는 이제 예외가 아닌 표준\" — Coursera 보고서가 드러낸 95% 보편화의 이면",
-    "meta_description": "학생·교육자 95% AI 사용, 고용주 75%가 AI 자격증 선호… 그러나 공식 정책은 26%뿐"
+    "meta_description": "학생·교육자 95% AI 사용, 고용주 75%가 AI 자격증 선호… 그러나 공식 정책은 26%뿐",
+    "feature_image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.826Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 92,
@@ -111,7 +115,5 @@
     "명확성: 각 수치에 설문 근거 명시, '경력을 이긴다' → '경력을 넘어서다'로 톤 조정",
     "구조: 리드박스·h2 섹션·참고자료·AI 각주 확인 완료"
   ],
-  "ghost_id": "69ae70caff4fbf0001ab7875",
-  "ghost_url": "https://insight.ubion.global/p/4503384a-d37d-4a00-a96e-1bf0c4874c0d/",
   "published_at": "2026-03-09T07:03:38.526Z"
 }

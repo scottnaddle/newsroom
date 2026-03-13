@@ -1,0 +1,44 @@
+{
+  "arxiv_id": "s2-6461c3db2f2b719eb4cb1c807883378cd4673e76",
+  "title": "Evaluating the Role of ChatGPT in Mathematics Education: Impact on Student Performance, Academic Integrity, and Perceptions in Higher Education",
+  "summary": "The research examines the integration of generative AI, such as ChatGPT, in the mathematics curriculum at Sultan Qaboos University. It focuses on how customized assessments can prevent academic dishonesty while maintaining both academic integrity and the quality of education. A quasi-experimental design was utilized with 54 students, using classroom exam evaluations. The study compared the educational performance of students using ChatGPT (experimental group) with those who didn't (control group). The quantitative analysis indicated a significant performance disparity, favoring the group that used ChatGPT in the general exam. The study recognizes the necessity for additional research on the long-term effects of generative AI in mathematics education, particularly concerning advanced topics. The findings suggest certain educational implications and recommendations for the field.",
+  "authors": [
+    "Bakhita ALHatmi",
+    "S. Abdullah",
+    "Bushra AlGabshi"
+  ],
+  "categories": [],
+  "published": "2025-09-24",
+  "updated": "2025-09-24",
+  "pdf_url": "https://www.semanticscholar.org/paper/6461c3db2f2b719eb4cb1c807883378cd4673e76",
+  "abs_url": "https://www.semanticscholar.org/paper/6461c3db2f2b719eb4cb1c807883378cd4673e76",
+  "source": "semantic-scholar",
+  "relevance_score": 85,
+  "source_query": "ChatGPT education academic performance",
+  "collected_at": "2026-03-10T18:00:29.845Z",
+  "stage": "rejected",
+  "audit_log": [
+    {
+      "agent": "paper-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T18:00:30.851Z",
+      "source": "semantic-scholar",
+      "relevance_score": 85
+    },
+    {
+      "agent": "paper-summarizer",
+      "action": "summarized",
+      "timestamp": "2026-03-11T05:05:24.478Z",
+      "model": "glm-4-plus"
+    }
+  ],
+  "korean_title": "ChatGPT가 대학 수학 교육에 미치는 영향 평가: 학생 성취도, 학문적 정직성 및 인식에 관한 연구",
+  "korean_summary": "술탄 카부스 대학에서 실시된 이 연구는 ChatGPT와 같은 생성형 AI가 수학 교육에 통합될 때 학생들의 성취도와 학문적 정직성에 미치는 영향을 분석했습니다. 연구 결과, ChatGPT를 사용한 실험군이 미사용 대조군에 비해 시험 성적으로 유의미한 우위를 보였습니다. 이는 맞춤형 평가 방식을 통해 AI 활용을 허용하면서도 학문적 정직성을 유지할 수 있음을 시사하며, 향후 장기적인 영향에 대한 추가 연구가 필요함을 강조합니다.",
+  "key_findings": [
+    "ChatGPT를 사용한 학생들은 사용하지 않은 학생들에 비해 일반 시험에서 통계적으로 유의미한 성적 우위를 보였다.",
+    "생성형 AI의 활용을 허용하는 맞춤형 평가 방식을 통해 학문적 정직성과 교육의 질을 동시에 유지할 수 있음을 확인했다.",
+    "수학 교육에서 생성형 AI의 장기적인 영향, 특히 고등 수학 주제에 대한 추가 연구가 필요하다."
+  ],
+  "implications": "이 연구는 교육 현장에서 AI 도구를 단순히 금지하기보다, 그 잠재력을 활용할 수 있는 새로운 평가 방식을 모색해야 함을 보여줍니다. 교육자들은 학생들이 AI를 비판적으로 사용하고 올바르게 인용하는 방법을 가르치는 데 중점을 두어야 합니다.",
+  "error": "HTTP 401: {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"49d04290-1d3a-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}"
+}

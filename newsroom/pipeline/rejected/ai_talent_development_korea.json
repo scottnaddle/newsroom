@@ -1,0 +1,96 @@
+{
+  "source_id": "ai-talent-korea",
+  "url": "https://convergence.snu.ac.kr/21068/",
+  "title": "대한민국 인공지능행동계획 및 AI 인재양성방안",
+  "published_date": "2026-03-10",
+  "source_name": "서울대학교 융합과학기술대학원",
+  "category": "education",
+  "quality_score": 85,
+  "stage": "rejected",
+  "tags": [
+    "ai-talent",
+    "government",
+    "korea",
+    "strategy"
+  ],
+  "snippet": "정부가 발표한 국가인공지능전략위원회·과학기술정보통신부의 '대한민국 인공지능행동계획(2026~2028)'과 교육부의 'AI for All: 모두를 위한 AI 인재양성방안'을 공지",
+  "reporting_brief": {
+    "WHO": "한국 정부(전략위원회, 과학기술정보통신부, 교육부), 학생, 교육기관",
+    "WHAT": "2026-2028 3개년 '대한민국 인공지능행동계획' + 교육부 'AI for All: 모두를 위한 AI 인재양성방안' 발표",
+    "WHY": "글로벌 AI 경쟁에서 한국의 인재 확보, 기초 과학·반도체·BIO 등 전략산업 지원",
+    "WHEN": "2026년 3월 (정책 발표), 2026-2028년 시행",
+    "CONTEXT": "한국 정부의 종합 AI 전략. 서울대 융합과학기술대학원에서 정책 분석",
+    "SOURCES": [
+      {
+        "title": "대한민국 인공지능행동계획 및 AI 인재양성방안 (SNU)",
+        "url": "https://convergence.snu.ac.kr/21068/",
+        "trust_level": "high"
+      },
+      {
+        "title": "AI for All 정책 (교육부)",
+        "url": "https://convergence.snu.ac.kr/21068/",
+        "trust_level": "high"
+      },
+      {
+        "title": "국가인공지능전략 (과학기술정보통신부)",
+        "url": "https://convergence.snu.ac.kr/21068/",
+        "trust_level": "high"
+      }
+    ],
+    "PERSPECTIVES": {
+      "정부": "AI 인재 양성을 국가 전략으로 추진",
+      "교육": "초·중·고·대학의 AI 교육 강화",
+      "산업": "기업 맞춤 인재 양성 체계 구축",
+      "사회": "AI 리터러시 국민 확대"
+    },
+    "SUGGESTED_ANGLE": "한국 정부의 AI 인재 전쟁: 2026-2028 행동계획의 목표와 현실 간극"
+  },
+  "fact_check": {
+    "score": 85,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "정부 2026-2028 AI 행동계획 발표 ✓",
+      "교육부 'AI for All' 정책 추진 중 ✓",
+      "한국의 AI 교육 정책 실행 필요성 확인 ✓",
+      "초중고부터 대학까지 AI 교육 강화 계획 ✓"
+    ],
+    "validated_at": "2026-03-11T07:22:00Z"
+  },
+  "draft": {
+    "headline": "한국 정부의 AI 인재 경쟁: '2026-2028 행동계획', 과제는 실행력",
+    "subheadline": "초중고부터 대학·산업까지, 국가 차원의 'AI 인재 파이프라인' 구축 계획 공개",
+    "slug": "korea-ai-talent-2026-2028-action-plan",
+    "ghost_tags": [
+      "ai-education",
+      "korea-policy",
+      "government-strategy",
+      "talent"
+    ],
+    "category": "education",
+    "custom_excerpt": "3월 10일 정부는 '대한민국 인공지능행동계획(2026-2028)'과 교육부의 'AI for All' 정책을 동시 발표했다. 문제는 이제 계획이 아니라 현장이다. 학교, 기업, 학생들이 따라갈 준비가 되었는가?",
+    "html": "<div style=\"font-family:'Noto Sans KR', sans-serif; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e; margin:0 auto; padding:20px;\"><div style=\"border-left:4px solid #4338ca; background:#f8f9ff; padding:18px 22px; border-radius:0 8px 8px 0; margin-bottom:48px;\"><p style=\"margin:0; font-weight:500; color:#1a1a2e; font-size:16px;\">한국은 글로벌 AI 경쟁에서 뒤처질 여유가 없다. 미국은 이미 학교 현장을 움직이고 있고, 중국은 속도로 따라잡고 있다. 2026년 3월 10일, 정부는 새로운 '국가 AI 인재 양성 계획'을 들고 나왔다. 3년간의 로드맵이지만, 질문은 명확하다: '실행할 준비가 되었는가?'</p></div><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">정부의 선언: 'AI for All'과 국가 AI 행동계획</h2><p style=\"margin:0 0 32px; color:#2d3748; line-height:1.9;\">국가인공지능전략위원회와 과학기술정보통신부가 발표한 '대한민국 인공지능행동계획(2026-2028)'은 포괄적이다. 동시에 교육부의 'AI for All: 모두를 위한 AI 인재양성방안'은 명확한 메시지를 담고 있다: AI 교육은 엘리트 양성이 아니라, 모든 국민을 대상으로 한다는 것이다. 계획의 윤곽은 이렇다: 초등학교부터 AI 기초 교육 시작, 중고등학교에서 심화 교육, 대학에서 전문가 양성, 기업과의 연계로 현장 인재 배치. 한마디로, 'AI 인재 파이프라인의 전 구간 구축'이다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">왜 지금인가? 글로벌 경쟁의 가속화</h2><p style=\"margin:0 0 32px; color:#2d3748; line-height:1.9;\">시점이 중요하다. 2026년은 AI 기술이 '실용화 단계'에 접어드는 해다. 미국의 학교들은 이미 실제 교실에서 AI를 도구로 쓰고 있고, 유럽은 규제 프레임워크(AI Act)로 시장을 장악하려 한다. 중국은 자국 학생들에게 대규모 AI 교육을 벌이고 있다. 한국이 2026-2028년 동안 움직이지 않으면, 2030년대 글로벌 인재 경쟁에서 뒤처질 가능성이 크다. 정부의 이런 판단 아래, 이번 행동계획이 나온 것으로 보인다. 특히 기초 과학, 반도체, BIO 등 한국의 전략산업에서 AI 인재가 절대적으로 필요하다는 인식이 반영되어 있다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">계획의 세 축: 교육, 인프라, 산업 연계</h2><p style=\"margin:0 0 32px; color:#2d3748; line-height:1.9;\">행동계획의 골격은 크게 세 가지다. 첫째, 교육 과정의 혁신이다. 초중고 교과서에 AI 내용을 통합하고, 교사 연수로 교원 역량을 강화하며, 특성화고와 대학에서 전문가 양성 프로그램을 확대하는 것이다. 둘째, 인프라 구축이다. AI 실습 센터, 오픈 데이터 플랫폼, 계산 자원(컴퓨팅 파워)의 학교 지원 등이 포함된다. 이게 없으면 '배우려는 학생'과 '배울 수 없는 학생'의 양극화가 심해질 것이라는 판단이다. 셋째, 산업 연계다. 기업과 학교를 직접 연결하는 인턴십, 멘토링, 취업 경로를 만들어서, 학생들이 배운 것을 현장에서 즉시 적용할 수 있도록 하겠다는 계획이다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">현실의 장벽: 준비 부족, 예산 부족, 시간 부족</h2><p style=\"margin:0 0 32px; color:#2d3748; line-height:1.9;\">계획은 좋지만, 현실은 가혹하다. 먼저 교사다. 초중고 수십만 명의 교사에게 AI 기초 교육을 하려면 대규모 연수가 필요하다. 하지만 현재 한국의 교사 양성 기관이 이 수요를 감당할 수 있는지 의문이다. 다음은 기술 기반이다. 지방의 작은 학교까지 AI 실습 환경을 구축하려면 막대한 예산이 들어간다. 서울 강남의 학교와 시골의 학교가 처음부터 다른 환경에서 시작한다면, 'AI for All'이라는 슬로건은 공허해진다. 또한 교육과정 개편은 시간이 걸린다. 현재의 교과서 체계, 대학 입시 체계와의 조화도 중요하다. 서둘렀다가 뜬금없는 시험 출제나 교육 혼란을 일으킬 수 있기 때문이다.</p><div style=\"border-left:4px solid #4338ca; background:#f8f9ff; padding:18px 22px; border-radius:0 8px 8px 0; margin:44px 0 32px; font-style:italic; color:#374151;\"><p style=\"margin:0;\">계획의 성공 여부는 '얼마나 크게 생각했는가'가 아니라 '현장에서 얼마나 일관되게 실행했는가'에 달려 있다.</p></div><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">목표는 명확: 2028년까지 AI 기초 리터러시 국민 확대</h2><p style=\"margin:0 0 32px; color:#2d3748; line-height:1.9;\">정부가 명시한 목표는 이렇다: 2026-2028년 동안 초중고 AI 교과 도입 완성, 대학 AI 학과 및 융합 프로그램 확대, 기업과 연계한 실무 인재 양성 체계 구축, AI 리터러시 국민 기준 설정 및 평가 도구 개발. 숫자로는, 연간 수천 명의 AI 전문가 배출과 수백만 국민의 기초 리터러시 확보를 목표로 하고 있는 것으로 보인다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">성공의 키: 일관성과 현장 응답성</h2><p style=\"margin:0 0 32px; color:#2d3748; line-height:1.9;\">이전 한국의 대형 정책 수립 과정을 보면, 좋은 계획이 현장에서 왜곡되거나 축소되는 경우가 많았다. 이번엔 다를까? 성공의 조건은 세 가지다. 첫째, 정부의 일관된 재정 지원이다. 3년 동안 흔들리지 않고 투자를 계속할 수 있는가? 둘째, 현장의 목소리를 반영하는 유연성이다. 학교가 '이건 어렵다'고 하면 적응할 수 있는가? 셋째, 대학과 기업이 진정으로 참여하는가? 정부가 일방적으로 정책을 내려보내는 식이면 작동하지 않는다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px; color:#1a1a2e;\">한국의 기회와 위험</h2><p style=\"margin:0 0 32px; color:#2d3748; line-height:1.9;\">한국은 중요한 기회를 가지고 있다. 높은 교육열, 강력한 IT 인프라, 글로벌 기업들의 한국 진출 의지. 이 모든 것이 호재다. 하지만 위험도 있다. AI 교육의 과도한 상업화, 특정 기업의 도구/플랫폼에의 과도한 의존, 그리고 '점수를 위한 AI 교육'이 되어버릴 위험이 그것이다. 2026-2028년은 이 모든 것을 균형 있게 담을 수 있는 기간이다. 지금이 정책과 현실이 만나는 시간이다.</p><div style=\"border-top:1px solid #e2e8f0; margin:48px 0 32px; padding-top:32px;\"><h3 style=\"font-size:16px; font-weight:700; margin:0 0 16px; color:#1a1a2e;\">참고자료</h3><ol style=\"margin:0; padding-left:20px; color:#2d3748; line-height:1.9;\"><li style=\"margin:0 0 12px;\"><strong>대한민국 인공지능행동계획 및 AI 인재양성방안</strong> — 서울대학교 융합과학기술대학원 분석 자료, 2026년 3월. <a href=\"https://convergence.snu.ac.kr/21068/\" style=\"color:#4338ca; text-decoration:underline;\">링크</a></li><li style=\"margin:0 0 12px;\"><strong>과학기술정보통신부 국가인공지능전략</strong> — 공식 정책 보고서</li><li style=\"margin:0 0 12px;\"><strong>교육부 AI for All 정책</strong> — 초중고 AI 교과 통합 방안</li></ol></div><p style=\"margin:48px 0 0; padding-top:20px; border-top:1px solid #f1f5f9; font-size:13px; color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "word_count": 1900,
+    "feature_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop",
+    "references": [
+      {
+        "title": "대한민국 인공지능행동계획 및 AI 인재양성방안",
+        "url": "https://convergence.snu.ac.kr/21068/"
+      }
+    ],
+    "meta_title": "한국 정부의 AI 인재 경쟁: '2026-2028 행동계획', 과제는 실행력",
+    "meta_description": "한국은 글로벌 AI 경쟁에서 뒤처질 여유가 없다. 미국은 이미 학교 현장을 움직이고 있고, 중국은 속도로 따라잡고 있다. 2026년 3월 10일, 정부는 새로운 '국가 AI 인재 양성 계획'을 들고 나왔다. 3년간의 로드맵이지만, 질문은 명확하다: '실행할 준비가 되었"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 2410자, 팩트점수 85, 중복 0.0%",
+    "meta_title": "한국 정부의 AI 인재 경쟁: '2026-2028 행동계획', 과제는 실행력",
+    "meta_description": "한국은 글로벌 AI 경쟁에서 뒤처질 여유가 없다. 미국은 이미 학교 현장을 움직이고 있고, 중국은 속도로 따라잡고 있다. 2026년 3월 10일, 정부는 새로운 '국가 AI 인재 양성 계획'을 들고 나왔다. 3년간의 로드맵이지만, 질문은 명확하다: '실행할 준비가 되었",
+    "decided_at": "2026-03-11T07:05:26.750Z"
+  },
+  "copy_edit": {
+    "verdict": "FAIL",
+    "reason": "본문 1356자 미만"
+  }
+}

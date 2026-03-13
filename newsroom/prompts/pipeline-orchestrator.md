@@ -93,9 +93,16 @@ accent: policy=#4338ca, research=#059669, industry=#d97706, opinion=#7c3aed, dat
      "html": "<div>...</div>",
      "custom_excerpt": "요약",
      "references": [{"title": "출처", "url": "..."}],
-     "word_count": 1800
+     "word_count": 1800,
+     "feature_image": "https://images.unsplash.com/photo-...",
+     "og_image": "https://images.unsplash.com/photo-..."
    }
    ```
+   
+   **⚠️ 이미지는 반드시 포함:** 
+   - `pipeline/memory/used-images.json`에서 최근 사용한 이미지 확인
+   - Unsplash 카테고리별 이미지 풀에서 선택: policy, research, industry, education, opinion, data
+   - 기사 제목과 카테고리에 맞는 이미지 선택
 4. 완성된 파일을 **`pipeline/04-drafted/`에 저장**
 5. 원본 파일을 **`pipeline/03-reported/`에서 삭제**
 

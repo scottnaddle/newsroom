@@ -70,7 +70,11 @@
     "word_count": 1033,
     "category": "opinion",
     "meta_title": "AI가 대학 강의실에 들어오면, 누가 밀려나는가",
-    "meta_description": "대학에 AI 조교와 자동채점이 확산되고 있다. 비정규교수 15만 명이 대학 강의 절반을 담당하는 구조에서, AI 도입은 효율인가 인력 감축인가."
+    "meta_description": "대학에 AI 조교와 자동채점이 확산되고 있다. 비정규교수 15만 명이 대학 강의 절반을 담당하는 구조에서, AI 도입은 효율인가 인력 감축인가.",
+    "feature_image": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.817Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 93,
@@ -85,8 +89,6 @@
   },
   "desk_approved_at": "2026-03-08T09:00:29.022743+09:00",
   "copy_edited_at": "2026-03-08T09:01:00+09:00",
-  "ghost_id": "69acc105ff4fbf0001ab7478",
-  "ghost_url": "https://insight.ubion.global/p/7c1a98c7-8371-44d0-a6f7-6d144c33becd/",
   "ghost_slug": "aiga-daehag-gangyisile-deuleoomyeon-nuga-milryeonaneunga",
   "published_at": "2026-03-08T00:21:32.458Z"
 }

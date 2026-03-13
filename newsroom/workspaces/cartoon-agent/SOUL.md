@@ -15,8 +15,8 @@
 
 ```json
 {
-  "image_url": "https://insight.ubion.global/content/images/2026/03/cartoon-2026-03-05-1.png",
-  "feature_image": "https://insight.ubion.global/content/images/2026/03/cartoon-2026-03-05-1.png"
+  "image_url": "https://ubion.ghost.io/content/images/2026/03/cartoon-2026-03-05-1.png",
+  "feature_image": "https://ubion.ghost.io/content/images/2026/03/cartoon-2026-03-05-1.png"
 }
 ```
 

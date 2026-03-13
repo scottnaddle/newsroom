@@ -332,7 +332,7 @@ Publisher:       cecbf113-6ac7-4cc1-8694-d65a040324ed
 
 ```json
 {
-  "apiUrl": "https://insight.ubion.global",
+  "apiUrl": "https://ubion.ghost.io",
   "adminApiKey": "kid:secret"
 }
 ```

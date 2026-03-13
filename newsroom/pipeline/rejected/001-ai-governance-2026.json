@@ -1,0 +1,123 @@
+{
+  "id": "001-ai-governance-2026",
+  "stage": "copy-edited",
+  "source": {
+    "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/",
+    "title": "AI Governance in Higher Education: The 2026 Framework for Policy & Risk",
+    "published": "2026-03-06",
+    "domain": "theeducationmagazine.com",
+    "region": "Global"
+  },
+  "metadata": {
+    "collected_at": "2026-03-12T09:00:00Z",
+    "score": 82,
+    "category": "policy",
+    "language": "en",
+    "keywords": [
+      "AI governance",
+      "higher education",
+      "2026 framework",
+      "policy"
+    ]
+  },
+  "snippet": "Policy without governance is largely unenforceable. Universities using AI in student assessment, admissions, or performance monitoring must comply with the Act's high-risk AI provisions from August 2026.",
+  "reporting_brief": {
+    "who": "Global universities, EU regulators, EDUCAUSE, faculty and staff",
+    "what": "Universities face critical AI governance gaps as 80% of faculty use AI tools but fewer than 25% are aware of formal institutional policies. EU AI Act compliance required for high-risk AI in admissions and student monitoring starting August 2026.",
+    "why": "Governance gap creates shadow AI risks: data breaches, regulatory violations, academic integrity crises. Universities must establish oversight before crisis forces action.",
+    "when": "August 2026 EU AI Act compliance deadline; 2026 legislative session ongoing in US states",
+    "context": "AI adoption in higher education outpacing institutional policy. 80% of faculty use AI, yet governance frameworks lag. This is a critical issue for 2026.",
+    "sources": [
+      {
+        "title": "EDUCAUSE 2024 AI Landscape Study",
+        "url": "https://library.educause.edu/resources/2024/2/2024-educause-ai-landscape-study",
+        "credibility": "high"
+      },
+      {
+        "title": "EU AI Act Compliance Requirements",
+        "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/",
+        "credibility": "high"
+      },
+      {
+        "title": "The Education Magazine Analysis",
+        "url": "https://www.theeducationmagazine.com/ai-in-higher-education/",
+        "credibility": "high"
+      }
+    ],
+    "perspectives": {
+      "regulatory": "EU AI Act enforcement August 2026 creates immediate compliance pressure for university systems",
+      "institutional": "Universities need rapid governance frameworks, committees, and oversight policies to manage shadow AI",
+      "operational": "Faculty and staff lack awareness of policies; urgent need for institutional education and oversight structures"
+    },
+    "suggested_angle": "The AI Governance Crisis in Universities: Why Elite Schools Are Racing to Build Compliance Frameworks Before August 2026"
+  },
+  "draft": {
+    "headline": "세계 대학들의 AI 거버넌스 위기, 8월까지 규제 준수 경쟁",
+    "subheadline": "교수진 80%가 AI 도구 사용하지만 25% 미만만 공식 정책 인식…'그림자 AI' 위험에 노출",
+    "slug": "ai-governance-crisis-universities-2026",
+    "ghost_tags": [
+      "AI 정책",
+      "고등교육",
+      "규제",
+      "거버넌스"
+    ],
+    "category": "education",
+    "custom_excerpt": "세계 대학들이 인공지능 거버넌스의 위기에 직면했다. 교직원 대부분이 AI 도구를 사용하고 있지만 공식 정책을 모르는 상황이 벌어지고 있다. EU AI Act 준수 시한인 8월이 다가오면서 글로벌 대학들이 긴급 대응 체계를 구축하는 중이다.",
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e\"><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">대학의 AI 거버넌스 공백, 얼마나 심각한가?</h2><p style=\"margin:0 0 32px\">세계 주요 대학들이 집단 위기에 직면했다. 인공지능의 급속한 확산은 기관의 정책 수립 속도를 훨씬 앞질렀다. EDUCAUSE의 2024년 AI 현황 보고서는 이 문제의 심각성을 여실히 드러낸다.</p><p style=\"margin:0 0 32px\">교수진과 직원의 80%가 이미 ChatGPT 같은 생성형 AI 도구를 사용 중인데, 정작 4명 중 1명만 자신의 대학에 공식 AI 정책이 있다는 사실을 알고 있다는 것이다. 이는 대학 조직 전체에서 '그림자 AI(shadow AI)'가 얼마나 광범위하게 작동하고 있는지를 보여주는 지표다. 즉, 기관의 감시와 제어 밖에서 무허가 도구들이 학생 평가, 입학 사정, 행정 업무에 사용되고 있다는 뜻이다.</p><p style=\"margin:0 0 32px\"><blockquote style=\"border-left:4px solid #4338ca;background:#f8f9ff;font-style:italic;color:#374151;padding:18px 22px;margin:24px 0\">\"정책 없는 거버넌스는 사실상 강제할 수 없다. 입학 사정, 학생 성과 평가, 학생 모니터링에 AI를 사용하는 대학은 2026년 8월부터 EU AI Act의 고위험 AI 조항을 준수해야 한다.\"</blockquote></p><p style=\"margin:0 0 32px\">이 상황이 심각한 이유는 규제 압박이 동시에 몰려오고 있기 때문이다. 유럽연합의 AI Act가 이미 2024년 8월 발효됐고, 여러 AI 응용 분야를 '고위험' 카테고리로 분류했다. 입학 시스템과 학생 성과 분석 같은 교육용 AI가 정확히 이 범주에 포함된다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">세계 대학들, 합리적 거버넌스를 위해 경쟁하다</h2><p style=\"margin:0 0 32px\">이 위기 속에서 세계의 주요 대학들은 거버넌스 프레임워크를 서둘러 구축하고 있다. 효과적인 AI 거버넌스는 단순한 IT 정책을 넘선다. 투명성, 책임성, 데이터 보호, 학문적 무결성이라는 다층적 가치를 포괄해야 한다.</p><p style=\"margin:0 0 32px\">현재 전 세계 대학들이 구축하는 AI 거버넌스 체계는 다음과 같은 핵심 요소들을 포함한다: 첫째, AI 윤리 위원회 구성. 둘째, AI 도구 사용에 대한 명확한 기관 정책. 셋째, 교직원과 학생을 위한 AI 리터러시 교육. 넷째, 데이터 보안과 개인정보 보호 기준. 다섯째, 학문적 무결성 지침 개발이다.</p><p style=\"margin:0 0 32px\">대학의 관점에서 보면, 2026년 8월은 단순한 마감일이 아니다. 그것은 책임 있는 AI 운영으로 전환하는 분수령이다. 거버넌스 구축에 앞서간 대학들은 이를 경쟁력으로 삼고 있다. 반대로 뒤처진 대학들은 규제 위반, 데이터 유출, 평판 손상이라는 위험에 노출돼 있다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">위협은 현실, 대응 체계는 아직도 미흡</h2><p style=\"margin:0 0 32px\">문제는 거버넌스 구축이 결코 간단하지 않다는 점이다. 대학은 본질적으로 실험과 학문의 자유를 추구하는 개방적 조직이다. 이러한 문화와 구조적 규제 사이의 긴장을 해결해야 한다.</p><p style=\"margin:0 0 32px\">또한 높은 수준의 기술 이해도, 법률 자문, 지속적인 모니터링이 필요하다. 이는 자금과 인력이 부족한 많은 기관에게 상당한 부담이 될 수 있다. 특히 규모가 작은 대학이나 개발도상국의 고등교육 기관들은 이런 도전에 더욱 취약하다.</p><p style=\"margin:0 0 32px\">거버넌스 없이 위기를 기다릴 여유는 없다. 데이터 유출, 규제 위반, 학생 신뢰도 손상은 언제든 닥칠 수 있다. 지금 행동하는 대학과 그렇지 않은 대학의 차이는 향후 몇 년 동안 극명하게 드러날 것이다.</p><div style=\"border-top:1px solid #e2e8f0;margin:48px 0 0;padding-top:20px\"><strong>참고 자료:</strong><ol style=\"margin:16px 0;padding-left:20px\"><li><a href=\"https://library.educause.edu/resources/2024/2/2024-educause-ai-landscape-study\" style=\"color:#0284c7;text-decoration:none\">EDUCAUSE 2024 AI 현황 보고서</a> - 교직원 80%가 AI 도구 사용 현황 조사</li><li><a href=\"https://www.theeducationmagazine.com/ai-governance-in-higher-education/\" style=\"color:#0284c7;text-decoration:none\">The Education Magazine: AI Governance in Higher Education</a> - 2026년 거버넌스 프레임워크 분석</li><li><a href=\"https://www.theeducationmagazine.com/ai-in-higher-education/\" style=\"color:#0284c7;text-decoration:none\">The Education Magazine: AI in Higher Education</a> - 대학의 AI 거버넌스 도입 사례</li></ol></div><p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "word_count": 1847,
+    "references": [
+      {
+        "title": "EDUCAUSE 2024 AI 현황 보고서",
+        "url": "https://library.educause.edu/resources/2024/2/2024-educause-ai-landscape-study"
+      },
+      {
+        "title": "The Education Magazine: AI Governance in Higher Education",
+        "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/"
+      },
+      {
+        "title": "EU AI Act 고위험 AI 조항",
+        "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/"
+      }
+    ],
+    "feature_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop",
+    "meta_title": "세계 대학들의 AI 거버넌스 위기, 8월까지 규제 준수 경쟁",
+    "meta_description": "핵심 요약: 전 세계 대학이 인공지능 거버넌스 위기를 맞고 있다. EDUCAUSE 조사에 따르면 교수진과 직원의 80%가 AI 도구를 사용하고 있지만, 25% 미만만 정식 기관 정책이 있다는 사실을 알고 있다. 오는 8월 EU AI Act 고위험 AI 조항 발효를 앞두"
+  },
+  "fact_check": {
+    "score": 85,
+    "verdict": "PASS",
+    "checked_at": "2026-03-12T09:30:00Z",
+    "structure": {
+      "valid": true,
+      "elements": [
+        "lead_box",
+        "h2_sections",
+        "references",
+        "ai_footer"
+      ]
+    },
+    "verified_claims": [
+      "EDUCAUSE 2024 조사에서 교수진 80%가 AI 도구 사용 - 원문 확인됨",
+      "25% 미만이 공식 정책 인식 - 원문 확인됨",
+      "EU AI Act 8월 발효 및 고위험 AI 조항 - 규제 사항 정확함",
+      "입학 사정, 학생 성과 분석이 고위험 분류 - 정확함"
+    ],
+    "issues": []
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 1866자, 팩트점수 85, 중복 0.0%",
+    "meta_title": "세계 대학들의 AI 거버넌스 위기, 8월까지 규제 준수 경쟁",
+    "meta_description": "핵심 요약: 전 세계 대학이 인공지능 거버넌스 위기를 맞고 있다. EDUCAUSE 조사에 따르면 교수진과 직원의 80%가 AI 도구를 사용하고 있지만, 25% 미만만 정식 기관 정책이 있다는 사실을 알고 있다. 오는 8월 EU AI Act 고위험 AI 조항 발효를 앞두",
+    "decided_at": "2026-03-12T00:04:41.673Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [
+      "AI 배지 pill 제거"
+    ],
+    "text_length": 1664,
+    "checked_at": "2026-03-12T00:04:41.676Z"
+  }
+}

@@ -46,7 +46,11 @@
     ],
     "word_count": 1802,
     "meta_title": "AI 시대, 인문학이 답이다 — 미래 인재는 엔지니어가 아닌 철학자에서 나온다",
-    "meta_description": "💡 AI 시대의 교육 혁명 기술이 인간을 대체하는 것이 아닙니다. 오히려 AI가 잘하지 못하는 것, 인간만이 할 수 있는 것이 무엇인지를 깨닫게 하는 것이 진정한 교육입니다. 인문학은 이제 선택이 아닌 필수입니다. AI가 잘하지 못하는 것, 인간의 판단력 AI는 빠르"
+    "meta_description": "💡 AI 시대의 교육 혁명 기술이 인간을 대체하는 것이 아닙니다. 오히려 AI가 잘하지 못하는 것, 인간만이 할 수 있는 것이 무엇인지를 깨닫게 하는 것이 진정한 교육입니다. 인문학은 이제 선택이 아닌 필수입니다. AI가 잘하지 못하는 것, 인간의 판단력 AI는 빠르",
+    "feature_image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.853Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 88,
@@ -75,7 +79,5 @@
     "text_length": 1853,
     "checked_at": "2026-03-09T22:35:13.350Z"
   },
-  "ghost_id": "69af4b21ff4fbf0001ab7cff",
-  "ghost_url": "https://insight.ubion.global/liberal-arts-ai-era-2026/",
   "published_at": "2026-03-09T22:35:13.807Z"
 }

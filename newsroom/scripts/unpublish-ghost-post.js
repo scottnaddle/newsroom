@@ -8,7 +8,7 @@ const https = require('https');
 const crypto = require('crypto');
 
 const GHOST_CONFIG = {
-  host: 'insight.ubion.global',
+  host: 'ubion.ghost.io',
   key: '69a41252e9865e00011c166a:e74e50ce3e6c097ad370d5370633ccbc2a3e3c0627d7ce1fc12a81b4e6b01625',
   version: 'v5.0'
 };
@@ -112,7 +112,7 @@ async function unpublishPost() {
     
     // 대체 방법 제시
     console.log('\n💡 수동 방법:');
-    console.log(`1. https://insight.ubion.global/ghost/#/editor/post/${postId} 접속`);
+    console.log(`1. https://ubion.ghost.io/ghost/#/editor/post/${postId} 접속`);
     console.log(`2. 우측 상단 "더보기" → "삭제"클릭`);
     console.log(`3. 확인`);
     

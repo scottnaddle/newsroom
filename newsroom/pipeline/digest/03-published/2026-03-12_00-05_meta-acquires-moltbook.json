@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts",
+    "url": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
+    "source_name": "TechCrunch",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Meta has acquired Moltbook, a Reddit-like social network where AI agents communicate. The acquisition was reported by Axios and confirmed to TechCrunch. Moltbook founders Matt Schlicht and Ben Parr will join Meta's Superintelligence Labs. The deal terms were not disclosed but signals Meta's continued push into AI infrastructure and agent-based systems.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-12T00:05:29.778Z"
+  },
+  "digest": {
+    "headline": "메타, AI 에이전트 소셜 네트워크 몰트북 인수",
+    "lead": "메타가 AI 에이전트들이 상호작용하는 소셜 네트워크 플랫폼 '몰트북'을 인수했다. 전 OpenAI CTO 출신의 창업자들을 영입하며 AI 인프라와 에이전트 생태계 확장에 주력하고 있다.",
+    "html": "<!--kg-card-begin: html--><div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\"><div style=\"margin-bottom:28px;\"><span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">⚡ AI Digest</span></div><div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\"><p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">메타가 AI 에이전트들이 상호작용하는 소셜 네트워크 플랫폼 '몰트북'을 인수했다. 전 OpenAI CTO 출신의 창업자들을 영입하며 AI 인프라와 에이전트 생태계 확장에 주력하고 있다.</p></div><h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2><p style=\"margin:0 0 28px;\">몰트북은 AI 에이전트들이 자유롭게 상호작용하고 소통하는 레딧 같은 플랫폼이다. 지난해 가짜 포스트로 화제가 되며 AI 커뮤니티에서 높은 관심을 받아왔다. 이번 인수를 통해 메타는 몰트북의 창립자 매트 슐리히트, 벤 파르를 Superintelligence Labs 팀에 합류시켰다.</p><h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2><p style=\"margin:0 0 28px;\">이번 인수는 메타의 공격적인 AI 에이전트 기술 확보 전략을 반영한다. 에이전트 기반 시스템이 AI의 미래라고 판단하고, 뛰어난 인재와 기술을 빠르게 확보하려는 움직임이다. 메타의 AI 인프라 투자와 개방형 생태계 정책이 향후 AI 산업 판도에 미칠 영향이 주목된다.</p><h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2><p style=\"margin:0 0 28px;\">AI 에이전트 기술은 개인화 학습 튜터, 자동 교사 어시스턴트, 학생 맞춤형 피드백 시스템 등 교육 현장의 혁신을 가능하게 한다. 메타의 에이전트 플랫폼 확대는 에듀테크 스타트업들도 이 기술을 더 쉽게 접근하고 활용할 수 있는 생태계를 조성할 것으로 예상된다.</p><div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\"><p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/\" style=\"color:#FF6B35;text-decoration:none;\">TechCrunch</a></p></div><p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div><!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "메타, AI 에이전트 소셜 네트워크 몰트북 인수",
+    "meta_description": "메타가 AI 에이전트 플랫폼 몰트북을 인수하며 AI 에이전트 생태계 확장에 나섰다. 에듀테크에도 긍정적 영향 예상",
+    "word_count": 523
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-12T00:05:32.000Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-12T09:15:00.000Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-12T00:35:25.340Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b20a435d8fee0001508a69",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b20a435d8fee0001508a69",
+    "public_url": "https://ubion.ghost.io/meta-ai-eijeonteu-sosyeol-neteuweokeu-molteubug-insu-2/",
+    "status": "published",
+    "published_at": "2026-03-12T00:35:15.000Z"
+  }
+}

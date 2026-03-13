@@ -1,0 +1,63 @@
+{
+  "id": "source-ai-global-20260311-002",
+  "source": {
+    "title": "AI in education: Boost teaching and engagement in 2026",
+    "url": "https://www.techmoths.com/ai-in-education-boost-teaching-engagement-2026/",
+    "snippet": "Discover how AI enhances teaching methods and student engagement in U.S. schools",
+    "published": "13 hours ago",
+    "domain": "techmoths.com"
+  },
+  "stage": "rejected",
+  "quality_score": 76,
+  "collected_at": "2026-03-11T21:30:00+09:00",
+  "tags": [
+    "교육",
+    "AI",
+    "미국"
+  ],
+  "fact_check": {
+    "score": 87,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "미국 고교생 84% AI 사용",
+      "평가 방식 재설계",
+      "교사 역량 부족(30% 미만)"
+    ],
+    "validated_at": "2026-03-12T07:00:00Z"
+  },
+  "draft": {
+    "headline": "미국 고교생 84%가 AI로 과제를 한다…그 실상과 해법",
+    "subheadline": "도구 확산과 윤리 부재 사이…2026년 학교 현장의 AI 교육 실행 전략",
+    "slug": "ai-education-practical-implementation-2026-us-schools",
+    "ghost_tags": [
+      "미국교육",
+      "AI교육",
+      "학교정책",
+      "ai-literacy"
+    ],
+    "category": "education",
+    "word_count": 2245,
+    "feature_image": "https://images.unsplash.com/photo-1544716278-ca5e3af92d4d?w=800&h=600&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1544716278-ca5e3af92d4d?w=1200&h=630&fit=crop",
+    "custom_excerpt": "미국 고등학생의 84%가 이미 AI로 과제를 하고 있습니다. 학교의 정책이 현실을 따라가지 못하는 상황에서, 평가 방식 재설계와 교사 역량 강화가 핵심 해법입니다.",
+    "references": [
+      {
+        "title": "AI in education: Boost teaching and engagement in 2026",
+        "url": "https://www.techmoths.com/ai-in-education-boost-teaching-engagement-2026/"
+      },
+      {
+        "title": "AI Can Add, Not Just Subtract from Learning",
+        "url": "https://www.gse.harvard.edu/ideas/news/25/04/ai-can-add-not-just-subtract-learning"
+      },
+      {
+        "title": "College Board Research: Faculty Express Concerns About Student AI Use",
+        "url": "https://newsroom.collegeboard.org/new-college-board-research-faculty-express-near-universal-concern-student-ai-use-undermines"
+      }
+    ]
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

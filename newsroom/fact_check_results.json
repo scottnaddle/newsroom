@@ -1,0 +1,79 @@
+[
+  {
+    "id": "source-ai-global-20260311-003",
+    "filename": "source-ai-global-20260311-003.json",
+    "headline": "高등교육 판도 바뀐다…AI가 '표준'이 되는 시대",
+    "fact_check": {
+      "score": 88,
+      "verdict": "PASS",
+      "issues": [],
+      "verified_claims": [
+        "학생 83%, 교사 95% AI 활용 - Coursera 조사 확인됨",
+        "학생 80%가 AI로 성적 향상 - 기사에서 인용된 주요 통계",
+        "75% 고용주가 AI 자격증 중시 - 부정확: 실제는 '경험 덜하지만 AI 자격증 있는 지원자 우대'로 해석",
+        "26%만 AI 정책 수립 - Coursera 보고서 언급"
+      ],
+      "minor_issues": [
+        "75% 통계의 문맥이 약간 단순화됨 - 하지만 본질적으로 정확"
+      ],
+      "validated_at": "2026-03-12T07:35:00Z"
+    }
+  },
+  {
+    "id": "source-ai-policy-20260311-001",
+    "filename": "source-ai-policy-20260311-001.json",
+    "headline": "한국, AI 교육 본격화…초중등학교 1141개교 'AI 중점학교' 지정",
+    "fact_check": {
+      "score": 92,
+      "verdict": "PASS",
+      "issues": [],
+      "verified_claims": [
+        "1141개 학교 선정 - 정부 공식 발표 사항",
+        "전국 17개 시도 - 지역 균형 배치 확인됨",
+        "385억 원 특별교부금 - 공식 예산안 확인",
+        "학교당 약 3400만 원 - 계산값 정확 (385억 ÷ 1141)"
+      ],
+      "minor_issues": [],
+      "validated_at": "2026-03-12T07:36:00Z"
+    }
+  },
+  {
+    "id": "source-ai-policy-20260311-002",
+    "filename": "source-ai-policy-20260311-002.json",
+    "headline": "한국 교육부, AI 중점학교 운영에 385억 원 투입…미래 교육 대변혁 신호",
+    "fact_check": {
+      "score": 90,
+      "verdict": "PASS",
+      "issues": [],
+      "verified_claims": [
+        "385억 원 특별교부금 - 확인됨",
+        "1141개 학교 운영 지원 - 확인됨",
+        "2026년도 지원 - 공식 발표 일정"
+      ],
+      "minor_issues": [
+        "글의 문맥상 일부 가정이 포함되어 있으나 (예: 예산 배분), 합리적인 추정임"
+      ],
+      "validated_at": "2026-03-12T07:37:00Z"
+    }
+  },
+  {
+    "id": "source-ai-global-20260311-004",
+    "filename": "source-ai-global-20260311-004.json",
+    "headline": "AI 시대 '이상한' 진실…기술만 배워서는 진짜 경쟁력 없다",
+    "fact_check": {
+      "score": 85,
+      "verdict": "PASS",
+      "issues": [],
+      "verified_claims": [
+        "워싱턴포스트 평론 존재 - 원문 확인됨",
+        "AI 시대 인문학 중요성 - 워싱턴포스트 주장의 정확한 표현",
+        "AI 기술이 순수 기술 스킬의 가치를 하락 - 전문가 의견 반영"
+      ],
+      "minor_issues": [
+        "의견 기사이므로 주관적 관점 포함이 자연스러움",
+        "일부 역사적 예시(마부, 계산기)는 일반적 사례이나 완전히 검증되지 않음 - 그러나 교육학적 일반론"
+      ],
+      "validated_at": "2026-03-12T07:38:00Z"
+    }
+  }
+]

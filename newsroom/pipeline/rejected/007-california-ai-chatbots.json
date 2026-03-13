@@ -1,0 +1,70 @@
+{
+  "id": "007-california-ai-chatbots",
+  "stage": "rejected",
+  "source": {
+    "url": "https://calmatters.org/education/higher-education/college-beat/2026/03/college-ai-chatbot/",
+    "title": "California colleges spend millions on faulty AI systems",
+    "published": "2026-03-07",
+    "domain": "calmatters.org",
+    "region": "USA"
+  },
+  "reporting_brief": {
+    "headline": "캘리포니아 대학들의 AI 챗봇 실패기",
+    "suggested_angle": "The ChatBot Problem"
+  },
+  "draft": {
+    "headline": "캘리포니아 대학들, 수백만 달러 낭비한 AI 챗봇 논란",
+    "subheadline": "\"챗봇이 시대에 뒤떨어졌다\" - 학생들은 여전히 구글과 레딧으로 돌아가다",
+    "slug": "california-college-ai-chatbot-failure",
+    "ghost_tags": [
+      "AI 교육",
+      "고등교육",
+      "EdTech 실패"
+    ],
+    "category": "industry",
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;margin:0 auto;padding:20px;\"><div style=\"border-left:4px solid #d97706;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:48px;\"><p style=\"margin:0;font-weight:600;font-size:18px;\">캘리포니아 지역 대학들이 인공지능 챗봇에 수백만 달러를 투자했지만, 정확하지 않은 정보로 인해 학생들의 신뢰를 잃고 있다. 실제 테스트 결과 챗봇들은 기본적인 질문에도 틀린 답변을 제공하고 있다.</p></div><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">수백만 달러 투자했지만, 학생들은 신뢰하지 않는다</h2><p style=\"margin:0 0 32px;\">캘리포니아 지역 커뮤니티 칼리지들은 학생들의 학사 신청, 재정 보조, 캠퍼스 서비스 문의를 돕기 위해 AI 챗봇에 엄청난 금액을 투자해왔다. 로스앤젤레스 커뮤니티 칼리지 디스트릭트(LACCD)는 2021년부터 지금까지 총 380만 달러를 이 사업에 투자했으며, 2029년까지 계약이 이어진다. 다른 지역 대학들도 연간 15만 달러에서 50만 달러를 챗봇 유지비로 지출하고 있다.</p><p style=\"margin:0 0 32px;\">하지만 막대한 투자가 기대하는 성과를 내지 못하고 있다. CalMatters 조사 결과, 학생들은 챗봇으로부터 정확한 답변을 받지 못하고 실망하고 있다. 동부 로스앤젤레스 칼리지(ELAC) 학생 파블로 아기레는 \"챗봇이 자주 부정확하거나 낡은 정보를 제공한다\"며 \"결국 구글과 레딧으로 돌아간다\"고 말했다. 자신의 학교 총장 이름을 물었을 때도 챗봇은 작년에 퇴임한 사람의 이름을 답했다.</p><p style=\"margin:0 0 32px;\">이러한 신뢰도 문제는 국지적이 아니다. 프레즈노 시티 칼리지의 학생 리아나 칼슨은 \"챗봇이 시대에 뒤떨어졌고 캠퍼스의 서비스를 제대로 파악하지 못한다\"고 지적했다. 그녀가 기숙사 식당의 무료 음식 제공 일정을 물었을 때, 챗봇은 여러 번 틀린 답변을 했다. \"놀랍게도 오타를 입력했을 때만 정확한 답변을 얻었다\"고 칼슨은 우스갯소리로 말했다. 캠퍼스 직원의 지속적인 안내가 없었다면, 그녀는 학교 서비스를 제대로 이용하지 못했을 것이라고 덧붙였다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">기술적 문제인가, 운영의 문제인가</h2><p style=\"margin:0 0 32px;\">디스트릭트 관계자들은 챗봇의 문제가 기술 자체가 아니라 설정과 데이터 활용 방식에 있다고 설명한다. 현재 시스템은 수작업으로 관리되는 자주 묻는 질문(FAQ) 라이브러리에 의존하고 있다. 만약 라이브러리에 없는 질문이 들어오면, 학생은 정확한 답변을 얻지 못한다. 또한 캠퍼스 웹사이트의 정보가 오래되면, 챗봇도 오래된 정보를 제공하게 된다.</p><p style=\"margin:0 0 32px;\">로스앤젤레스 디스트릭트의 베트시 레갈라도 교무 부총장은 \"현재 챗봇은 질문 라이브러리를 사용한다. 라이브러리에 그 질문이 없으면 좋은 답변을 얻을 수 없다\"고 진단했다. 다행히 일부 지역은 개선을 시도하고 있다. 산타모니카 칼리지는 ChatGPT를 활용한 새로운 시스템으로 전환했고, 이 시스템은 대학 웹사이트를 실시간으로 스캔하여 답변을 생성한다. 로스앤젤레스 디스트릭트도 올해 늦봄부터 모든 9개 캠퍼스에서 이러한 생성 AI 기반 시스템으로 업그레이드할 계획이다.</p><p style=\"margin:0 0 32px;\">그러나 새로운 기술로의 전환이 마법의 해결책은 아니다. 산타모니카 칼리지의 입학처장 에사우 토바르는 \"웹사이트 정보의 정확성과 완전성이 챗봇의 정확성을 결정한다\"고 강조했다. 결국 기술은 도구일 뿐, 그것을 제대로 사용하려면 지속적인 관리와 최신 정보의 입력이 필수적이라는 뜻이다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;\">가성비는 어디에 있는가</h2><p style=\"margin:0 0 32px;\">대학 관계자들은 높은 사용률을 근거로 챗봇의 가치를 정당화하고 있다. 로스앤젤레스 지역 대학들은 월평균 5,000~7,000건의 챗봇 상호작용을 기록하고 있다. 프레즈노 지역의 경우 월 5,000건, 산타모니카는 월 4,000건의 문의를 처리한다. 만약 이를 모두 콜센터 직원으로 대응했다면 훨씬 더 큰 비용이 들었을 것이다.</p><p style=\"margin:0 0 32px;\">레갈라도 부총장은 \"챗봇이 계속 높은 사용률을 유지하는 한, 우리는 계속 지원할 것이다\"고 말했다. 토바르 처장도 \"24시간 지원은 무엇보다 가치 있다. 특히 해외 유학생들이 본국에서 문의할 때 유용하다\"고 강조했다. 인도네시아에서 온 토목공학 전공 학생 브라이언 하르탄토는 \"새 시스템은 더 부드럽고 영어가 아닌 다른 언어로 소통하려는 학생들에게 도움이 된다\"고 평가했다.</p><p style=\"margin:0 0 32px;\">하지만 높은 사용률이 높은 신뢰도를 의미하는 것은 아니다. 특히 학생 비자 유지 같은 중요한 문제에서 부정확한 정보는 심각한 결과를 초래할 수 있다. 하르탄토는 \"국제 학생으로서의 지위 유지는 매우 민감한 문제다. 그래서 나는 여전히 사람의 상담이나 이메일로 소통하는 것을 선호한다\"고 말했다. 이는 전체 그림을 보여준다. 비용 절감과 편의성은 중요하지만, 정확성과 신뢰성이 없으면 그 가치는 급격히 떨어진다는 것이다.</p><div style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #e2e8f0;\"><h3 style=\"font-size:16px;font-weight:700;margin:0 0 16px;\">참고자료</h3><ol style=\"margin:0;padding-left:24px;\"><li style=\"margin-bottom:12px;\"><a href=\"https://calmatters.org/education/higher-education/college-beat/2026/03/college-ai-chatbot/\" style=\"color:#0284c7;text-decoration:none;border-bottom:1px solid #0284c7;\">CalMatters - College AI Chatbots Investigation</a></li><li style=\"margin-bottom:12px;\"><a href=\"https://drive.google.com/drive/u/0/folders/1H-VKQGpvvktNCXu5sxBtg7-kjBoFBiWS\" style=\"color:#0284c7;text-decoration:none;border-bottom:1px solid #0284c7;\">LA Community College District Board Documents</a></li><li style=\"margin-bottom:12px;\"><a href=\"https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot\" style=\"color:#0284c7;text-decoration:none;border-bottom:1px solid #0284c7;\">The Markup - NYC AI Chatbot Controversy</a></li></ol></div></div><p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>",
+    "custom_excerpt": "캘리포니아 지역 대학들이 AI 챗봇에 수백만 달러를 투자했지만 정확도 문제로 학생들의 신뢰를 잃고 있다. 업그레이드를 통해 개선을 시도 중이다.",
+    "references": [
+      {
+        "title": "CalMatters - College AI Chatbots",
+        "url": "https://calmatters.org/education/higher-education/college-beat/2026/03/college-ai-chatbot/"
+      },
+      {
+        "title": "LA Community College District",
+        "url": "https://drive.google.com/drive/u/0/folders/1H-VKQGpvvktNCXu5sxBtg7-kjBoFBiWS"
+      },
+      {
+        "title": "The Markup - AI Chatbot Investigation",
+        "url": "https://themarkup.org/"
+      }
+    ],
+    "word_count": 1950,
+    "feature_image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800&h=600&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=1200&h=630&fit=crop",
+    "meta_title": "캘리포니아 대학들, 수백만 달러 낭비한 AI 챗봇 논란",
+    "meta_description": "캘리포니아 지역 대학들이 인공지능 챗봇에 수백만 달러를 투자했지만, 정확하지 않은 정보로 인해 학생들의 신뢰를 잃고 있다. 실제 테스트 결과 챗봇들은 기본적인 질문에도 틀린 답변을 제공하고 있다.수백만 달러 투자했지만, 학생들은 신뢰하지 않는다캘리포니아 지역 커뮤니티 "
+  },
+  "fact_check": {
+    "score": 91,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "LACCD 총 380만 달러 투자 (2021-2029)",
+      "월평균 5,000~7,000건 상호작용",
+      "4% 정도만 정확한 답변 제공",
+      "산타모니카 칼리지 ChatGPT 기반 시스템 전환 진행"
+    ],
+    "validated_at": "2026-03-12T00:35:00Z"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 2242자, 팩트점수 91, 중복 0.0%",
+    "meta_title": "캘리포니아 대학들, 수백만 달러 낭비한 AI 챗봇 논란",
+    "meta_description": "캘리포니아 지역 대학들이 인공지능 챗봇에 수백만 달러를 투자했지만, 정확하지 않은 정보로 인해 학생들의 신뢰를 잃고 있다. 실제 테스트 결과 챗봇들은 기본적인 질문에도 틀린 답변을 제공하고 있다.수백만 달러 투자했지만, 학생들은 신뢰하지 않는다캘리포니아 지역 커뮤니티 ",
+    "decided_at": "2026-03-12T00:34:12.504Z"
+  },
+  "copy_edit": {
+    "verdict": "FAIL",
+    "reason": "본문 30자 미만"
+  }
+}

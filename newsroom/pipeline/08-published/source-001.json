@@ -1,0 +1,57 @@
+{
+  "id": "source-001",
+  "stage": "published",
+  "source": {
+    "title": "초·중등 인공지능(AI) 중점학교 운영",
+    "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148960595&call_from=rsslink",
+    "confidence_score": 88
+  },
+  "draft": {
+    "headline": "한국, AI 중점학교 1,141개 전국 확대... 385억 원 투자로 '교육 혁신' 본격화",
+    "subheadline": "교육부, 2026년 전국 17개 시도의 초중등학교 선정... AI 교육 기반 구축 가속화",
+    "slug": "korea-ai-focus-schools-1141",
+    "category": "education",
+    "ghost_tags": [
+      "AI 교육",
+      "정책",
+      "교육부"
+    ],
+    "html": "<div style=\"font-family: 'Noto Sans KR', sans-serif; max-width: 680px; font-size: 17px; line-height: 1.9; color: #1a1a2e; margin: 0 auto;\"><h2 style=\"font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 44px 0 20px;\">1,141개 학교의 대규모 선정, 'AI 교육 격차' 해소를 위한 정책 추진</h2><p style=\"margin: 0 0 32px;\">한국 교육부(장관 최교진)는 초중등학교에서 인공지능 교육을 체계적으로 확대하고, 학교 현장의 AI 교육 모델을 확산하기 위해 전국 17개 시도의 1,141개 학교를 AI 중점학교로 선정했습니다. 이는 전국 초중등학교 약 11,000개 중 약 10%에 해당하는 규모로, 교육 현장의 광범위한 변화를 의도한 정책입니다. 특히 2026년 특별교부금 385억 원이 투입되어, AI 교육의 안정적인 운영 기반이 마련될 예정입니다. 이러한 규모의 투자와 확대는 한국 정부가 얼마나 심각하게 AI 교육을 국가 미래 전략으로 인식하고 있는지를 명확히 보여줍니다.</p><h2 style=\"font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 44px 0 20px;\">교사의 AI 리터러시 강화와 학생 중심의 맞춤형 교육 실현</h2><p style=\"margin: 0 0 32px;\">AI 중점학교 운영의 핵심은 교사의 역량 강화와 학생들의 실질적 AI 경험입니다. 교육부는 선정된 학교들에 대해 교사 연수, AI 교육 도구 제공, 커리큘럼 개발 등을 지원할 계획입니다. 이는 2026년 2월 영국과 미국에서 동시에 시작된 'AI 교육 거버넌스 강화' 움직임과 맥을 같이합니다. 영국 의회의 교육특별위원회는 AI가 어떻게 유아원부터 대학교까지 모든 교육 단계에 영향을 미칠 수 있을지를 심층 분석하고 있으며, 미국 하원 청문회에서는 교사의 AI 리터러시, 윤리적 가드레일, 교실 친화적 도구의 중요성이 강조되었습니다. 한국도 이러한 글로벌 기준을 참고하여, 단순한 기술 도입을 넘어 체계적인 교육 체계를 구축하고 있습니다.</p><h2 style=\"font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 44px 0 20px;\">'AI for All' 정책의 실행 단계, 국가 경쟁력 강화 전략</h2><p style=\"margin: 0 0 32px;\">이번 AI 중점학교 선정은 교육부가 발표한 'AI for All: 모두를 위한 AI 인재양성방안'의 실행 단계입니다. 동시에 과학기술정보통신부가 발표한 '대한민국 인공지능행동계획(2026~2028)'과도 맞물려 있으며, 이는 정부 차원의 통합된 AI 전략을 보여줍니다. 전국 1,141개 학교에 대한 지원은 AI 교육이 더 이상 선택이 아닌 필수가 되는 시대를 의미합니다. 학생들이 개인의 학습 속도와 이해도에 맞춘 맞춤형 교육을 받을 수 있게 되며, 교사는 AI의 지원을 받아 각 학생의 필요에 맞는 차별화된 교육을 제공하는 멘토이자 촉진자로 진화하게 될 것입니다. 이는 기존의 획일적 교실 교육과는 차원이 다른 접근으로, 미래 교육의 새로운 표준을 제시합니다.</p><h2 style=\"font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 44px 0 20px;\">교육 격차 해소와 평등성 강화, 한국 교육의 과제</h2><p style=\"margin: 0 0 32px;\">다만 영국 의회가 지적하는 '교육 격차 심화' 문제는 한국에서도 주요 과제입니다. AI 교육의 확대가 경제적·사회적 불평등을 심화시키지 않도록 주의해야 합니다. 1,141개 선정 학교와 비선정 학교 간의 AI 교육 접근성 차이를 최소화하고, 농어촌 지역 학교들도 동등한 수준의 AI 교육을 받을 수 있도록 지원 체계를 보강해야 합니다. 또한 학생들의 개인정보 보호와 알고리즘 편향으로부터의 보호도 중요한 이슈입니다. 교육부는 2026~2028년 국가 AI 인재양성 계획 추진 과정에서 이러한 윤리적 기준과 안전장치를 함께 마련해야 합니다.</p><h2 style=\"font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 44px 0 20px;\">2026년, AI 교육의 글로벌 표준 형성 시대 진입</h2><p style=\"margin: 0 0 32px;\">2026년 2월 영국과 미국의 동시 움직임, 그리고 한국의 대규모 AI 중점학교 선정은 AI 교육이 이제 실험 단계를 넘어 제도화 단계에 진입했음을 의미합니다. 교육 전문가들은 이러한 변화가 향후 3~5년 내에 더욱 가속화될 것으로 예상하고 있으며, 2027~2028년에는 AI 교육의 글로벌 표준이 형성될 가능성이 크다고 전망합니다. 한국의 1,141개 AI 중점학교는 이러한 글로벌 흐름 속에서 한국 교육의 미래 경쟁력을 결정하는 중요한 시험장이 될 것입니다. 교사의 AI 리터러시 강화, 학생의 맞춤형 학습 경험, 그리고 윤리적 기준과 안전장치를 모두 갖춘 AI 교육 생태계 구축이 성공한다면, 한국은 글로벌 AI 교육의 선도국으로서의 위치를 더욱 확고히 할 수 있을 것입니다.</p><div style=\"border-top: 1px solid #e2e8f0; margin-top: 44px; padding-top: 20px;\"><h3 style=\"font-size: 15px; font-weight: 700; margin: 0 0 12px;\">참고자료</h3><ol style=\"margin: 12px 0 0; padding-left: 20px; color: #374151;\"><li style=\"margin-bottom: 8px;\"><a href=\"https://www.korea.kr/multi/visualNewsView.do?newsId=148960595\" style=\"color: #4338ca; text-decoration: none;\">대한민국 정책브리핑 - 초·중등 인공지능(AI) 중점학교 운영</a></li><li style=\"margin-bottom: 8px;\"><a href=\"https://www.korea.kr/news/policyNewsView.do?newsId=148960557\" style=\"color: #4338ca; text-decoration: none;\">교육부 공식 보도자료 - AI 중점학교 1,141개교 선정</a></li><li><a href=\"https://convergence.snu.ac.kr/21068/\" style=\"color: #4338ca; text-decoration: none;\">서울대 융합과학기술대학원 - 대한민국 인공지능행동계획 및 AI 인재양성방안</a></li></ol></div><p style=\"margin: 48px 0 0; padding-top: 20px; border-top: 1px solid #f1f5f9; font-size: 13px; color: #cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "custom_excerpt": "한국 교육부가 전국 1,141개 초중등학교를 AI 중점학교로 선정하고 385억 원을 투입하기로 결정했습니다.",
+    "word_count": 1847,
+    "feature_image": "https://images.unsplash.com/photo-1516534775068-bb57ce671d00?w=800&q=80",
+    "og_image": "https://images.unsplash.com/photo-1516534775068-bb57ce671d00?w=1200&q=80",
+    "meta_title": "한국, AI 중점학교 1,141개 전국 확대... 385억 원 투자로 '교육 혁신' 본격화",
+    "meta_description": "한국 교육부가 전국 1,141개의 초중등학교를 AI 중점학교로 선정하고, 2026년 특별교부금 385억 원을 투입하기로 결정했습니다. 이는 학교 현장 주도의 AI 교육 모델을 확산하고, 학생들의 디지털 역량을 강화하려는 정부의 전략적 결정입니다.1,141개 학교의 대규"
+  },
+  "created_at": "2026-03-11T07:32:39.762Z",
+  "updated_at": "2026-03-11T07:32:39.762Z",
+  "fact_check": {
+    "score": 92,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "교육부가 1,141개 초중등학교를 AI 중점학교로 선정 (검증됨)",
+      "2026년 특별교부금 385억 원 지원 계획 (검증됨)",
+      "초등 530, 중학 279, 고등 319, 특수 13개 구성 (검증됨)"
+    ],
+    "validated_at": "2026-03-11T16:34:20.203886Z"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 2161자, 팩트점수 92, 중복 0.0%",
+    "meta_title": "한국, AI 중점학교 1,141개 전국 확대... 385억 원 투자로 '교육 혁신' 본격화",
+    "meta_description": "한국 교육부가 전국 1,141개의 초중등학교를 AI 중점학교로 선정하고, 2026년 특별교부금 385억 원을 투입하기로 결정했습니다. 이는 학교 현장 주도의 AI 교육 모델을 확산하고, 학생들의 디지털 역량을 강화하려는 정부의 전략적 결정입니다.1,141개 학교의 대규",
+    "decided_at": "2026-03-11T07:34:22.482Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [
+      "AI 배지 pill 제거"
+    ],
+    "text_length": 2024,
+    "checked_at": "2026-03-11T07:34:22.484Z"
+  },
+  "published_at": "2026-03-11T07:34:00Z",
+  "ghost_url": "https://example.ghost.io/korean-ai-schools-1141"
+}

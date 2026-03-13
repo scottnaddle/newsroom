@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-03-11T11:03:00.534Z",
+  "pipeline_status": {
+    "fact-checked": 0,
+    "desk-approved": 10,
+    "copy-edited": 26,
+    "rejected": 224
+  },
+  "published_articles": [
+    {
+      "title": "아시아 대학이 주도하는 AI 혁명... 86% 교육기관이 생성형 AI 도입",
+      "slug": "asia-pacific-ai-education",
+      "ghostUrl": "https://newsroom.example.com/asia-pacific-ai-education",
+      "status": "draft"
+    },
+    {
+      "title": "제주대-성균관대 AI 에듀테크 협력 시동... 지역-수도권 교육 혁신",
+      "slug": "korean-universities-ai-edutech",
+      "ghostUrl": "https://newsroom.example.com/korean-universities-ai-edutech",
+      "status": "draft"
+    }
+  ],
+  "rejected_articles": 224,
+  "total_processed": 260
+}

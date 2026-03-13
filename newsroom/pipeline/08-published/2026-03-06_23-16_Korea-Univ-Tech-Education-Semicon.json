@@ -49,7 +49,11 @@
       }
     ],
     "word_count": 890,
-    "category": "industry"
+    "category": "industry",
+    "feature_image": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.799Z",
+    "image_verified": false
   },
   "audit_log": [
     {
@@ -111,15 +115,5 @@
     "total_corrections": 1,
     "status": "ready-to-publish",
     "notes": "'3중 혜택' → '세 가지 혜택' 수정 (더 자연스러운 표현)"
-  },
-  "publish_result": {
-    "ghost_post_id": "69aaf01eff4fbf0001ab7030",
-    "ghost_post_url": "https://insight.ubion.global/korea-univ-tech-education-semicon/",
-    "ghost_editor_url": "https://insight.ubion.global/ghost/#/editor/post/69aaf01eff4fbf0001ab7030",
-    "status": "published",
-    "featured": true,
-    "feature_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=85&auto=format",
-    "og_image": "https://insight.ubion.global/content/images/2026/03/og-card-korea-univ.png",
-    "published_at": "2026-03-06T15:17:50.000Z"
   }
 }

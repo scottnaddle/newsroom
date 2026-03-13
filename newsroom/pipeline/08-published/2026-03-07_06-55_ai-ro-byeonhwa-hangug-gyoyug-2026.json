@@ -125,7 +125,11 @@
     "word_count": 1020,
     "category": "policy",
     "meta_title": "730개에서 2,000개로…AI 중점학교 확대가 보여주는 한국 교육의 방향",
-    "meta_description": "한국 교육 현장에 AI 기반 맞춤형 학습과 전문화된 교육 AI가 확산하고 있다. 교육부는 2028년까지 AI 중점학교를 현재 730개에서 2,000개로 확대하고 17개 시도교육청 전체에 AI 교육지원센터를 설립한다. AI가 학생별 학습 수준과 스타일을 분석해 맞춤화된 "
+    "meta_description": "한국 교육 현장에 AI 기반 맞춤형 학습과 전문화된 교육 AI가 확산하고 있다. 교육부는 2028년까지 AI 중점학교를 현재 730개에서 2,000개로 확대하고 17개 시도교육청 전체에 AI 교육지원센터를 설립한다. AI가 학생별 학습 수준과 스타일을 분석해 맞춤화된 ",
+    "feature_image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.808Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 96,
@@ -153,7 +157,5 @@
     "text_length": 2026,
     "checked_at": "2026-03-09T13:33:48.282Z"
   },
-  "ghost_id": "69aecc3dff4fbf0001ab7c8c",
-  "ghost_url": "https://insight.ubion.global/ai-ro-byeonhwa-hangug-gyoyug-2026/",
   "published_at": "2026-03-09T13:33:49.604Z"
 }

@@ -1,0 +1,141 @@
+{
+  "execution_date": "2026-03-11T00:00:00Z",
+  "duration_minutes": 30,
+  "status": "COMPLETED",
+  "steps_completed": [
+    "STEP 1 (수집)",
+    "STEP 2 (취재)",
+    "STEP 3 (작성)",
+    "STEP 4 (팩트체크)",
+    "STEP 5 (자동처리)"
+  ],
+  "summary": {
+    "step_1_collection": {
+      "status": "완료",
+      "queries_executed": 4,
+      "new_articles_collected": 28,
+      "memory_updated": true,
+      "notes": "6개 쿼리 중 2개는 rate limit으로 재시도 필요"
+    },
+    "step_2_reporting": {
+      "status": "완료",
+      "articles_processed": 5,
+      "remaining_articles": 23,
+      "briefing_created": true
+    },
+    "step_3_drafting": {
+      "status": "완료",
+      "articles_written": 5,
+      "html_generated": true,
+      "word_count_average": 1785,
+      "min_word_count": 1600,
+      "feature_images_selected": true
+    },
+    "step_4_fact_check": {
+      "status": "완료",
+      "articles_reviewed": 5,
+      "pass": 1,
+      "flag": 0,
+      "fail": 4,
+      "failed_reasons": [
+        "팩트 검증 데이터 부족",
+        "가독성 검토 필요"
+      ]
+    },
+    "step_5_auto_processing": {
+      "status": "부분완료",
+      "editor_stage": "1개 승인",
+      "copy_edit_stage": "1개 교열",
+      "publishing_stage": "오류 (Ghost API 토큰 문제)",
+      "notes": "Ghost CMS 인증 오류로 발행 실패"
+    }
+  },
+  "pipeline_status": {
+    "01-sourced": "23개 (대기)",
+    "03-reported": "6개 (취재 완료)",
+    "04-drafted": "5개 (작성 완료)",
+    "05-fact-checked": "0개 (팩트체크 대기)",
+    "06-desk-approved": "0개",
+    "07-copy-edited": "1개 (교열 완료)",
+    "rejected": "171개 (기존 거부 기사)"
+  },
+  "issues": [
+    {
+      "stage": "STEP 5 (발행)",
+      "error": "Ghost CMS API 토큰 오류 (HTTP 401)",
+      "cause": "유효하지 않은 JWT 토큰",
+      "impact": "기사 발행 불가",
+      "recommendation": "Ghost API 토큰 재발급 또는 설정 확인 필요"
+    }
+  ],
+  "next_steps": [
+    "1. Ghost CMS 인증 설정 재확인 및 토큰 갱신",
+    "2. 남은 23개 기사에 대해 STEP 2-5 반복 처리",
+    "3. FAIL된 4개 기사 개선 및 재검토",
+    "4. 성공적으로 교열된 기사의 발행 재시도"
+  ],
+  "performance_notes": "STEP 1-4는 정상 완료되었으나, Ghost API 인증 문제로 발행 단계에서 실패. 파이프라인 자동화 구조는 정상 작동 중."
+}
+{
+  "execution_date": "2026-03-11T15:00:00+09:00",
+  "cron_id": "2a7923e8-a292-435b-bd55-1ba0ec08032e",
+  "execution_duration_minutes": 30,
+  "steps": {
+    "step_1_collection": {
+      "status": "completed",
+      "queries_executed": 6,
+      "successful_queries": 3,
+      "rate_limited": true,
+      "items_collected": 15,
+      "memory_updated": true
+    },
+    "step_2_reporting": {
+      "status": "completed",
+      "files_processed": 5,
+      "files_remaining": 3,
+      "reporting_briefs_generated": 5
+    },
+    "step_3_drafting": {
+      "status": "completed",
+      "articles_drafted": 5,
+      "avg_word_count": 1758,
+      "all_structured": true,
+      "images_included": true
+    },
+    "step_4_fact_check": {
+      "status": "completed",
+      "articles_checked": 5,
+      "pass_rate": 1.0,
+      "avg_score": 87,
+      "scores": [87, 85, 88, 86, 89]
+    },
+    "step_5_auto_processing": {
+      "status": "partial_error",
+      "articles_processed": 12,
+      "published": 0,
+      "rejected": 5,
+      "errors": 7,
+      "error_codes": [
+        "MISSING_DRAFT_HTML",
+        "USED_INCLUDES_NOT_FUNCTION",
+        "JSON_PARSE_ERROR"
+      ]
+    }
+  },
+  "articles_created": {
+    "count": 5,
+    "titles": [
+      "미국 대학들의 AI 교육 확대 경쟁: 노던 아이오와 대학 새 전공 신설",
+      "대학 공학 교수, AI 도입에 어떻게 생각할까? 실증 연구로 본 현실",
+      "안양대, AI 전문 기관들과 손잡고 미래 인재 양성... 산학연 협력 본격화",
+      "숭실대, 고교-대학 연계 진로 프로그램 확대... 지역 기반 AI 교육 인프라 구축",
+      "서울대·연세대·고려대 'AI 단과대' 속속 독립... 2026년 한국 대학의 AI 교육 변신"
+    ]
+  },
+  "queue_status": {
+    "01_sourced": 3,
+    "03_reported": 5,
+    "04_drafted": 5,
+    "05_fact_checked": 5
+  }
+}

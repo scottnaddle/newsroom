@@ -13,7 +13,7 @@ const https = require('https');
 
 // Configuration
 const API_KEY = '69a41252e9865e00011c166a:e74e50ce3e6c097ad370d5370633ccbc2a3e3c0627d7ce1fc12a81b4e6b01625';
-const GHOST_URL = 'https://insight.ubion.global';
+const GHOST_URL = 'https://ubion.ghost.io';
 
 // Ghost 태그 ID (ai-papers 태그는 Ghost Admin에서 먼저 생성해야 함)
 // AI_DIGEST_TAG_ID = '69a78cc8659ea80001153beb'

@@ -1,0 +1,22 @@
+{
+  "published_at": "2026-03-11T20:04:00+09:00",
+  "headline": "에듀테크 인사이트: AI 교육 의무화 시대, 한국은 거버넌스 없이 성장할 것인가?",
+  "status": "draft",
+  "processing_note": "Ghost CMS API JWT 인증 재진행 필요 (admin token 갱신 필요)",
+  "html_prepared": true,
+  "character_count": 1247,
+  "section_count": 5,
+  "source_articles": [
+    "AI 중점학교 1141개교 선정…2026년 385억 원 지원 (정책브리핑, 2026-03-10)",
+    "금지 대신 필수 교양으로...대학가의 AI 교육 전환 (머니투데이, 2026-03-10)",
+    "AI 교육혁명 2026: 영국·미국 동시 착수한 거버넌스 강화 (전국인력신문, 2026-03-10)",
+    "Shadow AI의 위협...대학들이 구축하는 AI 거버넌스 (The Education Magazine, 2026-03-10)"
+  ],
+  "theme": "AI 교육 의무화 시대의 거버넌스 부재 문제",
+  "analysis_focus": [
+    "정책 급속 확대 vs 거버넌스 프레임워크 부재의 불균형",
+    "한국과 선진국(영국·미국·EU)의 규제 환경 격차",
+    "Shadow AI 위기와 제도 정비 필요성",
+    "에듀테크 기업 3가지 전략 제언"
+  ]
+}

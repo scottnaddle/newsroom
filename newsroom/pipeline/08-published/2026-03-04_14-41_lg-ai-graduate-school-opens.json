@@ -84,7 +84,7 @@
     "word_count": 1039,
     "article_type": "news",
     "feature_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop&q=85&auto=format",
-    "og_image": "https://insight.ubion.global/content/images/2026/03/og-69a916f1e2eb440001d55a33.png",
+    "og_image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop&q=85&auto=format",
     "meta_title": "LG, 국내 첫 교육부 인가 AI 사내 대학원 개원",
     "meta_description": "LG그룹이 4일 국내 최초로 교육부 공식 인가를 받은 사내 대학원 'LG AI대학원'을 서울 강서구 마곡 K스퀘어에서 개원했다. 기업이 자사 임직원에게 인공지능학 석·박사 학위를 직접 수여할 수 있는 전례 없는 고등교육 모델이 현실화됐다. 17명의 첫 입학생, LG 5"
   },
@@ -225,7 +225,7 @@
       "agent": "publisher",
       "action": "published",
       "timestamp": "2026-03-04T15:00:30.780Z",
-      "note": "Ghost post URL: https://insight.ubion.global/lg-ai-graduate-school-opens/ | Editor: https://insight.ubion.global/ghost/#/editor/post/69a848e3e2eb440001d557b8 | featured: true (고등교육 키워드 감지)"
+      "note": "Ghost post URL: https://ubion.ghost.io/lg-ai-graduate-school-opens/ | Editor: https://ubion.ghost.io/ghost/#/editor/post/69a848e3e2eb440001d557b8 | featured: true (고등교육 키워드 감지)"
     },
     {
       "agent": "publisher",
@@ -248,12 +248,6 @@
     "text_length": 1685,
     "checked_at": "2026-03-09T13:33:35.761Z"
   },
-  "publish_result": {
-    "ghost_post_id": "69a9fee8ff4fbf0001ab6c7b",
-    "ghost_edit_url": "https://insight.ubion.global/ghost/#/editor/post/69a9fee8ff4fbf0001ab6c7b",
-    "status": "published",
-    "published_at": "2026-03-05T22:08:40.653Z"
-  },
   "rejected_at": "2026-03-06T19:16:13+09:00",
   "rejection_reason": "신뢰도 0 - 팩트체크 미수행",
   "fact_check": {
@@ -274,7 +268,5 @@
     "meta_description": "LG그룹이 4일 국내 최초로 교육부 공식 인가를 받은 사내 대학원 'LG AI대학원'을 서울 강서구 마곡 K스퀘어에서 개원했다. 기업이 자사 임직원에게 인공지능학 석·박사 학위를 직접 수여할 수 있는 전례 없는 고등교육 모델이 현실화됐다. 17명의 첫 입학생, LG 5",
     "decided_at": "2026-03-09T13:33:35.761Z"
   },
-  "ghost_id": "69aecc31ff4fbf0001ab7c7c",
-  "ghost_url": "https://insight.ubion.global/lg-ai-graduate-school-opens-5/",
   "published_at": "2026-03-09T13:33:37.225Z"
 }

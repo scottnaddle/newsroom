@@ -5,7 +5,7 @@ const crypto = require('crypto');
 const https = require('https');
 
 // 설정
-const GHOST_API = 'https://insight.ubion.global/ghost/api/admin/';
+const GHOST_API = 'https://ubion.ghost.io/ghost/api/admin/';
 const AI_DIGEST_TAG_ID = '69a78cc8659ea80001153beb';
 const RECENT_IMAGES_FILE = '/root/.openclaw/workspace/newsroom/shared/config/used-images.json';
 
@@ -112,7 +112,7 @@ async function publishDigest(digestFile) {
     
     console.log(`✅ 발행 성공!`);
     console.log(`   ID: ${post.id}`);
-    console.log(`   URL: https://insight.ubion.global/${post.slug}/`);
+    console.log(`   URL: https://ubion.ghost.io/${post.slug}/`);
     
     // 결과 저장
     const publishedData = {
@@ -120,8 +120,8 @@ async function publishDigest(digestFile) {
       stage: 'published',
       publish_result: {
         ghost_post_id: post.id,
-        ghost_url: `https://insight.ubion.global/ghost/#/editor/post/${post.id}`,
-        public_url: `https://insight.ubion.global/${post.slug}/`,
+        ghost_url: `https://ubion.ghost.io/ghost/#/editor/post/${post.id}`,
+        public_url: `https://ubion.ghost.io/${post.slug}/`,
         status: 'published',
         published_at: new Date().toISOString()
       },
@@ -142,7 +142,7 @@ async function publishDigest(digestFile) {
     
     return {
       title: data.digest.headline,
-      url: `https://insight.ubion.global/${post.slug}/`
+      url: `https://ubion.ghost.io/${post.slug}/`
     };
     
   } catch (error) {

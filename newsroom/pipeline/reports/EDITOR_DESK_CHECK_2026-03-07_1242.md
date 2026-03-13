@@ -58,25 +58,25 @@
 ## 📈 금일 발행 기사 (7개)
 
 1. **AI로 공부하면 성적은 오르는데 실력은 떨어진다** (02:37)
-   - https://insight.ubion.global/ai-era-children-education/
+   - https://ubion.ghost.io/ai-era-children-education/
 
 2. **한국 대학, AI 윤리 정책은 있는데 누가 가르치나** (02:37)
-   - https://insight.ubion.global/ai-ethics-policy-universities/
+   - https://ubion.ghost.io/ai-ethics-policy-universities/
 
 3. **SKY 대학이 손잡았다, 아시아 AI 연구 컨소시엄 출범** (02:37)
-   - https://insight.ubion.global/asia-ai-research-consortium/
+   - https://ubion.ghost.io/asia-ai-research-consortium/
 
 4. **왜 한국인 70%는 AI를 긍정적으로 볼까** (02:37)
-   - https://insight.ubion.global/korea-ai-love-politico/
+   - https://ubion.ghost.io/korea-ai-love-politico/
 
 5. **"하루가 늦으면 한 세대"…AI 패권 경쟁 속 한국의 선택은** (06:55)
-   - https://insight.ubion.global/ai-hyeogsin-gyeongjaeng-hangug-daeeung/
+   - https://ubion.ghost.io/ai-hyeogsin-gyeongjaeng-hangug-daeeung/
 
 6. **UNESCO·OECD, AI 시대 교육 패러다임 전환 촉구** (11:53)
-   - https://insight.ubion.global/global-education-policy-paradigm-shift/
+   - https://ubion.ghost.io/global-education-policy-paradigm-shift/
 
 7. **LG AI대학원, 기업이 직접 AI 석박사 키운다** (11:53)
-   - https://insight.ubion.global/lg-launches-south-koreas-first-corporate/
+   - https://ubion.ghost.io/lg-launches-south-koreas-first-corporate/
 
 ---
 

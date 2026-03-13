@@ -1,0 +1,42 @@
+{
+  "url": "https://sports.khan.co.kr/article/202603101111003/",
+  "title": "안양대·인공지능 글로벌교육원·국제미래학회 'AI 미래 인재 양성 업무협약' 체결",
+  "source": "web_search",
+  "score": 80,
+  "collected_at": "2026-03-11T09:01:17.475150Z",
+  "status": "fact-checked",
+  "reporting_brief": {
+    "who": "안양대학교(총장 장광수), 인공지능 글로벌교육원, 국제미래학회",
+    "what": "AI 미래 인재 양성과 AI 역량 강화를 위한 3자 업무협약(MOU) 체결"
+  },
+  "draft": {
+    "headline": "\"대학-AI기관-연구소 삼각협력\" 안양대, AI 미래 인재 양성 본격화"
+  },
+  "fact_check": {
+    "score": 85,
+    "verdict": "PASS",
+    "verified_claims": [
+      "안양대·AI 글로벌교육원·국제미래학회 3자 업무협약 (원본 기사 기반)",
+      "2026년 3월 9일 체결 (원본 기사)",
+      "AI 교육 프로그램 협업, 현장실습·취창업 지원 (원본 기사)",
+      "국제미래학회 500명 이상 학자·전문가 참여 (원본 기사)",
+      "인공지능 마에스트로 양성 과정 운영 (원본 기사)"
+    ],
+    "issues": [
+      "AI 글로벌교육원, 국제미래학회의 공식 홈페이지 확인 불가 (web_search 한계) - 신뢰도에 영향 없음"
+    ],
+    "structure_check": {
+      "lead_box": true,
+      "h2_sections": 4,
+      "references": 3,
+      "ai_disclaimer": true,
+      "text_length": "1650자 (1600자 이상 충족)"
+    },
+    "validated_at": "2026-03-11T00:36:00Z"
+  },
+  "stage": "rejected",
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "arxiv_id": "s2-eaf9f4b349c7c026bf3a044b1fb683b94c43376d",
+  "title": "Artificial intelligence powering education: ChatGPT's impact on students' academic performance through the lens of technology-to-performance chain theory",
+  "summary": "PurposeIn the context of rapid technological progress, this study investigates the factors that improve the academic performance of Saudi Arabian university students when they use ChatGPT. Using the technology-to-performance chain theory as a framework, this study identifies the variables that may affect the students' academic performance, thereby contributing to the discourse on the use of technology in education.Design/methodology/approachA survey is conducted on 257 respondents, and an online questionnaire is used to collect the data. Analysis of Moment Structures (AMOS) is employed to analyse the structural model to determine the direct connections between the different elements.FindingsFindings reveal that task characteristics, technology characteristics and individual characteristics can significantly impact task-technology fit. Furthermore, task-technology fit can influence the utilisation of ChatGPT and students' academic performance. In addition, utilisation can significantly impact students' academic performance. Students are likely to utilise ChatGPT efficiently and demonstrate improved academic performance when they believe that the technology is a good fit for their tasks.Research limitations/implicationsThis study’s shortcoming is its exclusive focus on a single public university in Saudi Arabia, which limits its generalisability. Comparative studies among multiple universities in Saudi Arabia and in other Gulf nations should be conducted to enhance the generalisability of the results. In addition, diversifying the participants by including students from various universities and exploring the moderating variables would deepen our understanding of the utilisation of ChatGPT by students.Practical implicationsThe practical implications of this study include the existence of a positive relationship between task characteristics and task-technology fit, which can guide organisations in aligning ChatGPT with specific activities for enhanced efficacy and workflow integration. In addition, understanding the association between technology characteristics and task-technology fit can help in selecting suitable technologies that will encourage user adoption and improve academic outcomes. Furthermore, the recognition of the impact of individual characteristics on task-technology fit and their utilisation can inform tailored support and training programmes to enhance user acceptance and utilisation of ChatGPT, particularly in educational settings such as those in Saudi Arabia, which will ultimately improve students’ academic performance.Originality/valueThis study’s focus on ChatGPT and how it affects the academic performance of Saudi Arabian university students distinguishes it from previous studies. This study provides insightful information on technology adoption in educational settings and contributes to our understanding of the factors that can impact academic performance through ChatGPT adoption by utilising technology-to-performance chain theory. Moreover, this study’s examination of task characteristics, technology characteristics and individual characteristics can significantly enrich discussions on optimal technology integration for educational objectives. This contribution is relevant in dynamic contexts, such as the rapidly evolving technological environment of Saudi Arabia.",
+  "authors": [
+    "Yaser Hasan Salem Al-Mamary د. ياسر حسن المعمري",
+    "A. Alfalah",
+    "A. Shamsuddin",
+    "A. Abubakar"
+  ],
+  "categories": [],
+  "published": "2024-08-22",
+  "updated": "2024-08-22",
+  "pdf_url": "https://www.semanticscholar.org/paper/eaf9f4b349c7c026bf3a044b1fb683b94c43376d",
+  "abs_url": "https://www.semanticscholar.org/paper/eaf9f4b349c7c026bf3a044b1fb683b94c43376d",
+  "source": "semantic-scholar",
+  "relevance_score": 83,
+  "source_query": "ChatGPT education academic performance",
+  "collected_at": "2026-03-10T18:00:29.844Z",
+  "stage": "rejected",
+  "audit_log": [
+    {
+      "agent": "paper-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T18:00:30.852Z",
+      "source": "semantic-scholar",
+      "relevance_score": 83
+    },
+    {
+      "agent": "paper-summarizer",
+      "action": "summarized",
+      "timestamp": "2026-03-11T05:06:39.203Z",
+      "model": "glm-4-plus"
+    }
+  ],
+  "korean_title": "인공지능이 교육을 움직이다: 기술-성과 연쇄 이론 관점에서 본 ChatGPT가 학생의 학업 성취도에 미치는 영향",
+  "korean_summary": "사우디아라비아 대학생을 대상으로 한 연구에 따르면, 학생들이 ChatGPT를 효과적으로 활용할 때 학업 성취도가 향상됩니다. 이는 학업 과제, 기술, 개인의 특성이 '과제-기술 적합성'을 결정하고, 이 적합성이 ChatGPT 활용도와 최종 학업 성과에 영향을 미치는 경로를 통해 이루어집니다. 따라서 과제에 적합한 기술을 선택하고 활용하는 것이 중요함을 시사합니다.",
+  "key_findings": [
+    "과제 특성, 기술 특성, 개인 특성은 과제-기술 적합성(Task-Technology Fit)에 유의미한 영향을 미칩니다.",
+    "과제-기술 적합성은 ChatGPT의 활용도와 학생의 학업 성취도에 긍정적인 영향을 줍니다.",
+    "학생들이 ChatGPT가 자신의 과제에 적합하다고 인식할수록 더 효율적으로 활용하고, 그 결과 학업 성취도가 향상됩니다."
+  ],
+  "implications": "*   교기관은 특정 학업 과제에 가장 적합한 AI 도구를 선정하여 학생들이 효과적으로 활용할 수 있도록 지원해야 합니다.\n*   학생들이 ChatGPT를 자신의 학업에 효과적으로 통합하고 수용할 수 있도록, 개인의 특성을 고려한 맞춤형 교육 및 지원 프로그램을 마련하는 것이 중요합니다.",
+  "error": "HTTP 401: {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"8255b170-1d96-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}"
+}

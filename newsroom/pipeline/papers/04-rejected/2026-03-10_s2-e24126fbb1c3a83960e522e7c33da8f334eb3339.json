@@ -1,0 +1,45 @@
+{
+  "arxiv_id": "s2-e24126fbb1c3a83960e522e7c33da8f334eb3339",
+  "title": "Generative Artificial Intelligence (ChatGPT‐4) and Social Media Impact on Academic Performance and Psychological Well‐Being in China's Higher Education",
+  "summary": "The rapid advancement of generative artificial intelligence (GAI) and the extensive use of social media have transformed how students engage with educational materials and interact with their peers. Collaborative learning (CL) platforms, empowered by artificial intelligence (AI) algorithms, have gained popularity due to their potential to enhance learning outcomes and provide personalised educational experiences. This research examines the effects of generative AI (ChatGPT‐4) and social media use on young students' academic performance and psychological well‐being, focusing on CL. The study conceptual framework was examined based on a sample of 441 Chinese university students. The statistical technique PLS‐SEM is put into practice to measure the structural framework of academic performance and psychological well‐being. The findings of this study show that generative AI (ChatGPT‐4) and social media positively influence young students' academic performance and psychological well‐being. Additionally, the results of this research study show that CL positively mediates between social media, academic performance and psychological well‐being. Conversely, it negatively mediates the association between generative AI (ChatGPT‐4), academic performance (AP), and psychological well‐being. The findings can facilitate a better understanding of the implications of technologies in the educational context and subsequently aid in formulating evidence‐based strategies to optimise their impact on students's academic success and well‐being.",
+  "authors": [
+    "Muhammad Farrukh Shahzad",
+    "Shuo Xu",
+    "Huizheng Liu",
+    "Hira Zahid"
+  ],
+  "categories": [],
+  "published": "2024-11-13",
+  "updated": "2024-11-13",
+  "pdf_url": "https://www.semanticscholar.org/paper/e24126fbb1c3a83960e522e7c33da8f334eb3339",
+  "abs_url": "https://www.semanticscholar.org/paper/e24126fbb1c3a83960e522e7c33da8f334eb3339",
+  "source": "semantic-scholar",
+  "relevance_score": 84,
+  "source_query": "ChatGPT education academic performance",
+  "collected_at": "2026-03-10T18:00:29.844Z",
+  "stage": "rejected",
+  "audit_log": [
+    {
+      "agent": "paper-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T18:00:30.851Z",
+      "source": "semantic-scholar",
+      "relevance_score": 84
+    },
+    {
+      "agent": "paper-summarizer",
+      "action": "summarized",
+      "timestamp": "2026-03-11T05:06:23.273Z",
+      "model": "glm-4-plus"
+    }
+  ],
+  "korean_title": "생성형 인공지능(ChatGPT-4)과 소셜 미디어가 중국 고등교육의 학업 성취도 및 심리적 안정에 미치는 영향",
+  "korean_summary": "본 연구는 생성형 AI(특히 ChatGPT-4)와 소셜 미디어 사용이 중국 대학생의 학업 성취도와 심리적 안정에 미치는 영향을 조사했습니다. 연구 결과에 따르면, 이 두 기술 모두 학업 성취도와 심리적 안정에 긍정적인 영향을 미치는 것으로 나타났습니다. 특히 협력 학습은 소셜 미디어의 긍정적 효과를 높이는 반면, 생성형 AI의 긍정적 효과는 약화시키는 중재 역할을 합니다.",
+  "key_findings": [
+    "생성형 AI(ChatGPT-4)와 소셜 미디어 사용은 대학생의 학업 성취도와 심리적 안정에 긍정적인 영향을 미친다.",
+    "*   협력 학습(Collaborative Learning)은 소셜 미디어와 학업 성취도/심리적 안정 사이의 관계를 긍정적으로 중재한다.",
+    "*   협력 학습은 생성형 AI와 학업 성취도/심리적 안정 사이의 관계를 부정적으로 중재하여 생성형 AI의 긍정적 효과를 약화시킨다."
+  ],
+  "implications": "교육 현장에서 생성형 AI와 소셜 미디어의 교육적 활용을 최적화하기 위해서는 단순 도입을 넘어, 학생들이 이러한 기술을 효과적으로 활용하고 협력하는 방식을 지도하는 교육 전략이 필요합니다. 특히 생성형 AI를 사용할 때 협력 학습의 역할을 조절하여 기술의 잠재력을 극대화하고 부작용을 최소화해야 합니다.",
+  "error": "HTTP 401: {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"be5c9540-1d4a-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}"
+}

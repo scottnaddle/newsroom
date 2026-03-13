@@ -38,7 +38,11 @@
       }
     ],
     "meta_title": "대학의 AI '그림자 경제': 무결성 위기를 부르는 비공인 도구들",
-    "meta_description": "대학의 IT 부서는 모른다. 어느 교수가 논문 초안을 ChatGPT에 붙여넣었는지. 어느 연구실이 GitHub Copilot으로 코드를 작성하는지. 어느 학생 지도교수가 학생 성적을 분석하는 무료 AI 도구를 쓰고 있는지. 이것이 '그림자 AI(Shadow AI)'의 "
+    "meta_description": "대학의 IT 부서는 모른다. 어느 교수가 논문 초안을 ChatGPT에 붙여넣었는지. 어느 연구실이 GitHub Copilot으로 코드를 작성하는지. 어느 학생 지도교수가 학생 성적을 분석하는 무료 AI 도구를 쓰고 있는지. 이것이 '그림자 AI(Shadow AI)'의 ",
+    "feature_image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.862Z",
+    "image_verified": false
   },
   "reporting_status": "completed",
   "drafted_at": "2026-03-09T20:42:00.000Z",
@@ -67,7 +71,5 @@
     "text_length": 3311,
     "checked_at": "2026-03-09T11:35:52.558Z"
   },
-  "ghost_id": "69aeb099ff4fbf0001ab79f2",
-  "ghost_url": "https://insight.ubion.global/p/558f08cf-45ce-4c83-87b7-9d5739fb03cd/",
   "published_at": "2026-03-09T11:35:53.630Z"
 }

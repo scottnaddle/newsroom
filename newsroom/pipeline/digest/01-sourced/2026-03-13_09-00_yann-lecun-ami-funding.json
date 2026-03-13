@@ -1,0 +1,17 @@
+{
+  "stage": "sourced",
+  "pipeline": "digest",
+  "source": {
+    "title": "Ex-Meta AI Chief Yann LeCun's AMI Raises 1.03 Billion in Alternative AI Approach",
+    "url": "https://www.reuters.com/business/ex-meta-ai-chief-yann-lecuns-ami-raises-103-billion-alternative-ai-approach-2026-03-03-10/",
+    "source_name": "Reuters",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Yann LeCun-led startup AMI has raised $1.03 billion to develop alternative approaches to AI development. This funding represents major backing for new AI methodologies beyond the dominant LLM-focused paradigm.",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-03-13T00:00:00Z"
+  },
+  "audit_log": [
+    {"agent": "digest-collector", "action": "sourced", "timestamp": "2026-03-13T09:00:00Z"}
+  ]
+}

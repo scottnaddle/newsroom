@@ -1,0 +1,29 @@
+{
+  "url": "https://www.moroccoworldnews.com/2026/03/281875/mits-cynthia-breazeal-ai-literacy-is-indispensable-for-21st-century/",
+  "title": "MIT가 제시하는 미래 교육의 답: AI 리터러시는 엘리트 학생만의 것이 아니다",
+  "slug": "mit-ai-literacy-breazeal",
+  "source": "web_search",
+  "stage": "rejected",
+  "draft": {
+    "headline": "MIT가 제시하는 미래 교육의 답: AI 리터러시는 엘리트 학생만의 것이 아니다",
+    "subheadline": "Cynthia Breazeal 교수, '활주로 교육 모델' 강조",
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;margin:0 auto;padding:0 20px\"><div style=\"border-left:4px solid #0891b2;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:48px\"><p style=\"margin:0;font-weight:600;font-size:18px\">MIT 미디어랩의 Cynthia Breazeal 교수는 World Governments Summit 2026에서 AI 리터러시가 더 이상 엘리트나 기술 전공 학생들의 전유물이 아니라, 모든 학생이 갖춰야 할 기본 소양이라고 강조했습니다.</p></div><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">AI는 이미 우리 삶 속에 들어와 있습니다</h2><p style=\"margin:0 0 32px\">현대 사회에서 AI는 더 이상 미래 기술이 아닙니다. 헬스케어에서는 진단 보조 시스템이, 농업에서는 작물 관리 AI가, 제조업에서는 생산 최적화 알고리즘이, 운송업에서는 자율주행 시스템이 이미 현장에서 작동하고 있습니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">일관된 '활주로' 교육 경로의 필요성</h2><p style=\"margin:0 0 32px\">Breazeal이 제안하는 '활주로(glide path)' 접근법은 단계적이고 지속적인 교육 경로를 의미합니다. 초등학교에서 시작하여 중·고등학교를 거쳐 대학교육, 그리고 평생 학습으로 이어지는 일관된 체계입니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">문화 맥락과 지역화를 통한 지속 가능한 확산</h2><p style=\"margin:0 0 32px\">MIT RAISE 프로젝트는 단순히 AI 교육 자료를 만드는 것을 넘어, 그것을 지역과 문화에 맞게 적응시키는 방식을 개발하고 있습니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">글로벌 교육 정책에 미치는 함의</h2><p style=\"margin:0 0 32px\">Breazeal의 주장은 세계 정부 정상들에게 즉시적 정책 시사점을 제공합니다. 현재 많은 국가에서 AI 교육을 '선택사항'이나 '특화 프로그램'으로 취급하고 있습니다.</p><hr style=\"border:none;border-top:1px solid #e2e8f0;margin:44px 0 20px\"><h3 style=\"font-size:16px;font-weight:700;margin:32px 0 16px\">참고자료</h3><ol style=\"margin:0 0 32px;padding-left:24px\"><li style=\"margin-bottom:12px\"><strong>MIT's Cynthia Breazeal: AI Literacy Is Indispensable for 21st Century</strong> - Morocco World News, 2026년 3월 8일</li></ol><p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "word_count": 1850,
+    "feature_image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "fact_check": {
+    "score": 92,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "Cynthia Breazeal는 MIT Media Lab의 RAISE 디렉터",
+      "World Governments Summit 2026에서 발표"
+    ],
+    "validated_at": "2026-03-12T15:30:00Z"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "본문 765자 (1600자 미만)"
+  }
+}

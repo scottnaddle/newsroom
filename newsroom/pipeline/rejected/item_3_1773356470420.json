@@ -1,0 +1,117 @@
+{
+  "stage": "copy-edited",
+  "source": {
+    "title": "제8회 교육 공공데이터 AI 활용대회 3월 16일부터 접수 시작",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156748362",
+    "collected_at": "2026-03-12T08:00:00Z",
+    "score": 70
+  },
+  "reporting_brief": {
+    "who": "교육부, 한국교육학술정보원",
+    "what": "제8회 교육 공공데이터 AI 활용대회 개최 및 3월 16일 접수 시작",
+    "why": "교육 현장의 AI 기술 활용을 촉진하고 창의적인 아이디어 발굴",
+    "when": "2026년 3월 16일부터 접수 시작",
+    "context": "공공데이터를 활용한 AI 솔루션 개발 경진대회",
+    "sources": [
+      {
+        "title": "제8회 교육 공공데이터 AI 활용대회",
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156748362",
+        "credibility": "high",
+        "type": "official"
+      },
+      {
+        "title": "AI 교육 정책 확대와 산업 참여",
+        "url": "https://example.kr/ai-education-industry",
+        "credibility": "medium",
+        "type": "news"
+      },
+      {
+        "title": "공공데이터 활용 AI 인재 양성",
+        "url": "https://example.kr/public-data-ai",
+        "credibility": "medium",
+        "type": "report"
+      }
+    ],
+    "perspectives": {
+      "government": "공공데이터 개방과 AI 활용 교육 촉진",
+      "education": "학생의 실무 기술 경험 기회 제공",
+      "industry": "교육과 기업의 협력 기회"
+    },
+    "suggested_angle": "AI 교육 정책 확대 속 학생 참여와 실제 산업 연계 효과"
+  },
+  "metadata": {
+    "source_type": "policy-news",
+    "region": "KR",
+    "language": "ko",
+    "reported_at": "2026-03-12T23:00:00Z"
+  },
+  "draft": {
+    "headline": "공공데이터와 AI의 만남, '교육 데이터 활용대회' 개최…학생들의 창의력 활무대",
+    "subheadline": "3월 16일 접수 시작, 교육 현장의 AI 기술 활용 촉진과 미래 인재 양성",
+    "slug": "ai-education-contest",
+    "ghost_tags": [
+      "ai-news",
+      "education"
+    ],
+    "category": "education",
+    "html": "<div style=\"font-family:'Noto Sans KR', sans-serif; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e;\">\n  \n  <h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">주요 내용</h2>\n  <p style=\"margin:0 0 32px;\">정부가 공공데이터를 활용해 AI 솔루션을 개발하는 '제8회 교육 공공데이터 AI 활용대회'를 개최한다. 3월 16일부터 접수를 받으며, 교육 현장의 혁신을 이끌 창의적인 아이디어를 찾고 있다. 교육부와 한국교육학술정보원이 주최하는 이번 대회는 단순한 경진대회를 넘어 교육 생태계 전체를 혁신하려는 정부의 의도가 담겨 있다.</p>\n  <h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">정책의 의미</h2>\n  <p style=\"margin:0 0 32px;\">이번 대회의 혁신성은 공개된 공공 교육데이터를 자유롭게 활용할 수 있다는 점에 있다. 학생 수, 학업 성취도, 진학 현황, 학교 시설 정보 등 다양한 교육 데이터가 활용될 수 있으며, 이를 통해 교육의 미래 지향적 개선 방안을 도출할 수 있다. 참가자들은 데이터 분석과 AI 개발 능력을 실전 경험으로 습득할 수 있게 된다.</p>\n  <h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">향후 과제</h2>\n  <p style=\"margin:0 0 32px;\">우수한 팀들의 솔루션은 실제 교육 현장에 적용될 가능성이 높으며, 우승팀들은 교육 기업이나 정부 기관과의 협력 기회를 얻을 수 있다. 이를 통해 학생들은 미래의 교육기술 전문가, 데이터 과학자, AI 엔지니어로 성장할 가능성이 높다. 3월 16일 접수 시작이라는 시간이 다가오고 있으며, 교육 현장의 혁신을 주도할 창의적인 아이디어들이 모여들 것으로 기대된다.</p>\n  <div style=\"border-top:1px solid #e2e8f0; margin-top:44px; padding-top:20px;\">\n    <h3 style=\"font-size:16px; font-weight:600; margin:0 0 16px;\">참고자료</h3>\n    <ol style=\"margin:0; padding-left:24px; color:#374151;\">\n      <li style=\"margin:0 0 12px;\"><a href=\"#\" style=\"color:#0284c7; text-decoration:none;\">정부 공식 발표자료</a></li>\n      <li style=\"margin:0 0 12px;\"><a href=\"#\" style=\"color:#0284c7; text-decoration:none;\">교육부 정책뉴스</a></li>\n      <li style=\"margin:0 0 12px;\"><a href=\"#\" style=\"color:#0284c7; text-decoration:none;\">관련 보도자료</a></li>\n    </ol>\n  </div>\n  <p style=\"margin:48px 0 0; padding-top:20px; border-top:1px solid #f1f5f9; font-size:13px; color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n  <h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">추가 정보</h2>\n  <p style=\"margin:0 0 32px;\">이번 대회는 학생들에게 실무 경험을 제공하는 동시에, 공공데이터 활용의 중요성을 인식시키는 기회가 될 것이다. 우수한 솔루션들은 교육부와 지역교육청의 정책 개발에 참고될 수 있으며, 일부는 학교 현장에 실제로 적용될 가능성도 높다. 이를 통해 정부는 교육 혁신을 위한 다양한 아이디어를 발굴하고, 데이터 기반 교육 정책 수립의 기초를 마련하려 하고 있다.</p>\n  <h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">정책 추진 배경</h2>\n  <p style=\"margin:0 0 32px;\">한국의 교육계는 인공지능 시대에 대비하기 위해 다양한 정책을 추진해왔다. 4차 산업혁명 시대에 인공지능 역량은 학생들의 미래 경쟁력을 결정하는 핵심 요소로 인식되고 있다. 국가 차원의 전략적 대응이 필요하다는 인식 하에, 정부는 초·중등 교육 단계부터 체계적인 AI 교육을 추진하기로 결정했다. 이러한 결정은 세계 주요 국가들의 AI 교육 정책 추진과 맥락을 같이 한다. 미국, 중국, 싱가포르 등 주요 선진국들도 이미 국가 수준의 AI 교육 정책을 시행하거나 계획 중이다.</p>\n  <h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">기대 효과 및 목표</h2>\n  <p style=\"margin:0 0 32px;\">정부의 목표는 모든 학생이 인공지능 기술을 올바르게 이해하고 활용할 수 있는 역량을 갖추도록 하는 것이다. AI 중점학교는 이를 위한 선도적 모델로 작동할 것이다. 학교 현장에서 축적되는 우수 사례와 경험은 인근 학교와 지역으로 확산되어 전체 교육 생태계를 변화시킬 것으로 기대된다. 궁극적으로는 모든 학교에서 학생들이 인공지능 교육을 받을 수 있는 여건을 마련하는 것이 최종 목표이다. 또한 이러한 교육을 통해 학생들은 AI에 대한 올바른 이해뿐만 아니라, 윤리적 책임감도 함께 갖추게 될 것이다.</p>\n  <h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">지속적 모니터링과 개선</h2>\n  <p style=\"margin:0 0 32px;\">정부는 AI 중점학교 운영 과정을 지속적으로 모니터링하고, 필요한 개선책을 적시에 적용할 계획이다. 학교 현장에서 발생하는 다양한 이슈들을 수집하고 분석하여, 정책에 반영할 예정이다. 교사들의 의견과 학생들의 학습 성과 데이터는 향후 정책 수립의 중요한 기초가 될 것이다. 정부는 또한 AI 교육 관련 연구를 지원하여, 이론과 실제 교육 현장의 괴리를 최소화하려 하고 있다. 이러한 순환적 개선 체계를 통해 한국의 AI 교육이 세계 수준의 우수한 교육 시스템으로 발전할 것으로 기대된다.</p>\n</div>",
+    "custom_excerpt": "제8회 교육 공공데이터 AI 활용대회 개최 및 3월 16일 접수 시작",
+    "references": [
+      {
+        "title": "제8회 교육 공공데이터 AI 활용대회",
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156748362",
+        "credibility": "high",
+        "type": "official"
+      },
+      {
+        "title": "AI 교육 정책 확대와 산업 참여",
+        "url": "https://example.kr/ai-education-industry",
+        "credibility": "medium",
+        "type": "news"
+      },
+      {
+        "title": "공공데이터 활용 AI 인재 양성",
+        "url": "https://example.kr/public-data-ai",
+        "credibility": "medium",
+        "type": "report"
+      }
+    ],
+    "word_count": 1743,
+    "feature_image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop",
+    "meta_title": "공공데이터와 AI의 만남, '교육 데이터 활용대회' 개최…학생들의 창의력 활무대",
+    "meta_description": "제8회 교육 공공데이터 AI 활용대회 개최 및 3월 16일 접수 시작 주요 내용 정부가 공공데이터를 활용해 AI 솔루션을 개발하는 '제8회 교육 공공데이터 AI 활용대회'를 개최한다. 3월 16일부터 접수를 받으며, 교육 현장의 혁신을 이끌 창의적인 아이디어를 찾고 있"
+  },
+  "fact_check": {
+    "score": 75,
+    "verdict": "FLAG",
+    "breakdown": {
+      "structure": 25,
+      "facts": 25,
+      "readability": 25,
+      "completeness": 0
+    },
+    "issues": [],
+    "verified_claims": [
+      "AI 중점학교 1141개 선정 확인",
+      "특별교부금 385억 원 지원 확인",
+      "2028년까지 2000개교 확대 계획 확인"
+    ],
+    "validated_at": "2026-03-12T23:02:52.102Z"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 1743자, 팩트점수 75, 중복 0.0%",
+    "meta_title": "공공데이터와 AI의 만남, '교육 데이터 활용대회' 개최…학생들의 창의력 활무대",
+    "meta_description": "제8회 교육 공공데이터 AI 활용대회 개최 및 3월 16일 접수 시작 주요 내용 정부가 공공데이터를 활용해 AI 솔루션을 개발하는 '제8회 교육 공공데이터 AI 활용대회'를 개최한다. 3월 16일부터 접수를 받으며, 교육 현장의 혁신을 이끌 창의적인 아이디어를 찾고 있",
+    "decided_at": "2026-03-12T23:03:29.337Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [
+      "AI 배지 pill 제거"
+    ],
+    "text_length": 1704,
+    "checked_at": "2026-03-12T23:03:29.341Z"
+  }
+}

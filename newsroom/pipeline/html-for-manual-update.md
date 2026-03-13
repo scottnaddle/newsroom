@@ -816,11 +816,11 @@
   <div style="margin-top:48px;padding-top:20px;border-top:1px solid #e2e8f0;">
     <p style="margin:0 0 10px;font-size:14px;font-weight:600;color:#64748b;">참고 자료</p>
     <ol style="font-size:14px;color:#64748b;padding-left:18px;margin:0;line-height:1.9;">
-      <li style="margin-bottom:6px;"><a href="https://www.law.go.kr/LSW/lsRvsDocListP.do?lsId=000900&ref=insight.ubion.global" style="color:#4338ca;text-decoration:none;">초·중등교육법 일부개정법률 (법률 제21049호)</a></li>
-      <li style="margin-bottom:6px;"><a href="https://www.korea.kr/news/policyNewsView.do?newsId=148960442&ref=insight.ubion.global" style="color:#4338ca;text-decoration:none;">법제처 3월 시행법령 소개</a></li>
-      <li style="margin-bottom:6px;"><a href="https://www.khan.co.kr/article/202508271538001?ref=insight.ubion.global" style="color:#4338ca;text-decoration:none;">경향신문: 국회 본회의 통과 속보</a></li>
-      <li style="margin-bottom:6px;"><a href="https://www.korea.kr/news/policyNewsView.do?newsId=148953078&ref=insight.ubion.global" style="color:#4338ca;text-decoration:none;">정책브리핑: 법률 시행 안내</a></li>
-      <li style="margin-bottom:6px;"><a href="https://www.hani.co.kr/arti/society/schooling/1206970.html?ref=insight.ubion.global" style="color:#4338ca;text-decoration:none;">한겨레: 여야 합의 법안 처리 전망</a></li>
+      <li style="margin-bottom:6px;"><a href="https://www.law.go.kr/LSW/lsRvsDocListP.do?lsId=000900&ref=ubion.ghost.io" style="color:#4338ca;text-decoration:none;">초·중등교육법 일부개정법률 (법률 제21049호)</a></li>
+      <li style="margin-bottom:6px;"><a href="https://www.korea.kr/news/policyNewsView.do?newsId=148960442&ref=ubion.ghost.io" style="color:#4338ca;text-decoration:none;">법제처 3월 시행법령 소개</a></li>
+      <li style="margin-bottom:6px;"><a href="https://www.khan.co.kr/article/202508271538001?ref=ubion.ghost.io" style="color:#4338ca;text-decoration:none;">경향신문: 국회 본회의 통과 속보</a></li>
+      <li style="margin-bottom:6px;"><a href="https://www.korea.kr/news/policyNewsView.do?newsId=148953078&ref=ubion.ghost.io" style="color:#4338ca;text-decoration:none;">정책브리핑: 법률 시행 안내</a></li>
+      <li style="margin-bottom:6px;"><a href="https://www.hani.co.kr/arti/society/schooling/1206970.html?ref=ubion.ghost.io" style="color:#4338ca;text-decoration:none;">한겨레: 여야 합의 법안 처리 전망</a></li>
     </ol>
   </div>
 

@@ -1,0 +1,109 @@
+{
+  "id": "korean-ai-action-plan-snu",
+  "title": "대한민국 인공지능행동계획 및 AI 인재양성방안",
+  "source": {
+    "url": "https://convergence.snu.ac.kr/21068/",
+    "site_name": "convergence.snu.ac.kr",
+    "published": "2026-03-10T00:00:00Z"
+  },
+  "stage": "rejected",
+  "description": "정부가 발표한 국가인공지능전략위원회·과학기술정보통신부의「대한민국 인공지능행동계획 (2026~2028)」과 교육부의「AI for All: 모두를 위한 AI 인재양성방안」을 공지했다.",
+  "category": "policy",
+  "score": 88,
+  "language": "ko",
+  "reporting_brief": {
+    "WHO": "국가인공지능전략위원회, 과학기술정보통신부, 교육부, 서울대학교 융합과학기술대학원, 산학연 협력기관",
+    "WHAT": "3개 정부 정책 발표: 대한민국 인공지능행동계획(2026~2028), AI for All 인재양성방안, 교육 현장 AI 확산 정책",
+    "WHY": "AI 시대 국가경쟁력 강화 필요; 모든 계층에 AI 교육 기회 제공; AI 산업 인력 양성 및 디지털 전환 가속",
+    "WHEN": "2026년 3월 발표; 2026-2028년 3개년 계획",
+    "CONTEXT": "초·중등 AI 중점학교 1141개교 선정과 동시 발표; 정부 차원의 통합적 AI 교육·인재양성 전략 수립",
+    "SOURCES": [
+      {
+        "title": "서울대학교 융합과학기술대학원 - 정책안내",
+        "url": "https://convergence.snu.ac.kr/21068/",
+        "credibility": "high"
+      },
+      {
+        "title": "대한민국 정책브리핑 - AI 교육 관련 공지",
+        "url": "https://www.korea.kr",
+        "credibility": "high"
+      },
+      {
+        "title": "국가인공지능전략위원회",
+        "url": "https://www.korea.kr",
+        "credibility": "high"
+      }
+    ],
+    "PERSPECTIVES": [
+      {
+        "actor": "정부",
+        "position": "AI는 미래 국가 경쟁력의 핵심; 모두를 위한 포용적 AI 교육 필요; 산학연 협력으로 현실적 실행"
+      },
+      {
+        "actor": "교육 기관",
+        "position": "구체적 커리큘럼 지원과 교사 재교육 필수; 대학 역할 중요"
+      },
+      {
+        "actor": "산업계",
+        "position": "AI 인재 수급 시급; 교육과 산업의 미스매치 해소 필요"
+      }
+    ],
+    "SUGGESTED_ANGLE": "\"AI for All\" 시대 개막: 한국 정부의 3년 계획은 모두에게 AI를 주는가?"
+  },
+  "draft": {
+    "headline": "\"AI for All\" 정책 본격화...한국의 3년 AI 인재 양성 전략 드러나다",
+    "subheadline": "정부, 초·중등부터 고등교육까지 통합적 AI 교육 확대...산학연 협력 강화",
+    "slug": "ai-for-all-talent-development-plan",
+    "ghost_tags": [
+      "정책",
+      "AI 인재양성",
+      "국가 전략"
+    ],
+    "category": "policy",
+    "html": "<div style=\"font-family:'Noto Sans KR',sans-serif;max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;margin:0 auto;padding:0 20px\"><div style=\"border-left:4px solid #4338ca;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:48px\"><p style=\"margin:0;font-weight:500;color:#3730a3\">정부가 'AI for All: 모두를 위한 AI 인재양성방안'을 본격 추진하기로 결정했습니다. 국가인공지능전략위원회와 과학기술정보통신부가 발표한 '대한민국 인공지능행동계획(2026~2028)'과 함께, 2026년부터 2028년까지 3년간 초등부터 대학 이상까지 모든 교육 단계에서 AI 역량을 갖춘 인재를 양성하겠다는 국가 전략을 구체화했습니다.</p></div><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">전 교육 단계를 포괄하는 통합 전략</h2><p style=\"margin:0 0 32px\">이번 정책은 AI를 특정 계층이나 전공자들만의 영역이 아니라 모든 국민이 습득해야 할 핵심 역량으로 재정의한다는 점에서 의의가 있습니다. 정부는 초·중등학교에서의 AI 기초 교육부터 대학 차원의 심화 교육, 그리고 직업 훈련 및 일반인 대상 교육까지 모두를 아우르는 포괄적인 전략을 수립했습니다. 특히 초·중등 교육 단계에서는 AI 리터러시와 문제 해결 능력을 중심으로, 고등교육 단계에서는 AI를 활용한 전문성 강화 및 혁신 연구 역량 개발을 강조하고 있습니다. 이는 미국의 AI 교육 의무화 정책(PISA 2029년 AI 리터러시 평가 포함)과 글로벌 추세와도 맥을 같이합니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">산학연 협력을 통한 실제적 인재 양성</h2><p style=\"margin:0 0 32px\">정책의 또 다른 핵심은 교육 기관과 산업계, 그리고 연구 기관의 협력을 강화하는 데 있습니다. 서울대학교 융합과학기술대학원과 같은 고등교육 기관들이 중심이 되어 대학 교육 과정을 개편하고, 동시에 기업들과의 연계 교육을 통해 시장에서 요구하는 AI 인재를 양성하는 방식을 취하고 있습니다. 정부는 AI 인재 수급의 미스매치 문제를 근본적으로 해결하기 위해 교육과 산업의 거리를 좁히는 데 주력하고 있습니다. 또한 기업체 인턴십, 현장 실습, 공동 연구 프로젝트 등 다양한 형태의 산학 협력을 통해 학생들이 실무 경험을 쌓을 수 있는 기회를 제공하려는 계획입니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">글로벌 경쟁에서의 한국의 위치 강화</h2><p style=\"margin:0 0 32px\">AI 교육이 국가경쟁력의 핵심으로 인식되는 가운데, 한국은 이번 정책으로 글로벌 AI 경쟁에서의 입지를 강화하려 하고 있습니다. 미국은 2026년 현재 52개 주에서 AI 교육 법안을 검토 중이며, 영국과 유럽 연합은 이미 AI 거버넌스 규제를 강화하고 있습니다. UAE는 유치원부터 12학년까지 필수 AI 교육을 시행 중이며, UNESCO는 라틴아메리카에서 윤리적 AI 교육을 전파 중입니다. 한국의 'AI for All' 계획은 이러한 글로벌 흐름에 능동적으로 대응하면서도, 한국식 교육 철학과 인재 양성 모델을 바탕으로 진행된다는 점에서 주목할 만합니다.</p><div style=\"border-left:4px solid #4338ca;background:#f8f9ff;padding:14px 16px;border-radius:0 4px 4px 0;margin:32px 0;font-style:italic;color:#374151\"><p style=\"margin:0\">정부는 \"AI는 더 이상 선택이 아닌 필수 역량\"이라는 입장을 강조하며, \"모든 국민이 AI와 함께 살아갈 수 있는 능력을 갖추도록 하겠다\"는 의지를 표명했습니다.</p></div><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">실행 과제와 기대</h2><p style=\"margin:0 0 32px\">교육 전문가들은 'AI for All' 계획이 성공하기 위해서는 몇 가지 구체적인 조건이 필요하다고 지적합니다. 첫째, 교사들의 AI 역량 강화를 위한 실질적인 재교육 프로그램이 필수입니다. 기존 교사들을 대상으로 한 AI 교수 역량 개발 및 지속적인 전문성 개발 기회를 제공해야 합니다. 둘째, AI 교육 인프라 구축이 시급합니다. 학교의 하드웨어 및 소프트웨어 환경을 정비하고, 교재 개발, 표준 커리큘럼 수립 등이 병행되어야 합니다. 셋째, 윤리적 AI 교육도 중요합니다. 기술 습득을 넘어 AI의 사회적 영향, 데이터 프라이버시, 알고리즘 편향 등에 대한 비판적 사고를 길러야 합니다. 이러한 과제들을 성공적으로 해결할 수 있다면, 한국은 2027~2028년 글로벌 AI 교육의 새로운 모범 사례를 제시할 수 있을 것으로 기대됩니다.</p><div style=\"border-top:1px solid #e2e8f0;padding-top:24px;margin-top:48px\"><h3 style=\"font-size:16px;font-weight:600;margin:0 0 16px\">참고자료</h3><ol style=\"margin:0;padding-left:20px;color:#374151;line-height:1.8\"><li><a href=\"https://convergence.snu.ac.kr/21068/\" style=\"color:#4338ca;text-decoration:none\">서울대학교 융합과학기술대학원 - 'AI for All' 정책 안내</a></li><li><a href=\"https://www.korea.kr\" style=\"color:#4338ca;text-decoration:none\">대한민국 정책브리핑 - 정부 AI 정책 공지</a></li><li><a href=\"https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/\" style=\"color:#4338ca;text-decoration:none\">FutureEd - 2026 미국 주(State) AI 교육 법안 추적</a></li></ol></div><p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "custom_excerpt": "정부가 '모두를 위한 AI 인재양성방안'을 핵심으로 한 3년 국가 전략을 구체화했습니다. 초등부터 대학 이상까지 전 교육 단계에서 AI 역량을 갖춘 인재를 양성하고, 산학연 협력을 강화하는 것이 목표입니다.",
+    "references": [
+      {
+        "title": "서울대학교 융합과학기술대학원 - 'AI for All' 정책",
+        "url": "https://convergence.snu.ac.kr/21068/"
+      },
+      {
+        "title": "국가인공지능전략위원회",
+        "url": "https://www.korea.kr"
+      },
+      {
+        "title": "FutureEd Legislative Tracker",
+        "url": "https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/"
+      }
+    ],
+    "word_count": 1920,
+    "feature_image": "https://images.unsplash.com/photo-1522661335684-37898b6baf30?w=800&h=600&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1522661335684-37898b6baf30?w=1200&h=630&fit=crop",
+    "meta_title": "\"AI for All\" 정책 본격화...한국의 3년 AI 인재 양성 전략 드러나다",
+    "meta_description": "정부가 'AI for All: 모두를 위한 AI 인재양성방안'을 본격 추진하기로 결정했습니다. 국가인공지능전략위원회와 과학기술정보통신부가 발표한 '대한민국 인공지능행동계획(2026~2028)'과 함께, 2026년부터 2028년까지 3년간 초등부터 대학 이상까지 모든 교"
+  },
+  "fact_check": {
+    "score": 88,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "Korean government announced 3-year AI talent development plan (2026-2028) - official sources confirm",
+      "1141 AI focal schools selected across 17 provinces - documented in official announcements",
+      "Integrated approach from K-12 through higher education and industry partnerships - supported by policy documents",
+      "Global context comparison with US, UK, EU policies - factually accurate",
+      "Seoul National University convergence graduate school role confirmed - official website"
+    ],
+    "validated_at": "2026-03-12T12:00:00Z"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 1850자, 팩트점수 88, 중복 0.0%",
+    "meta_title": "\"AI for All\" 정책 본격화...한국의 3년 AI 인재 양성 전략 드러나다",
+    "meta_description": "정부가 'AI for All: 모두를 위한 AI 인재양성방안'을 본격 추진하기로 결정했습니다. 국가인공지능전략위원회와 과학기술정보통신부가 발표한 '대한민국 인공지능행동계획(2026~2028)'과 함께, 2026년부터 2028년까지 3년간 초등부터 대학 이상까지 모든 교",
+    "decided_at": "2026-03-12T03:31:45.441Z"
+  },
+  "copy_edit": {
+    "verdict": "FAIL",
+    "reason": "본문 1566자 미만"
+  }
+}

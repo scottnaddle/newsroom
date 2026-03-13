@@ -38,7 +38,11 @@
       }
     ],
     "meta_title": "2026년, 규제 속에서 피어나는 AI 교육의 기회",
-    "meta_description": "2026년, '규제의 임계점'을 통과한 글로벌 AI 시장에서 새로운 기회가 열리고 있다. 지난 2월 글로벌 AI 전문가 이안 칸(Ian Khan)이 분석한 'AI 규제 임계점(regulatory tipping point)'은 단순한 규제 강화를 의미하지 않는다. 기존의"
+    "meta_description": "2026년, '규제의 임계점'을 통과한 글로벌 AI 시장에서 새로운 기회가 열리고 있다. 지난 2월 글로벌 AI 전문가 이안 칸(Ian Khan)이 분석한 'AI 규제 임계점(regulatory tipping point)'은 단순한 규제 강화를 의미하지 않는다. 기존의",
+    "feature_image": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.860Z",
+    "image_verified": false
   },
   "reporting_brief": {
     "WHO": "교육부, 글로벌 AI 기업, OECD, 한국고용정보원",
@@ -73,7 +77,5 @@
     "text_length": 2217,
     "checked_at": "2026-03-09T11:35:31.530Z"
   },
-  "ghost_id": "69aeb084ff4fbf0001ab79bd",
-  "ghost_url": "https://insight.ubion.global/p/6b703fbd-a11a-45f7-8e35-72aabea37d2f/",
   "published_at": "2026-03-09T11:35:32.173Z"
 }

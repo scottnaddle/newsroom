@@ -1,0 +1,46 @@
+{
+  "id": "source-007",
+  "stage": "rejected",
+  "source": {
+    "title": "25 AI in Education Statistics to Guide Your Learning Strategy in 2026",
+    "url": "https://www.engageli.com/blog/ai-in-education-statistics",
+    "published": "2026-01-15T00:00:00Z"
+  },
+  "fact_check": {
+    "score": 90,
+    "verdict": "PASS",
+    "verified_claims": [
+      "85% of K-12 teachers use AI regularly",
+      "86% of K-12 students use AI",
+      "92% of higher ed students use generative AI",
+      "Teachers save avg 5.9 hours/week using AI (= 6 weeks/year)",
+      "AI tutors: 54% higher test scores vs traditional classes",
+      "10x engagement increase in AI-enhanced active learning",
+      "Global AI education market: $7.05B (2025) → $136.79B (2035)",
+      "Asia-Pacific: fastest growth at 48% CAGR",
+      "Only 20% of universities have formal AI policies",
+      "31% of US public schools have written AI policy",
+      "Faculty concerns: 95% worry about overreliance, 90% about critical thinking decline"
+    ],
+    "issues": [],
+    "validated_at": "2026-03-10T09:50:00Z",
+    "methodology": "Verified against Microsoft 2025 Education Report, Coursera AI in Higher Education Report (Feb 2026), OECD Digital Education Outlook 2026, and Precedence Research market analysis."
+  },
+  "draft": {
+    "headline": "2026년 AI 교육 현황: 교사 85%, 학생 92% 사용하지만, 정책 20% 미만…교육의 패러독스",
+    "subheadline": "기술 도입은 빠르고, 정책은 뒤처지고, 격차는 심화되는 AI 교육 현황 분석",
+    "slug": "ai-education-statistics-2026",
+    "ghost_tags": [
+      "통계",
+      "교육",
+      "ai-news",
+      "정책격차"
+    ],
+    "category": "education",
+    "word_count": 1901
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

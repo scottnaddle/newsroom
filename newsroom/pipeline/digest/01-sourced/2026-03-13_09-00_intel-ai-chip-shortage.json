@@ -1,0 +1,17 @@
+{
+  "stage": "sourced",
+  "pipeline": "digest",
+  "source": {
+    "title": "Intel Hits Full Capacity as AI Infrastructure Boom Triggers Global Chip Shortage",
+    "url": "https://www.benzinga.com/markets/tech/26/03/51164177/intel-hits-full-capacity-as-ai-infrastructure-boom-triggers-global-chip-shortage-and-stock-breakout",
+    "source_name": "Benzinga",
+    "language": "en",
+    "relevance_score": 86,
+    "summary": "Intel has reached full manufacturing capacity amid surging AI infrastructure demand, exacerbating global semiconductor shortages. This supply constraint is reshaping chip industry dynamics and accelerating competition.",
+    "published_date": "2026-03-11",
+    "collected_at": "2026-03-13T00:00:00Z"
+  },
+  "audit_log": [
+    {"agent": "digest-collector", "action": "sourced", "timestamp": "2026-03-13T09:00:00Z"}
+  ]
+}

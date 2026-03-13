@@ -1,0 +1,62 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Artificial Intelligence Breakthroughs in March 2026",
+    "url": "https://www.devflokers.com/blog/ai-breakthroughs-march-2026",
+    "source_name": "DevFlokers",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Google's Gemini 3.1 Flash-Lite for cost-efficient AI at scale"
+  },
+  "digest": {
+    "headline": "구글 Gemini 3.1 Flash-Lite, 저가 고속 AI 모델로 접근성 혁신",
+    "lead": "구글이 3월 3일 'Gemini 3.1 Flash-Lite'를 공개했다. 백만 토큰당 $0.25라는 저렴한 가격에 2.5배 빠른 응답 속도와 45% 높은 처리량을 제공한다. 합리적인 추론 능력(GPQA Diamond 86.9%)을 유지하면서 대규모 워크로드용 '가성비 최강' AI 모델로 위치 지었다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">⚡ AI Digest</span>\n  </div>\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">구글이 3월 3일 'Gemini 3.1 Flash-Lite'를 공개했다. 백만 토큰당 $0.25라는 저렴한 가격에 2.5배 빠른 응답 속도와 45% 높은 처리량을 제공한다. 합리적인 추론 능력(GPQA Diamond 86.9%)을 유지하면서 대규모 워크로드용 '가성비 최강' AI 모델로 위치 지었다.</p>\n  </div>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Gemini 3.1 Flash-Lite는 Google Gemini 3 시리즈의 경량 버전으로, 비용과 속도 최적화에 특화됐다. 선행 모델인 Gemini 2.5 Flash 대비 2.5배 빠른 첫 토큰 생성(time-to-first-token)과 45% 향상된 출력 속도를 자랑한다. Google AI Studio와 Vertex AI에서 프리뷰 형태로 공개되었으며, 아레나AI 벤치마크에서 Elo 스코어 1432를 기록했다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">핵심 혁신은 '규모의 경제성(intelligence at scale)'이다. Flash-Lite는 실시간 번역, 콘텐츠 모더레이션, 동적 인터페이스 생성 같이 비용과 속도가 중요한 대량 작업용으로 설계됐다. 개발자가 요청마다 'thinking level'을 조정해 계산량을 선택할 수 있으며, 챗봇 답변은 즉각적으로, 복잡한 분석은 깊이 있게 처리 가능하다. 이는 OpenAI 및 Anthropic의 고가격 최신 모델과 달리 접근성 높은 선택지를 제공한다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">저가 고속 AI 모델의 등장은 에듀테크 스타트업과 교육기관의 AI 도입 진입장벽을 획기적으로 낮춘다. 개별 학교, 지역 교육청, 소규모 EdTech 기업도 대규모 학습자용 실시간 챗봇, 자동 채점 시스템, 언어 학습 플랫폼을 저렴하게 구축할 수 있게 된다. 특히 다언어 학습, 개인화 학습 경로 생성, 학습 진도 피드백 제공 같은 고빈도 작업에 최적화되어 글로벌 교육 접근성 확대의 촉매가 될 전망이다.</p>\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.devflokers.com/blog/ai-breakthroughs-march-2026\" style=\"color:#FF6B35;text-decoration:none;\">DevFlokers</a></p>\n  </div>\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "edtech"
+    ],
+    "meta_title": "구글 Gemini 3.1 Flash-Lite 출시, 저가 AI 모델이 교육 접근성 혁신",
+    "meta_description": "백만 토큰당 $0.25의 구글 Gemini 3.1 Flash-Lite가 에듀테크 스타트업 진입장벽을 낮춘다. 실시간 AI 교육 도구의 대중화 전망.",
+    "word_count": 530
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T12:05:21Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T21:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "publish_failed",
+      "timestamp": "2026-03-10T12:35:25.235Z",
+      "details": "Ghost API error 401: {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"9cc916b0-1c7d-11f1-a253-6331647287ad\",\"ghostErrorCode\":null}]}"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-10T12:35:54.523Z"
+    }
+  ],
+  "error": {
+    "agent": "digest-publisher",
+    "action": "publish_failed",
+    "timestamp": "2026-03-10T12:35:25.235Z",
+    "error_message": "Ghost API error 401: {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"9cc916b0-1c7d-11f1-a253-6331647287ad\",\"ghostErrorCode\":null}]}"
+  },
+  "publish_result": {
+    "ghost_post_id": "69b0102ae303e00001e2f8c4",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b0102ae303e00001e2f8c4",
+    "public_url": "https://ubion.ghost.io/gugeul-gemini-31-flashlite-jeoga-gosog-ai-modelro-jeobgeunseong-hyeogsin/",
+    "status": "published",
+    "published_at": "2026-03-10T12:35:54.523Z"
+  }
+}

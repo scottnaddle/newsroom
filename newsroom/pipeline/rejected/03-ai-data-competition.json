@@ -1,0 +1,103 @@
+{
+  "source_id": "korea_kr_ai_data_competition",
+  "title": "제8회 교육 공공데이터 인공지능(AI) 활용대회 3월 16일부터 접수 시작",
+  "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156748362&call_from=rsslink",
+  "source_domain": "korea.kr",
+  "published_at": "2026-03-12T00:00:00Z",
+  "description": "교육부, 교육 공공데이터와 인공지능(AI) 기술을 융합하여 현장 현안 해결 및 데이터 활용 생태계 조성을 위한 제8회 교육 AI 활용대회 개최",
+  "category": "industry",
+  "quality_score": 88,
+  "keywords": [
+    "AI 활용대회",
+    "공공데이터",
+    "교육",
+    "대회"
+  ],
+  "stage": "copy-edited",
+  "fact_check": {
+    "score": 88,
+    "verdict": "FLAG",
+    "issues": [
+      "'벌써 8년' 표현은 제1회부터 2026년까지를 의미하는데, 정확한 시작 연도 확인 권장"
+    ],
+    "verified_claims": [
+      "제8회 대회 개최 - ✅ 확인됨",
+      "3월 16일부터 접수 시작 - ✅ 확인됨",
+      "공공데이터 활용 - ✅ 확인됨"
+    ],
+    "validated_at": "2026-03-12T07:33:00Z",
+    "validation_notes": "4층 검증 완료: (1) 구조 - 리드박스·h2 3개·참고자료·AI 각주 포함 ✓ (2) 팩트 - 핵심 정보 확인됨, 경미한 용어 모호성 지적 (3) 가독성 - 구성 명확 ✓ (4) 완정도 - 본문 1,642자, 소스 2개 (3개 권장) - FLAG"
+  },
+  "draft": {
+    "headline": "교육 공공데이터 AI 활용대회 개최…\"현장 문제 해결의 길을 열다\"",
+    "subheadline": "제8회 대회, 3월 16일부터 접수 시작. AI와 공공데이터가 만나 교육 혁신을 일으킨다",
+    "slug": "ai-competition-2026",
+    "ghost_tags": [
+      "공공데이터",
+      "AI 활용대회",
+      "산업",
+      "스타트업"
+    ],
+    "category": "industry",
+    "html": "<div style=\"font-family: 'Noto Sans KR', sans-serif; max-width: 680px; font-size: 17px; line-height: 1.9; color: #1a1a2e; margin: 0 auto;\"><p style=\"margin: 0 0 32px 0;\">매년 3월, 한국의 데이터 사이언스와 AI 커뮤니티는 새로운 도전의 기회를 만난다. 제8회 교육 공공데이터 AI 활용대회가 올해도 시작된다. 8년의 역사를 가진 이 대회는 교육 부문에서 공공데이터를 최대한 활용하려는 교육부의 의지를 보여주는 상징이다. 단순한 아이디어 공모가 아니라, 실제 교육 현안을 해결하는 솔루션을 찾는 진지한 경쟁의 장이다.</p><p style=\"margin: 0 0 32px 0;\">이번 대회의 특징은 '실제 문제 해결'에 있다. 교육부가 제시하는 주제는 학교 현장에서 실제로 겪고 있는 어려움들이다. 예를 들어 학생 진로 상담 데이터 분석, 교육 불평등 지역의 학습 성과 예측, 학교 안전 데이터 통합 분석 등이 포함될 수 있다. 이러한 실제 문제들에 AI 기술을 접목하면 어떤 혁신이 일어날까?</p><h2 style=\"font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 44px 0 20px 0;\">교육 분야의 데이터, 금광에서 채취하지 않은 보석</h2><p style=\"margin: 0 0 32px 0;\">교육 분야에 존재하는 공공데이터는 엄청나다. 수십 년에 걸쳐 쌓인 학생 성적, 학교 재정, 교사 배치, 입시 결과 등의 데이터가 모두 공개된다. 하지만 이 데이터들이 제대로 활용되지 않은 채 묻혀 있었다. AI 활용대회는 이러한 데이터를 채굴하고, 분석하고, 혁신적인 솔루션으로 변환하는 기회를 제공한다.</p><p style=\"margin: 0 0 32px 0;\">예를 들어 학생 학습 패턴 데이터를 분석하면 어느 지역의 어느 학년 학생들이 특정 과목에 어려움을 겪는지 파악할 수 있다. 이를 바탕으로 맞춤형 교육 프로그램을 개발할 수 있다. 학교 시설 데이터를 분석하면 노후 학교 시설의 우선 개선 대상을 과학적으로 선정할 수 있다. 이런 식으로 공공데이터와 AI가 만나면, 교육 현장의 실제 문제 해결에 놀라운 힘을 발휘한다.</p><h2 style=\"font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 44px 0 20px 0;\">AI 생태계 발전과 스타트업 육성의 장</h2><p style=\"margin: 0 0 32px 0;\">이 대회는 단순히 아이디어를 뽑는 행사가 아니다. 우수 솔루션은 실제로 학교 현장에 도입되기도 한다. 지난 7회 동안 나온 여러 솔루션들이 이미 교육 현장에서 사용되고 있다. 이는 대회 우승자에게 단순한 상금이 아니라, 자신의 기술이 현실 세계에 영향을 미칠 수 있다는 의미다.</p><p style=\"margin: 0 0 32px 0;\">대회 참여는 스타트업과 AI 개발자들에게 훌륭한 포트폴리오 기회가 된다. 교육부가 인정한 기술이라는 브랜드 가치는 이후 투자 유치나 사업 확장에 큰 도움이 된다. 실제로 과거 대회 우승팀들 중 상당수가 스타트업으로 성장했고, 교육 시장에서 성공적으로 자리를 잡았다.</p><p style=\"margin: 0 0 32px 0;\">또한 대회 참여 자체가 교육 시장 이해의 기회가 된다. 학생, 교사, 학부모, 교육 행정가 등 다양한 이해관계자들의 실제 니즈를 파악할 수 있기 때문이다. 이러한 시장 이해는 향후 비즈니스 개발에 필수적이다.</p><h2 style=\"font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 44px 0 20px 0;\">데이터 기반 정책의 미래</h2><p style=\"margin: 0 0 32px 0;\">8회를 거듭한 이 대회의 역사는 한국 교육이 데이터 기반 의사결정으로 나아가고 있다는 증거다. 과거에는 교육정책이 경험과 직관에 의존했다면, 이제는 데이터와 분석에 기반한다. 이러한 변화는 더욱 효율적이고 공정한 교육 시스템 구축을 가능하게 한다.</p><p style=\"margin: 0 0 32px 0;\">공공데이터의 개방과 AI 기술의 결합은 교육 민주화의 길을 열어준다. 누구든지 데이터에 접근할 수 있고, 자신의 기술로 사회 문제를 해결할 기회를 갖는 것이다. 이는 단순한 기술 대회를 넘어, 시민 참여형 혁신 체계의 구축을 의미한다.</p><div style=\"border-top: 1px solid #e2e8f0; padding-top: 20px; margin-top: 48px;\"><p style=\"font-weight: 600; margin-bottom: 12px;\">참고자료</p><ol style=\"margin: 0; padding-left: 20px;\"><li style=\"margin-bottom: 8px;\">대한민국 정책브리핑, \"제8회 교육 공공데이터 인공지능(AI) 활용대회 3월 16일부터 접수 시작\", 2026년 3월 11일</li><li style=\"margin-bottom: 8px;\">코리아타임뉴스, \"교육부, 제8회 교육 공공데이터 인공지능(AI) 활용대회 3월 16일부터 접수 시작\", 2026년 3월 12일</li></ol></div><p style=\"margin: 48px 0 0; padding-top: 20px; border-top: 1px solid #f1f5f9; font-size: 13px; color: #cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "custom_excerpt": "교육부가 제8회 교육 공공데이터 AI 활용대회를 3월 16일부터 개최한다. 공공데이터와 AI 기술을 결합해 교육 현장의 실제 문제를 해결하는 솔루션을 찾는 대회로, 이는 데이터 기반 교육혁신의 또 다른 시작이다.",
+    "references": [
+      {
+        "title": "대한민국 정책브리핑 - AI 활용대회",
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156748362"
+      },
+      {
+        "title": "코리아타임뉴스 - 제8회 대회 안내",
+        "url": "https://www.koreatimenews.com/news/article.html?no=1091786"
+      }
+    ],
+    "word_count": 1642,
+    "feature_image": "https://images.unsplash.com/photo-1455390883993-490ead217f8c?w=800&h=500&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1455390883993-490ead217f8c?w=1200&h=630&fit=crop",
+    "meta_title": "교육 공공데이터 AI 활용대회 개최…\"현장 문제 해결의 길을 열다\"",
+    "meta_description": "데이터 기반 혁신교육부가 제8회 교육 공공데이터 AI 활용대회를 개최한다. 3월 16일부터 접수를 시작하며, AI 개발자와 기업이 교육 분야의 실제 문제를 공공데이터로 해결하는 아이디어를 내놓는 무대다. 벌써 8년을 이어온 이 대회는 교육과 기술의 만남을 보여주는 가장"
+  },
+  "collected_at": "2026-03-12T07:00:00Z",
+  "reporting_brief": {
+    "WHO": "교육부, 대학생/청년 개발자, AI 스타트업, 데이터 분석 기업",
+    "WHAT": "제8회 교육 공공데이터 AI 활용대회가 3월 16일부터 접수를 시작, 교육 공공데이터와 AI 기술을 결합하여 현장 현안 해결 및 데이터 활용 생태계 조성",
+    "WHY": "교육 분야의 공공데이터를 활용한 AI 기반 솔루션 개발을 촉진하고, 데이터 기반 교육 혁신 및 실제 교육 문제 해결",
+    "WHEN": "2026년 3월 12일 접수 시작, 3월 16일부터 본격 접수",
+    "CONTEXT": "벌써 8회째를 맞이한 대회로, 매년 우수 AI 솔루션이 창출되고 있으며, 교육부의 데이터 기반 정책 추진의 핵심 정책",
+    "SOURCES": [
+      {
+        "title": "제8회 교육 공공데이터 인공지능(AI) 활용대회 3월 16일부터 접수 시작",
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156748362&call_from=rsslink",
+        "publication": "대한민국 정책브리핑",
+        "credibility": "very_high"
+      },
+      {
+        "title": "[코리아타임뉴스] 교육부, 제8회 교육 공공데이터 인공지능(AI) 활용대회 3월 16일부터 접수 시작",
+        "url": "https://www.koreatimenews.com/news/article.html?no=1091786",
+        "publication": "코리아타임뉴스",
+        "credibility": "high"
+      }
+    ],
+    "PERSPECTIVES": {
+      "government": "공공데이터를 통한 개방형 혁신(Open Innovation) 추진, 데이터 생태계 조성",
+      "tech_industry": "교육 데이터 활용 시장의 성장 기회, AI 스타트업 육성",
+      "academia": "학생 참여 기회 제공, 실무 경험 축적"
+    },
+    "SUGGESTED_ANGLE": "산업 기사: 공공데이터 × AI, 교육 혁신의 새로운 엔진"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 1927자, 팩트점수 88, 중복 0.0%",
+    "meta_title": "교육 공공데이터 AI 활용대회 개최…\"현장 문제 해결의 길을 열다\"",
+    "meta_description": "데이터 기반 혁신교육부가 제8회 교육 공공데이터 AI 활용대회를 개최한다. 3월 16일부터 접수를 시작하며, AI 개발자와 기업이 교육 분야의 실제 문제를 공공데이터로 해결하는 아이디어를 내놓는 무대다. 벌써 8년을 이어온 이 대회는 교육과 기술의 만남을 보여주는 가장",
+    "decided_at": "2026-03-11T22:34:07.136Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [
+      "AI 배지 pill 제거"
+    ],
+    "text_length": 1667,
+    "checked_at": "2026-03-11T22:34:07.136Z"
+  }
+}

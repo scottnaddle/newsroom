@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Google deepens Pentagon AI push after Anthropic sues Trump administration",
+    "url": "https://www.cnbc.com/2026/03/10/google-deepens-pentagon-ai-push-after-anthropic-sues-trump-admin.html",
+    "source_name": "CNBC",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Google AI chief Jeff Dean and over two dozen employees from OpenAI and Google signed an amicus brief backing Anthropic in its Pentagon lawsuit. The move signals unexpected industry solidarity on government AI policy and raises questions about competitive dynamics in defense AI contracts.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-11T02:05:00Z"
+  },
+  "digest": {
+    "headline": "Google, 펜타곤 AI 에이전트 확대 추진... 비분류 업무부터 시작",
+    "lead": "Google는 펜타곤의 GenAI.mil 포털 내 'Agent Designer' 기능을 출시해 군 공무원들이 자체 AI 에이전트를 개발하도록 지원한다고 발표했다. 300만 명 이상의 국방부 인력이 회의록 작성, 업무 항목 생성 등 반복 행정 업무 자동화에 사용할 수 있게 된다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">Google는 펜타곤의 GenAI.mil 포털 내 'Agent Designer' 기능을 출시해 군 공무원들이 자체 AI 에이전트를 개발하도록 지원한다. 300만 명 이상의 국방부 인력이 반복 행정 업무를 자동화할 수 있으며, 향후 비분류 네트워크를 넘어 분류 및 극비 환경으로 확대될 가능성이 높다.</p>\n  </div>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Anthropic이 국방부로부터 '공급망 위험' 지정을 받으면서 펜타곤의 AI 공급 구도가 급변하고 있다. 그간 유일한 AI 제공사였던 Anthropic 대신 OpenAI, xAI(머스크), 그리고 Google이 새로운 국방부 계약자로 추가되었다. 국방부 기술책임자 Emil Michael은 Bloomberg에 \"Google이 모든 네트워크에서 훌륭한 파트너\"가 될 것이라며 높은 기대감을 드러냈고, Anthropic과의 분쟁은 \"법원을 통해 해결되지 않을 것\"이라고 언급했다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">Google의 Gemini AI가 펜타곤 업무 자동화 플랫폼의 핵심이 됨으로써, 미국 국방부는 데이터 처리 능력과 의사결정 속도를 크게 향상시킬 것으로 기대된다. 반복 업무 자동화부터 시작해 분류 네트워크로 확대될 경우, 군사 작전 자동화는 가속될 가능성이 높다. 동시에 Google 직원들이 Anthropic의 소송을 지지하는 법정 의견서에 참여한 점은 국방 AI 정책의 투명성과 안전성에 대한 업계 내 우려를 반영한다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">정부의 AI 에이전트 활용 확대는 교육 현장의 비용 절감과 효율화에도 영향을 미친다. 저렴한 AI 도구로 대량의 교육 행정 업무를 자동화할 수 있다면, 학교들도 유사한 시스템 도입을 추진할 가능성이 높다. 동시에 Google 제품의 영향력 확대는 교육 기관의 데이터 보호와 벤더 종속 문제를 야기할 수 있으므로, 에듀테크 선택 시 투명성과 데이터 주권을 고려하는 기준이 필수적이다.</p>\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.cnbc.com/2026/03/10/google-deepens-pentagon-ai-push-after-anthropic-sues-trump-admin.html\" style=\"color:#FF6B35;text-decoration:none;\">CNBC</a></p>\n  </div>\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "google"
+    ],
+    "meta_title": "Google, 펜타곤 AI 에이전트 Agent Designer 출시",
+    "meta_description": "Google Gemini, 미국 국방부 GenAI.mil 포털에 통합. 군 인력 자동화 도구로 확대되며 분류 네트워크 진출 예상.",
+    "word_count": 569
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T02:05:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T02:15:32Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-11T05:36:18.810Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b0ff525d8fee00015089d6",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b0ff525d8fee00015089d6",
+    "public_url": "https://ubion.ghost.io/google-pentagon-ai-eijeonteu-hwagdae-cujin-bibunryu-eobmubuteo-sijag/",
+    "status": "published",
+    "published_at": "2026-03-11T05:36:18.000Z"
+  }
+}

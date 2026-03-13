@@ -1,0 +1,52 @@
+{
+  "id": "1773223271096-4f22nlol8",
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.fnnews.com/news/202603060924006992",
+    "title": "'수업 준비는 빠르게, 학급 운영은 스마트하게'… 미래엔 '엠티처' 전면 개편",
+    "query": "에듀테크 AI 학교",
+    "discovered_at": "2026-03-11T10:01:11.096Z"
+  },
+  "reporting_brief": {
+    "headline": "미래엔 '엠티처', AI 기반 교수활동 지원 플랫폼으로 전면 리뉴얼"
+  },
+  "draft": {
+    "headline": "'엠티처' 리뉴얼, AI가 교사의 수업 부담을 덜어주다",
+    "word_count": 1876
+  },
+  "fact_check": {
+    "score": 90,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "미래엔 2026년 새 학기 엠티처 리뉴얼 오픈 - 검증됨",
+      "2022 개정 교육과정 반영 - 검증됨",
+      "AI 클래스, MakeX 저작도구, 카드톡 등 서비스 - 검증됨",
+      "자동 채점 학습지 기능 - 검증됨",
+      "7000여 개 문항 무료 활용 가능 (MakeX) - 검증됨",
+      "김효정 디지털사업실장 인용문 - 검증됨",
+      "개인 맞춤형 서비스 강화 - 검증됨",
+      "어드벤트 캘린더, 아이엠티처 챌린지 등 이벤트 - 검증됨"
+    ],
+    "validation_method": "web_search (3개 보도사 기사) + 공식 발표문 교차 검증",
+    "structure_check": {
+      "lead_box": true,
+      "h2_sections": 4,
+      "references": true,
+      "ai_footer": true,
+      "passed": true
+    },
+    "content_check": {
+      "word_count_1600plus": true,
+      "min_sources_3": true,
+      "tone_consistency": true,
+      "readability": true,
+      "passed": true
+    },
+    "validated_at": "2026-03-11T10:30:50Z"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

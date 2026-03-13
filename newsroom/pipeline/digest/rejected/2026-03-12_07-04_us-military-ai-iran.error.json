@@ -1,0 +1,6 @@
+{
+  "filename": "2026-03-12_07-04_us-military-ai-iran.json",
+  "error": "HTML validation failed: Insufficient content (885 chars, need 1600+)",
+  "timestamp": "2026-03-11T23:34:00.133Z",
+  "stack": "Error: HTML validation failed: Insufficient content (885 chars, need 1600+)\n    at processDigestFile (/root/.openclaw/workspace/newsroom/pipeline/digest/publisher.js:157:13)\n    at main (/root/.openclaw/workspace/newsroom/pipeline/digest/publisher.js:283:26)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)"
+}

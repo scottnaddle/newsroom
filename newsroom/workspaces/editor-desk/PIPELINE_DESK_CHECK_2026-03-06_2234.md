@@ -44,7 +44,7 @@
 |------------|-----|----------|------|
 | Feature Image | Unsplash (photo-1581091226825...) | HTTP 200 | ✅ PASS |
 | OG Image | Ghost CDN (og-card-smart-device.png) | HTTP 200 | ✅ PASS |
-| Ghost Post | https://insight.ubion.global/... | HTTP 200 | ✅ PASS |
+| Ghost Post | https://ubion.ghost.io/... | HTTP 200 | ✅ PASS |
 
 **이스케이프 검사**: `&amp;` 없음 ✅
 

@@ -156,7 +156,7 @@ async function main() {
   console.log(`⚠️  실패: ${failed}개`);
   console.log(`⏭️  스킵: ${skipped}개`);
   console.log(`\n📝 새로운 published 기사들이 Ghost에 생성되었습니다.`);
-  console.log(`🔍 확인: https://insight.ubion.global/ghost/#/editor/post/`);
+  console.log(`🔍 확인: https://ubion.ghost.io/ghost/#/editor/post/`);
 }
 
 main().catch(err => {

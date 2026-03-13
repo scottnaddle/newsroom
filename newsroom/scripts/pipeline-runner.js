@@ -19,6 +19,8 @@ const { spawnSync } = require('child_process');
 const NEWSROOM = '/root/.openclaw/workspace/newsroom';
 const PIPELINE = path.join(NEWSROOM, 'pipeline');
 const MEMORY = path.join(PIPELINE, 'memory');
+const { getFeatureImageUrl } = require('./get-feature-image.js');
+const USED_IMAGES_FILE = path.join(MEMORY, 'used-images.json');
 
 const DIRS = {
   sourced:      path.join(PIPELINE, '01-sourced'),
@@ -109,6 +111,20 @@ function stageEditorDesk(fp) {
     fs.unlinkSync(fp);
     return null;
   }
+  
+  // ⚠️ CRITICAL: 이미지 자동 할당 (없으면 생성)
+  if (!draft.feature_image || !draft.og_image) {
+    const headline = draft.headline || art.source?.title || 'AI 교육 뉴스';
+    const tags = draft.ghost_tags || art.tags || [];
+    const featureImage = getFeatureImageUrl({
+      headline,
+      tags,
+      recentIdsFile: USED_IMAGES_FILE
+    });
+    draft.feature_image = featureImage;
+    draft.og_image = featureImage;
+    log('INFO', `[Stage4:이미지] 자동 할당: ${featureImage}`);
+  }
 
   const headline = draft.headline || '';
   const dup = checkDuplicate(headline);
@@ -183,6 +199,20 @@ function stageCopyEditor(fp) {
     writeJSON(path.join(DIRS.rejected, fn), art);
     fs.unlinkSync(fp);
     return null;
+  }
+  
+  // ⚠️ CRITICAL: 이미지 자동 할당 (없으면 생성)
+  if (!draft.feature_image || !draft.og_image) {
+    const headline = draft.headline || art.source?.title || 'AI 교육 뉴스';
+    const tags = draft.ghost_tags || art.tags || [];
+    const featureImage = getFeatureImageUrl({
+      headline,
+      tags,
+      recentIdsFile: USED_IMAGES_FILE
+    });
+    draft.feature_image = featureImage;
+    draft.og_image = featureImage;
+    log('INFO', `[Stage5:이미지] 자동 할당: ${featureImage}`);
   }
 
   // Clean HTML

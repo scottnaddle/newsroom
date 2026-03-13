@@ -1,0 +1,35 @@
+{
+  "stage": "drafted",
+  "pipeline": "digest",
+  "source": {
+    "title": "US military confirms use of 'advanced AI tools' in war against Iran",
+    "url": "https://www.aljazeera.com/news/2026/3/11/us-military-confirms-use-of-advanced-ai-tools-in-war-against-iran",
+    "source_name": "Al Jazeera",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Brad Cooper, head of the US Central Command (CENTCOM), said that AI is helping US soldiers process troves of data. The US military has officially confirmed the use of advanced AI tools in operational contexts, marking a significant milestone in military AI deployment.",
+    "published_date": "2026-03-11",
+    "collected_at": "2026-03-12T07:04:00Z"
+  },
+  "digest": {
+    "headline": "미군, 실전에서 AI 도구 사용 공식 인정…'인간의 최종 결정' 강조",
+    "lead": "미국 중부군 사령관은 AI가 방대한 데이터를 초 단위에 분석하는 데 사용되고 있지만, 최종 결정은 인간이 한다고 강조했다. 정부 기관의 실전 AI 활용 공식화는 규제와 책임성 논의에 새로운 장을 열었다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 중부군 사령관은 AI가 방대한 데이터를 초 단위에 분석하는 데 사용되고 있지만, 최종 결정은 인간이 한다고 강조했다. 정부 기관의 실전 AI 활용 공식화는 규제와 책임성 논의에 새로운 장을 열었다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">미 중부군 사령부(CENTCOM)의 브래드 쿠퍼 사령관은 수일 전 AI가 '실전'에서 사용되고 있음을 공식 인정했다. AI 시스템이 방대한 양의 데이터를 초 단위로 분석해 지휘관들의 의사결정을 빠르게 하는 데 활용되고 있다는 설명이다. 다만 쿠퍼 사령관은 '누구를 공격할 것인가'라는 최종 결정은 여전히 인간 판단에 의존한다고 명확히 했다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 공식 인정은 정부의 고위험 의사결정 시스템에 AI가 본격 도입되었음을 의미한다. 하지만 동시에 인권 단체들의 우려도 커지고 있다. AI 기반 분석이 얼마나 객관적인지, 차별적 결과를 초래하지는 않는지에 대한 검증 체계 부재 때문이다. 향후 정부는 AI 시스템의 투명성과 감시 메커니즘을 구축해야 할 것으로 예상된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">정부 차원의 AI 활용 공식화는 교육 분야에 중요한 규제 신호다. 학교의 학생 데이터 분석(성적 예측, 학습 패턴 추적 등)이 갖는 윤리적 우려가 국방 영역에서도 동일하게 제기되고 있기 때문이다. 에듀테크 업체들은 자신들의 AI 시스템이 어떤 기준으로 학생 데이터를 분석하는지, 그 결과가 얼마나 객관적인지를 명확히 공시해야 할 필요성이 높아질 것으로 보인다. 이미 EU 등에서 추진 중인 AI 투명성 규제가 교육 분야로도 빠르게 확산될 가능성이 커졌다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.aljazeera.com/news/2026/3/11/us-military-confirms-use-of-advanced-ai-tools-in-war-against-iran\" style=\"color:#FF6B35;text-decoration:none;\">Al Jazeera</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": ["ai-digest", "ai", "regulation"],
+    "meta_title": "미군, 실전 AI 도구 사용 공식 인정…투명성·책임성 논의 확대",
+    "meta_description": "정부 의사결정 시스템의 AI 활용 공식화. 투명성과 윤리 규제 강화가 에듀테크에 미치는 영향.",
+    "word_count": 480
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-12T07:04:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-12T07:45:00Z"
+    }
+  ]
+}

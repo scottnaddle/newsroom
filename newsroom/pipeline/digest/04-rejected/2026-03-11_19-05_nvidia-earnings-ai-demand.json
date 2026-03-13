@@ -1,0 +1,48 @@
+{
+  "stage": "rejected",
+  "pipeline": "digest",
+  "source": {
+    "title": "Citi Picks Its 'Top 4 AI Chip Stocks' after Earnings",
+    "url": "https://www.tipranks.com/news/citi-picks-its-top-4-ai-chip-stocks-after-earnings",
+    "source_name": "TipRanks",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Nvidia delivered strong quarterly earnings beating sales and earnings estimates amid rising AI demand from hyperscalers, reporting $68.1 billion in sales, a 73% increase year-over-year, reinforcing its AI chip leadership.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-11T19:05:00Z"
+  },
+  "digest": {
+    "headline": "엔비디아 분기 실적 73% 증장, AI 칩 리더십 공고",
+    "lead": "엔비디아가 강한 분기별 실적으로 AI 칩의 리더십을 재확인했다. 매출 681억 달러로 전년도 대비 73% 증가했으며, 하이퍼스케일러들의 지속적인 AI 투자가 원동력이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">엔비디아가 강한 분기별 실적으로 AI 칩의 리더십을 재확인했다. 매출 681억 달러로 전년도 대비 73% 증가했으며, 하이퍼스케일러들의 지속적인 AI 투자가 원동력이다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">엔비디아가 시장 예상을 초과하는 분기별 실적을 발표했다. 매출은 681억 달러로 전년도 같은 분기 대비 73% 증가했으며, 순이익과 EPS도 모두 컨센서스를 뛰어넘었다. 이는 구글, 아마존, 메타, 마이크로소프트 등 글로벌 하이퍼스케일러들이 생성형 AI 개발과 배포를 위해 고급 GPU 칩에 대한 투자를 계속 늘리고 있음을 반증한다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">엔비디아의 강세는 AI 인프라 경쟁이 앞으로도 지속될 것임을 시사한다. 생성형 AI 시대에 고성능 반도체는 필수 자산이 되었으며, 엔비디아의 GPU 공급 독점력은 당분간 유지될 것으로 전망된다. 이러한 추세는 AI 산업 전반의 성장이 반도체 공급 능력에 달려 있음을 보여준다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">엔비디아의 강한 실적은 AI 기반 교육 솔루션의 인프라 비용 구조에 직결된다. 고가의 GPU 칩 수요가 계속되면 AI 트레이닝과 서빙에 필요한 인프라 비용이 올라갈 수 있으며, 이는 에듀테크 스타트업의 AI 모델 개발 진입장벽을 높일 수 있다. 반면 클라우드 기반 AI 서비스는 더욱 중요해질 것이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.tipranks.com/news/citi-picks-its-top-4-ai-chip-stocks-after-earnings\" style=\"color:#FF6B35;text-decoration:none;\">TipRanks</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "nvidia"
+    ],
+    "meta_title": "엔비디아 분기 실적 73% 증가, AI 칩 리더십 공고",
+    "meta_description": "엔비디아가 681억 달러 분기 매출로 시장 예상을 뛰어넘었다. 하이퍼스케일러들의 AI 투자로 GPU 칩 수요는 계속될 전망이다.",
+    "word_count": 530
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T19:05:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T19:45:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "rejected",
+      "reason": "Cannot read properties of undefined (reading 'substring')",
+      "timestamp": "2026-03-11T11:35:36.491Z"
+    }
+  ],
+  "rejection_reason": "Cannot read properties of undefined (reading 'substring')",
+  "rejected_at": "2026-03-11T11:35:36.491Z"
+}

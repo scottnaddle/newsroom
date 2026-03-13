@@ -37,7 +37,7 @@
   },
   "publish_result": {
     "ghost_post_id": "69ab3c45ff4fbf0001ab7103",
-    "ghost_post_url": "https://insight.ubion.global/ai-gyoyuk-hwangyeong-jeollyak/",
+    "ghost_post_url": "https://ubion.ghost.io/ai-gyoyuk-hwangyeong-jeollyak/",
     "status": "published",
     "published_at": "2026-03-06T20:42:45.000Z",
     "feature_image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop&q=85&auto=format"
@@ -83,7 +83,7 @@
       "agent": "publisher",
       "action": "published",
       "timestamp": "2026-03-07T05:42:45+09:00",
-      "note": "Ghost에 PUBLISHED로 게시 완료: https://insight.ubion.global/ai-gyoyuk-hwangyeong-jeollyak/"
+      "note": "Ghost에 PUBLISHED로 게시 완료: https://ubion.ghost.io/ai-gyoyuk-hwangyeong-jeollyak/"
     }
   ],
   "fact_check": {

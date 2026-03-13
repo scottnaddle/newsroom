@@ -35,7 +35,11 @@
       }
     ],
     "word_count": 950,
-    "category": "policy"
+    "category": "policy",
+    "feature_image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.787Z",
+    "image_verified": false
   },
   "quality_report": {
     "structure_score": 100,
@@ -187,13 +191,13 @@
       "agent": "publisher",
       "action": "published-draft",
       "timestamp": "2026-03-06T08:26:38.251Z",
-      "note": "Ghost draft URL: https://insight.ubion.global/ghost/#/editor/post/69aa8fbdff4fbf0001ab6ed9"
+      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69aa8fbdff4fbf0001ab6ed9"
     },
     {
       "agent": "publisher",
       "action": "published-draft",
       "timestamp": "2026-03-06T14:08:36.616Z",
-      "note": "Ghost draft URL: https://insight.ubion.global/ghost/#/editor/post/69aadfe4ff4fbf0001ab6fe1"
+      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69aadfe4ff4fbf0001ab6fe1"
     }
   ],
   "desk_review": {
@@ -207,11 +211,5 @@
       "포춘 500 기업 30% - 원문만 확인"
     ],
     "recommendation": "발행 가능하나 추후 검증 권장"
-  },
-  "publish_result": {
-    "ghost_post_id": "69aadfe4ff4fbf0001ab6fe1",
-    "ghost_draft_url": "https://insight.ubion.global/ghost/#/editor/post/69aadfe4ff4fbf0001ab6fe1",
-    "status": "published",
-    "published_at": "2026-03-06T14:08:36.616Z"
   }
 }

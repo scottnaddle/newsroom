@@ -78,7 +78,11 @@
     "word_count": 1062,
     "category": "policy",
     "meta_title": "\"지진이 온다\" — 미국 대학 총장 3인이 경고한 AI 구조조정의 실체",
-    "meta_description": "미국교육위원회(ACE) 연례 컨퍼런스에서 대학 총장 3인이 AI로 인한 고등교육 구조조정을 '지진'에 비유했다. 스탠퍼드 CS 전공 등록은 10년 성장세를 꺾고 20% 감소했으며, 유학생 신규 등록은 17% 줄었다. \"여진은 아직 시작도 안 했다\"는 경고가 나온다. A"
+    "meta_description": "미국교육위원회(ACE) 연례 컨퍼런스에서 대학 총장 3인이 AI로 인한 고등교육 구조조정을 '지진'에 비유했다. 스탠퍼드 CS 전공 등록은 10년 성장세를 꺾고 20% 감소했으며, 유학생 신규 등록은 17% 줄었다. \"여진은 아직 시작도 안 했다\"는 경고가 나온다. A",
+    "feature_image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.827Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 92,
@@ -108,7 +112,5 @@
     "text_length": 1706,
     "checked_at": "2026-03-09T07:06:58.729Z"
   },
-  "ghost_id": "69ae7193ff4fbf0001ab78b1",
-  "ghost_url": "https://insight.ubion.global/p/3e84f9fb-5d00-467b-920d-5c501e5653ac/",
   "published_at": "2026-03-09T07:06:59.211Z"
 }

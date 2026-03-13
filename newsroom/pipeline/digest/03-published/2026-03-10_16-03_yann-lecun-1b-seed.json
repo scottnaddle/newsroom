@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Yann LeCun's New AI Startup Raises $1 Billion in Seed Funding",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-10/yann-lecun-s-new-ai-startup-raises-1-billion-in-seed-funding",
+    "source_name": "Bloomberg",
+    "language": "en",
+    "relevance_score": 90,
+    "summary": "Yann LeCun, a pioneering AI researcher, has secured $1.03 billion in seed funding for a new startup focused on developing AI technology capable of navigating the real world more effectively than existing systems.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-10T16:03:00Z"
+  },
+  "digest": {
+    "headline": "AI 거장 얀 르쿤, 실세계 AI 스타트업에 10억 달러 시드 펀딩 유치",
+    "lead": "노벨상 수상자이자 AI 선구자인 얀 르쿤이 새로운 스타트업을 창립해 10억 달러 규모의 시드 펀딩을 확보했다. 이 회사는 기존 AI보다 더 효과적으로 현실세계를 헤쳐나갈 수 있는 기술 개발에 초점을 맞추고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">노벨상 수상자이자 AI 선구자인 얀 르쿤이 새로운 스타트업을 창립해 10억 달러 규모의 시드 펀딩을 확보했다. 이 회사는 기존 AI보다 더 효과적으로 현실세계를 헤쳐나갈 수 있는 기술 개발에 초점을 맞추고 있다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">얀 르쿤은 메타를 떠나 새로운 AI 스타트업 설립을 추진해왔다. 이번 103억 달러의 시드 펀딩은 물리적·현실적 환경에서 작동하는 더 똑똑한 AI 시스템을 개발하겠다는 비전에 투자자들의 강한 신뢰를 반영한다. 르쿤은 AI 분야에서 deep learning의 거장으로 인정받으며, 그의 새로운 벤처는 현실 세계 로봇공학, 자율주행, 현장 실무 AI 솔루션 등에 초점을 맞출 것으로 예상된다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">현재 대부분의 생성형 AI는 텍스트·이미지 중심이지만, 르쿤의 새 회사는 '구체적인 물리 세계에서 추론·행동할 수 있는 AI'라는 미래 지향적 기술을 추구한다. 이는 AI 기술이 더욱 실용적이고 구체적인 문제 해결로 진화한다는 신호다. 시드 단계에서 10억 달러라는 거액이 모인 것은 AI 산업의 투자 열기와 차세대 AI 기술에 대한 기대가 어느 정도인지를 보여준다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">현실 세계 상황에 대응하는 AI 기술의 발전은 교육 현장의 AI 적용에 새로운 가능성을 열어준다. 실제 학습 환경(교실, 야외 실습, 프로젝트 기반 학습)에서 학생 상황을 인식하고 적응적으로 지도할 수 있는 교육용 AI의 개발이 가능해진다. 또한 직업 교육·기술 훈련 분야에서 실제 작업 환경 기반의 AI 튜토링 시스템 개발도 촉진될 수 있다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.bloomberg.com/news/articles/2026-03-10/yann-lecun-s-new-ai-startup-raises-1-billion-in-seed-funding\" style=\"color:#FF6B35;text-decoration:none;\">Bloomberg</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "research",
+      "technology",
+      "startup"
+    ],
+    "meta_title": "얀 르쿤 신규 AI 스타트업, 시드 단계 10억 달러 펀딩 조성",
+    "meta_description": "AI 거장 얀 르쿤이 현실 세계 AI 기술 개발을 목표로 새로운 스타트업을 창립, 10억 달러 규모의 시드 투자를 확보했다.",
+    "word_count": 489
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T16:03:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T07:45:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-10T08:39:12.363Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69afd8b015c2cc0001bbe51b",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69afd8b015c2cc0001bbe51b",
+    "public_url": "https://ubion.ghost.io/ai-geojang-yan-reukun-silsegye-ai-seutateueobe-10eog-dalreo-sideu-peonding-yuci/",
+    "status": "published",
+    "published_at": "2026-03-10T08:39:12.000Z"
+  }
+}

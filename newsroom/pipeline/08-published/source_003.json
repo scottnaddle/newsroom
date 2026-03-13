@@ -36,7 +36,11 @@
         "source": "데일리연합"
       }
     ],
-    "word_count": 1780
+    "word_count": 1780,
+    "feature_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.856Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 92,

@@ -46,7 +46,7 @@
 | ③ 중복 검증 스크립트 | ✅ 실행 완료 — KILL 대상 0건 |
 | ④ HTML escape (&amp;) | ✅ 0건 (다이제스트 포함) |
 | ⑤ AI 배지 (상단 pill) | ✅ 0건 |
-| ⑥ 사이트 접근성 | ✅ insight.ubion.global HTTP 200 |
+| ⑥ 사이트 접근성 | ✅ ubion.ghost.io HTTP 200 |
 
 ### 다이제스트 대기 기사 품질 확인
 | 기사 | HTML 길이 | &amp; | 상태 |

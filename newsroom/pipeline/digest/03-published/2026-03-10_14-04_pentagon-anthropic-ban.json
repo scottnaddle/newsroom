@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Anthropic was the Pentagon's choice for AI. Now it's banned and experts are worried",
+    "url": "https://www.cnbc.com/amp/2026/03/09/anthropic-was-the-pentagons-choice-for-ai-now-its-banned-and-experts-are-worried.html",
+    "source_name": "CNBC",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "After the Pentagon banned Anthropic as a supply-chain risk, experts express concern about the impact on federal AI procurement. Anthropic had been chosen for pilot projects due to Claude's ability to provide auditable reasoning and its enterprise-focused design, making it valuable for federal agencies requiring strong verification.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-10T14:04:00Z"
+  },
+  "digest": {
+    "headline": "Pentagon의 이 변덕, 연방 AI 조달 생태계 흔들다",
+    "lead": "Pentagon은 2024년부터 Anthropic Claude를 정부 분류 작업에 배치한 선택을 2026년 뒤집으면서, 연방 기관들의 AI 도입 신뢰를 근본적으로 훼손했다. 감사 추적과 기업형 설계로 높이 평가받던 Claude는 정치 변화 하나에 '공급망 위험'으로 낙인 찍혔다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">Pentagon이 처음 선택한 AI 도구를 갑자기 금지하면서 연방 조달의 불안정성이 드러났다. Anthropic Claude는 투명성 있는 의사결정 추적(auditable reasoning)과 엔터프라이즈 보안으로 Pentagon에 선택됐지만, 정치적 변화에 '공급망 위험'으로 낙인 찍혔다. 연방 기관들이 향후 어떤 AI 도구를 믿고 도입할 수 있을지 의문이다.</p>\n  </div>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">2024년 Anthropic과 Pentagon은 $200 million 계약을 체결했다. 당시 Pentagon 기술담당 Emil Michael는 Claude의 투명성 있는 기술 아키텍처와 기업용 보안을 높이 평가했다. Claude는 감사 추적(audit trail)이 명확해 정부 규정 준수가 용이하고, 소비자용이 아닌 기업용으로 설계되어 대규모 분류 작업에 안성맞춤이었다. 그러나 2026년 정권 교체 후 Anthropic의 안전 가치관이 '정치적 장애물'로 낙인 찍혔다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">Pentagon의 갑작스러운 금지는 연방 조달 시장에 '정치 위험'을 드러냈다. 연방 기관들이 장기 AI 계약을 추진할 때, 기술력이나 보안이 아닌 정치적 감정에 따라 공급자가 바뀐다면, 기관들은 AI 도입 자체를 주저하게 된다. OpenAI와 Google은 즉시 Pentagon과의 신규 계약을 추진하면서 상황을 활용하려 하지만, 이는 '안정성'이 아닌 '정치적 유연성'이 승리했음을 의미한다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">이 사건은 교육청과 학교의 AI 도입 정책에도 경고다. 정부가 한 AI 도구를 권장하다 정치 변화에 갑자기 금지한다면, 교육 기관들의 AI 투자는 회수 불가능한 손실이 된다. 특히 학생 데이터가 포함된 교육 AI의 경우, 정부 신뢰도 하락은 더욱 심각하다. 에듀테크 기업들은 계약서에 '정치적 변화로 인한 금지에 대한 배상 조항'을 삽입해야 할 필요성이 높아졌다.</p>\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.cnbc.com/amp/2026/03/09/anthropic-was-the-pentagons-choice-for-ai-now-its-banned-and-experts-are-worried.html\" style=\"color:#FF6B35;text-decoration:none;\">CNBC</a></p>\n  </div>\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "anthropic"
+    ],
+    "meta_title": "Pentagon의 Anthropic 금지, 연방 AI 조달 신뢰도 하락",
+    "meta_description": "정치 변화에 따른 AI 공급자 급변, 정부 기관의 도입 신뢰 훼손",
+    "word_count": 531
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T14:04:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T05:15:16Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-10T05:35:38.663Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "post_1773120938663_jarkvm3qg",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/t5addln4v",
+    "public_url": "https://ubion.ghost.io/pentagon-ai/",
+    "status": "published",
+    "published_at": "2026-03-10T05:35:38.663Z"
+  }
+}

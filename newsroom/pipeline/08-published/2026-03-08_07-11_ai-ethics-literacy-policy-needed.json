@@ -70,7 +70,11 @@
     "word_count": 1022,
     "category": "policy",
     "meta_title": "AI는 만들었는데 '쓰는 법'은 안 가르친다 — 윤리·리터러시 정책의 빈자리",
-    "meta_description": "국가평생교육진흥원 보고서에 따르면 정부 AI 49개 국정과제 중 윤리·리터러시 비중은 미미하다. 해외는 국가 전략으로 접근하는 반면, 한국은 산하기관 위탁 수준에 머물러 있다."
+    "meta_description": "국가평생교육진흥원 보고서에 따르면 정부 AI 49개 국정과제 중 윤리·리터러시 비중은 미미하다. 해외는 국가 전략으로 접근하는 반면, 한국은 산하기관 위탁 수준에 머물러 있다.",
+    "feature_image": "https://images.unsplash.com/photo-1562408590-e32931084e23?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1562408590-e32931084e23?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.814Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 92,
@@ -85,7 +89,5 @@
   },
   "desk_approved_at": "2026-03-08T09:00:29.018811+09:00",
   "copy_edited_at": "2026-03-08T09:01:00+09:00",
-  "ghost_id": "69acbe39ff4fbf0001ab7448",
-  "ghost_url": "https://insight.ubion.global/p/78d5d299-f65e-4e99-9e2c-2bc028e5d7a7/",
   "published_at": "2026-03-08T00:09:30.031Z"
 }

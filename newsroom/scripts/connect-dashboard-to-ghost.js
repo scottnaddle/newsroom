@@ -9,7 +9,7 @@ const crypto = require('crypto');
 
 // Ghost API 설정
 const GHOST_CONFIG = {
-  host: 'insight.ubion.global',
+  host: 'ubion.ghost.io',
   key: '69a41252e9865e00011c166a:e74e50ce3e6c097ad370d5370633ccbc2a3e3c0627d7ce1fc12a81b4e6b01625',
   pageId: '69a8cadce2eb440001d5584c', // 기존 관제센터 페이지
   version: 'v5.0'
@@ -198,11 +198,11 @@ async function updatePage() {
       console.log('📊 업데이트 정보:');
       console.log(`   제목: ${updatedPage.title}`);
       console.log(`   상태: ${updatedPage.status}`);
-      console.log(`   URL: https://insight.ubion.global/${updatedPage.slug}/\n`);
+      console.log(`   URL: https://ubion.ghost.io/${updatedPage.slug}/\n`);
       
       console.log('🎉 대시보드가 관제센터 페이지에 연결되었습니다!');
-      console.log(`   → https://insight.ubion.global/newsroom-status/`);
-      console.log(`   → https://insight.ubion.global/${updatedPage.slug}/\n`);
+      console.log(`   → https://ubion.ghost.io/newsroom-status/`);
+      console.log(`   → https://ubion.ghost.io/${updatedPage.slug}/\n`);
       
       return updatedPage;
     } else {

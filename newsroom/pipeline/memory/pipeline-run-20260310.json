@@ -1,0 +1,80 @@
+{
+  "run_date": "2026-03-10T16:00:00Z",
+  "status": "partial_success",
+  "summary": {
+    "step1_collection": {
+      "status": "success",
+      "count": 5,
+      "note": "5개 새 기사 수집 (rate limit로 인해 추가 검색 불가)"
+    },
+    "step2_reporting": {
+      "status": "success",
+      "count": 4,
+      "note": "4개 기사 취재 완료, WHO/WHAT/WHY/WHEN/CONTEXT 구조화"
+    },
+    "step3_drafting": {
+      "status": "success",
+      "count": 4,
+      "note": "4개 기사 작성 완료 (평균 1,800자), HTML 형식"
+    },
+    "step4_fact_check": {
+      "status": "success",
+      "count": 4,
+      "pass": 4,
+      "flag": 0,
+      "fail": 0,
+      "note": "모든 기사 PASS (score 90)"
+    },
+    "step5_auto_process": {
+      "status": "partial_failure",
+      "step4_editor": {
+        "status": "success",
+        "count": 4
+      },
+      "step5_copyedit": {
+        "status": "success",
+        "count": 4
+      },
+      "step6_publish": {
+        "status": "failed",
+        "count": 0,
+        "rejected": 4,
+        "error": "Ghost CMS API 연결 오류 (302 Found redirect)"
+      }
+    }
+  },
+  "articles": [
+    {
+      "id": "source-001",
+      "headline": "한국 교육부, AI 중점학교 1,141개교 선정…2026년 385억 원 지원으로 'AI 디지털 시대' 본격화",
+      "word_count": 1850,
+      "fact_check_score": 90,
+      "status": "rejected",
+      "reason": "Ghost API 오류"
+    },
+    {
+      "id": "source-002",
+      "headline": "영국·미국 동시 추진, 2026년 AI 교육 거버넌스 강화…한국은 '윤리와 접근성' 균형이 과제",
+      "word_count": 1920,
+      "fact_check_score": 90,
+      "status": "rejected",
+      "reason": "Ghost API 오류"
+    },
+    {
+      "id": "source-003",
+      "headline": "한국 대학의 AI 정책 급변…'표절 우려'에서 '필수 역량'으로 재정의, 평가 방식도 진화 중",
+      "word_count": 1750,
+      "fact_check_score": 90,
+      "status": "rejected",
+      "reason": "Ghost API 오류"
+    },
+    {
+      "id": "source-004",
+      "headline": "미국 상원, 'NSF AI 교육법 2026' 상정…2028년까지 100만 명 AI 교육 목표, 장학금·fellowship·커뮤니티칼리지 투자",
+      "word_count": 1820,
+      "fact_check_score": 90,
+      "status": "rejected",
+      "reason": "Ghost API 오류"
+    }
+  ]
+}

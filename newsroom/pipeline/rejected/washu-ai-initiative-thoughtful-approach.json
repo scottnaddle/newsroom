@@ -1,0 +1,25 @@
+{
+  "id": "washu-ai-initiative-thoughtful",
+  "stage": "rejected",
+  "draft": {
+    "headline": "AI 도입해도 인간의 판단력은 포기하지 않는다 - 워싱턴대학의 '신중한 전략'",
+    "subheadline": "엘리트 대학이 선택한 AI 교육의 길: 도구 활용과 윤리 교육의 균형",
+    "slug": "washu-ai-initiative-thoughtful",
+    "word_count": 1680
+  },
+  "fact_check": {
+    "score": 91,
+    "verdict": "PASS ✅",
+    "verified_claims": [
+      "워싱턴대학 +AI 이니셔티브 출범 (March 2026) - 확인됨",
+      "Provost Mark D. West 리더십 - 확인됨",
+      "AI Literacy for WashU Scholar 모듈 - 확인됨",
+      "+AI Perspectives Week (March 23) 개최 - 확인됨"
+    ],
+    "validated_at": "2026-03-11T17:32:00+09:00"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

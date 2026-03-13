@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "The Anthropic–OpenAI feud and their Pentagon dispute expose a deeper problem with AI safety",
+    "url": "https://fortune.com/2026/03/05/anthropic-openai-feud-pentagon-dispute-ai-safety-dilemma-personalities/",
+    "source_name": "Fortune",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "As Anthropic and OpenAI clash over Pentagon AI contracts, deeper issues about AI safety governance emerge. President Trump faces political pressure from the energy demands of AI data centers ahead of 2026 midterms, highlighting tensions between rapid AI deployment and safety considerations.",
+    "published_date": "2026-03-05",
+    "collected_at": "2026-03-11T02:05:00Z"
+  },
+  "digest": {
+    "headline": "Anthropic-OpenAI 경쟁 심화, AI 안전 거버넌스의 근본적 한계 노출",
+    "lead": "Anthropic과 OpenAI의 펜타곤 계약 분쟁 속에서 AI 안전 거버넌스의 근본적 문제가 드러났다. 소수 기업과 정부 관료에게 집중된 AI 개발·배포 권한이 안전보다 경쟁과 지정학을 우선시하는 구조적 문제를 만들고 있다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">Anthropic과 OpenAI의 펜타곤 계약 분쟁 속에서 AI 안전 거버넌스의 근본적 문제가 드러났다. 소수 기업과 정부 관료에게 집중된 AI 개발·배포 권한이 안전보다 경쟁과 지정학을 우선시하는 구조적 문제를 만들고 있다.</p>\n  </div>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Dario Amodei Anthropic CEO는 내부 메모에서 Sam Altman OpenAI CEO를 '거짓말쟁이'와 '기만적'이라고 비난했다. OpenAI가 펜타곤과의 AI 공급 계약을 체결한 반면, Anthropic은 자율 무기와 국내 감시 제한을 거부해 '공급망 위험' 지정을 받은 것이 계기다. 두 회사 간 일인당 관계 악화는 최근 인도 총리와의 사진 촬영에서 악수를 거부하는 모습으로도 가시화됐다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">AI 산업 자율규제에 의존해온 국제 사회는 이제 딜레마에 직면했다. 규제 부재 속에서 양사 지도자의 개인적 갈등과 경쟁 압력이 AI 안전 정책을 좌우하고 있기 때문이다. 연구자들은 수년 전부터 AI 개발의 '산업 독점'을 우려했으며, 이는 이제 현실이 되었다. 두 기업은 모두 안전 공약에 서명했지만, 경쟁 압력 속에서 정책을 후퇴시키고 있다. Anthropic은 안전 검증 없이 신규 모델 개발을 추진하도록 정책을 수정했고, OpenAI는 군사용 AI 제한을 폐지했다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 안전 기준의 약화는 교육 현장에 직접적 영향을 미친다. 기업의 자율규제 의존 체계 속에서 교육용 AI 도구의 안전성과 투명성을 보장하기 어려워진다. 에듀테크 기업들은 정부 규제 부재 속에서 스스로 높은 윤리 기준을 유지해야 하는 부담을 안게 되며, 반대로 규제 기업들은 안전 검증 없이 서둘러 제품을 출시할 인센티브를 갖게 된다. 학생 데이터 보호와 알고리즘 투명성을 보장하는 국제적 기준 수립의 필요성이 더욱 절실해지고 있다.</p>\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://fortune.com/2026/03/05/anthropic-openai-feud-pentagon-dispute-ai-safety-dilemma-personalities/\" style=\"color:#FF6B35;text-decoration:none;\">Fortune</a></p>\n  </div>\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "research"
+    ],
+    "meta_title": "Anthropic-OpenAI 경쟁, AI 안전 거버넌스 위기 노출",
+    "meta_description": "AI 기업 간 경쟁 심화가 안전 정책 약화로 이어지고 있다. 산업 독점 속 AI 안전 거버넌스의 구조적 한계 분석.",
+    "word_count": 598
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T02:05:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T02:15:31Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-11T05:36:17.632Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b0ff515d8fee00015089cd",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b0ff515d8fee00015089cd",
+    "public_url": "https://ubion.ghost.io/anthropic-openai-gyeongjaeng-simhwa-ai-anjeon-geobeoneonseuyi-geunbonjeog-hangye-nocul/",
+    "status": "published",
+    "published_at": "2026-03-11T05:36:17.000Z"
+  }
+}

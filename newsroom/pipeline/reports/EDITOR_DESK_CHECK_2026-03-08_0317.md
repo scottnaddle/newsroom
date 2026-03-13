@@ -53,7 +53,7 @@
 | 검증 항목 | 결과 |
 |-----------|------|
 | ① 중복 검증 스크립트 | ✅ 실행 완료 — KILL 대상 0건 |
-| ② Ghost 사이트 접근 | ✅ insight.ubion.global HTTP 200 |
+| ② Ghost 사이트 접근 | ✅ ubion.ghost.io HTTP 200 |
 | ③ HTML escape (&amp;) | ✅ 점검 대상 없음 |
 | ④ AI 배지 확인 | ✅ 점검 대상 없음 |
 

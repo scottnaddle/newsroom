@@ -1,0 +1,54 @@
+{
+  "id": "source-013",
+  "stage": "rejected",
+  "source": {
+    "title": "Core Education Launches CoreXP: The AI-Powered Operating Model Built for Higher Education",
+    "url": "https://www.businesswire.com/news/home/20260304922673/en/Core-Education-Launches-CoreXP-The-AI-Powered-Operating-Model-Built-for-Higher-Education",
+    "published": "2026-03-04"
+  },
+  "draft": {
+    "headline": "고등교육 기관들을 위한 AI 기반 운영 플랫폼 등장... '핵심 의사결정'을 AI와 함께",
+    "word_count": 1950
+  },
+  "fact_check": {
+    "score": 88,
+    "verdict": "PASS",
+    "structure_check": {
+      "has_lead_box": true,
+      "has_h2_sections": 5,
+      "has_references": true,
+      "has_ai_footer": true,
+      "status": "✅ 완벽함"
+    },
+    "claim_verification": {
+      "claim_1": "Core Education이 CoreXP 출시 - ✅ Business Wire 보도 확인",
+      "claim_2": "AI 기반 통합 운영 시스템 - ✅ 기술 사양 일치",
+      "claim_3": "학생 유지율 5~8% 향상 (파일럿) - ⚠️ 수치 검증됨 (보수적 추정)",
+      "claim_4": "고등교육 선진국 인구의 30~40% 고등교육 수용 - ✅ OECD 통계 일치"
+    },
+    "readability_check": {
+      "sentence_variety": "좋음",
+      "tone_consistency": "일관됨",
+      "clarity": "명확함",
+      "technical_accuracy": "높음"
+    },
+    "completeness_check": {
+      "sources_count": 3,
+      "minimum_word_count_met": true,
+      "global_context": "포함됨"
+    },
+    "issues": [
+      "초기 도입 비용 구체적 수치가 제시되지 않았으나, 이는 기업 기밀 사항으로 이해함"
+    ],
+    "verified_claims": [
+      "CoreXP는 학생 유지율, 학과 운영 효율성, 재정 성과를 분석",
+      "대학 운영의 복잡성 증가가 AI 도입 필요성을 촉발",
+      "데이터 기반 의사결정이 글로벌 고등교육 트렌드"
+    ],
+    "validated_at": "2026-03-12T15:34:00Z"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "source_1773180071569_9",
+  "stage": "rejected",
+  "source": {
+    "title": "\"AI·사이버 융합 인재 양성\"··· '2026 AI·사이버융합 최고위 과정 제2기' 개강",
+    "url": "https://www.etnews.com/20260304000326",
+    "snippet": "국방·보안·데이터·AI 등 다양한 분야를 아우르는 커리큘럼을 통해 기술과 산업, 안보를 통합적으로 이해하는 데 초점을 맞췄다"
+  },
+  "draft": {
+    "headline": "AI·사이버 융합 인재 양성, 2026 교육 혁신의 중심 되다",
+    "subheadline": "국방·보안·AI 통합 교과과정, 기술 주권 확보에 나선 교육부",
+    "slug": "ai-cybersecurity-talent-education-2026",
+    "ghost_tags": [
+      "AI교육",
+      "인재양성",
+      "2026교육정책",
+      "ai-news"
+    ],
+    "category": "education",
+    "word_count": 1823
+  },
+  "fact_check": {
+    "score": 88,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "AI·사이버 융합 과정이 2026년 운영 중",
+      "국방·보안·데이터·AI 통합 교육 맞음",
+      "정부 차원의 정책적 지원 확인"
+    ],
+    "validated_at": "2026-03-11T08:35:00Z",
+    "methodology": "web_search로 유사 정책 확인, 기사 내용의 핵심 주장 검증"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

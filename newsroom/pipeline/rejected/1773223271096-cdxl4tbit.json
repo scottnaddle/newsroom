@@ -1,0 +1,102 @@
+{
+  "id": "1773223271096-cdxl4tbit",
+  "stage": "copy-edited",
+  "source": {
+    "url": "https://www.dginclusion.com/news/articleView.html?idxno=1467",
+    "title": "AI 시대, 교사는 사라지지 않는다… 오히려 더 중요해진다",
+    "query": "에듀테크 AI 학교",
+    "discovered_at": "2026-03-11T10:01:11.096Z"
+  },
+  "quality_score": 75,
+  "metadata": {
+    "published": "2026-03-11T10:01:11.096Z"
+  },
+  "reporting_brief": {
+    "WHO": "OECD 교육 정책 분석가, 한국 교육 전문가",
+    "WHAT": "AI 시대에 교사의 역할이 지식 전달자에서 학습 설계자·정서적 지원자로 변화. 교사가 오히려 더 중요해진다는 주장",
+    "WHY": "디지털 기술 급속 발전으로 인해 교육의 근본적 재설계 필요. 기계가 대체할 수 없는 인간적 역량(창의성, 공감, 윤리적 판단)의 중요성 증대",
+    "WHEN": "2026년 현재, OECD 'Reimagining Teaching in an Accelerating World' 보고서 기반",
+    "CONTEXT": "대형 강의에서 AI 조교 도입, 비정규교수 인력 축소 우려 등이 동시에 발생 중. 기술과 인간의 역할 재정립이 시급한 상황",
+    "SOURCES": [
+      {
+        "title": "OECD 'Reimagining Teaching in an Accelerating World'",
+        "url": "https://www.dginclusion.com/news/articleView.html?idxno=1467",
+        "credibility": "높음 (국제기구)"
+      },
+      {
+        "title": "AI가 혁신하는 교육 환경 전략",
+        "url": "https://www.kjob.news/news/469935",
+        "credibility": "높음 (전문 교육 매체)"
+      },
+      {
+        "title": "학교 행정문서 AI로 자동화 - 티처메이트",
+        "url": "https://www.joongang.co.kr/article/25407867",
+        "credibility": "높음 (중앙일보)"
+      }
+    ],
+    "PERSPECTIVES": {
+      "GOVERNMENT": "교사의 전문성과 자율성 강화를 통한 교육 혁신 지원 필요",
+      "EDUCATION_SECTOR": "AI 도구는 교사의 보조 수단, 행정 업무 자동화로 수업 집중도 향상",
+      "TECH_INDUSTRY": "에듀테크 플랫폼을 통한 맞춤형 학습 지원 시스템 개발 진행 중"
+    },
+    "SUGGESTED_ANGLE": "AI 시대 재정의되는 교사의 역할 - 지식 전달자에서 학생 성장의 안내자로의 전환. 기술과 인간의 협력 모델 구축이 핵심"
+  },
+  "draft": {
+    "headline": "AI 시대 교사는 사라지지 않는다, 오히려 더 중요해진다",
+    "subheadline": "기술이 지식 전달을 대신하면서 교사의 역할은 학생 성장의 안내자로 재정의된다",
+    "slug": "ai-education-teacher-role",
+    "ghost_tags": [
+      "교육",
+      "ai-news",
+      "에듀테크"
+    ],
+    "category": "education",
+    "html": "<div style=\"font-family: 'Noto Sans KR', sans-serif; max-width: 680px; font-size: 17px; line-height: 1.9; color: #1a1a2e;\">\n\n\n\n<h2 style=\"font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 44px 0 20px; color: #1a1a2e;\">기술이 변해도 인간 능력의 가치는 높아진다</h2>\n\n<p style=\"margin: 0 0 32px;\">경제협력개발기구(OECD)가 최근 발간한 보고서 'Reimagining Teaching in an Accelerating World'는 디지털 기술과 인공지능의 급속한 발전이 교육의 구조 자체를 바꾸고 있다고 진단한다. 이 보고서는 기술 변화의 속도가 과거와 비교할 수 없을 정도로 빨라지면서 교육 역시 단순한 개혁 수준이 아니라 근본적 재설계가 필요한 시점에 도달했다고 강조한다.</p>\n\n<p style=\"margin: 0 0 32px;\">전통적으로 교사의 역할은 교과 지식을 학생에게 전달하는 것이었다. 하지만 AI 시대에는 이 역할이 사라지지 않고 오히려 변한다. 기계가 인간보다 더 빠르게 학습하고 더 정확하게 기억하며 더 안정적으로 정보를 제공할 수 있는 영역에서는 인간 교사가 경쟁력을 잃기 때문이다. 그렇다면 남겨지는 영역은 무엇인가? 바로 '인간적 역량'이다.</p>\n\n<p style=\"margin: 0 0 32px;\">OECD 보고서에 따르면 미래 교육의 핵심은 정보 전달이 아니라 문제 해결, 창의성, 협력, 윤리적 판단 같은 인간적 역량이다. 새로운 상황에 적응할 수 있는 학생, 기존 지식을 재현하는 학생이 아닌 새로운 상황에 적용할 수 있는 학생을 길러내는 것이 미래 교육의 목표가 되고 있다.</p>\n\n<h2 style=\"font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 44px 0 20px; color: #1a1a2e;\">교사의 역할은 더 복잡하고 더 중요해진다</h2>\n\n<p style=\"margin: 0 0 32px;\">오히려 기술 변화는 교사의 역할을 약화시키기보다는 더 복잡하게 만든다. 현대 교실에서 교사는 더 이상 단순한 지식 전달자가 아니다. 학습 코치, 사회적 지도자, 정서적 지원자의 역할을 동시에 수행해야 한다.</p>\n\n<p style=\"margin: 0 0 32px;\">현대 교실은 학생들의 배경과 능력, 언어, 문화가 매우 다양해졌다. 여기에 디지털 환경까지 더해지면서 교사는 학생들에게 정보의 진위를 판단하고 알고리즘이 만들어낸 정보 환경을 비판적으로 이해하도록 가르쳐야 한다. 한마디로 교실은 더 이상 지식을 전달하는 장소가 아니라 정보 홍수 속에서 사고력을 훈련하는 공간이 되고 있다.</p>\n\n\n\n<p style=\"margin: 0 0 32px;\">국내에서도 이러한 변화가 빠르게 진행 중이다. KAIST는 대형 강의에 AI 조교를 도입해 학생 질문을 자동으로 분류하고 답변을 제시하는 시스템을 시험 운영하고 있다. 이를 통해 조교는 기본 질문 처리에서 벗어나 더 복잡한 질문과 심화 설명에 집중할 수 있게 됐다. 이는 AI가 반복적이고 기계적인 업무를 대신함으로써 인간 교사가 수행해야 할 '인간적' 역할에 더 집중할 수 있다는 것을 의미한다.</p>\n\n<h2 style=\"font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 44px 0 20px; color: #1a1a2e;\">AI는 교사를 강화하는 도구, 대체하는 것이 아니다</h2>\n\n<p style=\"margin: 0 0 32px;\">인공지능이 교육을 위협하는 존재가 아니라 교사를 강화하는 도구가 될 수 있다는 것이 OECD 보고서의 핵심 메시지다. AI는 학습 데이터를 분석해 학생의 이해 수준을 파악하고 맞춤형 학습 경로를 제공할 수 있으며, 교사의 행정 업무를 줄여 수업 설계와 학생 지도에 더 많은 시간을 쓰도록 도울 수 있다.</p>\n\n<p style=\"margin: 0 0 32px;\">다만 AI가 효과적으로 활용되기 위해서는 인간의 판단과 책임이 반드시 개입되는 구조, 즉 'human-in-the-loop' 방식이 필요하다. AI가 교육의 의사결정을 대신하는 것이 아니라 교사의 전문성을 확장하는 보조 시스템으로 설계되어야 한다는 의미다.</p>\n\n<p style=\"margin: 0 0 32px;\">이를 위해서는 교사의 전문성과 자율성을 강화하는 것이 중요하다. 교사가 교실에서 교육 방법과 학습 활동을 스스로 설계할 수 있을 때 더 높은 수업 효과와 직업 만족도를 보인다는 연구 결과가 있다. 또한 교육은 개인 교사의 노력만으로 이루어지기 어렵기 때문에 학교 내부와 학교 간 협력, 멘토링 시스템, 전문적 학습 공동체가 중요하다.</p>\n\n<h2 style=\"font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 44px 0 20px; color: #1a1a2e;\">교육의 미래는 결국 교사에 달려 있다</h2>\n\n<p style=\"margin: 0 0 32px;\">AI와 자동화 기술이 확산되는 시대에도 교육의 중심은 여전히 인간이다. 지식 전달의 시대가 지나가면서 교육이 이룬 것은 무엇인가? OECD 보고서는 교육의 핵심이 정보 전달이 아니라 관계와 동기, 공감이라는 점을 강조한다. 학생들이 배우고 싶어 하는 이유는 시험 때문이 아니라 목표, 성장의 즐거움, 소속감, 자율성 같은 인간적 동기에서 비롯된다.</p>\n\n<p style=\"margin: 0 0 32px;\">결국 AI 시대에도 교육을 움직이는 가장 중요한 요소는 기술이 아니라 학생을 이해하고 성장의 여정을 함께하는 교사다. 미래의 교실은 기술과 인간의 협력이 이루어지는 공간이 될 것이다. 교사는 사라지지 않을 것이다. 대신 더 인간적이고 더 창의적인 역할로 다시 태어날 것이다.</p>\n\n<h2 style=\"font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 44px 0 20px; color: #1a1a2e;\">참고자료</h2>\n<ol style=\"margin: 32px 0; padding-left: 24px;\">\n<li style=\"margin-bottom: 12px;\"><strong>OECD 'Reimagining Teaching in an Accelerating World'</strong> - https://www.dginclusion.com/news/articleView.html?idxno=1467</li>\n<li style=\"margin-bottom: 12px;\"><strong>AI가 혁신하는 교육 환경 전략</strong> (전국인력신문) - https://www.kjob.news/news/469935</li>\n<li style=\"margin-bottom: 12px;\"><strong>학교 행정문서 AI로 자동화 - 티처메이트</strong> (중앙일보) - https://www.joongang.co.kr/article/25407867</li>\n</ol>\n\n<p style=\"margin: 48px 0 0; padding-top: 20px; border-top: 1px solid #f1f5f9; font-size: 13px; color: #cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>",
+    "custom_excerpt": "AI 시대에 교사는 사라지지 않는다. OECD 보고서에 따르면 기술이 발전할수록 교사의 역할은 지식 전달자에서 학생 성장의 안내자로 더 중요해진다.",
+    "references": [
+      {
+        "title": "OECD 'Reimagining Teaching in an Accelerating World'",
+        "url": "https://www.dginclusion.com/news/articleView.html?idxno=1467"
+      },
+      {
+        "title": "AI가 혁신하는 교육 환경 전략",
+        "url": "https://www.kjob.news/news/469935"
+      },
+      {
+        "title": "학교 행정문서 AI로 자동화 - 티처메이트",
+        "url": "https://www.joongang.co.kr/article/25407867"
+      }
+    ],
+    "word_count": 1875,
+    "feature_image": "https://images.unsplash.com/photo-1427504494785-cdea856666ea?w=1200&h=630&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1427504494785-cdea856666ea?w=1200&h=630&fit=crop",
+    "meta_title": "AI 시대 교사는 사라지지 않는다, 오히려 더 중요해진다",
+    "meta_description": "인공지능(AI)이 교실을 빠르게 변화시키고 있다. 하지만 OECD의 최신 보고서는 놀라운 결론을 내린다. AI 시대일수록 교사가 더 중요하다는 것이다. 기술이 지식 전달을 담당하면서 교사의 역할은 학생의 성장을 이끄는 '학습 설계자'로 근본적으로 재정의되고 있다. 기술"
+  },
+  "fact_check": {
+    "score": 92,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "OECD 보고서 'Reimagining Teaching in an Accelerating World'는 2026년 3월 국제교육정상회담의 기초 문서로 공식 확인됨",
+      "KAIST AI 조교 도입 사실 보도됨 (한국대학신문 기사)",
+      "AI 시대 교사 역할의 재정의 주장은 여러 교육 전문 매체에서 일관되게 보도됨"
+    ],
+    "validated_at": "2026-03-11T11:30:00Z"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 2535자, 팩트점수 92, 중복 0.0%",
+    "meta_title": "AI 시대 교사는 사라지지 않는다, 오히려 더 중요해진다",
+    "meta_description": "인공지능(AI)이 교실을 빠르게 변화시키고 있다. 하지만 OECD의 최신 보고서는 놀라운 결론을 내린다. AI 시대일수록 교사가 더 중요하다는 것이다. 기술이 지식 전달을 담당하면서 교사의 역할은 학생의 성장을 이끄는 '학습 설계자'로 근본적으로 재정의되고 있다. 기술",
+    "decided_at": "2026-03-11T11:34:24.609Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [
+      "AI 배지 pill 제거"
+    ],
+    "text_length": 2318,
+    "checked_at": "2026-03-11T11:34:24.611Z"
+  }
+}

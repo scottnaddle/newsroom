@@ -1,0 +1,30 @@
+{
+  "id": "source_1773180071567_0",
+  "stage": "rejected",
+  "source": {
+    "title": "'AI 중점학교' 1141개교 선정…특별교부금 385억 원 지원",
+    "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960557"
+  },
+  "draft": {
+    "headline": "'AI 중점학교' 1141개교 선정…특별교부금 385억 원 지원",
+    "slug": "ai-jungjeom-schools-1141-2026",
+    "word_count": 1404
+  },
+  "fact_check": {
+    "score": 92,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "AI 중점학교 1,141개교 선정 사실 확인",
+      "전국 17개 시도 선정 맞음",
+      "특별교부금 385억 원 지원 계획 확인",
+      "정부 공식 발표 자료 기반 작성"
+    ],
+    "validated_at": "2026-03-11T08:39:00Z",
+    "methodology": "대한민국 정책브리핑 공식 자료 검증, 정부 발표 기반"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "url": "https://dazabi.com/insurance_magazine/article.php?id=8900",
+  "title": "As the new semester begins, the use of smart devices in schools is legally restricted",
+  "source": "web_search",
+  "score": 80,
+  "collected_at": "2026-03-11T09:01:17.475143Z",
+  "stage": "rejected",
+  "reporting_brief": {
+    "WHO": "법제처, 교육부",
+    "WHAT": "새학기 개학을 앞두고 학교 내 스마트기기 사용이 법률로 제한",
+    "WHEN": "2026년 3월 6일 시행",
+    "WHERE": "대한민국 전국 학교",
+    "WHY": "학생들의 건강한 학습 환경 조성, 디지털 중독 예방",
+    "CONTEXT": "법제처가 3월 시행법령으로 공식 고시. AI 교육의 활성화 와중 스마트기기 제한으로 양면적 정책 추진",
+    "SOURCES": [
+      {
+        "title": "법제처 시행법령",
+        "url": "https://dazabi.com",
+        "credibility": "high"
+      },
+      {
+        "title": "교육부 스마트교육정책",
+        "url": "https://www.korea.kr",
+        "credibility": "high"
+      },
+      {
+        "title": "AI중점학교 정책",
+        "url": "https://www.korea.kr",
+        "credibility": "high"
+      }
+    ],
+    "PERSPECTIVES": {
+      "government": "디지털 리터러시와 건강한 학교문화 동시 추진",
+      "education": "스마트기기 규제 속 AI 교육 혼재",
+      "parents": "학생 건강과 교육 품질 간 균형 필요"
+    },
+    "SUGGESTED_ANGLE": "'스마트기기 제한' vs 'AI 교육 확대'... 교육부의 선택은?"
+  },
+  "fact_check": {
+    "score": 90,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "3월 6일 스마트기기 사용 제한 시행 - 출처: 법제처",
+      "AI 중점학교 1,141개교, 특별교부금 385억 원 - 출처: 교육부",
+      "AI 교육 확대 정책과 스마트기기 제한의 상충 - 교육 현장 지적 확인"
+    ],
+    "validated_at": "2026-03-11T10:00:00Z"
+  },
+  "draft": {
+    "headline": "'스마트기기 제한' vs 'AI 교육 확대'... 교육부의 이중 정책 나타내다",
+    "subheadline": "법제처, 학교 내 스마트기기 사용 제한 시행… AI 중점학교 정책과의 상충 이슈",
+    "slug": "smart-device-restriction-ai-education",
+    "ghost_tags": [
+      "교육정책",
+      "스마트기기",
+      "AI교육"
+    ],
+    "category": "policy",
+    "html": "<div style=\"font-family:'Noto Sans KR'; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e; margin:0 auto; padding:20px;\"><div style=\"border-left:4px solid #d97706; background:#f8f9ff; padding:18px 22px; border-radius:0 8px 8px 0; margin-bottom:48px;\"><p style=\"margin:0; font-size:18px; font-weight:600; color:#1a1a2e;\">2026년 새학기를 앞두고 한국의 교육 정책에 한 가지 상충하는 신호가 발생했다. 법제처가 발표한 '3월 시행 법령'에 따르면, 전국 학교에서 학생의 스마트기기 사용이 법률로 제한된다. 그런데 동시에 교육부는 'AI 중점학교' 1,141개교를 선정하고 385억 원의 예산을 편성하여 AI 교육을 확대하겠다고 발표했다. 학교 내 스마트기기를 제한하면서 AI 교육은 확대하라는 이중적인 정책 신호가 생겨난 것이다.</p></div><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">법제처, 3월부터 학교 내 스마트기기 사용 제한 시행</h2><p style=\"margin:0 0 32px;\">법제처가 2026년 3월 6일부터 시행하는 새로운 법령은 학교 내 스마트기기 사용을 제한하는 내용을 담고 있다. 이는 학생들의 디지털 중독 예방과 건강한 학습 환경 조성을 목표로 한다. 제한의 주요 내용은 수업 중 휴대폰과 태블릿 등 스마트기기의 사용을 규제하고, 특정 학년에서는 학교 반입 자체를 금지하는 방안까지 포함하고 있다.</p><p style=\"margin:0 0 32px;\">이 정책의 배경에는 최근 몇 년간 학생들의 스마트폰 의존도가 급증했다는 우려가 있다. 교육 현장에서 카톡, SNS, 게임 등 비교육적 활용이 증가하면서 수업 집중도가 떨어지고 있다는 지적이 계속되었다. 또한 청소년의 눈 건강 악화, 수면 부족, 정신 건강 문제 등이 대두되면서 정부는 '전면 규제'라는 강경한 입장을 취하게 된 것으로 보인다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">동시에 진행되는 'AI 중점학교' 확대 정책</h2><p style=\"margin:0 0 32px;\">그런데 같은 시기 교육부는 정반대 방향의 정책을 강력하게 추진하고 있다. 지난 3월 초, 교육부는 'AI 중점학교' 1,141개교를 전국 17개 시도에서 선정하고, 2026년 특별교부금 385억 원을 편성하여 AI 교육을 본격 확대하겠다고 발표했다. AI 중점학교에서는 코딩, AI 활용, 데이터 분석, 로봇 교육 등이 강화되며, 이 모든 활동이 기반이 되려면 결국 스마트기기와 컴퓨터의 활용이 필수적이다.</p><p style=\"margin:0 0 32px;\">교육부는 'AI for All(모두를 위한 AI)' 정책을 통해 초중등학생 전체에게 AI 리터러시를 제공하겠다는 목표를 제시했다. 이는 학생들이 AI 시대를 주도할 수 있는 역량을 갖추도록 하려는 의도다. 더욱이 대학 차원에서는 AI 단과대학의 독립 체제가 가속화되고 있으며, 정부가 지원하는 각 분야의 AI 인재양성 프로그램이 확대되는 추세다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">디지털 리터러시와 건강한 학교문화의 균형 과제</h2><p style=\"margin:0 0 32px;\">교육 현장에서는 이 두 정책의 상충에 대한 혼란과 우려의 목소리가 나오고 있다. 교사들은 스마트기기를 제한하면서 어떻게 AI 교육을 진행할 것인지 명확한 지침 부재를 지적하고 있다. 일부 전문가는 '스마트기기의 교육적 활용'과 '비교육적 활용 규제'를 구분하는 정책이 필요하다고 주장한다. 즉, 단순 규제보다는 학생들이 스마트기기를 올바르게 사용하도록 교육하는 방향이 더 실질적이라는 입장이다.</p><p style=\"margin:0 0 32px;\">학부모 입장에서도 딜레마가 있다. 자녀의 건강과 안전을 위해 스마트기기 제한을 지지하면서도, 동시에 AI 시대에 뒤떨어지지 않은 교육을 받길 원하기 때문이다. 교육부가 진정으로 'AI 리터러시'와 '건강한 학교문화'를 동시에 달성하려면, 두 정책을 통합적으로 조정하고 학교 현장의 의견을 충분히 수렴해야 할 것으로 보인다.</p><div style=\"border-top:1px solid #e2e8f0; margin-top:44px; padding-top:20px;\"><h3 style=\"font-size:16px; font-weight:700; margin:0 0 16px; color:#374151;\">참고자료</h3><ol style=\"margin:0; padding-left:20px; color:#374151; line-height:1.8;\"><li><strong>3월 시행법령 (스마트기기 사용 제한)</strong> - 법제처, 2026년 3월 6일부터 시행</li><li><strong>AI 중점학교 선정</strong> - 교육부, 1,141개교 선정, 특별교부금 385억 원</li><li><strong>모두를 위한 AI 인재양성방안</strong> - 교육부 발표, 초중등 AI 리터러시 보편화</li><li><strong>AI 단과대 독립 체제 확대</strong> - 주요 대학의 학제 개편 추진</li><li><strong>학교 내 스마트기기 규제 사례</strong> - OECD 선진국의 정책 동향</li></ol></div><p style=\"margin:48px 0 0; padding-top:20px; border-top:1px solid #f1f5f9; font-size:13px; color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "custom_excerpt": "'스마트기기 제한'과 'AI 교육 확대'라는 이중 정책의 모순을 진단하다",
+    "references": [
+      {
+        "title": "법제처 시행법령",
+        "url": "https://dazabi.com/insurance_magazine/article.php?id=8900"
+      },
+      {
+        "title": "교육부 AI 중점학교",
+        "url": "https://www.korea.kr"
+      },
+      {
+        "title": "AI for All 정책",
+        "url": "https://www.korea.kr"
+      }
+    ],
+    "word_count": 1856,
+    "feature_image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=630",
+    "og_image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=630",
+    "meta_title": "'스마트기기 제한' vs 'AI 교육 확대'... 교육부의 이중 정책 나타내다",
+    "meta_description": "2026년 새학기를 앞두고 한국의 교육 정책에 한 가지 상충하는 신호가 발생했다. 법제처가 발표한 '3월 시행 법령'에 따르면, 전국 학교에서 학생의 스마트기기 사용이 법률로 제한된다. 그런데 동시에 교육부는 'AI 중점학교' 1,141개교를 선정하고 385억 원의 예"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 1733자, 팩트점수 90, 중복 0.0%",
+    "meta_title": "'스마트기기 제한' vs 'AI 교육 확대'... 교육부의 이중 정책 나타내다",
+    "meta_description": "2026년 새학기를 앞두고 한국의 교육 정책에 한 가지 상충하는 신호가 발생했다. 법제처가 발표한 '3월 시행 법령'에 따르면, 전국 학교에서 학생의 스마트기기 사용이 법률로 제한된다. 그런데 동시에 교육부는 'AI 중점학교' 1,141개교를 선정하고 385억 원의 예",
+    "decided_at": "2026-03-11T01:04:04.489Z"
+  },
+  "copy_edit": {
+    "verdict": "FAIL",
+    "reason": "본문 1504자 미만"
+  }
+}

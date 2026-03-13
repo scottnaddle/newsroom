@@ -60,7 +60,11 @@
     "word_count": 2319,
     "category": "교육",
     "meta_title": "글로벌 교육 정책, 미래형 인재 양성 위한 새로운 패러다임 전환 모색",
-    "meta_description": "body { font-family: 'Noto Sans KR'; margin: 0; padding: 20px; } .wrapper { max-width: 680px; margin: 0 auto; font-size: 17px; line-height: 1.9; color:"
+    "meta_description": "body { font-family: 'Noto Sans KR'; margin: 0; padding: 20px; } .wrapper { max-width: 680px; margin: 0 auto; font-size: 17px; line-height: 1.9; color:",
+    "feature_image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.859Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 100,
@@ -85,7 +89,5 @@
     "text_length": 2297,
     "checked_at": "2026-03-09T11:01:43.858Z"
   },
-  "ghost_id": "69aea898ff4fbf0001ab79ad",
-  "ghost_url": "https://insight.ubion.global/p/efec0c5a-77b2-46d1-b0a2-b40de304750d/",
   "published_at": "2026-03-09T11:01:44.485Z"
 }

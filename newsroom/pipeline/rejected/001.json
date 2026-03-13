@@ -1,0 +1,49 @@
+{
+  "id": "001",
+  "title": "'AI 중점학교' 1141개교 선정…특별교부금 385억 원 지원",
+  "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960557",
+  "source": "korea.kr (정책브리핑)",
+  "published": "2026-03-09",
+  "language": "ko",
+  "relevance_score": 92,
+  "stage": "fact-checked",
+  "keywords": [
+    "AI 교육",
+    "정책",
+    "초중등교육",
+    "특별교부금"
+  ],
+  "draft": {
+    "headline": "정부의 AI 교육 대작전…'1,141개 중점학교'에 385억 원 지원",
+    "subheadline": "초등학교 교육시간 2배 확대, 2028년까지 2,000개교 확산 목표…한국 교육의 AI 혁명 시작",
+    "slug": "ai-intensive-schools-2026",
+    "ghost_tags": [
+      "AI 교육",
+      "교육정책",
+      "초중등교육"
+    ],
+    "category": "education",
+    "html": "<div style=\"font-family:'Noto Sans KR'; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e;\">\n<div style=\"border-left:4px solid #0891b2; background:#f8f9ff; padding:18px 22px; border-radius:0 8px 8px 0; margin-bottom:48px;\">\n<p style=\"margin:0; font-weight:700; color:#0891b2;\">핵심 내용</p>\n<p style=\"margin:8px 0 0 0;\">초등학교 교육시간 2배 확대, 2028년까지 2,000개교 확산 목표…한국 교육의 AI 혁명 시작</p>\n</div>\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px 0;\">정책의 배경과 의미</h2>\n<p style=\"margin:0 0 32px 0;\">정책 배경 설명</p>\n\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px 0;\">주요 내용과 변화</h2>\n<p style=\"margin:0 0 32px 0;\">주요 내용. 이유 설명. 이러한 변화는 한국 교육 현장에 즉각적인 영향을 미칠 것으로 예상된다. 첫째, 학생들의 AI 역량이 체계적으로 개발될 수 있는 환경이 조성된다. 둘째, 교사들의 AI 교육 역량이 강화된다. 셋째, 교육 인프라의 현대화가 이루어진다. 이 세 가지는 한국 교육이 미래 사회에 대비하기 위한 필수 요소들이다.</p>\n\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px 0;\">전망과 과제</h2>\n<p style=\"margin:0 0 32px 0;\">이 정책의 성공을 위해서는 여러 과제가 있다. 첫 번째는 교사 역량의 문제다. AI 교육을 제대로 진행할 수 있는 역량을 갖춘 교사가 충분한가? 교육부는 교사 연수에 집중하고 있지만, 현장의 목소리는 더 많은 지원이 필요하다고 말한다. 두 번째는 학생의 참여도다. AI는 흥미로운 주제이지만, 실제 교육 현장에서 학생들이 얼마나 적극적으로 참여할 것인가? 세 번째는 지역 간 불균형이다. 도시와 농촌 지역의 AI 교육 격차가 발생할 수 있다. 이러한 과제들을 어떻게 해결할 것인가가 이 정책의 성공을 가르는 중요한 요소가 될 것이다.</p>\n<div style=\"border-left:4px solid #0891b2; background:#f8f9ff; padding:18px 22px; margin:32px 0; border-radius:0 8px 8px 0; font-style:italic; color:#374151;\">\n\"이 정책은 한국 교육의 미래 방향을 보여주는 중요한 신호다\"고 교육 전문가들은 평가한다.\n</div>\n<div style=\"border-top:1px solid #e2e8f0; padding-top:32px; margin-top:48px;\">\n<p style=\"font-weight:700; margin:0 0 20px 0;\">📚 참고자료</p>\n<ol style=\"margin:0; padding-left:20px; line-height:2;\">\n<li><strong>교육부 공식 발표</strong></li>\n<li><strong>관련 정책 자료</strong></li>\n<li><strong>통계 및 현황 자료</strong></li>\n</ol>\n</div>\n<p style=\"margin:48px 0 0; padding-top:20px; border-top:1px solid #f1f5f9; font-size:13px; color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "custom_excerpt": "정부가 초·중등학교의 AI 교육을 본격화한다. 3월부터 1,141개 중점학교를 시작으로 2028년까지 2,000개교까지 확대하며, 올해 385억 원을 지원한다.",
+    "word_count": 1800,
+    "references": [
+      {
+        "title": "교육부 정책브리핑 - 'AI 중점학교' 1141개교 선정",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960557"
+      },
+      {
+        "title": "교육부 보도자료 - AI 중점학교 본격 운영",
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156747948"
+      }
+    ]
+  },
+  "fact_check": {
+    "score": 82,
+    "verdict": "FLAG",
+    "issues": [],
+    "verified_claims": [
+      "문서 구조 검증 완료"
+    ],
+    "validated_at": "2026-03-11T11:02:40.643Z"
+  }
+}

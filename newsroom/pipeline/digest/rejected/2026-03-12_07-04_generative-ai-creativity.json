@@ -1,0 +1,46 @@
+{
+  "stage": "rejected",
+  "pipeline": "digest",
+  "source": {
+    "title": "Generative AI now beats average human on creativity tests",
+    "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+    "source_name": "ScienceDaily",
+    "language": "en",
+    "relevance_score": 75,
+    "summary": "A massive new study comparing more than 100,000 people with today's most advanced AI systems shows that generative AI can now beat the average human on certain creativity tests, marking a milestone in AI capability assessment.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-12T07:04:00Z"
+  },
+  "digest": {
+    "headline": "생성형 AI, 인간 평균 창의력 테스트 점수 추월",
+    "lead": "10만 명 이상의 인간 피험자와 최첨단 생성형 AI를 비교한 대규모 연구에서 AI가 특정 창의성 테스트 항목에서 평균 인간을 능가하는 것으로 나타났습니다. AI 능력 평가의 새로운 이정표를 세웠습니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">10만 명 이상의 인간 피험자와 최첨단 생성형 AI를 비교한 대규모 연구에서 AI가 특정 창의성 테스트 항목에서 평균 인간을 능가하는 것으로 나타났습니다. AI 능력 평가의 새로운 이정표를 세웠습니다.</p>\n  </div>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">이 연구는 생성형 AI의 창의성을 체계적으로 평가한 최초의 대규모 비교 연구입니다. 연구진은 광범위한 인간 표본(10만 명 이상)을 대상으로 표준화된 창의성 테스트를 실시하고, 그 결과를 현재의 최첨단 생성형 AI 모델(GPT-4, Claude, Gemini 등)의 성능과 비교했습니다. 특히 '발산적 사고'와 '새로운 아이디어 생성' 항목에서 AI가 우수한 성능을 보였습니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 결과는 창의성이 더 이상 인간 고유의 영역이 아님을 보여주는 획기적인 증거입니다. 하지만 이는 AI가 인간의 창의성을 완전히 대체한다는 의미는 아니며, 특정 유형의 구조적·패턴 기반 창의성 작업에서 AI가 효율성을 발휘한다는 점을 시사합니다. 향후 창의적 직업의 경계가 재정의될 것으로 예상되며, AI와 인간이 협력하는 새로운 창의 작업 모델이 등장할 가능성이 높습니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">이 발견은 교육과정 설계에 중요한 함의를 가집니다. AI가 학생들의 창의성 훈련에 도구로 활용될 수 있으며, 기존의 '창의력은 인간만의 능력'이라는 교육 철학이 재검토되어야 함을 시사합니다. 미래 교육은 AI와 협력하여 창의성을 높이는 방법론, 그리고 AI가 할 수 없는 메타창의성(높은 수준의 개념적·철학적 창의성)을 강조하는 방향으로 진화할 것으로 예상됩니다.</p>\n\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.sciencedaily.com/news/computers_math/artificial_intelligence/\" style=\"color:#FF6B35;text-decoration:none;\">ScienceDaily</a></p>\n  </div>\n\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "research",
+      "edtech"
+    ],
+    "meta_title": "생성형 AI, 창의성 테스트에서 인간 평균 능가",
+    "meta_description": "10만 명 이상을 대상으로 한 대규모 연구에서 생성형 AI가 인간 평균의 창의성 테스트 점수를 초과했습니다.",
+    "word_count": 512
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-12T07:04:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-12T07:15:00Z"
+    }
+  ],
+  "error_log": {
+    "agent": "digest-publisher",
+    "action": "failed",
+    "error": "Ghost API error: 401",
+    "timestamp": "2026-03-11T22:36:29.875Z"
+  }
+}

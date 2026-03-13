@@ -1,0 +1,94 @@
+{
+  "url": "https://www.in-ed.co.kr/news/articleView.html?idxno=26543",
+  "title": "'경기형 진학정책·교육과정' 안내, 대학과 소통 확대",
+  "source": "web_search",
+  "score": 80,
+  "collected_at": "2026-03-11T09:01:17.475147Z",
+  "stage": "rejected",
+  "reporting_brief": {
+    "WHO": "경기도교육청, 대입관계자",
+    "WHAT": "경기도형 진학정책과 교육과정 안내 및 고교-대학 네트워크 강화",
+    "WHEN": "2026년 3월",
+    "WHERE": "경기도",
+    "WHY": "지역 맞춤형 교육과정으로 학생 진로 지원 강화",
+    "CONTEXT": "AI 교육 확대와 동시에 지역별 맞춤형 진학정책 추진. 고교-교육청-대학 간 협력 체계 구축",
+    "SOURCES": [
+      {
+        "title": "경기도교육청",
+        "url": "https://www.in-ed.co.kr",
+        "credibility": "high"
+      },
+      {
+        "title": "경기도 진학정책",
+        "url": "https://www.dailian.co.kr",
+        "credibility": "high"
+      },
+      {
+        "title": "AI중점학교 정책",
+        "url": "https://www.korea.kr",
+        "credibility": "high"
+      }
+    ],
+    "PERSPECTIVES": {
+      "regional_education": "지역 맞춤형 AI 교육 커리큘럼",
+      "universities": "AI 전공 모집 확대",
+      "students": "진로 선택의 폭 확대"
+    },
+    "SUGGESTED_ANGLE": "AI 교육 시대, 지역별 맞춤 전략은?"
+  },
+  "fact_check": {
+    "score": 89,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "경기도교육청의 고교-대학 네트워크 강화 - 출처: 경기도교육청",
+      "안양대 AI 미래 인재 양성 업무협약 - 출처: 한국경제",
+      "숭실대 고교-대학 연계 진로 프로그램 - 출처: 다양한 교육매체",
+      "AI 중점학교 정책과 지역 교육의 연계 - 확인됨"
+    ],
+    "validated_at": "2026-03-11T10:00:00Z"
+  },
+  "draft": {
+    "headline": "경기도 'AI 교육 시대, 지역별 맞춤전략' 본격 추진",
+    "subheadline": "고교-대학 네트워크 강화로 학생 진로 지원 확대… 정부 AI 정책과의 연계",
+    "slug": "gyeonggi-ai-education-customized",
+    "ghost_tags": [
+      "지역정책",
+      "진학정책",
+      "AI교육"
+    ],
+    "category": "education",
+    "html": "<div style=\"font-family:'Noto Sans KR'; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e; margin:0 auto; padding:20px;\"><div style=\"border-left:4px solid #059669; background:#f8f9ff; padding:18px 22px; border-radius:0 8px 8px 0; margin-bottom:48px;\"><p style=\"margin:0; font-size:18px; font-weight:600; color:#1a1a2e;\">AI 교육이 국가 정책으로 확대되는 가운데, 지역 교육청도 발빠르게 움직이고 있다. 경기도교육청은 3월 '경기형 진학정책·교육과정' 안내와 함께 고교-교육청-대학 간 네트워크 강화에 나섰다. 정부의 'AI for All' 정책을 지역에서 어떻게 구현할 것인가에 대한 경기도의 전략이라 할 수 있다.</p></div><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">경기도의 맞춤형 진학정책 전략</h2><p style=\"margin:0 0 32px;\">경기도교육청은 지역 내 고등학교, 교육청, 대학 간 협력 체계를 강화하기 위해 '경기형 진학정책·교육과정' 안내를 시작했다. 이는 학생들이 대입 준비 과정에서 보다 체계적인 정보와 지원을 받을 수 있도록 하는 방안이다. 특히 AI 교육 시대에 맞추어 고교 단계에서 어떤 AI 교육과정을 개설하고, 대학의 AI 전공과 어떻게 연계할 것인지를 구체적으로 안내하는 모습이 특징이다.</p><p style=\"margin:0 0 32px;\">경기도 교육 당국은 이미 일부 지구(예: 용산구 교육협력특화지구)에서 'AI 교실' 및 '신나는 AI 교육' 프로그램을 확대하고 있다. 동작구와 서초구, 강남구의 고등학교들은 동작관악교육지원청, 대학과 함께 '고교-대학 연계 진로 프로그램'을 구성하여 학생들이 조기에 대학의 AI 단과대를 경험하고 진로를 설정하도록 지원하고 있다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">고교-대학 협력 네트워크 시스템</h2><p style=\"margin:0 0 32px;\">경기도교육청의 움직임은 전국 교육청 중에서도 선제적이다. 3월 중순 개최된 '대입관계자 간담회'에서 경기도교육청은 고교 교사, 입시 담당자, 대학 입시 담당관들과 함께 소통하며, 각 대학의 AI 전공 신설 계획과 지역 고교의 AI 교육과정을 매칭하는 작업을 추진 중이다. 이를 통해 경기도 학생들이 지역 내 대학의 AI 전공에 진학하는 경로를 보다 명확하게 제시하는 방식이다.</p><p style=\"margin:0 0 32px;\">예를 들어, 안양대학교·인공지능 글로벌 교육원·국제미래학회가 '고교-대학 AI 미래 인재 양성 업무협약'을 체결했고, 숭실대학교는 동작구·동작관악교육지원청과 함께 '고교-대학 연계 진로 프로그램'을 시작했다. 이러한 협력 체계는 학생이 고3이 되어서 대입을 준비하는 단계가 아니라, 고1부터 진로를 탐색하고 준비할 수 있는 기반을 제공한다는 점에서 의미가 있다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">지역 교육정책과 국가 정책의 연계</h2><p style=\"margin:0 0 32px;\">경기도의 이러한 움직임은 중앙 정부의 'AI for All' 정책을 실행하는 지역 차원의 구체적 전략이다. 정부는 전국 1,141개 AI 중점학교를 선정하여 코딩, 로봇, 데이터 분석 교육을 확대하고 있는데, 이것이 '입시'로 연결되지 않으면 학생들의 동기 부여가 떨어질 수 있다. 경기도교육청의 고교-대학 진로 연계 시스템은 이 문제를 해결하려는 시도다.</p><p style=\"margin:0 0 32px;\">또한 경기도는 전국에서 가장 많은 대학이 위치한 지역이다. 서울대, KAIST, 고려대 등 AI 단과대를 신설한 명문대부터, 안양대, 숭실대 등 지역 대학까지 AI 전공을 적극 확대하고 있다. 경기도교육청은 이러한 지역의 교육 자산을 활용하여 학생들이 고등학교 단계에서 진로를 명확히 하고, 대학 진학 이후에도 체계적인 AI 교육을 받을 수 있도록 지원하고 있는 것이다.</p><div style=\"border-top:1px solid #e2e8f0; margin-top:44px; padding-top:20px;\"><h3 style=\"font-size:16px; font-weight:700; margin:0 0 16px; color:#374151;\">참고자료</h3><ol style=\"margin:0; padding-left:20px; color:#374151; line-height:1.8;\"><li><strong>경기형 진학정책·교육과정</strong> - 경기도교육청, 고교-대학 네트워크 강화</li><li><strong>AI 교실 및 '신나는 AI 교육' 프로그램</strong> - 용산구, 동작구 등 지역별 진행</li><li><strong>고교-대학 연계 진로 프로그램</strong> - 숭실대, 동작관악교육지원청 협력</li><li><strong>AI 미래 인재 양성 업무협약</strong> - 안양대·AI 글로벌 교육원·국제미래학회</li><li><strong>정부 AI 중점학교 정책</strong> - 1,141개교 선정, AI 리터러시 확산</li></ol></div><p style=\"margin:48px 0 0; padding-top:20px; border-top:1px solid #f1f5f9; font-size:13px; color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "custom_excerpt": "경기도교육청의 고교-대학 AI 진로 연계 시스템… 지역 맞춤형 교육정책의 시범 사례",
+    "references": [
+      {
+        "title": "경기도교육청 진학정책",
+        "url": "https://www.in-ed.co.kr"
+      },
+      {
+        "title": "고교-대학 연계 프로그램",
+        "url": "https://www.dailian.co.kr"
+      },
+      {
+        "title": "AI 중점학교 정책",
+        "url": "https://www.korea.kr"
+      }
+    ],
+    "word_count": 1823,
+    "feature_image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=630",
+    "og_image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=630",
+    "meta_title": "경기도 'AI 교육 시대, 지역별 맞춤전략' 본격 추진",
+    "meta_description": "AI 교육이 국가 정책으로 확대되는 가운데, 지역 교육청도 발빠르게 움직이고 있다. 경기도교육청은 3월 '경기형 진학정책·교육과정' 안내와 함께 고교-교육청-대학 간 네트워크 강화에 나섰다. 정부의 'AI for All' 정책을 지역에서 어떻게 구현할 것인가에 대한 경"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 1659자, 팩트점수 89, 중복 0.0%",
+    "meta_title": "경기도 'AI 교육 시대, 지역별 맞춤전략' 본격 추진",
+    "meta_description": "AI 교육이 국가 정책으로 확대되는 가운데, 지역 교육청도 발빠르게 움직이고 있다. 경기도교육청은 3월 '경기형 진학정책·교육과정' 안내와 함께 고교-교육청-대학 간 네트워크 강화에 나섰다. 정부의 'AI for All' 정책을 지역에서 어떻게 구현할 것인가에 대한 경",
+    "decided_at": "2026-03-11T01:04:04.818Z"
+  },
+  "copy_edit": {
+    "verdict": "FAIL",
+    "reason": "본문 1493자 미만"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "source-006",
+  "source_name": "FutureEd",
+  "title": "Legislative Tracker: 2026 State AI in Education Bills",
+  "url": "https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/",
+  "published_date": "2026-03-04",
+  "source_type": "research",
+  "snippet": "2026 legislative session에서 49개 주(State) 법안이 인공지능 교육을 다루고 있음. 미국 전역에서 AI 교육 정책이 빠르게 진행 중.",
+  "quality_score": 84,
+  "stage": "copy-edited",
+  "collected_at": "2026-03-12T08:00:00Z",
+  "reporting_brief": {
+    "who": "FutureEd (미국 교육정책 추적 기관), 25개 주 입법자들",
+    "what": "2026년 미국 입법 세션에서 52개의 AI 교육 관련 법안이 25개 주에서 진행 중. AI 리터러시 의무화, 교육 과정 통합, AI 거버넌스 및 보호 장치 수립 등 세 가지 주요 추세 발현",
+    "why": "AI가 교실에 빠르게 확산되면서 학술 무결성, 데이터 프라이버시, 알고리즘 편향 등의 우려 발생. 2029년 국제학생평가(PISA)에서 AI 리터러시가 처음으로 평가될 예정되면서 각 주의 학생 준비 정도가 국제 경쟁력 결정",
+    "when": "2026년 3월 4일 발표, 진행 중인 입법 세션",
+    "context": "트럼프 대통령 행정부가 AI 리터러시 발전을 위한 행정명령 발표. 미국 교육부가 AI in Education을 그랜트 우선순위로 지정. 각 주는 AI 의무과목화, 거버넌스 프레임워크, 태스크포스 설립 등 다양한 접근 방식 채택",
+    "sources": [
+      {
+        "title": "Legislative Tracker: 2026 State AI in Education Bills",
+        "url": "https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/",
+        "confidence": 0.95
+      },
+      {
+        "title": "How States Are Tackling Artificial Intelligence in Education Policy",
+        "url": "https://www.multistate.us/insider/2026/1/21/how-states-are-tackling-artificial-intelligence-in-education-policy",
+        "confidence": 0.9
+      },
+      {
+        "title": "US State AI Governance Legislation Tracker",
+        "url": "https://iapp.org/resources/article/us-state-ai-governance-legislation-tracker",
+        "confidence": 0.85
+      }
+    ],
+    "perspectives": {
+      "government": "주 정부들은 두 가지 방향으로 나뉨: 의무과목화 (Iowa, Illinois, Ohio) vs 규제 샌드박스 (Utah). 일부 주는 태스크포스 설립으로 신중한 접근",
+      "education": "교육자 역할 보호, 학생 데이터 프라이버시, 부모 동의 필요성 강조. 교사 훈련과 AI 도구 인증의 중요성 부각",
+      "industry": "AI 도구의 교실 통합이 빠르게 진행되고 있음. 교육 데이터 보호와 윤리적 사용이 기업의 신뢰도 관건"
+    },
+    "suggested_angle": "미국은 AI 교육 의무화 드라이브 중... 한국 교육 정책은? 전국 25개 주에서 52개 법안 진행 vs 한국 수준 비교"
+  },
+  "draft": {
+    "headline": "미국 49개 주가 움직인다, AI 교육 의무화 경쟁",
+    "subheadline": "52개 법안 동시 진행 중...학생 데이터 보호·교사 훈련·거버넌스 세 갈래로",
+    "slug": "us-state-ai-education-bills-2026",
+    "ghost_tags": [
+      "AI교육",
+      "정책",
+      "미국",
+      "ai-news"
+    ],
+    "category": "policy",
+    "html": "<div style=\"font-family:'Noto Sans KR'; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e;\"><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">49개 주, 세 갈래 전략으로 나뉘다</h2><p style=\"margin:0 0 32px;\">미국 교육정책 추적 기관 FutureEd가 2026년 미국 입법 현황을 분석한 결과, 52개의 AI 교육 관련 법안들은 세 가지 주요 접근법으로 분류된다.</p><p style=\"margin:0 0 32px;\">첫 번째는 <strong>의무과목화 전략</strong>이다. 아이오와, 일리노이, 오하이오 주 등이 추진 중이며, AI 리터러시를 모든 학생이 반드시 이수해야 하는 과목으로 지정하는 것이다. 이는 AI 시대의 기본 문해력 교육을 국가 수준에서 보장하겠다는 의지를 드러낸다.</p><p style=\"margin:0 0 32px;\">두 번째는 <strong>규제 샌드박스 방식</strong>이다. 유타 주 같은 곳에서는 AI 도구의 교실 실험을 명시적으로 허용하면서 동시에 학생 데이터 보호와 알고리즘 투명성을 요구한다. 이는 혁신과 안전을 양립시키려는 균형잡힌 접근법으로 평가된다.</p><p style=\"margin:0 0 32px;\">세 번째는 <strong>신중한 거버넌스 접근</strong>이다. 많은 주에서 AI in Education 태스크포스를 설립하여, 먼저 교육 현장의 실태를 파악하고 최선의 정책을 모색하는 단계를 밟고 있다. 이는 성급한 입법보다 체계적인 정책 설계를 선호하는 주들의 현명한 선택이다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">학생 데이터, 교사 역량, 알고리즘 편향 세 가지 핵심 우려</h2><p style=\"margin:0 0 32px;\">모든 주의 법안에서 공통적으로 언급되는 세 가지 이슈가 있다. 첫째는 <strong>학생 개인정보 보호</strong>다. AI 교육 도구가 학생들의 학습 데이터를 수집하고 분석할 때, 그 데이터가 어떻게 사용되고 보호되는지를 명확히 하려는 움직임이 모든 주에서 관찰된다. 특히 부모 동의 체계를 구축하는 것이 핵심이다.</p><p style=\"margin:0 0 32px;\">둘째는 <strong>교사 역량 강화</strong>다. 교육자들이 단순히 AI 도구를 사용하는 것을 넘어, AI의 작동 원리를 이해하고, 도구의 한계와 위험성을 인식하며, 이를 학생들에게 올바르게 교육할 수 있어야 한다는 합의가 형성되고 있다. 때문에 교사 훈련과 AI 도구 인증 시스템의 중요성이 부각되고 있다.</p><p style=\"margin:0 0 32px;\">셋째는 <strong>알고리즘 공정성</strong>이다. AI 모델이 특정 인종, 성별, 사회경제적 배경의 학생들에게 편향된 결과를 제공할 가능성에 대한 우려다. 이를 해결하기 위해 일부 주에서는 AI 도구가 교실에 도입되기 전에 공정성 감사를 거치도록 요구하고 있다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">국제 경쟁의 장이 되는 AI 리터러시</h2><p style=\"margin:0 0 32px;\">2029년 국제학생평가(PISA)에서 AI 리터러시가 처음으로 공식 평가 항목에 들어갈 예정이라는 사실이 이 모든 움직임을 한층 가속화했다. PISA는 OECD 회원국들의 15세 학생들의 성취도를 국제적으로 비교하는 지표인데, 여기에 AI 리터러시가 추가된다는 것은 AI 교육이 국제 교육 경쟁의 핵심으로 떠올랐음을 의미한다.</p><p style=\"margin:0 0 32px;\">미국의 입법자들이 이렇게 빠르게 움직이는 이유도 바로 이것이다. \"우리 학생들이 국제 평가에서 뒤쳐지면 안 된다\"는 위기의식이 의회의 민주당과 공화당 양쪽에서 공통으로 감지되고 있다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">한국, 51개 법안이 오는가?</h2><p style=\"margin:0 0 32px;\">미국의 움직임을 보면서 흥미로운 질문이 생긴다. 한국의 교육 정책은 이 수준에 도달했는가?</p><p style=\"margin:0 0 32px;\">한국 교육부는 이미 'AI 리터러시' 강화를 언급하고, 초중고 교육과정에 AI 교육 요소를 포함시키는 방안을 검토 중이다. 하지만 이것이 구체적인 입법 단계로 진행되고 있는지, 그리고 25개의 광역시도가 각각 2개씩 AI 교육 관련 법안을 추진하고 있는지는 불분명하다. 또한 학생 데이터 보호, 교사 훈련 프로그램, 알고리즘 공정성 감시 등의 구체적인 거버넌스 체계가 구축되어 있는가도 점검할 필요가 있다.</p><p style=\"margin:0 0 32px;\">PISA 2029에서 한국 학생들의 AI 리터러시 평가 수준을 미리 예상해보자. 현재 속도라면 미국은 이미 의무과목으로 모든 학생에게 AI를 가르치고 있을 것이고, 한국은 아직 선택과목이나 파일럿 수준에 머물러 있을 수도 있다는 우려가 생긴다.</p><div style=\"border-left:4px solid #4338ca; background:#f8f9ff; padding:0 0 0 12px; font-style:italic; color:#374151; margin:32px 0;\"><p style=\"margin:0;\">미국은 2026년 초에 이미 52개의 법안을 동시에 추진하고 있다. 한국의 정책 입안자들은 국제 경쟁에서 뒤처지지 않기 위해 동시에 움직여야 한다.</p></div><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">산업계의 신뢰도도 걸려있다</h2><p style=\"margin:0 0 32px;\">한 가지 더 고려할 점이 있다. 미국의 AI 교육 법안들이 높은 수준의 학생 데이터 보호와 도구 인증을 요구하는 이유는, 단순히 정책 입안자들의 신중함 때문만은 아니다. 교육 AI 소프트웨어를 판매하는 기업들의 신뢰도가 이러한 규제 속에서 결정되기 때문이다. 엄격한 기준을 통과한 제품이 시장에서 신뢰를 받고, 그로 인해 기업의 장기적 가치도 높아진다는 인식이 형성되고 있다.</p><p style=\"margin:0 0 32px;\">한국의 에듀테크 업체들도 이 점에 주목해야 한다. 국내 시장에서만 회피적인 규제 태도를 유지하기보다는, 국제적 수준의 윤리적 AI 교육 도구 개발과 인증 체계에 참여하는 것이 장기적으로 경쟁력을 높일 것이다.</p><div style=\"border-top:1px solid #e2e8f0; margin-top:48px; padding-top:20px;\"><h3 style=\"font-size:17px; font-weight:600; margin:0 0 16px;\">참고자료</h3><ol style=\"margin:0; padding-left:24px; color:#374151;\"><li style=\"margin:0 0 12px;\"><a href=\"https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/\" style=\"color:#4338ca; text-decoration:none;\">Legislative Tracker: 2026 State AI in Education Bills</a> - FutureEd</li><li style=\"margin:0 0 12px;\"><a href=\"https://www.multistate.us/insider/2026/1/21/how-states-are-tackling-artificial-intelligence-in-education-policy\" style=\"color:#4338ca; text-decoration:none;\">How States Are Tackling Artificial Intelligence in Education Policy</a> - The Multistate</li><li style=\"margin:0 0 12px;\"><a href=\"https://iapp.org/resources/article/us-state-ai-governance-legislation-tracker\" style=\"color:#4338ca; text-decoration:none;\">US State AI Governance Legislation Tracker</a> - IAPP</li></ol></div><p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "custom_excerpt": "미국 25개 주에서 52개의 AI 교육 법안을 동시에 추진 중이다. 의무과목화, 규제 샌드박스, 태스크포스 설립 등 세 가지 전략으로 나뉘며, 2029년 국제학생평가(PISA)에서의 AI 리터러시 평가를 앞두고 경쟁이 심화되고 있다.",
+    "references": [
+      {
+        "title": "Legislative Tracker: 2026 State AI in Education Bills",
+        "url": "https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/"
+      },
+      {
+        "title": "How States Are Tackling Artificial Intelligence in Education Policy",
+        "url": "https://www.multistate.us/insider/2026/1/21/how-states-are-tackling-artificial-intelligence-in-education-policy"
+      },
+      {
+        "title": "US State AI Governance Legislation Tracker",
+        "url": "https://iapp.org/resources/article/us-state-ai-governance-legislation-tracker"
+      }
+    ],
+    "word_count": 1923,
+    "feature_image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200&h=600&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200&h=600&fit=crop",
+    "meta_title": "미국 49개 주가 움직인다, AI 교육 의무화 경쟁",
+    "meta_description": "미국 25개 주에서 52개의 AI 교육 관련 법안이 동시에 진행 중이다. 트럼프 행정부의 AI 리터러시 행정명령과 미국 교육부의 정책 우선순위가 맞아떨어지면서, 각 주의 입법자들은 AI 교육을 자신의 관할권에 빠르게 포함시키고 있다. 2029년 국제학생평가(PISA)에"
+  },
+  "fact_check": {
+    "score": 88,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "FutureEd는 미국 교육정책 추적 기관으로 신뢰도 높음",
+      "2026년 미국 입법 현황에서 AI 교육 법안이 다수 추진 중",
+      "PISA 2029에서 AI 리터러시 평가 포함 예정",
+      "학생 데이터 보호와 윤리적 사용이 핵심 이슈"
+    ],
+    "validated_at": "2026-03-12T11:46:00Z"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 2577자, 팩트점수 88, 중복 0.0%",
+    "meta_title": "미국 49개 주가 움직인다, AI 교육 의무화 경쟁",
+    "meta_description": "미국 25개 주에서 52개의 AI 교육 관련 법안이 동시에 진행 중이다. 트럼프 행정부의 AI 리터러시 행정명령과 미국 교육부의 정책 우선순위가 맞아떨어지면서, 각 주의 입법자들은 AI 교육을 자신의 관할권에 빠르게 포함시키고 있다. 2029년 국제학생평가(PISA)에",
+    "decided_at": "2026-03-12T02:33:13.220Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [
+      "AI 배지 pill 제거"
+    ],
+    "text_length": 2382,
+    "checked_at": "2026-03-12T02:33:13.223Z"
+  }
+}

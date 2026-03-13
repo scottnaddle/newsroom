@@ -1,0 +1,59 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Inside the $5B chip lab where Applied and Micron race for faster AI memory",
+    "url": "https://www.stocktitan.net/news/AMAT/applied-materials-and-micron-partner-to-advance-u-s-innovation-in-b6dvt8uu9akp.html",
+    "source_name": "StockTitan",
+    "language": "en",
+    "relevance_score": 89,
+    "summary": "Applied Materials and Micron partnered to establish a $5B EPIC Center, the largest US investment in advanced chip equipment R&D. The collaboration aims to accelerate AI memory development and speed lab-to-fab workflows.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-11T17:04:00Z"
+  },
+  "digest": {
+    "headline": "Applied와 Micron, 50억 달러 AI 메모리 개발 센터 공동 설립",
+    "lead": "미국 반도체 장비 업체 Applied Materials와 메모리 칩 제조사 Micron이 실리콘밸리에 50억 달러 규모의 EPIC 센터를 구축하기로 협력했다. 에너지 효율적인 AI 시스템용 차세대 DRAM, 고대역폭 메모리(HBM), NAND 저장장치 개발을 목표로 한다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">⚡ AI Digest</span>\n  </div>\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">미국 반도체 장비 업체 Applied Materials와 메모리 칩 제조사 Micron이 실리콘밸리에 50억 달러 규모의 EPIC 센터를 구축하기로 협력했다. 에너지 효율적인 AI 시스템용 차세대 DRAM, 고대역폭 메모리(HBM), NAND 저장장치 개발을 목표로 한다.</p>\n  </div>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Applied Materials의 EPIC 센터는 미국 역사상 반도체 장비 R&D에 투자된 최대 규모 프로젝트다. 이번 Micron과의 협력을 통해 Applied의 실리콘밸리 연구센터와 Micron의 보이시(Boise) 혁신센터가 연계된 '연구실에서 생산라인으로(lab-to-fab)' 개발 파이프라인을 구축한다. 양사는 수십 년간 메모리 칩 개발에서 협력해온 경험을 바탕으로 재료공학과 제조 혁신에 집중할 계획이다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 파트너십은 AI 인프라 확산에 필수적인 메모리 칩 개발 속도를 획기적으로 단축할 수 있다. HBM(고대역폭 메모리)은 AI 데이터센터의 핵심 부품이며, 에너지 효율성 개선은 차세대 AI 시스템 운영 비용을 크게 낮춘다. EPIC 센터는 2026년 개장 예정이며, 자본 지출은 고객 프로젝트가 시작되면서 단계적으로 50억 달러 규모로 확대될 예정이다. 이는 반도체 공급망 자립화와 미국의 기술 리더십 강화라는 전략적 의미도 담고 있다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">에너지 효율적인 고대역폭 메모리의 개발은 에듀테크 기업들의 AI 학습 모델 구축 비용을 대폭 절감할 수 있다. 또한 고도로 최적화된 메모리 솔루션의 등장으로 AI 기반 교육 플랫폼의 실시간 개인화 학습, 대규모 자동채점 시스템, 음성·이미지 인식 기반 학습 분석 등의 도입이 가속화될 전망이다.</p>\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.stocktitan.net/news/AMAT/applied-materials-and-micron-partner-to-advance-u-s-innovation-in-b6dvt8uu9akp.html\" style=\"color:#FF6B35;text-decoration:none;\">StockTitan</a></p>\n  </div>\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "semiconductor"
+    ],
+    "meta_title": "Applied와 Micron, 50억 달러 AI 메모리 센터 공동 설립",
+    "meta_description": "미국 반도체 장비업체 Applied Materials와 Micron이 실리콘밸리에 50억 달러 규모의 EPIC 센터를 구축해 차세대 AI 메모리 칩 개발을 가속화한다.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T17:04:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T08:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "rejected",
+      "reason": "Ghost API error: 401 {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"01491c00-1d25-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}",
+      "timestamp": "2026-03-11T08:33:39.816Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-11T08:33:58.600Z"
+    }
+  ],
+  "rejection_reason": "Ghost API error: 401 {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"01491c00-1d25-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}",
+  "publish_result": {
+    "ghost_post_id": "69b128f65d8fee00015089f1",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b128f65d8fee00015089f1",
+    "public_url": "https://ubion.ghost.io/appliedwa-micron-50eog-dalreo-ai-memori-gaebal-senteo-gongdong-seolrib/",
+    "status": "published",
+    "published_at": "2026-03-11T08:33:58.599Z"
+  }
+}

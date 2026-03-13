@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Rival AI Employees Back Anthropic's Suit Against Pentagon's 'Risk' Label",
+    "url": "https://dailytechnewsshow.com/2026/03/10/rival-ai-employees-back-anthropics-suit-against-pentagons-risk-label-dth/",
+    "source_name": "Daily Tech News Show",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "Over 30 employees from Google DeepMind, OpenAI, and other AI companies filed an amicus brief supporting Anthropic's lawsuit against the U.S. government over Pentagon's supply-chain risk designation. The brief argues the sanction harms U.S. competitiveness and defense capabilities.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-11T02:05:00Z"
+  },
+  "digest": {
+    "headline": "경쟁사 AI 종업원들, Anthropic의 펜타곤 '리스크' 지정 소송 지지",
+    "lead": "Google DeepMind, OpenAI 등 경쟁 AI 기업의 30명 이상 직원들이 Anthropic의 미국 정부 소송을 지지하는 법정 의견서(amicus brief)를 제출했다. 펜타곤의 '공급망 위험' 지정이 미국 AI 경쟁력과 국방 능력에 해를 끼친다고 주장한 것이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">Google DeepMind, OpenAI 등 경쟁 AI 기업의 30명 이상 직원들이 Anthropic의 미국 정부 소송을 지지하는 법정 의견서를 제출했다. 펜타곤의 '공급망 위험' 지정이 미국 AI 경쟁력과 국방 능력에 해를 끼친다고 주장한 것이다.</p>\n  </div>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Anthropic이 펜타곤과의 자율 무기 및 국내 감시에 대한 사용 제한 합의를 거부하자, 미국 국방부는 Anthropic을 '공급망 위험' 기업으로 지정했다. 이는 역사적으로 적대국을 대상으로만 적용돼온 초이례적 조치다. 이에 맞서 Anthropic은 이 지정이 '전례 없고 위법'이라며 연방법원에 소송을 제기했다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">기술 기업 간 경쟁에도 불구하고, AI 안전과 규제 정책에 대해 연대하는 모습을 보여준 의미 있는 사건이다. 공동 의견서는 Anthropic의 공급망 위험 지정이 \"미국 혁신을 훼손\"하고 \"전문적 논의를 위축\"시킨다고 지적했으며, 법적 근거 없이 AI 기업의 국방 계약을 제한하는 것의 위험성을 강조했다. 향후 AI 규제와 국방 정책 방향에 영향을 미칠 핵심 판례가 될 가능성이 높다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 안전 규제의 방향성은 교육 AI 서비스 개발사에 중대한 영향을 미친다. 정부의 자의적 규제보다는 산업 표준과 투명한 기준이 수립될 경우, 교육용 AI 도구의 개발과 배포가 더욱 활성화될 수 있다. 또한 이번 소송이 AI 기업 간 협력과 합의 중심의 규제 체계를 선호하는 결과로 이어진다면, 에듀테크 스타트업들도 더 개방적인 정책 환경에서 혁신을 추진할 수 있을 것으로 예상된다.</p>\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://dailytechnewsshow.com/2026/03/10/rival-ai-employees-back-anthropics-suit-against-pentagons-risk-label-dth/\" style=\"color:#FF6B35;text-decoration:none;\">Daily Tech News Show</a></p>\n  </div>\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "technology"
+    ],
+    "meta_title": "경쟁사 AI 종업원들, Anthropic의 펜타곤 소송 지지",
+    "meta_description": "Google DeepMind, OpenAI 등 30명 이상 직원, Anthropic의 펜타곤 '공급망 위험' 지정 소송 지지. AI 규제 정책에 미치는 영향 분석.",
+    "word_count": 580
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T02:05:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T02:15:30Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-11T05:36:16.452Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b0ff505d8fee00015089c4",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b0ff505d8fee00015089c4",
+    "public_url": "https://ubion.ghost.io/gyeongjaengsa-ai-jongeobweondeul-anthropicyi-pentagon-riseukeu-jijeong-sosong-jiji/",
+    "status": "published",
+    "published_at": "2026-03-11T05:36:16.000Z"
+  }
+}

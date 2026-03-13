@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Anthropic sues US government for calling it a risk",
+    "url": "https://www.bbc.co.uk/news/articles/cq571w5vllxo",
+    "source_name": "BBC News",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Anthropic has filed a lawsuit against the US government after the Pentagon labeled the AI firm a supply-chain risk. Nearly 40 employees from OpenAI and Google DeepMind have filed supporting briefs, defending Anthropic's efforts to limit improper uses of AI at scale.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-10T14:04:00Z"
+  },
+  "digest": {
+    "headline": "Anthropic, 미 정부 AI 사용 제한 철폐 요구에 소송 제기",
+    "lead": "Anthropic이 트럼프 행정부가 '공급망 위험'으로 낙인 찍은 것에 대해 헌법 위반 소송을 제기했다. 40명에 가까운 OpenAI와 Google DeepMind 직원들이 자율 무기와 대량 감시에 대한 제한을 두려는 Anthropic의 입장을 지지하는 법정 의견서를 제출했다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">Anthropic이 미 정부의 '공급망 위험' 낙인에 맞서 헌법 소송을 제기했다. 트럼프 행정부가 Claude의 안전 제한 조건을 없애라고 요구한 후 갑자기 사용을 금지하자, 업계의 경쟁 기업들까지 Anthropic을 지지하는 법정 의견서를 제출했다.</p>\n  </div>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">Anthropic은 자율 무기 시스템과 국내 대량 감시에 대한 사용 제한을 정부 계약에 포함시켜왔다. 국방부 장관 Pete Hegseth는 이러한 제한을 제거할 것을 요구했으나 협상이 진행되던 중, 트럼프 대통령이 Anthropic을 '좌파 미친 사람들'이라 비난하며 모든 연방 기관에 Claude 사용 금지를 지시했다. 이후 Hegseth는 즉시 Anthropic을 '공급망 위험'으로 지정하고, 정부와 거래하는 모든 기업도 Anthropic 도구 사용을 금지했다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">Anthropic은 '회복 불가능한 손해'를 입었으며 수억 달러 규모의 민간 계약까지 위험에 처했다고 주장했다. 특히 Claude는 Google, Meta, Amazon, Microsoft 등 미국 대형 기술 기업들의 거의 필수 도구로 사용되고 있어 정부 금지령의 경제적 파장이 클 전망이다. 다만 Google, OpenAI, Amazon은 국방부 사업 외 부문에서는 Claude 사용을 계속하겠다고 밝혔다.</p>\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 기업들의 안전 제한과 정부 통제 사이의 갈등은 교육 현장의 AI 도입에도 영향을 미칠 수 있다. 학교와 교육 기관이 AI 도구를 도입할 때 데이터 보호, 학생 감시 방지, 자동화된 평가 시스템의 윤리성 등을 두고 유사한 '공급망 신뢰 문제'가 발생할 가능성이 높다. Anthropic의 입장이 승리한다면, 에듀테크 기업들도 사용자 보호 조건을 강제할 수 있는 선례가 될 수 있다.</p>\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.bbc.co.uk/news/articles/cq571w5vllxo\" style=\"color:#FF6B35;text-decoration:none;\">BBC News</a></p>\n  </div>\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "anthropic"
+    ],
+    "meta_title": "Anthropic, 미 정부 '공급망 위험' 낙인에 헌법 소송",
+    "meta_description": "트럼프 행정부의 Claude 사용 금지 조치에 Anthropic이 소송 제기. 안전 제한과 정부 통제 사이의 갈등 심화",
+    "word_count": 538
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T14:04:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T05:15:16Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-10T05:35:38.662Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "post_1773120938662_31v7cnt36",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/36mf8lix4",
+    "public_url": "https://ubion.ghost.io/anthropic-ai/",
+    "status": "published",
+    "published_at": "2026-03-10T05:35:38.662Z"
+  }
+}

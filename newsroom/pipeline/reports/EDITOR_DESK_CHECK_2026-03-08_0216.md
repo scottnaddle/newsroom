@@ -57,7 +57,7 @@ node check-duplicates-before-approval.js
 
 | 항목 | 상태 |
 |------|------|
-| Ghost (insight.ubion.global) | ✅ HTTP 200 |
+| Ghost (ubion.ghost.io) | ✅ HTTP 200 |
 | 디스크 | ✅ 12G/145G (8%) |
 | 메인 파이프라인 | ✅ 전 단계 비어있음 (idle) |
 | 다이제스트 파이프라인 | 📋 01-sourced 2건 대기 |

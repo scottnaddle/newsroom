@@ -63,7 +63,11 @@
       }
     ],
     "word_count": 920,
-    "category": "policy"
+    "category": "policy",
+    "feature_image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.810Z",
+    "image_verified": false
   },
   "quality_report": {
     "structure_score": 100,
@@ -231,13 +235,7 @@
       "agent": "publisher",
       "action": "published",
       "timestamp": "2026-03-07T03:25:31.603Z",
-      "note": "Ghost published: https://insight.ubion.global/global-education-policy-paradigm-shift/"
+      "note": "Ghost published: https://ubion.ghost.io/global-education-policy-paradigm-shift/"
     }
-  ],
-  "publish_result": {
-    "ghost_post_id": "69ab9a7dff4fbf0001ab728f",
-    "ghost_post_url": "https://insight.ubion.global/global-education-policy-paradigm-shift/",
-    "status": "published",
-    "published_at": "2026-03-07T03:25:31.603Z"
-  }
+  ]
 }

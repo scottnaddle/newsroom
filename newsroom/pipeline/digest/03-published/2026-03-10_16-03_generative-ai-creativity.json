@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Generative AI Now Beats Humans on Creativity Tests, Study Shows",
+    "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+    "source_name": "ScienceDaily",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "A comprehensive study comparing over 100,000 people with advanced AI systems demonstrates that generative AI can now outperform the average human on certain creativity tests. This breakthrough indicates significant progress in AI's ability to perform tasks previously thought to require human creativity.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-10T16:03:00Z"
+  },
+  "digest": {
+    "headline": "생성형 AI, 창의성 테스트에서 인간 능력 추월",
+    "lead": "최근 10만 명 이상의 인간과 최신 생성형 AI 모델을 비교한 대규모 연구에서 생성형 AI가 창의성 테스트에서 평균 인간을 능가하는 결과가 나왔다. 그동안 인간만의 영역으로 여겨지던 창의력 분야에서 AI의 능력이 임계점을 넘어선 순간이다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">최근 10만 명 이상의 인간과 최신 생성형 AI 모델을 비교한 대규모 연구에서 생성형 AI가 창의성 테스트에서 평균 인간을 능가하는 결과가 나왔다. 그동안 인간만의 영역으로 여겨지던 창의력 분야에서 AI의 능력이 임계점을 넘어선 순간이다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">지금까지 AI는 데이터 분석, 패턴 인식, 논리적 추론 같은 '좌뇌적' 작업에는 뛰어나지만, 새로운 아이디어를 생성하고 문제를 창의적으로 해결하는 '우뇌적' 능력은 인간에 비해 제한적이라는 평가가 지배적이었다. 이번 연구는 그런 가정에 의문을 제기한다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">연구에 따르면 생성형 AI는 특정 창의성 테스트에서 평균 인간을 능가한다는 결과를 얻었다. 다만 '창의성'은 단일 지표가 아니며, 새로운 아이디어를 얼마나 현실적이고 가치 있게 구현하느냐는 별개의 문제다. 이번 발견은 AI를 도구가 아닌 '공동 창작자'로 보는 관점 전환을 촉발할 것으로 예상된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI가 창의성에서 인간을 능가한다는 결과는 교육의 방향성을 재정의한다. 암기와 객관식 문제는 AI에 맡기고, 학교 교육은 AI 도구와 협력하면서 비판적 사고, 감정 지능, 도덕적 판단 같은 인간만의 고유 역량 개발에 집중해야 한다는 논의를 가속화할 것이다. 또한 AI와 함께 창의적 작업을 수행할 수 있는 능력 자체가 새로운 교육 목표로 부상할 전망이다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.sciencedaily.com/news/computers_math/artificial_intelligence/\" style=\"color:#FF6B35;text-decoration:none;\">ScienceDaily</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "research",
+      "ai"
+    ],
+    "meta_title": "생성형 AI, 창의성 테스트에서 인간 능력 추월",
+    "meta_description": "10만 명 이상 대규모 연구로 확인된 AI의 창의성 능력 향상이 교육 패러다임 변화를 예고",
+    "word_count": 530
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T16:03:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T07:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-10T07:34:56.720Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69afc9a015c2cc0001bbe0b8",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69afc9a015c2cc0001bbe0b8",
+    "public_url": "https://ubion.ghost.io/saengseonghyeong-ai-cangyiseong-teseuteueseo-ingan-neungryeog-cuweol/",
+    "status": "published",
+    "published_at": "2026-03-10T07:34:56.720Z"
+  }
+}

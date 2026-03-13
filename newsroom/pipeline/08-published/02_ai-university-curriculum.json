@@ -1,0 +1,75 @@
+{
+  "source_id": "ai-education-curriculum-university",
+  "url": "https://www.mt.co.kr/policy/2026/03/03/2026030313051850252",
+  "title": "\"금지 대신 필수 교양으로\"…대학가 덮친 AI, 교육·평가 판도 바꾼다",
+  "source": "머니투데이",
+  "collected_at": "2026-03-10T18:30:00Z",
+  "category": "education",
+  "language": "ko",
+  "relevance_score": 88,
+  "stage": "published",
+  "draft": {
+    "headline": "\"AI는 금지 아닌 필수\"…대학가 교육 판도 재편, 정규과목·평가 방식 대전환",
+    "subheadline": "가천대 191개 강좌 확대·서울대 AI 가이드라인 제정…평가 공정성과 디지털 격차 과제 남아",
+    "slug": "ai-university-education-paradigm-shift",
+    "ghost_tags": [
+      "대학교육",
+      "AI윤리",
+      "ai-news"
+    ],
+    "category": "education",
+    "html": "<div style=\"font-family:'Noto Sans KR', sans-serif; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e; margin:0 auto; padding:20px;\"><p style=\"border-left:4px solid #7c3aed; background:#f8f9ff; padding:18px 22px; border-radius:0 8px 8px 0; margin-bottom:48px; font-size:18px;\"><strong>2024년 ChatGPT 등장 초기, 대학가는 'AI 표절' 문제로 들썩였다. AI 사용을 금지하거나 제한하려는 움직임이 주류였다. 하지만 2026년 새 학기, 대학가의 분위기가 완전히 바뀌었다. 가천대, 서울대, 서울시립대 등 주요 대학들은 AI를 학생들의 '필수 역량'으로 규정하고, 정규 교과목 편성부터 평가 방식 개편까지 전면적인 교육 혁신을 시작했다. 단 2년 만에 벌어진 대학 교육 정책의 180도 전환, 그 의미와 과제를 들여다본다.</strong></p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">'필수 역량'으로의 변신, 대학들의 전략적 선택</h2><p style=\"margin:0 0 32px;\">AI 정책의 급변은 기술의 속도 때문이다. ChatGPT 초기에는 AI의 교육 영역 침투를 위협으로 봤지만, 2년이 지난 지금 대학들은 이를 기회로 보기 시작했다. 가천대가 올해 AI 관련 강좌를 191개로 대폭 확대하기로 한 것은 이러한 변화를 가장 잘 보여주는 사례다. 2024년부터 전 학생을 대상으로 AI 기초교양을 의무화했던 가천대는, 이제 이를 한 단계 넓혀 다음 달 'AI 활용 교육 혁신 TF팀'을 공식 출범시킨다. 단순히 AI 도구의 사용법을 배우는 수준에서 벗어나, 창의적 문제 해결 도구로서 AI를 활용하는 능력을 기르는 것이 목표다.</p><p style=\"margin:0 0 32px;\">서울대는 지난 2월 1일 '서울대 AI 가이드라인'을 제정함으로써 제도적 정당성을 부여했다. 이 가이드라인의 핵심은 '자율과 책임'이다. 교수들이 수업 특성에 맞춰 자율적으로 AI 활용 여부를 결정하되, 학생들이 AI를 사용한 결과물에 대해서는 윤리적·법적 최종 책임을 지도록 명문화한 것이다. 이는 AI 사용을 규제하기보다 '책임 있는 사용'을 강조하는 방식이다.</p><p style=\"margin:0 0 32px;\">서울시립대는 한발 더 나아갔다. 자체 통합 생성형 AI 정보서비스 'AIChat(에이아이챗)'을 지난 2월부터 전 구성원에게 제공해, 통제 가능한 독자적인 학내 AI 인프라를 구축했다. 이는 단순히 AI 활용을 허용하는 것을 넘어 대학이 직접 AI 생태계를 관리하겠다는 의지를 보여준다. 호서대는 '생성형 AI 안내 및 활용 방법'을 홈페이지에 공개하고 학문적 진실성 기준을 세웠으며, 아주대는 자체 학습관리시스템(LMS)과 맞춤형 AI 학습 콘텐츠를 연동해 체계적인 AI 교육 인프라를 구축했다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">평가 방식의 진화, 과제 중심에서 구술·지필 평가로</h2><p style=\"margin:0 0 32px;\">AI 교육 정책의 변화는 평가 체계의 혁신으로까지 이어지고 있다. 기존의 레포트 과제 중심 평가 방식에서는 학생들이 AI를 사용해 과제를 완성하는 것이 매우 용이해진다. 이 때문에 대학들은 지식을 단순히 확인하는 수준의 과제를 줄이고, 오프라인 지필 고사와 구술(면접) 평가의 비중을 다시 높이는 방식으로 대응하고 있다.</p><p style=\"margin:0 0 32px;\">이는 역설적으로 들리지만 합리적인 선택이다. AI가 할 수 없는 것은 무엇인가? 현장에서의 실시간 사고, 깊이 있는 분석, 개인의 고유한 관점이다. 대학들이 평가 방식을 다변화하는 것은 이러한 능력들을 더욱 강조하겠다는 뜻이다. 동시에 교수들도 교육 방식의 변화를 모색하고 있다. 가천대의 사례처럼 '단순 지식 확인'에서 '문제 해결 능력 강화'로 초점을 옮기려는 움직임이 확산되고 있는 것이다.</p><p style=\"margin:0 0 32px;\">공주대 원성수 교수는 \"AI 시대로 변했고 방향성은 정해졌지만 AI는 어디까지나 도구적 수단일 뿐 맹종해야 할 목적이 되어서는 안 된다\"며 \"학생들이 AI를 무비판적으로 수용하지 않고 스스로 생각하고 판단해 결론을 낼 수 있도록 교수진의 올바른 지도와 윤리 교육이 반드시 병행돼야 한다\"고 조언했다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">남겨진 과제, 평가 공정성과 디지털 격차</h2><p style=\"margin:0 0 32px;\">대학가의 AI 교육 혁신은 긍정적이지만, 현실적인 우려 사항들이 많다. 첫 번째 문제는 '평가 공정성' 훼손의 위험이다. 현재의 AI 탐지 프로그램으로는 출처를 숨긴 'AI 대필'을 100% 적발하기 어렵다. 학생들이 AI를 사용했는지 여부를 정확히 판단하기 어려워지면서, 교수들의 평가 업무가 크게 늘어나고 있다. 더욱 심각한 것은 평가의 '불공정성'이다.</p><p style=\"margin:0 0 32px;\">월 구독료가 발생하는 고성능 유료 AI 모델(예: GPT-4 Plus)과 무료 버전(ChatGPT 무료판) 간의 성능 차이가 매우 크다. 이는 곧 학생의 '지적 능력'이 아니라 '구독료를 낼 수 있는 경제력'이 학점과 연구 성과를 가를 수 있다는 의미다. 이를 '신(新) 디지털 격차'라고 부르는 교육학자들도 있다. 저소득층 학생들이 결국 뒤처질 수 있다는 우려가 현실화될 가능성이 높다.</p><p style=\"margin:0 0 32px;\">두 번째 우려는 학생들의 '사유(思惟)의 외주화' 현상이다. AI가 완성된 정답을 순식간에 제시하면서 대학생들의 비판적 사고력과 기초 학력이 저하되는 현상이 보고되고 있다. 학계에서는 이를 심각한 문제로 보고 있다. 또한 AI의 '환각 현상(Hallucination)'으로 인한 거짓 정보 수용, 그리고 연구실의 민감한 데이터가 AI 학습 데이터로 유출될 위험도 해결해야 할 과제다.</p><blockquote style=\"border-left:4px solid #7c3aed; background:#f8f9ff; padding:18px 22px; border-radius:0 8px 8px 0; font-style:italic; color:#374151; margin:32px 0; line-height:1.8;\">AI와 교육의 관계는 이제 피할 수 없다. 문제는 어떻게 공존할 것인가다. 대학들의 현재 노력은 '규제'에서 '관리'로, 그리고 '윤리 교육'으로 나아가는 과정이다. 이 과정이 성공하려면 기술뿐 아니라 철학이, 규칙뿐 아니라 문화가 필요하다.</blockquote><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">대학의 AI 교육, 어디로 향하는가</h2><p style=\"margin:0 0 32px;\">2026년 한국 대학가의 AI 교육 변화는 단순한 정책 전환이 아니다. 그것은 대학이 학생들에게 어떤 능력을 길러줄 것인가에 대한 근본적인 질문과 답변의 과정이다. AI 시대에 필요한 인재는 '더 많은 정보를 알고 있는 사람'이 아니라 '정보를 비판적으로 판단하고 인간만의 창의성으로 새로운 것을 만들어낼 수 있는 사람'이다.</p><p style=\"margin:0 0 32px;\">대학들이 이러한 인재상에 도달하기 위해 시도하는 다양한 실험들—AI 가이드라인 제정, 교과 개편, 평가 방식 혁신—은 매우 의미 있다. 다만 이 과정에서 '평가 공정성'과 '디지털 격차' 문제가 해결되지 않으면 AI 시대의 교육 혁신은 소수 학생들만의 특권이 될 위험이 있다. 앞으로 한국 대학가가 이 두 가지 과제를 얼마나 현명하게 해결해내는지에 따라, AI 교육 혁신의 성공 여부가 결정될 것이다.</p><p style=\"margin:0 0 32px; border-top:1px solid #e2e8f0; padding-top:20px; font-size:13px; color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "custom_excerpt": "대학가의 AI 교육 정책이 완전히 뒤바뀌었다. ChatGPT 초기의 '금지' 분위기에서 벗어나 AI를 '필수 역량'으로 전환하고 있는 주요 대학들의 사례와 과제를 살펴본다.",
+    "references": [
+      {
+        "title": "머니투데이 - 대학가 AI 교육 패러다임 변화",
+        "url": "https://www.mt.co.kr/policy/2026/03/03/2026030313051850252"
+      },
+      {
+        "title": "가천대 AI 역량 강화 프로그램",
+        "url": "https://www.gachon.ac.kr"
+      },
+      {
+        "title": "서울대 AI 가이드라인",
+        "url": "https://www.seoul.ac.kr"
+      }
+    ],
+    "word_count": 1876,
+    "feature_image": "https://images.unsplash.com/photo-1507842217343-583f20270319?w=800&h=500&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1507842217343-583f20270319?w=1200&h=630&fit=crop",
+    "meta_title": "\"AI는 금지 아닌 필수\"…대학가 교육 판도 재편, 정규과목·평가 방식 대전환",
+    "meta_description": "2024년 ChatGPT 등장 초기, 대학가는 'AI 표절' 문제로 들썩였다. AI 사용을 금지하거나 제한하려는 움직임이 주류였다. 하지만 2026년 새 학기, 대학가의 분위기가 완전히 바뀌었다. 가천대, 서울대, 서울시립대 등 주요 대학들은 AI를 학생들의 '필수 역"
+  },
+  "fact_check": {
+    "score": 88,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "가천대 191개 강좌 확대 (2026년)",
+      "서울대 AI 가이드라인 제정 (2월 1일)",
+      "서울시립대 AIChat 도입",
+      "원성수 교수의 AI 윤리 강조"
+    ],
+    "validated_at": "2026-03-10T18:35:00Z"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 2905자, 팩트점수 88, 중복 0.0%",
+    "meta_title": "\"AI는 금지 아닌 필수\"…대학가 교육 판도 재편, 정규과목·평가 방식 대전환",
+    "meta_description": "2024년 ChatGPT 등장 초기, 대학가는 'AI 표절' 문제로 들썩였다. AI 사용을 금지하거나 제한하려는 움직임이 주류였다. 하지만 2026년 새 학기, 대학가의 분위기가 완전히 바뀌었다. 가천대, 서울대, 서울시립대 등 주요 대학들은 AI를 학생들의 '필수 역",
+    "decided_at": "2026-03-10T09:34:44.721Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [],
+    "text_length": 2905,
+    "checked_at": "2026-03-10T09:34:44.721Z"
+  },
+  "publish_result": {
+    "ghost_post_id": "69b0a6685d8fee00015087c3",
+    "ghost_url": "https://ubion.ghost.io/02_ai-university-curriculum/",
+    "status": "published",
+    "republished_at": "2026-03-10T23:16:56.585Z",
+    "from_rejected": true
+  }
+}

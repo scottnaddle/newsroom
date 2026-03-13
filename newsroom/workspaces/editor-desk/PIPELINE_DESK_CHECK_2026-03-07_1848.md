@@ -27,7 +27,7 @@
 
 ### ✅ 발행 완료 (10개)
 1. **영국·미국, AI 교육 거버넌스 경쟁 본격화** (18:43)
-   - URL: https://insight.ubion.global/ai-education-revolution-2026-uk-us-korea/
+   - URL: https://ubion.ghost.io/ai-education-revolution-2026-uk-us-korea/
    - 품질점수: 93점
    
 2. **LG, 한국 최초 기업형 AI 대학원 개원** (12:34)

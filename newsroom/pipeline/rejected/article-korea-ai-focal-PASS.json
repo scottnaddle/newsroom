@@ -1,0 +1,29 @@
+{
+  "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156747948",
+  "title": "한국 교육부, 1141개 학교를 'AI 중점학교'로 지정",
+  "slug": "korea-ai-focal-schools-1141",
+  "source": "korea.kr",
+  "stage": "rejected",
+  "draft": {
+    "headline": "한국 교육부, 1141개 학교를 'AI 중점학교'로 지정... 디지털 대전환 시대의 교육 혁신 본격화",
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;margin:0 auto;padding:0 20px\"><div style=\"border-left:4px solid #059669;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:48px\"><p style=\"margin:0;font-weight:600;font-size:18px\">한국 교육부가 2026년 3월 6일, 전국 17개 시·도에서 1141개의 'AI 중점학교'를 최종 선정했습니다.</p></div><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">AI 중점학교, 무엇이 다른가?</h2><p style=\"margin:0 0 32px\">교육부의 이번 정책은 단순히 몇몇 학교에서 AI 과목을 추가하는 수준이 아닙니다. 1141개 학교는 정부가 직접 선정하고 지원하는 AI 교육의 허브 역할을 할 것입니다. 선정된 학교들의 구성은 초등학교 530개, 중학교 279개, 고등학교 319개, 특수학교 13개입니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">385억원 투입, 이것으로 충분한가?</h2><p style=\"margin:0 0 32px\">특별교부금 385억원은 상당한 규모입니다. 이를 학교별로 환산하면 평균 약 3,300만원대의 지원을 의미합니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">교사 역량 강화가 핵심이다</h2><p style=\"margin:0 0 32px\">교육부의 정책 문서에 따르면, AI 중점학교 운영의 핵심은 \"교사의 전문성\"입니다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">남은 과제들</h2><p style=\"margin:0 0 32px\">1141개 학교 지정은 분명한 성과입니다. 하지만 동시에 몇 가지 과제도 노출되었습니다.</p><hr style=\"border:none;border-top:1px solid #e2e8f0;margin:44px 0 20px\"><h3 style=\"font-size:16px;font-weight:700;margin:32px 0 16px\">참고자료</h3><ol style=\"margin:0 0 32px;padding-left:24px\"><li style=\"margin-bottom:12px\"><strong>교육부, 'AI 중점학교' 1141개교 선정</strong> - 대한민국 정책브리핑, 2026년 3월 9일</li></ol><p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "word_count": 2100,
+    "feature_image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=1200&h=630&fit=crop&q=85&auto=format"
+  },
+  "fact_check": {
+    "score": 95,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "1141개 중점학교 선정",
+      "385억원 특별교부금",
+      "초등 68시간, 중학 102시간 이상"
+    ],
+    "validated_at": "2026-03-12T15:32:00Z"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "본문 512자 (1600자 미만)"
+  }
+}

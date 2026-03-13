@@ -1,0 +1,53 @@
+{
+  "id": "1773223271096-44zdyhhla",
+  "stage": "rejected",
+  "source": {
+    "url": "https://www.ggoverallnews.co.kr/news/articleView.html?idxno=100051",
+    "title": "AI가 언어를 넘고, 에듀테크가 미래를 잇는 경기미래학교 안산원곡초 1년",
+    "query": "에듀테크 AI 학교",
+    "discovered_at": "2026-03-11T10:01:11.096Z"
+  },
+  "reporting_brief": {
+    "headline": "경기미래학교 안산원곡초, AI·에듀테크로 '모두의 교실' 실현"
+  },
+  "draft": {
+    "headline": "AI 로봇, 다국어 통역, VR 체험…안산원곡초가 보여준 미래교실",
+    "word_count": 1923
+  },
+  "fact_check": {
+    "score": 95,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "안산원곡초 2025년 6월 경기미래학교 준공 - 검증됨",
+      "전자칠판 36개 교실 전면 설치 - 검증됨",
+      "1인 4기 스마트 학습 환경(태블릿PC, 노트북, PC, VR 기기) - 검증됨",
+      "AI 로봇 '다다' 학습 비서로 순회 - 검증됨",
+      "다국어 AI 실시간 통역 시스템 도입 - 검증됨 (이주배경 학생 지원)",
+      "CREATOR SPACE, 스포츠테크실, 에듀테크실, 스마트팜 등 특별실 - 검증됨",
+      "학부모 대표 인터뷰: '디지털 시스템의 교육적 안전성' 내용 - 검증됨",
+      "김수진 교육장 인용문 - 검증됨",
+      "김주영 교장 인용문 - 검증됨"
+    ],
+    "validation_method": "web_search + 원본 기사 상세 교차 검증",
+    "structure_check": {
+      "lead_box": true,
+      "h2_sections": 4,
+      "references": true,
+      "ai_footer": true,
+      "passed": true
+    },
+    "content_check": {
+      "word_count_1600plus": true,
+      "min_sources_3": true,
+      "tone_consistency": true,
+      "readability": true,
+      "passed": true
+    },
+    "validated_at": "2026-03-11T10:30:48Z"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

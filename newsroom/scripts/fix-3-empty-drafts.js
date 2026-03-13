@@ -145,7 +145,7 @@ async function main() {
   console.log(`\n═════════════════════════════════════`);
   console.log(`✅ 성공: ${success}/3`);
   console.log(`❌ 실패: ${failed}/3`);
-  console.log(`\n🔗 Ghost에서 확인: https://insight.ubion.global/ghost/#/editor/post/`);
+  console.log(`\n🔗 Ghost에서 확인: https://ubion.ghost.io/ghost/#/editor/post/`);
 }
 
 main().catch(err => {

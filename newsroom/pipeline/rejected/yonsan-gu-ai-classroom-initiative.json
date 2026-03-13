@@ -1,0 +1,25 @@
+{
+  "id": "yonsan-gu-ai-classroom",
+  "stage": "rejected",
+  "draft": {
+    "headline": "서울 용산구 \"신나는 AI 교실\" 본격 운영... 초·중·고 27개교 디지털 혁신",
+    "subheadline": "지역 교육청의 실험: AI 리터러시부터 정서 상담까지, 학생 '전인적 성장' 목표",
+    "slug": "yonsan-gu-ai-classroom",
+    "word_count": 1850
+  },
+  "fact_check": {
+    "score": 91,
+    "verdict": "PASS ✅",
+    "verified_claims": [
+      "용산구 2026년 교육협력특화지구 사업 (March 9, 2026) - 확인됨",
+      "27개 학교로 확대 (22개에서) - 확인됨",
+      "872억 원 예산 (5억 7천만 증액) - 확인됨",
+      "'신나는 AI 교실' 프로그램 - 확인됨"
+    ],
+    "validated_at": "2026-03-11T17:32:00+09:00"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

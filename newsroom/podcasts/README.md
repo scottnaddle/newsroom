@@ -113,7 +113,7 @@ node generate-podcast.js
 ## 🔗 관련 링크
 
 ### 팟캐스트 기본
-- [에듀테크 인사이트](https://insight.ubion.global/)
+- [에듀테크 인사이트](https://ubion.ghost.io/)
 - [Ghost CMS 문서](https://ghost.org/docs/)
 
 ### 기술 참고

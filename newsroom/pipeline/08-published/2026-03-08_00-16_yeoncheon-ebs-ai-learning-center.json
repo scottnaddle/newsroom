@@ -69,7 +69,11 @@
     "word_count": 1028,
     "category": "research",
     "meta_title": "접경지역 연천에 AI 학습센터 개소, 정원 30명에 59명 지원",
-    "meta_description": "교육부 EBS자기주도학습센터 전국 50곳 중 하나로 연천군 선정. AI 학습진단으로 사교육 사각지대 해소 시도."
+    "meta_description": "교육부 EBS자기주도학습센터 전국 50곳 중 하나로 연천군 선정. AI 학습진단으로 사교육 사각지대 해소 시도.",
+    "feature_image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.813Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 88,
@@ -88,8 +92,6 @@
   },
   "desk_approved_at": "2026-03-08T00:50:22.834Z",
   "desk_notes": "접경지역 교육격차 해소라는 독자적 각도. 팩트체크 FLAG이나 issues 경미(지역매체 일관 보도). 기존 발행 기사와 중복 없음. 승인.",
-  "ghost_id": "69accce6ff4fbf0001ab74a3",
-  "ghost_url": "https://insight.ubion.global/p/d4506f18-0219-49e5-ae75-cd0e5e322479/",
   "ghost_slug": "jeobgyeongjiyeog-yeonceone-ai-hagseubsenteo-mun-yeolda-jeongweon-30myeonge-59myeong-molryeo",
   "published_at": "2026-03-08T01:12:14.770Z"
 }

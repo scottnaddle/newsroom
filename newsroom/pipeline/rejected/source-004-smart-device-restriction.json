@@ -1,0 +1,42 @@
+{
+  "id": "source-004",
+  "stage": "rejected",
+  "source": {
+    "title": "새학기 개학을 앞두고 학교 내 스마트기기 사용이 법률로 제한",
+    "url": "https://dazabi.com/insurance_magazine/article.php?id=8900",
+    "published": "2026-03-06"
+  },
+  "fact_check": {
+    "score": 89,
+    "verdict": "PASS",
+    "verified_claims": [
+      "Korea announced smart device restriction policy on March 6, 2026",
+      "118 laws/ordinances implemented in March 2026",
+      "Policy applies to K-12 schools starting new semester",
+      "Exemptions for learning purposes and assistive technology for disabled students",
+      "Health concerns: eye strain, sleep disorders, posture issues",
+      "OECD supports device-free learning environments research",
+      "France, Sweden, Australia have similar policies"
+    ],
+    "issues": [],
+    "validated_at": "2026-03-10T09:40:00Z",
+    "methodology": "Verified through South Korean government press releases (korea.kr), OECD Digital Education Outlook 2026, and international education policy databases."
+  },
+  "draft": {
+    "headline": "한국, 학교 내 스마트기기 사용 법률로 제한…'디지털 규제' 물결 타는 교육",
+    "subheadline": "3월부터 초·중등학교에서 스마트폰·태블릿 반입·사용 제한, 글로벌 흐름 속 한국의 선택",
+    "slug": "korea-school-smart-device-restriction-2026",
+    "ghost_tags": [
+      "정책",
+      "교육",
+      "한국",
+      "스마트기기"
+    ],
+    "category": "education",
+    "word_count": 1852
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "AMI Labs, founded by Yann LeCun, raises $1.03B at $3.5B pre-money valuation",
+    "url": "https://llm-stats.com/ai-news",
+    "source_name": "LLM Stats",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "AMI Labs, a new venture cofounded by Turing Prize winner Yann LeCun after departing Meta, has secured $1.03 billion in seed funding at a $3.5 billion pre-money valuation. This major funding round represents significant investor confidence in LeCun's new AI research and development initiative.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-10T22:04:00Z"
+  },
+  "digest": {
+    "headline": "야얀 르쿤의 AMI Labs, 35억 달러 평가액에 10.3억 달러 조달",
+    "lead": "튜링상 수상자이자 메타 선임 AI과학자 야얀 르쿤이 창립한 AMI Labs가 시드 펀딩 라운드에서 10.3억 달러를 조달했습니다. 35억 달러의 시전 평가액으로 진행된 이번 투자는 거대 AI 모델 개발 분야의 최고 석학에 대한 투자자들의 강한 신뢰를 보여줍니다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">튜링상 수상자이자 메타 선임 AI과학자 야얀 르쿤이 창립한 AMI Labs가 시드 펀딩 라운드에서 10.3억 달러를 조달했습니다. 35억 달러의 시전 평가액으로 진행된 이번 투자는 거대 AI 모델 개발 분야의 최고 석학에 대한 투자자들의 강한 신뢰를 보여줍니다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">야얀 르쿤은 딥러닝 분야의 선구자로 CNN 개발, 신경망 최적화 등에 기여했으며 2024년 튜링상을 수상했습니다. 메타를 떠나 새롭게 창립한 AMI Labs는 차세대 AI 연구개발에 집중하는 스타트업으로, 이번 대규모 펀딩은 AI 인프라 개발과 모델 연구에 투입될 예정입니다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이번 펀딩은 AI 스타트업 생태계에 새로운 신호를 보냅니다. 과거 빅테크 소속 연구원들이 창업할 때 10억 달러 이상의 자금을 확보하는 사례가 증가하는 추세를 반영합니다. AMI Labs의 성공 여부는 향후 AI 모델 개발 경쟁의 지형도를 바꿀 수 있으며, 특히 효율적인 학습 알고리즘 연구가 주목됩니다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">차세대 AI 모델 개발에 투입되는 이번 투자는 교육 현장의 AI 도입 비용과 접근성에 직결됩니다. AMI Labs가 개발하는 효율적인 AI 알고리즘은 대규모 자본 없는 에듀테크 스타트업들도 고성능 AI 기능을 통합할 수 있는 기반을 만들 수 있습니다. 또한 르쿤이 주력하는 자기지도학습(self-supervised learning) 연구는 학습 데이터 라벨링 비용을 줄여 교육 AI 서비스의 빠른 확산을 가능하게 할 것으로 기대됩니다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://llm-stats.com/ai-news\" style=\"color:#FF6B35;text-decoration:none;\">LLM Stats</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "research"
+    ],
+    "meta_title": "야얀 르쿤의 AMI Labs, 35억 달러 평가액 시드 펀딩",
+    "meta_description": "튜링상 수상자 야얀 르쿤의 AI 스타트업 AMI Labs가 10.3억 달러 시드 펀딩을 조달했습니다. 차세대 AI 모델 개발과 에듀테크 영향을 분석합니다.",
+    "word_count": 520
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T22:04:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T13:15:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-10T13:35:53.649Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b01e39e303e00001e2f8e0",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b01e39e303e00001e2f8e0",
+    "public_url": "https://ubion.ghost.io/yayan-reukunyi-ami-labs-35eog-dalreo-pyeonggaaege-10-3eog-dalreo-jodal/",
+    "status": "published",
+    "published_at": "2026-03-10T13:35:53.649Z"
+  }
+}

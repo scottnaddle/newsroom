@@ -35,7 +35,11 @@
       }
     ],
     "word_count": 910,
-    "category": "industry"
+    "category": "industry",
+    "feature_image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.791Z",
+    "image_verified": false
   },
   "quality_report": {
     "structure_score": 100,
@@ -182,19 +186,13 @@
       "agent": "publisher",
       "action": "published-draft",
       "timestamp": "2026-03-06T08:25:54.362Z",
-      "note": "Ghost draft URL: https://insight.ubion.global/ghost/#/editor/post/69aa8f92ff4fbf0001ab6ecd"
+      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69aa8f92ff4fbf0001ab6ecd"
     },
     {
       "agent": "publisher",
       "action": "published-draft",
       "timestamp": "2026-03-06T14:08:37.557Z",
-      "note": "Ghost draft URL: https://insight.ubion.global/ghost/#/editor/post/69aadfe5ff4fbf0001ab6ff5"
+      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69aadfe5ff4fbf0001ab6ff5"
     }
-  ],
-  "publish_result": {
-    "ghost_post_id": "69aadfe5ff4fbf0001ab6ff5",
-    "ghost_draft_url": "https://insight.ubion.global/ghost/#/editor/post/69aadfe5ff4fbf0001ab6ff5",
-    "status": "published",
-    "published_at": "2026-03-06T14:08:37.557Z"
-  }
+  ]
 }

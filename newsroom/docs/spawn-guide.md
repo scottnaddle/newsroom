@@ -109,5 +109,5 @@ source-collector ──→ editor-desk ──→ reporter ──→ editor-desk 
 2. Admin API Key 복사
 3. `shared/config/ghost.json` 생성:
 ```json
-{ "apiUrl": "https://insight.ubion.global", "adminApiKey": "YOUR_KEY" }
+{ "apiUrl": "https://ubion.ghost.io", "adminApiKey": "YOUR_KEY" }
 ```

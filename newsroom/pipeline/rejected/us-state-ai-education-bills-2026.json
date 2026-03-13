@@ -1,0 +1,81 @@
+{
+  "id": "us-state-ai-education-bills-2026",
+  "source": {
+    "url": "https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/",
+    "title": "Legislative Tracker: 2026 State AI in Education Bills",
+    "source": "web_search",
+    "published_date": "2026-03-06",
+    "language": "ko"
+  },
+  "metadata": {
+    "collected_at": "2026-03-11T09:01:17Z",
+    "freshness": "recent",
+    "category": "policy",
+    "region": "usa",
+    "keywords": [
+      "AI legislation",
+      "K-12 education",
+      "state policy",
+      "AI literacy"
+    ],
+    "relevance_score": 85
+  },
+  "stage": "rejected",
+  "draft": {
+    "headline": "미국, AI 교육 '입법 전쟁' 진행 중… 25개 주 52개 법안 검토",
+    "subheadline": "2029 PISA에서 AI 리터러시 평가 첫 시행 앞두고, 의무 과목부터 규제 샌드박스까지 다양한 접근",
+    "slug": "us-state-ai-education-legislation-2026",
+    "ghost_tags": [
+      "AI입법",
+      "K-12교육",
+      "교육정책",
+      "ai-news"
+    ],
+    "category": "policy",
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;margin:0 auto;padding:20px;\"><div style=\"border-left:4px solid #d97706;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:48px;\"><p style=\"margin:0;font-size:18px;font-weight:600;color:#1a1a2e;\">미국의 주 입법부가 들썩이고 있다. 2026년 회기 동안 25개 주가 52개의 AI 교육 법안을 검토 중이다. 배경은 명확하다. 2029년 국제학력평가(PISA)에서 처음으로 AI 리터러시를 평가하기로 결정되었기 때문이다. 미국 학생들의 글로벌 경쟁력이 점수로 매겨질 시점이 3년 남았다. 각 주는 분주하게 법제화를 추진하고 있다.</p></div><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;color:#1a1a2e;\">의무 과목화: 아이오와, 일리노이, 오하이오</h2><p style=\"margin:0 0 32px;font-size:17px;line-height:1.9;\">가장 공격적인 접근은 AI 리터러시를 졸업 요건으로 의무화하는 것이다. 아이오와, 일리노이, 오하이오 등의 주는 학생들이 고등학교를 졸업하기 전에 기초 AI 개념 과정을 이수하도록 요구하는 법안을 추진하고 있다. 2030-31학년부터 시행될 예정이다. 이는 단순한 선택 과목이 아니다. 수학, 과학과 같은 핵심 교과목 수준의 의무화다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;color:#1a1a2e;\">거버넌스 프레임워크: 메릴랜드의 'AI 준비 학교법'</h2><p style=\"margin:0 0 32px;font-size:17px;line-height:1.9;\">모든 주가 의무화만 추진하는 것은 아니다. 메릴랜드는 'AI 준비 학교법(Artificial Intelligence Ready Schools Act)'을 제안했다. 이는 의무화라기보다는 '체계 구축'에 초점을 맞춘다. 주 차원의 AI 거버넌스 프레임워크, 교사 교육 표준, 공개 교육 자료 개발을 우선한다. 이 접근의 장점은 현실성이다. AI 과목을 만들려면 가르칠 교사가 먼저 준비되어야 한다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;color:#1a1a2e;\">학생 보호: 사우스캐롤라이나의 강력한 장치</h2><p style=\"margin:0 0 32px;font-size:17px;line-height:1.9;\">학생 보호 규정도 강화되고 있다. 사우스캐롤라이나는 H.B. 5253을 제시했다. 이 법안은 AI 활용에 있어 학부모 사전 동의(Opt-in), AI 자동화 의사결정 금지, AI 시스템에 대한 인간 검토 의무화 등을 포함한다. 예를 들어, AI가 학생의 대학 진학 경로를 '추천'할 수는 있지만, 그 결정을 자동으로 내릴 수는 없다. 항상 교사나 상담사가 최종 판단을 한다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px;color:#1a1a2e;\">규제 샌드박스: 유타의 신중한 실험</h2><p style=\"margin:0 0 32px;font-size:17px;line-height:1.9;\">유타 주는 또 다른 접근을 시도하고 있다. 규제 샌드박스(Regulatory Sandbox) 모델이다. 이는 제한된 범위 내에서 새로운 AI 교육 기술을 시범 운영하고, 그 결과를 바탕으로 확대 여부를 결정하는 방식이다. 서두르지 않고 증거를 모은 후 결정한다는 철학이다. 이는 정책 입안의 '증거 기반' 접근법을 보여준다.</p><div style=\"border-left:4px solid #d97706;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin:40px 0;font-style:italic;color:#374151;\">2026년 미국의 AI 교육 입법은 '기술을 따라가기'가 아니라 '기술에 앞서기'의 신호다. 5년 뒤 국제 평가를 기준으로, 지금부터 체계를 세워 놓겠다는 의지의 표현이다.</div><ol style=\"border-top:1px solid #e2e8f0;padding-top:20px;margin:40px 0;list-style-position:inside;\"><li style=\"margin:10px 0;padding-left:10px;\"><strong>FutureEd 입법 추적</strong> - 2026년 주(state) AI 교육 법안 52개 현황</li><li style=\"margin:10px 0;padding-left:10px;\"><strong>트럼프 행정부 AI 리터러시 행정명령</strong> - 연방 그랜트 우선순위 상향</li><li style=\"margin:10px 0;padding-left:10px;\"><strong>PISA 2029 AI 리터러시 평가</strong> - 국제 학력평가에 AI 리터러시 포함</li></ol><p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "custom_excerpt": "미국 25개 주가 52개의 AI 교육 법안을 검토 중이다. 아이오와·일리노이·오하이오는 AI를 의무 과목으로 지정하고, 메릴랜드는 거버넌스 구축을, 사우스캐롤라이나는 학생 보호를, 유타는 규제 샌드박스를 강조한다. 2029 PISA 첫 AI 리터러시 평가를 앞두고 각자의 전략으로 준비 중이다.",
+    "references": [
+      {
+        "title": "입법 추적: 2026년 주 AI 교육 법안",
+        "url": "https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/"
+      },
+      {
+        "title": "트럼프 행정부 AI 리터러시 행정명령",
+        "url": "https://www.whitehouse.gov/ai"
+      }
+    ],
+    "word_count": 1200,
+    "feature_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop"
+  },
+  "fact_check": {
+    "score": 80,
+    "verdict": "FLAG",
+    "validation_method": "4층 검증: 구조⚠️ 팩트✅ 가독성✅ 완정도⚠️",
+    "issues": [
+      "본문 길이 1200자 (최소 1600자 미만) - 약 400자 부족",
+      "참고자료 2개로 최소 3개 미만 - 1개 추가 필요",
+      "참고자료 섹션 헤더 4개 (필수: 3개 이상) ✅"
+    ],
+    "verified_claims": [
+      "25개 주 52개 법안 검토 중 - 검증됨",
+      "PISA 2029 AI 리터러시 평가 - 검증됨",
+      "메릴랜드 AI 준비 학교법 - 검증됨",
+      "사우스캐롤라이나 H.B. 5253 - 검증됨"
+    ],
+    "structure_check": {
+      "lede_box": true,
+      "h2_sections": 5,
+      "references": 3,
+      "ai_footer": true,
+      "min_word_count": false
+    },
+    "readability": "명확한 주 구분, 비교 분석 적절, 톤 일관성 우수",
+    "recommendations": "본문 400자 추가 작성 (3개 h2 섹션 중 1-2개 확장), 추가 출처 1개 (예: FutureEd, 미국 교육부, 주 의회 자료)",
+    "validated_at": "2026-03-12T15:12:00+09:00"
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "본문 1330자 (1600자 미만)"
+  }
+}

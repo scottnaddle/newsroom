@@ -67,7 +67,11 @@
     "word_count": 1386,
     "category": "education",
     "meta_title": "92% 학생이 AI 사용하나, 3분의 1만 정식 교육받아",
-    "meta_description": "92% 학생이 AI 사용하나, 3분의 1만 정식 교육받아 body { font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif; margin: 0; padding: 20px; } .wrappe"
+    "meta_description": "92% 학생이 AI 사용하나, 3분의 1만 정식 교육받아 body { font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif; margin: 0; padding: 20px; } .wrappe",
+    "feature_image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.852Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 80,
@@ -108,7 +112,5 @@
     "text_length": 1939,
     "checked_at": "2026-03-09T22:03:07.955Z"
   },
-  "ghost_id": "69af439cff4fbf0001ab7cc4",
-  "ghost_url": "https://insight.ubion.global/ai-literacy-crisis-higher-ed-2026/",
   "published_at": "2026-03-09T22:03:08.457Z"
 }

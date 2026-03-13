@@ -1,0 +1,52 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Neuromorphic computers solve complex physics simulations",
+    "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+    "source_name": "ScienceDaily",
+    "language": "en",
+    "relevance_score": 85,
+    "summary": "Neuromorphic computers modeled after the human brain can now solve complex equations behind physics simulations—something previously thought possible only with energy-hungry supercomputers. This breakthrough demonstrates efficiency gains in specialized AI hardware.",
+    "published_date": "2026-02-14",
+    "collected_at": "2026-03-10T15:07:00Z"
+  },
+  "digest": {
+    "headline": "신경형태 컴퓨터, 복잡한 물리 시뮬레이션 해석 가능",
+    "lead": "인간의 뇌를 모델로 한 신경형태 컴퓨터가 초강력 슈퍼컴퓨터만 가능하던 복잡한 물리 방정식 계산을 이제 해낼 수 있게 됐다. 에너지 소비를 대폭 줄이면서도 성능을 유지하는 획기적 성과다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">인간의 뇌를 모델로 한 신경형태 컴퓨터가 초강력 슈퍼컴퓨터만 가능하던 복잡한 물리 방정식 계산을 이제 해낼 수 있게 됐다. 에너지 소비를 대폭 줄이면서도 성능을 유지하는 획기적 성과다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">신경형태 칩은 뇌의 뉴런 구조와 신경망을 모방해 설계된 전문화된 AI 하드웨어다. 기존 CPU와 달리 병렬 처리와 저전력 동작이 특징이다. 지금까지 신경형태 컴퓨터는 패턴 인식이나 신호 처리에 주로 사용됐으나, 이번 연구를 통해 유체역학, 양자 물리학 등 복잡한 수치 계산 영역으로 적용 범위가 확대되고 있다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">이 성과는 전문화된 AI 하드웨어의 경제성과 실용성을 입증한다. 슈퍼컴퓨터는 운영 비용과 전력 소비가 막대하지만, 신경형태 컴퓨터는 동일한 작업을 훨씬 낮은 전력으로 처리할 수 있다. 향후 기후 모델링, 약물 설계, 복잡한 시스템 시뮬레이션 등 다양한 과학 분야에서 신경형태 칩의 채택이 가속화될 것으로 예상된다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">저전력 신경형태 컴퓨터의 상용화는 에듀테크 기업에 중요한 의미를 갖는다. 대규모 AI 모델 운영에 필요한 인프라 비용이 낮아지면, 더 많은 교육 기관과 스타트업이 과학 시뮬레이션, 물리/화학 가상 실험실 등 고성능 AI 기반 학습 도구를 개발·배포할 수 있게 된다. 특히 개발도상국 학교에서도 저비용 고효율의 과학 교육 플랫폼에 접근할 기회가 생긴다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.sciencedaily.com/news/computers_math/artificial_intelligence/\" style=\"color:#FF6B35;text-decoration:none;\">ScienceDaily</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology",
+      "research"
+    ],
+    "meta_title": "신경형태 컴퓨터, 고효율 물리 시뮬레이션 가능 | AI Digest",
+    "meta_description": "뇌 모방 신경형태 칩이 슈퍼컴퓨터 수준의 복잡한 물리 계산을 저전력으로 해낸다. 에듀테크 AI 인프라 비용 저감 의미.",
+    "word_count": 542
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-10T15:07:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-10T06:45:16Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-10T07:34:56.131Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69afc99f15c2cc0001bbe0ac",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69afc99f15c2cc0001bbe0ac",
+    "public_url": "https://ubion.ghost.io/singyeonghyeongtae-keompyuteo-bogjabhan-mulri-simyulreisyeon-haeseog-ganeung/",
+    "status": "published",
+    "published_at": "2026-03-10T07:34:56.131Z"
+  }
+}

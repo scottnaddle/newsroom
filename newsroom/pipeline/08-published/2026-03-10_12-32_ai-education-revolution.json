@@ -12,7 +12,11 @@
     "headline": "AI 교육혁명 2026: 영국·미국 동시 착수한 거버넌스 강화",
     "subheadline": "글로벌 AI 교육 정책 강화...한국도 윤리 기준과 거버넌스 체계 구축 필요",
     "ghost_url": "https://ai-newsroom.example.com/ai-education-revolution-2026",
-    "ghost_id": "draft-003-global-governance"
+    "ghost_id": "draft-003-global-governance",
+    "feature_image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.840Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 92,
@@ -27,6 +31,9 @@
     "word_count": 2450,
     "reading_time": 11,
     "category": "education",
-    "tags": ["AI교육", "국제정책"]
+    "tags": [
+      "AI교육",
+      "국제정책"
+    ]
   }
 }

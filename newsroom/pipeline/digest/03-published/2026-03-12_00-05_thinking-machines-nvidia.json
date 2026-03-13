@@ -1,0 +1,51 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "Mira Murati's AI startup Thinking Machines secures Nvidia investment, 1 gigawatt of AI compute",
+    "url": "https://techstartups.com/2026/03/10/mira-muratis-ai-startup-thinking-machines-secures-nvidia-investment-1-gigawatt-of-ai-compute/",
+    "source_name": "Tech Startups",
+    "language": "en",
+    "relevance_score": 87,
+    "summary": "Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, has secured a multi-year partnership with Nvidia including significant investment and access to 1 gigawatt of computing capacity. The deal includes access to Nvidia's next-generation Vera Rubin systems for training AI models, placing the startup in the competition for large-scale AI training infrastructure.",
+    "published_date": "2026-03-10",
+    "collected_at": "2026-03-12T00:05:30.645Z"
+  },
+  "digest": {
+    "headline": "전 OpenAI CTO 무라티의 Thinking Machines Lab, 엔비디아 투자·1GW 컴퓨팅 확보",
+    "lead": "전 OpenAI 최고기술책임자(CTO) 미라 무라티가 창업한 Thinking Machines Lab이 엔비디아와의 다년간 파트너십을 통해 대규모 투자와 1기가와트의 컴퓨팅 용량을 확보했다. 엔비디아의 차세대 베라 루빈 시스템에도 접근할 수 있게 된다.",
+    "html": "<!--kg-card-begin: html--><div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\"><div style=\"margin-bottom:28px;\"><span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">⚡ AI Digest</span></div><div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\"><p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">전 OpenAI 최고기술책임자(CTO) 미라 무라티가 창업한 Thinking Machines Lab이 엔비디아와의 다년간 파트너십을 통해 대규모 투자와 1기가와트의 컴퓨팅 용량을 확보했다. 엔비디아의 차세대 베라 루빈 시스템에도 접근할 수 있게 된다.</p></div><h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2><p style=\"margin:0 0 28px;\">미라 무라티는 OpenAI에서 ChatGPT의 기술 방향을 이끌었던 핵심 인물이다. Thinking Machines Lab은 차세대 AI 모델 개발에 집중하는 스타트업으로, 엔비디아와의 제휴를 통해 막대한 컴퓨팅 리소스를 선점했다. 1GW는 수천 개의 고성능 GPU를 상시 가동할 수 있는 규모다.</p><h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2><p style=\"margin:0 0 28px;\">AI 인프라의 독점화가 심화되고 있다. 엔비디아는 칩 공급과 컴퓨팅 용량을 무기로 AI 산업의 중심에 서있고, 유력한 스타트업들은 엔비디아와의 제휴를 통해 생존 경쟁에서 우위를 점하고 있다. 이는 AI 기술의 진입장벽이 점점 높아지고 있음을 시사한다.</p><h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2><p style=\"margin:0 0 28px;\">대형 AI 스타트업들도 엔비디아에 의존하는 상황은 에듀테크 개발사들에게 심각한 도전이다. 고가의 컴퓨팅 인프라를 감당할 수 없는 중소 에듀테크 회사는 오픈소스 모델이나 클라우드 API 의존도를 높일 수밖에 없다. 이는 교육 AI의 개발 생태계가 대자본 중심으로 재편되고 있음을 의미한다.</p><div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\"><p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://techstartups.com/2026/03/10/mira-muratis-ai-startup-thinking-machines-secures-nvidia-investment-1-gigawatt-of-ai-compute/\" style=\"color:#FF6B35;text-decoration:none;\">Tech Startups</a></p></div><p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div><!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "technology"
+    ],
+    "meta_title": "무라티의 Thinking Machines Lab, 엔비디아 투자·1GW 컴퓨팅 획득",
+    "meta_description": "OpenAI CTO 출신 무라티의 Thinking Machines Lab이 엔비디아와 제휴. AI 인프라 독점화로 에듀테크 고민 증가",
+    "word_count": 567
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-12T00:05:32.100Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-12T09:15:00.000Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-12T00:35:25.349Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b20a465d8fee0001508a75",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b20a465d8fee0001508a75",
+    "public_url": "https://ubion.ghost.io/jeon-openai-cto-muratiyi-thinking-machines-lab-enbidia-tuja-1gw-keompyuting-hwagbo/",
+    "status": "published",
+    "published_at": "2026-03-12T00:35:18.000Z"
+  }
+}

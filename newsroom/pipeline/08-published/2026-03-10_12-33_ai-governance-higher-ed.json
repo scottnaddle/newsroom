@@ -12,7 +12,11 @@
     "headline": "대학가의 'Shadow AI' 위기...거버넌스 프레임워크 구축 급속화",
     "subheadline": "교직원 80%가 AI 사용하지만 25% 미만만 정책 인식...EU AI Act 8월 발효 앞두고 대학들 규제 준비",
     "ghost_url": "https://ai-newsroom.example.com/shadow-ai-governance-2026",
-    "ghost_id": "draft-004-shadow-ai"
+    "ghost_id": "draft-004-shadow-ai",
+    "feature_image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.841Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 90,
@@ -27,6 +31,9 @@
     "word_count": 2180,
     "reading_time": 10,
     "category": "education",
-    "tags": ["AI거버넌스", "대학정책"]
+    "tags": [
+      "AI거버넌스",
+      "대학정책"
+    ]
   }
 }

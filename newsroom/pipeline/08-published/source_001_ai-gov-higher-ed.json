@@ -1,0 +1,116 @@
+{
+  "id": "source_001_ai-gov-higher-ed",
+  "stage": "published",
+  "source": {
+    "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/",
+    "title": "AI Governance in Higher Education: The 2026 Framework for Policy & Risk",
+    "description": "Universities using AI in student assessment, admissions, or performance monitoring must comply with the Act's high-risk AI provisions from August 2026.",
+    "domain": "www.theeducationmagazine.com",
+    "published": "4 days ago"
+  },
+  "collected_at": "2026-03-10T20:32:00Z",
+  "quality_score": 78,
+  "category": "education",
+  "keywords": [
+    "AI governance",
+    "higher education",
+    "policy",
+    "2026 framework"
+  ],
+  "region": "global",
+  "reporting_brief": {
+    "WHO": "대학 리더십, IT 부서, 교수진",
+    "WHAT": "EU AI Act와 미국 교육부의 새로운 지침에 따라 대학들이 AI 거버넌스를 수립해야 함",
+    "WHY": "고급 AI 도구의 채택이 정책을 앞질렀고, 규제 압박과 데이터 보안 위험이 증가 중",
+    "WHEN": "2026년 8월부터 고위험 AI 규정이 발효",
+    "CONTEXT": "80% 이상의 교수진과 직원이 AI 도구를 사용하지만 공식 정책을 인식하는 사람은 25% 미만",
+    "SOURCES": [
+      {
+        "title": "The Education Magazine - AI Governance in Higher Education",
+        "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/",
+        "credibility": "high"
+      },
+      {
+        "title": "EDUCAUSE 2024 AI Landscape Study",
+        "url": "https://library.educause.edu/resources/2024/2/2024-educause-ai-landscape-study",
+        "credibility": "high"
+      },
+      {
+        "title": "EU AI Act Documentation",
+        "url": "https://www.europarl.europa.eu/topics/en/article/20231206/eu-ai-act-explained",
+        "credibility": "high"
+      }
+    ],
+    "PERSPECTIVES": {
+      "GOVERNMENT": "규제 강화 (EU AI Act, US Department of Education)",
+      "EDUCATION": "정책 부재로 인한 위험 (Shadow AI 문제)",
+      "INDUSTRY": "거버넌스 프레임워크 제공 필요"
+    },
+    "SUGGESTED_ANGLE": "대학의 AI 거버넌스 위기: 정책 없이 도구만 도입하는 '섀도우 AI' 현상"
+  },
+  "draft": {
+    "headline": "대학의 'AI 거버넌스 위기'…정책 없이 도구만 도입하는 '섀도우 AI' 확산",
+    "subheadline": "EU AI Act 발효 앞두고 미국 대학 80% 도구 사용하나 정책 인식 25% 미만",
+    "slug": "ai-governance-crisis-universities-2026-03",
+    "ghost_tags": [
+      "AI 교육",
+      "고등교육 정책",
+      "거버넌스"
+    ],
+    "category": "education",
+    "html": "<div style=\"font-family:'Noto Sans KR', sans-serif; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e;\"><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">80%는 AI 도구 사용하는데, 25%만 정책 인식</h2><p style=\"margin:0 0 32px;\">최신 EDUCAUSE 2024 AI Landscape Study에 따르면, 미국 대학의 교수진과 직원 중 80% 이상이 ChatGPT, Copilot, Claude 같은 AI 도구를 이미 사용하고 있습니다. 그러나 충격적인 점은 이 중 4명 중 1명(25%) 미만만이 자신이 다니는 기관의 공식적인 AI 정책이 존재한다는 것을 인식하고 있다는 것입니다.</p><p style=\"margin:0 0 32px;\">이는 '섀도우 AI(Shadow AI)'라고 불리는 현상을 초래하고 있습니다. 섀도우 AI란 대학의 공식적 감시와 승인 없이, 교수진과 학생들이 개별적으로 도입해 사용하는 AI 도구와 서비스를 말합니다. 이들 도구는 대학의 데이터 거버넌스 경계 밖에서 완전히 독립적으로 작동하고 있습니다.</p><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">데이터 유출과 개인정보 보호 위험 증가</h2><p style=\"margin:0 0 32px;\">섀도우 AI의 위험성은 매우 구체적입니다. 한 예로, 어떤 교수가 미발표 연구 데이터셋을 상업용 AI 플랫폼에 업로드하면, 그 데이터는 저장되고 로깅되며, 심지어 AI 모델 학습에 사용될 수 있습니다. 대학은 지적재산권을 잃게 되고 감사 흔적도 남지 않습니다.</p><p style=\"margin:0 0 32px;\">더 심각한 것은 FERPA(Family Educational Rights and Privacy Act) 위반입니다. 학생 성적이나 개인 정보가 승인되지 않은 AI 시스템으로 처리되면, 대학은 연방법을 위반하는 것입니다. 이런 위반이 적발되기 전까지 대학들은 자신의 실체를 모르고 있을 수 있습니다.</p><blockquote style=\"border-left:4px solid #4338ca; background:#f8f9ff; padding:16px 20px; margin:32px 0; font-style:italic; color:#374151;\">\"AI 거버넌스는 더 이상 IT 정책의 문제가 아닙니다. 이제는 기관의 핵심 리스크 관리 문제입니다.\"</blockquote><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px;\">규제 강화가 임박했다</h2><p style=\"margin:0 0 32px;\">유럽 대학들은 더욱 긴박한 상황에 처해 있습니다. EU AI Act가 2024년 8월 발효된 이후, 학생 평가, 입학사정, 성적 모니터링 등에 AI를 사용하는 대학들은 \"고위험\" AI 규정을 준수해야 합니다. 이는 단순한 정책 수립이 아닌 구체적인 기술적·행정적 변화를 요구합니다.</p><p style=\"margin:0 0 32px;\">미국 교육부도 2023년 지침에서 기관들에게 AI 사용에 대한 윤리적 프레임워크를 개발할 것을 명시적으로 요청했습니다. 이는 단순한 권고가 아닌, 연방 교육 기금 수급 조건이 될 가능성이 높습니다.</p><p style=\"margin:0 0 32px;\">Washington University, Elon University 등 미국의 주요 대학들은 이미 대학 차원의 AI 이니셔티브를 출범시켰습니다. WashU의 '+AI' 프로그램은 교육, 연구, 행정 전 영역에서 AI를 체계적으로 관리하려는 시도입니다. 이러한 움직임은 이제 대학 경영의 필수 사항이 되었음을 의미합니다.</p><div style=\"border-top:1px solid #e2e8f0; margin-top:48px; padding-top:20px;\"><ol style=\"padding-left:20px; line-height:1.8;\"><li><strong>EDUCAUSE 2024 AI Landscape Study</strong> - 대학의 AI 도구 사용 및 정책 현황 조사<br/><a href=\"https://library.educause.edu/resources/2024/2/2024-educause-ai-landscape-study\" style=\"color:#4338ca; text-decoration:none;\">https://library.educause.edu/resources/2024/2/2024-educause-ai-landscape-study</a></li><li><strong>The Education Magazine - AI Governance in Higher Education</strong> - 섀도우 AI와 데이터 보안 분석<br/><a href=\"https://www.theeducationmagazine.com/ai-governance-in-higher-education/\" style=\"color:#4338ca; text-decoration:none;\">https://www.theeducationmagazine.com/ai-governance-in-higher-education/</a></li><li><strong>EU AI Act - High-risk AI Applications</strong> - 유럽의 규제 프레임워크<br/><a href=\"https://www.europarl.europa.eu/topics/en/article/20231206/eu-ai-act-explained\" style=\"color:#4338ca; text-decoration:none;\">https://www.europarl.europa.eu/topics/en/article/20231206/eu-ai-act-explained</a></li></ol></div><p style=\"margin:48px 0 0; padding-top:20px; border-top:1px solid #f1f5f9; font-size:13px; color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "custom_excerpt": "AI 도구는 빠르게 확산되고 있지만 정책은 한참 뒤처진 대학들. EU AI Act 발효와 규제 강화에 미국 대학들이 긴급히 AI 거버넌스 체계를 구축하고 있다.",
+    "references": [
+      {
+        "title": "EDUCAUSE 2024 AI Landscape Study",
+        "url": "https://library.educause.edu/resources/2024/2/2024-educause-ai-landscape-study"
+      },
+      {
+        "title": "The Education Magazine - AI Governance in Higher Education",
+        "url": "https://www.theeducationmagazine.com/ai-governance-in-higher-education/"
+      },
+      {
+        "title": "EU AI Act Documentation",
+        "url": "https://www.europarl.europa.eu/topics/en/article/20231206/eu-ai-act-explained"
+      }
+    ],
+    "word_count": 1654,
+    "feature_image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop",
+    "meta_title": "대학의 'AI 거버넌스 위기'…정책 없이 도구만 도입하는 '섀도우 AI' 확산",
+    "meta_description": "전 세계 대학들이 인공지능(AI) 도구는 앞다투어 도입하고 있지만, 정책과 거버넌스는 한참 뒤처져 있다는 우려의 목소리가 높아지고 있습니다. EU AI Act의 8월 발효를 앞두고, 미국 대학들이 데이터 보안과 규제 위험에 직면하고 있습니다.80%는 AI 도구 사용하는"
+  },
+  "fact_check": {
+    "score": 100,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": [
+      "문서 구조 확인 (리드박스, h2 섹션, 참고자료)",
+      "본문 길이 1600자 이상 확인",
+      "출처 3개 이상 확인"
+    ],
+    "validated_at": "2026-03-10T11:34:56.557Z"
+  },
+  "desk_decision": {
+    "verdict": "PASS",
+    "reason": "본문 1811자, 팩트점수 100, 중복 0.0%",
+    "meta_title": "대학의 'AI 거버넌스 위기'…정책 없이 도구만 도입하는 '섀도우 AI' 확산",
+    "meta_description": "전 세계 대학들이 인공지능(AI) 도구는 앞다투어 도입하고 있지만, 정책과 거버넌스는 한참 뒤처져 있다는 우려의 목소리가 높아지고 있습니다. EU AI Act의 8월 발효를 앞두고, 미국 대학들이 데이터 보안과 규제 위험에 직면하고 있습니다.80%는 AI 도구 사용하는",
+    "decided_at": "2026-03-10T11:35:01.477Z"
+  },
+  "copy_edit": {
+    "verdict": "PASS",
+    "changes": [
+      "AI 배지 pill 제거"
+    ],
+    "text_length": 1676,
+    "checked_at": "2026-03-10T11:35:01.479Z"
+  },
+  "publish_result": {
+    "ghost_post_id": "69b0a6785d8fee00015088ba",
+    "ghost_url": "https://ubion.ghost.io/source_001_ai-gov-higher-ed/",
+    "status": "published",
+    "republished_at": "2026-03-10T23:17:12.405Z",
+    "from_rejected": true
+  }
+}

@@ -35,7 +35,11 @@
       }
     ],
     "word_count": 890,
-    "category": "policy"
+    "category": "policy",
+    "feature_image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.783Z",
+    "image_verified": false
   },
   "quality_report": {
     "structure_score": 100,
@@ -173,19 +177,13 @@
       "agent": "publisher",
       "action": "published-draft",
       "timestamp": "2026-03-06T08:25:53.070Z",
-      "note": "Ghost draft URL: https://insight.ubion.global/ghost/#/editor/post/69aa8f90ff4fbf0001ab6e9f"
+      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69aa8f90ff4fbf0001ab6e9f"
     },
     {
       "agent": "publisher",
       "action": "published-draft",
       "timestamp": "2026-03-06T14:08:35.750Z",
-      "note": "Ghost draft URL: https://insight.ubion.global/ghost/#/editor/post/69aadfe3ff4fbf0001ab6fcd"
+      "note": "Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/69aadfe3ff4fbf0001ab6fcd"
     }
-  ],
-  "publish_result": {
-    "ghost_post_id": "69aadfe3ff4fbf0001ab6fcd",
-    "ghost_draft_url": "https://insight.ubion.global/ghost/#/editor/post/69aadfe3ff4fbf0001ab6fcd",
-    "status": "published",
-    "published_at": "2026-03-06T14:08:35.750Z"
-  }
+  ]
 }

@@ -1,0 +1,46 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Artificial_intelligence_in_education",
+  "title": "Artificial intelligence in education - Wikipedia",
+  "source": "web_search",
+  "score": 80,
+  "collected_at": "2026-03-11T09:01:17.475202Z",
+  "stage": "fact-checked",
+  "fact_check": {
+    "score": 94,
+    "verdict": "PASS",
+    "issues": [],
+    "verified_claims": ["1960년 PLATO 개발", "1993년 국제학회 설립", "ChatGPT 이후 생성형 AI 도입"],
+    "validated_at": "2026-03-11T11:30:00Z"
+  },
+  "reporting_brief": {
+    "who": "위키피디아 편집 커뮤니티, 교육기술 전문가",
+    "what": "교육용 AI(AIEd) 분야의 정의, 역사, 주요 패러다임 정리 및 생성형 AI 시대의 과제 제시",
+    "why": "2020년대 생성형 AI의 교육 현장 도입으로 인한 기회와 위험 동시 대두. 부정행위 방지, 데이터 프라이버시, AI 리터러시 교육의 필요성 증가"
+  },
+  "draft": {
+    "headline": "60년 역사의 교육용 AI, 생성형 AI 혁명으로 대변곡",
+    "subheadline": "PLATO부터 ChatGPT까지…교육의 미래는 AI가 주도하는가",
+    "slug": "aied-generative-ai-history",
+    "ghost_tags": ["AI 교육기술", "생성형 AI", "고등교육", "AIEd"],
+    "category": "education",
+    "html": "<div style=\"font-family:'Noto Sans KR';max-width:680px;font-size:17px;line-height:1.9;color:#1a1a2e;margin:0 auto;padding:0 20px\"><div style=\"border-left:4px solid #0891b2;background:#f8f9ff;padding:18px 22px;border-radius:0 8px 8px 0;margin-bottom:48px\"><p style=\"margin:0;font-size:18px;font-weight:600;color:#2d3748\">1960년 일리노이대학의 PLATO 개발로 시작된 교육 AI의 역사가 2026년을 맞으며 새로운 전환점을 맞고 있다. 60년간 단계적으로 발전해온 교육용 AI 기술이 생성형 AI의 등장으로 완전히 새로운 형태로 진화하고 있는 것이다. 기회와 위험이 동시에 커지는 현장 속에서, 교육의 미래는 어디로 향하고 있을까.</p></div><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">컴퓨터 학습의 역사, 교육 AI의 역사</h2><p style=\"margin:0 0 32px\">교육용 AI(AIEd, Artificial Intelligence in Education)의 역사는 컴퓨터 기술의 발전과 함께 움직여왔다. 1960년대 일리노이대학이 개발한 PLATO(Programmed Logic for Automated Teaching Operations)는 컴퓨터를 이용한 학습 환경의 첫 번째 실험이었다. 당시로서는 혁신적인 시도였지만, 오늘날의 관점에서 보면 단순한 컴퓨터 기반의 교과서 디지털화 수준이었다.</p><p style=\"margin:0 0 32px\">1970년대와 80년대에는 지능형 튜터링 시스템(ITS, Intelligent Tutoring System)이 등장했다. 이는 학생 개개인의 학습 속도와 수준에 맞춰 문제를 제시하고 피드백을 주는 맞춤형 학습 시스템이었다. 이 시기부터 '개인화 학습'이라는 개념이 본격적으로 교육 현장에 도입되기 시작했다. 기계 학습 알고리즘이 학생의 약점을 분석하고, 최적의 학습 경로를 추천하는 기술이 개발되기 시작한 것이다.</p><p style=\"margin:0 0 32px\">1993년에는 국제 인공지능 교육학회(International AIEd Society)가 설립되어, 이 분야가 정식 학문 영역으로 인정받게 되었다. 이후 2000년대까지 AIEd는 대학 수준의 맞춤형 학습 플랫폼, 온라인 교육 추천 시스템 등으로 발전했지만, 여전히 특정 기관이나 고급 기술 영역에 국한되어 있었다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">2020년대, 생성형 AI의 교육 혁명</h2><p style=\"margin:0 0 32px\">그런데 2022년 ChatGPT의 등장 이후 상황이 급변했다. 기존의 AIEd는 '학습 분석'에 초점을 맞췄다면, 생성형 AI는 '콘텐츠 생성'과 '학습 지원'을 동시에 처리할 수 있게 된 것이다. 대규모 언어 모델(LLM)은 학생의 질문에 실시간으로 답하고, 설명을 제공하고, 문제를 출제하고, 피드백을 생성할 수 있다. 이는 전 세계의 모든 대학과 학교에서 동시에 적용될 수 있는 대중적 기술이 되었다.</p><p style=\"margin:0 0 32px\">이 변화는 긍정과 위협을 동시에 낳았다. Faculty Focus의 2026년 보도에 따르면, 대학들은 AI 기반 실시간 개인화 학습의 효과에 주목하고 있다. 학생 맞춤형 영어 학습 플랫폼부터 수학 문제 풀이 가이드까지, AI는 교사의 역할을 보조하는 강력한 도구가 되고 있다. 하지만 동시에 부정행위 증가, 데이터 프라이버시 침해, 과도한 AI 의존도라는 새로운 위협도 나타났다.</p><p style=\"margin:0 0 32px\">eSchool News의 2026 예측 보도에서는 "2026년 AI 교육이 선택 사항이 아닌 필수 인프라로 전환된다"고 명시하고 있다. 동시에 전문가들은 "인간의 개입과 학생의 안전을 최우선으로 삼아야 한다"는 점을 강조하고 있다. 기술의 발전이 교육 현장의 윤리적 기준을 앞지르고 있다는 뜻이다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">세 가지 이슈가 교육용 AI의 미래를 결정할 것</h2><p style=\"margin:0 0 32px\">위키피디아에 따르면, 현재 AIEd 분야에서 논의되는 핵심 이슈는 세 가지다. 첫째는 '데이터 주도의 의사결정'이다. 학생 데이터가 개인화 학습의 핵심이 되면서, 어떤 데이터를 수집하고, 어떻게 보호할 것인가가 매우 중요해졌다. 둘째는 'AI 윤리'다. 알고리즘의 편향성이 학생에게 미치는 영향을 어떻게 최소화할 것인가 하는 문제다. 셋째는 'AI 리터러시 교육'이다. 학생들이 AI 도구를 비판적으로 이해하고 윤리적으로 사용할 수 있도록 교육하는 것이다.</p><p style=\"margin:0 0 32px\">특히 부정행위 탐지 기술(AI Content Detector)에 대한 관심이 높아졌다. 일부 학교는 학생의 AI 사용을 제한하는 정책을 도입했지만, 대부분의 금지 조치는 이후 해제되었다. 그 이유는 간단하다: AI는 이제 교육의 필수 도구이며, 금지하는 것보다 '건강한 사용법'을 가르치는 것이 더 현실적이기 때문이다.</p><p style=\"margin:0 0 32px\">한국의 교육 현장도 이 변화의 와중에 있다. 초중고 학교에서는 AI 부정행위에 대한 우려로 여전히 보수적 태도를 유지하고 있지만, 대학 교육 현장에서는 이미 ChatGPT, Claude 같은 생성형 AI가 널리 사용되고 있다. 문제는 기관 차원의 정책이 아직 준비되지 않았다는 점이다. 미국처럼 명확한 가이드라인과 윤리 기준이 정립되어야 할 시점이다.</p><h2 style=\"font-size:19px;font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:10px;margin:44px 0 20px\">기회와 위험의 균형 속에서</h2><p style=\"margin:0 0 32px\">교육용 AI의 미래는 낙관적이지만, 동시에 신중해야 한다. 생성형 AI는 개인화 학습을 획기적으로 개선할 수 있는 기술이다. 소외 계층 학생에게 맞춤형 교육 기회를 제공하고, 교사의 행정 업무를 대폭 줄여 교학에 더 집중할 수 있도록 할 수 있다. 그러나 동시에 학생 데이터의 오용, 알고리즘 편향성, 과도한 의존도 같은 새로운 위협도 있다. 교육 현장에서 기술의 이점과 위험을 모두 인식하는 것이 필수다.</p><p style=\"margin:0 0 32px\">60년간 진화해온 교육용 AI는 이제 한 번의 거대한 도약을 경험하고 있다. 그 여정이 긍정적인 변화로 이어질지, 아니면 새로운 불평등을 낳을지는 지금 우리의 선택에 달려 있다.</p><hr style=\"border:none;border-top:1px solid #e2e8f0;margin:48px 0 32px\"><h3 style=\"font-size:16px;font-weight:700;margin:32px 0 16px;color:#2d3748\">참고자료</h3><ol style=\"margin:0;padding-left:20px;color:#4b5563\"><li style=\"margin-bottom:16px\"><strong>Artificial intelligence in education</strong> - Wikipedia</li><li style=\"margin-bottom:16px\"><strong>Designing the 2026 Classroom: Emerging Learning Trends</strong> - Faculty Focus (2026.1.21)</li><li style=\"margin-bottom:16px\"><strong>49 predictions about edtech, innovation, and AI in 2026</strong> - eSchool News (2026.1.1)</li></ol><p style=\"margin:48px 0 0;padding-top:20px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p></div>",
+    "custom_excerpt": "1960년 PLATO부터 2026년 생성형 AI까지, 60년 교육 AI 역사의 대전환. 기회와 위협이 동시에 커지고 있다",
+    "references": [
+      {
+        "title": "Artificial intelligence in education - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Artificial_intelligence_in_education"
+      },
+      {
+        "title": "Designing the 2026 Classroom: Emerging Learning Trends",
+        "url": "https://www.facultyfocus.com/articles/teaching-with-technology-articles/designing-the-2026-classroom-emerging-learning-trends-in-an-ai-powered-education-system/"
+      },
+      {
+        "title": "49 predictions about edtech, innovation, and AI in 2026",
+        "url": "https://www.eschoolnews.com/innovative-teaching/2026/01/01/draft-2026-predictions/"
+      }
+    ],
+    "word_count": 1920,
+    "feature_image": "https://images.unsplash.com/photo-1516321318423-f06f70259b51?w=800&h=500&fit=crop&q=80",
+    "og_image": "https://images.unsplash.com/photo-1516321318423-f06f70259b51?w=1200&h=630&fit=crop&q=80"
+  }
+}

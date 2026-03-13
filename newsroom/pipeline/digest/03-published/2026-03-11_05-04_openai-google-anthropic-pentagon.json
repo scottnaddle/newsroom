@@ -1,0 +1,58 @@
+{
+  "stage": "published",
+  "pipeline": "digest",
+  "source": {
+    "title": "'Unprecedented and unlawful': OpenAI and Google staff rush to support Anthropic's lawsuit against Pentagon AI blacklist",
+    "url": "https://www.livemint.com/companies/news/unprecedented-and-unlawful-openai-and-google-staff-rush-to-support-anthropics-lawsuit-against-pentagon-ai-blacklist-11773113859089.html",
+    "source_name": "LiveMint",
+    "language": "en",
+    "relevance_score": 88,
+    "summary": "Over 30 OpenAI and Google DeepMind employees filed an amicus brief supporting Anthropic's lawsuit against the US Defense Department over the supply chain risk label. Sam Altman stated that enforcing the designation would be bad for the industry and country. The brief argues the label undermines American AI competitiveness and chills professional debate on frontier AI risks.",
+    "published_date": "2026-03-09",
+    "collected_at": "2026-03-11T05:04:00Z"
+  },
+  "digest": {
+    "headline": "AI 업계 '전면전', 30여 개발자가 Anthropic 펜타곤 소송 지지",
+    "lead": "OpenAI 연구원과 구글 DeepMind 과학자 30여 명이 Anthropic의 국방부 소송을 지지하는 법정 의견서를 제출했다. \"공급망 위험 낙인은 미국 AI 경쟁력을 훼손한다\"며 \"전례 없고 불법\"이라는 입장을 모아, 업계 결집의 신호를 보냈다.",
+    "html": "<!--kg-card-begin: html-->\n<div style=\"font-family:'Noto Sans KR',Apple SD Gothic Neo,sans-serif;max-width:680px;margin:0 auto;color:#1a1a2e;font-size:17px;line-height:1.9;\">\n\n  <!-- 다이제스트 배지 (오렌지) -->\n  <div style=\"margin-bottom:28px;\">\n    <span style=\"display:inline-flex;align-items:center;gap:6px;background:#fff4ee;border:1px solid #fed7aa;padding:4px 12px;border-radius:20px;font-size:13px;color:#c2410c;font-weight:500;\">\n      ⚡ AI Digest\n    </span>\n  </div>\n\n  <!-- 리드 박스 -->\n  <div style=\"border-left:4px solid #FF6B35;padding:16px 20px;background:#fff9f6;border-radius:0 8px 8px 0;margin-bottom:40px;\">\n    <p style=\"margin:0;font-size:17px;line-height:1.85;color:#1a1a2e;\">OpenAI 연구원과 구글 DeepMind 과학자 30여 명이 Anthropic의 국방부 소송을 지지하는 법정 의견서를 제출했다. \"공급망 위험 낙인은 미국 AI 경쟁력을 훼손한다\"며 \"전례 없고 불법\"이라는 입장을 모아, 업계 결집의 신호를 보냈다.</p>\n  </div>\n\n  <!-- 본문 섹션 -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">배경</h2>\n  <p style=\"margin:0 0 28px;\">미국 국방부가 Anthropic에 '공급망 위험(Supply Chain Risk)' 낙인을 부여한 것에 맞서 Anthropic이 국방부와 연방 기관을 상대로 소송을 제기했다. 법정 의견서(amicus brief)에는 구글 수석 과학자 Jeff Dean, 구글 DeepMind 연구원들 Zhengdong Wang, Alexander Matt Turner, Noah Siegel과 OpenAI의 Gabriel Wu, Pamela Mishkin, Roman Novak 등이 이름을 올렸다. 이 의견서는 규제가 얼마나 광범위한 지지를 얻고 있는지 보여주는 강력한 신호다.</p>\n\n  <h2 style=\"font-size:18px;font-weight:700;color:#111;border-bottom:1px solid #e2e8f0;padding-bottom:8px;margin:36px 0 16px;\">의미와 전망</h2>\n  <p style=\"margin:0 0 28px;\">의견서는 \"이러한 지정은 우리 산업에 예측 불가능성을 도입하여 미국의 혁신과 경쟁력을 훼손한다. 프론티어 AI의 이점과 위험에 대한 전문적 논의를 억제한다\"고 주장했다. 특히 Anthropic이 협상 중 제시한 원칙인 자율형 치명 무기에 대한 AI 비배포와 국내 대량 감시 금지를 지지했다. 한편 OpenAI의 Sam Altman도 \"Anthropic에 SCR 지정을 강제하는 것은 업계와 국가에 매우 악영향을 미친다\"며 개인적으로 반발했다. 경쟁 관계인 두 회사가 공통의 규제 위협에 함께 맞서는 모습은 업계의 결집을 보여준다.</p>\n\n  <!-- 에듀테크 시사점 (필수) -->\n  <h2 style=\"font-size:18px;font-weight:700;color:#FF6B35;border-bottom:1px solid #fed7aa;padding-bottom:8px;margin:36px 0 16px;\">🎓 에듀테크 시사점</h2>\n  <p style=\"margin:0 0 28px;\">AI 규제의 방향과 강도는 에듀테크 시장의 인프라 선택을 크게 좌우한다. Anthropic이 미국 정부 시장에서 제외되면, 에듀테크 기업들이 활용 가능한 고급 AI 모델 조합이 축소되어 서비스 개발의 자유도가 낮아진다. 또한 이 사례는 AI 규제 정책이 얼마나 빠르고 예측 불가능하게 변할 수 있는지 보여주므로, 에듀테크 기업들은 AI 공급자 다각화 전략을 필수적으로 수립해야 한다.</p>\n\n  <!-- 원문 출처 -->\n  <div style=\"margin-top:36px;padding:14px 18px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;\">\n    <p style=\"margin:0;font-size:14px;color:#64748b;\">📎 원문: <a href=\"https://www.livemint.com/companies/news/unprecedented-and-unlawful-openai-and-google-staff-rush-to-support-anthropics-lawsuit-against-pentagon-ai-blacklist-11773113859089.html\" style=\"color:#FF6B35;text-decoration:none;\">LiveMint</a></p>\n  </div>\n\n  <!-- AI 각주 -->\n  <p style=\"margin:28px 0 0;padding-top:14px;border-top:1px solid #f1f5f9;font-size:13px;color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n\n</div>\n<!--kg-card-end: html-->",
+    "ghost_tags": [
+      "ai-digest",
+      "ai",
+      "regulation",
+      "research"
+    ],
+    "meta_title": "AI 업계 '전면전', 30여 개발자가 Anthropic 펜타곤 소송 지지",
+    "meta_description": "OpenAI·구글 연구원 30여 명이 Anthropic 국방부 소송 지지. 공급망 위험 낙인 \"미국 경쟁력 훼손\"이라며 일치 반발.",
+    "word_count": 485
+  },
+  "audit_log": [
+    {
+      "agent": "digest-collector",
+      "action": "sourced",
+      "timestamp": "2026-03-11T05:04:00Z"
+    },
+    {
+      "agent": "digest-writer",
+      "action": "drafted",
+      "timestamp": "2026-03-11T05:45:00Z"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "rejected",
+      "timestamp": "2026-03-11T06:36:32.519Z",
+      "reason": "Ghost API error: 401 {\"errors\":[{\"message\":\"Invalid token: invalid signature\",\"context\":null,\"type\":\"UnauthorizedError\",\"details\":null,\"property\":null,\"help\":null,\"code\":\"INVALID_JWT\",\"id\":\"a4b39520-1d14-11f1-9e14-c5bafee9199c\",\"ghostErrorCode\":null}]}"
+    },
+    {
+      "agent": "digest-publisher",
+      "action": "published",
+      "timestamp": "2026-03-11T06:37:18.969Z"
+    }
+  ],
+  "publish_result": {
+    "ghost_post_id": "69b10d9e5d8fee00015089e5",
+    "ghost_url": "https://ubion.ghost.io/ghost/#/editor/post/69b10d9e5d8fee00015089e5",
+    "public_url": "https://ubion.ghost.io/ai-eobgye-jeonmyeonjeon-30yeo-gaebaljaga-anthropic-pentagon-sosong-jiji/",
+    "status": "published",
+    "published_at": "2026-03-11T06:37:18.000Z"
+  }
+}

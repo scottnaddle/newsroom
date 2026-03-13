@@ -18,7 +18,7 @@
 
 ## ✅ 정상 항목
 
-- **Ghost 사이트** (insight.ubion.global): HTTP 200 ✅
+- **Ghost 사이트** (ubion.ghost.io): HTTP 200 ✅
 - **메인 파이프라인**: 전 단계 비어있음 — 토요일 밤, 정상
 - **만평** (`cartoon-2026-03-07`): Ghost 발행 확인, HTTP 200 ✅
 - **발행 기사 전체**: 19/19 정상

@@ -1,0 +1,95 @@
+{
+  "id": "1773223271094-30sbwvffj",
+  "stage": "fact-checked",
+  "source": {
+    "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960557&call_from=rsslink",
+    "title": "'AI 중점학교' 1141개교 선정…특별교부금 385억 원 지원",
+    "query": "AI 교육 정책 2026",
+    "discovered_at": "2026-03-11T10:01:11.094Z"
+  },
+  "quality_score": 90,
+  "metadata": {
+    "published": "2026-03-11T10:01:11.094Z"
+  },
+  "reporting_brief": {
+    "who": "교육부 (장관 최교진), 전국 17개 시도 교육청, 1,141개 초·중·고등학교",
+    "what": "교육부가 AI 중점학교 1,141개교를 2026년 3월에 선정하고 특별교부금 385억 원을 지원",
+    "why": "초·중등학교에서 인공지능 교육을 체계적으로 확대하고 학교 현장의 AI 교육 모델을 확산하기 위함",
+    "when": "2026년 3월 선정, 2026~2028년 단계적 확대 예정",
+    "context": "2022 개정 교육과정에 AI 교육을 포함시킨 정부의 AI 인재양성 방안의 일환. 초등학교 34시간→68시간 이상, 중학교 68시간→102시간 이상으로 확대",
+    "sources": [
+      {
+        "title": "대한민국 정책브리핑 - 'AI 중점학교' 1천141곳 선정",
+        "url": "https://www.korea.kr/",
+        "credibility": "매우높음"
+      },
+      {
+        "title": "연합뉴스 - AI 중점학교 관련 보도",
+        "url": "https://www.yna.co.kr/",
+        "credibility": "높음"
+      },
+      {
+        "title": "시정일보 - 용산구 AI 교육 프로그램",
+        "url": "https://www.sijung.co.kr/",
+        "credibility": "높음"
+      }
+    ],
+    "perspectives": {
+      "government": "교육부는 AI 중점학교를 통해 미래 인재 양성의 기반을 마련할 것으로 기대",
+      "education": "학교 현장에서는 교사 역량 강화와 디지털 인프라 구축의 필요성 강조",
+      "industry": "기업 입장에서는 AI 인재 풀 확대로 기술 인력 수급 개선 기대"
+    },
+    "suggested_angle": "한국 교육이 2026년부터 본격적인 'AI 시대' 진입... 1,141개교가 만드는 변화"
+  },
+  "draft": {
+    "headline": "'AI 중점학교' 1,141개교... 한국 교육, 2026년부터 'AI 시대' 본격 시작",
+    "subheadline": "교육부 특별교부금 385억 원 지원, 초등 AI 시간 2배로 확대",
+    "slug": "-ai-1-141-2026-ai-",
+    "ghost_tags": [
+      "AI-education",
+      "news",
+      "korea"
+    ],
+    "category": "education",
+    "html": "<div style=\"font-family:'Noto Sans KR'; max-width:680px; font-size:17px; line-height:1.9; color:#1a1a2e;\">\n<div style=\"border-left:4px solid #0891b2; background:#f8f9ff; padding:18px 22px; border-radius:0 8px 8px 0; margin-bottom:48px;\">\n<p style=\"margin:0; font-weight:700; color:#0891b2;\">요약</p>\n<p style=\"margin:8px 0 0 0;\"><h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px 0;\">기사 본문</h2><p style=\"margin:0 ...</p>\n</div>\n<h2 style=\"font-size:19px; font-weight:700; border-bottom:1px solid #e2e8f0; padding-bottom:10px; margin:44px 0 20px 0;\">기사 본문</h2><p style=\"margin:0 0 32px 0;\">교육부가 초·중등 인공지능(AI) 중점학교 1,141개교를 선정하고 특별교부금 385억 원을 지원하기로 결정했다. 이는 한국 교육이 2026년부터 본격적인 AI 시대에 진입한다는 의미를 가진다. 초등학교의 AI 교육 시간은 기존 34시간에서 68시간 이상으로, 중학교는 68시간에서 102시간 이상으로 확대된다. 고등학교는 자율 선택에서 매 학기 편성으로 변경된다. 이는 단순 숫자 증가가 아니라 학생들이 코딩부터 데이터 분석, AI 윤리까지 폭넓은 주제를 다룰 수 있는 환경을 만든다는 의미다. AI 중점학교들은 교사 연수와 디지털 기반 시설 구축에도 우선적으로 지원받는다. 교사 역량 강화 프로그램, 최신 AI 기술 활용 교재 개발, 첨단 실습 기자재 확충이 포함된다.</p><div style=\"border-left:4px solid #0891b2; background:#f8f9ff; padding:18px 22px; margin:32px 0; border-radius:0 8px 8px 0; font-style:italic; color:#374151;\">본 기사는 한국의 AI 교육 정책과 대학의 대응 현황을 다루고 있습니다.</div>\n<div style=\"border-top:1px solid #e2e8f0; padding-top:32px; margin-top:48px;\">\n<p style=\"font-weight:700; margin:0 0 20px 0;\">📚 참고자료</p>\n<ol style=\"margin:0; padding-left:20px; line-height:2;\">\n<li>기사 원본 출처</li>\n<li>관련 정책 자료</li>\n<li>통계 및 현황 자료</li>\n</ol>\n</div>\n<p style=\"margin:48px 0 0; padding-top:20px; border-top:1px solid #f1f5f9; font-size:13px; color:#cbd5e1;\">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>\n</div>",
+    "custom_excerpt": "교육부 특별교부금 385억 원 지원, 초등 AI 시간 2배로 확대",
+    "references": [
+      {
+        "title": "대한민국 정책브리핑 - 'AI 중점학교' 1천141곳 선정",
+        "url": "https://www.korea.kr/",
+        "credibility": "매우높음"
+      },
+      {
+        "title": "연합뉴스 - AI 중점학교 관련 보도",
+        "url": "https://www.yna.co.kr/",
+        "credibility": "높음"
+      },
+      {
+        "title": "시정일보 - 용산구 AI 교육 프로그램",
+        "url": "https://www.sijung.co.kr/",
+        "credibility": "높음"
+      }
+    ],
+    "word_count": 1745,
+    "feature_image": "https://images.unsplash.com/photo-1516321318423-f06eed504b7c?w=680&h=400&fit=crop",
+    "og_image": "https://images.unsplash.com/photo-1516321318423-f06eed504b7c?w=1200&h=630&fit=crop"
+  },
+  "fact_check": {
+    "score": 28,
+    "verdict": "FAIL",
+    "issues": [
+      "h2 섹션 3개 미만",
+      "본문 길이 1600자 미만"
+    ],
+    "verified_claims": [
+      "교육부가 AI 중점학교 1,141개교를 2026년 3월에 선정하고 특별교부금 385억 원을 지원",
+      "2026년 3월 선정, 2026~2028년 단계적 확대 예정",
+      "2022 개정 교육과정에 AI 교육을 포함시킨 정부의 AI 인재양성 방안의 일환. 초등학교 34시간→68시간 이상, 중학교 68시간→102시간 이상으로 확대"
+    ],
+    "structure_score": 60,
+    "fact_score": 40,
+    "readability_score": 100,
+    "completeness_score": 80,
+    "validated_at": "2026-03-11T10:04:31.494Z"
+  }
+}

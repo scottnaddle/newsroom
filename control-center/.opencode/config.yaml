@@ -1,0 +1,62 @@
+# UBION Control Center v4 - opencode Configuration
+
+project:
+  name: "UBION Control Center v4"
+  version: "4.0.0"
+  description: "AI News Real-time Monitoring System"
+  author: "Hailey (AI Assistant)"
+
+development:
+  # 백엔드
+  backend:
+    type: "python"
+    framework: "fastapi"
+    port: 8000
+    rootDir: "backend"
+    entryPoint: "main.py"
+    watchFiles:
+      - "backend/**/*.py"
+  
+  # 프론트엔드
+  frontend:
+    type: "react"
+    framework: "typescript"
+    port: 3000
+    rootDir: "frontend"
+    buildCommand: "npm run build"
+    devCommand: "npm run dev"
+    watchFiles:
+      - "frontend/src/**/*"
+
+database:
+  type: "sqlite"
+  location: "data/control-center.db"
+  schemaFile: "database/schema.sql"
+  autoMigrate: true
+
+ai:
+  codeGeneration: true
+  codeAnalysis: true
+  testGeneration: true
+  documentationGeneration: true
+
+git:
+  autoCommit: false
+  trackChanges: true
+
+features:
+  - realTimeMonitoring
+  - agentTracking
+  - pipelineVisualization
+  - alertSystem
+  - analytics
+
+excludeFromTracking:
+  - "node_modules/"
+  - "__pycache__/"
+  - ".pyc"
+  - ".egg-info/"
+  - "dist/"
+  - "build/"
+  - ".env"
+  - ".env.local"

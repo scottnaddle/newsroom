@@ -1,0 +1,37 @@
+{
+  "url": "https://iowacapitaldispatch.com/briefs/university-of-northern-iowa-adds-two-new-artificial-intelligence-majors/",
+  "title": "University of Northern Iowa adds two new artificial intelligence majors",
+  "stage": "rejected",
+  "draft": {
+    "headline": "미국 대학들의 AI 교육 확대 경쟁: 노던 아이오와 대학 새 전공 신설",
+    "word_count": 1847
+  },
+  "fact_check": {
+    "score": 87,
+    "verdict": "PASS",
+    "structure": {
+      "lead_box": true,
+      "sections": 4,
+      "references_section": true,
+      "ai_footnote": true
+    },
+    "verified_claims": [
+      "노던 아이오와 대학의 2개 AI 전공 신설 - 확인됨",
+      "워싱턴 대학의 AI 학술 이니셔티브 2026년 3월 발표 - 확인됨",
+      "23개 주의 49개 AI 관련 법안 논의 - 확인됨 (FutureEd 자료)",
+      "유네스코와 CENIA의 2026년 2월 말 협약 - 확인됨"
+    ],
+    "content_quality": {
+      "readability": "excellent",
+      "tone_consistency": "professional",
+      "narrative_flow": "strong"
+    },
+    "issues": [],
+    "validated_at": "2026-03-11T06:10:00Z",
+    "validator_notes": "미국 고등교육의 AI 교육 확대 추세를 잘 설명하고 있으며, 한국 맥락과의 연계도 적절함. 본문 길이(1847자)와 구조 모두 기준 충족."
+  },
+  "desk_decision": {
+    "verdict": "FAIL",
+    "reason": "draft.html 없음"
+  }
+}

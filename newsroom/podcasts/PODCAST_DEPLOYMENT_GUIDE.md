@@ -87,7 +87,7 @@
 
   <ul style="margin: 0 0 32px; padding-left: 20px;">
     <li style="margin-bottom: 12px;">
-      <a href="https://insight.ubion.global/edyutekeu-insaiteu-gyujewa-hyeogsini-mannaneun-sungan/" target="_blank" style="color: #0284c7; text-decoration: none;">
+      <a href="https://ubion.ghost.io/edyutekeu-insaiteu-gyujewa-hyeogsini-mannaneun-sungan/" target="_blank" style="color: #0284c7; text-decoration: none;">
         📖 원문: 에듀테크 인사이트 - 규제와 혁신이 만나는 순간
       </a>
     </li>
@@ -102,7 +102,7 @@
       </a>
     </li>
     <li>
-      <a href="https://insight.ubion.global/" target="_blank" style="color: #0284c7; text-decoration: none;">
+      <a href="https://ubion.ghost.io/" target="_blank" style="color: #0284c7; text-decoration: none;">
         🔗 더 많은 에듀테크 인사이트 보기
       </a>
     </li>

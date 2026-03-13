@@ -125,7 +125,11 @@
     "word_count": 1037,
     "category": "policy",
     "meta_title": "경북대, 전국 단 2곳 로봇 분야 선정…대구·경북 AI 인재 양성 허브로 부상",
-    "meta_description": "교육부가 주관하는 '2026년 첨단산업 인재양성 부트캠프 사업' 공모에서 경북대와 계명대가 AI 및 로봇 분야에 최종 선정됐다. 특히 경북대는 AI와 로봇 2개 분야에 동시 선정되며 전국 2개 대학 중 하나로 로봇 분야 교육 역량을 입증했다. 두 대학은 향후 5년간 국"
+    "meta_description": "교육부가 주관하는 '2026년 첨단산업 인재양성 부트캠프 사업' 공모에서 경북대와 계명대가 AI 및 로봇 분야에 최종 선정됐다. 특히 경북대는 AI와 로봇 2개 분야에 동시 선정되며 전국 2개 대학 중 하나로 로봇 분야 교육 역량을 입증했다. 두 대학은 향후 5년간 국",
+    "feature_image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1200&h=630&fit=crop&q=85&auto=format",
+    "og_image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1200&h=630&fit=crop&q=85&auto=format",
+    "image_fixed_at": "2026-03-10T08:49:26.805Z",
+    "image_verified": false
   },
   "fact_check": {
     "score": 96,
@@ -153,7 +157,5 @@
     "text_length": 1793,
     "checked_at": "2026-03-09T13:33:41.955Z"
   },
-  "ghost_id": "69aecc37ff4fbf0001ab7c84",
-  "ghost_url": "https://insight.ubion.global/daegu-ai-bootcamp/",
   "published_at": "2026-03-09T13:33:43.459Z"
 }

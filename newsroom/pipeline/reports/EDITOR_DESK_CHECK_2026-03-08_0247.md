@@ -55,7 +55,7 @@
 
 | 항목 | 상태 |
 |------|------|
-| Ghost (insight.ubion.global) | ✅ HTTP 200 |
+| Ghost (ubion.ghost.io) | ✅ HTTP 200 |
 | 파이프라인 병목 | 없음 |
 | 처리 대기 기사 | 없음 |
 

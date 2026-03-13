@@ -35,13 +35,13 @@
 
 ### 1. 메타, AI 조직 대대적 개편… 초지능 연구소 출범 9개월 만에 권한 재배분
 - **발행 완료**: ghost_post_id `69ac4730ff4fbf0001ab73d8`
-- **공개 URL**: https://insight.ubion.global/meta-ai-jojig-.../ → HTTP 200 ✅
+- **공개 URL**: https://ubion.ghost.io/meta-ai-jojig-.../ → HTTP 200 ✅
 - **HTML**: 2,688자, 580단어 ✅
 - **판정**: 정상 발행 확인
 
 ### 2. OpenAI, 자체 코드 호스팅 플랫폼 개발… GitHub 대항마로 마이크로소프트와 충돌 예고
 - **발행 완료**: ghost_post_id `69ac4730ff4fbf0001ab73e2`
-- **공개 URL**: https://insight.ubion.global/openai-jace-kodeu-.../ → HTTP 200 ✅
+- **공개 URL**: https://ubion.ghost.io/openai-jace-kodeu-.../ → HTTP 200 ✅
 - **HTML**: 2,720자, 620단어 ✅
 - **판정**: 정상 발행 확인
 
@@ -53,7 +53,7 @@
 
 | 항목 | 상태 |
 |------|------|
-| Ghost (insight.ubion.global) | ✅ HTTP 200 |
+| Ghost (ubion.ghost.io) | ✅ HTTP 200 |
 | 디스크 | ✅ 12G/145G (8% 사용) |
 | 메인 파이프라인 전 단계 | ✅ 비어있음 |
 | 다이제스트 파이프라인 전 단계 | ✅ 비어있음 |
