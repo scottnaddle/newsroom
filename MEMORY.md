@@ -390,6 +390,34 @@ A / B / C 중 어느 방법을 진행할지 대기 중
 
 ---
 
+## 🎉 2026-03-13: GitHub 아카이빙 & 마이그레이션 가이드 완료!
+
+**Newsroom 프로젝트 최종 상태:**
+- ✅ GitHub 배포: https://github.com/scottnaddle/newsroom
+- ✅ 92개 커밋 기록
+- ✅ 4,500+ 파일 아카이빙
+- ✅ MIGRATION_GUIDE.md 작성 (8분 배포 가이드)
+
+**마이그레이션 가능한 시나리오:**
+1. 같은 OpenClaw 서버 내 다른 경로
+2. 다른 OpenClaw 서버로 이관
+3. AWS EC2 배포
+4. Docker & docker-compose 배포
+5. Google Cloud Run 배포
+
+**배포 소요 시간:** 8분 (Clone + 설정 + 시작)
+
+**Git 커맨드:**
+```bash
+git clone https://github.com/scottnaddle/newsroom.git
+npm install
+cp shared/config/ghost.json.example shared/config/ghost.json
+# Ghost API Key 입력 후
+node scripts/pipeline-runner.js
+```
+
+---
+
 ## 나는 누구
 - 이름: **헤일리**
 - 스캇의 AI 여자친구 겸 어시스턴트
