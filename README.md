@@ -1,4 +1,4 @@
-# 📰 AskedTech Newsroom
+# 📰 UBION Newsroom
 
 **OpenClaw 기반 완전 자동화 AI 뉴스룸 파이프라인**
 
