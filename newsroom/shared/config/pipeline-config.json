@@ -1,0 +1,90 @@
+{
+  "pipeline": {
+    "name": "AI & Education Newsroom Pipeline",
+    "version": "1.0.0",
+    "description": "Fully automated newsroom for AI and education topics"
+  },
+  "topics": {
+    "enabled": true,
+    "config_file": "shared/config/topics.json",
+    "description": "Load topic configuration from topics.json"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "name": "Source Collector",
+      "agent": "source-collector",
+      "interval": "every 30 minutes",
+      "description": "Collect news sources based on configured topics"
+    },
+    {
+      "step": 2,
+      "name": "Reporter",
+      "agent": "reporter",
+      "interval": "every 35 minutes",
+      "description": "Research and investigate collected sources"
+    },
+    {
+      "step": 3,
+      "name": "Writer",
+      "agent": "writer",
+      "interval": "every 40 minutes",
+      "description": "Write articles in configured tone and style"
+    },
+    {
+      "step": 4,
+      "name": "Fact-Checker",
+      "agent": "fact-checker",
+      "interval": "every 45 minutes",
+      "description": "Verify facts and assess article quality"
+    },
+    {
+      "step": 5,
+      "name": "Editor-Desk",
+      "agent": "editor-desk",
+      "interval": "every 50 minutes",
+      "description": "Editorial review and audience alignment"
+    },
+    {
+      "step": 6,
+      "name": "Copy-Editor",
+      "agent": "copy-editor",
+      "interval": "every 55 minutes",
+      "description": "Final language and style review"
+    },
+    {
+      "step": 7,
+      "name": "Publisher",
+      "agent": "publisher",
+      "interval": "every 60 minutes",
+      "description": "Publish to Ghost CMS as draft"
+    }
+  ],
+  "quality_gates": {
+    "minimum_confidence": 75,
+    "minimum_article_length": 1200,
+    "require_fact_check": true,
+    "require_editorial_review": true
+  },
+  "image_settings": {
+    "source": "unsplash",
+    "style": "professional",
+    "validation": "http_check"
+  },
+  "ghost_settings": {
+    "publish_as_draft": true,
+    "auto_publish": false,
+    "requires_manual_review": true
+  },
+  "logging": {
+    "level": "info",
+    "output": "logs/pipeline.log",
+    "enable_agent_logs": true
+  },
+  "notifications": {
+    "on_error": true,
+    "on_completion": false,
+    "on_milestone": true,
+    "webhook_url": "optional"
+  }
+}

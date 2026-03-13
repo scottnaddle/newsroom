@@ -1,0 +1,49 @@
+{
+  "primary_topic": "AI & Education",
+  "subtopics": [
+    "AI Education Policy",
+    "AI Learning Technology",
+    "University AI Programs",
+    "K-12 AI Education",
+    "AI Skills Training"
+  ],
+  "keywords": [
+    "AI",
+    "artificial intelligence",
+    "education",
+    "learning",
+    "machine learning",
+    "deep learning",
+    "generative AI",
+    "AI literacy",
+    "digital transformation"
+  ],
+  "target_audience": "Educators, students, policymakers, investors, technology professionals",
+  "tone": "Professional, informative, balanced",
+  "content_style": "News and analysis",
+  "language": "English",
+  "article_length": {
+    "min_words": 1200,
+    "max_words": 2000,
+    "target_words": 1500
+  },
+  "images_per_article": 2,
+  "required_sections": [
+    "Introduction",
+    "Current Situation",
+    "Key Points",
+    "Analysis",
+    "Future Outlook"
+  ],
+  "categories": [
+    "Breaking News",
+    "Policy",
+    "Technology",
+    "Case Study",
+    "Industry Report"
+  ],
+  "exclude_topics": [
+    "Partisan politics",
+    "Unverified conspiracy theories"
+  ]
+}

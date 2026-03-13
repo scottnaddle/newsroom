@@ -18,6 +18,38 @@
 
 ---
 
+## 🎯 주제 설정 (커스터마이징)
+
+### **빠른 설정 (2분)**
+```bash
+npm install
+node scripts/setup-topics.js
+
+# 또는 수동으로
+cp shared/config/topics.json.example shared/config/topics.json
+nano shared/config/topics.json
+```
+
+### **지원하는 주제**
+- 🤖 AI & Technology
+- 📚 AI & Education (기본값)
+- 🚀 Startup & Venture Capital
+- ⛓️ Blockchain & Cryptocurrency
+- 🧬 Biotech & Healthcare
+- 🌱 Climate Tech & Sustainability
+- 🇰🇷 한국 기술 & AI
+- 🎨 Custom (직접 지정)
+
+### **설정 후 파이프라인이 자동으로:**
+1. ✅ 당신의 주제로 뉴스 수집
+2. ✅ 지정된 톤/스타일로 기사 작성
+3. ✅ 타겟 오디언스에 맞게 편집
+4. ✅ 설정된 길이로 최적화
+
+**📖 상세 가이드:** [`CONFIG.md`](./CONFIG.md)
+
+---
+
 ## 🏗️ 파이프라인 아키텍처
 
 ```
