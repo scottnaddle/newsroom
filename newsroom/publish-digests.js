@@ -70,6 +70,15 @@ function ghostRequest(endpoint, data) {
 }
 
 // 다이제스트 발행
+function isFeaturedDigest(tags) {
+  const featuredTags = ['시평', 'editorial', '테크브리핑', 'tech-brief'];
+  const tagText = (tags || []).join(' ').toLowerCase();
+  for (const ft of featuredTags) {
+    if (tagText.includes(ft)) return true;
+  }
+  return false;
+}
+
 async function publishDigest(digestFile) {
   const draftedDir = '/root/.openclaw/workspace/newsroom/pipeline/digest/02-drafted';
   const publishedDir = '/root/.openclaw/workspace/newsroom/pipeline/digest/03-published';
@@ -97,7 +106,7 @@ async function publishDigest(digestFile) {
       title: data.digest.headline,
       html: data.digest.html,
       status: 'published',
-      featured: false,
+      featured: isFeaturedDigest(data.digest.ghost_tags),
       tags: tags,
       meta_title: data.digest.meta_title,
       meta_description: data.digest.meta_description,

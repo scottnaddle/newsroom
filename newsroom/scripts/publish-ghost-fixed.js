@@ -220,6 +220,15 @@ function isDuplicateTitle(newTitle, existingPosts) {
   return { duplicate: false };
 }
 
+function isFeaturedArticle(tags) {
+  const featuredTags = ['시평', 'editorial', '테크브리핑', 'tech-brief', 'ai-tech-brief'];
+  const tagText = (tags || []).join(' ').toLowerCase();
+  for (const ft of featuredTags) {
+    if (tagText.includes(ft)) return true;
+  }
+  return false;
+}
+
 async function main() {
   const dir = '/root/.openclaw/workspace/newsroom/pipeline/07-copy-edited';
   let files = [];
@@ -276,7 +285,7 @@ async function main() {
     try {
       const res = await ghostReq('POST', '/ghost/api/admin/posts/?source=html', {
         posts: [{
-          title: headline, html, status: 'published', featured: false,
+          title: headline, html, status: 'published', featured: isFeaturedArticle(tags),
           tags: tags.map(t => ({ name: t, slug: t })),
           custom_excerpt: headline.substring(0, 100),
           feature_image: img
@@ -295,7 +304,7 @@ async function main() {
           await ghostReq('DELETE', `/ghost/api/admin/posts/${newId}/`);
           const retryRes = await ghostReq('POST', '/ghost/api/admin/posts/?source=html', {
             posts: [{
-              title: headline, html, status: 'published', featured: false,
+              title: headline, html, status: 'published', featured: isFeaturedArticle(tags),
               tags: tags.map(t => ({ name: t, slug: t })),
               custom_excerpt: headline.substring(0, 100),
               feature_image: img

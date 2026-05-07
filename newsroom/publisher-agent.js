@@ -54,9 +54,14 @@ function getHigherEdKeywords() {
 }
 
 function isFeaturedArticle(headline, tags = []) {
-  const keywords = getHigherEdKeywords();
-  const text = `${headline} ${(tags || []).join(' ')}`.toLowerCase();
-  return keywords.some(kw => text.includes(kw));
+  // 시평(editorial)과 테크브리핑(tech briefing)은 항상 featured
+  const featuredTags = ['시평', 'editorial', '테크브리핑', 'tech-brief', 'ai-tech-brief'];
+  const tagText = (tags || []).join(' ').toLowerCase();
+  for (const ft of featuredTags) {
+    if (tagText.includes(ft)) return true;
+  }
+  // 그 외 일반 기사는 featured false
+  return false;
 }
 
 function extractImageFromHtml(html) {
