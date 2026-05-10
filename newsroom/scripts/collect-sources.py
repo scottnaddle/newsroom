@@ -9,8 +9,16 @@ from datetime import datetime, timedelta
 
 WORKSPACE = "/root/.openclaw/workspace/newsroom"
 
-# Brave Search API
-BRAVE_API_KEY="***"
+# Brave Search API — load from .env
+import re as _re
+_env_path = os.path.join(WORKSPACE, ".env")
+try:
+    with open(_env_path) as _f:
+        _env_text = _f.read()
+    _key_match = _re.search(r'BRAVE_API_KEY=(.+)', _env_text)
+    BRAVE_API_KEY = _key_match.group(1).strip() if _key_match else "***"
+except:
+    BRAVE_API_KEY = "***"
 
 # Load config
 with open(os.path.join(WORKSPACE, "shared/config/sources.json")) as f:
