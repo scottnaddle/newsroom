@@ -8,10 +8,57 @@ import subprocess, sys, os, json, time, hmac, base64, urllib.request, urllib.err
 MAC_IP = "100.108.26.68"
 ENV_FILE = "/root/.openclaw/workspace/newsroom/.env"
 
-# ─── Prompt templates ───────────────────────────────
+# ─── 🍌 BananaX-inspired Style Palette (22 diverse visual styles) ───
+STYLE_PALETTE = [
+    ("Flat Illustration / Corporate",
+     "vector flat design, solid colors, geometric shapes, bold composition, professional corporate illustration"),
+    ("Isometric / Data Viz",
+     "isometric 3D perspective, colorful geometric blocks, data visualization style, clean angled lines"),
+    ("Watercolor / Vintage",
+     "watercolor painting, soft edges, translucent washes, impressionistic, gentle color blending, textured paper"),
+    ("Blueprint / Technical",
+     "technical blueprint style, white line drawings on deep blue background, architectural drafting, grid lines"),
+    ("Manga / Screen Tone",
+     "manga illustration style, screentone textures, expressive line art, comic panel composition"),
+    ("Collage / Paper",
+     "paper collage art, cut-out elements, layered textures, vintage magazine clippings, mixed media"),
+    ("Knolling / Flat Lay",
+     "knolling photography, top-down flat lay, neatly arranged objects at right angles, organized composition"),
+    ("Chalkboard / Hand-drawn",
+     "chalk drawing on dark chalkboard, hand-drawn style, white and pastel chalk strokes, rustic texture"),
+    ("Pixel Art / 8-bit",
+     "pixel art style, retro 8-bit video game aesthetic, blocky pixels, limited color palette"),
+    ("Doodle / Notebook",
+     "hand-drawn doodle style, casual sketch on notebook paper, simple line art, playful illustration"),
+    ("Paper Cutout / Shadow Box",
+     "paper cutout craft style, layered paper with shadows, pastel colors, dimensional depth, handmade aesthetic"),
+    ("Glassmorphism / Frosted",
+     "glassmorphism style, frosted glass effect, blur and transparency, soft gradients, modern UI aesthetic"),
+    ("Low Poly / Faceted",
+     "low poly 3D style, faceted geometric surfaces, angular shapes, vertex-based rendering, game art aesthetic"),
+    ("Bauhaus / Geometric",
+     "Bauhaus design style, geometric shapes, primary colors, clean lines, constructivist composition"),
+    ("Swiss Style / Grid",
+     "Swiss typographic style, strict grid layout, sans-serif typography as design element, clean systematic"),
+    ("Art Deco / Gold Foil",
+     "Art Deco style, geometric luxury patterns, gold foil accents, rich jewel tones, symmetrical composition"),
+    ("Ukiyo-e / Woodblock",
+     "Ukiyo-e woodblock print style, flat colors, bold outlines, traditional Japanese composition"),
+    ("Retro Anime / Cel Shading",
+     "retro 80s-90s anime style, warm tones, cel shading, nostalgic Japanese animation, soft glow"),
+    ("Cyberpunk / Neon",
+     "cyberpunk aesthetic, neon lights on dark backgrounds, blue-purple palette, holographic elements"),
+    ("Risograph / Offset",
+     "Risograph print style, offset misregistration, neon spot colors, gritty textured print"),
+    ("Neumorphism / Soft",
+     "neumorphic UI style, soft shadows, raised and inset elements, monochromatic light palette, subtle depth"),
+    ("Editorial / Documentary",
+     "editorial documentary photography, candid moments, natural lighting, high resolution, professional"),
+]
+
 SCENES = {
-    "default": "A modern classroom scene, professional photography",
-    "ai": "Artificial intelligence in education, futuristic classroom, AI robots helping students",
+    "default": "A modern classroom scene",
+    "ai": "Artificial intelligence in education, AI robots helping students",
     "edu": "Students learning in a classroom, teachers guiding, warm educational atmosphere",
     "tech": "Modern education technology, digital devices, tablets and laptops in classroom",
     "research": "Academic research, university library, scientists analyzing data",
@@ -23,9 +70,6 @@ SCENES = {
     "future": "Future of education, innovative classroom, holographic learning displays",
     "global": "Diverse students learning together in international classroom, multicultural education"
 }
-STYLES = ["photorealistic, documentary style, natural lighting, high quality, no text", 
-          "cinematic shot, warm colors, professional photography, detailed, sharp focus",
-          "editorial photography style, natural, candid, high resolution, professional"]
 
 COUNTRY_SCENE_MAP = {
     "인도": [
@@ -101,7 +145,9 @@ def build_prompt(headline, tags):
     if any("위기" in t or "crisis" in t for t in tag_list): scene = SCENES["crisis"]
     if any("미래" in t or "future" in t for t in tag_list): scene = SCENES["future"]
     if any("글로벌" in t or "global" in t or "해외" in t or "국제" in t for t in tag_list): scene = SCENES["global"]
-    style = random.choice(STYLES)
+    # 🍌 BananaX deterministic style selection — same headline = same style
+    style_idx = abs(hash(headline or "")) % len(STYLE_PALETTE)
+    style_name, style_prompt = STYLE_PALETTE[style_idx]
     en_words = ' '.join(re.findall(r'[a-zA-Z]{4,}', headline or ''))[:80]
     country_scene = None
     for country, cscenes in COUNTRY_SCENE_MAP.items():
@@ -114,9 +160,9 @@ def build_prompt(headline, tags):
         variant_idx = hash(headline) % len(country_scene)
         scene = country_scene[variant_idx]
 
-    prompt = f"{scene}, {style}"
+    prompt = f"{scene}, {style_prompt}"
     if en_words: prompt += f", theme: {en_words}"
-    prompt += ", no text, no logos, no typography"
+    prompt += f", no text, no logos, no typography, style: {style_name}"
     return prompt
 
 # ─── Ghost API ──────────────────────────────────────

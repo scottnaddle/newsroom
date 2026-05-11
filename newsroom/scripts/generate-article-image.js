@@ -113,36 +113,62 @@ function analyzeScene(headline, bodyText, tags) {
   return bestScene || null;
 }
 
-// ─── AI 프롬프트 생성 (v3 — 스타일 다양화 + 콘텐츠 기반) ─────────
+// ─── AI 프롬프트 생성 (v4 — 🍌 BananaX Style Palette) ─────────
 //
 // 핵심 설계:
-// 1. headline + 첫 번째 본문 문단 → 프롬프트에 직접 주입
-// 2. 태그 기반 장면 분석 유지
-// 3. hash(title)로 결정론적 스타일 선택 → 같은 기사면 항상 같은 스타일
-// 4. FLUX.1-schnell 최적화: 짧고 직접적인 프롬프트 (100-200자)
+// 1. 22가지 다양한 시각 스타일 (BananaX 인포그래픽 참고)
+// 2. headline + 첫 번째 본문 문단 → 프롬프트에 직접 주입
+// 3. 태그 기반 장면 분석 유지
+// 4. hash(title)로 결정론적 스타일 선택 → 같은 기사면 항상 같은 스타일
+// 5. FLUX.1-schnell 최적화: 짧고 직접적인 프롬프트 (100-200자)
 
-// 10가지 시각 스타일 (seed by hash(headline) % STYLES.length)
-const IMAGE_STYLES = [
-  // 0: 실사 다큐멘터리 (기존)
-  { name: 'documentary', desc: 'Professional documentary photograph, Canon 5D Mark IV, 85mm f/1.4, soft natural lighting, warm tones, shallow depth of field.' },
-  // 1: 시네마틱 필름
-  { name: 'cinematic', desc: 'Cinematic film still, anamorphic lens, dramatic lighting, rich color grading, movie-like composition, 35mm film grain.' },
-  // 2: 편집 일러스트레이션
-  { name: 'editorial', desc: 'Editorial illustration style, bold geometric shapes, vibrant flat colors, graphic design aesthetic, magazine-quality.' },
-  // 3: 수채화
-  { name: 'watercolor', desc: 'Soft watercolor painting style, gentle brush strokes, translucent washes, artistic impressionistic feel, paper texture.' },
-  // 4: 디지털 아트 / 컨셉 아트
-  { name: 'concept-art', desc: 'Digital concept art, atmospheric lighting, painterly textures, rich color palette, video game concept art quality.' },
-  // 5: 미니멀리스트
-  { name: 'minimalist', desc: 'Minimalist modern design, clean geometric composition, muted color palette, negative space, flat vector style.' },
-  // 6: 웜 다큐멘터리 (인물 중심)
-  { name: 'portrait-doc', desc: 'Warm documentary portrait photography, natural window light, intimate composition, authentic human moments, film-like quality.' },
-  // 7: 사이버펑크 / 네온
-  { name: 'cyberpunk', desc: 'Neon-lit futuristic scene, holographic displays, blue and purple ambient lighting, sleek modern technology.' },
-  // 8: 스튜디오 포토그래피
-  { name: 'studio', desc: 'Clean studio photography, controlled lighting setup, sharp focus, professional product and portrait lighting.' },
-  // 9: 잉크화 / 동양화 스타일
-  { name: 'sumi-e', desc: 'East Asian ink wash painting style (sumi-e), expressive brush strokes, minimalist composition, monochrome with subtle color accents.' },
+// 22가지 시각 스타일 (BananaX-inspired, seed by hash(headline) % STYLE_PALETTE.length)
+// 각 스타일 = { name, desc }: 시각적 기법 + 무드 + 컬러팔레트
+const STYLE_PALETTE = [
+  // 0: Flat Illustration / Corporate
+  { name: 'flat-illustration', desc: 'Vector flat illustration style, solid colors, geometric shapes, bold composition, professional corporate graphic design, no gradients.' },
+  // 1: Isometric / Data Viz
+  { name: 'isometric', desc: 'Isometric 3D perspective design, colorful geometric blocks, data visualization elements, clean angled lines, infographic aesthetic.' },
+  // 2: Watercolor / Vintage
+  { name: 'watercolor', desc: 'Soft watercolor painting style, translucent washes, gentle color blending, textured paper feel, impressionistic artistic quality.' },
+  // 3: Blueprint / Technical
+  { name: 'blueprint', desc: 'Technical blueprint / cyanotype style, white line drawings on deep blue background, architectural drafting, grid lines, engineering precision.' },
+  // 4: Manga / Screen Tone
+  { name: 'manga', desc: 'Japanese manga comic style, screentone textures, expressive black-and-white line art, comic panel composition, dynamic angles.' },
+  // 5: Collage / Paper
+  { name: 'collage', desc: 'Mixed-media paper collage, cut-out elements from magazines, layered textures, vintage print clippings, tactile analog composition.' },
+  // 6: Knolling / Flat Lay
+  { name: 'knolling', desc: 'Knolling photography style, birdseye top-down flat lay, neatly arranged objects at right angles, organized aesthetic, clean product photography.' },
+  // 7: Chalkboard / Hand-drawn
+  { name: 'chalkboard', desc: 'Chalk drawing on dark chalkboard, hand-drawn white pastel strokes, educational rustic texture, cafe chalk art style.' },
+  // 8: Pixel Art / 8-bit
+  { name: 'pixel-art', desc: 'Retro 8-bit pixel art style, blocky square pixels, limited NES-era color palette, nostalgic video game aesthetic.' },
+  // 9: Doodle / Notebook
+  { name: 'doodle', desc: 'Playful hand-drawn doodle style, casual sketch on lined notebook paper, simple whimsical line art, cute illustration.' },
+  // 10: Paper Cutout / Shadow Box
+  { name: 'paper-cutout', desc: 'Layered paper cutout craft style, dimensional depth, soft cast shadows, pastel colors, handmade tactile aesthetic.' },
+  // 11: Glassmorphism / Frosted
+  { name: 'glassmorphism', desc: 'Glassmorphism UI aesthetic, frosted glass effect with blur, transparency layers, soft gradients, modern sleek digital look.' },
+  // 12: Low Poly / Faceted
+  { name: 'low-poly', desc: 'Low poly 3D rendering style, faceted geometric surfaces, angular vertex-based shapes, modern game art aesthetic.' },
+  // 13: Bauhaus / Geometric
+  { name: 'bauhaus', desc: 'Bauhaus design style, bold geometric shapes, primary red-yellow-blue palette, clean constructivist lines, 1920s modernism.' },
+  // 14: Swiss Style / Grid
+  { name: 'swiss-style', desc: 'Swiss International typographic style, strict modular grid, sans-serif type composition, clean systematic modern layout.' },
+  // 15: Art Deco / Gold
+  { name: 'art-deco', desc: 'Art Deco luxury style, geometric ornamental patterns, gold foil metallic accents, rich jewel tones, symmetrical elegant composition.' },
+  // 16: Ukiyo-e / Woodblock
+  { name: 'ukiyo-e', desc: 'Ukiyo-e Japanese woodblock print style, flat colors with bold black outlines, traditional Hokusai-inspired composition, nature motifs.' },
+  // 17: Retro Anime / Cel Shading
+  { name: 'retro-anime', desc: 'Retro 80s-90s anime cel shading style, warm VHS-toned palette, soft glow, nostalgic Japanese animation aesthetic.' },
+  // 18: Cyberpunk / Neon
+  { name: 'cyberpunk', desc: 'Cyberpunk futuristic aesthetic, neon lights against dark backgrounds, blue-purple color palette, holographic tech noir elements.' },
+  // 19: Risograph / Offset Print
+  { name: 'risograph', desc: 'Risograph duplicator print style, neon spot colors, offset misregistration effects, gritty ink texture, zine aesthetic.' },
+  // 20: Neumorphism / Soft UI
+  { name: 'neumorphism', desc: 'Neumorphic soft UI design, raised and inset elements with subtle shadows, monochromatic light palette, clean minimal depth.' },
+  // 21: Editorial / Documentary
+  { name: 'editorial-doc', desc: 'Professional editorial documentary photography, natural authentic lighting, candid human moments, high resolution, journalistic quality.' },
 ];
 
 // 스타일 선택 (hash(headline) 기반 결정론적)
@@ -153,8 +179,8 @@ function selectStyle(headline) {
     hash = ((hash << 5) - hash) + char;
     hash = hash & hash; // Convert to 32bit integer
   }
-  const idx = Math.abs(hash) % IMAGE_STYLES.length;
-  return IMAGE_STYLES[idx];
+  const idx = Math.abs(hash) % STYLE_PALETTE.length;
+  return STYLE_PALETTE[idx];
 }
 
 // 첫 번째 본문 문단 추출 (blockquote/푸터 제외)

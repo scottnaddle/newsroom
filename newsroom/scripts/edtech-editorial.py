@@ -196,17 +196,111 @@ def editorial_to_html(text):
     return html
 
 # ─── Image Generation ──────────────────────────────
+# 🍌 BananaX-inspired Style Palette (22 diverse visual styles)
+# Each style = technique / palette / style_prompt
+# Used for deterministic selection via hash(target_date)
+STYLE_PALETTE = [
+    ("Flat Illustration", "Corporate / Modern",
+     "Clean vector flat design style, solid colors, geometric shapes, bold composition, no gradients, professional corporate illustration"),
+    ("Isometric", "Data Visualization",
+     "Isometric 3D perspective view, colorful geometric blocks, data visualization elements, infographic style, clean lines and angles"),
+    ("Watercolor", "Vintage / Soft",
+     "Watercolor painting style, soft edges, translucent washes, impressionistic, gentle color blending, textured paper feel"),
+    ("Blueprint", "Technical / Cyan",
+     "Technical blueprint style, white line drawings on deep blue background, architectural drafting, grid lines, engineering precision"),
+    ("Manga", "Screen Tone / Comic",
+     "Japanese manga illustration style, screentone textures, black and white with gray tones, comic panel composition, expressive lines"),
+    ("Collage", "Vintage / Paper",
+     "Paper collage art, cut-out elements, layered textures, vintage magazine clippings, mixed media, tactile composition"),
+    ("Knolling", "Organized / Flat Lay",
+     "Knolling photography style, top-down flat lay, neatly arranged objects at right angles, organized composition, clean product aesthetic"),
+    ("Chalkboard", "Hand-drawn / Cafe",
+     "Chalk drawing on dark chalkboard, hand-drawn style, white and pastel chalk strokes, rustic texture, educational atmosphere"),
+    ("Pixel Art", "Retro Game / 8-bit",
+     "Pixel art style, retro 8-bit video game aesthetic, blocky pixels, limited color palette, nostalgic gaming look"),
+    ("Doodle", "Notebook / Cute",
+     "Hand-drawn doodle style, casual sketch on notebook paper, simple line art, playful, whimsical illustration"),
+    ("Paper Cutout", "Shadow Box / Pastel",
+     "Paper cutout craft style, layered paper with shadows, pastel colors, dimensional depth, shadow box effect, handmade aesthetic"),
+    ("Glassmorphism", "Frosted / Abstract",
+     "Glassmorphism style, frosted glass effect, blur and transparency, soft gradients, modern UI aesthetic, ethereal dreamy look"),
+    ("Risograph", "Multi-color / Offset",
+     "Risograph print style, offset misregistration, neon and spot colors, gritty textured print, imperfect ink alignment, zine aesthetic"),
+    ("Bauhaus", "Geometric / Primary",
+     "Bauhaus design style, geometric shapes, primary colors (red, yellow, blue), clean lines, constructivist composition, 1920s modernism"),
+    ("Swiss Style", "Typography / Grid",
+     "Swiss/International typographic style, strict grid layout, sans-serif typography as design element, clean, systematic layout"),
+    ("Art Deco", "Gold Foil / Luxury",
+     "Art Deco style, geometric luxury patterns, gold foil accents, rich jewel tones, symmetrical composition, 1920s glamour elegance"),
+    ("Low Poly", "Isometric / Faceted",
+     "Low poly 3D style, faceted geometric surfaces, angular shapes, vertex-based rendering, modern game art aesthetic"),
+    ("Ukiyo-e", "Japanese / Woodblock",
+     "Ukiyo-e Japanese woodblock print style, flat colors, bold outlines, traditional Japanese composition, nature elements, Hokusai-inspired"),
+    ("Neumorphism", "Soft / Minimal",
+     "Neumorphic UI style, soft shadows, raised and inset elements, monochromatic light palette, subtle depth, clean minimal"),
+    ("Retro Anime", "VHS / Warm",
+     "Retro 80s-90s anime style, VHS color grading, cel shading, warm tones, nostalgic Japanese animation aesthetic, soft glow"),
+    ("Cyberpunk", "Neon / Dark",
+     "Cyberpunk aesthetic, neon lights on dark backgrounds, blue and purple palette, futuristic cityscape, holographic elements, tech noir"),
+    ("Space", "Cosmic / Dark",
+     "Deep space aesthetic, star fields, cosmic colors, dark background with bright highlights, celestial, astronomical photography style"),
+]
+
+
+def select_style(date_str):
+    """Deterministic style selection via hash(date) — same date always = same style."""
+    idx = abs(hash(date_str)) % len(STYLE_PALETTE)
+    tech, palette, desc = STYLE_PALETTE[idx]
+    print(f"     🎨 오늘의 스타일: {tech} / {palette}")
+    return tech, palette, desc
+
+
 def generate_editorial_image(news, target_date):
-    """Generate a feature image using Pollinations.ai, based on today's edtech news."""
+    """Generate a feature image using Pollinations.ai, with BananaX-inspired style diversity."""
     print(f"  🖼️ 이미지 생성 중...")
     
-    # Build prompt from today's top news
-    top_news = '\n'.join([f"- {a['title']}" for a in news[:5]])
-    system = "You are an image prompt engineer for an EdTech editorial. Given today's EdTech news headlines, create ONE detailed English image prompt for a cover image. The scene should represent education technology transformation — modern classrooms, AI-powered learning, students and teachers collaborating with digital tools. Style: professional digital art, warm and inspiring. IMPORTANT: Include specific visual elements related to education (books, desks, screens, students, teachers, holographic lessons). No text, no typography. NOT abstract or fantasy."
-    user = f"""Today's EdTech news:
-{top_news}
+    # Select deterministic style for today
+    technique, palette, style_desc = select_style(target_date)
+    
+    # Determine scene theme from today's top news
+    top_news_titles = [a['title'] for a in news[:5]]
+    top_news_text = '\n'.join([f"- {t}" for t in top_news_titles])
+    
+    # Scene theme hints based on news content keywords
+    scene_hints = (
+        "Analyze the MAIN THEME of today's news and choose an appropriate scene:\n"
+        "- AI policy/regulation → government building, law document, debate chamber\n"
+        "- Funding/investment/startup → chart, graph, investor meeting, startup office\n"
+        "- Academic research/paper → university lab, library, microscope, data\n"
+        "- School/K-12/classroom → classroom, students, teacher, playground\n"
+        "- Digital/online learning → device, screen, virtual classroom\n"
+        "- AI tool/product launch → product interface, dashboard, app\n"
+        "- Global/international → cultural exchange, world map, diverse students\n"
+        "- Teacher training/professional → workshop, seminar, certificate"
+    )
 
-Create a detailed image prompt (50-80 words) for an editorial feature image representing EdTech ecosystem transformation. Warm, optimistic, professional mood."""
+    system = f"""You are an image prompt engineer for an EdTech editorial.
+
+TODAY'S ASSIGNED VISUAL STYLE:
+Technique: {technique}
+Color Palette: {palette}
+Style Description: {style_desc}
+
+You MUST generate the prompt in this exact style. The visual technique and palette are non-negotiable.
+
+{scene_hints}
+
+Rules:
+- The scene must reflect the MAIN TOPIC of today's news, NOT a generic classroom
+- The style MUST strictly follow {technique} / {palette}
+- 50-80 words, single paragraph
+- NO text, NO typography, NO letters, NO watermark
+- Be specific and visual — include concrete objects, colors, lighting"""
+    
+    user = f"""Today's EdTech news headlines:
+{top_news_text}
+
+Create ONE detailed image prompt (50-80 words) in {technique} style with {palette} palette for an editorial cover image."""
 
     # Get prompt from DeepSeek
     global DEEPSEEK_API_KEY
@@ -219,20 +313,21 @@ Create a detailed image prompt (50-80 words) for an editorial feature image repr
     payload = {"model": "deepseek-chat", "messages": [
         {"role": "system", "content": system},
         {"role": "user", "content": user}
-    ], "temperature": 0.8, "max_tokens": 200}
+    ], "temperature": 0.9, "max_tokens": 250}
     r = subprocess.run(['curl', '-s', '-X', 'POST', f'{DEEPSEEK_BASE_URL}/chat/completions',
         '-H', f'Authorization: Bearer {DEEPSEEK_API_KEY}', '-H', 'Content-Type: application/json',
         '-d', json.dumps(payload)], capture_output=True, text=True, timeout=30)
     try:
         llm_prompt = json.loads(r.stdout)['choices'][0]['message']['content'].strip().strip("'\"")
-        print(f"     AI 프롬프트: {llm_prompt[:80]}...")
+        print(f"     AI 프롬프트 ({technique} / {palette}): {llm_prompt[:80]}...")
     except:
-        llm_prompt = "Modern classroom with AI holographic lessons, students using tablets, teacher guiding, warm sunlight, digital education transformation, professional magazine cover quality, no text"
-        print(f"     기본 프롬프트 사용")
+        # Fallback prompt with today's style
+        llm_prompt = f"{style_desc}, {palette} color palette, {technique} illustration style representing education technology transformation, modern learning, no text"
+        print(f"     기본 프롬프트 사용 (LLM 실패)")
     
     # Generate via Pollinations.ai
     safe_prompt = quote_plus(llm_prompt)
-    img_url = f"https://image.pollinations.ai/prompt/{safe_prompt}?width=1400&height=800&nofeed=true"
+    img_url = f"https://image.pollinations.ai/prompt/{safe_prompt}?width=1400&height=800&seed={abs(hash(target_date))}&nofeed=true"
     local_path = f"/tmp/edtech-editorial-{target_date}.jpg"
     subprocess.run(['curl', '-sL', '-o', local_path, '-m', '30', '-H', 'User-Agent: Mozilla/5.0', img_url],
         capture_output=True, text=True, timeout=45)

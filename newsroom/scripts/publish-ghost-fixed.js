@@ -34,15 +34,30 @@ const FALLBACK = [
   'https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&q=80',
 ];
 
-// ★ AI 이미지 프롬프트 생성 (헤드라인 + 태그 기반)
-const STYLES = [
-  'digital art style, vibrant colors, professional lighting',
-  'modern illustration style, clean lines, soft gradients',
-  'cinematic photography style, warm tones, shallow depth of field',
-  'concept art style, dramatic lighting, detailed environment',
-  'studio photography style, well-composed, editorial quality',
-  'isometric illustration style, flat design, pastel colors',
-  'watercolor illustration style, artistic, textured paper feel',
+// ★ 🍌 BananaX Style Palette (22 diverse visual styles)
+const STYLE_PALETTE = [
+  { name: 'Flat Illustration / Corporate', desc: 'vector flat design, solid colors, geometric shapes, bold composition, professional corporate illustration' },
+  { name: 'Isometric / Data Viz', desc: 'isometric 3D perspective, colorful geometric blocks, data visualization style, clean angled lines' },
+  { name: 'Watercolor / Vintage', desc: 'watercolor painting, soft edges, translucent washes, impressionistic, gentle color blending, textured paper' },
+  { name: 'Blueprint / Technical', desc: 'technical blueprint style, white line drawings on deep blue background, architectural drafting, grid lines' },
+  { name: 'Manga / Screen Tone', desc: 'manga illustration style, screentone textures, expressive line art, comic panel composition' },
+  { name: 'Collage / Paper', desc: 'paper collage art, cut-out elements, layered textures, vintage magazine clippings, mixed media' },
+  { name: 'Knolling / Flat Lay', desc: 'knolling photography, top-down flat lay, neatly arranged objects at right angles, organized composition' },
+  { name: 'Chalkboard / Hand-drawn', desc: 'chalk drawing on dark chalkboard, hand-drawn style, white and pastel chalk strokes, rustic texture' },
+  { name: 'Pixel Art / 8-bit', desc: 'pixel art style, retro 8-bit video game aesthetic, blocky pixels, limited color palette' },
+  { name: 'Doodle / Notebook', desc: 'hand-drawn doodle style, casual sketch on notebook paper, simple line art, playful illustration' },
+  { name: 'Paper Cutout / Shadow Box', desc: 'paper cutout craft style, layered paper with shadows, pastel colors, dimensional depth, handmade aesthetic' },
+  { name: 'Glassmorphism / Frosted', desc: 'glassmorphism style, frosted glass effect, blur and transparency, soft gradients, modern UI aesthetic' },
+  { name: 'Low Poly / Faceted', desc: 'low poly 3D style, faceted geometric surfaces, angular shapes, vertex-based rendering, game art aesthetic' },
+  { name: 'Bauhaus / Geometric', desc: 'Bauhaus design style, geometric shapes, primary colors, clean lines, constructivist composition' },
+  { name: 'Swiss Style / Grid', desc: 'Swiss typographic style, strict grid layout, sans-serif typography as design element, clean systematic' },
+  { name: 'Art Deco / Gold Foil', desc: 'Art Deco style, geometric luxury patterns, gold foil accents, rich jewel tones, symmetrical composition' },
+  { name: 'Ukiyo-e / Woodblock', desc: 'Ukiyo-e woodblock print style, flat colors, bold outlines, traditional Japanese composition' },
+  { name: 'Retro Anime / Cel Shading', desc: 'retro 80s-90s anime style, warm tones, cel shading, nostalgic Japanese animation, soft glow' },
+  { name: 'Cyberpunk / Neon', desc: 'cyberpunk aesthetic, neon lights on dark backgrounds, blue-purple palette, holographic elements' },
+  { name: 'Risograph / Offset', desc: 'Risograph print style, offset misregistration, neon spot colors, gritty textured print' },
+  { name: 'Neumorphism / Soft', desc: 'neumorphic UI style, soft shadows, raised and inset elements, monochromatic light palette, subtle depth' },
+  { name: 'Editorial / Documentary', desc: 'editorial documentary photography, candid moments, natural lighting, high resolution, professional' },
 ];
 
 const SCENES = {
@@ -84,15 +99,21 @@ function buildPrompt(headline, tags) {
   if (text.includes('번역') || text.includes('언어')) scene = SCENES.language;
   if (text.includes('로봇') || text.includes('AI')) scene = SCENES.ai;
 
-  // 랜덤 스타일
-  const style = STYLES[Math.floor(Math.random() * STYLES.length)];
+  // 🍌 BananaX deterministic style selection — same headline = same style
+  let styleHash = 0;
+  for (let i = 0; i < (headline || '').length; i++) {
+    styleHash = ((styleHash << 5) - styleHash) + headline.charCodeAt(i);
+    styleHash = styleHash & styleHash;
+  }
+  const styleIdx = Math.abs(styleHash) % STYLE_PALETTE.length;
+  const style = STYLE_PALETTE[styleIdx];
   
   // 헤드라인의 영어 단어 추출
   const enWords = (text.match(/[a-zA-Z]{3,}/g) || []).slice(0, 5).join(', ') || '';
   
-  let prompt = `${scene}, ${style}`;
+  let prompt = `${scene}, ${style.desc}`;
   if (enWords) prompt += `, theme: ${enWords}`;
-  prompt += `, high quality, 16:9 aspect ratio, no text, no logos`;
+  prompt += `, style: ${style.name}, high quality, 16:9 aspect ratio, no text, no logos`;
   
   return prompt;
 }
@@ -253,6 +274,13 @@ async function main() {
     const tags = draft.ghost_tags || [];
     const src = data.source || {};
 
+    // 국내 에듀테크 기업 기사 → company_tag 기반 태그 자동 추가
+    const companyTag = data.company_tag;
+    if (companyTag && companyTag.name_ko) {
+      if (!tags.includes('에듀테크기업')) tags.push('에듀테크기업');
+      if (companyTag.category && !tags.includes(companyTag.category)) tags.push(companyTag.category);
+    }
+
     // ★ 중복 제목 체크
     const dupCheck = isDuplicateTitle(headline, existingPosts);
     if (dupCheck.duplicate) {
@@ -282,12 +310,23 @@ async function main() {
       aiFail++;
     }
 
+    // 리드 문단 추출 (타이틀 중복 방지)
+    let leadText = '';
+    if (html) {
+      const body = html.replace(/<blockquote[^>]*>[\s\S]*?<\/blockquote>/gi, '');
+      const para = body.match(/<p[^>]*>([\s\S]*?)<\/p>/);
+      if (para) {
+        leadText = para[1].replace(/<[^>]+>/g, '').replace(/&[a-z]+;/g, ' ').replace(/\s+/g, ' ').trim().substring(0, 120);
+      }
+    }
+    const ghostExcerpt = leadText || headline.substring(0, 100);
+
     try {
       const res = await ghostReq('POST', '/ghost/api/admin/posts/?source=html', {
         posts: [{
-          title: headline, html, status: 'published', featured: isFeaturedArticle(tags),
+          title: headline, html, status: 'published', visibility: 'public', featured: isFeaturedArticle(tags),
           tags: tags.map(t => ({ name: t, slug: t })),
-          custom_excerpt: headline.substring(0, 100),
+          custom_excerpt: ghostExcerpt,
           feature_image: img
         }]
       });
@@ -304,9 +343,9 @@ async function main() {
           await ghostReq('DELETE', `/ghost/api/admin/posts/${newId}/`);
           const retryRes = await ghostReq('POST', '/ghost/api/admin/posts/?source=html', {
             posts: [{
-              title: headline, html, status: 'published', featured: isFeaturedArticle(tags),
+              title: headline, html, status: 'published', visibility: 'public', featured: isFeaturedArticle(tags),
               tags: tags.map(t => ({ name: t, slug: t })),
-              custom_excerpt: headline.substring(0, 100),
+              custom_excerpt: ghostExcerpt,
               feature_image: img
             }]
           });
