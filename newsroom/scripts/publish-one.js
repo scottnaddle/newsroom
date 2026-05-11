@@ -26,7 +26,7 @@ const PUBLISHED_TITLES_FILE = path.join(MEMORY_DIR, 'published-titles.json');
 const USED_IMAGES_FILE = path.join(MEMORY_DIR, 'used-images.json');
 
 // Ghost 설정
-const GHOST_URL = 'https://ubion.ghost.io';
+const GHOST_URL = 'https://newsroom.ubion.global';
 const GHOST_API_KEY = '69a41252e9865e00011c166a:e74e50ce3e6c097ad370d5370633ccbc2a3e3c0627d7ce1fc12a81b4e6b01625';
 
 // get-feature-image.js 로드
@@ -325,6 +325,7 @@ async function publishOne(filePath) {
     title: headline,
     html: draft.html,
     status,  // 논문/교육은 auto published, 나머지는 draft
+    visibility: 'public',
     slug,
     tags: [primaryTag, ...ghostTags.slice(0, 2)],  // 주 태그 + 추가 태그 (최대 3개)
     meta_title: metaTitle,

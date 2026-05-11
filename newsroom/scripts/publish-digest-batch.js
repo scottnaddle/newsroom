@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
 
-const GHOST_URL = 'https://ubion.ghost.io';
+const GHOST_URL = 'https://newsroom.ubion.global';
 const API_KEY = '69a41252e9865e00011c166a:e74e50ce3e6c097ad370d5370633ccbc2a3e3c0627d7ce1fc12a81b4e6b01625';
 const AI_DIGEST_TAG_ID = '69a78cc8659ea80001153beb';
 const DRAFTED_DIR = path.join(__dirname, '..', 'pipeline', 'digest', '02-drafted');
@@ -55,6 +55,7 @@ async function publishPost(data, filename) {
       title: digest.headline,
       html: digest.html,
       status: 'published',
+      visibility: 'public',
       featured: false,
       tags: tags,
       meta_title: digest.meta_title || '',

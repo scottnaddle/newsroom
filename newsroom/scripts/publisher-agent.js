@@ -108,7 +108,7 @@ async function uploadImageToGhost(filePath, jwtToken) {
     ]);
 
     const options = {
-      hostname: 'ubion.ghost.io',
+      hostname: 'newsroom.ubion.global',
       path: '/ghost/api/admin/images/upload/',
       method: 'POST',
       headers: {
@@ -150,7 +150,7 @@ async function createGhostPost(postData, jwtToken) {
     const body = JSON.stringify({ posts: [postData] });
     
     const options = {
-      hostname: 'ubion.ghost.io',
+      hostname: 'newsroom.ubion.global',
       path: '/ghost/api/admin/posts/?source=html',
       method: 'POST',
       headers: {
@@ -186,7 +186,7 @@ async function createGhostPost(postData, jwtToken) {
 async function getGhostPost(postId, jwtToken) {
   return new Promise((resolve) => {
     const options = {
-      hostname: 'ubion.ghost.io',
+      hostname: 'newsroom.ubion.global',
       path: `/ghost/api/admin/posts/${postId}/?formats=html`,
       method: 'GET',
       headers: {
@@ -322,6 +322,7 @@ async function publishArticle(filePath) {
       title: headline,
       html: cleanedHtml,
       status: 'published', // ⭐ 즉시 PUBLISHED 상태로 발행
+      visibility: 'public',
       featured: isFeatured(headline, ghostTags),
       feature_image: featureImageUrl,
       og_image: ogImageUrl,
@@ -372,7 +373,7 @@ async function publishArticle(filePath) {
       stage: 'published',
       publish_result: {
         ghost_post_id: postId,
-        ghost_edit_url: `https://ubion.ghost.io/ghost/#/editor/post/${postId}`,
+        ghost_edit_url: `https://newsroom.ubion.global/ghost/#/editor/post/${postId}`,
         status: 'draft',
         published_at: new Date().toISOString()
       },
@@ -382,7 +383,7 @@ async function publishArticle(filePath) {
           agent: 'publisher',
           action: 'published-draft',
           timestamp: new Date().toISOString(),
-          note: `Ghost draft URL: https://ubion.ghost.io/ghost/#/editor/post/${postId}`
+          note: `Ghost draft URL: https://newsroom.ubion.global/ghost/#/editor/post/${postId}`
         }
       ]
     };

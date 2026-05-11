@@ -6,7 +6,7 @@ const https = require('https');
 const crypto = require('crypto');
 
 // Configuration
-const GHOST_API_URL = 'https://ubion.ghost.io/ghost/api/admin/';
+const GHOST_API_URL = 'https://newsroom.ubion.global/ghost/api/admin/';
 // Using the API key from config file
 const API_KEY = '69a41252e9865e00011c166a:f606281776c09b80680f09887a3bbe6bf28589da6fdc68b46ae9782f3c2dd8a0';
 const DIGEST_TAG_ID = '69a78cc8659ea80001153beb';

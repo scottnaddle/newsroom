@@ -31,7 +31,7 @@ function ghostReq(method, reqPath, body) {
   return new Promise((res, rej) => {
     const data = body ? JSON.stringify(body) : null;
     const req = https.request({
-      hostname:'ubion.ghost.io', path:reqPath, method,
+      hostname:'newsroom.ubion.global', path:reqPath, method,
       headers:{'Authorization':'Ghost '+makeToken(),'Accept-Version':'v5.0',
         ...(data?{'Content-Type':'application/json','Content-Length':Buffer.byteLength(data)}:{})}
     }, r => { let d=''; r.on('data',c=>d+=c); r.on('end',()=>{try{res(JSON.parse(d));}catch(e){res(null);}}); });
@@ -71,7 +71,7 @@ function uploadImage(filePath, filename) {
       Buffer.from(`\r\n--${boundary}--\r\n`)
     ]);
     const req = https.request({
-      hostname:'ubion.ghost.io', path:'/ghost/api/admin/images/upload/', method:'POST',
+      hostname:'newsroom.ubion.global', path:'/ghost/api/admin/images/upload/', method:'POST',
       headers:{
         'Authorization':'Ghost '+makeToken(),'Accept-Version':'v5.0',
         'Content-Type':`multipart/form-data; boundary=${boundary}`,
@@ -238,6 +238,7 @@ Design a single-panel satirical cartoon. Respond in this exact JSON format:
       title: postTitle,
       lexical,
       status: 'published',
+      visibility: 'public',
       featured: true,
       feature_image: imageUrl,
       feature_image_alt: plan.altText,
