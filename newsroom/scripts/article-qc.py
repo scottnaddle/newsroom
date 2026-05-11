@@ -31,6 +31,25 @@ FEATURED_RULES = {
     '에듀생태계시평': True,  # 시평 → Featured
 }
 
+# 폴백 이미지 풀 (404 이미지 교체용)
+FALLBACK_IMAGES = [
+    'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80',
+    'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&q=80',
+    'https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&q=80',
+    'https://images.unsplash.com/photo-1523050854058-8df90110c7f1?w=1200&q=80',
+    'https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&q=80',
+    'https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&q=80',
+    'https://images.unsplash.com/photo-1452860606245-08a4f54d129b?w=1200&q=80',
+    'https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=1200&q=80',
+    'https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&q=80',
+    'https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&q=80',
+    'https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80',
+    'https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&q=80',
+    'https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&q=80',
+    'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&q=80',
+    'https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&q=80',
+]
+
 # 태그별 최소 하이퍼링크 수
 MIN_LINKS = {
     'ai-tech-brief': 8,  # 최소 8개 이상 외부 링크
@@ -272,28 +291,95 @@ def run_qc(fix=False):
         has_img, img_msg = check_feature_image(post)
         print(f"   {img_msg}")
         if not has_img:
-            post_issues.append(f"📸 [{slug}] {img_msg}")
+            if fix and ('404' in img_msg or '이미지 없음' in img_msg):
+                # 자동 교체: hash(title) 기반 폴백 이미지 선택 → Ghost 업로드
+                import hashlib
+                fallback_idx = int(hashlib.md5(title.encode()).hexdigest(), 16) % len(FALLBACK_IMAGES)
+                fallback_url = FALLBACK_IMAGES[fallback_idx]
+                
+                # 폴백 이미지가 응답하는지 확인
+                try:
+                    fb_r = subprocess.run(
+                        ['curl', '-sI', '--max-time', '5', fallback_url],
+                        capture_output=True, text=True, timeout=10
+                    )
+                    fb_ok = bool(re.search(r'HTTP/\d+(\.\d+)?\s+[23]\d{2}', fb_r.stdout))
+                except:
+                    fb_ok = False
+                
+                if fb_ok:
+                    # 폴백 다운로드 → Ghost 업로드
+                    try:
+                        dl_r = subprocess.run(['curl', '-sL', '--max-time', '10', '-o', f'/tmp/qc-fix-{slug}.jpg', fallback_url],
+                            capture_output=True, text=True, timeout=15)
+                        if os.path.exists(f'/tmp/qc-fix-{slug}.jpg') and os.path.getsize(f'/tmp/qc-fix-{slug}.jpg') > 5000:
+                            # Ghost 업로드
+                            token = get_ghost_token()
+                            upload_r = subprocess.run([
+                                'curl', '-s', '-X', 'POST', f'{GHOST_URL}/ghost/api/admin/images/upload/',
+                                '-H', f'Authorization: Ghost {token}',
+                                '-F', f'file=@/tmp/qc-fix-{slug}.jpg',
+                            ], capture_output=True, text=True, timeout=30)
+                            upload_result = json.loads(upload_r.stdout) if upload_r.stdout else {}
+                            new_img_url = upload_result.get('images', [{}])[0].get('url', '')
+                            
+                            if new_img_url:
+                                # Post에 새 이미지 설정 (updated_at 포함)
+                                post_current = ghost_get(f'posts/{post_id}/?fields=id,updated_at')
+                                updated_at = post_current.get('posts', [{}])[0].get('updated_at', '')
+                                result = ghost_put(f'posts/{post_id}/', {
+                                    'posts': [{'id': post_id, 'feature_image': new_img_url, 'updated_at': updated_at}]
+                                })
+                                if result.get('posts'):
+                                    post_fixes.append(f"📸 이미지 교체완료 (→ Ghost CDN)")
+                                    print(f"     → ✅ 이미지 자동 교체: {new_img_url[:50]}...")
+                                else:
+                                    print(f"     → ❌ 이미지 설정 실패")
+                            else:
+                                # Ghost 업로드 실패 → 직접 Unsplash URL 설정
+                                post_current = ghost_get(f'posts/{post_id}/?fields=id,updated_at')
+                                updated_at = post_current.get('posts', [{}])[0].get('updated_at', '')
+                                result = ghost_put(f'posts/{post_id}/', {
+                                    'posts': [{'id': post_id, 'feature_image': fallback_url, 'updated_at': updated_at}]
+                                })
+                                if result.get('posts'):
+                                    post_fixes.append(f"📸 이미지 교체 (Unsplash 직접 URL)")
+                                    print(f"     → ✅ 이미지 교체 (Unsplash 직접): {fallback_url[:50]}...")
+                                else:
+                                    print(f"     → ❌ 이미지 교체 실패")
+                        else:
+                            print(f"     → ⚠️ 폴백 다운로드 실패 (크기 {os.path.getsize(f'/tmp/qc-fix-{slug}.jpg') if os.path.exists(f'/tmp/qc-fix-{slug}.jpg') else 0}bytes)")
+                    except Exception as e:
+                        print(f"     → ⚠️ 이미지 교체 중 오류: {e[:80]}")
+                else:
+                    print(f"     → ⚠️ 폴백 이미지 자체가 응답 없음 (skip)")
+            else:
+                post_issues.append(f"📸 [{slug}] {img_msg}")
         
         # 2. Featured Check
         feat_ok, feat_msg = check_featured(post)
         print(f"   {feat_msg}")
         if not feat_ok:
             if fix:
-                # Fix featured flag
+                # Fix featured flag — MUST include updated_at for Ghost v6.22 optimistic locking
                 expected_feat = False
                 for t in tag_slugs:
                     if t in FEATURED_RULES:
                         expected_feat = FEATURED_RULES[t]
                         break
+                # GET latest updated_at first
+                post_current = ghost_get(f'posts/{post_id}/?fields=id,updated_at')
+                updated_at = post_current.get('posts', [{}])[0].get('updated_at', '')
                 result = ghost_put(f'posts/{post_id}/', {
-                    'posts': [{'featured': expected_feat}]
+                    'posts': [{'id': post_id, 'featured': expected_feat, 'updated_at': updated_at}]
                 })
                 if result.get('posts'):
                     post_fixes.append(f"⭐ Featured → {expected_feat} (수정완료)")
                     print(f"     → ✅ 자동 수정: Featured={expected_feat}")
                 else:
-                    post_fixes.append(f"⭐ Featured 수정 실패")
-                    print(f"     → ❌ 수정 실패")
+                    err_msg = json.dumps(result, ensure_ascii=False)[:100]
+                    post_fixes.append(f"⭐ Featured 수정 실패 ({err_msg})")
+                    print(f"     → ❌ 수정 실패: {err_msg}")
             else:
                 post_issues.append(f"⭐ [{slug}] {feat_msg}")
         
