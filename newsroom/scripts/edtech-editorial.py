@@ -7,6 +7,7 @@ Run: python3 scripts/edtech-editorial.py [--date YYYY-MM-DD] [--publish]
 """
 import json, subprocess, base64, hmac, hashlib, time, re, sys, os, argparse
 from datetime import datetime, timedelta
+from urllib.parse import quote_plus
 
 # ─── Config ───────────────────────────────────────
 GHOST_URL = 'https://newsroom.ubion.global'
@@ -194,6 +195,74 @@ def editorial_to_html(text):
     html = re.sub(r'<p>—</p>', '<hr />', html)
     return html
 
+# ─── Image Generation ──────────────────────────────
+def generate_editorial_image(news, target_date):
+    """Generate a feature image using Pollinations.ai, based on today's edtech news."""
+    print(f"  🖼️ 이미지 생성 중...")
+    
+    # Build prompt from today's top news
+    top_news = '\n'.join([f"- {a['title']}" for a in news[:5]])
+    system = "You are an image prompt engineer for an EdTech editorial. Given today's EdTech news headlines, create ONE detailed English image prompt for a cover image. The scene should represent education technology transformation — modern classrooms, AI-powered learning, students and teachers collaborating with digital tools. Style: professional digital art, warm and inspiring. IMPORTANT: Include specific visual elements related to education (books, desks, screens, students, teachers, holographic lessons). No text, no typography. NOT abstract or fantasy."
+    user = f"""Today's EdTech news:
+{top_news}
+
+Create a detailed image prompt (50-80 words) for an editorial feature image representing EdTech ecosystem transformation. Warm, optimistic, professional mood."""
+
+    # Get prompt from DeepSeek
+    global DEEPSEEK_API_KEY
+    if not DEEPSEEK_API_KEY:
+        with open(ENV_PATH) as f:
+            env = f.read()
+        match = re.search(r'DEEPSEEK_API_KEY=(.+)', env)
+        DEEPSEEK_API_KEY = match.group(1).strip() if match else None
+
+    payload = {"model": "deepseek-chat", "messages": [
+        {"role": "system", "content": system},
+        {"role": "user", "content": user}
+    ], "temperature": 0.8, "max_tokens": 200}
+    r = subprocess.run(['curl', '-s', '-X', 'POST', f'{DEEPSEEK_BASE_URL}/chat/completions',
+        '-H', f'Authorization: Bearer {DEEPSEEK_API_KEY}', '-H', 'Content-Type: application/json',
+        '-d', json.dumps(payload)], capture_output=True, text=True, timeout=30)
+    try:
+        llm_prompt = json.loads(r.stdout)['choices'][0]['message']['content'].strip().strip("'\"")
+        print(f"     AI 프롬프트: {llm_prompt[:80]}...")
+    except:
+        llm_prompt = "Modern classroom with AI holographic lessons, students using tablets, teacher guiding, warm sunlight, digital education transformation, professional magazine cover quality, no text"
+        print(f"     기본 프롬프트 사용")
+    
+    # Generate via Pollinations.ai
+    safe_prompt = quote_plus(llm_prompt)
+    img_url = f"https://image.pollinations.ai/prompt/{safe_prompt}?width=1400&height=800&nofeed=true"
+    local_path = f"/tmp/edtech-editorial-{target_date}.jpg"
+    subprocess.run(['curl', '-sL', '-o', local_path, '-m', '30', '-H', 'User-Agent: Mozilla/5.0', img_url],
+        capture_output=True, text=True, timeout=45)
+    
+    if not os.path.exists(local_path) or os.path.getsize(local_path) < 1000:
+        print(f"     ⚠️ 이미지 생성 실패, 이미지 없이 발행")
+        return None
+    
+    print(f"     다운로드 완료: {os.path.getsize(local_path)/1024:.0f}KB")
+    
+    # Upload to Ghost
+    token = get_ghost_token()
+    up = subprocess.run(['curl', '-s', '-X', 'POST',
+        f'{GHOST_URL}/ghost/api/admin/images/upload/',
+        '-H', f'Authorization: Ghost {token}',
+        '-F', f'file=@{local_path};type=image/jpeg'],
+        capture_output=True, text=True, timeout=30)
+    try:
+        img_data = json.loads(up.stdout)
+        ghost_url = img_data.get('images', [{}])[0].get('url', '')
+        if ghost_url:
+            print(f"     ✅ 업로드 완료: {ghost_url.split('/')[-1][:50]}")
+            return ghost_url
+        else:
+            print(f"     ⚠️ 업로드 실패")
+            return None
+    except:
+        print(f"     ⚠️ 업로드 파싱 실패")
+        return None
+
 # ─── Main ──────────────────────────────────────────
 def main():
     parser = argparse.ArgumentParser(description='에듀테크 생태계 데일리 시평 생성기')
@@ -246,12 +315,16 @@ def main():
         print(f"\n✅ 미리보기 완료. --publish 옵션으로 발행하세요.")
         return
     
-    # 6. Publish
+    # 6. Generate feature image
+    feature_image = generate_editorial_image(news, target_date)
+    
+    # 7. Publish
     print(f"  📤 Ghost 발행 중...")
     result = ghost_api('POST', 'posts/?source=html', {
         'posts': [{
             'title': title,
             'html': html,
+            'feature_image': feature_image,
             'status': 'published',
             'visibility': 'public',  # 반드시 공개 — Ghost 기본값이 구독자전용일 수 있음
             'featured': True,

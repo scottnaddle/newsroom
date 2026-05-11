@@ -397,14 +397,18 @@ def article_to_html(text):
     for p in text.strip().split('\n\n'):
         p = p.strip()
         if not p: continue
-        # ## lines with number prefix (e.g., "## 1. Anthropic") → <p><strong>
-        if re.match(r'##\s+\d+[\.\)]', p):
+        ## h3 line → <p><strong> (Ghost에서 h3 스타일 깨질 수 있으므로 bold 단락으로)
+        if p.startswith('### '):
+            content = re.sub(r'^###\s+', '', p)
+            html_parts.append(f'<p><strong>{content}</strong></p>')
+        ## h2 line with number prefix (e.g., "## 1. Anthropic") → <p><strong>
+        elif re.match(r'##\s+\d+[\.\)]', p):
             content = re.sub(r'^##\s+', '', p)
             html_parts.append(f'<p><strong>{content}</strong></p>')
-        # ## h2 line that is a known section header → <h2>
+        ## h2 line that is a known section header → <h2>
         elif p.startswith('## ') and any(kw in p for kw in ['키워드', '트렌드', 'TOP', '📊', '🔥']):
             html_parts.append(f'<h2>{p.lstrip("# ")}</h2>')
-        # ## h2 line that looks like content (not section header) → <p><strong>
+        ## h2 line that looks like content (not section header) → <p><strong>
         elif p.startswith('## '):
             content = re.sub(r'^##\s+', '', p)
             html_parts.append(f'<p><strong>{content}</strong></p>')
