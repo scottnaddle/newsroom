@@ -15,7 +15,7 @@ from urllib.parse import quote_plus
 # ─── Config ───────────────────────────────────────
 GHOST_URL = 'https://newsroom.ubion.global'
 ENV_PATH = '/root/.openclaw/workspace/newsroom/.env'
-DEEPSEEK_BASE_URL = 'https://api.deepseek.com/v1'
+DEEPSEEK_BASE_URL = os.environ.get('DEEPSEEK_BASE_URL', 'https://api.deepseek.com/v1')
 TAG_NAME = 'AI테크브리핑'
 TAG_SLUG = 'ai-tech-brief'
 USED_SOURCES_DIR = '/tmp/ai-brief-used-sources'
@@ -742,6 +742,7 @@ def main():
             'title': title,
             'html': html,
             'status': 'published',
+            'visibility': 'public',  # ★ 반드시 공개 — Ghost 기본값이 구독자전용일 수 있음
             'featured': True,  # ★ AI Tech Brief is always Featured
             'tags': [{'name': TAG_NAME, 'slug': tag_slug}],
             'custom_excerpt': f"{target_date} AI 기술 핫이슈 TOP 10"
