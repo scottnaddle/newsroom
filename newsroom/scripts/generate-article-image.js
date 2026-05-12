@@ -34,6 +34,17 @@ const COUNTRY_PATTERNS = [
   { match: /(?:원광대|피지컬|울산|경남|전국인력|IT비즈|삼성SDS|아이에스동서)/i, country: 'South Korea', region: '한국', ethnic: 'Korean', setting: 'Korean classroom', score: 0.7 },
   { match: /(?:에듀테크|하이러닝|경기교육)/i, country: 'South Korea', region: '한국', ethnic: 'Korean', setting: 'Korean classroom', score: 0.6 },
   { match: /(?:고등교육|대학|캠퍼스|교수|강의)(?!.*(?:미국|인도|일본|중국|유럽))/i, country: 'South Korea', region: '한국', ethnic: 'Korean', setting: 'Korean university', score: 0.5 },
+  // ─── 한자 약자 (Korean abbreviation → full name) ─────────
+  // 예: 美 미주리 주립대 → 미국, 日 도쿄대 → 일본
+  { match: /(?:^|[^가-힣])美(?=[가-힣\s])/i, country: 'USA', region: '미국', ethnic: 'multi-ethnic American', setting: 'American classroom', score: 3.0 },
+  { match: /(?:^|[^가-힣])日(?=[가-힣\s])/i, country: 'Japan', region: '일본', ethnic: 'Japanese', setting: 'Japanese classroom', score: 3.0 },
+  { match: /(?:^|[^가-힣])英(?=[가-힣\s])/i, country: 'United Kingdom', region: '영국', ethnic: 'British', setting: 'British classroom', score: 3.0 },
+  { match: /(?:^|[^가-힣])佛(?=[가-힣\s])/i, country: 'France', region: '프랑스', ethnic: 'French', setting: 'French classroom', score: 3.0 },
+  { match: /(?:^|[^가-힣])獨(?=[가-힣\s])/i, country: 'Germany', region: '독일', ethnic: 'German', setting: 'German classroom', score: 3.0 },
+  { match: /(?:^|[^가-힣])中(?=[가-힣\s])/i, country: 'China', region: '중국', ethnic: 'Chinese', setting: 'Chinese classroom', score: 3.0 },
+  { match: /(?:^|[^가-힣])印(?=[가-힣\s])/i, country: 'India', region: '인도', ethnic: 'Indian', setting: 'Indian classroom', score: 3.0 },
+  { match: /(?:^|[^가-힣])加(?=[가-힣\s])/i, country: 'Canada', region: '캐나다', ethnic: 'Canadian', setting: 'Canadian classroom', score: 3.0 },
+  { match: /(?:^|[^가-힣])澳(?=[가-힣\s])/i, country: 'Australia', region: '호주', ethnic: 'multi-ethnic Australian', setting: 'Australian classroom', score: 3.0 },
 ];
 
 const SSH_HOST = 'axc@axc-macstudio.tailea4ca3.ts.net';
