@@ -1,4 +1,91 @@
 {
+  "regions": {
+    "korea": {
+      "name": "한국",
+      "search_queries": [
+        "AI 교육 정책 한국",
+        "인공지능 교육부 2026",
+        "에듀테크 AI 학교 도입",
+        "AI 디지털교과서 현장",
+        "교육 인공지능 윤리 규제",
+        "대학 AI 필수과목",
+        "AI 교원 연수 교사"
+      ],
+      "sources": [".kr", "korea.kr", "yna.co.kr", "edaily.co.kr"]
+    },
+    "usa": {
+      "name": "미국",
+      "search_queries": [
+        "AI education policy K-12 2026",
+        "artificial intelligence classroom tools teachers",
+        "AI literacy students school",
+        "US AI education executive order school",
+        "ChatGPT schools ban policy"
+      ],
+      "sources": [".gov", ".edu", "nytimes.com", "edweek.org", "edsurge.com"]
+    },
+    "europe": {
+      "name": "유럽",
+      "search_queries": [
+        "AI education EU policy 2026",
+        "generative AI higher education university Europe",
+        "AI teacher training professional development",
+        "EU AI Act education implications"
+      ],
+      "sources": [".eu", "europa.eu", "theguardian.com", "bbc.com"]
+    },
+    "singapore": {
+      "name": "싱가포르",
+      "search_queries": [
+        "Singapore AI education strategy",
+        "Singapore edtech policy school"
+      ],
+      "sources": [".sg", "straitstimes.com"]
+    },
+    "japan": {
+      "name": "일본",
+      "search_queries": [
+        "Japan AI education policy school",
+        "일본 AI 교육 정책"
+      ],
+      "sources": [".jp"]
+    },
+    "china": {
+      "name": "중국",
+      "search_queries": [
+        "China AI education policy school 2026",
+        "중국 AI 교육 정책"
+      ],
+      "sources": [".cn", "chinadaily.com.cn"]
+    },
+    "india": {
+      "name": "인도",
+      "search_queries": [
+        "India AI education policy school",
+        "India edtech AI classroom"
+      ],
+      "sources": [".in", "thehindu.com"]
+    },
+    "finland": {
+      "name": "핀란드",
+      "search_queries": [
+        "Finland AI education school policy",
+        "Finland edtech innovation"
+      ],
+      "sources": [".fi", "helsinkitimes.fi"]
+    },
+    "estonia": {
+      "name": "에스토니아",
+      "search_queries": [
+        "Estonia AI education digital school",
+        "Estonia edtech policy"
+      ],
+      "sources": [".ee", "err.ee"]
+    }
+  },
+  "max_total_articles": 5,
+  "max_articles_per_region": 3,
+  "recency_days": 2,
   "brave_search": {
     "enabled": true,
     "queries_ko": [
