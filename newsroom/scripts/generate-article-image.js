@@ -7,7 +7,7 @@
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
-const { execSync } = require('child_process');
+const http = require('http');
 
 // ─── 국가/지역 감지 데이터베이스 ─────────────────────────
 
@@ -46,8 +46,6 @@ const COUNTRY_PATTERNS = [
   { match: /(?:^|[^가-힣])加(?=[가-힣\s])/i, country: 'Canada', region: '캐나다', ethnic: 'Canadian', setting: 'Canadian classroom', score: 3.0 },
   { match: /(?:^|[^가-힣])澳(?=[가-힣\s])/i, country: 'Australia', region: '호주', ethnic: 'multi-ethnic Australian', setting: 'Australian classroom', score: 3.0 },
 ];
-
-const SSH_HOST = 'axc@axc-macstudio.tailea4ca3.ts.net';
 
 // ─── 국가 컨텍스트 추출 ─────────────────────────
 
@@ -246,57 +244,90 @@ function buildPrompt(headline, bodyText, tags, context) {
   return prompt;
 }
 
-// ─── ComfyUI 이미지 생성 (SSH) ─────────────────────────
+// ─── GPT Image 1 Mini (OpenAI API) ─────────────────────────
+const OPENAI_API = 'https://api.openai.com/v1/images/generations';
+const GPT_IMAGE_MODEL = 'gpt-image-1-mini';
+const GPT_IMAGE_SIZE = '1024x1024';
+const GPT_IMAGE_QUALITY = 'low'; // low=$0.005, medium=$0.011, high=$0.036
 
-function generateImage(prompt, mode = 'news') {
-  const timeout = mode === 'news' ? 300000 : 600000; // 5분 / 10분
-  const promptFile = `/tmp/comfy-in-${Date.now()}.txt`;
+function callOpenAI(prompt) {
+  return new Promise((resolve, reject) => {
+    let apiKey = null;
+    try {
+      const env = fs.readFileSync('/root/.openclaw/workspace/newsroom/.env', 'utf8');
+      const match = env.match(/OPENAI_API_KEY=(sk-[^\s]+)/);
+      if (match) apiKey = match[1].trim();
+    } catch(e) {}
+    if (!apiKey) return reject(new Error('OPENAI_API_KEY not found in .env'));
 
-  // Write prompt to file as base64 to avoid shell quoting issues
-  fs.writeFileSync(promptFile + '.b64', Buffer.from(prompt, 'utf8').toString('base64'), 'utf8');
+    const body = JSON.stringify({
+      model: GPT_IMAGE_MODEL,
+      prompt: prompt,
+      n: 1,
+      size: GPT_IMAGE_SIZE,
+      quality: GPT_IMAGE_QUALITY
+    });
 
-  // 1. Copy base64 prompt to Mac Studio and decode there
-  execSync(`scp "${promptFile}.b64" ${SSH_HOST}:/tmp/comfy-prompt.b64`, { timeout: 10000 });
-
-  // 2. On Mac Studio: decode prompt, then run v2 script (reads from file)
-  const cmd = `ssh ${SSH_HOST} "python3 -c 'import base64,sys; sys.stdout.write(base64.b64decode(sys.stdin.read()).decode())' < /tmp/comfy-prompt.b64 > /tmp/comfy-prompt-in.txt && bash /tmp/comfyui-gen-v2.sh '${mode}' /tmp/comfy-prompt-in.txt" 2>&1`;
-
-  try {
-    const output = execSync(cmd, { timeout, shell: '/bin/bash', maxBuffer: 2 * 1024 * 1024 }).toString().trim();
-    const lines = output.split('\n').map(l => l.trim()).filter(Boolean);
-    const genPath = lines.find(l => l.startsWith('/tmp/ai-'));
-    
-    if (genPath) {
-      const localPath = `/tmp/ai-final-${Date.now()}.png`;
-      execSync(`scp ${SSH_HOST}:"${genPath}" "${localPath}"`, { timeout: 30000 });
-      
-      if (fs.existsSync(localPath) && fs.statSync(localPath).size > 5000) {
-        try { fs.unlinkSync(promptFile + '.b64'); } catch(e) {}
-        return localPath;
+    const options = {
+      hostname: 'api.openai.com',
+      path: '/v1/images/generations',
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${apiKey}`,
+        'Content-Type': 'application/json',
+        'Content-Length': Buffer.byteLength(body)
       }
-    }
-    
-    // Fallback: check output directory for newest file
-    const checkCmd = `ssh ${SSH_HOST} "ls -t /Users/axc/ComfyUI/output/ComfyUI-news-*.png 2>/dev/null | head -1"`;
-    const latest = execSync(checkCmd, { timeout: 10000 }).toString().trim();
-    if (latest) {
-      const localPath = `/tmp/ai-fallback-${Date.now()}.png`;
-      execSync(`scp ${SSH_HOST}:"${latest}" "${localPath}"`, { timeout: 30000 });
-      if (fs.existsSync(localPath) && fs.statSync(localPath).size > 5000) {
-        try { fs.unlinkSync(promptFile + '.b64'); } catch(e) {}
-        return localPath;
+    };
+
+    const req = https.request(options, (res) => {
+      let data = '';
+      res.on('data', chunk => data += chunk);
+      res.on('end', () => {
+        try {
+          const parsed = JSON.parse(data);
+          if (parsed.error) return reject(new Error(`OpenAI 오류: ${parsed.error.message}`));
+          if (parsed.data && parsed.data[0] && parsed.data[0].b64_json) {
+            resolve({ b64: parsed.data[0].b64_json });
+          } else if (parsed.data && parsed.data[0] && parsed.data[0].url) {
+            resolve({ url: parsed.data[0].url });
+          } else {
+            reject(new Error(`OpenAI 응답 파싱 실패: ${data.substring(0, 300)}`));
+          }
+        } catch(e) { reject(new Error(`OpenAI JSON 파싱 오류: ${e.message}`)); }
+      });
+    });
+    req.on('error', reject);
+    req.write(body);
+    req.end();
+  });
+}
+
+function saveImageBase64(b64String) {
+  const localPath = `/tmp/ai-gpt-${Date.now()}.png`;
+  const buffer = Buffer.from(b64String, 'base64');
+  fs.writeFileSync(localPath, buffer);
+  if (fs.statSync(localPath).size > 1000) return localPath;
+  throw new Error('Base64 디코딩 결과가 너무 작음 (< 1KB)');
+}
+
+function downloadImage(url) {
+  return new Promise((resolve, reject) => {
+    const localPath = `/tmp/ai-gpt-${Date.now()}.png`;
+    const file = fs.createWriteStream(localPath);
+    const mod = url.startsWith('https') ? https : http;
+    mod.get(url, { timeout: 30000 }, (response) => {
+      if (response.statusCode >= 300 && response.statusCode < 400 && response.headers.location) {
+        return downloadImage(response.headers.location).then(resolve).catch(reject);
       }
-    }
-    
-    throw new Error(`No image found. Output: ${output.substring(0, 300)}`);
-  } catch (err) {
-    if (err.message.includes('ETIMEDOUT') || err.message.includes('Command timed out')) {
-      throw new Error(`Generation timeout (${timeout/1000}s)`);
-    }
-    throw err;
-  } finally {
-    try { fs.unlinkSync(promptFile + '.b64'); } catch(e) {}
-  }
+      if (response.statusCode !== 200) return reject(new Error(`Download HTTP ${response.statusCode}`));
+      response.pipe(file);
+      file.on('finish', () => {
+        file.close();
+        if (fs.statSync(localPath).size > 1000) resolve(localPath);
+        else reject(new Error('Downloaded file too small (< 1KB)'));
+      });
+    }).on('error', (err) => { file.close(); try { fs.unlinkSync(localPath); } catch(e) {} reject(err); });
+  });
 }
 
 // ─── Ghost 이미지 업로드 ─────────────────────────
@@ -373,13 +404,24 @@ async function generateImageForArticle({ headline, bodyHtml, tags, mode = 'news'
   const prompt = buildPrompt(headline, bodyHtml, tags, context);
   console.log(`[ImageGen] Prompt (${prompt.length} chars): ${prompt.substring(0, 200)}...`);
 
-  console.log(`[ImageGen] Generating image via ComfyUI (mode: ${mode})...`);
+  console.log(`[ImageGen] Generating via GPT Image 1 Mini...`);
   const startTime = Date.now();
-  const imagePath = generateImage(prompt, mode);
-  const elapsed = Math.round((Date.now() - startTime) / 1000);
+  
+  // 1. OpenAI API 호출
+  const result = await callOpenAI(prompt);
+  const apiTime = Math.round((Date.now() - startTime) / 1000);
+  console.log(`[ImageGen] ✅ OpenAI response received in ${apiTime}s (${result.url ? 'URL' : 'Base64'})`);
+  
+  // 2. 이미지 저장 (URL 다운로드 or Base64 → 파일)
+  console.log(`[ImageGen] Saving image...`);
+  const imagePath = result.url
+    ? await downloadImage(result.url)
+    : saveImageBase64(result.b64);
+  const dlTime = Math.round((Date.now() - startTime) / 1000);
   const sizeKB = Math.round(fs.statSync(imagePath).size / 1024);
-  console.log(`[ImageGen] ✅ Generated in ${elapsed}s (${sizeKB}KB): ${imagePath}`);
+  console.log(`[ImageGen] ✅ Saved (${dlTime}s, ${sizeKB}KB): ${imagePath}`);
 
+  // 3. Ghost 업로드
   console.log(`[ImageGen] Uploading to Ghost...`);
   const ghostUrl = await uploadToGhost(imagePath);
   console.log(`[ImageGen] ✅ Ghost URL: ${ghostUrl}`);
@@ -413,4 +455,4 @@ if (require.main === module) {
     });
 }
 
-module.exports = { generateImageForArticle, detectCountryContext, buildPrompt, analyzeScene };
+module.exports = { generateImageForArticle, detectCountryContext, buildPrompt, analyzeScene, saveImageBase64 };
