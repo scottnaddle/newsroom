@@ -294,39 +294,59 @@ async function main() {
       continue;
     }
 
-    // ★ AI 이미지 생성
+    // ★ 이미지 결정: Crawl4AI 수집 이미지 > AI 생성 > Unsplash Fallback
     const enParts = (headline.match(/[a-zA-Z]{3,}/g) || []).slice(0, 3);
     const label = enParts.length ? enParts.join('-').toLowerCase() : 'article';
     
     console.log(`  🔍 "${headline.substring(0, 30)}"`);
     
-    let img = await generateAIImage(headline, tags, label);
-    if (img) {
-      console.log(`     🤖 AI 이미지 ✓ (seed: ${img.match(/ai-[^-]+-(\d+)/)?.[1] || '?'})`);
-      aiOk++;
-    } else {
-      img = FALLBACK[Math.floor(Math.random() * FALLBACK.length)];
-      console.log(`     📷 Fallback (AI 생성 실패)`);
-      aiFail++;
-    }
-
-    // 리드 문단 추출 (타이틀 중복 방지)
-    let leadText = '';
-    if (html) {
-      const body = html.replace(/<blockquote[^>]*>[\s\S]*?<\/blockquote>/gi, '');
-      const para = body.match(/<p[^>]*>([\s\S]*?)<\/p>/);
-      if (para) {
-        leadText = para[1].replace(/<[^>]+>/g, '').replace(/&[a-z]+;/g, ' ').replace(/\s+/g, ' ').trim().substring(0, 120);
+    // 1순위: Crawl4AI 이미지 룩업 확인
+    let img = null;
+    const imgLookupPath = '/root/.openclaw/workspace/newsroom/pipeline/crawl4ai-image-lookup.json';
+    try {
+      if (fs.existsSync(imgLookupPath)) {
+        const lookup = JSON.parse(fs.readFileSync(imgLookupPath, 'utf8'));
+        const srcUrl = src && src.url;
+        if (srcUrl && lookup[srcUrl]) {
+          img = lookup[srcUrl];
+          console.log(`     🖼️ Crawl4AI 이미지 사용 (source URL)`);
+        }
+        if (!img) {
+          const headlineWords = headline.replace(/[^a-zA-Z가-힣0-9]/g, ' ').split(/\s+/).filter(Boolean);
+          for (const [url, imgUrl] of Object.entries(lookup)) {
+            const urlLower = url.toLowerCase();
+            const matchCount = headlineWords.filter(w => w.length > 2 && urlLower.includes(w.toLowerCase())).length;
+            if (matchCount >= 2) {
+              img = imgUrl;
+              console.log(`     🖼️ Crawl4AI 이미지 사용 (키워드 매칭: ${matchCount}개)`);
+              break;
+            }
+          }
+        }
+      }
+    } catch(e) {}
+    
+    // 2순위: AI 이미지 생성
+    if (!img) {
+      img = await generateAIImage(headline, tags, label);
+      if (img) {
+        console.log(`     🤖 AI 이미지 ✓`);
+        aiOk++;
+      } else {
+        img = FALLBACK[Math.floor(Math.random() * FALLBACK.length)];
+        console.log(`     📷 Fallback (AI 생성 실패)`);
+        aiFail++;
       }
     }
-    const ghostExcerpt = leadText || headline.substring(0, 100);
+
+    // custom_excerpt 사용 안 함 (기사 내 blockquote 리드로 대체)
+    const ghostExcerpt = '';
 
     try {
       const res = await ghostReq('POST', '/ghost/api/admin/posts/?source=html', {
         posts: [{
           title: headline, html, status: 'published', visibility: 'public', featured: isFeaturedArticle(tags),
           tags: tags.map(t => ({ name: t, slug: t })),
-          custom_excerpt: ghostExcerpt,
           feature_image: img
         }]
       });
@@ -345,7 +365,6 @@ async function main() {
             posts: [{
               title: headline, html, status: 'published', visibility: 'public', featured: isFeaturedArticle(tags),
               tags: tags.map(t => ({ name: t, slug: t })),
-              custom_excerpt: ghostExcerpt,
               feature_image: img
             }]
           });

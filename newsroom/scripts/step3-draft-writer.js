@@ -1,30 +1,549 @@
 const fs = require('fs');
 const path = require('path');
+const https = require('https');
+const zlib = require('zlib');
 
 // Create directories if needed
 ['pipeline/04-drafted', 'pipeline/memory'].forEach(dir => {
-  if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
+ if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
 });
 
-// HTML 템플릿
-const generateArticleHTML = (headline, content, accent, references) => {
-  const accentColors = {
-    'policy': '#4338ca',
-    'research': '#059669',
-    'industry': '#d97706',
-    'opinion': '#7c3aed',
-    'data': '#0284c7',
-    'education': '#0891b2'
+// Read from 03-reported/
+const reportFiles = fs.readdirSync('pipeline/03-reported/').filter(f => f.endsWith('.json'));
+console.log(`Found ${reportFiles.length} reports in 03-reported/`);
+
+// Helpers
+const str = (val, fallback = '') => {
+ if (!val) return fallback;
+ if (Array.isArray(val)) return val.join(' ');
+ if (typeof val === 'string') return val;
+ return String(val);
+};
+
+const sanitizeKorean = (text) => {
+ if (!text) return '';
+ return text
+ .replace(/[\u3040-\u30ff]/g, '')
+ .replace(/[\u4e00-\u9fff]/g, '')
+ .replace(/[「『』」・、。]/g, '')
+ .replace(/\s+/g, ' ')
+ .trim();
+};
+
+const isKorean = (text) => {
+ if (!text) return false;
+ const koreanChars = (text.match(/[가-힣]/g) || []).length;
+ return koreanChars > text.replace(/\s/g, '').length * 0.3;
+};
+
+const truncate = (h) => {
+ if (h.length <= 30) return h;
+ return h.substring(0, 28).replace(/[가-힣a-z0-9]$/, '') + '…';
+};
+
+const regionLabels = {
+  usa: '미국', europe: '유럽', china: '중국', estonia: '에스토니아',
+  singapore: '싱가포르', japan: '일본', finland: '핀란드', india: '인도', korea: '한국'
+};
+
+// Domain → Korean source name mapping
+const sourceNameMap = {
+  'asiae.co.kr': '아시아경제',
+  'aiforeducation.io': 'AI for Education',
+  'link.springer.com': 'Springer Nature',
+  'en.clickpetroleoegas.com.br': 'Click Petróleo e Gás',
+  'digitaljournal.com': 'Digital Journal',
+  'e.vnexpress.net': 'VNExpress',
+  'post-gazette.com': 'Pittsburgh Post-Gazette',
+  'eurashe.eu': 'EURASHE',
+  'manilatimes.net': 'Manila Times',
+  'irishtimes.com': 'Irish Times',
+  'sisadays.co.kr': '시사데이즈',
+  'korea.kr': '한국 정부',
+  'koreaherald.com': '코리아헤럴드',
+  'koreatimes.co.kr': '코리아타임스',
+  'mt.co.kr': '머니투데이',
+  'dailyan.com': '데일리안',
+  'kjob.news': 'KJob 뉴스',
+  'ed.gov': '미국 교육부',
+  'senate.gov': '미국 상원',
+  'npr.org': 'NPR',
+  'washingtonpost.com': 'Washington Post',
+  'nytimes.com': 'New York Times',
+  'edweek.org': 'Education Week',
+  'edsurge.com': 'EdSurge',
+  'insidehighered.com': 'Inside Higher Ed',
+  'chronicle.com': 'Chronicle of Higher Education',
+  'ec.europa.eu': '유럽연합 집행위',
+  'euractiv.com': 'EURACTIV',
+  'theguardian.com': '가디언',
+  'bbc.com': 'BBC',
+  'timeshighereducation.com': 'Times Higher Education',
+  'pienews.net': 'PIE News',
+  'scmp.com': '사우스차이나모닝포스트',
+  'chinadaily.com.cn': '차이나데일리',
+  'globaltimes.cn': '글로벌타임스',
+  'xinhuanet.com': '신화통신',
+  'err.ee': 'ERR',
+  'estonianworld.com': 'Estonian World',
+  'oecd.org': 'OECD',
+  'moe.gov.sg': '싱가포르 교육부',
+  'straitstimes.com': 'Straits Times',
+  'channelnewsasia.com': 'Channel NewsAsia',
+  'mext.go.jp': '일본 문부과학성',
+  'japantimes.co.jp': '재팬타임스',
+  'nhk.or.jp': 'NHK',
+  'oph.fi': '핀란드 교육청',
+  'helsinkitimes.fi': 'Helsinki Times',
+  'goodnewsfinland.com': 'Good News Finland',
+  'education.gov.in': '인도 교육부',
+  'thehindu.com': 'The Hindu',
+  'timesofindia.indiatimes.com': 'Times of India',
+  'heartdayrest.com': '온쉼표저널',
+  'aitimes.com': 'AI타임스',
+  'huffpost.com': 'HuffPost',
+  'europeanbusinessreview.com': 'European Business Review',
+  'technologyreview.com': 'MIT Technology Review',
+  'usnews.com': 'U.S. News',
+  'oom.com.sg': 'OOM 싱가포르',
+  'appleinsider.com': 'AppleInsider',
+  'patch.com': 'Patch',
+  'aiforeducation.io': 'AI for Education',
+  'mk.co.kr': '매일경제',
+  'fortune.com': 'Fortune',
+  'globaleducationnews.org': 'Global Education News',
+  'news.err.ee': 'ERR',
+  'ajunews.com': '아주경제',
+  'moneycompass.com.my': 'Money Compass',
+  'ai.google': 'Google AI',
+  'aischool.microsoft.com': 'Microsoft AI School',
+  'learn.microsoft.com': 'Microsoft Learn',
+  'openai.com': 'OpenAI',
+  'blog.google': 'Google Blog',
+  'about.google': 'Google',
+  'industryjournal.co.kr': '산업종합저널',
+  'edsource.org': 'EdSource',
+  'emildai.eu': 'EMILDAI',
+  'secondtalent.com': 'Second Talent',
+  'chad.co.uk': 'Chad',
+  'batamnewsasia.com': 'Batam News Asia',
+  'e.vnexpress.net': 'VNExpress',
+  'manilatimes.net': 'Manila Times',
+  'post-gazette.com': 'Pittsburgh Post-Gazette',
+  'irishtimes.com': 'Irish Times',
+  'eurashe.eu': 'EURASHE',
+  'sisadays.co.kr': '시사데이즈',
+  'highereddive.com': 'Higher Ed Dive',
+  'makersmuse.in': 'Makers Muse',
+  'ellisinstitute.fi': 'ELLIS Institute',
+  'en.vietnamplus.vn': 'VietnamPlus',
+  'inews365.com': '충북일보',
+'newyorker.com': 'New Yorker',
+  'koreadaily.com': '미주중앙일보',
+  'aijourn.com': 'AI Journal',
+  'threads.com': 'Threads',
+  'techaimag.com': 'TechAI Mag',
+  'aframnews.com': 'Afram News',
+'joongang.co.kr': '중앙일보',
+  'myq105.com': 'MyQ105',
+  'webdisclosure.com': 'Web Disclosure',
+  'opportunitydesk.org': 'Opportunity Desk',
+'gall.dcinside.com': '디시인사이드',
+  'thecrimson.com': 'The Crimson',
+  'edtechinnovationhub.com': 'EdTech Innovation Hub',
+  'asahi.com': '아사히신문',
+'hechingerreport.org': 'Hechinger Report',
+  'imda.gov.sg': 'IMDA 싱가포르',
+};
+
+function getKoreanSourceName(domain) {
+  if (!domain) return '관련 매체';
+  const clean = domain.replace('www.', '').toLowerCase();
+  return sourceNameMap[clean] || domain;
+}
+
+// ✅ Rewritten: Article-centered Korean headline using ORIGINAL article title
+function generateKoreanHeadline(source, brief, regionInfo) {
+  const srcTitle = (source.title || '').trim();
+  const srcName = brief.SOURCE || getKoreanSourceName(source.source) || '';
+  const srcNameRaw = brief.SOURCE_NAME_RAW || source.source || '';
+  const label = regionInfo.label || '글로벌';
+
+  // Clean original title: remove [Category], everything after |, URLs
+  let cleanTitle = srcTitle
+    .replace(/\[.*?\]\s*/g, '')
+    .replace(/\s*\|.*$/, '')
+    .replace(/https?:\/\/[^\s]+/g, '')
+    .trim();
+
+  // Strategy 1: Use source name + key topic from ORIGINAL article title
+  if (cleanTitle && cleanTitle.length > 5) {
+    const koreanCount = (cleanTitle.match(/[가-힣]/g) || []).length;
+    
+    if (koreanCount > 3) {
+      // Korean original title - use source name + first meaningful chunk
+      const topic = cleanTitle.length > 18 ? cleanTitle.substring(0, 18) : cleanTitle;
+      return truncate(`${srcName} ${topic}`);
+    }
+
+    // English original title - extract key meaningful words
+    const stopWords = new Set(['that','this','with','from','have','been','will','their','what','about','could','would','should','into','over','such','than','also','after','then','just','more','most','some','these','those','very','well','here','there','your','they','them','its','a','an','the','and','or','for','not','but','can','has','had','its','new','how','why','who','all','are','was','did','get','got','may','per','via','too','two']);
+    const words = cleanTitle.split(/\s+/).filter(w => {
+      const lower = w.toLowerCase().replace(/[^a-z0-9]/g, '');
+      return lower.length > 2 && !stopWords.has(lower);
+    });
+
+    if (words.length >= 2) {
+      return truncate(`${srcName} ${words.slice(0, 2).join(' ')}`);
+    }
+    if (words.length === 1) {
+      return truncate(`${srcName} ${words[0]}`);
+    }
+    // No meaningful keywords - use first fragment before separator
+    const firstFrag = cleanTitle.split(/[-–—|:;,]/)[0].trim();
+    const fragWords = firstFrag.split(/\s+/).filter(w => w.length > 2).slice(0, 3);
+    if (fragWords.length >= 2) {
+      return truncate(`${srcName} ${fragWords.slice(0, 2).join(' ')}`);
+    }
+    return truncate(`${srcName} AI 교육 소식`);
+  }
+
+  // Strategy 2: Use TITLE_KO from brief (but WITHOUT region prefix)
+  const titleKo = str(brief.TITLE_KO);
+  if (titleKo && titleKo.length > 3 && /[가-힣]/.test(titleKo)) {
+    const cleanKo = titleKo.replace(new RegExp('^' + label + '\\s*'), '');
+    if (srcName && srcName.length > 2 && srcName !== srcNameRaw) {
+      return truncate(`${srcName} ${cleanKo.substring(0, 18)}`);
+    }
+    return truncate(cleanKo);
+  }
+
+  // Strategy 3: Use source raw domain as last resort - make readable
+  if (srcNameRaw && srcNameRaw.length > 2) {
+    const cleanSrc = srcNameRaw.replace('www.', '').replace('.com', '').replace('.co.kr', '').replace('.kr', '').replace('.io', '').replace('.br', '').replace('.net', '');
+    const disp = cleanSrc.charAt(0).toUpperCase() + cleanSrc.slice(1).substring(0, 12);
+    return truncate(`${disp} AI 교육 소식`);
+  }
+
+  // 4. Ultimate fallback (never use region label alone)
+  return truncate(`${label} AI 교육 관련 소식`);
+}
+
+// ✅ Rewritten: Extract usable sentences from raw HTML content for ANY language
+function extractUsableContent(content, maxSentences = 12) {
+  if (!content || content.length < 80) return { korean: [], english: [] };
+
+  // Split into sentences
+  const allSentences = content.split(/[.!?。]\\s+/)
+    .filter(s => {
+      const clean = s.trim();
+      return clean.length > 25 && clean.length < 400;
+    })
+    .map(s => sanitizeKorean(s.trim()))
+    .filter(s => s && s.length > 20);
+
+  // Separate Korean and English sentences
+  const korean = [];
+  const english = [];
+  
+  for (const s of allSentences) {
+    const koreanRatio = (s.match(/[가-힣]/g) || []).length / Math.max(s.length, 1);
+    if (koreanRatio > 0.25) {
+      korean.push(s);
+    } else {
+      // Check it's actually English (has mostly Latin chars)
+      const englishRatio = (s.match(/[a-zA-Z]/g) || []).length / Math.max(s.length, 1);
+      if (englishRatio > 0.5 && (s.match(/[가-힣]/g) || []).length < 5) {
+        english.push(s);
+      }
+    }
+  }
+
+  return {
+    korean: korean.slice(0, maxSentences),
+    english: english.slice(0, maxSentences)
   };
+}
+
+// 🤖 LLM 기반 기사 생성: DeepSeek API 호출
+function callDeepSeek(messages) {
+  return new Promise((resolve, reject) => {
+    const apiKey = process.env.DEEPSEEK_API_KEY || 
+      require('fs').readFileSync('.env', 'utf8').match(/DEEPSEEK_API_KEY=(.+)/)?.[1]?.trim() || '';
+    const baseUrl = process.env.DEEPSEEK_BASE_URL || 'https://api.deepseek.com/v1';
+    
+    if (!apiKey) {
+      console.error('  ❌ DEEPSEEK_API_KEY not found in .env');
+      resolve(null);
+      return;
+    }
+    
+    const body = JSON.stringify({
+      model: 'deepseek-chat',
+      messages: messages,
+      temperature: 0.7,
+      max_tokens: 4096
+    });
+    
+    const options = {
+      hostname: new URL(baseUrl).hostname,
+      path: '/chat/completions',
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${apiKey}`,
+        'Content-Length': Buffer.byteLength(body)
+      }
+    };
+    
+    const req = https.request(options, (res) => {
+      const chunks = [];
+      res.on('data', c => chunks.push(c));
+      res.on('end', () => {
+        try {
+          const data = JSON.parse(Buffer.concat(chunks).toString());
+          const content = data?.choices?.[0]?.message?.content;
+          if (content) resolve(content);
+          else {
+            console.error(`  ⚠️ DeepSeek empty response: ${JSON.stringify(data).substring(0, 200)}`);
+            resolve(null);
+          }
+        } catch (e) {
+          console.error(`  ⚠️ DeepSeek parse error: ${e.message}`);
+          resolve(null);
+        }
+      });
+    });
+    req.on('error', e => { console.error(`  ⚠️ DeepSeek request error: ${e.message}`); resolve(null); });
+    req.setTimeout(60000, () => { req.destroy(); resolve(null); });
+    req.write(body);
+  });
+}
+
+// 🤖 LLM으로 기사 생성
+async function generateWithLLM(source, originalContent, regionInfo, brief) {
+  const label = regionInfo.label || '글로벌';
+  const srcName = brief?.SOURCE || getKoreanSourceName(source.source) || '관련 매체';
+  const title = source.title || '';
+  const url = source.url || '';
+  const description = source.description || '';
+  const srcDate = brief?.SOURCE_DATE || source.date || '최근';
   
-  const color = accentColors[accent] || '#4338ca';
+  // 원문 내용 요약 (토큰 절약)
+  const contentPreview = originalContent ? originalContent.substring(0, 4000) : '';
+  const descPreview = description ? description.substring(0, 500) : '';
   
-  // 참고자료 HTML 생성
-  const referencesHTML = references.map((ref, idx) => 
-    `<li><a href="${ref.url}" target="_blank">${ref.title}</a></li>`
-  ).join('\n');
+  const prompt = `당신은 한국어 에듀테크(AI+교육) 전문 저널리스트입니다. 다음 원문 자료를 바탕으로 2,500~3,000자 분량의 한국어 분석 기사를 작성해주세요.
+
+## 원문 정보
+- 제목: ${title}
+- 출처: ${srcName} (${url})
+- 요약: ${descPreview}
+- 지역: ${label}
+
+## 원문 본문
+${contentPreview}
+
+## 작성 규칙
+1. **2,500~3,000자** 분량의 완성도 높은 기사로 작성
+2. 다음 구조로 작성:
+   - **도입부**: 독자의 흥미를 끄는 리드(Lead) - 3~4문장
+   - **본문 1**: 기사의 핵심 내용과 주요 사실 전달
+   - **본문 2**: 추가 맥락, 데이터, 전문가 의견 등 깊이 있는 분석
+   - **시사점**: 이 기사가 에듀테크 업계에 주는 의미와 향후 전망
+3. 객관적이고 사실에 기반한 저널리즘 스타일
+4. 한국어 자연스러운 문장 (번역체/직역체 피할 것)
+5. HTML 태그 없이 순수 텍스트로 작성
+6. **절대** 원문을 단순 번역/요약하지 말 것. 자체 분석과 해설을 추가할 것
+7. "~했다" 체의 평서문 사용 (~입니다 체 사용 금지)
+
+## 출력 형식
+[제목]
+한 줄 띄움
+[도입부 문단]
+한 줄 띄움
+[본문 문단들...]
+한 줄 띄움
+[시사점 문단]`;
+
+  console.log(`  🤖 DeepSeek API 호출 중...`);
+  const llmContent = await callDeepSeek([
+    { role: 'system', content: 'You are a Korean education technology journalist. Write articles in Korean with depth and analysis.' },
+    { role: 'user', content: prompt }
+  ]);
   
-  return `<!DOCTYPE html>
+  if (!llmContent) {
+    console.log(`  ⚠️ LLM 실패, 기존 템플릿 방식으로 폴백`);
+    return null;
+  }
+  
+  console.log(`  ✅ LLM 응답 수신: ${llmContent.length}자`);
+  
+  // LLM 응답 파싱: 첫 줄 = 제목, 나머지 = 본문
+  const lines = llmContent.trim().split('\n');
+  let llmHeadline = lines[0].replace(/^#+\s*/, '').replace(/^\[제목\]\s*/i, '').trim();
+  let llmBody = lines.slice(1).join('\n').trim();
+  
+  // 제목이 너무 길면 앞 50자로 제한
+  if (llmHeadline.length > 80) llmHeadline = llmHeadline.substring(0, 77) + '...';
+  
+  // 본문을 HTML 문단으로 변환 (마크다운 h2 처리)
+  const paragraphs = llmBody.split(/\n\n+/).filter(p => p.trim().length > 5);
+  const bodyHTML = paragraphs.map(p => {
+    const trimmed = p.trim();
+    // 마크다운 h2 → HTML h2
+    if (/^##\s/.test(trimmed) || /^###\s/.test(trimmed)) {
+      const level = trimmed.startsWith('###') ? 'h3' : 'h2';
+      const text = trimmed.replace(/^#+\s*/, '');
+      return `<${level}>${text}</${level}>`;
+    }
+    // 일반 문단
+    return `<p>${trimmed}</p>`;
+  }).join('\n');
+  
+  // Blockquote lead 형식의 HTML 생성
+  const leadHTML = `<blockquote style="border-left:4px solid #0891b2;padding:16px 20px;background:#f8f9ff;margin:0 0 24px 0;border-radius:0 4px 4px 0;font-style:normal;">
+  <p style="font-size:13px;color:#0891b2;font-weight:600;margin:0 0 4px 0;">${srcName} 보도${srcDate !== '최근' ? ` | ${srcDate}` : ''}</p>
+  <p style="font-size:17px;color:#1a1a2e;line-height:1.6;margin:0;"><strong>${llmHeadline}</strong></p>
+</blockquote>`;
+  
+  return {
+    headline: llmHeadline,
+    bodyHTML: leadHTML + '\n' + bodyHTML,
+    generatedAt: new Date().toISOString()
+  };
+}
+
+// ✅ Update: Simplified tag building with correct region logic
+
+// ✅ Update: Simplified tag building with correct region logic
+function buildGhostTags(region) {
+  const tags = ['ai-edu'];
+
+  // 국내/해외 대분류
+  if (region === 'korea') {
+    tags.push('국내');
+  } else {
+    tags.push('해외');
+  }
+
+  // 지역 태그
+  const regionTagMap = {
+    'usa': '미국', 'europe': '유럽', 'china': '중국',
+    'japan': '일본', 'estonia': '에스토니아', 'singapore': '싱가포르',
+    'finland': '핀란드', 'india': '인도'
+  };
+  if (regionTagMap[region]) tags.push(regionTagMap[region]);
+
+  return tags;
+}
+
+// Determine article category based on region
+function getCategory(region) {
+ const map = {
+   'korea': { category: 'policy', label: '한국' },
+   'usa': { category: 'industry', label: '미국' },
+   'europe': { category: 'policy', label: '유럽' },
+   'china': { category: 'research', label: '중국' },
+   'estonia': { category: 'education', label: '에스토니아' },
+   'singapore': { category: 'education', label: '싱가포르' },
+   'japan': { category: 'policy', label: '일본' },
+   'finland': { category: 'education', label: '핀란드' },
+   'india': { category: 'industry', label: '인도' },
+   'social': { category: 'opinion', label: 'SNS' }
+ };
+ return map[region] || { category: 'education', label: '글로벌' };
+}
+
+// Fetch article content from URL
+function fetchArticleContent(url) {
+ return new Promise((resolve) => {
+   if (!url || url === '#') { resolve(''); return; }
+   
+   try {
+     const parsed = new URL(url);
+     const options = {
+       hostname: parsed.hostname,
+       path: parsed.pathname + parsed.search,
+       headers: {
+         'User-Agent': 'Mozilla/5.0 (compatible; NewsBot/1.0)',
+         'Accept': 'text/html,text/plain',
+         'Accept-Encoding': 'identity'  // Avoid gzip issues
+       }
+     };
+     
+     const req = https.get(options, (res) => {
+       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+         fetchArticleContent(res.headers.location).then(resolve);
+         return;
+       }
+       const chunks = [];
+       res.on('data', c => chunks.push(c));
+       res.on('end', () => {
+         try {
+           const buffer = Buffer.concat(chunks);
+           let body = buffer.toString('utf8');
+           body = body.replace(/<script[\s\S]*?<\/script>/gi, '');
+           body = body.replace(/<style[\s\S]*?<\/style>/gi, '');
+           body = body.replace(/<nav[\s\S]*?<\/nav>/gi, '');
+           body = body.replace(/<footer[\s\S]*?<\/footer>/gi, '');
+           body = body.replace(/<header[\s\S]*?<\/header>/gi, '');
+           body = body.replace(/<[^>]+>/g, ' ');
+           body = body.replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>');
+           body = body.replace(/\s+/g, ' ').trim();
+           resolve(body.substring(0, 5000));
+         } catch (e) { resolve(''); }
+       });
+     });
+     req.setTimeout(10000, () => { req.destroy(); resolve(''); });
+     req.on('error', () => resolve(''));
+   } catch (e) { resolve(''); }
+ });
+}
+
+// ✅ Updated: Generate news-intro style HTML
+function generateArticleHTML(data) {
+ const { headline, region, regionLabel, sections, references, ghostTags, srcName, srcDate } = data;
+
+ const accentColors = {
+   'policy': '#4338ca', 'research': '#059669', 'industry': '#d97706',
+   'opinion': '#7c3aed', 'data': '#0284c7', 'education': '#0891b2'
+ };
+ const color = accentColors[data.accent] || '#0891b2';
+ const date = new Date().toISOString().split('T')[0];
+
+ // Convert English date to Korean
+ const dateText = srcDate !== '최근' ? srcDate
+   .replace(/^(\d+)\s*hours?\s*ago$/, '$1시간 전')
+   .replace(/^(\d+)\s*hour?\s*ago$/, '$1시간 전')
+   .replace(/^(\d+)\s*days?\s*ago$/, '$1일 전')
+   .replace(/^(\d+)\s*weeks?\s*ago$/, '$1주 전')
+   .replace(/^(\d+)\s*months?\s*ago$/, '$1개월 전') : '최근';
+
+ // Build tag pills
+ const tagPills = (ghostTags || []).filter(t => t !== 'ai-edu').map(t => 
+   `<span style="display:inline-block;background:${color}15;color:${color};font-size:12px;padding:2px 10px;border-radius:12px;margin-right:6px;">${t}</span>`
+ ).join('');
+
+ const referencesHTML = references.map(ref =>
+   `<li><a href="${ref.url}" target="_blank" rel="noopener noreferrer">${ref.title}</a></li>`
+ ).join('\n');
+
+const sectionsHTML = sections.map(s => {
+  let html = '';
+  if (s.title) html = `<h2>${s.title}</h2>`;
+  if (s.paragraphs) {
+    for (const p of s.paragraphs) {
+      html += `\n<p>${p}</p>`;
+    }
+  }
+  if (s.quote) {
+    html += `\n<blockquote>${s.quote}</blockquote>`;
+  }
+  return html;
+}).join('\n');
+
+ return `<!DOCTYPE html>
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
@@ -33,163 +552,136 @@ const generateArticleHTML = (headline, content, accent, references) => {
 <style>
 body { font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif; margin: 0; padding: 20px; }
 .wrapper { max-width: 680px; margin: 0 auto; font-size: 17px; line-height: 1.9; color: #1a1a2e; }
-.lead-box { border-left: 4px solid ${color}; background: #f8f9ff; padding: 18px 22px; border-radius: 0 8px 8px 0; margin-bottom: 48px; }
-h2 { font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 44px 0 20px 0; }
-p { margin: 0 0 32px 0; }
-blockquote { border-left: 4px solid ${color}; background: #f8f9ff; padding: 18px 22px; font-style: italic; color: #374151; margin: 32px 0; border-radius: 0 4px 4px 0; }
-.references { border-top: 1px solid #e2e8f0; margin-top: 48px; padding-top: 32px; }
-.ai-footer { margin: 48px 0 0; padding-top: 20px; border-top: 1px solid #f1f5f9; font-size: 13px; color: #cbd5e1; }
+.lead-box { border-left: 4px solid ${color}; background: #f8f9ff; padding: 18px 22px; border-radius: 0 8px 8px 0; margin-bottom: 32px; }
+.date-line { font-size: 14px; color: #64748b; margin-bottom: 12px; }
+.source-line { font-size: 15px; color: ${color}; font-weight: 600; margin-bottom: 6px; }
+h2 { font-size: 19px; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin: 36px 0 18px 0; }
+p { margin: 0 0 22px 0; text-align: justify; }
+blockquote { border-left: 4px solid ${color}; background: #f8f9ff; padding: 16px 20px; font-style: italic; color: #374151; margin: 28px 0; border-radius: 0 4px 4px 0; }
+.references { border-top: 1px solid #e2e8f0; margin-top: 40px; padding-top: 28px; }
+.references a { color: ${color}; text-decoration: none; }
+.references a:hover { text-decoration: underline; }
+.ai-footer { margin: 40px 0 0; padding-top: 18px; border-top: 1px solid #f1f5f9; font-size: 13px; color: #94a3b8; }
 </style>
 </head>
 <body>
 <div class="wrapper">
-<div class="lead-box">${content.intro}</div>
-${content.sections.map(s => `<h2>${s.title}</h2>\n<p>${s.body}</p>`).join('\n')}
+<blockquote style="border-left:4px solid ${color};padding:18px 22px;background:#f8f9ff;margin:0 0 32px 0;border-radius:0 8px 8px 0;font-style:normal;">
+  <p style="font-size:13px;color:${color};font-weight:600;margin:0 0 4px 0;">${srcName} 보도${dateText !== '최근' ? ` | ${dateText}` : ''}</p>
+  <p style="font-size:15px;color:#64748b;margin:0 0 8px 0;">${date} | 교육팀 ${tagPills}</p>
+  <p style="font-size:17px;color:#1a1a2e;line-height:1.6;margin:0 0 8px 0;"><strong>${headline}</strong></p>
+  <p style="font-size:15px;color:#475569;margin:0;">${srcName}이(가) 전하는 AI 교육 현장의 주요 소식을 소개한다.</p>
+</blockquote>
+${sectionsHTML}
 <div class="references">
 <h3>참고자료</h3>
 <ol>${referencesHTML}</ol>
 </div>
-<p class="ai-footer">본 기사는 AI가 작성했습니다 (AI 기본법 제31조)</p>
+<p class="ai-footer">본 기사는 AI로 작성되었습니다 (AI 기본법 제31조). 원문 기사의 내용을 요약·소개하는 방식으로 구성되었습니다.</p>
 </div>
 </body>
 </html>`;
-};
-
-// 기사 초안 생성
-const articles = [
-  {
-    id: 'source-1773093643285-0',
-    slug: 'global-education-ai-transformation-2026',
-    headline: '글로벌 교육 정책, AI 시대 미래형 인재 양성으로 전환',
-    subheadline: 'UNESCO·OECD 주도 교육 혁신, 창의성·비판적 사고 역량 강조',
-    category: 'education',
-    accent: 'education',
-    references: [
-      { title: "UNESCO 2026 교육 미래 보고서", url: "https://www.dailyan.com" },
-      { title: "OECD 국제협력 프레임워크", url: "https://www.oecd.org" },
-      { title: "세계은행 2025 교육통계", url: "https://data.worldbank.org" }
-    ],
-    content: {
-      intro: "<strong>AI 시대 글로벌 교육 정책이 대전환을 맞고 있다.</strong> 단순 지식 습득을 넘어 창의적 문제 해결 능력과 비판적 사고를 갖춘 인재 양성이 새로운 표준으로 자리 잡으면서, 각국 정부와 국제기구가 교육 시스템 근본 개혁에 나섰다.",
-      sections: [
-        {
-          title: "기술 발전, 교육의 판도를 바꾸다",
-          body: "전 세계적으로 인공지능과 디지털 전환이 급속도로 진행되면서 기존의 국가 중심 교육 시스템으로는 국경 없는 학습 환경과 초개인화된 학습 요구를 충족할 수 없다는 인식이 확산되고 있다. UNESCO는 최근 발표한 '2026 교육 미래 보고서'를 통해 각국이 교육 시스템을 유연하게 재편하고 평생 학습 체계를 강화해야 한다고 촉구했다. 팬데믹 이후 심화된 교육 격차와 디지털 교육 전환이라는 두 가지 과제를 동시에 해결해야 한다는 판단이다."
-        },
-        {
-          title: "국제기구의 투자와 협력 확대",
-          body: "경제협력개발기구(OECD)와 세계은행 등 국제 기구들은 각국이 교육 혁신을 위한 국제 협력을 강화하고 에듀테크를 활용한 맞춤형 학습 모델 개발에 적극 투자할 것을 권고하고 있다. 2025년 세계은행 통계에 따르면 전 세계 초등 교육 이수율은 90%에 육박했으나 고등 교육 진학률은 지역별 편차가 심하며, 특히 디지털 문해력 격차는 여전히 높은 수준으로 나타났다. 이에 각국 정부는 교육 데이터를 수집·분석해 정책 효과성을 검증하고 취약 계층을 위한 맞춤형 지원 프로그램을 강화하는 데 주력하고 있다."
-        },
-        {
-          title: "미래형 인재상의 재정의",
-          body: "앞으로 글로벌 교육 정책은 지속 가능한 발전 목표(SDGs) 달성과 인류 보편적 가치 함양이라는 큰 틀 아래에서 진행될 전망이다. 디지털 역량 강화, 기후 변화 교육, 다문화 이해 등 새로운 교육 의제들이 핵심 과제로 부상하고 있다. 국제 사회의 연대와 협력을 통해 모든 학습자가 미래 사회의 주역으로 성장할 수 있는 포용적인 교육 생태계를 구축하는 것이 글로벌 교육 정책의 최종 목표가 되고 있다."
-        }
-      ]
-    }
-  },
-  {
-    id: 'source-1773093643286-1',
-    slug: 'ai-literacy-crisis-higher-ed-2026',
-    headline: '92% 학생이 AI 사용하나, 3분의 1만 정식 교육받아',
-    subheadline: '의존도 심화·사회 격차 우려... 대학가 AI 리터러시 교육 시급',
-    category: 'education',
-    accent: 'data',
-    references: [
-      { title: "HEPI-Kortext 학생 AI 조사 2025", url: "https://www.hepi.ac.uk/wp-content/uploads/2025/02/HEPI-Kortext-Student-Generative-AI-Survey-2025.pdf" },
-      { title: "DemandSage AI 교육통계", url: "https://www.demandsage.com/ai-in-education-statistics/" },
-      { title: "Turnitin 학생 행동 분석", url: "https://www.turnitin.com/blog/what-2025-generative-ai-trends-reveal-about-student-behavior" }
-    ],
-    content: {
-      intro: "<strong>대학생의 92%가 AI 도구를 사용하고 있지만, 36%만이 정식 교육을 받은 것으로 나타났다.</strong> 기술의 급속한 확산과 리터러시 교육의 부족이 심각한 격차를 낳으면서, 대학가에서 체계적인 AI 리터러시 교육의 필요성이 제기되고 있다.",
-      sections: [
-        {
-          title: "제한된 교육, 급증하는 사용률",
-          body: "2024년 66%에서 2026년 92%로 급증한 대학생의 AI 사용률은 기술 도입의 속도를 여실히 보여준다. 그러나 Higher Education Policy Institute(HEPI)의 조사에 따르면 36%의 학생만이 기관으로부터 정식 교육이나 지원을 받았다. 이는 학생들이 AI 도구의 기능과 한계, 윤리적 사용 방법에 대한 적절한 교육 없이 사용하고 있다는 의미다. 특히 53%의 학생이 표절 우려로 인한 심리적 불안감을 느끼고 있어, 투명하고 명확한 가이드라인 부재의 심각성을 드러낸다."
-        },
-        {
-          title: "심화심, 표면학습 차이 - 사회 격차가 교육 격차로",
-          body: "HEPI 조사의 가장 우려스러운 발견은 사회경제적 지위에 따른 AI 활용 양극화다. 고소득 가정 학생들은 AI를 '구조화 사고·심화 연구'처럼 고차원적 과제에 활용하는 반면, 저소득층 학생들은 '요약·기본 설명' 같은 표면적 과제에만 사용하는 것으로 나타났다. 이는 기술 접근성의 불평등이 학습 결과의 격차로 직결되고 있음을 의미한다. 교육 불평등 완화는 고사하고 오히려 심화시킬 수 있다는 경고다."
-        },
-        {
-          title: "대학의 '인간 중심' AI 거버넌스",
-          body: "이 같은 문제를 해결하기 위해 선도 대학들은 새로운 접근을 시도하고 있다. 첫째, 투명성 강화 - 학생이 사용 가능한 도구와 위험성을 명확히 알 수 있도록 함. 둘째, 형평성 보장 - 모든 학생이 윤리적이고 검증된 AI 도구에 접근 가능하도록 지원. 셋째, AI 공개 정책 도입 - 학생이 작업 과정에서 AI 활용 여부를 명시적으로 밝히도록 권장한다. 이를 통해 표절 두려움을 완화하고 책임감 있는 AI 사용 문화를 조성하려는 노력이 진행 중이다."
-        }
-      ]
-    }
-  },
-  {
-    id: 'source-1773093643287-2',
-    slug: 'eu-ai-act-higher-ed-governance-2026',
-    headline: 'EU AI Act 8월 시행 임박... 대학가 AI 가버넌스 준비 시급',
-    subheadline: '섀도우 AI 확산, 규제 압박 속 80% 직원 AI 사용하나 정책 인식 25% 이하',
-    category: 'policy',
-    accent: 'policy',
-    references: [
-      { title: "EDUCAUSE 2024 AI 조사", url: "https://library.educause.edu/resources/2024/2/2024-educause-ai-landscape-study" },
-      { title: "EU AI Act", url: "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" },
-      { title: "UNESCO AI 윤리 권고안", url: "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics" }
-    ],
-    content: {
-      intro: "<strong>올 8월, 유럽연합(EU)의 AI 규제안이 본격 시행된다.</strong> 대학의 학생 평가, 입시 심사, 성과 모니터링에 사용되는 AI 시스템이 '고위험' 범주로 분류되면서 편향 검증, 감사 추적, 인간 감시 의무가 대학가에 큰 부담으로 다가오고 있다.",
-      sections: [
-        {
-          title: "미승인 도구의 무분별한 확산 '섀도우 AI'",
-          body: "현재 대학 캠퍼스에서 벌어지고 있는 가장 심각한 문제는 'AI 가버넌스의 진공 상태'다. EDUCAUSE의 2024 AI 조사에 따르면 80%의 교직원이 AI 도구를 사용하고 있으나, 25% 미만만 자신의 기관이 정식 AI 정책을 갖추고 있음을 인식하고 있다. 이는 승인되지 않은 채 운영되는 '섀도우 AI'의 확산을 의미한다. IT 부서도 모르는 AI 도구들이 학생 기록, 미공개 연구 데이터, 지적 재산을 외부 플랫폼으로 유출시키고 있는 상황이다."
-        },
-        {
-          title: "규제와 신뢰의 갈림길",
-          body: "EU AI Act는 학생 평가, 입시 선발, 성과 모니터링에 사용되는 AI를 '고위험' 범주로 분류했다. 이는 단순한 기술 관리를 넘어 기관의 사회적 신뢰 문제를 다룬다. UNESCO의 'AI 윤리 권고안'도 투명성 부재로 인한 대학 신뢰도 침식을 경고하고 있다. 규제 불준수는 과태료로 이어질 수 있고, 더 중요한 것은 대학의 공신력 훼손이다."
-        },
-        {
-          title: "5단계 가버넌스 로드맵 필수",
-          body: "선도 대학들이 추진하는 AI 가버넌스 로드맵은 다음과 같다. 첫째, AI 인벤토리 - 캠퍼스 전역의 AI 도구를 파악. 둘째, 정책 수립 - 허용·승인·금지 범위 명확화. 셋째, 거버넌스 구조 - 횡단 위원회 구성, 의사결정 권한 정의. 넷째, 리터러시 프로그램 - 교직원 교육. 다섯째, 지속적 모니터링 - 분기별 공급업체 검토, 실시간 고위험 시스템 감시. 대학은 '기술 도입 속도'와 '신뢰 관리'라는 두 마리 토끼를 잡기 위해 지금 행동해야 한다."
-        }
-      ]
-    }
-  }
-];
-
-// Save drafted articles
-let savedCount = 0;
-for (const article of articles) {
-  try {
-    const sourcePath = `pipeline/03-reported/${article.id}.json`;
-    const sourceData = JSON.parse(fs.readFileSync(sourcePath, 'utf8'));
-    
-    // Generate HTML
-    const html = generateArticleHTML(article.headline, article.content, article.accent, article.references);
-    
-    // Calculate word count (plain text without tags)
-    const plainText = html.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
-    const wordCount = plainText.split(' ').length;
-    
-    // Add draft to source data
-    sourceData.stage = 'drafted';
-    sourceData.draft = {
-      headline: article.headline,
-      subheadline: article.subheadline,
-      html: html,
-      slug: article.slug,
-      ghost_tags: ['AI', 'Education', 'Policy'],
-      custom_excerpt: article.subheadline,
-      references: article.references,
-      word_count: wordCount,
-      category: article.category
-    };
-    
-    // Save to 04-drafted
-    fs.writeFileSync(
-      `pipeline/04-drafted/${article.id}.json`,
-      JSON.stringify(sourceData, null, 2)
-    );
-    
-    // Remove from 03-reported
-    fs.unlinkSync(sourcePath);
-    
-    savedCount++;
-  } catch (e) {
-    console.error(`Error processing ${article.id}: ${e.message}`);
-  }
 }
 
-console.log(`STEP 3 완료: ${savedCount}개 기사 작성 완료 (03-reported → 04-drafted)`);
+// Main processing
+(async () => {
+ let savedCount = 0;
+
+ for (const reportFile of reportFiles) {
+   try {
+     const reportPath = `pipeline/03-reported/${reportFile}`;
+     const reportData = JSON.parse(fs.readFileSync(reportPath, 'utf8'));
+     
+     const brief = reportData.reporting_brief || reportData.brief || {};
+     const source = reportData.source || reportData.assignment || {};
+     const title = source.title || source.headline || 'AI 교육 소식';
+     const region = reportData.region || 'korea';
+     const regionInfo = getCategory(region);
+     
+     console.log(` 📝 "${title.substring(0, 50)}..." [${regionInfo.label}]`);
+     
+     // Fetch original article content for richer context
+     let originalContent = '';
+     if (source.url) {
+       console.log(` 원문 수집: ${source.url.substring(0, 50)}...`);
+       originalContent = await fetchArticleContent(source.url);
+       console.log(` → ${originalContent.length}자 수집`);
+     }
+     
+     // 🤖 LLM 기반 기사 생성
+     const srcName = brief.SOURCE || getKoreanSourceName(source.source) || '관련 매체';
+     const srcDate = brief.SOURCE_DATE || source.date || '최근';
+     
+     // Build references & tags (fallback에서도 사용)
+     const sources = brief.SOURCES || [];
+     const references = sources.length > 0
+       ? sources.map(s => {
+         if (typeof s === 'string') return { title: sanitizeKorean(s), url: '#' };
+         return { title: sanitizeKorean(s.title || s.name || ''), url: s.url || '#' };
+       })
+       : (source.url ? [{ title: sanitizeKorean(title), url: source.url }] : []);
+     const ghostTags = buildGhostTags(region);
+     
+     const llmResult = await generateWithLLM(source, originalContent, regionInfo, brief);
+     
+    let headline, bodyHTML;
+    if (llmResult) {
+      headline = llmResult.headline;
+      bodyHTML = llmResult.bodyHTML;
+      console.log(`  ✅ LLM 기사 생성 완료 (${bodyHTML.length}자)`);
+    } else {
+      // Fallback: 이전 템플릿 방식
+      console.log(`  ⚠️ 템플릿 방식으로 폴백`);
+      headline = generateKoreanHeadline(source, brief, regionInfo);
+      const sectionsFallback = buildSections(source, brief, originalContent, regionInfo);
+      bodyHTML = generateArticleHTML({
+        headline, region, regionLabel: regionInfo.label, sections: sectionsFallback,
+        accent: regionInfo.category, references, ghostTags, srcName, srcDate
+      });
+      customExcerpt = '';
+    }
+     
+     // Calculate stats
+     const plainText = bodyHTML.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+     const wordCount = plainText.split(/\s+/).length;
+     const charCount = plainText.length;
+     
+     // Create slug
+     const slug = sanitizeKorean(headline)
+       .toLowerCase()
+       .replace(/[^가-힣a-z0-9\s-]/g, '')
+       .replace(/\s+/g, '-')
+       .substring(0, 60);
+     
+     const articleId = reportData.id || reportFile.replace('.json', '');
+     reportData.stage = 'drafted';
+     reportData.draft = {
+       headline,
+       html: bodyHTML,
+       slug,
+      ghost_tags: ghostTags,
+      references,
+       word_count: wordCount,
+       char_count: charCount,
+       category: regionInfo.category,
+       region,
+       region_label: regionInfo.label
+     };
+     
+     fs.writeFileSync(
+       `pipeline/04-drafted/${articleId}.json`,
+       JSON.stringify(reportData, null, 2)
+     );
+     fs.unlinkSync(reportPath);
+     
+     console.log(` ✅ 작성 완료 (${charCount}자, ${wordCount}단어)`);
+     console.log(` 📰 헤드라인: "${headline}" (${headline.length}자)`);
+     console.log(` 🏷️ 태그: ${ghostTags.join(', ')}`);
+     savedCount++;
+   } catch (e) {
+     console.error(` ❌ Error: ${e.message}`);
+   }
+ }
+
+ console.log(`\n✅ STEP 3 완료: ${savedCount}개 기사 작성 완료 (03-reported → 04-drafted)`);
+})();
