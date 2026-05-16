@@ -119,6 +119,7 @@ async function processArticle(filepath) {
         title: headline,
         html: cleanHtml,
         status: 'published',
+        visibility: 'public',
         featured: isFeatured,
         tags: [
           { id: '69a7a9ed659ea80001153c13' }, // ai-edu 태그

@@ -1,0 +1,234 @@
+{
+  "_meta": {
+    "description": "국내 에듀테크 기업 데이터베이스 — 뉴스룸 수집기에서 Brave Search 쿼리 생성에 사용",
+    "last_updated": "2026-05-10",
+    "categories": {
+      "ai-tutoring": "AI 튜터링 / 개인화 학습",
+      "edtech-platform": "에듀테크 플랫폼 / 스마트교육",
+      "publishing": "교육 출판 / 콘텐츠",
+      "test-prep": "입시 / 수능 / 자격증",
+      "corporate-edu": "기업교육 / 직무교육",
+      "coding-edu": "코딩 / SW 교육",
+      "special-edu": "특수교육 / 교육복지",
+      "global-edu": "글로벌 교육 / 유학"
+    }
+  },
+  "companies": [
+    {
+      "name_ko": "뤼이드",
+      "name_en": "Riiid",
+      "category": "ai-tutoring",
+      "query_terms": ["뤼이드 에듀테크", "Riiid 교육", "산타 AI 학습"],
+      "description": "AI 기반 학습 플랫폼 '산타', 글로벌 AI 튜터링",
+      "public": false,
+      "url_patterns": ["riiid", "santagokr"]
+    },
+    {
+      "name_ko": "클래스팅",
+      "name_en": "ClassTing",
+      "category": "edtech-platform",
+      "query_terms": ["클래스팅 에듀테크", "ClassTing 교육"],
+      "description": "AI 기반 초중등 교육 플랫폼",
+      "public": false,
+      "url_patterns": ["classting"]
+    },
+    {
+      "name_ko": "매스프레소",
+      "name_en": "Mathpresso",
+      "category": "ai-tutoring",
+      "query_terms": ["매스프레소 에듀", "Mathpresso 교육", "콴다 학습"],
+      "description": "AI 학습 플랫폼 '콴다'(QANDA)",
+      "public": false,
+      "url_patterns": ["mathpresso", "qanda"]
+    },
+    {
+      "name_ko": "아이스크림에듀",
+      "name_en": "i-Scream Edu",
+      "category": "edtech-platform",
+      "query_terms": ["아이스크림에듀", "i-Scream 교육", "아이스크림미디어"],
+      "description": "초등 스마트교육 플랫폼 '아이스크림'",
+      "public": false,
+      "url_patterns": ["i-screamedu", "iscreamedu"]
+    },
+    {
+      "name_ko": "웅진씽크빅",
+      "name_en": "Woongjin Thinkbig",
+      "category": "edtech-platform",
+      "query_terms": ["웅진씽크빅 AI", "웅진씽크빅 교육", "Woongjin Thinkbig"],
+      "description": "AI 학습 플랫폼 '웅진스마트올'",
+      "public": true,
+      "url_patterns": ["woongjin", "wjthinkbig"]
+    },
+    {
+      "name_ko": "NE능률",
+      "name_en": "NE Neungyule",
+      "category": "publishing",
+      "query_terms": ["NE능률 AI", "NE능률 교육", "엔이능률 에듀"],
+      "description": "AI 디지털교과서, 영어교육 플랫폼",
+      "public": false,
+      "url_patterns": ["neungyule", "neebook"]
+    },
+    {
+      "name_ko": "천재교과서",
+      "name_en": "Chunjae Textbook",
+      "category": "publishing",
+      "query_terms": ["천재교과서 AI", "천재교과서 에듀", "Chunjae 교육"],
+      "description": "AI 디지털교과서, 초중등 교육 콘텐츠",
+      "public": true,
+      "url_patterns": ["chunjae", "chunjaetextbook"]
+    },
+    {
+      "name_ko": "비상교육",
+      "name_en": "Visang Education",
+      "category": "publishing",
+      "query_terms": ["비상교육 AI", "비상교육 에듀테크"],
+      "description": "AI 디지털교과서, 초중고 학습지 '비상교육'",
+      "public": true,
+      "url_patterns": ["visang"]
+    },
+    {
+      "name_ko": "메가스터디교육",
+      "name_en": "MegaStudy Edu",
+      "category": "test-prep",
+      "query_terms": ["메가스터디교육 AI", "메가스터디교육 에듀"],
+      "description": "AI 입시교육 플랫폼, 수능/내신",
+      "public": true,
+      "url_patterns": ["megastudy"]
+    },
+    {
+      "name_ko": "YBM",
+      "name_en": "YBM",
+      "category": "publishing",
+      "query_terms": ["YBM 에듀테크", "YBM넷 교육", "YBM AI교육"],
+      "description": "어학교육, AI 영어학습, 출판",
+      "public": true,
+      "url_patterns": ["ybm", "ybmsisa"]
+    },
+    {
+      "name_ko": "팀스파르타",
+      "name_en": "Team Sparta",
+      "category": "corporate-edu",
+      "query_terms": ["팀스파르타 교육", "Team Sparta 코딩"],
+      "description": "AI 기반 직무교육, 코딩 부트캠프",
+      "public": false,
+      "url_patterns": ["teamsparta", "spartacodingclub"]
+    },
+    {
+      "name_ko": "엘리스",
+      "name_en": "Elice",
+      "category": "coding-edu",
+      "query_terms": ["엘리스 AI교육", "Elice 코딩", "엘리스 에듀테크"],
+      "description": "AI 코딩교육 플랫폼, 기업교육",
+      "public": false,
+      "url_patterns": ["elice"]
+    },
+    {
+      "name_ko": "노버스랩",
+      "name_en": "Novus Lab",
+      "category": "ai-tutoring",
+      "query_terms": ["노버스랩 교육", "Novus Lab 에듀"],
+      "description": "AI 기반 학습분석, AI 튜터링",
+      "public": false,
+      "url_patterns": ["novuslab"]
+    },
+    {
+      "name_ko": "에누마",
+      "name_en": "Enuma",
+      "category": "special-edu",
+      "query_terms": ["에누마 교육", "Enuma 학습", "토도수학"],
+      "description": "AI 기초학력/특수교육 글로벌 앱",
+      "public": false,
+      "url_patterns": ["enuma", "todomath"]
+    },
+    {
+      "name_ko": "에듀테크 스타트업",
+      "name_en": "EdTech Startups General",
+      "category": "general",
+      "query_terms": ["에듀테크 스타트업 투자", "에듀테크 펀딩 유치", "교육 스타트업 시리즈"],
+      "description": "국내 에듀테크 스타트업 일반",
+      "public": false,
+      "url_patterns": []
+    },
+    {
+      "name_ko": "LG전자 교육사업",
+      "name_en": "LG Edu Tech",
+      "category": "edtech-platform",
+      "query_terms": ["LG전자 스마트교육", "LG 에듀테크 사업"],
+      "description": "LG전자 스마트교육/에듀테크 사업",
+      "public": true,
+      "url_patterns": ["lg.com"]
+    },
+    {
+      "name_ko": "KT 에듀테크",
+      "name_en": "KT Edutech",
+      "category": "edtech-platform",
+      "query_terms": ["KT AI교육", "KT 에듀테크 사업"],
+      "description": "KT 에듀테크, AI 교육 플랫폼",
+      "public": true,
+      "url_patterns": ["kt.com"]
+    },
+    {
+      "name_ko": "디지털대성",
+      "name_en": "Digital Daesung",
+      "category": "test-prep",
+      "query_terms": ["디지털대성 교육", "대성마이맥 AI"],
+      "description": "AI 입시 플랫폼 '대성마이맥'",
+      "public": true,
+      "url_patterns": ["mimacstudy", "daesung"]
+    },
+    {
+      "name_ko": "이투스교육",
+      "name_en": "Etoos Edu",
+      "category": "test-prep",
+      "query_terms": ["이투스교육 AI", "이투스 에듀테크"],
+      "description": "AI 입시교육, 온라인 강의 플랫폼",
+      "public": true,
+      "url_patterns": ["etoos"]
+    },
+    {
+      "name_ko": "웅진 IT",
+      "name_en": "Woongjin IT",
+      "category": "corporate-edu",
+      "query_terms": ["멀티캠퍼스 에듀", "웅진IT교육"],
+      "description": "기업 IT 교육 '멀티캠퍼스'",
+      "public": true,
+      "url_patterns": ["multicampus"]
+    },
+    {
+      "name_ko": "휴넷",
+      "name_en": "Hunet",
+      "category": "corporate-edu",
+      "query_terms": ["휴넷 AI교육", "휴넷 에듀테크"],
+      "description": "기업교육 플랫폼, AI 직무교육",
+      "public": true,
+      "url_patterns": ["hunet"]
+    },
+    {
+      "name_ko": "클라썸",
+      "name_en": "Classum",
+      "category": "edtech-platform",
+      "query_terms": ["클라썸 교육", "Classum 대학"],
+      "description": "대학 수업관리 AI 플랫폼",
+      "public": false,
+      "url_patterns": ["classum"]
+    },
+    {
+      "name_ko": "뤼이드코리아",
+      "name_en": "Riiid Korea",
+      "category": "ai-tutoring",
+      "query_terms": ["Riiid AI교육", "산타학습 앱"],
+      "description": "AI 학습 앱 '산타' 운영사",
+      "public": false,
+      "url_patterns": []
+    },
+    {
+      "name_ko": "에듀테크 일반",
+      "name_en": "General EdTech",
+      "category": "general",
+      "query_terms": ["에듀테크 시장 동향", "에듀테크 산업 분석", "국내 에듀테크 트렌드"],
+      "description": "국내 에듀테크 산업 일반 동향",
+      "public": false,
+      "url_patterns": []
+    }
+  ]
+}

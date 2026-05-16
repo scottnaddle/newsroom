@@ -28,10 +28,36 @@ const OUTPUT_DIR = '/root/.openclaw/workspace/newsroom/pipeline/08-published';
 const REJECTED_DIR = '/root/.openclaw/workspace/newsroom/pipeline/rejected';
 const CONFIG_FILE = '/root/.openclaw/workspace/newsroom/shared/config/ghost.json';
 
-// 필수 모듈 로드
 const { generateImageForArticle } = require('/root/newsroom-analysis/newsroom/scripts/generate-article-image.js');
 const { getSmartFeatureImage } = require('/root/.openclaw/workspace/newsroom/scripts/unsplash-smart-search.js');
 const { generateOGCard } = require('/root/.openclaw/workspace/newsroom/scripts/generate-og-card.js');
+
+// ─── Crawl4AI 이미지 룩업 (실제 뉴스 사진 우선) ─────────
+const CRAWL4AI_LOOKUP_PATH = '/root/.openclaw/workspace/newsroom/pipeline/crawl4ai-image-lookup.json';
+let crawl4aiLookup = {};
+try {
+  if (fs.existsSync(CRAWL4AI_LOOKUP_PATH)) {
+    crawl4aiLookup = JSON.parse(fs.readFileSync(CRAWL4AI_LOOKUP_PATH, 'utf8'));
+    console.log(`  ✓ Crawl4AI 이미지 룩업 로드: ${Object.keys(crawl4aiLookup).length}개`);
+  }
+} catch(e) {
+  console.warn(`  ⚠️ Crawl4AI 룩업 로드 실패: ${e.message}`);
+}
+
+/**
+ * Crawl4AI 룩업에서 기사 원문 URL로 이미지 찾기
+ * 실제 뉴스 사진이므로 텍스트 깨짐 문제 없음
+ */
+function getCrawl4AIImage(sourceUrl) {
+  if (!sourceUrl || !crawl4aiLookup || Object.keys(crawl4aiLookup).length === 0) return null;
+  // 정확한 URL 매칭
+  if (crawl4aiLookup[sourceUrl]) return crawl4aiLookup[sourceUrl];
+  // URL 끝부분 매칭 (쿼리 파라미터 등 차이 대응)
+  for (const [key, val] of Object.entries(crawl4aiLookup)) {
+    if (sourceUrl.includes(key) || key.includes(sourceUrl)) return val;
+  }
+  return null;
+}
 
 let results = [];
 let reportLines = [];
@@ -40,8 +66,6 @@ async function main() {
   try {
     console.log('[Publisher Agent] 시작 —', new Date().toISOString());
     
-    // 1. 설정 로드
-    // 설정에서 환경변수 치환 (${VAR_NAME} → process.env.VAR_NAME)
     const config = JSON.parse(fs.readFileSync(CONFIG_FILE, 'utf8'));
     for (const [key, value] of Object.entries(config)) {
       if (typeof value === 'string' && value.startsWith('${') && value.endsWith('}')) {
@@ -51,7 +75,6 @@ async function main() {
     }
     console.log('✓ Ghost 설정 로드 완료');
 
-    // 1b. 기존 Ghost 게시물 캐싱 (중복 검사용)
     console.log('  → 0. 기존 게시물 로드 (중복 검사)...');
     let existingPosts = [];
     try {
@@ -67,7 +90,6 @@ async function main() {
       console.warn(`  ⚠️ 기존 게시물 로드 실패 (중복 검사 없이 진행): ${err.message}`);
     }
 
-    // 2. 07-copy-edited/ 파일 확인
     if (!fs.existsSync(INPUT_DIR)) {
       console.log('⚠️  입력 디렉토리 없음');
       return;
@@ -84,16 +106,13 @@ async function main() {
 
     console.log(`ℹ️  처리 대기: ${files.length}개 기사`);
 
-    // 3. 디렉토리 생성
     [OUTPUT_DIR, REJECTED_DIR].forEach(dir => {
       if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
     });
 
-    // 4. 각 파일 처리
     for (const filename of files) {
       const filepath = path.join(INPUT_DIR, filename);
       try {
-        // 중복 검사 먼저 수행
         const draftForCheck = JSON.parse(fs.readFileSync(filepath, 'utf8'));
         const sourceUrl = (draftForCheck.source && draftForCheck.source.url) || 
                           (draftForCheck.draft && draftForCheck.draft.references && draftForCheck.draft.references[0] && draftForCheck.draft.references[0].url);
@@ -105,7 +124,6 @@ async function main() {
           console.log(`   → 기존 게시물: "${dupResult.matchedTitle}" (${dupResult.matchedSlug})`);
           console.log(`   → 사유: ${dupResult.reason}`);
           results.push({ file: filename, status: 'skipped-duplicate', title: headline, reason: dupResult.reason });
-          // Skip - do not publish, remove from input dir
           moveToRejected(filepath, `duplicate: ${dupResult.reason}`);
           continue;
         }
@@ -117,7 +135,6 @@ async function main() {
       }
     }
 
-    // 5. 결과 보고
     console.log('\n=== 발행 결과 ===');
     const success = results.filter(r => r.status === 'published').length;
     const failed = results.filter(r => r.status === 'failed').length;
@@ -135,16 +152,31 @@ async function main() {
   }
 }
 
-// Helper: get value from either top-level or nested draft.draft (format compatibility)
-function getField(draft, field) {
-  // New format: { draft: { field } }
-  if (draft.draft && draft.draft[field] !== undefined) return draft.draft[field];
-  // Old format: { field } (top-level)
-  if (draft[field] !== undefined) return draft[field];
+function getField(obj, field) {
+  if (obj.draft && obj.draft[field] !== undefined) return obj.draft[field];
+  if (obj[field] !== undefined) return obj[field];
   return undefined;
 }
 function strOr(val, fallback) {
   return typeof val === 'string' ? val : fallback;
+}
+
+function extractLeadFromHtml(html, maxLen = 120) {
+  if (!html) return '';
+  const blockquoteContent = html.match(/<blockquote[^>]*>[\s\S]*?<\/blockquote>/gi) || [];
+  let body = html;
+  for (const bq of blockquoteContent) {
+    body = body.replace(bq, '');
+  }
+  const paraMatches = body.match(/<p[^>]*>([\s\S]*?)<\/p>/gi);
+  if (!paraMatches) return '';
+  for (const pTag of paraMatches) {
+    let text = pTag.replace(/<[^>]+>/g, '').replace(/&[a-z]+;/g, ' ').replace(/\s+/g, ' ').trim();
+    if (!text || text.length < 10) continue;
+    if (/^(📖|본 기사|원문 보기)/.test(text)) continue;
+    return text.substring(0, maxLen);
+  }
+  return '';
 }
 
 async function processArticle(filepath, config) {
@@ -154,9 +186,93 @@ async function processArticle(filepath, config) {
   const headline = getField(draft, 'headline') || filename;
   console.log(`\n📰 처리 중: ${headline}`);
 
-  // A. AI 기사 이미지 생성 (국가/지역 컨텍스트 반영)
-  console.log('  → 1. AI 이미지 생성 (ComfyUI + FLUX)...');
+  const fullBody = getField(draft, 'html') || getField(draft, 'final_html') || '';
+  const bodyText = fullBody.replace(/<[^>]+>/g, '').replace(/&[a-z]+;/g, ' ').replace(/\s+/g, ' ').trim();
+  
+  const hangulChars = (bodyText.match(/[가-힣]/g) || []).length;
+  const hangulRatio = bodyText.length > 0 ? hangulChars / bodyText.length : 0;
+  if (hangulRatio < 0.15 && bodyText.length > 100) {
+    console.log(`  ⚠️ 한글 비율 ${(hangulRatio*100).toFixed(0)}% → 영문 위주 콘텐츠, 건너뜀`);
+    results.push({ file: filename, status: 'skipped-english-content', title: headline });
+    moveToRejected(filepath, `skipped-english-content: hangul=${(hangulRatio*100).toFixed(0)}%`);
+    return;
+  }
+  
+  const headlineWords = headline.split(/\s+/);
+  const lastWord = headlineWords[headlineWords.length - 1] || '';
+  if (/^[a-zA-Z]{1,3}$/.test(lastWord) && headlineWords.length > 1) {
+    console.log(`  ⚠️ 헤드라인 마지막 단어가 잘렸을 수 있음: "...${lastWord}"`);
+  }
+
+  console.log('  → 1. Feature 이미지 선정 (실제 사진 우선 → AI 최후)...');
   let featureUrl;
+
+  // 0) 기사 원문 URL 추출 (Crawl4AI 룩업용)
+  const sourceUrl = (draft.source && draft.source.url) || 
+                    (draft.draft && draft.draft.references && draft.draft.references[0] && draft.draft.references[0].url);
+
+  // 1) Crawl4AI 실제 뉴스 사진 (텍스트 깨짐 0% — 최우선)
+  const crawl4aiUrl = getCrawl4AIImage(sourceUrl);
+  if (crawl4aiUrl) {
+    featureUrl = crawl4aiUrl;
+    console.log(`  ✓ Crawl4AI 실제 사진 사용: ${featureUrl.substring(0, 60)}...`);
+  }
+
+  // 2) Pending cache 확인
+  const PENDING_CACHE = '/root/.openclaw/workspace/newsroom/.imgcache/pending.json';
+  if (!featureUrl) {
+    try {
+      if (fs.existsSync(PENDING_CACHE)) {
+        const cache = JSON.parse(fs.readFileSync(PENDING_CACHE, 'utf8'));
+        if (cache[headline]) {
+          featureUrl = cache[headline];
+          console.log(`  💾 캐시 이미지 사용: ${featureUrl.substring(0, 60)}...`);
+        }
+      }
+    } catch(e) {}
+  }
+
+  // 3) Unsplash 실제 사진 (텍스트 깨짐 없음)
+  if (!featureUrl) {
+    const tags = getField(draft, 'ghost_tags') || [];
+    const bodyText = getField(draft, 'html') || getField(draft, 'final_html') || '';
+    try {
+      const unsplashUrl = await getSmartFeatureImage({
+        headline: headline,
+        bodyHtml: getField(draft, 'html') || getField(draft, 'final_html'),
+        tags: getField(draft, 'ghost_tags') || []
+      });
+      if (unsplashUrl) {
+        featureUrl = unsplashUrl;
+        console.log(`  ✓ Unsplash 실제 사진 사용: ${featureUrl.substring(0, 60)}...`);
+      }
+    } catch (err) {
+      console.warn(`  ⚠️ Unsplash 검색 실패: ${err.message.substring(0, 100)}`);
+    }
+  }
+
+  // 4) FLUX AI 이미지 (최후의 수단, 텍스트 억제 강화 프롬프트)
+  if (!featureUrl) {
+    const tags = getField(draft, 'ghost_tags') || [];
+    const bodyText = getField(draft, 'html') || getField(draft, 'final_html') || '';
+    for (let attempt = 1; attempt <= 1; attempt++) {
+      try {
+        const result = await generateImageForArticle({
+          headline: headline,
+          bodyHtml: bodyText,
+          tags: tags,
+          mode: 'news'
+        });
+        featureUrl = result.url;
+        console.log(`  ✓ AI 이미지 생성 (FLUX): ${result.url.substring(0, 60)}...`);
+        break;
+      } catch (err) {
+        console.warn(`  ⚠️ FLUX 생성 실패: ${err.message.substring(0, 100)}`);
+      }
+    }
+  }
+
+  // 5) Fallback 이미지
   const GHOST_FALLBACKS = [
     'https://newsroom.ubion.global/content/images/2026/05/fallback.jpg',
     'https://newsroom.ubion.global/content/images/2026/05/fallback-2.jpg',
@@ -164,39 +280,13 @@ async function processArticle(filepath, config) {
     'https://newsroom.ubion.global/content/images/2026/05/fallback-4.jpg',
     'https://newsroom.ubion.global/content/images/2026/05/fallback-5.jpg'
   ];
-  
-  try {
-    const bodyText = getField(draft, 'html') || getField(draft, 'final_html') || '';
-    const tags = getField(draft, 'ghost_tags') || [];
-    const result = await generateImageForArticle({
-      headline: headline,
-      bodyHtml: bodyText,
-      tags: tags,
-      mode: 'news'
-    });
-    featureUrl = result.url;
-    console.log(`  ✓ AI 이미지 생성 완료: ${result.url.substring(0, 60)}... (${result.context.country})`);
-  } catch (err) {
-    console.error(`  ⚠️ AI 이미지 생성 실패 (폴백 이미지 사용): ${err.message}`);
-    // Unsplash 폴백
-    try {
-      featureUrl = await getSmartFeatureImage({
-        headline: headline,
-        bodyHtml: getField(draft, 'html') || getField(draft, 'final_html'),
-        tags: getField(draft, 'ghost_tags') || []
-      });
-      if (!featureUrl) featureUrl = GHOST_FALLBACKS[Math.floor(Math.random() * GHOST_FALLBACKS.length)];
-    } catch (err2) {
-      console.error(`  ⚠️ Unsplash 폴백도 실패: ${err2.message}`);
-      featureUrl = GHOST_FALLBACKS[Math.floor(Math.random() * GHOST_FALLBACKS.length)];
-    }
+  if (!featureUrl) {
+    featureUrl = GHOST_FALLBACKS[Math.floor(Math.random() * GHOST_FALLBACKS.length)];
+    console.log(`  ⚠️ Fallback 이미지 사용`);
   }
 
-  // AI 생성 이미지는 이미 Ghost에 업로드되어 있음
-  // (generateImageForArticle 내부에서 자동 업로드)
   console.log(`  ✓ Feature image: ${featureUrl.substring(0, 60)}...`);
 
-  // C. OG 카드 생성
   console.log('  → 2. OG 카드 생성...');
   let ogCardUrl;
   const tmpOGPath = `/tmp/og-card-${Date.now()}.png`;
@@ -218,7 +308,6 @@ async function processArticle(filepath, config) {
     throw err;
   }
 
-  // OG 카드를 Ghost에 업로드
   let ogImageUrl;
   try {
     console.log('  → 3. OG 카드 Ghost 업로드...');
@@ -230,36 +319,42 @@ async function processArticle(filepath, config) {
     throw err;
   }
 
-  // HTML 정제
-  console.log('  → 4. HTML 정제...');
-  let cleanHtml = cleanupHtml(getField(draft, 'final_html') || getField(draft, 'html'));
-  console.log('  ✓ HTML 정제 완료');
+  // ★ 핵심 변경: HTML 정제 + 통일 포맷 변환 ★
+  console.log('  → 4. HTML 정제 + 통일 포맷 변환...');
+  let rawHtml = getField(draft, 'final_html') || getField(draft, 'html');
+  let cleanHtml = cleanupHtml(rawHtml);
+  
+  // 5/13 Chinese article style format으로 최종 변환
+  cleanHtml = convertToUnifiedFormat(cleanHtml);
+  console.log('  ✓ HTML 정제 + 변환 완료');
 
-  // JWT 토큰 생성
   console.log('  → 5. JWT 토큰 생성...');
   const jwtToken = generateJWT(config.adminApiKey);
   console.log('  ✓ JWT 생성 완료');
 
-  // 고등교육 여부 판단
   const isFeatured = isHigherEducation(headline, getField(draft, 'ghost_tags') || []);
-
-  // Slug 생성
   const slug = generateSlug(filename);
 
-  // Ghost 게시물 생성
   console.log('  → 6. Ghost 게시물 생성...');
   let postId;
+  
+  const leadText = extractLeadFromHtml(cleanHtml);
+  const ghostTitle = headline;
+  const ghostExcerpt = getField(draft, 'subheadline') || leadText || '';
+  const ghostMetaDesc = (draft.meta_suggestion && draft.meta_suggestion.meta_description) || leadText || '';
+  
   try {
     const postData = {
       posts: [{
-        title: getField(draft, 'subheadline') || headline,
+        title: ghostTitle,
         html: cleanHtml,
         status: 'published',
+        visibility: 'public',
         featured: isFeatured,
         tags: (getField(draft, 'ghost_tags') || []),
         meta_title: (draft.meta_suggestion && draft.meta_suggestion.meta_title) || headline,
-        meta_description: (draft.meta_suggestion && draft.meta_suggestion.meta_description) || '',
-        custom_excerpt: getField(draft, 'subheadline') || '',
+        meta_description: ghostMetaDesc,
+        custom_excerpt: ghostExcerpt,
         slug: slug,
         feature_image: featureUrl,
         og_image: ogImageUrl && ogImageUrl.startsWith('http') ? ogImageUrl : undefined,
@@ -283,7 +378,6 @@ async function processArticle(filepath, config) {
     throw err;
   }
 
-  // 검증: Ghost에서 다시 읽기
   console.log('  → 7. Ghost 검증...');
   try {
     const getResponse = await getFromGhost(
@@ -292,21 +386,16 @@ async function processArticle(filepath, config) {
       config.apiUrl
     );
     const savedPost = getResponse.posts[0];
-
-    // 손상된 문자 검사 (경고만, 발행은 진행)
     const damaged = savedPost.html.match(/[\uFFFD]/g);
     if (damaged && damaged.length > 0) {
       console.warn(`  ⚠️ 인코딩 경고: ${damaged.length}개 손상된 문자 (계속 진행)`);
     }
-
     console.log(`  ✓ 검증 완료 (OK)`);
   } catch (err) {
     console.error(`  ❌ 검증 실패: ${err.message}`);
-    // Ghost에서 삭제하지 않고 경고만
     console.warn(`  ⚠️ 검증 실패했지만 발행은 유지합니다.`);
   }
 
-  // 08-published/에 결과 저장
   console.log('  → 8. 결과 저장...');
   const result = {
     ...draft,
@@ -332,7 +421,6 @@ async function processArticle(filepath, config) {
   fs.writeFileSync(outputPath, JSON.stringify(result, null, 2));
   console.log(`  ✓ 저장: ${path.basename(outputPath)}`);
 
-  // 원본 파일 삭제
   fs.unlinkSync(filepath);
   console.log(`  ✓ 원본 삭제`);
 
@@ -347,16 +435,74 @@ async function processArticle(filepath, config) {
   reportLines.push(`   Ghost: https://ubion.ghost.io/ghost/#/editor/post/${postId}`);
 }
 
+/**
+ * cleanupHtml — HTML 정제 (기존 AI 배지 제거 + 인라인 스타일 제거)
+ */
 function cleanupHtml(html) {
   if (!html) return '';
 
-  // AI 공개 배지 제거
   let cleaned = html.replace(/<div[^>]*style="margin-bottom:32px;"[^>]*>[\s\S]*?🤖[\s\S]*?<\/div>/g, '');
-
-  // 수치 카드/배너 (display:flex) 제거
-  cleaned = cleaned.replace(/<div[^>]*style="display:flex[^>]*>[\s\S]*?<\/div>/g, '');
+  cleaned = cleaned.replace(/<div[^>]*style="display:flex"[^>]*>[\s\S]*?<\/div>/g, '');
 
   return cleaned;
+}
+
+/**
+ * convertToUnifiedFormat — 5/13 Chinese article 스타일 통일 포맷 변환
+ * 
+ * Target format:
+ *   <blockquote>간결한 리드 문장</blockquote>
+ *   <p>본문 문단 1</p>
+ *   <p>본문 문단 2</p>
+ *   ...
+ *   <p>원문 보기: <a href="URL">URL</a></p>
+ *   <p>본 기사는 AI로 작성되었습니다...</p>
+ */
+function convertToUnifiedFormat(html) {
+  if (!html) return '';
+  let result = html;
+
+  // 1. 모든 태그에서 인라인 스타일 제거 (가장 포괄적인 정규식)
+  //    style="..." 또는 style='...' 를 모든 태그에서 제거
+  result = result.replace(/\s+style="[^"]*"/gi, '');
+  result = result.replace(/\s+style='[^']*'/gi, '');
+
+  // 2. blockquote 내부의 <br><br><strong>제목</strong> 패턴 제거 + 모든 내부 태그 제거
+  //    → blockquote는 단순 한 줄 텍스트만 유지 (5/13 Chinese article 스타일)
+  result = result.replace(/<blockquote>([\s\S]*?)<\/blockquote>/g, (match, content) => {
+    let clean = content
+      // 내부의 모든 HTML 태그 제거
+      .replace(/<[^>]+>/gi, '')
+      // 연속 공백 정리
+      .replace(/\s+/g, ' ')
+      .trim();
+    return `<blockquote>${clean}</blockquote>`;
+  });
+
+  // 3. 출처 링크 변환: 📖 <a href="URL">원문 보기</a> → 원문 보기: <a href="URL">URL</a>
+  result = result.replace(
+    /📖\s*<a\s+href="([^"]*)"[^>]*>원문\s*보기<\/a>/gi,
+    (match, url) => `원문 보기: <a href="${url}">${url}</a>`
+  );
+  result = result.replace(
+    /📖\s*<a\s+href='([^']*)'[^>]*>원문\s*보기<\/a>/gi,
+    (match, url) => `원문 보기: <a href="${url}">${url}</a>`
+  );
+
+  // 4. 남은 📖 문자 제거
+  result = result.replace(/📖/g, '');
+  
+  // 5. rel 속성 제거 (Ghost 기본)
+  result = result.replace(/\s+rel="[^"]*"/gi, '');
+  result = result.replace(/\s+rel='[^']*'/gi, '');
+
+  // 6. 연속 공백 정리
+  result = result.replace(/\s{2,}/g, ' ');
+
+  // 7. <p> 태그 사이의 불필요한 개행 정리
+  result = result.replace(/>\s+</g, '>\n<');
+
+  return result;
 }
 
 function generateJWT(apiKey) {
@@ -384,22 +530,17 @@ function generateJWT(apiKey) {
 }
 
 function isHigherEducation(headline, tags) {
-  // 시평(editorial)과 테크브리핑(tech briefing)은 항상 featured
   const featuredTags = ['시평', 'editorial', '테크브리핑', 'tech-brief', 'ai-tech-brief'];
   const tagText = (tags || []).join(' ').toLowerCase();
   for (const ft of featuredTags) {
     if (tagText.includes(ft)) return true;
   }
-  // 그 외 일반 기사는 featured false
   return false;
 }
 
 function generateSlug(filename) {
-  // 파일명: 2026-03-04_10-58_edweek-1000-districts-ai-readiness-risk.json
-  // slug: edweek-1000-districts-ai-readiness-risk
   const base = filename.replace('.json', '');
   const parts = base.split('_');
-  // 처음 부분(날짜)들을 제거하고 나머지 사용
   if (parts.length >= 3) {
     return parts.slice(2).join('-');
   }
@@ -408,40 +549,38 @@ function generateSlug(filename) {
 
 async function postToGhost(endpoint, data, token, apiUrl) {
   const url = `${apiUrl}/ghost/api/admin/${endpoint}`;
-  
-  // Use Node.js https instead of curl for better reliability
   return new Promise((resolve, reject) => {
     const postData = JSON.stringify(data);
     const urlObj = new URL(url);
     const options = {
       hostname: urlObj.hostname,
+      port: urlObj.port,
       path: urlObj.pathname + urlObj.search,
       method: 'POST',
       headers: {
         'Authorization': `Ghost ${token}`,
-        'Content-Type': 'application/json',
+        'Content-Type': 'application/json; charset=utf-8',
         'Content-Length': Buffer.byteLength(postData)
       }
     };
-    
+
     const req = https.request(options, (res) => {
-      let body = '';
-      res.on('data', (chunk) => body += chunk);
+      let responseData = '';
+      res.on('data', chunk => responseData += chunk);
       res.on('end', () => {
         try {
-          const parsed = JSON.parse(body);
-          if (parsed.errors && parsed.errors.length > 0) {
-            reject(new Error(`Ghost API error: ${parsed.errors[0].message}`));
-          } else if (!parsed.posts) {
-            reject(new Error(`Ghost API returned no posts: ${body.substring(0, 200)}`));
-          } else {
-            resolve(parsed);
+          const parsed = JSON.parse(responseData);
+          if (parsed.errors) {
+            reject(new Error(parsed.errors.map(e => e.message).join(', ')));
+            return;
           }
-        } catch(e) {
-          reject(new Error(`JSON parse failed: ${body.substring(0, 200)}`));
+          resolve(parsed);
+        } catch (e) {
+          reject(new Error(`JSON parse error: ${responseData.substring(0, 200)}`));
         }
       });
     });
+
     req.on('error', reject);
     req.write(postData);
     req.end();
@@ -450,11 +589,11 @@ async function postToGhost(endpoint, data, token, apiUrl) {
 
 async function getFromGhost(endpoint, token, apiUrl) {
   const url = `${apiUrl}/ghost/api/admin/${endpoint}`;
-  
   return new Promise((resolve, reject) => {
     const urlObj = new URL(url);
     const options = {
       hostname: urlObj.hostname,
+      port: urlObj.port,
       path: urlObj.pathname + urlObj.search,
       method: 'GET',
       headers: {
@@ -462,159 +601,100 @@ async function getFromGhost(endpoint, token, apiUrl) {
         'Content-Type': 'application/json'
       }
     };
-    
-    const req = https.request(options, (res) => {
-      let body = '';
-      res.on('data', (chunk) => body += chunk);
-      res.on('end', () => {
-        try {
-          resolve(JSON.parse(body));
-        } catch(e) {
-          reject(new Error(`JSON parse failed: ${body.substring(0, 200)}`));
-        }
-      });
-    });
-    req.on('error', reject);
-    req.end();
-  });
-}
 
-async function deleteFromGhost(endpoint, token, apiUrl) {
-  const url = `${apiUrl}/ghost/api/admin/${endpoint}`;
-  
-  return new Promise((resolve, reject) => {
-    const urlObj = new URL(url);
-    const options = {
-      hostname: urlObj.hostname,
-      path: urlObj.pathname + urlObj.search,
-      method: 'DELETE',
-      headers: {
-        'Authorization': `Ghost ${token}`,
-        'Content-Type': 'application/json'
-      }
-    };
-    
     const req = https.request(options, (res) => {
-      let body = '';
-      res.on('data', (chunk) => body += chunk);
+      let responseData = '';
+      res.on('data', chunk => responseData += chunk);
       res.on('end', () => {
         try {
-          resolve(JSON.parse(body));
-        } catch(e) {
-          resolve({}); // DELETE returns empty on success
+          const parsed = JSON.parse(responseData);
+          if (parsed.errors) {
+            reject(new Error(parsed.errors.map(e => e.message).join(', ')));
+            return;
+          }
+          resolve(parsed);
+        } catch (e) {
+          reject(new Error(`JSON parse error: ${responseData.substring(0, 200)}`));
         }
       });
     });
+
     req.on('error', reject);
     req.end();
   });
 }
 
 async function uploadImageToGhost(imagePath, config) {
-  // Ghost Images API로 이미지 업로드 (multipart/form-data)
+  const fs = require('fs');
+  const jwt = generateJWT(config.adminApiKey);
   const url = `${config.apiUrl}/ghost/api/admin/images/upload/`;
-  const token = generateJWT(config.adminApiKey);
   
-  const boundary = '----GhostImageUpload' + Math.random().toString(36).slice(2);
-  const imgData = fs.readFileSync(imagePath);
-  const ext = path.extname(imagePath).toLowerCase() || '.jpg';
-  const mime = ext === '.png' ? 'image/png' : ext === '.webp' ? 'image/webp' : 'image/jpeg';
-  const filename = `article-img-${Date.now()}${ext}`;
-
-  const bodyParts = [];
-  bodyParts.push(`--${boundary}\r\nContent-Disposition: form-data; name="file"; filename="${filename}"\r\nContent-Type: ${mime}\r\n\r\n`);
-  bodyParts.push(imgData);
-  bodyParts.push(`\r\n--${boundary}--\r\n`);
-
   return new Promise((resolve, reject) => {
+    const boundary = `----FormBoundary${Math.random().toString(36).substring(2)}`;
+    const fileBuffer = fs.readFileSync(imagePath);
+    const fileName = path.basename(imagePath);
+    
+    let bodyParts = [];
+    bodyParts.push(`--${boundary}\r\nContent-Disposition: form-data; name="file"; filename="${fileName}"\r\nContent-Type: image/png\r\n\r\n`);
+    bodyParts.push(fileBuffer);
+    bodyParts.push(`\r\n--${boundary}--\r\n`);
+    
+    const bodyBuffer = Buffer.concat(
+      bodyParts.map(p => Buffer.isBuffer(p) ? p : Buffer.from(p, 'utf8'))
+    );
+
     const urlObj = new URL(url);
     const options = {
       hostname: urlObj.hostname,
+      port: urlObj.port,
       path: urlObj.pathname,
       method: 'POST',
       headers: {
-        'Authorization': `Ghost ${token}`,
+        'Authorization': `Ghost ${jwt}`,
         'Content-Type': `multipart/form-data; boundary=${boundary}`,
-        'Content-Length': Buffer.byteLength(Buffer.concat([
-          Buffer.from(bodyParts[0]),
-          Buffer.from(bodyParts[1]),
-          Buffer.from(bodyParts[2])
-        ]))
+        'Content-Length': bodyBuffer.length
       }
     };
 
     const req = https.request(options, (res) => {
-      let body = '';
-      res.on('data', (chunk) => body += chunk);
+      let responseData = '';
+      res.on('data', chunk => responseData += chunk);
       res.on('end', () => {
         try {
-          const parsed = JSON.parse(body);
-          if (parsed.images && parsed.images[0] && parsed.images[0].url) {
-            resolve(parsed.images[0].url);
+          const parsed = JSON.parse(responseData);
+          const imageUrl = parsed.images && parsed.images[0] && parsed.images[0].url;
+          if (imageUrl) {
+            resolve(imageUrl);
           } else {
-            reject(new Error(`Ghost upload failed: ${body.substring(0, 200)}`));
+            reject(new Error('No image URL in response'));
           }
-        } catch(e) {
-          reject(new Error(`Ghost upload parse error: ${body.substring(0, 200)}`));
+        } catch (e) {
+          reject(new Error(`JSON parse error: ${responseData.substring(0, 200)}`));
         }
       });
     });
+
     req.on('error', reject);
-    
-    // Write multipart body
-    req.write(Buffer.from(bodyParts[0]));
-    req.write(Buffer.from(bodyParts[1]));
-    req.write(Buffer.from(bodyParts[2]));
+    req.write(bodyBuffer);
     req.end();
   });
 }
 
-/**
- * 중복 기사 검사
- * - 같은 source URL이 이미 발행되었는지 확인
- * - headline 유사도 검사 (영문 title, 한국어 headline)
- */
 function checkDuplicate(sourceUrl, headline, existingPosts) {
-  if (!existingPosts || existingPosts.length === 0) {
-    return { isDuplicate: false };
-  }
+  if (!sourceUrl && !headline) return { isDuplicate: false };
   
-  // 1. Source URL 기반 검사 (가장 엄격)
-  if (sourceUrl) {
-    // 원본 URL에서 기사 ID 또는 핵심 경로 추출
-    const urlKey = sourceUrl.replace(/https?:\/\//, '').replace(/www\./, '').split('?')[0].replace(/\/$/,'');
-    
-    for (const post of existingPosts) {
-      const postHtml = post.html || '';
-      // Ghost 게시물 HTML에 source URL이 포함되어 있는지 확인
-      if (postHtml.includes(urlKey) || postHtml.includes(encodeURI(urlKey))) {
-        return {
-          isDuplicate: true,
-          matchedTitle: post.title,
-          matchedSlug: post.slug,
-          reason: `동일 source URL (${urlKey.substring(0, 60)})`
-        };
-      }
+  for (const post of existingPosts) {
+    if (sourceUrl && post.html && post.html.includes(sourceUrl)) {
+      return { isDuplicate: true, matchedTitle: post.title, matchedSlug: post.slug, reason: '동일 출처 URL' };
     }
-  }
-  
-  // 2. 헤드라인 유사도 검사
-  if (headline) {
-    // 핵심 키워드 추출 (장소 + 주제)
-    const keywords = extractDupKeywords(headline);
-    if (keywords.length >= 2) {
-      for (const post of existingPosts) {
-        const postTitle = post.title || '';
-        const matchCount = keywords.filter(kw => postTitle.includes(kw)).length;
-        // 70% 이상 키워드 일치 = 중복
-        if (matchCount >= Math.ceil(keywords.length * 0.7)) {
-          return {
-            isDuplicate: true,
-            matchedTitle: post.title,
-            matchedSlug: post.slug,
-            reason: `headline 유사 (${matchCount}/${keywords.length} 키워드 일치: ${keywords.join(', ')})`
-          };
-        }
+    
+    if (headline && post.title) {
+      const words = headline.toLowerCase().split(/\s+/);
+      const postWords = post.title.toLowerCase().split(/\s+/);
+      const common = words.filter(w => postWords.includes(w)).length;
+      const maxLen = Math.max(words.length, postWords.length);
+      if (maxLen > 0 && common / maxLen > 0.7 && headline.length > 5) {
+        return { isDuplicate: true, matchedTitle: post.title, matchedSlug: post.slug, reason: '유사한 제목' };
       }
     }
   }
@@ -622,31 +702,20 @@ function checkDuplicate(sourceUrl, headline, existingPosts) {
   return { isDuplicate: false };
 }
 
-/**
- * headline에서 중복 검사용 핵심 키워드 추출
- * 예: "뉴욕타임스 AI 특화고 학부모 반발" → ["뉴욕타임스", "AI", "특화고", "학부모", "반발"]
- */
-function extractDupKeywords(headline) {
-  // 불용어
-  const stopwords = ['의', '에', '와', '을', '를', '이', '가', '은', '는', '들', '및', '에서', '에게', '으로', '하다'];
-  
-  // Headline을 단어 단위로 분리
-  const words = headline
-    .replace(/[^가-힣a-zA-Z0-9\s]/g, ' ')
-    .split(/\s+/)
-    .filter(w => w.length >= 2 && !stopwords.includes(w));
-  
-  // 빈도 기반 중요 단어 선정
-  const important = words.filter(w => w.length >= 3 || /[A-Z]/.test(w));
-  return important.length >= 2 ? important : words;
-}
 function moveToRejected(filepath, reason) {
+  if (!fs.existsSync(REJECTED_DIR)) {
+    fs.mkdirSync(REJECTED_DIR, { recursive: true });
+  }
   const filename = path.basename(filepath);
-  const rejectedPath = path.join(REJECTED_DIR, filename);
-  const draft = JSON.parse(fs.readFileSync(filepath, 'utf8'));
-  draft.rejection_reason = reason;
-  draft.rejected_at = new Date().toISOString();
-  fs.writeFileSync(rejectedPath, JSON.stringify(draft, null, 2));
+  const rejectPath = path.join(REJECTED_DIR, filename);
+  
+  const content = JSON.parse(fs.readFileSync(filepath, 'utf8') || '{}');
+  content.rejection_reason = reason;
+  content.rejected_at = new Date().toISOString();
+  fs.writeFileSync(rejectPath, JSON.stringify(content, null, 2));
+  
+  fs.unlinkSync(filepath);
+  console.log(`  → rejected: ${reason}`);
 }
 
 main().catch(console.error);

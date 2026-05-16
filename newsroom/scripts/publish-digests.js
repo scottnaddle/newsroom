@@ -57,6 +57,7 @@ async function publishPost(data, token) {
       title: data.digest.headline,
       html: data.digest.html,
       status: 'published',
+      visibility: 'public',
       featured: false,
       tags: buildTags(data.digest.ghost_tags),
       meta_title: data.digest.meta_title,

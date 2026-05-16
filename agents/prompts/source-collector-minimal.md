@@ -18,10 +18,34 @@
   "stage": "sourced",
   "source": { "url": "", "title": "", "snippet": "", "published_date": "" },
   "relevance_score": 85,
-  "tags": ["policy", "education"],
+  "region": "korea",
+  "regionName": "한국",
+  "tags": ["ai-edu", "국내", "교육정책"],
   "collected_at": "ISO8601"
 }
 ```
+
+## 🏷️ 태그 체계 (필수)
+```
+tags: ["ai-edu", "{국내|해외}", "{지역태그}", "{중분류}"]
+```
+
+### 대분류 (region 기반 자동 분류)
+- region=korea → `국내`
+- region≠korea → `해외`
+
+### 지역 태그 (해외 필수)
+| region | 지역 태그 |
+|--------|----------|
+| usa | 미국 |
+| europe, estonia, finland | 유럽 |
+| china | 중국 |
+| japan | 일본 |
+| singapore | 싱가포르 |
+| india | 인도 |
+
+### 중분류 태그
+교육정책, 에듀테크, AI 리터러시, 연구, 보안/윤리, 글로벌 동향
 
 ## 수집 완료 후
 - recent-items.json 업데이트 (72시간 초과 항목 제거)

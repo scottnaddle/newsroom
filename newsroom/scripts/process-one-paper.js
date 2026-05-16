@@ -287,6 +287,8 @@ async function main() {
           title: `[논문] ${paper.korean_title}`,
           html: html,
           status: 'published',
+          visibility: 'public',
+          custom_excerpt: paper.korean_summary?.slice(0, 120) || '',
           tags: [{ id: '69ab5986ff4fbf0001ab711d' }, { id: '69ad581eff4fbf0001ab74d6' }],  // ai-papers + arxiv (ID 고정)
           meta_title: `${paper.korean_title} | AI 교육 논문`,
           meta_description: paper.korean_summary.slice(0, 150),

@@ -197,6 +197,7 @@ async function publishArticle(filePath) {
         title: headline,
         html: html,
         status: 'published', // ⚠️ PUBLISHED로 즉시 발행
+        visibility: 'public',
         featured: featured,
         tags: tags,
         meta_title: metaTitle,

@@ -135,6 +135,7 @@ async function publishDigest(draftFile) {
       html: digest.digest.html,
       slug: slug,
       status: 'published',
+      visibility: 'public',
       featured: false,
       tags: [
         { id: GHOST_CONFIG.aiDigestTagId },

@@ -1,14 +1,18 @@
 #!/usr/bin/env python3
 """
-Pre-generate feature images for all pending news articles via ComfyUI on Mac Studio.
+Pre-generate feature images for all pending news articles via FLUX 2 Turbo (FAL AI).
 1. Reads article JSON files from 07-copy-edited/
-2. Generates image via SSH → Mac Studio ComfyUI
+2. Generates image via FLUX 2 Turbo API (FAL AI)
 3. Uploads to Ghost CMS
 4. Caches Ghost CDN URLs to /root/.openclaw/workspace/newsroom/.imgcache/pending.json
 
 Usage: python3 pregen-article-images.py
 """
 import subprocess, sys, os, json, time, hmac, base64, urllib.request, urllib.error, random, re, pathlib
+
+# FLUX 2 Dev 모듈 임포트
+sys.path.insert(0, '/root/newsroom-analysis/newsroom/scripts')
+from flux_image import generate_flux_image
 
 MAC_IP = "100.108.26.68"
 ENV_FILE = "/root/.openclaw/workspace/newsroom/.env"
@@ -207,59 +211,20 @@ def scp_from(remote_path, local_path):
     )
 
 def generate_and_upload_image(prompt, ghost_domain, ghost_admin_key):
-    """Generate via ComfyUI → upload to Ghost → return CDN URL"""
-    print(f"  Generating image...", flush=True)
-    remote_path = ssh_run(f"/tmp/generate-news-image.py {json.dumps(prompt)}")
-    if remote_path.startswith("ERROR") or not remote_path:
-        print(f"  FAILED: {remote_path}", flush=True)
-        return None
+    """Generate via FLUX 2 Dev (FAL AI) → upload to Ghost → return CDN URL"""
+    print(f"  Generating image via FLUX 2 Dev...", flush=True)
     
-    local_path = f"/tmp/comfyui-news-{int(time.time()*1000)}.png"
-    scp_from(remote_path, local_path)
+    # NO TEXT 강화
+    enhanced = prompt + " ABSOLUTELY NO text, NO letters, NO characters, NO words, NO watermark, NO logo. Pure visual imagery only."
     
-    # Upload to Ghost
-    with open(local_path, "rb") as f:
-        img_data = f.read()
-    boundary = "----FormBoundary" + os.urandom(4).hex()
-    header = f"--{boundary}\r\nContent-Disposition: form-data; name=\"file\"; filename=\"{os.path.basename(local_path)}\"\r\nContent-Type: image/png\r\n\r\n".encode()
-    footer = f"\r\n--{boundary}--\r\n".encode()
-    body = header + img_data + footer
-    
-    kid, secret = ghost_admin_key.split(":")
-    now = int(time.time())
-    jwt_h = base64.urlsafe_b64encode(json.dumps({"alg":"HS256","typ":"JWT","kid":kid}).encode()).rstrip(b"=").decode()
-    jwt_p = base64.urlsafe_b64encode(json.dumps({"iat":now,"exp":now+300,"aud":"/admin/"}).encode()).rstrip(b"=").decode()
-    jwt_s = base64.urlsafe_b64encode(hmac.new(bytes.fromhex(secret), f"{jwt_h}.{jwt_p}".encode(), "sha256").digest()).rstrip(b"=").decode()
-    jwt = f"{jwt_h}.{jwt_p}.{jwt_s}"
-    
-    req = urllib.request.Request(
-        f"https://{ghost_domain}/ghost/api/admin/images/upload",
-        data=body,
-        headers={
-            "Authorization": f"Ghost {jwt}",
-            "Content-Type": f"multipart/form-data; boundary={boundary}",
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36",
-            "Accept": "application/json, text/plain, */*",
-            "Accept-Language": "ko-KR,ko;q=0.9,en;q=0.8",
-            "Origin": f"https://{ghost_domain}",
-            "Referer": f"https://{ghost_domain}/ghost/"
-        }
-    )
     try:
-        resp = json.loads(urllib.request.urlopen(req, timeout=30).read())
+        ghost_url = generate_flux_image(enhanced)
+        if ghost_url:
+            print(f"  ✅ FLUX 이미지 생성 완료: {ghost_url[:60]}...", flush=True)
+            return ghost_url
     except Exception as e:
-        print(f"  Ghost upload FAILED: {e}", flush=True)
-        try: os.remove(local_path)
-        except: pass
-        return None
+        print(f"  ❌ FLUX 생성 실패: {e}", flush=True)
     
-    try: os.remove(local_path)
-    except: pass
-    
-    url = resp.get("images", [{}])[0].get("url", "")
-    if url:
-        print(f"  ✅ Ghost URL: {url[:60]}...", flush=True)
-        return url
     return None
 
 def main():

@@ -16,7 +16,7 @@ from urllib.parse import quote_plus
 GHOST_URL = 'https://newsroom.ubion.global'
 ENV_PATH = '/root/.openclaw/workspace/newsroom/.env'
 DEEPSEEK_BASE_URL = os.environ.get('DEEPSEEK_BASE_URL', 'https://api.deepseek.com/v1')
-TAG_NAME = 'AI테크브리핑'
+TAG_NAME = 'ai-tech-brief'
 TAG_SLUG = 'ai-tech-brief'
 USED_SOURCES_DIR = '/tmp/ai-brief-used-sources'
 USED_SOURCES_DB = '/tmp/ai-brief-used-sources/db.json'
@@ -117,10 +117,12 @@ def parse_atom_date(date_str):
             continue
     return None
 
-def is_recent(pub_date, today):
-    """Check if pub_date is yesterday or today."""
+def is_recent(pub_date, today, strict=True):
+    """Check if pub_date is yesterday or today.
+    strict=True: 날짜 없으면 제외 (RSS 피드용)
+    strict=False: 날짜 없으면 통과 (Brave Search용, freshness=pd 보장)"""
     if pub_date is None:
-        return True  # can't verify, pass through
+        return not strict  # strict이면 False(제외), 아니면 True(통과)
     yesterday = today - timedelta(days=1)
     # Compare dates only (ignore time)
     pub_date_only = pub_date.date()
@@ -160,7 +162,7 @@ def ensure_tag(token):
     if not exists:
         subprocess.run(['curl', '-s', '-X', 'POST', f'{GHOST_URL}/ghost/api/admin/tags/',
             '-H', f'Authorization: Ghost {token}', '-H', 'Content-Type: application/json',
-            '-d', json.dumps({'tags': [{'name': TAG_NAME, 'slug': TAG_SLUG, 'description': 'AI 기술 데일리 브리핑'}]})],
+            '-d', json.dumps({'tags': [{'name': '테크브리핑', 'slug': TAG_SLUG, 'description': 'AI 기술 데일리 브리핑'}]})],
             capture_output=True, text=True, timeout=15)
         print(f'  ✅ 태그 생성: #{TAG_NAME}')
     return TAG_SLUG
@@ -304,17 +306,10 @@ def dedup_and_rank(items):
     return final[:40]  # collect more to allow better TOP 10 selection
 
 # ─── LLM Article Writer ────────────────────────────
+from llm_utils import call_llm as fallback_call_llm
+
 def call_llm(prompt, system=None):
-    if not DEEPSEEK_API_KEY: load_env()
-    payload = {"model": "deepseek-chat", "messages": [
-        {"role": "system", "content": system or "You are an AI tech news curator."},
-        {"role": "user", "content": prompt}
-    ], "temperature": 0.6, "max_tokens": 5000}
-    r = subprocess.run(['curl', '-s', '-X', 'POST', f'{DEEPSEEK_BASE_URL}/chat/completions',
-        '-H', f'Authorization: Bearer {DEEPSEEK_API_KEY}', '-H', 'Content-Type: application/json',
-        '-d', json.dumps(payload)], capture_output=True, text=True, timeout=120)
-    try: return json.loads(r.stdout)['choices'][0]['message']['content']
-    except: print(f"  ❌ LLM 실패: {r.stdout[:300]}"); return None
+    return fallback_call_llm(prompt, system=system, temperature=0.6, max_tokens=5000, label='테크브리핑')
 
 BRIEF_SYSTEM = """당신은 AI 기술 뉴스레터 편집자입니다.
 매일 오전/오후 각각 발행되는 속보성 브리핑입니다.
@@ -395,43 +390,9 @@ AI 테크 브리핑에서 이 주제들을 다루지 말고, 다른 새로운 �
     return call_llm(prompt, BRIEF_SYSTEM)
 
 def article_to_html(text):
-    # Convert markdown links: [text](url) -> <a href="url">text</a>
-    text = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'<a href="\2">\1</a>', text)
-    # Convert **bold** to <strong>
-    text = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', text)
-    html_parts = []
-    first_real = True
-    for p in text.strip().split('\n\n'):
-        p = p.strip()
-        if not p: continue
-        ## h3 line → <p><strong> (Ghost에서 h3 스타일 깨질 수 있으므로 bold 단락으로)
-        if p.startswith('### '):
-            content = re.sub(r'^###\s+', '', p)
-            html_parts.append(f'<p><strong>{content}</strong></p>')
-        ## h2 line with number prefix (e.g., "## 1. Anthropic") → <p><strong>
-        elif re.match(r'##\s+\d+[\.\)]', p):
-            content = re.sub(r'^##\s+', '', p)
-            html_parts.append(f'<p><strong>{content}</strong></p>')
-        ## h2 line that is a known section header → <h2>
-        elif p.startswith('## ') and any(kw in p for kw in ['키워드', '트렌드', 'TOP', '📊', '🔥']):
-            html_parts.append(f'<h2>{p.lstrip("# ")}</h2>')
-        ## h2 line that looks like content (not section header) → <p><strong>
-        elif p.startswith('## '):
-            content = re.sub(r'^##\s+', '', p)
-            html_parts.append(f'<p><strong>{content}</strong></p>')
-        elif p.startswith('# '):
-            html_parts.append(f'<h2>{p.lstrip("# ")}</h2>' if len(p.lstrip("# ")) < 30 else f'<p><strong>{p.lstrip("# ")}</strong></p>')
-        elif p in ('---', '—'):
-            html_parts.append('<hr />')
-        elif first_real:
-            html_parts.append(f'<blockquote>{p}</blockquote>')
-            first_real = False
-        else:
-            html_parts.append(f'<p>{p}</p>')
-    html = '\n'.join(html_parts)
-    html = re.sub(r'<p>---</p>', '<hr />', html)
-    html = re.sub(r'<p>—</p>', '<hr />', html)
-    return html
+    """Convert markdown-style text to Ghost-compatible HTML (via unified formatter)."""
+    from format_article import text_to_html as format_text_to_html
+    return format_text_to_html(text, use_blockquote_lead=True)
 
 # ─── Image Generation ──────────────────────────────
 def generate_image_prompt(article_text, items, time_label):
@@ -450,26 +411,19 @@ Create a detailed image prompt (50-80 words) for a feature image that visually r
 
     if not DEEPSEEK_API_KEY:
         load_env()
-    payload = {"model": "deepseek-chat", "messages": [
-        {"role": "system", "content": system},
-        {"role": "user", "content": user}
-    ], "temperature": 0.8, "max_tokens": 200}
-    r = subprocess.run(['curl', '-s', '-X', 'POST', f'{DEEPSEEK_BASE_URL}/chat/completions',
-        '-H', f'Authorization: Bearer {DEEPSEEK_API_KEY}', '-H', 'Content-Type: application/json',
-        '-d', json.dumps(payload)], capture_output=True, text=True, timeout=30)
-    try:
-        prompt = json.loads(r.stdout)['choices'][0]['message']['content'].strip()
-        # Remove quotes if present
-        prompt = prompt.strip('"\'').strip()
+    from llm_utils import call_llm as fb_call
+    prompt = fb_call(user, system=system, temperature=0.8, max_tokens=200, label='이미지프롬프트')
+    if prompt:
+        prompt = prompt.strip().strip('"').strip("'").strip()
         print(f"     AI 생성 프롬프트: {prompt[:100]}...")
         return prompt
-    except:
+    else:
         print(f"     ⚠️ 프롬프트 생성 실패, 기본 프롬프트 사용")
         return None
 
 def generate_feature_image(items, target_date, time_label, article_text=""):
-    """Generate a content-aware feature image based on today's actual news."""
-    print(f"  🖼️ 이미지 생성 중...")
+    """Generate a content-aware feature image using FLUX 2 Dev."""
+    print(f"  🖼️ FLUX 이미지 생성 중...")
     
     # Generate prompt from actual news content
     llm_prompt = generate_image_prompt(article_text, items, time_label)
@@ -492,41 +446,46 @@ def generate_feature_image(items, target_date, time_label, article_text=""):
         llm_prompt = f"Digital art concept, {theme} theme, {mood}, professional magazine cover quality, no text"
         print(f"     기본 프롬프트: {llm_prompt}")
     
-    safe_prompt = quote_plus(llm_prompt)
-    img_url = f"https://image.pollinations.ai/prompt/{safe_prompt}?width=1400&height=800&nofeed=true"
-    
-    # Download image
-    local_path = f"/tmp/ai-brief-{target_date}-{time_label}.jpg"
-    subprocess.run(['curl', '-sL', '-o', local_path, '-m', '30',
-        '-H', 'User-Agent: Mozilla/5.0', img_url],
-        capture_output=True, text=True, timeout=45)
-    
-    if not os.path.exists(local_path) or os.path.getsize(local_path) < 1000:
-        print(f"     ⚠️ 이미지 생성 실패, 진행")
-        return None
-    
-    file_size = os.path.getsize(local_path)
-    print(f"     다운로드 완료: {file_size/1024:.0f}KB")
-    
-    # Upload to Ghost
-    token = get_ghost_token()
-    up = subprocess.run(['curl', '-s', '-X', 'POST',
-        f'{GHOST_URL}/ghost/api/admin/images/upload/',
-        '-H', f'Authorization: Ghost {token}',
-        '-F', f'file=@{local_path};type=image/jpeg'],
-        capture_output=True, text=True, timeout=30)
+    # Generate via FLUX 2 Dev
     try:
-        img_data = json.loads(up.stdout)
-        ghost_url = img_data.get('images', [{}])[0].get('url', '')
-        if ghost_url:
-            print(f"     ✅ 업로드 완료: {ghost_url.split('/')[-1][:50]}")
-            return ghost_url
-        else:
-            print(f"     ⚠️ 업로드 실패: {up.stdout[:150]}")
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        from flux_image import generate_flux_image
+        enhanced = llm_prompt + " ABSOLUTELY NO text, NO letters, NO characters, NO words, NO watermark, NO logo. Pure visual imagery only."
+        ghost_url = generate_flux_image(enhanced)
+        print(f"     ✅ FLUX 이미지 업로드 완료")
+        return ghost_url
+    except Exception as e:
+        print(f"     ⚠️ FLUX 실패 ({e}), Pollinations fallback")
+        # Fallback to Pollinations.ai
+        safe_prompt = quote_plus(llm_prompt)
+        img_url = f"https://image.pollinations.ai/prompt/{safe_prompt}?width=1400&height=800&nofeed=true"
+        local_path = f"/tmp/ai-brief-{target_date}-{time_label}.jpg"
+        subprocess.run(['curl', '-sL', '-o', local_path, '-m', '30',
+            '-H', 'User-Agent: Mozilla/5.0', img_url],
+            capture_output=True, text=True, timeout=45)
+        if not os.path.exists(local_path) or os.path.getsize(local_path) < 1000:
+            print(f"     ⚠️ 이미지 생성 실패, 진행")
             return None
-    except:
-        print(f"     ⚠️ 업로드 파싱 실패")
-        return None
+        file_size = os.path.getsize(local_path)
+        print(f"     다운로드 완료: {file_size/1024:.0f}KB")
+        token = get_ghost_token()
+        up = subprocess.run(['curl', '-s', '-X', 'POST',
+            f'{GHOST_URL}/ghost/api/admin/images/upload/',
+            '-H', f'Authorization: Ghost {token}',
+            '-F', f'file=@{local_path};type=image/jpeg'],
+            capture_output=True, text=True, timeout=30)
+        try:
+            img_data = json.loads(up.stdout)
+            ghost_url = img_data.get('images', [{}])[0].get('url', '')
+            if ghost_url:
+                print(f"     ✅ 업로드 완료: {ghost_url.split('/')[-1][:50]}")
+                return ghost_url
+            else:
+                print(f"     ⚠️ 업로드 실패: {up.stdout[:150]}")
+                return None
+        except:
+            print(f"     ⚠️ 업로드 파싱 실패")
+            return None
 
 # ─── Used Sources Tracker (Enhanced) ──────────────
 def get_title_trigrams(title):
@@ -755,7 +714,7 @@ def main():
             'status': 'published',
             'visibility': 'public',  # ★ 반드시 공개 — Ghost 기본값이 구독자전용일 수 있음
             'featured': True,  # ★ AI Tech Brief is always Featured
-            'tags': [{'name': TAG_NAME, 'slug': tag_slug}],
+            'tags': [{'name': '테크브리핑', 'slug': tag_slug}],
             'custom_excerpt': f"{target_date} AI 기술 핫이슈 TOP 10"
         }]
     }

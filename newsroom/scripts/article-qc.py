@@ -11,6 +11,7 @@ Ghost CMS에 발행된 최근 기사를 스캔하여 알려진 문제를 자동 
 4. 📐 HTML 구조 (AI테크브리핑: 번호 이슈가 h2가 아닌 strong인지)
 5. 🔄 중복 주제 (같은 날 AI테크브리핑 × 일반뉴스 중복)
 6. ⏰ 발행 시간대 (하루 2회 AI테크브리핑 정상 발행 확인)
+7. ❌ 깨진 문자(U+FFFD) 검사 및 자동 제거 (2026-05-13 추가)
 
 실행: python3 scripts/article-qc.py [--fix] [--report]
   --fix    : 자동 수정 가능한 항목 수정
@@ -201,6 +202,19 @@ def check_html_structure(html, post_title):
     md_count = len(re.findall(r'###|####', html))
     if md_count > 0:
         issues.append(f"⚠️ 마크다운 잔재 {md_count}개 (###/#### → <h3>/<h4> 변환 필요)")
+    
+    # Check for broken UTF-8 characters (U+FFFD)
+    broken_count = len(re.findall(r'[\ufffd]', html))
+    if broken_count > 0:
+        contexts = []
+        for m in re.finditer(r'[\ufffd]', html):
+            start = max(0, m.start() - 15)
+            end = min(len(html), m.end() + 15)
+            ctx = html[start:end].replace('\ufffd', '�')
+            contexts.append(f"  위치 {m.start()}: ...{ctx}...")
+        issues.append(f"❌ 깨진 문자(U+FFFD) {broken_count}개 발견 → 수동 수정 필요")
+        for ctx in contexts[:5]:
+            issues.append(ctx)
     
     return issues
 
@@ -398,18 +412,19 @@ def run_qc(fix=False):
         # Auto-fix HTML structure if needed
         if struct_issues and fix:
             new_html = html
+            broken_count_in_html = len(re.findall(r'[\ufffd]', html))
             
             # Fix 1: Remove duplicate title h2 (first h2 matching post title)
             if any('타이틀과 동일' in s for s in struct_issues):
                 title_text = post.get('title', '')
-                new_html = re.sub(rf'<h2[^>]*>{re.escape(title_text)}</h2>\s*', '', new_html, count=1)
+                new_html = re.sub(rf'<h2[^>]*>{re.escape(title_text)}</h2>\\s*', '', new_html, count=1)
                 print(f'     → 제목 중복 h2 제거')
             
             # Fix 2: Convert markdown ### → h3, #### → h4
             md_before = len(re.findall(r'###|####', new_html))
             if md_before > 0:
-                new_html = re.sub(r'<p>####\s+(.+?)</p>', r'<h4>\1</h4>', new_html)
-                new_html = re.sub(r'<p>###\s+(.+?)</p>', r'<h3>\1</h3>', new_html)
+                new_html = re.sub(r'<p>####\\s+(.+?)</p>', r'<h4>\\1</h4>', new_html)
+                new_html = re.sub(r'<p>###\\s+(.+?)</p>', r'<h3>\\1</h3>', new_html)
                 md_after = len(re.findall(r'###|####', new_html))
                 fixed_md = md_before - md_after
                 if fixed_md > 0:
@@ -425,6 +440,11 @@ def run_qc(fix=False):
                     return f'<p><strong>{content}</strong></p>'
                 new_html = re.sub(h2_pattern, convert_h2, html, flags=re.DOTALL)
             
+            # Fix broken UTF-8 chars (U+FFFD) in the same pass
+            if '\ufffd' in new_html:
+                new_html = new_html.replace('\ufffd', '')
+                print(f'     → 깨진 문자(U+FFFD) {broken_count_in_html}개 제거')
+            
             if new_html != html:
                 result = ghost_put(f'posts/{post_id}/?source=html', {
                     'posts': [{'html': new_html, 'updated_at': post.get('updated_at')}]
@@ -435,6 +455,20 @@ def run_qc(fix=False):
                     html = new_html
                 else:
                     print(f'     → ❌ 수정 실패: {json.dumps(result, ensure_ascii=False)[:100]}')
+        
+        # Fix broken UTF-8 separately (even without other structure issues)
+        if fix and '\ufffd' in html and not struct_issues:
+            broken_only = len(re.findall(r'[\ufffd]', html))
+            clean_html = html.replace('\ufffd', '')
+            result = ghost_put(f'posts/{post_id}/?source=html', {
+                'posts': [{'html': clean_html, 'updated_at': post.get('updated_at')}]
+            })
+            if result.get('posts'):
+                post_fixes.append(f"🆗 깨진 문자(U+FFFD) {broken_only}개 제거")
+                print(f'     → ✅ 깨진 문자 {broken_only}개 제거 완료')
+                html = clean_html
+            else:
+                print(f'     → ❌ 수정 실패: {json.dumps(result, ensure_ascii=False)[:100]}')
         
         # 5. Topic Overlap Check (only for recent posts)
         if published >= three_days_ago:

@@ -29,13 +29,108 @@
 
 **목적:** 내용 부족한 기사 발행 방지 (2026-03-05의 LG 기사처럼 3000자 미만 쓰레기 내용 거부)
 
-### 1. 교열 완료 파일 확인
+### 1. 품질관리 검증 (⭐ 필수 — 발행 전 반드시 통과)
+
+아래 4가지 검증을 순차 실행. **하나라도 실패 시 발행 중단.**
+
+#### 1-A. 국내/해외 태그 발행 검증
+**규칙:** `ghost_tags`에 `'국내'` 또는 `'해외'` 태그가 **반드시 포함**되어야 함.
+
+```javascript
+const regionTags = ['국내', '해외'];
+const hasRegionTag = draft.ghost_tags.some(t => regionTags.includes(t));
+
+if (!hasRegionTag) {
+  // region 필드 기반으로 자동 추가
+  if (draft.region === 'korea') {
+    draft.ghost_tags.push('국내');
+  } else {
+    draft.ghost_tags.push('해외');
+    // + 지역 태그 자동 추가 (region 값 매핑)
+    const regionMap = {
+      'us': '미국', 'usa': '미국',
+      'eu': '유럽', 'europe': '유럽',
+      'cn': '중국', 'china': '중국',
+      'jp': '일본', 'japan': '일본',
+      'uk': '영국',
+      'sea': '동남아', 'southeast_asia': '동남아',
+      'in': '인도', 'india': '인도',
+      'au': '호주', 'australia': '호주',
+      'ca': '캐나다', 'canada': '캐나다',
+      'il': '이스라엘', 'israel': '이스라엘',
+    };
+    const regionLabel = regionMap[draft.region?.toLowerCase()] || null;
+    if (regionLabel && !draft.ghost_tags.includes(regionLabel)) {
+      draft.ghost_tags.push(regionLabel);
+    }
+  }
+  console.log('✅ 국내/해외 태그 자동 추가 완료:', draft.ghost_tags);
+}
+```
+
+**누락 시:** region 필드 기반 자동 추가 후 계속 진행 (거부 아님)
+
+#### 1-B. 타이틀 길이 검증
+**규칙:** `headline`이 **30자 초과** 시 `rejected` 처리
+
+```javascript
+if (draft.headline.length > 30) {
+  console.error(`❌ 타이틀 길이 초과: ${draft.headline.length}자 (최대 30자)`);
+  // → rejected/ 이동
+  // → 발행 중단
+  throw new Error(`Headline too long: ${draft.headline.length} chars (max 30)`);
+}
+```
+
+**실패 시:** 기사를 `rejected/` 디렉토리로 이동, 발행 중단
+
+#### 1-C. 영문 타이틀 검증
+**규칙:** `headline`에 **영문 5단어 이상** 포함 시 `rejected` 처리 (한국어 타이틀 필요)
+
+```javascript
+const englishWords = draft.headline.match(/[a-zA-Z]+/g);
+const englishWordCount = englishWords ? englishWords.length : 0;
+
+if (englishWordCount >= 5) {
+  console.error(`❌ 영문 타이틀 감지: ${englishWordCount}개 영문 단어 (한국어 타이틀 필요)`);
+  // → rejected/ 이동
+  // → 발행 중단
+  throw new Error(`English headline detected: ${englishWordCount} English words (Korean title required)`);
+}
+```
+
+**실패 시:** 기사를 `rejected/` 디렉토리로 이동, 발행 중단
+
+#### 1-D. "AI 교육 관련 최신 동향:" 포함 검증
+**규칙:** `headline`에 `"AI 교육 관련 최신 동향:"` 포함 시 `rejected` → **copy-edit 단계로 반환**
+
+```javascript
+if (draft.headline.includes('AI 교육 관련 최신 동향:')) {
+  console.error('❌ 금지 프레이즈 감지: "AI 교육 관련 최신 동향:"');
+  // → rejected/ 이동 (사유: copy-edit 반환 필요)
+  // → copy-edit 단계로 반환 표시
+  throw new Error('Forbidden phrase in headline: requires copy-edit rework');
+}
+```
+
+**실패 시:** 기사를 `rejected/` 디렉토리로 이동 + 사유에 `"copy-edit 반환 필요"` 명시
+
+#### 품질검증 결과 요약
+
+| 검증 항목 | 기준 | 실패 시 처리 |
+|---|---|---|
+| 국내/해외 태그 | ghost_tags 포함 필수 | **자동 추가** 후 계속 |
+| 타이틀 길이 | ≤ 30자 | `rejected/` 이동 |
+| 영문 타이틀 | 영문 < 5단어 | `rejected/` 이동 |
+| 금지 프레이즈 | "AI 교육 관련 최신 동향:" 미포함 | `rejected/` 이동 + copy-edit 반환 |
+
+### 2. 교열 완료 파일 확인
 `07-copy-edited/`의 파일 읽기. 없으면 종료.
 
-### 2. Ghost 설정 로드
+### 3. Ghost 설정 로드
 `shared/config/ghost.json` 읽기
 
-### 3. 이미지 A+C 조합 자동 처리 (⭐ 필수, 실패 시 거부)
+### 4. 이미지 A+C 조합 자동 처리 (⭐ 필수, 실패 시 거부)
 
 **⚠️ 매우 중요: 이미지 없이 발행하지 말 것!**
 
@@ -87,7 +182,7 @@ if (!ogCardUrl) {
 ```
 Noto Sans CJK 폰트 사용 → 한국어 완벽 렌더링, 100% 고유 이미지
 
-### 3-B. HTML 발행 전 필수 정제 (⚠️ 중요)
+### 4-B. HTML 발행 전 필수 정제 (⚠️ 중요)
 
 copy_edit.final_html을 Ghost에 올리기 전 반드시 아래 항목 제거:
 
@@ -136,7 +231,7 @@ copy_edit.final_html을 Ghost에 올리기 전 반드시 아래 항목 제거:
 <!--kg-card-end: html-->
 ```
 
-### 4. JWT 토큰 생성
+### 5. JWT 토큰 생성
 Admin API Key 형식: `{id}:{secret}`
 ```javascript
 const [id, secret] = apiKey.split(':');
@@ -157,7 +252,7 @@ console.log(header+'.'+payload+'.'+sig);
 "
 ```
 
-### 4. Ghost 게시물 생성 (즉시 PUBLISHED)
+### 6. Ghost 게시물 생성 (즉시 PUBLISHED)
 
 **고등교육 여부 판단 (featured 설정용):**
 ```javascript
@@ -224,7 +319,7 @@ curl -s -X POST \
   -d '{...}'
 ```
 
-### 4-C. Ghost 저장 후 검증 (⭐ 신규)
+### 6-C. Ghost 저장 후 검증 (⭐ 신규)
 
 **Ghost에 저장한 후 반드시 다시 읽어서 검증:**
 
@@ -255,11 +350,11 @@ if (!savedPost.posts[0].html.includes('<!--kg-card-begin: html-->')) {
 - 원본 파일을 `rejected/`로 이동
 - 스캇에게 오류 보고: "Ghost encoding error - {기사명}"
 
-### 5. API 오류 처리
+### 7. API 오류 처리
 - 실패 시 최대 3회 재시도 (5초 간격)
 - 3회 후 실패: 파일에 에러 기록 + `rejected/`로 이동
 
-### 6. 결과 파일 저장
+### 8. 결과 파일 저장
 `08-published/`에 저장:
 ```json
 {
@@ -275,8 +370,8 @@ if (!savedPost.posts[0].html.includes('<!--kg-card-begin: html-->')) {
 }
 ```
 
-### 7. 스캇에게 보고
+### 9. 스캇에게 보고
 처리한 기사 제목과 Ghost 드래프트 URL 출력
 
-### 8. 원본 파일 삭제
+### 10. 원본 파일 삭제
 `07-copy-edited/`에서 처리한 파일 삭제

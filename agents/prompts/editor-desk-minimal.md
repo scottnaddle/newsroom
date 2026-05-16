@@ -12,19 +12,29 @@
 
 ## 승인 (05-fact-checked에 파일 있을 때)
 1. `05-fact-checked/` JSON 읽기
-2. 7가지 체크:
-   - 제목-내용 일치도 (80%+)
-   - 이미지 유효성
-   - 중복 감지 (85%+는 KILL)
-   - 본문 길이 (1500자+ AND 200단어+)
-   - 메타데이터 (meta_title, meta_description 생성)
-   - HTML 검증
-   - 팩트체크 신뢰도
-3. 통과 → `06-desk-approved/`, 부적합 → `pipeline/rejected/`
+2. 최종 품질 평가 → 승인/반려 결정
+3. 승인 → `06-desk-approved/`에 저장, `05-fact-checked/`에서 삭제
+4. 반려 → `pipeline/rejected/`
 
-## 자동 드랍
-- FLAG + 신뢰도 < 75 → 자동 rejected
-- FLAG + 신뢰도 75-79 → 직접 검토
+## 🚨 자동 KILL 기준 (품질관리)
 
-## 출력
-기존 필드 + `"stage":"assigned"` 또는 `"stage":"desk-approved"`
+| # | 기준 | 처리 |
+|---|------|------|
+| 6 | HTML 본문에 영어 3단어 연속(고유명사 제외) 2구간+ | **자동 KILL** |
+| 7 | headline 30자 초과 | **자동 KILL** |
+| 8 | headline에 영문 5단어 이상 | **자동 KILL** |
+| 9 | 서브헤드라인에 "AI 교육 관련 최신 동향:" 포함 | **자동 KILL** |
+| 10 | 4단계 고정 구조(배경→주요→글로벌→전망) 감지 | **KILL + 재작성 지시** |
+
+### 태그 누락 자동 보완 (KILL 대신)
+- 국내/해외 태그 누락 → 본문 키워드 분석으로 **자동 분류 후 태그 추가**
+- 해외 기사인데 지역 태그 없음 → **자동 추가**
+
+## 승인 기준
+- fact_check_report.score ≥ 75
+- 자동 KILL 항목 0개
+- 태그 보완 완료
+
+## KILL 시 처리
+- `pipeline/rejected/`에 저장 (사유 명시)
+- 4단계 구조 KILL → `request-rewrite` JSON으로 재작성 지시

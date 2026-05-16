@@ -145,16 +145,33 @@ async function publishPaper(filename, tagId) {
   console.log(`   제목: ${paper.ghost.headline.slice(0, 50)}...`);
 
   try {
+    // 리드 문단 추출 (타이틀 중복 방지)
+    const leadText = (() => {
+      const h = paper.ghost.html || '';
+      // <h2>한국어 요약</h2> 다음 <p> 내용 추출
+      const m = h.match(/<h2[^>]*>한국어 요약.*?<\/h2>\s*<p[^>]*>(.*?)<\/p>/is);
+      if (m) return m[1].replace(/<[^>]+>/g, '').replace(/&[a-z]+;/g, ' ').replace(/\s+/g, ' ').trim().substring(0, 120);
+      // Fallback: 첫 번째 <p> (blockquote 제외)
+      const body = h.replace(/<blockquote[^>]*>[\s\S]*?<\/blockquote>/gi, '');
+      const p = body.match(/<p[^>]*>(.*?)<\/p>/);
+      if (p) return p[1].replace(/<[^>]+>/g, '').replace(/&[a-z]+;/g, ' ').replace(/\s+/g, ' ').trim().substring(0, 120);
+      return '';
+    })();
+    const ghostExcerpt = paper.ghost.meta_description?.substring(0, 120) || leadText || '';
+    const ghostMetaDesc = paper.ghost.meta_description?.substring(0, 200) || leadText || '';
+
     // Prepare Ghost post
     const ghostPost = {
       posts: [{
         title: paper.ghost.headline,
         html: paper.ghost.html,
         status: 'published',
+        visibility: 'public',
         featured: false,
         tags: tagId ? [{ id: tagId }] : [{ name: 'AI Papers', slug: 'ai-papers' }],
         meta_title: paper.ghost.meta_title,
-        meta_description: paper.ghost.meta_description,
+        meta_description: ghostMetaDesc,
+        custom_excerpt: ghostExcerpt,
         feature_image: getFeatureImage(paper),
         feature_image_alt: paper.ghost.feature_image_alt || 'AI 교육 논문'
       }]

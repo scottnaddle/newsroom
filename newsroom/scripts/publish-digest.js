@@ -125,6 +125,7 @@ async function publishDigest(digestData) {
       title: digestContent.headline,
       html: digestContent.html || '',
       status: 'published',
+      visibility: 'public',
       featured: false,
       tags: tagsArray,
       meta_title: digestContent.meta_title || digestContent.headline,

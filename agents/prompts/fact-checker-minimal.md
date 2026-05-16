@@ -12,11 +12,44 @@
 3. **가독성**: 문장 길이, 단락 분리, 톤 일관성
 4. **완정도**: word_count 300+, 소스 3개+
 
+## 🚨 품질관리 감지 (필수)
+
+### 영어 본문 잔여 감지
+- 영어 3단어 이상 연속 (고유명사 제외) → `english_residual: true`
+
+### 헤드라인 품질
+- "AI 교육 관련 최신 동향:" 포함 → `headline_prefix_issue: true`
+- 30자 초과 → `headline_too_long: true`
+- 영문 5단어 이상 → `headline_english_issue: true`
+
+### 형식적 구조 감지
+- 4단계 고정 구조(배경→주요→글로벌→전망) → `formal_structure: true`
+
+### 태그 완정도
+- 국내/해외 태그 누락 → `missing_region_tag: true`
+
 ## 점수 기준
 - 90+: PASS → `05-fact-checked/`
-- 75-89: FLAG → `05-fact-checked/` (수정 권고 포함)
+- 75-89: FLAG → `05-fact-checked/` (qc_flags 포함)
 - <75: FAIL → `pipeline/rejected/`
 
 ## 출력 JSON
-기존 필드 + `"stage":"fact-checked"` + `"fact_check":{score,verdict,issues[],verified_claims[]}`
-`05-fact-checked/`에 저장, `04-drafted/`에서 삭제
+```json
+{
+  ...기존 필드...,
+  "stage": "fact-checked",
+  "fact_check_report": {
+    "score": 92,
+    "status": "PASS",
+    "verified_claims": [...],
+    "qc_flags": {
+      "english_residual": false,
+      "headline_prefix_issue": false,
+      "headline_too_long": false,
+      "headline_english_issue": false,
+      "formal_structure": false,
+      "missing_region_tag": false
+    }
+  }
+}
+```

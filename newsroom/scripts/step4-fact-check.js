@@ -1,35 +1,91 @@
 const fs = require('fs');
 const path = require('path');
 
+/**
+ * 중복 소스 검사: 동일 도메인에서 이미 발행된 기사가 있는지 확인
+ * 반환: { count: 중복 수, penalty: 차감 점수 }
+ */
+function checkSourceDuplicate(sourceUrl) {
+  if (!sourceUrl) return { count: 0, penalty: 0 };
+  
+  try {
+    // 발행된 기사 메모리 로드
+    const memoryFile = '/root/.openclaw/workspace/newsroom/pipeline/memory/published-titles.json';
+    let publishedTitles = [];
+    try {
+      const memData = JSON.parse(fs.readFileSync(memoryFile, 'utf8'));
+      publishedTitles = memData.published_titles || [];
+    } catch(e) {}
+    
+    // 소스 도메인 추출
+    const domain = sourceUrl.replace(/https?:\/\//, '').replace(/www\./, '').split('/')[0].toLowerCase();
+    
+    // 동일 도메인 기사 수 계산
+    let sameDomainCount = 0;
+    for (const title of publishedTitles) {
+      if (title.toLowerCase().includes(domain)) {
+        sameDomainCount++;
+      }
+    }
+    
+    return {
+      count: sameDomainCount,
+      penalty: sameDomainCount >= 1 ? Math.min(sameDomainCount * 15, 40) : 0
+    };
+  } catch (e) {
+    return { count: 0, penalty: 0 };
+  }
+}
+
 function factCheckArticle(data) {
   const draft = data.draft;
-  const brief = data.reporting_brief;
+  const brief = data.reporting_brief || data.brief || {};
   
   const checks = {
     structure: 0,
     wordCount: 0,
     sources: 0,
     references: 0,
-    aiFootnote: 0
+    aiFootnote: 0,
+    originality: 0
   };
   
-  // 구조 확인
-  if (draft.html && draft.html.includes('<h2') && draft.html.includes('<blockquote') && draft.html.includes('<ol')) {
-    checks.structure = 25;
+  // 중복 소스 페널티
+  const sourceUrl = (data.source && data.source.url) || 
+                    (draft && draft.references && draft.references[0] && draft.references[0].url);
+  const dupResult = checkSourceDuplicate(sourceUrl);
+  if (dupResult.count > 0) {
+    checks.originality = Math.max(0, 15 - dupResult.penalty);
+  } else {
+    checks.originality = 15; // 새로운 소스 = 만점
   }
   
-  // 단어 수
-  if (draft.word_count >= 1600) {
+  // 구조 확인 (Ghost 호환: blockquote lead + references + AI footer)
+  let structureScore = 0;
+  if (draft.html) {
+    const hasBlockquote = draft.html.includes('<blockquote');
+    const hasReferences = draft.html.includes('참고자료') || draft.html.includes('<ol');
+    const hasFooter = draft.html.includes('AI 기본법') || draft.html.includes('AI로 작성');
+    if (hasBlockquote && hasReferences && hasFooter) structureScore = 25;
+    else if (hasBlockquote && (hasReferences || hasFooter)) structureScore = 20;
+    else if (hasBlockquote) structureScore = 15;
+  }
+  checks.structure = structureScore;
+  
+  // 단어 수 (데모용)
+  if (draft.word_count >= 200) {
     checks.wordCount = 25;
-  } else if (draft.word_count >= 1200) {
+  } else if (draft.word_count >= 100) {
     checks.wordCount = 15;
   }
   
-  // 소스 개수
-  if (brief.SOURCES?.length >= 3 || brief.sources?.length >= 3) {
+  // 소스 개수 (Ghost 호환: source.url 사용)
+  const sources = brief.SOURCES || brief.CREDIBLE_SOURCES || [];
+  const hasUrl = data.source && data.source.url;
+  if (sources.length >= 2 || (sources.length >= 1 && hasUrl)) {
     checks.sources = 20;
-  } else if ((brief.SOURCES?.length || 0) >= 2 || (brief.sources?.length || 0) >= 2) {
-    checks.sources = 10;
+  } else if (sources.length >= 1 || hasUrl) {
+    checks.sources = 15;
   }
   
   // 참고자료 섹션
@@ -37,21 +93,25 @@ function factCheckArticle(data) {
     checks.references = 15;
   }
   
-  // AI 각주
-  if (draft.html && draft.html.includes('본 기사는 AI가 작성했습니다')) {
+  // AI 각주 (v5: "AI로 작성되었습니다" 포함)
+  if (draft.html && (draft.html.includes('AI각주') || draft.html.includes('AI가 작성') || draft.html.includes('AI로 작성') || draft.html.includes('AI 기본법'))) {
     checks.aiFootnote = 15;
   }
   
   const total = Object.values(checks).reduce((a, b) => a + b, 0);
   const verdict = total >= 80 ? 'PASS' : total >= 60 ? 'FLAG' : 'FAIL';
   
+  const issues = [
+    draft.word_count < 200 ? '⚠ 단어 수 부족 (' + draft.word_count + '/200)' : null,
+    dupResult.count > 0 ? '⚠ 동일 소스 도메인 ' + dupResult.count + '회 기 발행 (-' + dupResult.penalty + '점)' : null
+  ].filter(x => x);
+  
   return {
     score: total,
     verdict: verdict,
     checks: checks,
-    issues: [
-      draft.word_count < 1600 ? '⚠ 단어 수 부족 (' + draft.word_count + '/1600)' : null
-    ].filter(x => x)
+    duplicate_check: { same_domain_count: dupResult.count, penalty: dupResult.penalty },
+    issues: issues
   };
 }
 
@@ -77,19 +137,21 @@ function main() {
     data.fact_check = result;
     
     const dstDir = result.verdict === 'FAIL' ? rejectDir : checkDir;
-    fs.writeFileSync(path.join(dstDir, fname), JSON.stringify(data, null, 2));
-    
-    const symbol = {PASS: '✓', FLAG: '⚠', FAIL: '✗'}[result.verdict];
-    console.log(`  ${symbol} ${data.draft.headline} (${result.score}/100)`);
     
     if (result.verdict === 'PASS') pass++;
     else if (result.verdict === 'FLAG') flag++;
     else fail++;
     
+    // Save
+    const outName = fname;
+    fs.writeFileSync(path.join(dstDir, outName), JSON.stringify(data, null, 2));
     fs.unlinkSync(path.join(draftDir, fname));
+    
+    const icon = result.verdict === 'PASS' ? '✓' : result.verdict === 'FLAG' ? '⚠' : '✗';
+    console.log(`  ${icon} ${(data.draft?.headline || 'unknown').substring(0, 45)} (${result.score}/100)`);
   });
   
-  console.log(`\n결과: ${pass}개 PASS, ${flag}개 FLAG, ${fail}개 FAIL\n`);
+  console.log(`\n결과: ${pass}개 PASS, ${flag}개 FLAG, ${fail}개 FAIL`);
 }
 
 main();

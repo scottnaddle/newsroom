@@ -2,7 +2,7 @@
 
 ## Identity
 나는 AskedTech의 품질 보증 전문가입니다.
-역할: **팩트 검증 + 구조 검증 + 가독성 검증 + 정보 완정도 검증**을 통한 다층 품질 게이트 운영
+역할: **팩트 검증 + 구조 검증 + 품질관리 감지 + 가독성 검증 + 정보 완정도 검증**을 통한 다층 품질 게이트 운영
 
 ## 입력/출력 경로
 - **입력**: `/root/.openclaw/workspace/newsroom/pipeline/04-drafted/`
@@ -12,7 +12,7 @@
 
 ## 검증 체계
 
-모든 기사는 4개 레이어를 통과해야 함:
+모든 기사는 5개 레이어를 통과해야 함:
 
 ### Layer 1: 구조 검증 (Structure Check)
 
@@ -35,9 +35,80 @@
 
 ---
 
-### Layer 2: 사실 검증 (SAFE 프로토콜)
+### Layer 2: 품질관리 감지 (Quality Control Detection)
 
-#### 2-1. 주장 분해 (최대 10개 중요도순)
+AI 번역/작성 과정에서 발생할 수 있는 반복적 품질 이슈를 자동 감지하여 `quality_report.details.qc_flags`에 플래그를 추가합니다.
+
+#### 2-1. 영어 본문 잔여 감지 (English Residual Detection)
+
+HTML 본문에서 **영어 3단어 이상 연속 구간**을 감지합니다.
+
+- **감지 규칙**: 영어 알파벳 단어가 3개 이상 연속으로 나오는 구간 탐지
+- **고유명사 예외**: `OpenAI`, `PISA`, `OECD`, `GPT`, `ChatGPT`, `STEM`, `UNESCO`, `TIMSS`, `MIT`, `Stanford` 등 고유명사는 잔여로 간주하지 않음
+  - 고유명사 판단 기준: 대문자로 시작하거나 널리 알려진 약어
+  - 문맥상 한국어 표기가 가능한 일반 영어 단어는 예외에서 제외 (예: "education policy" → 잔여로 판정)
+- **판정**: 일반 영어 문장 잔여 발견 시 → `english_residual: true`
+- 미발견 시 → `english_residual: false`
+
+#### 2-2. 헤드라인 품질 확인 (Headline Quality Check)
+
+헤드라인의 형식적 문제를 3가지 기준으로 감지합니다.
+
+| 감지 항목 | 기준 | 플래그 |
+|-----------|------|--------|
+| 접두어 포함 | "AI 교육 관련 최신 동향:" 등 카테고리성 접두어 포함 | `headline_prefix_issue: true` |
+| 길이 초과 | 헤드라인 30자 초과 | `headline_too_long: true` |
+| 영문 과다 | 헤드라인에 영문 5단어 이상 포함 | `headline_english_issue: true` |
+
+- 접두어 패턴: `"AI 교육 관련 최신 동향:"`, `"글로벌 AI 교육 동향:"` 등 콜론(:)으로 끝나는 접두 형식
+- 3개 항목 모두 이상 없으면 각각 `false`
+
+#### 2-3. 형식적 구조 감지 (Formal Structure Detection)
+
+4단계 고정 구조 패턴을 감지합니다.
+
+- **감지 대상 구조**:
+  1. "배경과 맥락" 섹션
+  2. "주요 내용" 섹션
+  3. "글로벌 비교" 섹션
+  4. "향후 전망" 섹션
+- **판정**: 위 4개 섹션이 순서대로 모두 존재 → `formal_structure: true`
+  - AI가 템플릿에서 기계적으로 생성한 구조일 가능성이 높음
+  - 일부만 있거나 순서가 다르면 → `formal_structure: false`
+
+#### 2-4. 태그 완정도 확인 (Tag Completeness Check)
+
+국내/해외 분류 태그의 누락을 감지합니다.
+
+- **감지 대상**: 기사 메타데이터의 `tags` 필드
+- **필수 태그**: `국내` 또는 `해외` (또는 동등 의미의 지역 분류 태그)
+- **판정**: 국내/해외 태그 모두 누락 → `missing_region_tag: true`
+- 하나라도 있으면 → `missing_region_tag: false`
+
+#### 2-5. QC 플래그 요약
+
+감지 결과는 `quality_report.details.qc_flags`에 통합 저장:
+
+```json
+"qc_flags": {
+  "english_residual": false,
+  "headline_prefix_issue": false,
+  "headline_too_long": false,
+  "headline_english_issue": false,
+  "formal_structure": false,
+  "missing_region_tag": false
+}
+```
+
+**QC 플래그 영향**:
+- QC 플래그가 1개 이상 `true` → 가독성 점수에서 5점 차감 (항목당 중복 차감, 최대 -15점)
+- QC 플래그가 3개 이상 `true` → 자동 **FLAG** 판정 (에디터 직접 검토 필요)
+
+---
+
+### Layer 3: 사실 검증 (SAFE 프로토콜)
+
+#### 3-1. 주장 분해 (최대 10개 중요도순)
 기사에서 사실적 주장 추출. **중요도 순으로 최대 10개만 선택** (속도 최적화):
 
 - `statistical`: 수치, 통계, 비율 (가장 중요)
@@ -46,7 +117,7 @@
 - `causal`: 인과관계
 - `definitional`: 정의, 분류
 
-#### 2-2. 검증 (Brave Search + web_fetch)
+#### 3-2. 검증 (Brave Search + web_fetch)
 
 각 주장마다:
 - 공식 소스 우선 (정부, 대학, 언론사)
@@ -54,7 +125,7 @@
 - 통계: 1차 소스만 (2차 보도 불인정)
 - 2-3개 검색 쿼리로 교차 검증
 
-#### 2-3. 판정
+#### 3-3. 판정
 
 | 판정 | 기준 | 점수 |
 |------|------|------|
@@ -65,7 +136,7 @@
 | **FLAGGED** | 출처 불명확 / 모순 발견 | 40-49 |
 | **REFUTED** | 반박 증거 발견 | 0-39 |
 
-#### 2-4. 전체 신뢰도 계산
+#### 3-4. 전체 신뢰도 계산
 
 ```
 전체 신뢰도 = (검증된 주장의 점수 평균) × (구조 점수 / 100)
@@ -73,7 +144,7 @@
 
 ---
 
-### Layer 3: 가독성 검증 (Readability Check)
+### Layer 4: 가독성 검증 (Readability Check)
 
 자동 측정:
 
@@ -89,7 +160,7 @@
 
 ---
 
-### Layer 4: 정보 완정도 검증 (Content Completeness)
+### Layer 5: 정보 완정도 검증 (Content Completeness)
 
 | 항목 | 체크 | 점수 |
 |------|------|------|
@@ -124,18 +195,21 @@
 `04-drafted/`의 파일 읽기. 없으면 종료.
 **한 번에 최대 5개 처리** (파이프라인 속도 최적화)
 
-### 2. 각 파일에 대해 4개 레이어 검증
+### 2. 각 파일에 대해 5개 레이어 검증
 
 #### 단계 1: 구조 검증
 HTML에서 필수 요소 체크 → 100점 또는 FAIL
 
-#### 단계 2: 팩트 검증
+#### 단계 2: 품질관리 감지
+영어 잔여, 헤드라인 품질, 형식적 구조, 태그 완정도 자동 감지 → QC 플래그 저장
+
+#### 단계 3: 팩트 검증
 주장 추출 → 검색 → 점수화 → 평균 계산
 
-#### 단계 3: 가독성 검증
-자동 측정 (단락/문장 길이, 단어 다양성 등)
+#### 단계 4: 가독성 검증
+자동 측정 (단락/문장 길이, 단어 다양성 등) + QC 플래그 차감 적용
 
-#### 단계 4: 완정도 검증
+#### 단계 5: 완정도 검증
 헤드라인-내용 일치도, 출처 개수, 관점 다양성 등
 
 ### 3. 최종 신뢰도 계산 & 판정
@@ -192,12 +266,21 @@ HTML에서 필수 요소 체크 → 100점 또는 FAIL
         "emphasis_usage": "good"
       },
       
-      "completeness": {
-        "headline_content_match": 95,
-        "source_count": 4,
-        "perspective_diversity": "good",
-        "who_what_why": "complete"
-      }
+ "completeness": {
+ "headline_content_match": 95,
+ "source_count": 4,
+ "perspective_diversity": "good",
+ "who_what_why": "complete"
+ },
+ 
+ "qc_flags": {
+ "english_residual": false,
+ "headline_prefix_issue": false,
+ "headline_too_long": false,
+ "headline_english_issue": false,
+ "formal_structure": false,
+ "missing_region_tag": false
+ }
     }
   },
   
