@@ -360,8 +360,30 @@ function getWho(title, url, region) {
   return `${regionLabels[region] || '글로벌'} 교육 관계자 및 전문가`;
 }
 
+// ✅ Freshness check: reject sources older than 6 months or unknown date
+function isSourceFresh(sourceDateStr) {
+  if (!sourceDateStr || sourceDateStr === '최근') return true;  // Conservative: unknown date → keep
+  
+  // Parse various date formats
+  let srcDate;
+  // ISO format: 2025-07-24T00:00:00 or 2025-07-24
+  if (/^\d{4}-\d{2}-\d{2}/.test(sourceDateStr)) {
+    srcDate = new Date(sourceDateStr.substring(0, 10));
+  } else {
+    srcDate = new Date(sourceDateStr);
+  }
+  
+  if (isNaN(srcDate.getTime())) return false;
+  
+  const sixMonthsAgo = new Date();
+  sixMonthsAgo.setMonth(sixMonthsAgo.getMonth() - 6);
+  
+  return srcDate >= sixMonthsAgo;
+}
+
 // Main processing
 let savedCount = 0;
+let rejectedCount = 0;
 
 for (const {file: sourceFile, dir: inputDir} of allInputFiles) {
  try {
@@ -370,6 +392,21 @@ for (const {file: sourceFile, dir: inputDir} of allInputFiles) {
    const source = sourceData.source || sourceData.assignment || sourceData;
    const region = sourceData.region || 'korea';
    const label = regionLabels[region] || '글로벌';
+
+   // ✅ Source freshness validation
+   const sourceDate = source.date;
+   if (!isSourceFresh(sourceDate)) {
+     console.log(`  ⏭️ [오래된 소스 SKIP] [${label}] ${source.title ? source.title.substring(0, 50) : 'No title'}... (날짜: ${sourceDate || '알 수 없음'})`);
+     // Save rejected source for audit
+     const rejectDir = 'pipeline/rejected';
+     if (!fs.existsSync(rejectDir)) fs.mkdirSync(rejectDir, { recursive: true });
+     sourceData.stage = 'rejected-old-source';
+     sourceData.reject_reason = `Source date ${sourceDate || 'unknown'} is older than 6 months or unverifiable`;
+     fs.writeFileSync(`${rejectDir}/${sourceData.id}.json`, JSON.stringify(sourceData, null, 2));
+     fs.unlinkSync(sourcePath);
+     rejectedCount++;
+     continue;
+   }
 
    // ✅ New: Article-centric reporting brief
    const brief = {
@@ -410,4 +447,4 @@ for (const {file: sourceFile, dir: inputDir} of allInputFiles) {
  }
 }
 
-console.log(`STEP 2 완료: ${savedCount}개 기사 취재 완료 (01-sourced → 03-reported)`);
+console.log(`STEP 2 완료: ${savedCount}개 취재 완료 (01-sourced → 03-reported), ${rejectedCount}개 오래된 소스 제외 (→ rejected/)`);
